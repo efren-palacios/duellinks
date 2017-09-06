@@ -38,7 +38,8 @@ Below I will show you all the cards, combos, plays, tricks, and match-ups to hel
 
 I hope you guys enjoy the breakdown below!
 
-{% include ninjadecklist.html %}
+{% include cardlist.html deck=site.data.ninjas %}
+
 
 
 ### Closing Statement 

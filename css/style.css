@@ -12,7 +12,16 @@ body {
 }
 
 hr {
-  border-color:#007bff;
+  border-color:#141e30;
+  border: 1px solid #141e30;
+}
+
+.cards {
+  background-color: #141e30;
+  padding: .75rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color:white;
 }
 
 p img {
@@ -20,7 +29,7 @@ p img {
   display:block;
 }
 
-h2.title {
+h2.title, h3.title {
   color: #007bff;
   text-align: center;
 }

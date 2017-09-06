@@ -1,0 +1,19 @@
+<div class="col-12 cards">
+    <div class="row">
+        <div class="col-sm-2">Name</div>
+        <div class="col-sm">Effect / How to Obtain</div>
+        <div class="col-sm">Why</div>
+    </div>
+</div>
+
+{% for item in include.deck %}
+<div class="col-12">
+    <div class="row">
+        <div class="col-sm-2 text-center"><p>{{item.name}}</p><img class="img-fluid" src="{{item.image}}" /></div>
+        <div class="col-sm"><br><p>{{item.description | regex: /\*\*(.*?)\*\*/, '<b>$1</b>'}}</p> <p class="set"><b>Set:</b> {{item.set}}</p></div>
+        <div class="col-sm">{{item.why}}</div>
+    </div>
+</div>
+
+<hr />
+{% endfor %}
