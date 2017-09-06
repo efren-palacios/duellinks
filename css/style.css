@@ -1,0 +1,97 @@
+@import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
+
+body {
+  background: #141E30;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
+hr {
+  border-color:#007bff;
+}
+
+p img {
+  margin: auto;
+  display:block;
+}
+
+h2.title {
+  color: #007bff;
+  text-align: center;
+}
+
+.navbar {
+  border: 1px solid transparent;
+  box-shadow: 0 0 10px 0 black;
+  background-color: #141E30;
+}
+
+.fa-bars {
+  color: #007bff;
+}
+
+button:focus {
+  outline: 5px auto #007bff;
+}
+
+li {
+  font-weight: 600;
+}
+
+.hero {
+  margin-top: 60px;
+  position: static;
+}
+
+.card {
+  border-radius: 2px;
+  background-color: rgba(8, 13, 120, 0.05) !important;
+  box-shadow: 0 0 2px 0 black;
+  margin-bottom: 20px;
+}
+
+.card-block {
+  margin: 10px;
+}
+
+.footer {
+  border: 2px solid transparent;
+  box-shadow: 0 0 20px 0 black;
+  background-color: #141E30;
+  padding: 15px 20px 0 20px;
+}
+
+.zoom {
+  position: relative;
+  overflow: hidden;
+}
+
+.zoom:hover img {
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1)
+}
+
+.zoom img {
+  transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+}
+
+.card-block a:hover {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 768px) {
+
+  .hero {
+    margin-top: 50px;
+    position: static;
+  } 
+
+}
