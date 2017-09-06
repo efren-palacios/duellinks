@@ -9,8 +9,8 @@
 {% for item in include.deck %}
 <div class="col-12">
     <div class="row">
-        <div class="col-sm-2 text-center"><p>{{item.name}}</p><img class="img-fluid" src="{{item.image}}" /></div>
-        <div class="col-sm"><br><p>{{item.description | regex: /\*\*(.*?)\*\*/, '<b>$1</b>'}}</p> <p class="set"><b>Set:</b> {{item.set}}</p></div>
+        <div class="col-sm-2 text-center"><p><b>{{item.name}}</b></p><img class="img-fluid" src="{{item.image}}" style="margin-bottom: 1rem;" /></div>
+        <div class="col-sm"><p>{{item.description}}</p> <p class="set"><b>Set:</b> {{item.set}}</p></div>
         <div class="col-sm">{{item.why}}</div>
     </div>
 </div>

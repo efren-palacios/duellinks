@@ -47,5 +47,19 @@
       "set": "WTG: Mai Valentine level 25 Reward [R]",
       "image": "https://i.imgur.com/I79aoZO.png",
       "why": "Still one of the best defensive/offensive cards in the game! Universal application, unlike curse of Anubis, you can hit everything and also, change defense monsters into attack position for some offense. Its mandatory, because it gives you protection in case something doesn’t go your way."
+  },
+  {
+      "name": "Ninjitsu Art of Shadow Sealing",
+      "description": "Tribute 1 \"Ninja\" monster to target 1 monster your opponent controls; banish that target. While that card is banished, its Monster Card Zone cannot be used. When this face-up card leaves the field: Return the card banished by this effect to the same Monster Card Zone, in the same battle position.",
+      "set": "WTG: Dawn of Destiny [N]",
+      "image": "https://i.imgur.com/V3sJVJ4.png",
+      "why": "Quite honestly the effect isn’t worth the cost, but its BDN fuel as well. It can be good in some situation such as “Armed Ninja” as a tribute, just to pin away a Red Eyes or a Toon Barrel Dragon. I only ran 1 because I don’t think an additional one will offer much value over the other cards."
+  },
+  {
+      "name": "Ninjitsu Art of Duplication",
+      "description": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.",
+      "set": "WTG: Electric Overload [N]",
+      "image": "https://i.imgur.com/mSMwfut.png",
+      "why": "The second most important trap in the deck! Much like transformation, this card allows you to go into many different combos (which I’ll explain later). It helps you get your multiple attack, dodge, and find answers to different situations. You need 3 of these cards, because it is your 2nd set of transformation. Lucky it’s an N."
   }
 ]
