@@ -163,7 +163,7 @@ So, I’m taking a slightly different approach in explaining the good/bad match-
 
 I want to first thank all the readers whom have made it this far into the guide/breakdown. I wanted to explain in detail the power of the ninja deck, because it can easily be misunderstood due to the complex options it provides.
 No other deck is like the ninja right now. In my conversation with fellow discord member, itsyoboyeden, we hit on a unique description of 3SD ninjas: 
-To play Ninja at its best, YOU need to be at 100%, because the ninja deck is so sideway and unique, covering a multitude of decks. Depending on the match-up, you can slow-roll, burst, or a mix of both. Most decks do not have that many gears, that many options. A lot of players cannot handle all the options.
+- To play Ninja at its best, YOU need to be at 100%, because the ninja deck is so sideway and unique, covering a multitude of decks. Depending on the match-up, you can slow-roll, burst, or a mix of both. Most decks do not have that many gears, that many options. A lot of players cannot handle all the options.
 I am still learning about the ninja deck…that’s the crazy part. There is endless number of combos and out. You need to understand what options you have, to play it correctly. AND as more cards get released, whether it be ninja cards or certain winged-beast/beast/insect cards, the more complex ninjas can be.
 This is one of the top decks that is growing as the pool of cards is growing. A lot of decks die by the way-side as more cards get released. This is not one of them. They are still one of the most entertaining, powerful, and interesting archetype after 2 seasons. I hope it will stay that way for many seasons to come.
 
