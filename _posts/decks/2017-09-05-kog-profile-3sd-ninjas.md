@@ -2,7 +2,7 @@
 layout: blog
 title: KoG Report Ninjas
 meta: KoG Profile 3-Star Demotion Ninjas
-category: Decks
+categories: decks
 image: https://i.imgur.com/eb8vw4h.png
 author: Kazin_X
 date: 2017-9-5 23:56:00 -0600
@@ -71,21 +71,9 @@ If you are ready, proceed below…
 ### **Kazin’s Favorite Combo**
 
 So you have **BDN in hand, with 3 TRAPS! 1 Trans, 2 Dup or 2 Trans, 1 Dup (either works).** You go first, and you 3SD summon BDN and set the three traps. Your opponent does whatever they do here, for the sake of the example, they set one face-down monster and 2 set spells/traps. A pretty standard response to your BDN. Here what you do when your opponent ends their turn.
-<br>
 
-<div class="col-12">
-<div class="row align-items-center">
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/UmasmfV.jpg"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/mSMwfut.png"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/7Huc0YB.jpg"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/2qtpbxY.jpg"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/2qtpbxY.jpg"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/mSMwfut.png"></div>
-<div class="col-sm-1 col-12 text-center"><img class="img-fluid" src="https://i.imgur.com/UmasmfV.jpg"></div>
-</div>
-</div>
+<img src="https://i.imgur.com/yg44vLk.png" class="img-fluid" style="width: 350px;">
 
-<br>
 
 By setting a monster, they sealed their fate. At the end of their turn, activate duplication into RDN and AN. RDN will spin back the face-down monster they have to the deck, leaving the field open now. 
 
@@ -124,22 +112,25 @@ Misc. Combos for situation and Key Notes:
 
 ## Frequently Asked Questions:
 
--	How come my RDN has miss timing activation when I summon it?
+How come my RDN has miss timing activation when I summon it?
 
-&#10004;	If you summoned RDN during a chain, in which him being summoned is NOT the last thing that happens. His condition of “when this card is summoned” does not meet. Hence you don’t get the effect.
+- &#10004;	If you summoned RDN during a chain, in which him being summoned is NOT the last thing that happens. His condition of “when this card is summoned” does not meet. Hence you don’t get the effect.
 
--	But what about when I use BDN to banish RDN, he gets its effect even though its summoned in a chain!?
+But what about when I use BDN to banish RDN, he gets its effect even though its summoned in a chain!?
 
-&#10004;	Right, but BDN effect resolves before RDN hits the board. RDN isn’t summoned yet, its chaining to the selection of RDN. 
--	What if I use BDN effect to see the trap card attracted to him (dup or trans) and then send 1 other ninja monster that’s not BDN, can I banish BDN?
+- &#10004;	Right, but BDN effect resolves before RDN hits the board. RDN isn’t summoned yet, its chaining to the selection of RDN. 
 
-&#10004;	Nope, BDN will leave the field as soon as you send that attached trap card onto him. Don’t make that mistake
--	Does this deck brick a lot? You seem to have a lot of high level monster and what if you never get a trap?
+What if I use BDN effect to see the trap card attracted to him (dup or trans) and then send 1 other ninja monster that’s not BDN, can I banish BDN?
 
-&#10004;	Be patient, you have like 7 traps, you will draw into one. If no monster, letting a playable ninja like sasuke or armed ninja die for RDN plays next turn is fine.
--	Have you considered XYZ version of this deck, running ABC cards?
+- &#10004;	Nope, BDN will leave the field as soon as you send that attached trap card onto him. Don’t make that mistake
 
-&#10004;	I’ve tested a lot of different version, I like this one the most. But if you have a fresh idea, feel free to find me on Duel Links Meta Discord or Reddit.
+Does this deck brick a lot? You seem to have a lot of high level monster and what if you never get a trap?
+
+- &#10004;	Be patient, you have like 7 traps, you will draw into one. If no monster, letting a playable ninja like sasuke or armed ninja die for RDN plays next turn is fine.
+
+Have you considered XYZ version of this deck, running ABC cards?
+
+- &#10004;	I’ve tested a lot of different version, I like this one the most. But if you have a fresh idea, feel free to find me on Duel Links Meta Discord or Reddit.
 
 ## Matchups
 

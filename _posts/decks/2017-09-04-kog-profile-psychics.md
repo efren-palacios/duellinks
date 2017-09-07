@@ -2,7 +2,7 @@
 layout: blog
 title: Kog Report Psychics
 meta: King of Games Report Psychics
-category: Decks
+categories: decks
 image: https://i.imgur.com/cm2IGvn.png
 author: Hot Dolphin
 date: 2017-9-5 23:56:00 -0600

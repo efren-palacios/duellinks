@@ -9,17 +9,31 @@
               <li class="nav-item active">
                   <a class="nav-link active" href="{{site.url}}/index.html">Home</a>
                 </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">Top Decks</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      KoG Decks
+                    </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    {% for card in site.categories.decks %}
+                    <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                    {% endfor %}
+                  </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                      Entertainment
+                    </a>
+                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    {% for card in site.categories.entertainment %}
+                    <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                    {% endfor %}
+                  </div>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Meta Championship #1</a>
+                  <a class="nav-link disabled" href="#">Discord</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Discord</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#">About</a>
+                  <a class="nav-link disabled" href="#">About</a>
                 </li>
             </li>
           </ul>
