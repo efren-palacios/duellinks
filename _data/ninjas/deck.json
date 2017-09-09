@@ -1,6 +1,7 @@
   [
   {
       "name": "Sphere Kuriboh",
+      "amount": "2",
       "description": "When an opponent’s monster declares an attack: You can send this card from your hand to the GY; Change the attacking monster to Defense Position. When you Ritual Summon a monster, you can Banish this card from your Graveyard as 1 of the Monsters required for the Ritual Summon.",
       "set": "WTG: Ultimate Rising Pack [UR]",
       "image": "https://i.imgur.com/wS1cCB8.png",
@@ -8,6 +9,7 @@
   },
   {
       "name": "Ninja Grandmaster Sasuke",
+      "amount": "2",
       "description": "At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.",
       "set": "WTG: Electro Overload Pack [SR]",
       "image": "http://i.imgur.com/suM8Rnv.png",
@@ -15,6 +17,7 @@
   },
   {
       "name": "Black Dragon Ninja",
+      "amount": "3",
       "description": "Cannot be Special Summoned, except with the effect of a “Ninja” monster or “Ninjitsu Art” card. Once per turn, during either player’s turn: you can send 1 “Ninja” monster and 1 “Ninjitsu Art” card from your hand and/or face-up from your field to the GY, then target 1 monster on the field: banish it. If This face-up card leaves the field: Special Summon as many monsters banished by this card’s effect as possible to their owner’s field(s).",
       "set": "WTG: Electro Overload Pack [R]",
       "image": "https://i.imgur.com/UmasmfV.jpg",
@@ -22,6 +25,7 @@
   },
   {
       "name": "Red Dragon Ninja",
+      "amount": "3",
       "description": "When this card is Summoned: You can banish 1 \"Ninja\" or \"Ninjitsu Art\" card from your Graveyard to target 1 Set card your opponent controls; reveal that Set card, then return it to either the top or bottom of the Deck. Your opponent cannot activate the targeted card in response to this effect's activation. You can only use the effect of \"Red Dragon Ninja\" once per turn.",
       "set": "WTG: Dawn of Destiny [R]",
       "image": "https://i.imgur.com/2qtpbxY.jpg",
@@ -29,6 +33,7 @@
   },
   {
       "name": "Armed Ninja",
+      "amount": "2",
       "description": "FLIP: Target 1 Spell Card on the field; destroy that target. (If the target is Set, reveal it, and destroy it if it is a Spell Card. Otherwise, return it to its original position.)",
       "set": "WTG: All legendary duelists level 30 or less",
       "image": "https://i.imgur.com/7Huc0YB.jpg",
@@ -36,6 +41,7 @@
   },
   {
       "name": "Ninjitsu Art of Transformation",
+      "amount": "3",
       "description": "Activate this card by Tributing 1 face-up \"Ninja\" monster; Special Summon 1 Beast, Winged Beast, or Insect-Type monster from your hand or Deck whose Level is less than or equal to the Level the Tributed monster had on the field +3. When this card leaves the field, destroy that monster.",
       "set": "WTG: Electric Overload [UR]",
       "image": "https://i.imgur.com/XexQmRd.png",
@@ -43,6 +49,7 @@
   },
   {
       "name": "Windstorm of Etaqua",
+      "amount": "1",
       "description": "Change the battle positions of all face-up monsters your opponent controls.",
       "set": "WTG: Mai Valentine level 25 Reward [R]",
       "image": "https://i.imgur.com/I79aoZO.png",
@@ -50,6 +57,7 @@
   },
   {
       "name": "Ninjitsu Art of Shadow Sealing",
+      "amount": "1",
       "description": "Tribute 1 \"Ninja\" monster to target 1 monster your opponent controls; banish that target. While that card is banished, its Monster Card Zone cannot be used. When this face-up card leaves the field: Return the card banished by this effect to the same Monster Card Zone, in the same battle position.",
       "set": "WTG: Dawn of Destiny [N]",
       "image": "https://i.imgur.com/V3sJVJ4.png",
@@ -57,6 +65,7 @@
   },
   {
       "name": "Ninjitsu Art of Duplication",
+      "amount": "3",
       "description": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.",
       "set": "WTG: Electric Overload [N]",
       "image": "https://i.imgur.com/mSMwfut.png",

@@ -8,6 +8,6 @@ image: https://orig07.deviantart.net/476b/f/2011/214/2/3/red_eyes_zombie_dragon_
 ---
 
 {% include decklabel.html %}
-{% for item in site.data.dragons.deck %}
+{% for item in site.data.ninjas.deck %}
 {% include decklist.html cardname=item %}
 {% endfor %}

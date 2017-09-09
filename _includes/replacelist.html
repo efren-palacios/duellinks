@@ -1,12 +1,10 @@
 
-{% for item in include.replacement %}
 <div class="col-12">
   <div class="row">
-      <div class="col-sm-2 text-center"><p><b>{{item.name}}</b></p><img class="img-fluid" src="{{item.image}}" style="margin-bottom: 1rem;" /></div>
+      <div class="col-sm-2 text-center"><p><b>{{include.replacement.name}}</b></p><img class="img-fluid" src="http://yugiohprices.com/api/card_image/{{include.replacement.name}}" style="margin-bottom: 1rem;" /></div>
     <div class="col-sm-8 col-12">
-{{item.reason}}
+{{include.replacement.reason}}
     </div>
   </div>
 </div>
 <hr />
-{% endfor %}

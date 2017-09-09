@@ -38,14 +38,19 @@ Below I will show you all the cards, combos, plays, tricks, and match-ups to hel
 
 I hope you guys enjoy the breakdown below!
 
-{% include cardlist.html deck=site.data.ninjas.deck %}
+{% include decklabel.html %}
+{% for item in site.data.ninjas.deck %}
+{% include decklist.html cardname=item %}
+{% endfor %}
+
 
 ## Card Replacements
 
 **Note:** *Selection of cards are slim within the current ninja pool. Currently, the mandatory cards to have in the deck (no substitutes) is: **3x Transformation, 3x Duplication, 3x Black Dragon Ninja, and 3x Red Dragon Ninja.** Even Armed Ninja doesn’t seem replaceable in some match-up. So, I want to apologize for the minimum wiggle room.*
 
-{% include replacelist.html replacement=site.data.ninjas.replacements %}
-
+{% for item in site.data.ninjas.replacements %}
+{% include replacelist.html replacement=item %}
+{% endfor %}
 
 ## Combos & Plays
 <br>
