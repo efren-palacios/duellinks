@@ -1,12 +1,19 @@
 {% assign comments = site.data.comments[page.slug] %}
 
+<h1 class="h1">Comments:</h1>
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
-    <div>
-      {{ commentData.message }}</br>
-      From:
-      <img src="https://www.gravatar.com/avatar/{{comment.email}}?s=200" />
-    </br>{{ commentData.name }}</br>
-      {{ commentData.date | date_to_long_string }}
+  <div class="col-12" style="margin-top: 2rem;margin-bottom:2rem;">
+    <div class="row">
+        <div class="col-sm-2 col-12 text-center">
+            <img src="https://www.gravatar.com/avatar/{{commentData.email}}?s=100" class="img-fluid" />
+            <p><b>{{commentData.name}}</b>
+            <br><small class="text-muted">{{ commentData.date | date_to_long_string }}</small></p>
+        </div>
+        <div class="col-sm-10 col-12">
+          <p>{{commentData.message}}</p>
+        </div>
     </div>
+  </div>
+  <hr />
 {% endfor %}
