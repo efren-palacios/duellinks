@@ -1,10 +1,43 @@
-<form method="POST" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
-  <input name="options[redirect]" type="hidden" value="{{site.url}}{{page.url}}">
-
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-
-  <button type="submit">Go!</button>
-</form>
+<form class="form-horizontal" method="POST" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master" >
+    <fieldset>
+        <input name="options[redirect]" type="hidden" value="{{site.url}}{{page.url}}">
+        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+    <!-- Form Name -->
+    <legend>Leave a Comment</legend>
+    
+    <!-- Text input-->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="">Name</label>  
+      <div class="col-md-4">
+      <input id="" name="fields[name]" type="text" placeholder="Your Name" class="form-control input-md" required="">
+        
+      </div>
+    </div>
+    
+    <!-- Text input-->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="textinput">E-Mail</label>  
+      <div class="col-md-4">
+      <input id="textinput" name="fields[email]" type="email" name="textinput" type="text" placeholder="user@email.com" class="form-control input-md" required="">
+      <span class="help-block">We do not store Email, used to grab your Gravatar</span>  
+      </div>
+    </div>
+    
+    <!-- Textarea -->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="textarea">Comment</label>
+      <div class="col-md-4">                     
+        <textarea class="form-control" name="fields[message]" id="textarea" name="textarea"></textarea>
+      </div>
+    </div>
+    
+    <!-- Button -->
+    <div class="form-group">
+      <label class="col-md-4 control-label" for="singlebutton"></label>
+      <div class="col-md-4">
+        <button id="singlebutton" name="singlebutton" type="submit" class="btn btn-info">Submit</button>
+      </div>
+    </div>
+    
+    </fieldset>
+    </form>
