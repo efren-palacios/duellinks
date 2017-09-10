@@ -1,12 +1,12 @@
-{% assign comments = site.data.comments | sort %}
-
-<h1>{{comments}}</h1>
+{% assign comments = site.data.comments[page.slug] %}
 
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
     <div>
       {{ commentData.message }}</br>
-      From: {{ commentData.name }}</br>
+      From:
+      <img src="https://www.gravatar.com/avatar/{{comment.email}}?s=200" />
+    </br>{{ commentData.name }}</br>
       {{ commentData.date | date_to_long_string }}
     </div>
 {% endfor %}
