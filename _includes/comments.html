@@ -1,6 +1,5 @@
 {% assign comments = site.data.comments[page.slug] %}
 
-<h1 class="h1">Comments:</h1>
 {% for comment in comments reversed %}
   {% assign commentData = comment[1] %}
   <div class="col-12" style="margin-top: 2rem;margin-bottom:2rem;">
