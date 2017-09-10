@@ -16,14 +16,7 @@ ___
 {:.title}
 ### By Kazin_X
 
-<div class="col-12">
-<div class="row">
-<div class="col-sm-6 col-12 text-center"><img class="img-fluid" src="http://i.imgur.com/2KdAZhI.png"></div>
-<div class="col-sm-6 col-12 text-center"><img class="img-fluid" src="http://i.imgur.com/NnJWka9.png"></div>
-</div>
-</div>
-
-<hr />
+{% include twoimages.html image1="http://i.imgur.com/2KdAZhI.png" image2="http://i.imgur.com/NnJWka9.png"%}
 
 
 ## General Overview of Player and Deck

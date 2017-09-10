@@ -20,6 +20,16 @@
                   </div>
                 </li>
                 <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Tournaments
+                  </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  {% for card in site.categories.tournaments %}
+                  <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                  {% endfor %}
+                </div>
+              </li>
+                <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Entertainment
                     </a>

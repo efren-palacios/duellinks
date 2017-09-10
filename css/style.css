@@ -52,6 +52,12 @@ li {
   font-weight: 600;
 }
 
+.card-img-top {
+  object-fit: cover;
+  width:100%;
+  min-height: 325px;
+}
+
 .hero {
   margin-top: 60px;
   position: static;
