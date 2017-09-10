@@ -1,0 +1,8 @@
+allowedFields: ["name", "email", "message"]
+branch: master
+commitMessage: "New Comment!"
+filename: "entry{@timestamp}"
+format: yml
+moderation: false
+path: "_data/comments/{options.slug}"
+requiredFields: ["name", "email", "message"]
