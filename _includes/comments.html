@@ -1,5 +1,5 @@
 {% assign comments = site.data.comments[page.slug] %}
-{% if comments.length == null %}
+{% if comments == null %}
 <h3 style="margin-top: 2rem;margin-bottom:2rem;">No Comments</h3>
 {% else %}
 {{ comments.length }}
