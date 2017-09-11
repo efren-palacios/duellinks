@@ -1,4 +1,8 @@
 {% assign comments = site.data.comments[page.slug] %}
+{% if comments.length == null %}
+<h3 style="margin-top: 2rem;margin-bottom:2rem;">No Comments</h3>
+{% else %}
+{{ comments.length }}
 <h2>Comments</h2>
 <div class="col-12 comments" style="margin-top: 2rem;margin-bottom:2rem;">
 {% for comment in comments reversed %}
@@ -16,3 +20,5 @@
 {% endfor %}
 
 </div>
+
+{% endif %}
