@@ -15,7 +15,7 @@
                     </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     {% for card in site.categories.decks %}
-                    <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                    <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
                     {% endfor %}
                   </div>
                 </li>
@@ -25,7 +25,7 @@
                   </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                   {% for card in site.categories.tournaments %}
-                  <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                  <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
                   {% endfor %}
                 </div>
               </li>
@@ -35,7 +35,7 @@
                     </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     {% for card in site.categories.entertainment %}
-                    <a class="dropdown-item" href="{{site.url}}/{{card.url}}">{{card.title}}</a>
+                    <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
                     {% endfor %}
                   </div>
                 </li>
