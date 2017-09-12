@@ -1,30 +1,89 @@
-      <div class="row justify-content-center" style="margin-bottom: 20px;">
-          {% for card in site.posts %}
-          <div class="col-sm-4 col-12 card-deck">
-            <div class="card">
-                <div class="zoom">
-                    <a href={{site.url}}{{card.url}}> 
+<h1 class="text-white text-center" style="margin-top:1rem;margin-bottom:1rem;">Decks</h1>
+<div class="row justify-content-center" style="margin-bottom: 20px;">
+
+  {% for card in site.categories.decks %}
+  <div class="col-sm-4 col-12 card-deck">
+    <div class="card">
+      <div class="zoom">
+        <a href={{site.url}}{{card.url}}> 
                     <img class="card-img-top" src={{card.image}} data-holder-rendered="true">
                     </a>
-                  </div>
-                <div class="card-block text-white">
-                    <a href={{site.url}}{{card.url}}>
-                      <h4 class="card-title">{{card.title}}</h4>
-                    </a>
-                    <p class="card-text">{{card.meta}}</p>
-                    <div class="text-right">By 
-                    {% if card.author == 'Dkayed' %}
-                    <span class="text-danger"><b>{{card.author}}</b></span> 
-                    {% else %}
-                    <span class="text-warning"><b>{{card.author}}</b></span>
-                    {% endif %}
-                    
-                    </div>
-                    <footer class="text-right">
-                        <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</p></small>
-                    </footer>
-                  </div>
-            </div>
-          </div>
-          {% endfor %}
+      </div>
+      <div class="card-block text-white">
+        <a href={{site.url}}{{card.url}}>
+          <h4 class="card-title">{{card.title}}</h4>
+        </a>
+        <p class="card-text">{{card.meta}}</p>
+        <div class="text-right">By {% if card.author == 'Dkayed' %}
+          <span class="text-danger"><b>{{card.author}}</b></span> {% else %}
+          <span class="text-warning"><b>{{card.author}}</b></span> {% endif %}
+
         </div>
+        <footer class="text-right">
+          <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</p></small>
+        </footer>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h1 class="text-white text-center" style="margin-top:1rem;margin-bottom:1rem;">Tournaments</h1>
+<div class="row justify-content-center" style="margin-bottom: 20px;">
+
+  {% for card in site.categories.tournament %}
+  <div class="col-sm-4 col-12 card-deck">
+    <div class="card">
+      <div class="zoom">
+        <a href={{site.url}}{{card.url}}> 
+                    <img class="card-img-top" src={{card.image}} data-holder-rendered="true">
+                    </a>
+      </div>
+      <div class="card-block text-white">
+        <a href={{site.url}}{{card.url}}>
+          <h4 class="card-title">{{card.title}}</h4>
+        </a>
+        <p class="card-text">{{card.meta}}</p>
+        <div class="text-right">By {% if card.author == 'Dkayed' %}
+          <span class="text-danger"><b>{{card.author}}</b></span> {% else %}
+          <span class="text-warning"><b>{{card.author}}</b></span> {% endif %}
+
+        </div>
+        <footer class="text-right">
+          <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</p></small>
+        </footer>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<h1 class="text-white text-center" style="margin-top:1rem;margin-bottom:1rem;">Entertainment</h1>
+<div class="row justify-content-center" style="margin-bottom: 20px;">
+
+  {% for card in site.categories.entertainment %}
+  <div class="col-sm-4 col-12 card-deck">
+    <div class="card">
+      <div class="zoom">
+        <a href={{site.url}}{{card.url}}> 
+                    <img class="card-img-top" src={{card.image}} data-holder-rendered="true">
+                    </a>
+      </div>
+      <div class="card-block text-white">
+        <a href={{site.url}}{{card.url}}>
+          <h4 class="card-title">{{card.title}}</h4>
+        </a>
+        <p class="card-text">{{card.meta}}</p>
+        <div class="text-right">By {% if card.author == 'Dkayed' %}
+          <span class="text-danger"><b>{{card.author}}</b></span> {% else %}
+          <span class="text-warning"><b>{{card.author}}</b></span> {% endif %}
+
+        </div>
+        <footer class="text-right">
+          <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</p></small>
+        </footer>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
