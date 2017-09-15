@@ -68,6 +68,10 @@ h2.title, h3.title {
   text-align: center;
 }
 
+.ad {
+  margin: 1rem;
+}
+
 .navbar {
   border: 1px solid transparent;
   box-shadow: 0 0 10px 0 black;
