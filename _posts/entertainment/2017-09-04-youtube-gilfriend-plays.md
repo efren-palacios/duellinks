@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: Girlfriend Plays Van'Dalgyon the Dark Dragon Lord
+title: Van'Dalgyon the Dark Dragon Lord
 meta: Youtube Video
 categories: entertainment
 author: Dkayed
-image: https://i.imgur.com/sQJ3laA.jpg
+image: https://i.imgur.com/2alM5kb.png
 comments: true
 ---
 

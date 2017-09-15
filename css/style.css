@@ -45,6 +45,19 @@ hr {
   color:white;
 }
 
+.card:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.08);
+  pointer-events: none;
+  border-radius: 2px;
+}
+
 p img {
   margin: auto;
   display:block;
@@ -59,6 +72,10 @@ h2.title, h3.title {
   border: 1px solid transparent;
   box-shadow: 0 0 10px 0 black;
   background-color: #141E30;
+}
+
+.card-title {
+  margin-bottom: 0
 }
 
 .fa-bars {
@@ -76,7 +93,7 @@ li {
 .card-img-top {
   object-fit: cover;
   width:100%;
-  min-height: 325px;
+  max-height: 120px !important;
 }
 
 .hero {
@@ -86,13 +103,14 @@ li {
 
 .card {
   border-radius: 2px;
-  background-color: rgba(8, 13, 120, 0.05) !important;
+  background-color: rgba(8, 13, 120, 0.05);
   box-shadow: 0 0 2px 0 black;
   margin-bottom: 20px;
 }
 
-.card-block {
-  margin: 10px;
+
+.footer-block {
+  margin: 1rem;
 }
 
 .footer {
@@ -121,6 +139,14 @@ li {
 
 .card-block a:hover {
   text-decoration: none;
+}
+
+.card-block small {
+  font-size: 70%;
+}
+
+.card-block {
+  padding: .8rem;
 }
 
 @media only screen and (max-width: 768px) {

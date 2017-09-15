@@ -1,6 +1,25 @@
 
-  <div class="row" style="margin-bottom: 20px; margin-top: 20px">
-    <div class="col-12 text-center">
-      <!-- to be filled out later -->
+<div class="row justify-content-center text-center">
+  {% for card in site.categories.header %}
+  
+  <div class="col-sm-4 col-12 card-deck">
+    <div class="card">
+      <div class="zoom">
+        <a href={{site.url}}{{card.url}}> 
+                    <img class="card-img-top" src={{card.image}} data-holder-rendered="true">
+                    </a>
+      </div>
+      <div class="card-block text-white">
+        <a href={{site.url}}{{card.url}}>
+          <h4 class="card-title">{{card.title}}</h4>
+        </a>
+        <div class="text-white">
+                <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}
+              </small>
+        </div>
+      </div>
+
+    </div>
   </div>
+  {% endfor %}
   </div>
