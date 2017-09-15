@@ -156,5 +156,12 @@ li {
     margin-top: 50px;
     position: static;
   } 
-
+  
+  .col-12.card-deck {
+    max-width: 50%;
+  }
+  .card-img-top {
+    max-height: 100px;
+    min-height: 100px;
+}
 }
