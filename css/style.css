@@ -93,7 +93,8 @@ li {
 .card-img-top {
   object-fit: cover;
   width:100%;
-  max-height: 120px !important;
+  max-height: 120px;
+  min-height: 180px;
 }
 
 .hero {
