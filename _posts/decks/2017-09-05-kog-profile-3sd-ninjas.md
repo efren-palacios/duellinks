@@ -3,7 +3,7 @@ layout: blog
 title: KoG Report Ninjas
 meta: KoG Profile 3-Star Demotion Ninjas
 categories: decks
-image: i.imgur.com/DutHpHC.png
+image: https://i.imgur.com/DutHpHC.png
 author: Kazin_X
 date: 2017-9-5 23:56:00 -0600
 comments: true
@@ -16,7 +16,7 @@ ___
 {:.title}
 ### By Kazin_X
 
-{% include twoimages.html image1="http://i.imgur.com/2KdAZhI.png" image2="http://i.imgur.com/NnJWka9.png"%}
+{% include twoimages.html image1="https://i.imgur.com/2KdAZhI.png" image2="https://i.imgur.com/NnJWka9.png"%}
 
 
 ## General Overview of Player and Deck
@@ -46,11 +46,8 @@ I hope you guys enjoy the breakdown below!
 {% endfor %}
 
 ## Combos & Plays
-<br>
 
-<div class="col-sm-3 text-center"><img src="https://i.imgur.com/UmasmfV.jpg" class="img-fluid" /></div>
-
-<br>
+{% include oneimage.html image="https://yugiohprices.com/api/card_image/Black Dragon Ninja" %}
 
 This card is severely underrated and is arguably one of the best card when used correctly. He ability allows you to REMOVE ANY monsters during EITHER PLAYERS TURN by discarding from THE HAND or FACE-UP on the field a ninja monster and a ninjitsu art card. You can do this ONCE PER TURN.
 
@@ -70,7 +67,8 @@ If you are ready, proceed below…
 
 So you have **BDN in hand, with 3 TRAPS! 1 Trans, 2 Dup or 2 Trans, 1 Dup (either works).** You go first, and you 3SD summon BDN and set the three traps. Your opponent does whatever they do here, for the sake of the example, they set one face-down monster and 2 set spells/traps. A pretty standard response to your BDN. Here what you do when your opponent ends their turn.
 
-<img src="https://i.imgur.com/yg44vLk.png" class="img-fluid" style="width: 350px;">
+
+{% include oneimage.html image="https://i.imgur.com/yg44vLk.png" %}
 
 
 By setting a monster, they sealed their fate. At the end of their turn, activate duplication into RDN and AN. RDN will spin back the face-down monster they have to the deck, leaving the field open now. 

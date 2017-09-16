@@ -1,7 +1,8 @@
 {% for item in include.matchup %}
 <div class="col-12">
   <div class="row">
-      <div class="col-sm-2 text-center"><p><b>{{item.name}}</b></p><img class="img-fluid" src="{{item.image}}" style="margin-bottom: 1rem;" /></div>
+      <div class="col-sm-2 text-center"><p><b>{{item.name}}</b></p>      <img src="https://images.weserv.nl/?url={{item.image | replace: 'https://' , ''}}&w=200&blur=5" data-src="{{item.image}}" class="img-fluid lazyload" style="margin-bottom:1rem">
+      </div>
     <div class="col-sm-8 col-12">
 {{item.reason}}
     </div>

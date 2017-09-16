@@ -4,7 +4,12 @@
 {% if card.name == include.cardname.name %}
 <div class="col-12">
     <div class="row">
-        <div class="col-sm-2 text-center"><p><b>{{include.cardname.amount}}x {{item.name}}</b></p><img class="img-fluid" src="http://yugiohprices.com/api/card_image/{{card.name}}" style="margin-bottom: 1rem;" /></div>
+        <div class="col-sm-2 text-center"><p><b>{{include.cardname.amount}}x {{item.name}}</b></p>
+            <img
+            src="https://images.weserv.nl/?url={{include.cardname.image | replace: 'https://',''}}&w=200&blur=5"
+            data-src="http://yugiohprices.com/api/card_image/{{card.name}}"
+            class="img-fluid lazyload" style="margin-bottom: 1rem;" />
+       </div>
         <div class="col-sm"><p>{{card.desc}}</p> <p class="set"><b>Set: </b>{{include.cardname.set}}</p></div>
         <div class="col-sm">{{include.cardname.why}}</div>
     </div>
