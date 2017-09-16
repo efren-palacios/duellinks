@@ -16,8 +16,7 @@ ___
 {:.title}
 ### By Hot Dolphin  
 
-![Deck](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/screenshot-17_orig.png){:.img-fluid}  
-
+{% include oneimage.html image="https://i.imgur.com/VZlis2p.png" %}
 
 Are you a vegan, disgusted with the flagrant abuse of chickens on the ranked ladder?
 
