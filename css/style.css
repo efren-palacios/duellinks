@@ -154,6 +154,20 @@ li {
   padding: .8rem;
 }
 
+#ad1layout, #ad2layout {
+  display: none;
+  margin-bottom: 30px;
+  padding: 20px 10px;
+  background: #243B55;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 5px;
+  }
+#ad2layout {
+  background: #2a486b;
+}
+
 @media only screen and (max-width: 768px) {
 
   .hero {
@@ -161,7 +175,7 @@ li {
     position: static;
   } 
   
-  .col-12.card-deck {
+  .col-12.card-deck.header {
     max-width: 50%;
   }
   .card-img-top {
