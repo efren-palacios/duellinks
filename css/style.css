@@ -155,7 +155,7 @@ li {
 }
 
 #ad1layout, #ad2layout {
-  visibility: hidden;
+  display: none;
   width: 100%;
   padding: 20px 10px;
   background: #243B55;
