@@ -6,9 +6,12 @@
   <div class="col-sm-6 col-12 card-deck">
     <div class="card">
       <div class="zoom">
-        <a href={{site.url}}{{card.url}}> 
-                    <img class="card-img-top" src={{card.image}} data-holder-rendered="true">
-                    </a>
+          <a href={{site.url}}{{card.url}}> 
+              <img
+              src="https://images.weserv.nl/?url={{card.image}}&w=200&blur=5"
+              data-src="http://{{card.image}}"
+              class="card-img-top lazyload" />
+          </a>
       </div>
       <div class="card-block text-white">
         <a href={{site.url}}{{card.url}}>
