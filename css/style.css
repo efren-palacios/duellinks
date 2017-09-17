@@ -173,23 +173,41 @@ li {
   cursor: pointer !important;
 }
 
-.tooltip-inner {
-  color: transparent;
-  text-align: center;
-  background-color: transparent;
+/* Tooltip container */
+.ctooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.ctooltip .ctooltiptext {
+  visibility: hidden;
   width: 100%;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
 }
 
-.tooltip-inner img {
-  max-width: 250px;
+.ctooltip .ctooltiptext img {
+  max-width: 300px;
 }
 
-.tooltip.in, .tooltip {
-  opacity: 1 !important;
-  filter:alpha(opacity=100);
+/* Show the tooltip text when you mouse over the tooltip container */
+.ctooltip:hover .ctooltiptext {
+  visibility: visible;
 }
 
+.ctooltip .ctooltiptext {
+  opacity: 0;
+  transition: opacity .5s;
+}
 
+.ctooltip:hover .ctooltiptext {
+  opacity: 1;
+}
 
 .outline:after {
   content: "";
