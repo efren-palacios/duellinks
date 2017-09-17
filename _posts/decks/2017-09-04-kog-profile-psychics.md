@@ -84,7 +84,7 @@ Mirror Walls or tank Super Rush headlong.
 {% include cardimage.html name="Eliminating the League" %} - Sometimes 3 removals just isn't enough, and you need it to be on THEIR turn. An excellent tech for ladder, if you lack Mirror Walls. 
 Eliminating the League loves Psychokinesis when your LP is getting low, and has pretty decent chances of killing something in your opponent's hand. You even get to see your opponent's hand, which will help you to prioritize targets for Psychokinesis. Who even knows what those clowns are running in ranked?
 
-{% include cardimage.html name="Supremecy Berry" %} - Can fit reasonably well into an Enemy Controller or Super Rush Headlong spot. At 4000 LP, acts as a ticket to No Mortal Can Resist, if you want it to. Otherwise, the extra longevity allows two uses of Destructotron, a turn of Mirror Wall, or two Psychokinesis. It's even decent fodder in a list that runs Eliminating the League. Fits well in just about any Psychic deck.
+{% include cardimage.html name="Supremacy Berry" %} - Can fit reasonably well into an Enemy Controller or Super Rush Headlong spot. At 4000 LP, acts as a ticket to No Mortal Can Resist, if you want it to. Otherwise, the extra longevity allows two uses of Destructotron, a turn of Mirror Wall, or two Psychokinesis. It's even decent fodder in a list that runs Eliminating the League. Fits well in just about any Psychic deck.
 
 ​
 ## Matchups:
