@@ -39,7 +39,7 @@ I hope you guys enjoy the breakdown below!
 
 ## Card Replacements
 
-**Note:** *Selection of cards are slim within the current ninja pool. Currently, the mandatory cards to have in the deck (no substitutes) is: **3x Transformation, 3x Duplication, 3x Black Dragon Ninja, and 3x Red Dragon Ninja.** Even Armed Ninja doesn’t seem replaceable in some match-up. So, I want to apologize for the minimum wiggle room.*
+**Note:** *Selection of cards are slim within the current ninja pool. Currently, the mandatory cards to have in the deck (no substitutes) is: 3x {% include cardimage.html name="Ninjitsu Art of Transformation" %} , 3x {% include cardimage.html name="Ninjitsu Art of Duplication" %},  3x {% include cardimage.html name="Black Dragon Ninja" %}, and 3x {% include cardimage.html name="Red Dragon Ninja" %}. Even {% include cardimage.html name="Armed Ninja" %} doesn’t seem replaceable in some match-up. So, I want to apologize for the minimum wiggle room.*
 
 {% for item in site.data.ninjas.replacements %}
 {% include replacelist.html replacement=item %}
