@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Arcana Knight Joker",
+    "rarity": "UR"
+  },
+  {
+    "name": "Five-Headed Dragon",
+    "rarity": "UR"
+  },
+  {
+    "name": "Horus the Black Flame Dragon LV8",
+    "rarity": "UR"
+  },
+  {
+    "name": "Evil Dragon Ananta",
+    "rarity": "UR"
+  },
+  {
+    "name": "Magical Something",
+    "rarity": "UR"
+  },
+  {
+    "name": "Card Guard",
+    "rarity": "UR"
+  },
+  {
+    "name": "King of the Swamp",
+    "rarity": "UR"
+  },
+  {
+    "name": "De-Fusion",
+    "rarity": "UR"
+  },
+  {
+    "name": "Floodgate Trap Hole",
+    "rarity": "UR"
+  },
+  {
+    "name": "Book of Taiyou",
+    "rarity": "UR"
+  },
+  {
+    "name": "Fusion Recycling Plant",
+    "rarity": "SR"
+  },
+  {
+    "name": "Typhoon",
+    "rarity": "SR"
+  },
+  {
+    "name": "Nobleman-Eater Bug",
+    "rarity": "SR"
+  },
+  {
+    "name": "Horus the Black Flame Dragon LV6",
+    "rarity": "SR"
+  },
+  {
+    "name": "B.E.S Crystal Core",
+    "rarity": "SR"
+  },
+  {
+    "name": "B.E.S Tetran",
+    "rarity": "SR"
+  },
+  {
+    "name": "BOXer",
+    "rarity": "SR"
+  },
+  {
+    "name": "Flame Tiger",
+    "rarity": "SR"
+  },
+  {
+    "name": "Caninetaur",
+    "rarity": "SR"
+  },
+  {
+    "name": "Damage = Reptile",
+    "rarity": "SR"
+  },
+  {
+    "name": "Armor Ninjitsu Art of Alchemy",
+    "rarity": "SR"
+  },
+  {
+    "name": "Gaia Power",
+    "rarity": "SR"
+  },
+  {
+    "name": "VW-Tiger Catapult",
+    "rarity": "R"
+  },
+  {
+    "name": "V-Tiger Jet",
+    "rarity": "R"
+  },
+  {
+    "name": "W-Wing Catapult",
+    "rarity": "R"
+  },
+  {
+    "name": "Abyss Warrior",
+    "rarity": "R"
+  },
+  {
+    "name": "Samurai Skull",
+    "rarity": "R"
+  },
+  {
+    "name": "Bacon Saver",
+    "rarity": "R"
+  },
+  {
+    "name": "Rushioh Richie",
+    "rarity": "R"
+  },
+  {
+    "name": "Shogi Knight",
+    "rarity": "R"
+  },
+  {
+    "name": "Flash Fusion",
+    "rarity": "R"
+  },
+  {
+    "name": "Burst Rebirth",
+    "rarity": "R"
+  },
+  {
+    "name": "Tribe-Shocking Virus",
+    "rarity": "R"
+  },
+  {
+    "name": "Rhinotaurus",
+    "rarity": "R"
+  },
+  {
+    "name": "Spawn Alligator",
+    "rarity": "R"
+  },
+  {
+    "name": "Dark Lucius LV8",
+    "rarity": "R"
+  },
+  {
+    "name": "Different Dimension Ground",
+    "rarity": "R"
+  },
+  {
+    "name": "Worm Zero",
+    "rarity": "R"
+  },
+  {
+    "name": "Medusa Worm",
+    "rarity": "R"
+  },
+  {
+    "name": "Worm Apocalypse",
+    "rarity": "R"
+  },
+  {
+    "name": "Worm Cartaros",
+    "rarity": "R"
+  },
+  {
+    "name": "Worm Jetelikpse",
+    "rarity": "R"
+  },
+  {
+    "name": "Worm Linx",
+    "rarity": "R"
+  },
+  {
+    "name": "Giga Gagagigo",
+    "rarity": "R"
+  },
+  {
+    "name": "Aqua Armor Ninja",
+    "rarity": "R"
+  },
+  {
+    "name": "Goe Goe the Gallant Ninja",
+    "rarity": "R"
+  },
+  {
+    "name": "Masked Ninja Ebisu",
+    "rarity": "R"
+  },
+  {
+    "name": "Ninjitsu Art Notebook",
+    "rarity": "R"
+  },
+  {
+    "name": "Great Dezard",
+    "rarity": "R"
+  },
+  {
+    "name": "Blustering Winds",
+    "rarity": "R"
+  },
+  {
+    "name": "Half Counter",
+    "rarity": "R"
+  },
+  {
+    "name": "Machine Lord Ür",
+    "rarity": "R"
+  },
+  {
+    "name": "Mecha Sea Dragon Plesion",
+    "rarity": "R"
+  },
+  {
+    "name": "Sea Lancer",
+    "rarity": "R"
+  },
+  {
+    "name": "Double Defender",
+    "rarity": "N"
+  },
+  {
+    "name": "Transmigration Break",
+    "rarity": "N"
+  },
+  {
+    "name": "Nitwit Outwit",
+    "rarity": "N"
+  },
+  {
+    "name": "Reverse Reuse",
+    "rarity": "N"
+  },
+  {
+    "name": "Sealing Ceremony of Raiton",
+    "rarity": "N"
+  },
+  {
+    "name": "Sealing Ceremony of Suiton",
+    "rarity": "N"
+  },
+  {
+    "name": "Sealing Ceremony of Mokuton",
+    "rarity": "N"
+  },
+  {
+    "name": "Wolf in Sheep's Clothing",
+    "rarity": "N"
+  },
+  {
+    "name": "Razor Lizard",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Solid",
+    "rarity": "N"
+  },
+  {
+    "name": "Armor Breaker",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Dimikles",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Tentacles",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Opera",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Barses",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Ugly",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Erokin",
+    "rarity": "N"
+  },
+  {
+    "name": "Dark Lucius LV6",
+    "rarity": "N"
+  },
+  {
+    "name": "Dark Lucius LV4",
+    "rarity": "N"
+  },
+  {
+    "name": "Horus the Black Flame Dragon LV4",
+    "rarity": "N"
+  },
+  {
+    "name": "King's Knight",
+    "rarity": "N"
+  },
+  {
+    "name": "Queen's Knight",
+    "rarity": "N"
+  },
+  {
+    "name": "Jack's Knight",
+    "rarity": "N"
+  },
+  {
+    "name": "Naturia Antjaw",
+    "rarity": "N"
+  },
+  {
+    "name": "Naturia Beetle",
+    "rarity": "N"
+  },
+  {
+    "name": "Hysteric Fairy",
+    "rarity": "N"
+  },
+  {
+    "name": "Ring of Defense",
+    "rarity": "N"
+  },
+  {
+    "name": "Earthshattering Event",
+    "rarity": "N"
+  },
+  {
+    "name": "Pseudo Space",
+    "rarity": "N"
+  },
+  {
+    "name": "Fusion Tag",
+    "rarity": "N"
+  },
+  {
+    "name": "Radiant Mirror Force",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Call",
+    "rarity": "N"
+  },
+  {
+    "name": "Light of Destruction",
+    "rarity": "N"
+  },
+  {
+    "name": "Snake Whistle",
+    "rarity": "N"
+  },
+  {
+    "name": "Blind Spot Strike",
+    "rarity": "N"
+  },
+  {
+    "name": "Dice Try!",
+    "rarity": "N"
+  },
+  {
+    "name": "Shared Ride",
+    "rarity": "N"
+  },
+  {
+    "name": "Temple of the Sun",
+    "rarity": "N"
+  },
+  {
+    "name": "Poisonous Winds",
+    "rarity": "N"
+  },
+  {
+    "name": "Synthetic Seraphim",
+    "rarity": "N"
+  },
+  {
+    "name": "Fruits of Kozaky's Studies",
+    "rarity": "N"
+  },
+  {
+    "name": "Tyrant's Tirade",
+    "rarity": "N"
+  },
+  {
+    "name": "Defenders Intersect",
+    "rarity": "N"
+  },
+  {
+    "name": "Goblin Circus",
+    "rarity": "N"
+  },
+  {
+    "name": "Extra Buck",
+    "rarity": "N"
+  },
+  {
+    "name": "Return",
+    "rarity": "N"
+  }
+]

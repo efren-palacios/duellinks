@@ -68,6 +68,11 @@ p img {
   display:block;
 }
 
+.rarity {
+  height: 5% !important;
+  float: right;
+}
+
 h2.title, h3.title {
   color: #007bff;
   text-align: center;

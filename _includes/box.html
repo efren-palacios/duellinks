@@ -1,0 +1,21 @@
+{% assign cards = site.data.cardsdb %}
+
+{% for card in cards %}
+{% if card.name == include.cardname.name %}
+<div class="col-12">
+    <div class="row">
+        <div class="col-sm-2 text-center"><p><b>{{item.name}}</b></p>
+            <img class="rarity" src="{{site.url}}/img/{{item.rarity}}.png" />
+            <img
+            src="https://images.weserv.nl/?url={{include.cardname.image | replace: 'https://',''}}&w=200&blur=5"
+            data-src="http://yugiohprices.com/api/card_image/{{card.name}}"
+            class="img-fluid lazyload" style="margin-bottom: 1rem;" />
+       </div>
+        <div class="col-sm"><p>{{card.desc}}</p></div>
+    </div>
+</div>
+
+<hr />
+
+{% endif %}
+{% endfor %}
