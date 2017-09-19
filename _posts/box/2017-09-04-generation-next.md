@@ -11,7 +11,8 @@ comments: true
 
 {% include oneimage.html image="https://i.imgur.com/eB5UjMk.png" %}
 
-
+<div class="row">
 {% for item in site.data.box.list %}
 {% include box.html cardname=item %}
 {% endfor %}
+</div>
