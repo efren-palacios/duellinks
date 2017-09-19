@@ -9,8 +9,6 @@ date: 2017-09-19 10:45:00 -0600
 comments: true
 ---
 
-## Generation Next
-
 {% include oneimage.html image="https://i.imgur.com/eB5UjMk.png" %}
 
 
