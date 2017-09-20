@@ -254,6 +254,10 @@ li {
     position: static;
   } 
   
+  .rarity {
+    height: 2rem;
+  }
+
   .col-12.card-deck.header {
     max-width: 50%;
   }
