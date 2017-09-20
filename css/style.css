@@ -69,7 +69,7 @@ p img {
 }
 
 .rarity {
-  height: 1rem !important;
+  height: 1rem;
   float: right;
 }
 
