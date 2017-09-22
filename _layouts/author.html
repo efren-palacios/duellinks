@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+  <div id="fb-root"></div>
+  <script>
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1815513031811368";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, "script", "facebook-jssdk"));
+  </script>
+  {% include nav.html %}
+
+  <div class="container">
+
+    {% include ad.html %}
+
+    <div class="col text-white" style="margin-top: 20px;">
+      <h1 class="text-center">{{page.author}}</h1>
+      <img width="100px" style="margin:auto;display:block;margin-bottom:1rem;" src='{{page.image}}' class="img-fluid text-center" />
+
+      <div class="row justify-content-center text-center">
+        {% assign author = site.posts | where:"author",page.author %} {% for card in author %}
+        <div class="col-sm-4 col-12 card-deck header">
+          <div class="card">
+            <div class="zoom">
+              <a href='{{site.url}}{{card.url}}'> 
+                        <img
+                        src="https://images.weserv.nl/?url={{card.image | replace: 'https://', ''}}&w=200&blur=5"
+                        data-src="{{card.image}}"
+                        class="card-img-top lazyload" />
+                    </a>
+            </div>
+            <div class="card-block text-white">
+              <a href='{{site.url}}{{card.url}}'>
+                <h4 class="card-title">{{card.title}}</h4>
+              </a>
+              <div class="text-white">
+                <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}
+                          </small>
+              </div>
+            </div>
+
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+
+
+    <div class="col text-white">
+      {% include facebook.html %}
+    </div>
+
+    {% include social.html %}
+
+  </div>
+
+</body>
+{% include scripts.html %}
+
+</html>

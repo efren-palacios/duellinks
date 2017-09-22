@@ -7,3 +7,4 @@ exclude:
 collections:
   authors:
     output: true
+    permalink: /:collection/:name
