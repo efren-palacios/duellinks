@@ -4,3 +4,6 @@ disqus:
   shortname: duellinksmeta
 exclude:
     - node_modules
+collections:
+  authors:
+    output: true

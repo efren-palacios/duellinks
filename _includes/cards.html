@@ -1,6 +1,7 @@
 <div class="text-center text-white text-center" style="margin-bottom: 1rem;"><h1>Latest Articles</h1></div>
 
 <div class="row justify-content-center" style="margin-bottom: 20px;">
+
   {% for card in site.posts %}
   {% if card.category != 'header' %}
   <div class="col-sm-6 col-12 card-deck">
@@ -20,8 +21,8 @@
         <div class="text-white">
                 <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y %r' }}
                 {% if card.author == 'Dkayed' %}
-                By <span class="text-danger"><b>{{card.author}}</b></span> {% else %}
-                By <span class="text-warning"><b>{{card.author}}</b></span> {% endif %}
+                By <b><a href={{site.url}}/authors/{{card.author}}.html><span class="text-danger">{{card.author}}</span></a></b> {% else %}
+                By <span class="text-warning"><b><a href={{site.url}}/authors/{{card.author}}.html>{{card.author}}</a></b></span> {% endif %}
               </small>
         </div>
       </div>
