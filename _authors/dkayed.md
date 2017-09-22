@@ -13,7 +13,7 @@ comments: true
 <img width="100px" src='{{page.image}}' class="img-fluid" />
 
 <div class="row justify-content-center text-center">
-{% assign author = site.posts | where:"author","Dkayed" %}
+{% assign author = site.posts | where:"author",page.author %}
 {% for card in author %}
   <div class="col-sm-4 col-12 card-deck header">
     <div class="card">
