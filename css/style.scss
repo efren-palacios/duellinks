@@ -122,6 +122,18 @@ li {
   position: static;
 }
 
+.badge.badge-default.badge-pill::after {
+  content: "x";
+}
+
+.badge {
+  font-size: 100%;
+}
+
+.badge-default {
+  background-color: darken(#141e30, 5%);
+}
+
 .card {
   border-radius: 2px;
   background-color: rgba(8, 13, 120, 0.05);
@@ -214,7 +226,7 @@ li {
 }
 
 .ctooltip .ctooltiptext img {
-  max-width: 300px;
+  max-width: 375px;
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
@@ -261,8 +273,8 @@ li {
 
 .thumbnail {
   position: relative;
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   overflow: hidden;
   margin-right: 1rem;
 }

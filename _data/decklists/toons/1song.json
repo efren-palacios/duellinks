@@ -1,10 +1,10 @@
 {
-  "name": "Roll in Peace",
-  "author": "Look at God",
+  "name": "Yugi's Iconic SR Drop",
+  "author": "1song",
   "main": [
     {
       "name": "Sphere Kuriboh",
-      "amount": "2",
+      "amount": "3",
       "type": "monster"
     },
     {
@@ -18,32 +18,12 @@
       "type": "monster"
     },
     {
-      "name": "Toon Dark Magician Girl",
+      "name": "Dekoichi the Battlechanted Locomotive",
       "amount": "1",
       "type": "monster"
     },
     {
-      "name": "Toon Summoned Skull",
-      "amount": "1",
-      "type": "monster"
-    },
-    {
-      "name": "Toon Mermaid",
-      "amount": "2",
-      "type": "monster"
-    },
-    {
-      "name": "Toon Buster Blader",
-      "amount": "1",
-      "type": "monster"
-    },
-    {
-      "name": "An Owl of Luck",
-      "amount": "1",
-      "type": "monster"
-    },
-    {
-      "name": "Planet Pathfinder",
+      "name": "Sergeant Electro",
       "amount": "3",
       "type": "monster"
     },
@@ -56,6 +36,16 @@
       "name": "Toon Table of Contents",
       "amount": "1",
       "type": "spell"
+    },
+    {
+      "name": "The Regulation of Tribe",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Rare Metalmorph",
+      "amount": "3",
+      "type": "trap"
     },
     {
       "name": "Curse of Anubis",
