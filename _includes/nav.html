@@ -1,38 +1,40 @@
-
 <nav class="navbar navbar-expand-md">
-        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault"
+    aria-expanded="false" aria-label="Toggle navigation">
           <i class="fa fa-bars" aria-hidden="true"></i>          
         </button>
-  
-        <div class="navbar-collapse collapse" id="navbarsExampleDefault">
-          <ul class="navbar-nav mr-auto mx-auto">
-              <a class="navbar-brand" href="{{site.url}}">
+
+  <div class="navbar-collapse collapse" id="navbarsExampleDefault">
+    <ul class="navbar-nav mr-auto mx-auto">
+      <a class="navbar-brand" href="{{site.url}}">
                   <img src="{{site.url}}/img/logo.png" width="80px" alt="">
                 </a>
-              <li class="nav-item active">
-                  <a class="nav-link active" href="{{site.url}}">Home</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      KoG Decks
-                    </a>
-                  <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    {% for card in site.categories.decks %}
-                    <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
-                    {% endfor %}
-                  </div>
-                </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Tournaments
-                  </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  {% for card in site.categories.tournament %}
-                  <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
-                  {% endfor %}
-                </div>
-              </li>
-                <li class="nav-item dropdown">
+      <li class="nav-item active">
+        <a class="nav-link active" href="{{site.url}}">Home</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link active" href="{{site.url}}">Tier List</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link active" href="{{site.url}}">Top Decks</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link active" href="{{site.url}}">MCS #2</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link active" href="{{site.url}}">New Players</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Discord</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{{site.url}}">New Event</a>
+      </li>
+      </li>
+    </ul>
+  </div>
+</nav>
+      <!--                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       Entertainment
                     </a>
@@ -41,14 +43,4 @@
                     <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
                     {% endfor %}
                   </div>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" href="#">Discord</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link disabled" href="#">About</a>
-                </li>
-            </li>
-          </ul>
-        </div>
-      </nav>
+                </li> -->
