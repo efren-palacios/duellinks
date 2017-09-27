@@ -223,6 +223,9 @@ li {
   /* Position the tooltip text - see examples below! */
   position: absolute;
   z-index: 1;
+  opacity: 0;
+  transition: opacity .5s, visibility .5s;
+  pointer-events: none;
 }
 
 .ctooltip .ctooltiptext img {
@@ -232,11 +235,6 @@ li {
 /* Show the tooltip text when you mouse over the tooltip container */
 .ctooltip:hover .ctooltiptext {
   visibility: visible;
-}
-
-.ctooltip .ctooltiptext {
-  opacity: 0;
-  transition: opacity .5s;
 }
 
 .ctooltip:hover .ctooltiptext {
