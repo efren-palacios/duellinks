@@ -8,3 +8,5 @@ collections:
   authors:
     output: true
     permalink: /:collection/:name
+  decklists:
+    output: true

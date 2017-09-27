@@ -1,0 +1,73 @@
+{
+  "name": "Roll in Peace",
+  "author": "Look at God",
+  "main": [
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Mecha Phantom Beast Hamstrat",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Barrel Dragon",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Dark Magician Girl",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Summoned Skull",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Mermaid",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Buster Blader",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "An Owl of Luck",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Kingdom",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Toon Table of Contents",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Curse of Anubis",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Windstorm of Etaqua",
+      "amount": "1",
+      "type": "trap"
+    }
+  ],
+  "extra": [
+    {
+      "name": "Five-Headed Dragon",
+      "amount": "1",
+      "type": "fusion"
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+--- 
+---
 @import 'https://fonts.googleapis.com/css?family=Alegreya+Sans';
 
 body {
@@ -14,6 +16,10 @@ body {
 
 .text-white {
   color: hsla(0,0%,100%,.7) !important;
+}
+
+.list-group-item {
+  background-color: #141E30;
 }
 
 hr {
@@ -179,7 +185,7 @@ li {
 }
 
 .card-hover:focus, .card-hover:hover {
-  color: #0056b3 !important;
+  color: #0056b3;
   cursor: pointer !important;
 }
 
@@ -188,6 +194,12 @@ li {
   position: relative;
   display: inline-block;
 }
+
+.rtooltip .rtooltiptext {
+  top: -5px !important;
+  left: 105% !important; 
+}
+
 
 /* Tooltip text */
 .ctooltip .ctooltiptext {
@@ -247,6 +259,71 @@ li {
   background: #2a486b;
 }
 
+.thumbnail {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  margin-right: 1rem;
+}
+
+
+.thumbnail img {
+  position: absolute;
+  left: 50%;
+  top: 55%;
+  height: 100%;
+  width: auto;
+  -webkit-transform: translate(-50%,-45%);
+      -ms-transform: translate(-50%,-45%);
+          transform: translate(-50%,-45%);
+}
+
+.thumbnail img.portrait {
+  width: 150%;
+  height: auto;
+}
+
+.thumbnail span p {
+  flex-grow: 2;
+}
+
+.monster {
+  color: #d07348;
+}
+
+.monster:hover, .monster:focus {
+  color: darken(#d07348, 10%)
+}
+
+.spell {
+  color: #0b9797;
+}
+
+.spell:hover, .spell:focus {
+  color: darken(#0b9797, 10%)
+}
+
+.trap {
+  color: #c031a2;
+}
+
+.trap:hover, .trap:focus {
+  color: darken(#c031a2,10%)
+}
+
+.cardlist {
+  margin-right: auto;
+}
+
+.fusion {
+  color: #5d3a7e;
+}
+
+.fusion:hover, .fusion:focus {
+  color: darken(#5d3a7e, 10%)
+}
+
 @media only screen and (max-width: 768px) {
 
   .cardname {
@@ -271,6 +348,8 @@ li {
     min-height: 100px;
 }
 }
+
+
 
 /*extra small - max width */
 @media (max-width: 767px) {
