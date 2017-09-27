@@ -1,0 +1,51 @@
+{
+  "name": "3SD Toons",
+  "author": "Toxicology",
+  "main": [
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Barrel Dragon",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Dekoichi the Battlechanted Locomotive",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Sergeant Electro",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Toon Kingdom",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Toon Table of Contents",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Rare Metalmorph",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Curse of Anubis",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Windstorm of Etaqua",
+      "amount": "1",
+      "type": "trap"
+    }
+  ]
+}
