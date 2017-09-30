@@ -1,0 +1,35 @@
+
+/* ------------------------ */
+/* ---- TOP DECK TABLE ---- */
+#topDeckTable 
+{
+    border: 1px solid rgba(255,255,255,0.08);
+}
+#topDeckTable thead 
+{
+    background: #243B55; 
+}
+#topDeckTable tbody 
+{
+    background: rgba(36,59,85,.4); 
+}
+#topDeckTable thead tr th 
+{
+    border: none;
+}
+#topDeckTable tbody tr th 
+{
+    border-top: 1px solid rgba(255,255,255,0.08);
+    color: #868e96;
+    font-weight: normal;
+}  
+#topDeckTable tbody tr th .row 
+{
+    align-items: center; 
+}
+#topDeckTable tbody tr th .row .thumbnail 
+{
+    height: 35px; 
+    width: 35px; 
+    margin-left: 1rem; 
+}
