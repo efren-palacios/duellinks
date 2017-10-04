@@ -19,7 +19,7 @@
           <h4 class="card-title">{{card.title}}</h4>
         </a>
         <div class="text-white">
-                <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y %r' }}
+                <small class="text-muted">Last Updated: {{ card.date | timeago }}
                 {% if card.author == 'Dkayed' %}
                 By <b><a class="text-danger" href={{site.url}}/authors/{{card.author}}.html>{{card.author}}</a></b> {% else %}
                 By <b><a class="text-warning" href={{site.url}}/authors/{{card.author}}.html>{{card.author}}</a></b> {% endif %}

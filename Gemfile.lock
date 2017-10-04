@@ -20,6 +20,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-timeago (0.9.2)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.15.0)
@@ -35,6 +36,7 @@ GEM
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (1.11.1)
+    ruby-oembed (0.12.0)
     safe_yaml (1.0.4)
     sass (3.5.1)
       sass-listen (~> 4.0.0)
@@ -48,6 +50,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.4.0)
+  jekyll-timeago
+  ruby-oembed
 
 BUNDLED WITH
-   1.15.4
+   1.16.0.pre.2

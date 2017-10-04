@@ -10,3 +10,5 @@ collections:
     permalink: /:collection/:name
   decklists:
     output: true
+gems:
+  - jekyll-timeago
