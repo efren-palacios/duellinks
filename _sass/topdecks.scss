@@ -30,6 +30,20 @@
 #topDeckTable tbody tr th .row .thumbnail 
 {
     height: 35px; 
-    width: 35px; 
-    margin-left: 1rem; 
+    width: 35px;
+}
+
+/* ---- FILTER ROW ---- */
+#filterTypeRow 
+{
+    margin-top: 1rem;
+}
+#filterTypeRow .thumbnail 
+{
+    height: 35px; 
+    width: 35px;
+}
+#filterTypeRow .col-lg-1 
+{
+    max-width: 50px;
 }
