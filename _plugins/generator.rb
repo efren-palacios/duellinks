@@ -27,15 +27,15 @@ module Jekyll
 
           lower_name = deck_name.downcase
           lower_name.gsub! ' ', '-'
-          updated_name = lower_name   
+          updated_deck_name = lower_name   
 
-          deck_file.puts("permalink: /topdecks/deck/#{updated_name}/")
+          deck_file.puts("permalink: /topdecks/#{decktype_key}/#{updated_deck_name}/")
           deck_file.puts("---")
           deck_file.puts("")
           deck_file.puts("<h2>{{site.data.decklists.#{decktype_key}.#{deck_key}.name}}</h2>")
           deck_file.puts("<h4>{{site.data.decklists.#{decktype_key}.#{deck_key}.author}}</h4>")
           deck_file.puts("")
-          deck_file.puts("<p style=\"margin-top: 2rem;\">Added {{site.data.decklists.#{decktype_key}.#{deck_key}.date}}</p>")
+          deck_file.puts("<p style=\"margin-top: 2rem;\">Added {{site.data.decklists.#{decktype_key}.#{deck_key}.created}}</p>")
           deck_file.puts("")
           deck_file.puts("<ul class=\"list-group\">")
           deck_file.puts("    <h4 style=\"margin: 1rem 0;\">Main Deck</h4>")

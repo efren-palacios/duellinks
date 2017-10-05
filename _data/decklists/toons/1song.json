@@ -1,8 +1,13 @@
 {
   "name": "Yugi's Iconic SR Drop",
   "author": "1song",
-  "date": "September 29th, 2017",
+  "created": "2017-09-29",
   "main": [
+    {
+      "name": "Toon Summoned Skull",
+      "amount": "3",
+      "type": "monster"
+    },
     {
       "name": "Sphere Kuriboh",
       "amount": "3",
@@ -11,11 +16,6 @@
     {
       "name": "Mecha Phantom Beast Hamstrat",
       "amount": "2",
-      "type": "monster"
-    },
-    {
-      "name": "Toon Barrel Dragon",
-      "amount": "3",
       "type": "monster"
     },
     {

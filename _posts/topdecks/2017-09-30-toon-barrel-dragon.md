@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Top Decks - Toons
-meta: Top Decks - Toons
+title: Top Decks - Toon Barrel Dragon
+meta: Top Decks - Toon Barrel Dragon
 author: unpreceden7ed
-comments: true
 date: 2017-9-30
+comments: true
 description: Check out the latest version of the most popular Duel Links decklists.
 filterTitle: Filter by Type    
-permalink: /topdecks/toons/
+permalink: /topdecks/toon-barrel-dragon/
 ---
 
 ## {{page.title}}
@@ -27,7 +27,7 @@ permalink: /topdecks/toons/
         </tr>
     </thead>
     <tbody>
-        {% for deck in site.data.decklists.toons %}
+        {% for deck in site.data.decklists.toon-barrel-dragon %}
             <tr>
                 <th>
                     <div class="row">
@@ -37,7 +37,7 @@ permalink: /topdecks/toons/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/toons/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/topdecks/toon-barrel-dragon/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>
