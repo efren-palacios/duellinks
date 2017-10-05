@@ -1,15 +1,16 @@
 {
   "name": "3SD Toons",
   "author": "Toxicology",
-  "date": "September 29th, 2017",
+  "created": "2017-09-29",
+  "skill": "Restart",
   "main": [
     {
-      "name": "Sphere Kuriboh",
+      "name": "Toon Barrel Dragon",
       "amount": "3",
       "type": "monster"
     },
     {
-      "name": "Toon Barrel Dragon",
+      "name": "Sphere Kuriboh",
       "amount": "3",
       "type": "monster"
     },

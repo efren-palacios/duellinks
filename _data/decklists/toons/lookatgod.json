@@ -1,8 +1,13 @@
 {
   "name": "Roll in Peace",
   "author": "Look at God",
-  "date": "September 29th, 2017",
+  "created": "2017-09-29",
   "main": [
+    {
+      "name": "Toon Summoned Skull",
+      "amount": "1",
+      "type": "monster"
+    },
     {
       "name": "Sphere Kuriboh",
       "amount": "2",
@@ -20,11 +25,6 @@
     },
     {
       "name": "Toon Dark Magician Girl",
-      "amount": "1",
-      "type": "monster"
-    },
-    {
-      "name": "Toon Summoned Skull",
       "amount": "1",
       "type": "monster"
     },

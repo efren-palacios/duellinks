@@ -1,0 +1,18 @@
+{
+    "Tier0":
+    [
+        "CyberAngels"
+    ],
+    "Tier1":
+    [
+        "Ninjas", "Psychics", "RedEyesZombies"
+    ],
+    "Tier2":
+    [
+        "BlsTheCreator", "Control", "HammerShark", "HazyFlame", "Mausoleum", "Mill", "Phoenix", "RedEyesBalance", "Relinquished", "ToonBarrelDragon", "Weevil"
+    ],
+    "Tier3":
+    [
+        "Dinos", "Gravekeepers", "IceBarrier", "Naturia", "Necrofear", "Toons", "TreebornTributes", "Venus", "GeminiZombies"
+    ]
+}

@@ -2,9 +2,9 @@
 ---
 @import "https://fonts.googleapis.com/css?family=Alegreya+Sans";
 
-@import "variables";
+@import "variables"; /* ALWAYS ON TOP */
 @import "navigation";
 @import "layout";
 @import "cards";
-@import "mobile";
 @import "topdecks";
+@import "mobile"; /* ALWAYS AT THE BOTTOM */
