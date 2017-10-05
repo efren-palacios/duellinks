@@ -12,3 +12,4 @@ collections:
     output: true
 gems:
   - jekyll-timeago
+  - jekyll-angular

@@ -45,5 +45,15 @@
 }
 #filterTypeRow .col-lg-1 
 {
-    max-width: 50px;
+    max-width: 100px;
+}
+
+#filterTypeRow .thumbnail {
+    margin: auto;
+}
+
+#filterTypeRow p {
+    font-size: 12px;
+    text-align: center;
+    padding-top: .5rem;
 }
