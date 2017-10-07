@@ -1,12 +1,11 @@
 ---
 layout: blog
-title: Top Decks - Toon Barrel Dragon
+title: Toon Barrel Dragon
 meta: Top Decks - Toon Barrel Dragon
 author: unpreceden7ed
-date: 2017-9-30
+date: 2017-09-30
 comments: true
-description: Check out the latest version of the most popular Duel Links decklists.
-filterTitle: Filter by Type    
+description: In depth information about Toon Barrel Dragon decks.
 permalink: /topdecks/toon-barrel-dragon/
 ---
 
@@ -14,9 +13,10 @@ permalink: /topdecks/toon-barrel-dragon/
 
 <p class="text-muted"> {{page.description}} </p>
 
-## {{page.filterTitle}}
-
-{% include decktype_filter.html %}
+<div>
+    <p>HERE COMES INFO ABOUT TOON BARREL DRAGON DECKTYPE</p>
+    <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
+</div>
 
 <table class="table" style="margin-top: 2rem;" id="topDeckTable">
     <thead>

@@ -1,0 +1,77 @@
+.decktype-filter
+{
+      width: calc(100% + 24px);
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding-left: 3px;
+      padding-right: 3px;
+      margin-left: -12px;
+
+    .btn-wrapper
+    {
+        padding-right: 12px;
+        padding-left: 12px;
+        margin-bottom: 20px;
+
+        .btn-decktype
+        {
+            cursor: pointer;
+            position: relative;
+            height: 45px;
+            width: 100%;
+            text-align: center;
+            margin-bottom: 3px;
+            outline: 3px solid #385979;
+            background: #A9BCC3;
+            color: #252B2D;
+            font-weight: 500;
+            font-size: 17px;
+            line-height: 18px;
+            overflow: hidden;
+            float: left;
+            z-index: 0;
+        }
+        
+        .btn-decktype:after
+        {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 500%;
+            height: 1000%;
+            background: rgba(255, 255, 255, 0.2);
+            z-index: 1;
+            transform-origin: 0% 0%;
+            transform: translateX(calc(20% - 25px)) translateY(10%) rotate(-45deg);
+            transition: transform .3s;
+        }
+        
+        .btn-decktype:hover::after
+        {
+            transform: translateY(10%) translateX(-25px) rotate(-45deg);
+        }
+        
+        .btn-decktype > img
+        {
+            position: absolute;
+            left: -9px;
+            top: -18px;
+            height: 200%;
+            z-index: -1;
+            clip: rect(0px, 53px, 70px, 0px);
+        }
+    
+        .btn-decktype > span
+        {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            padding-left: 48px;
+            padding-bottom: 2px;
+            text-transform: uppercase;
+        }
+    }
+}

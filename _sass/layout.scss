@@ -8,6 +8,7 @@ body {
 
 .container {
   height: 100%;
+  max-width: 1170px !important;
 }
 
 .text-white {
@@ -151,4 +152,9 @@ li {
 #ad2layout
 {
   background: $grey-blue3;
+}
+
+#newplayers-container h3, h4, h5, p
+{
+    margin-bottom: 1rem;
 }

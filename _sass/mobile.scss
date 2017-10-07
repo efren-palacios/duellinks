@@ -67,3 +67,23 @@
   .skyscraper-lg { width:120px; height:600px; }
   .banner-lg { width:468px; height:60px; }
 }
+
+@media only screen and (max-width: 575px)
+{
+  .decktype-filter
+  {
+    .btn-wrapper
+    {
+      .btn-decktype
+      {
+          font-size: 18px;
+          text-align: left;
+      }
+
+      .btn-decktype > span
+      {
+          padding-left: 55px;
+      }
+    }
+  }
+}

@@ -1,12 +1,12 @@
 ---
 layout: blog
-title: Cyber Angels
-meta: Top Decks - Cyber Angels
+title: Red-Eyes Balance
+meta: Top Decks - Red-Eyes Balance
 author: Creative
-date: 2017-10-05
+date: 2017-10-07
 comments: true
-description: In depth information about Cyber Angel decks.
-permalink: /topdecks/cyber-angels/
+description: In depth information about Red-Eyes Balance decks.
+permalink: /topdecks/red-eyes-balance/
 ---
 
 ## {{page.title}}
@@ -14,7 +14,7 @@ permalink: /topdecks/cyber-angels/
 <p class="text-muted"> {{page.description}} </p>
 
 <div>
-    <p>HERE COMES INFO ABOUT CYBER ANGELS DECKTYPE</p>
+    <p>HERE COMES INFO ABOUT RED-EYES BALANCE DECKTYPE</p>
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
@@ -27,7 +27,7 @@ permalink: /topdecks/cyber-angels/
         </tr>
     </thead>
     <tbody>
-        {% for deck in site.data.decklists.cyber-angels %}
+        {% for deck in site.data.decklists.red-eyes-balance %}
             <tr>
                 <th>
                     <div class="row">
@@ -37,7 +37,7 @@ permalink: /topdecks/cyber-angels/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/cyber-angels/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/topdecks/red-eyes-balance/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>
