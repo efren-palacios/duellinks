@@ -1,0 +1,28 @@
+---
+---
+[
+  {% assign decktypes = site.data.decklists %}
+  {% for decktype in decktypes %}
+    {% for deck in decktype[1] %}
+      {
+        "name": "{{deck[1].name}}",
+        "url": "/{{deck[1].name | downcase | replace: " ", "-"}}",
+        "author": "{{deck[1].author}}",
+        "created": "{{deck[1].created}}",
+        "decktype": "{{decktype[0]}}",
+        "front": "{{deck[1].main[0].name}}",
+        "main":
+        [
+          {% for card in deck[1].main %}
+            {
+              "name": "{{card.name}}",
+              "amount": "{{card.amount}}",
+              "type": "{{card.type}}"
+            }{% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        ]
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
