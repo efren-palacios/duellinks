@@ -1,0 +1,48 @@
+{
+  "name": "Parasite",
+  "author": "Aankara",
+  "created": "2017-10-04",
+  "skill": "Parasite Infestation",
+  "main": [
+    {
+      "name": "Lava Golem",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Amazoness Swords Woman",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Kuriboh",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Doomdog Octhros",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Burning Land",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Jade Insect Whistle",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Massivemorph",
+      "amount": "3",
+      "type": "trap"
+    }
+  ]
+}

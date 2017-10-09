@@ -1,0 +1,48 @@
+{
+  "name": "Rising Haze",
+  "author": "Superforms",
+  "created": "2017-10-05",
+  "skill": "Destiny Draw",
+  "main": [
+    {
+      "name": "Flame Tiger",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Caninetaur",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Hazy Flame Sphynx",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Soul Exchange",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Floodgate Trap Hole",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Beast Rising",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "name": "Dr Bluepepper DLPT",
+  "author": "DrBluePepper",
+  "created": "2017-09-28",
+  "skill": "The Tie That Binds",
+  "main": [
+    {
+      "name": "Gozuki",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Red-Eyes Zombie Dragon",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Samurai Skull",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Bacon Saver",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Red-Eyes Insight",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Anti-Magic Arrows",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Red-Eyes Spirit",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Metalmorph",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}
