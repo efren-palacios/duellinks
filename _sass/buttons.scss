@@ -51,8 +51,16 @@
         {
             transform: translateY(10%) translateX(-25px) rotate(-45deg);
         }
+
+        .decktype-new
+        {
+            z-index: 2;
+            position: absolute;
+            top: -10px;
+            right: 0px;
+        }
         
-        .btn-decktype > img
+        .btn-decktype > .decktype-card
         {
             position: absolute;
             left: -9px;
@@ -62,7 +70,7 @@
             clip: rect(0px, 53px, 70px, 0px);
         }
     
-        .btn-decktype > span
+        .btn-decktype > .decktype-display
         {
             width: 100%;
             height: 100%;

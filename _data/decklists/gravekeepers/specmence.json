@@ -1,0 +1,58 @@
+{
+  "name": "Gravekeepers",
+  "author": "specmence",
+  "created": "2017-10-10",
+  "skill": "Restart",
+  "main": [
+    {
+      "name": "Angmarl The Fiendish Monarch",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Gravekeeper's Oracle",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Gravekeeper's Chief",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Gravekeeper's Recruiter",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Crystal Seer",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Soul Exchange",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Double Summon",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Xing Zhen Hu",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}

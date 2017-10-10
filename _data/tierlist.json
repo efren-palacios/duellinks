@@ -1,38 +1,26 @@
-{
-    "Tier0":
-    [
-        { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" }
-    ],
-    "Tier1":
-    [
-        { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" },
-        { "id": "red-eyes-zombies",   "display": "Red Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" }
-    ],
-    "Tier2":
-    [
-        { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
-        { "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" },
-        { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
-        { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
-        { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
-        { "id": "red-eyes-balance",   "display": "Red Eyes Balance",   "card": "Red-Eyes Black Dragon" },
-        { "id": "relinquished",       "display": "Relinquished",       "card": "Relinquished" }
-    ],
-    "Tier3":
-    [
-        { "id": "bls-the-creator",    "display": "BLS - The Creator",  "card": "Black Luster Soldier - Sacred Soldier" },
-        { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
-        { "id": "gravekeepers",       "display": "Gravekeepers",       "card": "Gravekeeper's Oracle" },
-        { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "Dance Princess of the Ice Barrier" },
-        { "id": "mausoleum",          "display": "Mausoleum",          "card": "Mausoleum of the Emperor" },
-        { "id": "mill-decks",         "display": "Mill Decks",         "card": "Warm Worm" },
-        { "id": "naturia",            "display": "Naturia",            "card": "Naturia Marron" },
-        { "id": "necrofear",          "display": "Necrofear",          "card": "Dark Necrofear" },
-        { "id": "phoenix-nephthys",   "display": "Phoenix Nephthys",   "card": "Sacred Phoenix of Nephthys" },
-        { "id": "toon-barrel-dragon", "display": "Toon Barrel Dragon", "card": "Toon Barrel Dragon" },
-        { "id": "toons",              "display": "Toons",              "card": "Toon Kingdom" },
-        { "id": "treeborn-tributes",  "display": "Treeborn Tributes",  "card": "Treeborn Frog" },
-        { "id": "venus",              "display": "Venus",              "card": "The Agent of Creation - Venus" },
-        { "id": "gemini-zombies",     "display": "Gemini Zombies",     "card": "Heavy Knight of the Flame" }
-    ]
-}
+[
+    { "tier": 0, "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
+    { "tier": 1, "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" },
+    { "tier": 1, "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" },
+    { "tier": 2, "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
+    { "tier": 2, "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" },
+    { "tier": 2, "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
+    { "tier": 2, "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
+    { "tier": 2, "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
+    { "tier": 2, "id": "red-eyes-balance",   "display": "Red-Eyes Balance",   "card": "Red-Eyes Black Dragon" },
+    { "tier": 2, "id": "relinquished",       "display": "Relinquished",       "card": "Relinquished" },
+    { "tier": 3, "id": "bls-the-creator",    "display": "BLS - The Creator",  "card": "Black Luster Soldier - Sacred Soldier" },
+    { "tier": 3, "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
+    { "tier": 3, "id": "gravekeepers",       "display": "Gravekeepers",       "card": "Gravekeeper's Oracle" },
+    { "tier": 3, "id": "ice-barrier",        "display": "Ice Barrier",        "card": "Dance Princess of the Ice Barrier" },
+    { "tier": 3, "id": "mausoleum",          "display": "Mausoleum",          "card": "Mausoleum of the Emperor" },
+    { "tier": 3, "id": "mill-decks",         "display": "Mill Decks",         "card": "Warm Worm" },
+    { "tier": 3, "id": "naturia",            "display": "Naturia",            "card": "Naturia Marron" },
+    { "tier": 3, "id": "necrofear",          "display": "Necrofear",          "card": "Dark Necrofear" },
+    { "tier": 3, "id": "phoenix-nephthys",   "display": "Phoenix Nephthys",   "card": "Sacred Phoenix of Nephthys" },
+    { "tier": 3, "id": "toon-barrel-dragon", "display": "Toon Barrel Dragon", "card": "Toon Barrel Dragon" },
+    { "tier": 3, "id": "toons",              "display": "Toons",              "card": "Toon Kingdom" },
+    { "tier": 3, "id": "treeborn-tributes",  "display": "Treeborn Tributes",  "card": "Treeborn Frog" },
+    { "tier": 3, "id": "venus",              "display": "Venus",              "card": "The Agent of Creation - Venus" },
+    { "tier": 3, "id": "gemini-zombies",     "display": "Gemini Zombies",     "card": "Heavy Knight of the Flame" }
+]
