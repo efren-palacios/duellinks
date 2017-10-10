@@ -1,0 +1,44 @@
+{
+  "name": "BIGSUCC",
+  "author": "Taaha",
+  "created": "2017-10-06",
+  "skill": "Restart",
+  "main":
+  [
+    {
+      "name": "Relinquished",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sonic Bird",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Senju Of The Thousand Hands",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Black Illusion Ritual",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Interdimensional Matter Transporter",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}
