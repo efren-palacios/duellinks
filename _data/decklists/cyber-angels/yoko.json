@@ -1,8 +1,8 @@
 {
-  "name": "Cyber Bikinis",
-  "author": "unknown",
-  "created": "2017-10-04",
-  "skill": "Restart",
+  "name": "Cyber with Angels",
+  "author": "YoKo",
+  "created": "2017-10-11",
+  "skill": "Balance",
   "main": [
     {
       "name": "Cyber Angel Dakini",
@@ -21,12 +21,17 @@
     },
     {
       "name": "Sonic Bird",
-      "amount": "3",
+      "amount": "1",
       "type": "monster"
     },
     {
       "name": "Senju Of The Thousand Hands",
-      "amount": "3",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "1",
       "type": "monster"
     },
     {
@@ -35,14 +40,24 @@
       "type": "monster"
     },
     {
+      "name": "Machine Angel Absolute Ritual",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
       "name": "Machine Angel Ritual",
       "amount": "3",
       "type": "spell"
     },
     {
-      "name": "Machine Angel Absolute Ritual",
-      "amount": "2",
-      "type": "spell"
+      "name": "Spell Shield Type-8",
+      "amount": "1",
+      "type": "trap"
     }
   ]
 }
