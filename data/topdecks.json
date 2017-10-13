@@ -1,7 +1,12 @@
 ---
 ---
 [
-  {% for decktype in site.data.decklists %}
+  {% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+  {% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
+
+  {% assign decks = site.data.decklists[currentYear][currentMonth] %}
+
+  {% for decktype in decks %}
     {% if decktype[1].size != 0 %}
       {% assign tiertype = site.data.tierlist | where: "id", decktype[0] %}
       {
