@@ -16,6 +16,7 @@ module Jekyll
         year = decklists[year_key]
         for month_key in year.keys
           month = year[month_key]
+          monthName = Date::MONTHNAMES[month_key.to_i]
           for decktype_key in month.keys
             decktype = month[decktype_key]
             for deck_key in decktype.keys
@@ -34,7 +35,7 @@ module Jekyll
               lower_name.gsub! ' ', '-'
               updated_deck_name = lower_name   
 
-              deck_file.puts("permalink: /topdecks/#{decktype_key}/#{updated_deck_name}/")
+              deck_file.puts("permalink: /topdecks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}/")
               deck_file.puts("---")
               deck_file.puts("")
               deck_file.puts("{% assign deck = site.data.decklists.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")

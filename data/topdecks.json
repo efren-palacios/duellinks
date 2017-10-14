@@ -5,6 +5,7 @@
   {% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
 
   {% assign decks = site.data.decklists[currentYear][currentMonth] %}
+  {% assign month = site.data.months | where: "id", currentMonth %}
 
   {% for decktype in decks %}
     {% if decktype[1].size != 0 %}
@@ -20,7 +21,7 @@
             {
               "author": "{{deck[1].author}}",
               "name": "{{deck[1].name}}",
-              "url": "/{{decktype[0]}}/{{deck[1].name | downcase | replace: " ", "-"}}",
+              "url": "/{{month[0].name}}-{{currentYear}}/{{decktype[0]}}/{{deck[1].name | downcase | replace: " ", "-"}}",
               "created": "{{deck[1].created}}",
               "front": "{{deck[1].main[0].name}}",
               "skill": "{{deck[1].skill}}"
