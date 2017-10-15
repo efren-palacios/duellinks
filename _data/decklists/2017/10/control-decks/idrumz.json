@@ -1,0 +1,48 @@
+{
+  "name": "iDrumz' Control",
+  "author": "iDrumZ",
+  "created": "2017-10-10",
+  "skill": "Beatdown",
+  "main": [
+    {
+      "name": "Spear Dragon",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Heavy Knight Of The Flame",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sergeant Electro",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Super Rush Headlong",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Floodgate Traphole",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "3",
+      "type": "trap"
+    }
+  ]
+}

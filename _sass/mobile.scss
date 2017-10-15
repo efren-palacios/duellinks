@@ -76,13 +76,12 @@
     {
       .btn-decktype
       {
-          font-size: 18px;
           text-align: left;
-      }
 
-      .btn-decktype > .decktype-display
-      {
-          padding-left: 55px;
+          > .decktype-display
+          {
+              padding-left: 55px;
+          }
       }
     }
   }

@@ -1,0 +1,49 @@
+{
+  "name": "Taahaa's Control Deck",
+  "author": "Taahaa",
+  "created": "2017-10-15",
+  "skill": "Balance",
+  "main": [
+    {
+      "name": "Lava Golem",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Heavy Knight Of The Flame",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sergeant Electro",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "D.D. Warrior",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Super Rush Headling",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Floodgate Trap Hole",
+      "amount": "3",
+      "type": "trap"
+    }
+    ,
+    {
+      "name": "Mirror Wall",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}

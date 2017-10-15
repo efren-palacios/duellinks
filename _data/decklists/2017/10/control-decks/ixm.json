@@ -1,0 +1,43 @@
+{
+  "name": "Oct KOG control",
+  "author": "ixM-",
+  "created": "2017-10-15",
+  "skill": "Destiny Draw",
+  "main": [
+    {
+      "name": "BOXer",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Heavy Knight Of The Flame",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Sergeant Electro",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3",
+      "type": "spell"
+    },
+    {
+      "name": "Floodgate Traphole",
+      "amount": "3",
+      "type": "trap"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Massivemorph",
+      "amount": "3",
+      "type": "trap"
+    }
+  ]
+}

@@ -25,7 +25,7 @@
             background: #A9BCC3;
             color: #252B2D;
             font-weight: 500;
-            font-size: 17px;
+            font-size: 19px;
             line-height: 18px;
             overflow: hidden;
             float: left;
@@ -77,9 +77,17 @@
             display: flex;
             justify-content: center;
             flex-direction: column;
+            padding-top: 2px;
             padding-left: 48px;
-            padding-bottom: 2px;
             text-transform: uppercase;
         }
+    }
+}
+
+.skill-filter
+{
+    span
+    {
+        cursor: pointer;
     }
 }
