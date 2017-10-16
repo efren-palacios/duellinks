@@ -1,6 +1,6 @@
 .fa-bars
 {
-  color: $flashy-blue;
+  color: $text-default;
 }
 
 .navbar
@@ -8,4 +8,9 @@
   border: 1px solid transparent;
   box-shadow: 0 0 10px 0 $black;
   background-color: $dark-blue;
+}
+
+li.nav-item > a
+{
+  color: $text-default;
 }

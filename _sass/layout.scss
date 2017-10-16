@@ -25,8 +25,14 @@ body
   display: none;
 }
 
-.text-white {
-  color: hsla(0, 0%, 100%, .7) !important;
+.text-white
+{
+  color: $text-default !important;
+}
+
+.text-muted
+{
+  color: $text-muted !important;
 }
 
 .list-group-item {
@@ -34,7 +40,7 @@ body
 }
 
 hr {
-  border-color:$dark-blue;
+  border-color: $dark-blue;
   border: 1px solid $dark-blue;
 }
 
@@ -49,7 +55,7 @@ hr {
 .comments {
   background-color: rgb(20, 30, 48);
   padding: 1rem;
-  color: white;
+  color: $text-default;
   border-radius: 4px;
   border: 1px solid $grey-blue4;
 }
@@ -155,12 +161,11 @@ li {
   display: none;
   width: 100%;
   padding: 20px 10px;
-  background: $grey-blue;
-  text-align: center;
-  font-weight: bold;
-  color: hsla(0, 0%, 100%, .7);
-  border-radius: 5px;
   margin-bottom: 2rem;
+  text-align: center;
+  border-radius: 2px;
+  color: $text-default;
+  background: rgba($grey-blue, 0.7);
 }
 
 #ad2layout
