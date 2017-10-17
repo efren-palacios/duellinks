@@ -8,19 +8,18 @@
       <a class="navbar-brand" href="{{site.url}}">
         <img src="{{site.url}}/img/logo.png" width="80px" alt="">
       </a>
-      <li class="nav-item ">
-        <a class="nav-link active" href="{{site.url}}">Home</a>
-      </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.url}}">Tier List</a>
       </li>
-      <li class="nav-item">
+      {% if page.url contains "/topdecks" %}
+      <li class="nav-item active">{% else %}<li class="nav-item">{% endif %}
         <a class="nav-link" href="{{site.url}}/topdecks/">Top Decks</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.url}}">MCS #2</a>
       </li>
-      <li class="nav-item">
+      {% if page.url contains "/newplayers" %}
+      <li class="nav-item active">{% else %}<li class="nav-item">{% endif %}
         <a class="nav-link" href="{{site.url}}/newplayers/">New Players</a>
       </li>
       <li class="nav-item">

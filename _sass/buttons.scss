@@ -34,8 +34,16 @@
 
             &.active
             {
-                outline: 3px solid #797538;
-                background: #c3bfa9;
+                outline: 3px solid #206da9;
+                background: #91c8da;
+
+                /* ----- red ---- */
+                /*outline: 3px solid #793838;
+                background: #c3a9a9;*/
+
+                /* --- yellow --- */
+                /*outline: 3px solid #797538;
+                background: #c3bfa9;*/
             }
 
             > .decktype-card
@@ -110,7 +118,7 @@
 
         &.active
         {
-            color: #bba52c;
+            color: #4a98b7;
         }
     }
 }
