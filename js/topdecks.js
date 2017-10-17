@@ -12,11 +12,14 @@ function InitializeViewModel()
         filteredDecks: ko.observableArray(),
         filteredSkills: ko.observableArray(),
 
+        activeDeckType: ko.observable(),
+        activeSkill: ko.observable(""),
+
         filteredDecksByType: [],
 
         filterByType: function(decktype)
         {
-            var newDecks = $.map($(TopDecksViewModel.deckTypes()).filter(function(){return this.id === decktype.id}), function(value, index){ return value.decks });
+            var newDecks = $.map($(TopDecksViewModel.deckTypes()).filter(function(){ return this.id === decktype.id}), function(value, index){ return value.decks });
             var newSkills = RemoveDuplicates($.map(newDecks, function(value, index){ return value.skill }));
             
             TopDecksViewModel.filteredSkills(newSkills);
@@ -26,6 +29,8 @@ function InitializeViewModel()
                 
             TopDecksViewModel.filteredDecks(newDecks);
             filteredDecksByType = newDecks;
+            TopDecksViewModel.activeDeckType(decktype);
+            TopDecksViewModel.activeSkill("");
         },
 
         filterByTypeAndSkill: function(skill)
@@ -36,6 +41,7 @@ function InitializeViewModel()
                 newDecks.sort(SortDecksByDate);
                 
             TopDecksViewModel.filteredDecks(newDecks);
+            TopDecksViewModel.activeSkill(skill);
         },
 
         deckTypeHasNewDecks: function(deckType)

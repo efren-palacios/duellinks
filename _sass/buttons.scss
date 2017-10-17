@@ -30,6 +30,12 @@
             overflow: hidden;
             float: left;
             z-index: 0;
+
+            &.active
+            {
+                outline: 3px solid #797538;
+                background: #c3bfa9;
+            }
         }
         
         .btn-decktype:after
@@ -89,5 +95,10 @@
     span
     {
         cursor: pointer;
+
+        &.active
+        {
+            color: #bba52c;
+        }
     }
 }
