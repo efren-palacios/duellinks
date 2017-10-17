@@ -78,12 +78,17 @@ function GetTopDecks()
             $.merge(defaultDecks, decktype.decks);
         });
 
-        defaultDecks.sort(SortDecksByDate);
-
-        TopDecksViewModel.filteredDecks(defaultDecks);
-
+        data.sort(SortDeckTypesByCount);
         TopDecksViewModel.deckTypes(data);
+
+        defaultDecks.sort(SortDecksByDate);
+        TopDecksViewModel.filteredDecks(defaultDecks);
     });
+}
+
+function SortDeckTypesByCount(a, b)
+{
+    return ((a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0));
 }
 
 function SortDecksByDate(a, b)
