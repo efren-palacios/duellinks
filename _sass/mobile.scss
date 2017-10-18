@@ -1,24 +1,29 @@
 @media only screen and (max-width: 768px)
 {
-  .cardname {
+  .cardname
+  {
     text-align: center;
     font-size: 1.5em;
   }
 
-  .hero {
+  .hero
+  {
     margin-top: 50px;
     position: static;
   } 
   
-  .rarity {
+  .rarity
+  {
     height: 2rem;
   }
 
-  .col-12.card-deck.header {
+  .col-12.card-deck.header
+  {
     max-width: 50%;
   }
   
-  .card-img-top {
+  .card-img-top
+  {
     max-height: 100px;
     min-height: 100px;
   }
@@ -70,18 +75,73 @@
 
 @media only screen and (max-width: 575px)
 {
+  .decktype-filter .btn-wrapper
+  {
+    width: 50%;
+
+    .btn-decktype
+    {
+      > .decktype-display
+      {
+        font-size: 17px;
+      }
+
+      > .decktype-count
+      {
+        font-size: 18px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 480px)
+{
   .decktype-filter
   {
+    width: calc(100% + 16px);
+    margin-left: -8px;
+
     .btn-wrapper
     {
-      .btn-decktype
+      padding-right: 8px;
+      padding-left: 8px;
+      margin-bottom: 14px;
+  
+      .btn-decktype 
       {
-          text-align: left;
+        > .decktype-display
+        {
+          font-size: 15px;
+        }
 
-          > .decktype-display
-          {
-              padding-left: 55px;
-          }
+        > .decktype-count
+        {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 430px)
+{
+  .decktype-filter .btn-wrapper
+  {
+    width: 100%;
+
+    .btn-decktype 
+    {
+      text-align: left;
+      
+      > .decktype-display
+      {
+        font-size: 17px;
+        padding-left: 55px;
+      }
+
+      > .decktype-count
+      {
+        font-size: 18px;
       }
     }
   }
