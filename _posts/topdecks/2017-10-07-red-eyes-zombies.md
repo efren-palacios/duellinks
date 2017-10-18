@@ -33,7 +33,7 @@ permalink: /topdecks/red-eyes-zombies/
                     <div class="row">
                         <div class="col-lg-1">
                             <div class="thumbnail">
-                                <img src="http://yugiohprices.com/api/card_image/{{deck[1].main[0].name}}" class="portrait" />  
+                                <img src="https://yugiohprices.com/api/card_image/{{deck[1].main[0].name}}" class="portrait" />  
                             </div>
                         </div>
                         <div class="col-lg-11">
