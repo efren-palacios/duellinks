@@ -34,6 +34,8 @@ function InitializeViewModel()
                 filteredDecksByType = newDecks;
                 TopDecksViewModel.activeDeckType(decktype);
                 TopDecksViewModel.activeSkill("");
+
+                ScrollTo("#SkillSelection");
             }
             else
             {
@@ -130,4 +132,23 @@ function RemoveDuplicates(array)
     {
         return index === $.inArray(elem, array);
     });
+}
+
+function ScrollTo(element)
+{
+    if($(window).outerWidth() <= 767)
+    {
+        var page = $("html,body");
+        var scrollPosition = $(element).offset().top - $(".navbar").outerHeight() - 15;
+
+        page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
+        {
+            page.stop();
+        });
+    
+        page.animate({ scrollTop: scrollPosition }, 1500, function()
+        {
+            page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
+        });
+    }
 }

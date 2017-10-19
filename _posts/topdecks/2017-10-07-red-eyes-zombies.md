@@ -18,7 +18,7 @@ permalink: /top-decks/red-eyes-zombies/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-<table class="table" style="margin-top: 2rem;" id="topDeckTable">
+<table class="table" style="margin-top: 2rem;" id="TopDeckTable">
     <thead>
         <tr>
             <th>Deck Name</th>

@@ -1,39 +1,40 @@
 
 /* ------------------------ */
 /* ---- TOP DECK TABLE ---- */
-#topDeckTable 
+#TopDeckTable 
 {
     border: 1px solid rgba(255,255,255,0.08);
+    margin-top: 10px;
 }
-#topDeckTable thead 
+#TopDeckTable thead 
 {
     background: #243B55; 
 }
-#topDeckTable tbody 
+#TopDeckTable tbody 
 {
     background: rgba(36,59,85,.4); 
 }
-#topDeckTable thead tr th 
+#TopDeckTable thead tr th 
 {
     border: none;
 }
-#topDeckTable tbody tr th 
+#TopDeckTable tbody tr th 
 {
     border-top: 1px solid rgba(255,255,255,0.08);
     color: #868e96;
     font-weight: normal;
 }  
-#topDeckTable tbody tr th .row 
+#TopDeckTable tbody tr th .row 
 {
     align-items: center; 
 }
-#topDeckTable tbody tr th .row .thumbnail 
+#TopDeckTable tbody tr th .row .thumbnail 
 {
     height: 35px; 
     width: 35px;
 }
 
-#topDeckTable a
+#TopDeckTable a
 {
     color: $text-default;
 }
