@@ -83,6 +83,11 @@ function InitializeViewModel()
             });
 
             return deckTypeHasNewDecks;
+        },
+
+        navigateToDeck: function(deck)
+        {
+            window.location.href = "/top-decks" + deck.url;
         }
     };
     

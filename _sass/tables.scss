@@ -1,0 +1,86 @@
+/* --- GENERAL TABLES --- */
+table 
+{
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    margin-top: 10px;
+}
+
+table thead 
+{
+    background: #243B55;
+}
+
+table tbody 
+{
+    background: rgba(36,59,85,.4);
+}
+
+table tbody tr:hover
+{
+    background: rgba(255, 255, 255, 0.03);
+}
+
+table tr th
+{
+    border: none !important;
+}
+
+table tr td 
+{
+    border-top: 1px solid rgba(255,255,255,0.08) !important;
+    color: $text-default;
+    font-weight: normal;
+}
+
+table th,
+table td
+{
+    vertical-align: middle !important;
+    padding: 10px !important;
+}
+
+table .thumb-col
+{
+    width: 58px;
+    padding: 4px !important;
+}
+
+table .thumbnail 
+{
+    height: 46px; 
+    width: 46px;
+    margin-right: 0px;
+}
+/* ---------------------- */
+
+
+
+/* -- SPECIFIC TABLES --- */
+
+#TopDecksTable
+{
+    tbody tr
+    {
+        cursor: pointer;
+    }
+
+    .skill
+    {
+        width: 20%;
+        min-width: 150px;
+    }
+
+    .author
+    {
+        width: 20%;
+        min-width: 150px;
+    }
+
+    .added
+    {
+        width: 10%;
+        min-width: 100px;
+    }
+}
+
+/* ---------------------- */
