@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-07
 comments: true
 description: In depth information about Red-Eyes Balance decks.
-permalink: /topdecks/red-eyes-balance/
+permalink: /top-decks/red-eyes-balance/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/red-eyes-balance/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/red-eyes-balance/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/red-eyes-balance/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

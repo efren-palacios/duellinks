@@ -11,19 +11,25 @@
       <li class="nav-item">
         <a class="nav-link" href="{{site.url}}">Tier List</a>
       </li>
-      {% if page.url contains "/topdecks" %}
-      <li class="nav-item active">{% else %}<li class="nav-item">{% endif %}
-        <a class="nav-link" href="{{site.url}}/topdecks/">Top Decks</a>
+      <li class="nav-item active">
+          {% if page.url contains "/top-decks" %}
+            <a class="nav-link active" href="{{site.url}}/top-decks/">Top Decks</a>
+          {% else %}
+            <a class="nav-link" href="{{site.url}}/top-decks/">Top Decks</a>
+          {% endif %}
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.url}}">MCS #2</a>
+        <a class="nav-link" href="{{site.url}}">MCS</a>
       </li>
-      {% if page.url contains "/newplayers" %}
-      <li class="nav-item active">{% else %}<li class="nav-item">{% endif %}
-        <a class="nav-link" href="{{site.url}}/newplayers/">New Players</a>
+      <li class="nav-item active">
+        {% if page.url contains "/newplayers" %}
+          <a class="nav-link active" href="{{site.url}}/newplayers/">New Players</a>
+        {% else %}
+          <a class="nav-link" href="{{site.url}}/newplayers/">New Players</a>
+        {% endif %}
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#">Discord</a>
+        <a class="nav-link" href="#">Discord</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="{{site.url}}">New Event</a>

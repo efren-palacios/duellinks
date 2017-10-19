@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-07
 comments: true
 description: In depth information about Relinquished decks.
-permalink: /topdecks/relinquished/
+permalink: /top-decks/relinquished/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/relinquished/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/relinquished/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}//top-decks//relinquished/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

@@ -6,7 +6,7 @@ author: unpreceden7ed
 date: 2017-09-30
 comments: true
 description: In depth information about Toon Barrel Dragon decks.
-permalink: /topdecks/toon-barrel-dragon/
+permalink: /top-decks/toon-barrel-dragon/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/toon-barrel-dragon/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/toon-barrel-dragon/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/toon-barrel-dragon/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

@@ -28,7 +28,7 @@ function InitializeViewModel()
                 TopDecksViewModel.filteredSkills(newSkills);
 
                 if(newDecks.length !== 0)
-                    newDecks.sort(SortDecksByDate);
+                    newDecks.sort(SortDecks);
                     
                 TopDecksViewModel.filteredDecks(newDecks);
                 filteredDecksByType = newDecks;
@@ -52,7 +52,7 @@ function InitializeViewModel()
                 var newDecks = $(filteredDecksByType).filter(function(){return this.skill === skill});
                 
                 if(newDecks.length !== 0)
-                    newDecks.sort(SortDecksByDate);
+                    newDecks.sort(SortDecks);
                     
                 TopDecksViewModel.filteredDecks(newDecks);
                 TopDecksViewModel.activeSkill(skill);
@@ -91,7 +91,7 @@ function GetTopDecks()
 {
     $.getJSON( "/data/topdecks.json", function(data)
     {
-        data.sort(SortDeckTypesByCount);
+        data.sort(SortDeckTypes);
         TopDecksViewModel.deckTypes(data);
 
         TopDecksViewModel.defaultDecks = [];
@@ -101,19 +101,27 @@ function GetTopDecks()
             $.merge(TopDecksViewModel.defaultDecks, decktype.decks);
         });
 
-        TopDecksViewModel.defaultDecks.sort(SortDecksByDate);
+        TopDecksViewModel.defaultDecks.sort(SortDecks);
         TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
     });
 }
 
-function SortDeckTypesByCount(a, b)
+function SortDeckTypes(a, b)
 {
-    return ((a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0));
+    var countResult = (a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0);
+    if(countResult != 0) return countResult;
+
+    var displayResult = (a.display > b.display) ? 1 : ((a.display < b.display) ? -1 : 0);
+    return displayResult;
 }
 
-function SortDecksByDate(a, b)
+function SortDecks(a, b)
 {
-    return ((a.created < b.created) ? 1 : ((a.created > b.created) ? -1 : 0));
+    var createdResult = (a.created < b.created) ? 1 : ((a.created > b.created) ? -1 : 0);
+    if(createdResult != 0) return createdResult;
+
+    var nameResult = (a.name > b.name) ? 1 : ((a.name < b.name) ? -1 : 0);
+    return nameResult;
 }
 
 function RemoveDuplicates(array)

@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-07
 comments: true
 description: In depth information about Hazy Flame BR decks.
-permalink: /topdecks/hazy-flame-br/
+permalink: /top-decks/hazy-flame-br/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/hazy-flame-br/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/hazy-flame-br/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/hazy-flame-br/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-07
 comments: true
 description: In depth information about Control Decks decks.
-permalink: /topdecks/control-decks/
+permalink: /top-decks/control-decks/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/control-decks/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/control-decks/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/control-decks/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

@@ -25,7 +25,14 @@ li.nav-item > a.nav-link
   padding-right: 0.8rem !important;
 }
 
-li.nav-item.active > a.nav-link
+li.nav-item > a.nav-link:hover
 {
-  color: #2f7d9c;
+  color: #78A9C1;
+}
+
+li.nav-item > a.nav-link.active,
+li.nav-item > a.nav-link:focus
+
+{
+  color: #2F7D9C;
 }

@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-07
 comments: true
 description: In depth information about Burn decks.
-permalink: /topdecks/burn-decks/
+permalink: /top-decks/burn-decks/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/burn-decks/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/burn-decks/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/burn-decks/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>

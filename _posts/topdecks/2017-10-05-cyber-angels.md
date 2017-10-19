@@ -6,7 +6,7 @@ author: Creative
 date: 2017-10-05
 comments: true
 description: In depth information about Cyber Angel decks.
-permalink: /topdecks/cyber-angels/
+permalink: /top-decks/cyber-angels/
 ---
 
 ## {{page.title}}
@@ -37,7 +37,7 @@ permalink: /topdecks/cyber-angels/
                             </div>
                         </div>
                         <div class="col-lg-11">
-                            <a href="{{site.url}}/topdecks/cyber-angels/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
+                            <a href="{{site.url}}/top-decks/cyber-angels/{{deck[1].name | downcase | replace: " ", "-" }}">{{deck[1].name}}</a>    
                         </div>
                     </div>
                 </th>
