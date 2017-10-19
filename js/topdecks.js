@@ -12,36 +12,56 @@ function InitializeViewModel()
         filteredDecks: ko.observableArray(),
         filteredSkills: ko.observableArray(),
 
-        activeDeckType: ko.observable(),
+        activeDeckType: ko.observable(""),
         activeSkill: ko.observable(""),
 
+        defaultDecks: [],
         filteredDecksByType: [],
 
         filterByType: function(decktype)
         {
-            var newDecks = $.map($(TopDecksViewModel.deckTypes()).filter(function(){ return this.id === decktype.id}), function(value, index){ return value.decks });
-            var newSkills = RemoveDuplicates($.map(newDecks, function(value, index){ return value.skill }));
-            
-            TopDecksViewModel.filteredSkills(newSkills);
-
-            if(newDecks.length !== 0)
-                newDecks.sort(SortDecksByDate);
+            if(TopDecksViewModel.activeDeckType() != decktype)
+            {
+                var newDecks = $.map($(TopDecksViewModel.deckTypes()).filter(function(){ return this.id === decktype.id}), function(value, index){ return value.decks });
+                var newSkills = RemoveDuplicates($.map(newDecks, function(value, index){ return value.skill }));
                 
-            TopDecksViewModel.filteredDecks(newDecks);
-            filteredDecksByType = newDecks;
-            TopDecksViewModel.activeDeckType(decktype);
-            TopDecksViewModel.activeSkill("");
+                TopDecksViewModel.filteredSkills(newSkills);
+
+                if(newDecks.length !== 0)
+                    newDecks.sort(SortDecksByDate);
+                    
+                TopDecksViewModel.filteredDecks(newDecks);
+                filteredDecksByType = newDecks;
+                TopDecksViewModel.activeDeckType(decktype);
+                TopDecksViewModel.activeSkill("");
+            }
+            else
+            {
+                TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
+                TopDecksViewModel.filteredSkills([]);
+                filteredDecksByType = [];
+                TopDecksViewModel.activeDeckType("");
+                TopDecksViewModel.activeSkill("");
+            }
         },
 
         filterByTypeAndSkill: function(skill)
         {
-            var newDecks = $(filteredDecksByType).filter(function(){return this.skill === skill});
-            
-            if(newDecks.length !== 0)
-                newDecks.sort(SortDecksByDate);
+            if(TopDecksViewModel.activeSkill() != skill)
+            {
+                var newDecks = $(filteredDecksByType).filter(function(){return this.skill === skill});
                 
-            TopDecksViewModel.filteredDecks(newDecks);
-            TopDecksViewModel.activeSkill(skill);
+                if(newDecks.length !== 0)
+                    newDecks.sort(SortDecksByDate);
+                    
+                TopDecksViewModel.filteredDecks(newDecks);
+                TopDecksViewModel.activeSkill(skill);
+            }
+            else
+            {
+                TopDecksViewModel.activeSkill("");
+                TopDecksViewModel.filteredDecks(filteredDecksByType);
+            }
         },
 
         deckTypeHasNewDecks: function(deckType)
@@ -71,18 +91,18 @@ function GetTopDecks()
 {
     $.getJSON( "/data/topdecks.json", function(data)
     {
-        var defaultDecks = [];
-
-        $.each(data,  function(index, decktype)
-        {
-            $.merge(defaultDecks, decktype.decks);
-        });
-
         data.sort(SortDeckTypesByCount);
         TopDecksViewModel.deckTypes(data);
 
+        TopDecksViewModel.defaultDecks = [];
+
+        $.each(data,  function(index, decktype)
+        {
+            $.merge(TopDecksViewModel.defaultDecks, decktype.decks);
+        });
+
         defaultDecks.sort(SortDecksByDate);
-        TopDecksViewModel.filteredDecks(defaultDecks);
+        TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
     });
 }
 
