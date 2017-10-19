@@ -101,7 +101,7 @@ function GetTopDecks()
             $.merge(TopDecksViewModel.defaultDecks, decktype.decks);
         });
 
-        defaultDecks.sort(SortDecksByDate);
+        TopDecksViewModel.defaultDecks.sort(SortDecksByDate);
         TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
     });
 }
