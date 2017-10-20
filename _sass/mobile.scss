@@ -73,6 +73,27 @@
   .banner-lg { width:468px; height:60px; }
 }
 
+@media only screen and (max-width: 767px)
+{
+  .navbar .navbar-nav
+  {
+    .navbar-brand 
+    {
+      margin-right: 0;
+    }
+
+    li.nav-item > a.nav-link
+    {
+      padding-top: 6px;
+    }
+
+    li.nav-item:last-child
+    {
+      margin-bottom: 6px;
+    }
+  }
+}
+
 @media only screen and (max-width: 575px)
 {
   .decktype-filter .btn-wrapper
