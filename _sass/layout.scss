@@ -37,6 +37,11 @@ p
   display: none;
 }
 
+.clearfix
+{
+  clear: both;
+}
+
 .text-white
 {
   color: $text-default !important;

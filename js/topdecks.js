@@ -45,6 +45,8 @@ function InitializeViewModel()
                 TopDecksViewModel.activeDeckType("");
                 TopDecksViewModel.activeSkill("");
             }
+
+            TopDecksViewModel.resetPagination();
         },
 
         filterByTypeAndSkill: function(skill)
@@ -64,6 +66,8 @@ function InitializeViewModel()
                 TopDecksViewModel.activeSkill("");
                 TopDecksViewModel.filteredDecks(filteredDecksByType);
             }
+
+            TopDecksViewModel.resetPagination();
         },
 
         deckTypeHasNewDecks: function(deckType)
@@ -88,6 +92,30 @@ function InitializeViewModel()
         navigateToDeck: function(deck)
         {
             window.location.href = "/top-decks" + deck.url;
+        },
+
+        decksPerPage: 10,
+        currentPage: ko.observable(1),
+        pages: ko.observableArray(),
+
+        pagedDecks: ko.computed({read: function()
+        {
+            var start = (TopDecksViewModel.currentPage() -1 ) * TopDecksViewModel.decksPerPage;
+            return TopDecksViewModel.filteredDecks().slice(start, start + TopDecksViewModel.decksPerPage);
+        },
+        deferEvaluation: true}),
+
+        resetPagination: function()
+        {
+            TopDecksViewModel.currentPage(1);
+            TopDecksViewModel.pages.removeAll();
+
+            var amountOfDecks = TopDecksViewModel.filteredDecks().length;
+
+            for(var i = 1; i <= amountOfDecks / TopDecksViewModel.decksPerPage + 1; i++)
+            {
+                TopDecksViewModel.pages.push({page: i, active: (i == 1)});
+            }
         }
     };
     
@@ -110,6 +138,7 @@ function GetTopDecks()
 
         TopDecksViewModel.defaultDecks.sort(SortDecks);
         TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
+        TopDecksViewModel.resetPagination();
     });
 }
 
