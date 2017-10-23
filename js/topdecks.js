@@ -89,11 +89,6 @@ function InitializeViewModel()
             return deckTypeHasNewDecks;
         },
 
-        navigateToDeck: function(deck)
-        {
-            window.location.href = "/top-decks" + deck.url;
-        },
-
         decksPerPage: 10,
         currentPage: ko.observable(1),
         pages: ko.observableArray(),

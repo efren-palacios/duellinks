@@ -60,9 +60,21 @@ table .thumbnail
 
 #TopDecksTable
 {
-    tbody tr
+    td
     {
-        cursor: pointer;
+        padding: 0px !important;
+        height: 54px;
+    }
+
+    tbody tr td a
+    {
+        padding: 4px;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        color: $text-muted;
+        text-decoration: none;
     }
 
     .skill
