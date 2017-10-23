@@ -59,9 +59,13 @@ li.nav-item > a.nav-link:focus
 
 .pagination
 {
-  margin-left: 7px;
-  margin-right: 7px;
+  margin-right: 14px;
   display: inline-flex;
+
+  &:last-child
+  {
+    margin-right: 0px;
+  }
 
   > .page-item
   {
@@ -83,6 +87,8 @@ li.nav-item > a.nav-link:focus
       cursor: pointer;
       display: flex;
       justify-content: center;
+      padding: 6px 4px;
+      font-size: 21px;
       min-width: 40px;
       color: $text-muted;
       background-color: rgba(36, 59, 85, 0.4);
@@ -90,9 +96,21 @@ li.nav-item > a.nav-link:focus
 
       &:hover
       {
-        background: rgba(255, 255, 255, 0.03);
+        background: rgba(255, 255, 255, 0.06);
         color: $text-muted;
       }
+
+      .fa
+      {
+        font-size: 15px;
+      }
+    }
+
+    &.previous .page-link,
+    &.next .page-link
+    {
+      padding-top: 12px;
+      padding-bottom: 12px;
     }
   }
 }
