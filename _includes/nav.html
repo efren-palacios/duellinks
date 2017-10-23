@@ -9,7 +9,11 @@
         <img src="{{site.url}}/img/logo.png" alt="">
       </a>
       <li class="nav-item">
-        <a class="nav-link" href="{{site.url}}/tier-list/">Tier List</a>
+        {% if page.url contains "/tier-list" %}
+          <a class="nav-link active" href="{{site.url}}/tier-list/">Tier List</a>
+        {% else %}
+          <a class="nav-link" href="{{site.url}}/tier-list/">Tier List</a>
+        {% endif %}
       </li>
       <li class="nav-item active">
           {% if page.url contains "/top-decks" %}
