@@ -8,12 +8,18 @@
   {% assign month = site.data.months | where: "id", currentMonth %}
 
   {% for decktype in decks %}
-    {% if decktype[1].size != 0 %}
-      {% assign tiertype = site.data.tierlist | where: "id", decktype[0] %}
+    {% if decktype[1].size != 0 %}      
+      {% for tier in site.data.tierlist %}
+        {% for type in tier.Types %}
+          {% if type.id == decktype[0] %}
+           {% assign tiertype = type %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
       {
         "id": "{{decktype[0]}}",
-        "display": "{{tiertype[0].display}}",
-        "card": "{{tiertype[0].card}}",
+        "display": "{{tiertype.display}}",
+        "card": "{{tiertype.card}}",
         "count": "{{decktype[1].size}}",
         "decks":
         [
