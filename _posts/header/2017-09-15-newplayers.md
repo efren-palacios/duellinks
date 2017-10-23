@@ -7,7 +7,7 @@ image: https://i.imgur.com/wI6RG17.png
 category: header
 comments: true
 date: 2017-9-15 01:31:00 -0600
-permalink: /newplayers/
+permalink: /new-players/
 ---
 
 ## {{page.title}}

@@ -57,6 +57,42 @@ li.nav-item > a.nav-link:focus
   color: #2F7D9C;
 }
 
-.pagination {
-  float: left;
+.pagination
+{
+  margin-left: 7px;
+  margin-right: 7px;
+  display: inline-flex;
+
+  > .page-item
+  {
+    display: inline;
+
+    &.active .page-link
+    {
+      background-color: #2F7D9C;
+      border-color: rgba(255, 255, 255, 0.08);
+
+      &:hover
+      {
+        background-color: #2F7D9C;
+      }
+    }
+
+    .page-link
+    {
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      min-width: 40px;
+      color: $text-muted;
+      background-color: rgba(36, 59, 85, 0.4);
+      border-color: rgba(255, 255, 255, 0.08);
+
+      &:hover
+      {
+        background: rgba(255, 255, 255, 0.03);
+        color: $text-muted;
+      }
+    }
+  }
 }
