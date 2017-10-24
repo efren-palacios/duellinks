@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Hammer Shark decks.
 type: hammer-shark
-permalink: /top-decks/hammer-shark/
+permalink: /tier-list/hammer-shark/
 ---
 
 <div class="section">

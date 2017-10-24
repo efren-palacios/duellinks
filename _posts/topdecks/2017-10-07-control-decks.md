@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Control Decks decks.
 type: control-decks
-permalink: /top-decks/control-decks/
+permalink: /tier-list/control-decks/
 ---
 
 <div class="section">

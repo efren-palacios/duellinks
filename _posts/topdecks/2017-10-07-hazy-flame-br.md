@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Hazy Flame BR decks.
 type: hazy-flame-br
-permalink: /top-decks/hazy-flame-br/
+permalink: /tier-list/hazy-flame-br/
 ---
 
 <div class="section">

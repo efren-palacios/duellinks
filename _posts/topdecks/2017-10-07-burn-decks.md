@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Burn decks.
 type: burn-decks
-permalink: /top-decks/burn-decks/
+permalink: /tier-list/burn-decks/
 ---
 
 <div class="section">

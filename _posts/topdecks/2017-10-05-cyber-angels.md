@@ -6,7 +6,7 @@ date: 2017-10-05
 comments: true
 description: In depth information about Cyber Angel decks.
 type: cyber-angels
-permalink: /top-decks/cyber-angels/ 
+permalink: /tier-list/cyber-angels/ 
 ---
 
 <div class="section">

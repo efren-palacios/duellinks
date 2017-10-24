@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Red-Eyes Balance decks.
 type: red-eyes-balance
-permalink: /top-decks/red-eyes-balance/
+permalink: /tier-list/red-eyes-balance/
 ---
 
 <div class="section">

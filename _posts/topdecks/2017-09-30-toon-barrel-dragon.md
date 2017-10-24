@@ -6,7 +6,7 @@ date: 2017-09-30
 comments: true
 description: In depth information about Toon Barrel Dragon decks.
 type: toon-barrel-dragon
-permalink: /top-decks/toon-barrel-dragon/
+permalink: /tier-list/toon-barrel-dragon/
 ---
 
 <div class="section">

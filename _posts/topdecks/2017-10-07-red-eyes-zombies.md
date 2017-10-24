@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Red-Eyes Zombies decks.
 type: red-eyes-zombies
-permalink: /top-decks/red-eyes-zombies/
+permalink: /tier-list/red-eyes-zombies/
 ---
 
 <div class="section">

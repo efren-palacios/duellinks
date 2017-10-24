@@ -6,7 +6,7 @@ date: 2017-10-07
 comments: true
 description: In depth information about Relinquished decks.
 type: relinquished
-permalink: /top-decks/relinquished/
+permalink: /tier-list/relinquished/
 ---
 
 <div class="section">
