@@ -1,0 +1,68 @@
+{
+  "name": "Magnets",
+  "author": "Adel",
+  "created": "2017-10-24",
+  "skill": "The Tie That Binds",
+  "main": [
+    {
+      "name": "Valkyrion the Magna Warrior",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Delta The Magnet Warrior",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Beta The Electromagnet Warrior",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Gamma The Magnet Warrior",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Beta The Magnet Warrior",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Alpha The Magnet Warrior",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Painful Decision",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "2",
+      "type": "spell"
+    },
+    {
+      "name": "Attack The Moon!",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Floodgate Trap Hole",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Wall Of Disruption",
+      "amount": "2",
+      "type": "trap"
+    }
+  ]
+}

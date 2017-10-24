@@ -1,31 +1,34 @@
 [
     {
-        "Tier": 1,
-        "Info": "blah blah blah",
-        "Types":
+        "tier": 1,
+        "category": "KOG",
+        "info": "blah blah blah",
+        "types":
         [
             { "id": "cyber-angels", "display": "Cyber Angels", "card": "Cyber Angel Dakini" },
             { "id": "red-eyes-zombies", "display": "Red-Eyes Zombies", "card": "Red-Eyes Zombie Dragon" }
         ] 
     },
     {
-        "Tier": 2,
-        "Info": "blah blah blah",
-        "Types":
+        "tier": 2,
+        "category": "KOG",
+        "info": "blah blah blah",
+        "types":
         [
             { "id": "burn-decks", "display": "Burn Decks", "card": "Burning Land" },
             { "id": "control-decks", "display": "Control Decks", "card": "Guardian Statue" },
             { "id": "dinos", "display": "Dinos", "card": "Destroyersaurus" },
-            { "id": "hazy-flame-br", "display": "Hazy Flame BR", "card": "Hazy Flame Sphynx" },
+            { "id": "hazy-flame", "display": "Hazy Flame BR", "card": "Hazy Flame Sphynx" },
             { "id": "mill-decks", "display": "Mill Decks", "card": "Hiro's Shadow Scout" },
             { "id": "ninjas", "display": "Ninjas", "card": "Red Dragon Ninja" },
             { "id": "psychics", "display": "Psychics", "card": "Serene Psychic Witch" }
         ]
     },
     {
-        "Tier": 3,
-        "Info": "blah blah blah",
-        "Types":
+        "tier": 3,
+        "category": "KOG",
+        "info": "blah blah blah",
+        "types":
         [
             { "id": "hammer-shark", "display": "Hammer Shark", "card": "Hammer Shark" },
             { "id": "relinquished", "display": "Relinquished", "card": "Relinquished" },
@@ -34,9 +37,10 @@
         ]
     },
     {
-        "Tier": 4,
-        "Info": "blah blah blah",
-        "Types":
+        "tier": 4,
+        "category": "KOG",
+        "info": "blah blah blah",
+        "types":
         [
             { "id": "bls-the-creator", "display": "BLS / The Creator", "card": "Black Luster Soldier - Sacred Soldier" },
             { "id": "dark-paladin", "display": "Dark Paladin", "card": "Dark Paladin" },
@@ -45,9 +49,18 @@
             { "id": "mausoleum", "display": "Mausoleum", "card": "Mausoleum of the Emperor" },
             { "id": "monstermorph-evo", "display": "Monstermorph-Evo", "card": "Gandora the Dragon of Destruction" },
             { "id": "ojamas", "display": "Ojamas", "card": "Ojama King" },
-            { "id": "phoenix-nephthys", "display": "Phoenix Nephthys", "card": "Sacred Phoenix of Nephthys" },
+            { "id": "phoenix-nephthys", "display": "Pheonix", "card": "Sacred Phoenix of Nephthys" },
             { "id": "toon-barrel-dragon", "display": "Toon Barrel Dragon", "card": "Toon Barrel Dragon" },
             { "id": "treeborn-tributes", "display": "Treeborn Tributes", "card": "Treeborn Frog" }
         ]
+    },
+    {
+        "tier": 10,
+        "category": "YouTube",
+        "info": "blah blah blah",
+        "types":
+        [
+            { "id": "magnet-warriors", "display": "Magnet Warriors", "card": "Delta The Magnet Warrior" }
+        ] 
     }
 ]
