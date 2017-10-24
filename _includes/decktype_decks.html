@@ -1,0 +1,40 @@
+{% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+{% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
+{% assign month = site.data.months | where: "id", currentMonth %}
+{% assign decktype = site.data.decklists[currentYear][currentMonth][include.decktype] %}
+
+{% if decktype.size > 0 %}
+<div class="section">
+    <h4>Latest decks from {{month[0].name}}</h4>
+    <table id="TopDecksTable" class="table">
+        <thead>
+            <tr>
+                <th class="thumb-col"></th>
+                <th>Deck Name</th>
+                <th class="skill">Skill</th>
+                <th class="author">Author</th>
+                <th class="added">Added</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% assign decks = decktype | sort_decks %}
+            {% for deck in decks limit:10 %}
+                {% capture url %}{{month[0].name}}-{{currentYear}}/{{page.type}}/{{deck[1].name | downcase | replace: " ", "-"}}{% endcapture %}
+                <tr>
+                    <td class="thumb-col">
+                        <a href="/top-decks/{{url}}">
+                            <div class="thumbnail">
+                                <img src="https://yugiohprices.com/api/card_image/{{deck[1].main[0].name}}" class="portrait" />  
+                            </div>
+                        </a>
+                    </td>
+                    <td><a href="/top-decks/{{url}}">{{deck[1].name}}</a></td>
+                    <td><a href="/top-decks/{{url}}">{{deck[1].skill}}</a></td>
+                    <td><a href="/top-decks/{{url}}">{{deck[1].author}}</a></td>
+                    <td><a href="/top-decks/{{url}}">{{deck[1].created}}</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}

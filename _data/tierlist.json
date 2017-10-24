@@ -16,7 +16,7 @@
             { "id": "burn-decks", "display": "Burn Decks", "card": "Burning Land" },
             { "id": "control-decks", "display": "Control Decks", "card": "Guardian Statue" },
             { "id": "dinos", "display": "Dinos", "card": "Destroyersaurus" },
-            { "id": "hazy-flame", "display": "Hazy Flame BR", "card": "Hazy Flame Sphynx" },
+            { "id": "hazy-flame-br", "display": "Hazy Flame BR", "card": "Hazy Flame Sphynx" },
             { "id": "mill-decks", "display": "Mill Decks", "card": "Hiro's Shadow Scout" },
             { "id": "ninjas", "display": "Ninjas", "card": "Red Dragon Ninja" },
             { "id": "psychics", "display": "Psychics", "card": "Serene Psychic Witch" }
