@@ -1,0 +1,73 @@
+{
+  "name": "Oh You Poor Fool",
+  "author": "KC13",
+  "created": "2017-10-24",
+  "skill": "Extra, Extra",
+  "main": [
+    {
+      "name": "Man Eater Bug",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Warm Worm",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "D.D. Warrior",
+      "amount": "2",
+      "type": "monster"
+    },
+    {
+      "name": "Exploder Dragon",
+      "amount": "1",
+      "type": "monster"
+    },
+    {
+      "name": "Hiro's Shadow Scout",
+      "amount": "3",
+      "type": "monster"
+    },
+    {
+      "name": "Supremacy Berry",
+      "amount": "1",
+      "type": "spell"
+    },
+    {
+      "name": "Floodgate Trap Hole",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Wall Of Disruption",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "The Golden Apples",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Draining Shield",
+      "amount": "2",
+      "type": "trap"
+    },
+    {
+      "name": "Solemn Wishes",
+      "amount": "1",
+      "type": "trap"
+    },
+    {
+      "name": "Des Counterblow",
+      "amount": "1",
+      "type": "trap"
+    }
+  ]
+}
