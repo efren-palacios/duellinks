@@ -10,7 +10,7 @@
   {% for decktype in decks %}
     {% if decktype[1].size != 0 %}      
       {% for tier in site.data.tierlist %}
-        {% for type in tier.Types %}
+        {% for type in tier.types %}
           {% if type.id == decktype[0] %}
            {% assign tiertype = type %}
           {% endif %}
