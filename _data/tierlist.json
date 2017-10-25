@@ -5,8 +5,8 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "cyber-angels", "display": "Cyber Angels", "card": "Cyber Angel Dakini" },
-            { "id": "red-eyes-zombies", "display": "Red-Eyes Zombies", "card": "Red-Eyes Zombie Dragon" }
+            { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
+            { "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" }
         ] 
     },
     {
@@ -15,13 +15,13 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "burn-decks", "display": "Burn Decks", "card": "Burning Land" },
-            { "id": "control-decks", "display": "Control Decks", "card": "Guardian Statue" },
-            { "id": "dinos", "display": "Dinos", "card": "Destroyersaurus" },
-            { "id": "hazy-flame", "display": "Hazy Flame BR", "card": "Hazy Flame Sphynx" },
-            { "id": "mill-decks", "display": "Mill Decks", "card": "Hiro's Shadow Scout" },
-            { "id": "ninjas", "display": "Ninjas", "card": "Red Dragon Ninja" },
-            { "id": "psychics", "display": "Psychics", "card": "Serene Psychic Witch" }
+            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
+            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
+            { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
+            { "id": "hazy-flame",         "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" },
+            { "id": "mill-decks",         "display": "Mill Decks",         "card": "Hiro's Shadow Scout" },
+            { "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" },
+            { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" }
         ]
     },
     {
@@ -30,10 +30,10 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "hammer-shark", "display": "Hammer Shark", "card": "Hammer Shark" },
-            { "id": "relinquished", "display": "Relinquished", "card": "Relinquished" },
-            { "id": "venus", "display": "Venus", "card": "The Agent of Creation - Venus" },
-            { "id": "zombies-gemini", "display": "Zombies Gemini", "card": "Goblin Zombie" }
+            { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
+            { "id": "relinquished",       "display": "Relinquished",       "card": "Relinquished" },
+            { "id": "venus",              "display": "Venus",              "card": "The Agent of Creation - Venus" },
+            { "id": "zombies-gemini",     "display": "Zombies Gemini",     "card": "Goblin Zombie" }
         ]
     },
     {
@@ -42,16 +42,16 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "bls-the-creator", "display": "BLS / The Creator", "card": "Black Luster Soldier - Sacred Soldier" },
-            { "id": "dark-paladin", "display": "Dark Paladin", "card": "Dark Paladin" },
-            { "id": "gravekeepers", "display": "Gravekeepers", "card": "Gravekeeper's Chief" },
-            { "id": "horus-dragon", "display": "Horus", "card": "Horus the Black Flame Dragon LV6" },
-            { "id": "mausoleum", "display": "Mausoleum", "card": "Mausoleum of the Emperor" },
-            { "id": "monstermorph-evo", "display": "Monstermorph-Evo", "card": "Gandora the Dragon of Destruction" },
-            { "id": "ojamas", "display": "Ojamas", "card": "Ojama King" },
-            { "id": "phoenix-nephthys", "display": "Pheonix", "card": "Sacred Phoenix of Nephthys" },
+            { "id": "bls-the-creator",    "display": "BLS / The Creator",  "card": "Black Luster Soldier - Sacred Soldier" },
+            { "id": "dark-paladin",       "display": "Dark Paladin",       "card": "Dark Paladin" },
+            { "id": "gravekeepers",       "display": "Gravekeepers",       "card": "Gravekeeper's Chief" },
+            { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
+            { "id": "mausoleum",          "display": "Mausoleum",          "card": "Mausoleum of the Emperor" },
+            { "id": "monstermorph-evo",   "display": "Monstermorph-Evo",   "card": "Gandora the Dragon of Destruction" },
+            { "id": "ojamas",             "display": "Ojamas",             "card": "Ojama King" },
+            { "id": "phoenix-nephthys",   "display": "Pheonix",            "card": "Sacred Phoenix of Nephthys" },
             { "id": "toon-barrel-dragon", "display": "Toon Barrel Dragon", "card": "Toon Barrel Dragon" },
-            { "id": "treeborn-tributes", "display": "Treeborn Tributes", "card": "Treeborn Frog" }
+            { "id": "treeborn-tributes",  "display": "Treeborn Tributes",  "card": "Treeborn Frog" }
         ]
     },
     {
@@ -60,7 +60,7 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "magnet-warriors", "display": "Magnet Warriors", "card": "Delta The Magnet Warrior" }
+            { "id": "magnet-warriors",    "display": "Magnet Warriors",    "card": "Delta The Magnet Warrior" }
         ] 
     }
 ]

@@ -88,6 +88,11 @@
                 text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
                 */
             }
+
+            &:hover
+            {
+                text-decoration: none;
+            }
         }
         
         .btn-decktype:after

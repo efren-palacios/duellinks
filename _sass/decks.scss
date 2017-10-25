@@ -24,6 +24,7 @@
   justify-content: flex-start;
   align-items: center;
   justify-content: center;
+  margin-bottom: 30px;
 }
 
 #label {
@@ -108,6 +109,14 @@
 .noimg img[src] {
    display: block;
  }
+
+.deck-notes
+{
+  br
+  {
+    line-height: 2.3;
+  }
+}
 
 @media only screen and (max-width: 760px) {
   .stats { display: none; }

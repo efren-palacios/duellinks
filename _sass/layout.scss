@@ -186,6 +186,15 @@ button:focus {
   background: $grey-blue3;
 }
 
+.fb-comments
+{
+  iframe
+  {
+    width: calc(100% + 14px) !important;
+    margin-left: -7px;
+  }
+}
+
 #newplayers-container
 {
   h3, h4, h5, p
