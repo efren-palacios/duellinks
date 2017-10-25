@@ -3,7 +3,7 @@ layout: blog
 title: Relinquished
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Relinquished decks.
 type: relinquished
 permalink: /tier-list/relinquished/

@@ -3,7 +3,7 @@ layout: blog
 title: Red-Eyes Zombies
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Red-Eyes Zombies decks.
 type: red-eyes-zombies
 permalink: /tier-list/red-eyes-zombies/

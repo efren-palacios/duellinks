@@ -3,7 +3,7 @@ layout: blog
 title: Toon Barrel Dragon
 author: unpreceden7ed
 date: 2017-09-30
-comments: true
+comments: false
 description: In depth information about Toon Barrel Dragon decks.
 type: toon-barrel-dragon
 permalink: /tier-list/toon-barrel-dragon/

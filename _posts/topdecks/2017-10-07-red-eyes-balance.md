@@ -3,7 +3,7 @@ layout: blog
 title: Red-Eyes Balance
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Red-Eyes Balance decks.
 type: red-eyes-balance
 permalink: /tier-list/red-eyes-balance/

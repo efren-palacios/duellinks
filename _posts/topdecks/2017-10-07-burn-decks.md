@@ -3,7 +3,7 @@ layout: blog
 title: Burn Decks
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Burn decks.
 type: burn-decks
 permalink: /tier-list/burn-decks/

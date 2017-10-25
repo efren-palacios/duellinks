@@ -3,7 +3,7 @@ layout: blog
 title: Hammer Shark
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Hammer Shark decks.
 type: hammer-shark
 permalink: /tier-list/hammer-shark/

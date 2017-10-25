@@ -3,7 +3,7 @@ layout: blog
 title: Control Decks
 author: Creative
 date: 2017-10-07
-comments: true
+comments: false
 description: In depth information about Control Decks decks.
 type: control-decks
 permalink: /tier-list/control-decks/

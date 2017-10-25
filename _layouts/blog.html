@@ -1,41 +1,42 @@
 <!DOCTYPE html>
 <html>
 
+    {% include head.html %}
 
-{% include head.html %}
-
-
-
-
-<body>
+    <body>
         <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-          var js, fjs = d.getElementsByTagName(s)[0];
-          if (d.getElementById(id)) return;
-          js = d.createElement(s); js.id = id;
-          js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1815513031811368";
-          fjs.parentNode.insertBefore(js, fjs);
+
+        <script>(function(d, s, id)
+        {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1815513031811368";
+            fjs.parentNode.insertBefore(js, fjs);
         }(document, "script", "facebook-jssdk"));
         </script>
-    {% include nav.html %}
 
-    <div class="container">
+        {% include nav.html %}
 
-        {% include ad.html %}
+        <div class="container">
 
-        <div class="text-white" style="margin-top: 20px;">           
-            {{content}}
+            {% include ad.html %}
+
+            <div class="text-white" style="margin-top: 20px;">           
+                {{content}}
+            </div>
+
+            {% if page.comments == true %}
+                <div class="text-white">
+                    {% include facebook.html %}
+                </div>
+            {% endif %}
+
+            {% include social.html %}
+
         </div>
+    </body>
 
+    {% include scripts.html %}
 
-        <div class="text-white">
-            {% include facebook.html %}
-        </div>
-        
-        {% include social.html %}
-
-    </div>
-
-</body>
-{% include scripts.html %}
 </html>

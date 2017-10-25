@@ -29,7 +29,7 @@ module Jekyll
               deck_file.puts("layout: blog")
               deck_file.puts("title: #{deck_name}")
               deck_file.puts("author: bot")
-              deck_file.puts("comments: false")
+              deck_file.puts("comments: true")
 
               lower_name = deck_name.downcase
               lower_name.gsub! ' ', '-'

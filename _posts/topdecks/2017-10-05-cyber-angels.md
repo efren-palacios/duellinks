@@ -3,7 +3,7 @@ layout: blog
 title: Cyber Angels
 author: Creative
 date: 2017-10-05
-comments: true
+comments: false
 description: In depth information about Cyber Angel decks.
 type: cyber-angels
 permalink: /tier-list/cyber-angels/ 
