@@ -71,7 +71,7 @@ module Jekyll
               deck_file.puts("        <div class='section deck-notes'>")
               deck_file.puts("            <h4>{{note.title}}</h4>")
               deck_file.puts("            <p>{{note.text}}</p>")
-              deck_file.puts("        </div")
+              deck_file.puts("        </div>")
               deck_file.puts("    {% endfor %}")
               deck_file.puts("{% endif %}")
               deck_file.close
