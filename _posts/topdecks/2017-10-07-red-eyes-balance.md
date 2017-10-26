@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Red-Eyes Balance
+category: decktype-guide
 author: Creative
 date: 2017-10-07
 comments: false

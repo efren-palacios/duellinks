@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Cyber Angels
+category: decktype-guide
 author: Creative
 date: 2017-10-05
 comments: false

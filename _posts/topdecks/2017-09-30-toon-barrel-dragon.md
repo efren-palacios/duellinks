@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Toon Barrel Dragon
+category: decktype-guide
 author: unpreceden7ed
 date: 2017-09-30
 comments: false

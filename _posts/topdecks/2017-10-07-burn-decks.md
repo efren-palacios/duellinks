@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Burn Decks
+category: decktype-guide
 author: Creative
 date: 2017-10-07
 comments: false

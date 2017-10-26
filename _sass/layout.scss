@@ -52,16 +52,19 @@ p
   color: $text-muted !important;
 }
 
-.list-group-item {
+.list-group-item
+{
   background-color: $dark-blue;
 }
 
-hr {
+hr
+{
   border-color: $dark-blue;
   border: 1px solid $dark-blue;
 }
 
-.comment {
+.comment 
+{
   background: $grey-blue2;
   border-radius: 4px;
   padding: 1rem;
@@ -69,7 +72,8 @@ hr {
   margin: 1rem;
 }
 
-.comments {
+.comments
+{
   background-color: rgb(20, 30, 48);
   padding: 1rem;
   color: $text-default;
@@ -77,27 +81,32 @@ hr {
   border: 1px solid $grey-blue4;
 }
 
-.avatar {
+.avatar
+{
   margin-top: 1.5rem;
   border-radius: 50%;
 }
 
-p img {
+p img
+{
   margin: auto;
   display: block;
 }
 
 h2.title,
-h3.title {
+h3.title
+{
   color: $flashy-blue;
   text-align: center;
 }
 
-.ad {
+.ad
+{
   margin: 1rem;
 }
 
-button:focus {
+button:focus
+{
   outline: 5px auto $flashy-blue;
 }
 
@@ -212,4 +221,9 @@ button:focus {
   {
     margin-bottom: 1rem;
   }
+}
+
+.site-portal
+{
+  margin-bottom: 40px;
 }

@@ -1,28 +1,26 @@
+<div class="row justify-content-center text-center site-portal">
+  {% for page in site.categories.header %}
+    <div class="col-sm-4 col-12 card-deck header">
 
-<div class="row justify-content-center text-center">
-  {% for card in site.categories.header %}
-  
-  <div class="col-sm-4 col-12 card-deck header">
-    <div class="card">
-      <div class="zoom">
-        <a href={{site.url}}{{card.url}}> 
-            <img
-            src="https://images.weserv.nl/?url={{card.image | replace: 'https://', ''}}&w=200&blur=5"
-            data-src="{{card.image}}"
-            class="card-img-top lazyload" />
-        </a>
-      </div>
-      <div class="card-block text-white">
-        <a href={{site.url}}{{card.url}}>
-          <h4 class="card-title">{{card.title}}</h4>
-        </a>
-        <div class="text-white">
-                <small class="text-muted">Last Updated: {{ card.date | timeago }}
-              </small>
+      <div class="card">
+        <div class="zoom">
+          <a href={{site.url}}{{page.url}}> 
+              <img
+              src="https://images.weserv.nl/?url={{page.image | replace: 'https://', ''}}&w=200&blur=5"
+              data-src="{{page.image}}"
+              class="card-img-top lazyload" />
+          </a>
+        </div>
+        <div class="card-block">
+          <a href={{site.url}}{{page.url}}>
+            <h4 class="card-title text-white">{{page.title}}</h4>
+          </a>
+          <!--<div class="text-white">
+            <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
+          </div>-->
         </div>
       </div>
 
     </div>
-  </div>
   {% endfor %}
-  </div>
+</div>

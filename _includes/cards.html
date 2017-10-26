@@ -1,34 +1,37 @@
 <div class="text-center text-white text-center" style="margin-bottom: 1rem;"><h1>Latest Articles</h1></div>
 
-<div class="row justify-content-center" style="margin-bottom: 20px;">
+<div class="row justify-content-center text-center">
+  {% for article in site.posts %}
+    {% if article.category != 'header' and article.category != 'decktype-guide' %}
+      {% increment counter %}
+      <div class="col-sm-6 col-12 card-deck">
+        <div class="card">
+          <div class="zoom">
+              <a href={{site.url}}{{article.url}}> 
+                  <img
+                  src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5"
+                  data-src="{{article.image}}"
+                  class="card-img-top lazyload" />
+              </a>
+          </div>
+          <div class="card-block text-white">
+            <a href={{site.url}}{{article.url}}>
+              <h4 class="card-title">{{article.title}}</h4>
+            </a>
+            <div class="text-white">
+                    <small class="text-muted">Last Updated: {{ article.date | timeago }}
+                    {% if article.author == 'Dkayed' %}
+                    By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
+                    By <b><a class="text-warning" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
+                  </small>
+            </div>
+          </div>
 
-  {% for card in site.posts %}
-  {% if card.category != 'header' %}
-  <div class="col-sm-6 col-12 card-deck">
-    <div class="card">
-      <div class="zoom">
-          <a href={{site.url}}{{card.url}}> 
-              <img
-              src="https://images.weserv.nl/?url={{card.image | replace: 'https://', ''}}&w=200&blur=5"
-              data-src="{{card.image}}"
-              class="card-img-top lazyload" />
-          </a>
-      </div>
-      <div class="card-block text-white">
-        <a href={{site.url}}{{card.url}}>
-          <h4 class="card-title">{{card.title}}</h4>
-        </a>
-        <div class="text-white">
-                <small class="text-muted">Last Updated: {{ card.date | timeago }}
-                {% if card.author == 'Dkayed' %}
-                By <b><a class="text-danger" href={{site.url}}/authors/{{card.author}}.html>{{card.author}}</a></b> {% else %}
-                By <b><a class="text-warning" href={{site.url}}/authors/{{card.author}}.html>{{card.author}}</a></b> {% endif %}
-              </small>
         </div>
       </div>
-
-    </div>
-  </div>
-  {% endif %}
+      {% if counter >= 9 %}
+        {% break %}
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </div>
