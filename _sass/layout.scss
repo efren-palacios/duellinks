@@ -186,6 +186,17 @@ button:focus {
   background: $grey-blue3;
 }
 
+.discord-add
+{
+  margin-left: 0;
+  margin-right: 0;
+
+  > div:last-child
+  {
+    padding-right: 0px;
+  }
+}
+
 .fb-comments
 {
   iframe
