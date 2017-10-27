@@ -10,10 +10,18 @@ type: hazy-flame-br
 permalink: /tier-list/hazy-flame-br/
 ---
 
-<div class="section">
-    <h2>{{page.title | uppercase}}</h2>
-    <p>HERE COMES INFO ABOUT HAZY FLAME BR DECKTYPE</p>
-    <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
+{% assign guide = site.data.decktype-guides[{{page.type}}] | where: "active", true %}
+
+<div class="decktype-guide">
+    <div class="header">
+        <h2>{{guide[0].title}}</h2> by {{guide[0].created-by}}
+    </div>
+    <img class="splash" src="/img/card-splashes/{{guide[0].card-splash}}.png">
+    
+    {% for section in guide[0].sections %}
+        {% include guides/section.html section=section level=1 %}
+    {% endfor %}
 </div>
+
 
 {% include decktype_decks.html decktype=page.type %}

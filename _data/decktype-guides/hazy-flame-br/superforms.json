@@ -1,0 +1,114 @@
+{
+    "created-by": "superforms",
+    "created-on": "2017-10-17",
+    "modified-by": "",
+    "modified-on": "",
+    "active": true,
+    "title": "THE HAZY GUIDE – OCTOBER EDITION",
+    "card-splash": "hazy-flame-sphynx",
+    "sections":
+    [
+        {
+            "number": "1",
+            "title": "Overview",
+            "paragraphs":
+            [
+                {
+                    "layout": "",
+                    "text": "Over the course of the last three months, Hazy Flame Sphynx has been at the core of
+                    decks that ranged from bad gimmicks to strong tier-2 decks that could go toe-to-toe with
+                    top decks. And with the October ranked season, a new meta has been brought about in
+                    which Hazy thrives more than ever. In this guide I will go over various Hazy Flame builds,
+                    how to construct and play the deck in the current meta, and will conclude by arguing that
+                    we now have a Hazy Flame deck <b>which has pushed its way into tier-1</b>."
+                },
+                {
+                    "layout": "wrapped",
+                    "text": "Before going any further: If you already have a general idea of how
+                    Hazy works and are just looking for a quick run-down of how the
+                    “optimal” Hazy Flame deck is built/played, check out section 2 for
+                    the build + card choices and section 3.3 for quick, one-sentence tips
+                    on possible plays, combos, and general things to keep in mind. If
+                    you’re interested mainly in the Cyber Angel match-up, skip ahead
+                    to section 3.1. For other match-ups, see section 3.2."
+                },
+                {
+                    "layout": "",
+                    "text": "To give a little bit of history, Hazy Flame Sphynx was introduced to the Card Trader
+                    on July 5th and was immediately the cause of a lot of excitement. This was due to the
+                    combination of Hazy Flame’s effect:"
+                },
+                {
+                    "layout": "italic quoted",
+                    "text": "Your opponent cannot target this card with card effects. You can declare 1 card
+                    type (Monster, Spell, or Trap); send the top card of your Deck to the Graveyard,
+                    then if it was the declared card type, you can Special Summon 1 FIRE monster
+                    from your hand or Graveyard. You can only use this effect of “Hazy Flame
+                    Sphynx” once per turn."
+                }           
+            ],
+            "sub-sections":
+            [
+                {
+                    "number": "1.1",
+                    "title": "Preliminary Deck-Building",
+                    "paragraphs":
+                    [
+                        {
+                            "layout": "",
+                            "text": "One of the most fun things about building a Hazy Flame deck is in the extreme flexibil-
+                            ity you have when constructing the deck. The reason why Hazy Flame decks are power-
+                            ful should be somewhat obvious, but revolves around their ability to effectively summon
+                            monsters at will as well as be immune from any of your opponent’s targeting effects. This
+                            means that any FIRE monster is fair game in a Hazy deck, from Phoenix Gearfried, to
+                            Sergeant Electro, to Knight of the Red Lotus. In particular, you can adapt to the current
+                            meta with relative ease by swapping tech cards or changing the entire core of the deck."
+                        },
+                        {
+                            "layout": "",
+                            "text": "This season, the ladder is dominated by Cyber Angels. An extremely strong and con-
+                            sistent deck introduced with the GX update, Cyber Angels feature strong ritual monsters
+                            with potent recycling effects. The most dangerous of the ritual monsters is Cyber Angel
+                            Dakini, which gives other ritual monsters piercing damage, can recycle from the grave,
+                            and — most importantly — can force you to send one of your monsters from the field to
+                            the grave. This last effect is by far the most powerful because the monster removal is non-
+                            destructive (so cannot be stopped by Toon Kingdom, won’t trigger Warm Worm’s effect,
+                            etc.) and non-targeting (bypassing Hazy’s immunity). Furthermore, because you’re the
+                            one sending the card to the grave, it is not considered an opponent’s card effect and things
+                            like Samurai Skull’s effect don’t even activate. This also means that the effect doesn’t start
+                            a chain, so you can’t choose the monster to send and then use it as tribute fodder for En-
+                            emy Controller or banish it with Beast Rising. This ability of Dakini’s is very problematic
+                            and we must adapt around it."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "title": "“Optimal” Hazy Build",
+            "paragraphs":
+            [
+                {
+                    "layout": "",
+                    "text": "In this Cyber Angel-dominated meta, the Hazy Flame build I consider to be optimal is the one pictured to the right. This is a Beast Rising deck that incorporates two new monsters from Generation Next: Flame Tiger and Caninetaur. Both synergize perfectly with Hazy + Beast Rising, and both have beneficial effects (making them significantly better than their predecessors, Yaksha and Great Angus). The spells and traps are mostly staples, adjusted for what we expect to match-up with most often, and so the rest of the deck is fairly standard. However, notice that this deck does not use Aroma Strategy and instead opts for Destiny Draw. While Aroma Strategy is great if you can get an early Hazy Flame onto the field, this will not always happen. Furthermore, this deck has a fairly high “brick rate” with Aroma Strategy given that we’re only running six non-tribute monsters. So although it’s nice to be able to see the top card of your deck, too often will it be the case that you’ve bricked and you’re watching the Hazy Flame on top of your deck while your opponent’s Cyber Angels are picking you apart.",
+                    "deck":
+                    {
+                        "position": "right",
+                        "skill": "Destiny Draw",
+                        "main": [],
+                        "extra": []
+                    }
+                },
+                {
+                    "layout": "",
+                    "text": "By running Destiny Draw instead we fix a couple problems at once. Hands that used
+                    to be bricks are now salvageable, since many bricked hands turn into great hands with the
+                    addition of a single card. We can also reduce our brick rate by running less copies of Soul
+                    Exchange, choosing to only have one in the deck that we can search for with Destiny Draw
+                    whenever the opportunity arises."
+                }                
+            ]
+        }
+    ]
+}

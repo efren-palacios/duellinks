@@ -1,0 +1,24 @@
+<div class="section">
+    {% case include.level %}
+        {% when 1 %}
+            <h3>{{include.section.number}} {{include.section.title}}</h3>
+        {% when 2 %}
+            <h4>{{include.section.number}} {{include.section.title}}</h4>
+        {% when 3 %}
+            <h5>{{include.section.number}} {{include.section.title}}</h5>
+        {% else %}
+            <h6>{{include.section.number}} {{include.section.title}}</h6>
+      {% endcase %}
+    
+    {% for paragraph in include.section.paragraphs %}
+        <p class="{{paragraph.layout}}">{{paragraph.text}}</p>
+    {% endfor %}
+    
+    {% if include.section.sub-sections.size > 0 %}
+        {% assign next-level = include.level + 1 %}
+        
+        {% for sub-section in include.section.sub-sections %}
+            {% include guides/section.html section=sub-section level=next-level %}
+        {% endfor %}
+    {% endif %}
+</div>
