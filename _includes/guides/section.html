@@ -15,7 +15,7 @@
     {% endfor %}
     
     {% if include.section.sub-sections.size > 0 %}
-        {% assign next-level = include.level + 1 %}
+        {% assign next-level = include.level | plus: 1 %}
         
         {% for sub-section in include.section.sub-sections %}
             {% include guides/section.html section=sub-section level=next-level %}
