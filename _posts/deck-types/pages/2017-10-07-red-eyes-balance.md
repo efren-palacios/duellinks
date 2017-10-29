@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Red-Eyes Balance
-category: decktype-guide
+category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
 description: In depth information about Red-Eyes Balance decks.
-type: red-eyes-balance
+deck-type: red-eyes-balance
 permalink: /tier-list/red-eyes-balance/
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/red-eyes-balance/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

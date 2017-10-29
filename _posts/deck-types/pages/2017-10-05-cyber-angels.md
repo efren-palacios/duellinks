@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Cyber Angels
-category: decktype-guide
+category: deck-type-page
 author: Creative
 date: 2017-10-05
 comments: false
 description: In depth information about Cyber Angel decks.
-type: cyber-angels
+deck-type: cyber-angels
 permalink: /tier-list/cyber-angels/ 
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/cyber-angels/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

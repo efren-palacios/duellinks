@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Relinquished
-category: decktype-guide
+category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
 description: In depth information about Relinquished decks.
-type: relinquished
+deck-type: relinquished
 permalink: /tier-list/relinquished/
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/relinquished/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

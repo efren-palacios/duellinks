@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Hammer Shark
-category: decktype-guide
+category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
 description: In depth information about Hammer Shark decks.
-type: hammer-shark
+deck-type: hammer-shark
 permalink: /tier-list/hammer-shark/
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/hammer-shark/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

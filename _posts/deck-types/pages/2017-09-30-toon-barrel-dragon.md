@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Toon Barrel Dragon
-category: decktype-guide
+category: deck-type-page
 author: unpreceden7ed
 date: 2017-09-30
 comments: false
 description: In depth information about Toon Barrel Dragon decks.
-type: toon-barrel-dragon
+deck-type: toon-barrel-dragon
 permalink: /tier-list/toon-barrel-dragon/
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/toon-barrel-dragon/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

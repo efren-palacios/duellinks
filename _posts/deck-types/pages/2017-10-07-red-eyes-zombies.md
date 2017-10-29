@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: Red-Eyes Zombies
-category: decktype-guide
+category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
 description: In depth information about Red-Eyes Zombies decks.
-type: red-eyes-zombies
+deck-type: red-eyes-zombies
 permalink: /tier-list/red-eyes-zombies/
 ---
 
@@ -16,4 +16,4 @@ permalink: /tier-list/red-eyes-zombies/
     <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
 </div>
 
-{% include decktype_decks.html decktype=page.type %}
+{% include decktype_decks.html deckType=page.deck-type %}

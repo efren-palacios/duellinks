@@ -1,0 +1,16 @@
+<div class="decktype-guide">
+    <div class="header">
+        <h2>{{guide.title}}</h2>
+        {% if guide.created-by != null %}
+            by {{guide.created-by}}
+        {% endif %}
+    </div>
+
+    {% if guide.card-splash != null%}
+        <img class="splash" src="/img/card-splashes/{{guide.card-splash}}.png">
+    {% endif %}
+    
+    {% for section in guide.sections %}
+        {% include guides/section.html section=section level=1 %}
+    {% endfor %}
+</div>

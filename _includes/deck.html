@@ -1,0 +1,22 @@
+<div class="flex-container {{include.deck.position}}">
+    <div class="deck-container">
+        <div id="deck">
+            <div id="cards">
+                {% for card in include.deck.main %}
+                    {% include deckbuild.html card=card %}
+                {% endfor %}
+                {% if include.deck.extra != null %}
+                    {% for card in extra %}
+                        {% include deckbuild.html card=card %}
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <div class="stats">  
+        <p><img class="main" src="/img/assets/main.png" alt="Skill icon"> Main: 20</p>
+        <p><img class="main" src="/img/assets/extra.png" alt="Skill icon"> Extra: 0</p>
+        <p><img class="main skill" src="/img/assets/skill.png" alt="Skill icon"> Skill: {{include.deck.skill}}</p>
+        <div class="noimg"><img class="info" src="/img/assets/no-image.gif" /></div>
+    </div>
+</div>
