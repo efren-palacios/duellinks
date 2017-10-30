@@ -1,27 +1,23 @@
 <div class="section">
     {% case include.level %}
         {% when 1 %}
-            <h3>{{include.section.number}} {{include.section.title}}</h3>
+            <h3>{{include.section.title}}</h3>
         {% when 2 %}
-            <h4>{{include.section.number}} {{include.section.title}}</h4>
+            <h4>{{include.section.title}}</h4>
         {% when 3 %}
-            <h5>{{include.section.number}} {{include.section.title}}</h5>
+            <h5>{{include.section.title}}</h5>
         {% else %}
-            <h6>{{include.section.number}} {{include.section.title}}</h6>
+            <h6>{{include.section.title}}</h6>
     {% endcase %}
-
-    {% if include.section.deck != null %}
-        {% if include.section.deck.show-stats != null and include.section.deck.show-stats == false %}
-            {% assign showStats = false %}
-        {% else %}
-            {% assign showStats = true %}
-        {% endif %}
-
-        {% include deck.html deck=include.section.deck showStats=showStats %}
-    {% endif %}
     
-    {% for paragraph in include.section.paragraphs %}
-        <p class="{{paragraph.layout}}">{{paragraph.text}}</p>
+    {% for block in include.section.blocks %}
+        {% if block.paragraph != null %}
+            <p class="{{block.layout}}">{{block.paragraph}}</p>
+        {% elsif block.deck != null %}
+            {% include deck.html deck=block.deck showStats=true %}
+        {% elsif block.box != null %}
+            {% include deck.html deck=block.box showStats=false %}
+        {% endif %}
     {% endfor %}
 
     {% if include.section.guides != null %}
