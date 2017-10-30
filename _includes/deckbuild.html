@@ -1,3 +1,9 @@
-{% for count in (1..include.card.amount)  %}
-<div class="item"><a><img class="deckcards" src="https://yugiohprices.com/api/card_image/{{include.card.name}}" alt=""></a></div>
+{% if include.card.amount != null %}
+    {% assign amount = include.card.amount %}
+{% else %}
+    {% assign amount = 1 %}
+{% endif %}
+
+{% for count in (1..amount)  %}
+    <div class="item"><a><img class="deckcards" src="https://yugiohprices.com/api/card_image/{{include.card.name}}" alt=""></a></div>
 {% endfor %}

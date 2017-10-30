@@ -45,14 +45,15 @@
             "deck":
             {
                 "position": "left",
+                "show-stats": false,
                 "main": [
-                  { "name": "Flame Tiger", "amount": "1" },
-                  { "name": "Caninetaur", "amount": "1" },
-                  { "name": "Hazy Flame Sphynx", "amount": "1" },
-                  { "name": "Soul Exchange", "amount": "1" },
-                  { "name": "Enemy Controller", "amount": "1" },
-                  { "name": "Mirror Wall", "amount": "1" },
-                  { "name": "Beast Rising", "amount": "1" }
+                  { "name": "Flame Tiger" },
+                  { "name": "Caninetaur" },
+                  { "name": "Hazy Flame Sphynx" },
+                  { "name": "Soul Exchange" },
+                  { "name": "Enemy Controller" },
+                  { "name": "Mirror Wall" },
+                  { "name": "Beast Rising" }
                 ]                
             },
             "paragraphs":
@@ -70,8 +71,9 @@
             "deck":
             {
                 "position": "left",
+                "show-stats": false,
                 "main": [
-                  { "name": "Floodgate Trap Hole", "amount": "1" }
+                  { "name": "Floodgate Trap Hole" }
                 ]                
             },
             "paragraphs":

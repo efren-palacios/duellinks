@@ -39,7 +39,7 @@ module Jekyll
               deck_file.puts("---")
               deck_file.puts("")
               deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
-              deck_file.puts("{% include deck.html deck=deck %}")
+              deck_file.puts("{% include deck.html deck=deck showStats=true %}")
               deck_file.puts("{% if deck.notes != null %}")
               deck_file.puts("    <h2>Notes from {{deck.author}}</h2>")
               deck_file.puts("    {% for note in deck.notes %}")

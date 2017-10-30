@@ -11,7 +11,13 @@
     {% endcase %}
 
     {% if include.section.deck != null %}
-        {% include deck.html deck=include.section.deck %}
+        {% if include.section.deck.show-stats != null and include.section.deck.show-stats == false %}
+            {% assign showStats = false %}
+        {% else %}
+            {% assign showStats = true %}
+        {% endif %}
+
+        {% include deck.html deck=include.section.deck showStats=showStats %}
     {% endif %}
     
     {% for paragraph in include.section.paragraphs %}
