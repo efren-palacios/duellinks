@@ -6,6 +6,7 @@
     [
         {
             "title": "Overview",
+            "level": 1,
             "blocks":
             [
                 {
@@ -15,6 +16,7 @@
         },
         {
             "title": "Sample Deck",
+            "level": 1,
             "blocks":
             [
                 {
@@ -45,6 +47,7 @@
         },
         {
             "title": "Core Cards",
+            "level": 1,
             "blocks":
             [
                 {
@@ -73,6 +76,7 @@
         },
         {
             "title": "Tech Cards",
+            "level": 1,
             "blocks":
             [
                 {
@@ -95,6 +99,7 @@
         },
         {
             "title": "Extra Info",
+            "level": 1,
             "blocks":
             [
                 {
@@ -104,6 +109,7 @@
         },
         {
             "title": "Guides",
+            "level": 1,
             "guides": 
             [
                 "the-hazy-guide-october-edition"

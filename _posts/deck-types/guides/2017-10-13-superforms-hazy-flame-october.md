@@ -3,7 +3,7 @@ layout: blog
 title: The Hazy Guide - October Edition
 category: deck-type-guide
 author: superforms
-image: /img/card-splashes/hazy-flame-sphynx.png
+image: /img/guides/hazy-flame-sphynx.png
 date: 2017-10-13
 comments: false
 description: In depth guide written by superforms talking about the hazy flame archetype.

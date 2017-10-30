@@ -1,5 +1,5 @@
 <div class="section">
-    {% case include.level %}
+    {% case include.section.level %}
         {% when 1 %}
             <h3>{{include.section.title}}</h3>
         {% when 2 %}
@@ -29,11 +29,11 @@
         </ul>
     {% endif %}
     
-    {% if include.section.sub-sections.size > 0 %}
+    <!--{% if include.section.sub-sections.size > 0 %}
         {% assign next-level = include.level | plus: 1 %}
         
         {% for sub-section in include.section.sub-sections %}
             {% include guides/section.html section=sub-section level=next-level %}
         {% endfor %}
-    {% endif %}
+    {% endif %}-->
 </div>

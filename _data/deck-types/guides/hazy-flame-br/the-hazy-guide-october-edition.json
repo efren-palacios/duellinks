@@ -1,16 +1,16 @@
 {
     "created-by": "superforms",
     "created-on": "2017-10-17",
-    "modified-by": "",
     "modified-on": "",
     "active": true,
     "title": "The Hazy Guide - October Edition",
     "url": "/the-hazy-guide-october-edition",
-    "card-splash": "hazy-flame-sphynx",
+    "image": "hazy-flame-sphynx",
     "sections":
     [
         {
             "title": "1 Overview",
+            "level": 1,
             "blocks":
             [
                 {
@@ -69,64 +69,63 @@
                     favor. Getting right down to it, let’s now talk about how to build a modern Hazy Flame
                     deck, keeping in mind the other decks gaining traction in Duel Links."
                 }      
-            ],
-            "sub-sections":
+            ]
+        },
+        {
+            "title": "1.1 Preliminary Deck-Building",
+            "level": 2,
+            "blocks":
             [
                 {
-                    "title": "1.1 Preliminary Deck-Building",
-                    "blocks":
-                    [
-                        {
-                            "paragraph": "One of the most fun things about building a Hazy Flame deck is in the extreme
-                            flexibility you have when constructing the deck. The reason why Hazy Flame decks are
-                            powerful should be somewhat obvious, but revolves around their ability to effectively summon
-                            monsters at will as well as be immune from any of your opponent’s targeting effects. This
-                            means that any FIRE monster is fair game in a Hazy deck, from Phoenix Gearfried, to
-                            Sergeant Electro, to Knight of the Red Lotus. In particular, you can adapt to the current
-                            meta with relative ease by swapping tech cards or changing the entire core of the deck."
-                        },
-                        {
-                            "paragraph": "This season, the ladder is dominated by Cyber Angels. An extremely strong and
-                            consistent deck introduced with the GX update, Cyber Angels feature strong ritual monsters
-                            with potent recycling effects. The most dangerous of the ritual monsters is Cyber Angel
-                            Dakini, which gives other ritual monsters piercing damage, can recycle from the grave,
-                            and — most importantly — can force you to send one of your monsters from the field to
-                            the grave. This last effect is by far the most powerful because the monster removal is
-                            non-destructive (so cannot be stopped by Toon Kingdom, won’t trigger Warm Worm’s effect,
-                            etc.) and non-targeting (bypassing Hazy’s immunity). Furthermore, because you’re the
-                            one sending the card to the grave, it is not considered an opponent’s card effect and things
-                            like Samurai Skull’s effect don’t even activate. This also means that the effect doesn’t start
-                            a chain, so you can’t choose the monster to send and then use it as tribute fodder for
-                            Enemy Controller or banish it with Beast Rising. This ability of Dakini’s is very problematic
-                            and we must adapt around it."
-                        },
-                        {
-                            "paragraph": "It is not hard to imagine how Hazy Flame can mitigate Dakini’s effect, but there are
-                            pitfalls to be avoided while planning the deck. <b>The most common mistake that can be
-                            made while building a Hazy deck is focusing too much on plays that can be made only
-                            after Hazy Flame is on the field.</b> With the speed and consistency of top-tier decks — Cyber
-                            Angels, especially — getting Hazy Flame out needs to be of equal priority in your mind,
-                            since it is easier said than done. However, once Hazy Flame is out on the field, we can
-                            constantly summon monsters to serve as protection against Dakini’s effect forcing us to
-                            get rid of our Hazy."
-                        },
-                        {
-                            "paragraph": "So how do we summon Hazy? An obvious answer is Soul Exchange, but a potential
-                            problem here is that without Hazy in hand, Soul Exchange is a completely dead card.
-                            Additionally, we don’t particularly mind tributing to get Hazy out, since we can immediately
-                            use Hazy’s effect to bring that monster right back if we like. But because of the pressure
-                            Dakini puts on our front-row, we need monsters that can hop back out of the grave if need
-                            be. This leads us to consider Flame Tiger (which I’ll talk more about in the following
-                            section) and suggests that we should consider running a Beast Rising version of Hazy. This
-                            turns out to be exactly the “optimal” Hazy Flame deck that I now want to describe. (I’ll
-                            talk more about alternate Hazy decks in section 4.)"
-                        }
-                    ]
+                    "paragraph": "One of the most fun things about building a Hazy Flame deck is in the extreme
+                    flexibility you have when constructing the deck. The reason why Hazy Flame decks are
+                    powerful should be somewhat obvious, but revolves around their ability to effectively summon
+                    monsters at will as well as be immune from any of your opponent’s targeting effects. This
+                    means that any FIRE monster is fair game in a Hazy deck, from Phoenix Gearfried, to
+                    Sergeant Electro, to Knight of the Red Lotus. In particular, you can adapt to the current
+                    meta with relative ease by swapping tech cards or changing the entire core of the deck."
+                },
+                {
+                    "paragraph": "This season, the ladder is dominated by Cyber Angels. An extremely strong and
+                    consistent deck introduced with the GX update, Cyber Angels feature strong ritual monsters
+                    with potent recycling effects. The most dangerous of the ritual monsters is Cyber Angel
+                    Dakini, which gives other ritual monsters piercing damage, can recycle from the grave,
+                    and — most importantly — can force you to send one of your monsters from the field to
+                    the grave. This last effect is by far the most powerful because the monster removal is
+                    non-destructive (so cannot be stopped by Toon Kingdom, won’t trigger Warm Worm’s effect,
+                    etc.) and non-targeting (bypassing Hazy’s immunity). Furthermore, because you’re the
+                    one sending the card to the grave, it is not considered an opponent’s card effect and things
+                    like Samurai Skull’s effect don’t even activate. This also means that the effect doesn’t start
+                    a chain, so you can’t choose the monster to send and then use it as tribute fodder for
+                    Enemy Controller or banish it with Beast Rising. This ability of Dakini’s is very problematic
+                    and we must adapt around it."
+                },
+                {
+                    "paragraph": "It is not hard to imagine how Hazy Flame can mitigate Dakini’s effect, but there are
+                    pitfalls to be avoided while planning the deck. <b>The most common mistake that can be
+                    made while building a Hazy deck is focusing too much on plays that can be made only
+                    after Hazy Flame is on the field.</b> With the speed and consistency of top-tier decks — Cyber
+                    Angels, especially — getting Hazy Flame out needs to be of equal priority in your mind,
+                    since it is easier said than done. However, once Hazy Flame is out on the field, we can
+                    constantly summon monsters to serve as protection against Dakini’s effect forcing us to
+                    get rid of our Hazy."
+                },
+                {
+                    "paragraph": "So how do we summon Hazy? An obvious answer is Soul Exchange, but a potential
+                    problem here is that without Hazy in hand, Soul Exchange is a completely dead card.
+                    Additionally, we don’t particularly mind tributing to get Hazy out, since we can immediately
+                    use Hazy’s effect to bring that monster right back if we like. But because of the pressure
+                    Dakini puts on our front-row, we need monsters that can hop back out of the grave if need
+                    be. This leads us to consider Flame Tiger (which I’ll talk more about in the following
+                    section) and suggests that we should consider running a Beast Rising version of Hazy. This
+                    turns out to be exactly the “optimal” Hazy Flame deck that I now want to describe. (I’ll
+                    talk more about alternate Hazy decks in section 4.)"
                 }
             ]
         },
         {
             "title": "2 “Optimal” Hazy Build",
+            "level": 1,
             "blocks":
             [
                 {

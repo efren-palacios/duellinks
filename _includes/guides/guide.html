@@ -6,8 +6,8 @@
         {% endif %}
     </div>
 
-    {% if guide.card-splash != null%}
-        <img class="splash" src="/img/card-splashes/{{guide.card-splash}}.png">
+    {% if guide.image != null%}
+        <img class="splash" src="/img/guides/{{guide.image}}">
     {% endif %}
     
     {% for section in guide.sections %}
