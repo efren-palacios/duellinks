@@ -1,5 +1,8 @@
 <div class="flex-container {{include.deck.position}}">
     <div class="deck-container">
+        {% if include.deck.name != null and include.deck.author != null and include.deck.created != null %}
+            <div id="label"><b>{{deck.name}}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
+        {% endif %}
         <div id="deck">
             <div id="cards">
                 {% for card in include.deck.main %}
