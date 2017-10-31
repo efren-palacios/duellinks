@@ -8,9 +8,9 @@ body
 {
   font-family: "Alegreya";
   font-size: 17px;
-  background: $dark-blue;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, $grey-blue, $dark-blue);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to top, $grey-blue, $dark-blue); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  background: rgba($main-color-dark, 0.99);  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, $main-color-light, rgba($main-color-dark, 0.99));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, $main-color-light, rgba($main-color-dark, 0.99)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
   height: 100%;
   cursor: default;
 }
