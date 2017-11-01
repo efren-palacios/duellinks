@@ -77,7 +77,7 @@ function InitializeViewModel()
             $.each(deckType.decks, function(index, deck)
             {
                 var creationDate = new Date(deck.created);
-                creationDate.setDate(creationDate.getDate() + 3);
+                creationDate.setDate(creationDate.getDate() + 2);
 
                 if (creationDate >= new Date())
                 {
@@ -141,6 +141,11 @@ function GetTopDecks()
 {
     $.getJSON( "/data/topdecks.json", function(data)
     {
+        data = $.grep(data, function(deckType)
+        { 
+            return deckType.count > 0; 
+        });
+
         data.sort(SortDeckTypes);
         TopDecksViewModel.deckTypes(data);
 
