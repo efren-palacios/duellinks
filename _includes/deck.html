@@ -2,7 +2,7 @@
     <div class="deck-container">
         {% if include.deck.name != null and include.deck.author != null and include.deck.created != null %}
             <div id="label"><b>{{deck.name}}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i>
-            <p><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</p>
+            <div style="color:#2F7D9C;"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
             </div>
         {% endif %}
         <div id="deck">
@@ -16,7 +16,9 @@
                     {% endfor %}
                 {% endif %}
             </div>
+            
         </div>
+        <a style="margin: 1rem 0;" class="btn btn-primary" href={{site.url}}/top-decks/ role="button"><i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Top Decks</a>
     </div>
     <div class="stats">  
         {% if include.showStats == true %}
