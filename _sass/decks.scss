@@ -22,19 +22,14 @@
 .flex-container {
   display: flex;
   justify-content: flex-start;
-  justify-content: center;
   align-items: center;
-  margin-bottom: 30px;
+  justify-content: center;
 }
 
-.flex-container.left
-{
-  justify-content: left !important;
-}
 
 #label {
   text-align: center;
-  margin:1rem 0;
+  margin: 1rem 0;
 }
 
 #deck {
@@ -51,18 +46,18 @@
 #cards {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start; 
-  padding: .5rem;
+  justify-content: flex-start;
+  padding: 0.5rem;
   width: 100%;
 }
 .item {
   box-sizing: border-box;
-  margin: .5rem;
-  img.deckcards {
-  height: auto;
-  width: 70px;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  cursor: pointer;
+  margin: 0.5rem;
+  img.dcards {
+    height: auto;
+    width: 70px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    cursor: pointer;
   }
   p {
     display: flex;
@@ -99,34 +94,51 @@
   margin: 1px;
 }
 
-
 .skill {
   margin-left: 0.3rem;
-  margin-right: .3rem;
+  margin-right: 0.3rem;
 }
 
-.info{
-  border-radius: 5px;
-  height: 417px;
-  width: 256px;
-  display: block;
+.info {
+  position: absolute;
+  display: flex;
 }
-.noimg img[src] {
-   display: block;
- }
 
-.deck-notes
-{
-  br
-  {
-    line-height: 2.3;
-  }
+.cardinfo {
+  display: flex !important;
+  flex-direction: row;
+}
+
+.qtip-content {
+  display: flex;
+}
+
+.preview img {
+  width: 120px;
+}
+
+.carddata {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.preview img {
+  margin: 1rem 1rem 1rem .5rem;
+  width: 120px;
+  display: flex;
+}
+
+.qtip-dark {
+  background-color: #111;
+  min-width: 500px;
 }
 
 @media only screen and (max-width: 760px) {
-  .stats { display: none; }
+  .stats {
+    display: none;
+  }
   #deck {
     width: 362px;
-    margin: 1rem auto;
   }
 }
