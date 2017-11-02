@@ -1,3 +1,8 @@
+.deck-page h2
+{
+  margin-top: 40px;
+}
+
 .deck-container {
   display: flex;
   flex-direction: column;
@@ -24,12 +29,23 @@
   justify-content: flex-start;
   align-items: center;
   justify-content: center;
+  margin-bottom: 15px;
 }
 
+.flex-container.left
+{
+  justify-content: left;
+}
 
 #label {
   text-align: center;
-  margin: 1rem 0;
+  margin-top: 1rem;
+}
+
+#skill
+{
+  margin-bottom: 1rem;
+  color: #2F7D9C;
 }
 
 #deck {

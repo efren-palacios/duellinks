@@ -1,0 +1,50 @@
+{
+  "name": "michaelsteinman's control deck",
+  "author": "michaelsteinman",
+  "created": "2017-11-01",
+  "skill": "Balance",
+  "main": [
+    {
+      "name": "Sergeant Electro",
+      "amount": "3"
+    },
+    {
+      "name": "Hydrogeddon",
+      "amount": "3"
+    },
+    {
+      "name": "Forbidden Chalice",
+      "amount": "2"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3"
+    },
+    {
+      "name": "Wall of Disruption",
+      "amount": "3"
+    },
+    {
+      "name": "Metalmorph",
+      "amount": "3"
+    },
+    {
+      "name": "Curse of Anubis",
+      "amount": "1"
+    },
+    {
+      "name": "Windstorm of Etaqua",
+      "amount": "1"
+    },
+    {
+      "name": "Lightforce Sword",
+      "amount": "1"
+    }
+  ],
+  "notes":
+  [
+    {
+      "text": "This meta created the perfect storm for Control to dominate. The 2 hardest matchups (Phoenix/Barrel) were made unplayable by Cyber Angels. Cyber Angel's inherent problem is not being to play around both Enemy Controller and Mirror Wall at the same time so people used Mind Scan to fix that problem. Now while CA is consistent, they can still open weak or even unplayable hands but most people felt forced to run Mind Scan. This is the situation CA players were forced into so my job was to find a way to exploit that. I wanted to play an aggressive deck that could take advantage of weak opening hands. By using Balance with 3 Controller 2 Chalice I was able to either straight up win by opening with Controller, or help to further weaken their hand with Chalice. Of course 5 Controllers would have been preferable but it's okay - Chalice proved to be absurdly powerful as well. The last deck left was REZ, which inherently has a hard time with multiple backrows. This all created the perfect opportunity to take King of Games with Control."
+    }
+  ]
+}

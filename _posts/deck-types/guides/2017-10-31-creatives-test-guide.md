@@ -5,6 +5,7 @@ category: deck-type-guide
 author: Creative
 image: /img/logo.png
 date: 2017-10-31
+feature: false
 comments: false
 description: In depth guide written by superforms talking about the hazy flame archetype.
 keywords: guide, hazy flame, hazy flame sphynx, beast rising, in-depth guide, core cards
