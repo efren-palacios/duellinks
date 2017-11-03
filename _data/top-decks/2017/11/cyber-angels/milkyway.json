@@ -1,0 +1,58 @@
+{
+  "name": "##Cyber Angels",
+  "author": "은하_",
+  "created": "2017-11-01",
+  "skill": "Restart",
+  "main": [
+    {
+      "name": "Cyber Angel Dakini",
+      "amount": "3"
+    },
+    {
+      "name": "Cyber Angel Idaten",
+      "amount": "1"
+    },
+    {
+      "name": "Cyber Angel Benten",
+      "amount": "3"
+    },
+    {
+      "name": "Sonic Bird",
+      "amount": "1"
+    },
+    {
+      "name": "Senju Of The Thousand Hands",
+      "amount": "2"
+    },
+    {
+      "name": "Cyber Petit Angel",
+      "amount": "2"
+    },
+    {
+      "name": "Machine Angel Absolute Ritual",
+      "amount": "3"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "2"
+    },
+    {
+      "name": "Anti-Magic Arrows",
+      "amount": "1"
+    },
+    {
+      "name": "Machine Angel Ritual",
+      "amount": "1"
+    },
+    {
+      "name": "Xing Zhen Hu",
+      "amount": "1"
+    }
+  ],
+  "notes":
+  [
+    {
+      "text": "Got lucky with xing vs burn"
+    }
+  ]
+}

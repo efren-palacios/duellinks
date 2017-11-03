@@ -118,6 +118,13 @@ h3.title
   margin: 1rem;
 }
 
+.btn-primary,
+.btn-primary:hover
+{
+  background-color: $active;
+  border-color: $active;
+}
+
 button:focus
 {
   outline: 5px auto $flashy-blue;

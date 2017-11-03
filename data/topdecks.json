@@ -8,7 +8,6 @@
   {% assign month = site.data.months | where: "id", currentMonth %}
 
   {% for decktype in decks %}
-         
       {% for tier in site.data.tierlist %}
         {% for type in tier.types %}
           {% if type.id == decktype[0] %}
@@ -24,10 +23,18 @@
         "decks":
         [
           {% for deck in decktype[1] %}
+            {% assign start = deck[1].name | slice: 0, 2 %}
+            {% if start != '##'  %}
+              {% assign deckName = deck[1].name %}
+              {% assign deckUrlName = deck[1].name | downcase | replace: " ", "-" %}
+            {% else %}
+              {% assign deckName = deck[1].author | append: "'s " | append: tiertype.display | remove: " Decks" | append: " Deck" %}
+              {% assign deckUrlName = decktype[0] | remove: "-decks" %}
+            {% endif %}
             {
               "author": "{{deck[1].author}}",
-              "name": "{{deck[1].name}}",
-              "url": "/{{month[0].name}}-{{currentYear}}/{{decktype[0]}}/{{deck[1].name | downcase | replace: " ", "-"}}",
+              "name": "{{deckName}}",
+              "url": "/{{month[0].name}}-{{currentYear}}/{{decktype[0]}}/{{deckUrlName}}-by-{{deck[1].author | downcase | replace: " ", "-"}}",
               "created": "{{deck[1].created}}",
               "front": "{{deck[1].main[0].name}}",
               "skill": "{{deck[1].skill}}"
@@ -36,6 +43,5 @@
         ]
       }
       {% unless forloop.last %},{% endunless %}
-   
   {% endfor %}
 ]

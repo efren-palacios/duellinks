@@ -10,10 +10,10 @@ comments: false
 description: 
 keywords: 
 deck-type: control-decks
-permalink: /guides/smooth's-test-guide/
+permalink: /guides/test-guide-by-smooth/
 ---
 
-{% assign guide = site.data.deck-types.guides[{{page.deck-type}}]["smooths-test-guide"] %}
+{% assign guide = site.data.deck-types.guides[{{page.deck-type}}]["test-guide-by-smooth"] %}
 
 {% include guides/guide.html guide=guide %}
 

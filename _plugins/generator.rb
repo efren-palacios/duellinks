@@ -34,8 +34,13 @@ module Jekyll
               lower_name = deck_name.downcase
               lower_name.gsub! ' ', '-'
               updated_deck_name = lower_name   
+              updated_deck_name = updated_deck_name.gsub("##", "")
 
-              deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}/")
+              lower_author = deck['author'].downcase
+              lower_author.gsub! ' ', '-'
+              updated_author = lower_author
+
+              deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
               deck_file.puts("---")
               deck_file.puts("")
               deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
@@ -50,6 +55,7 @@ module Jekyll
               deck_file.puts( "        </div>")
               deck_file.puts("      {% endfor %}")
               deck_file.puts("  {% endif %}")
+              deck_file.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/'' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
               deck_file.puts("</div>")
               deck_file.close
 

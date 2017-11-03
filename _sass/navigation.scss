@@ -55,7 +55,7 @@ li.nav-item > a.nav-link:hover
 li.nav-item > a.nav-link.active,
 li.nav-item > a.nav-link:focus
 {
-  color: #2F7D9C;
+  color: $active;
 }
 
 .pagination
