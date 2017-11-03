@@ -4,13 +4,18 @@
   src: url(/fonts/Alegreya/AlegreyaSans-Medium.ttf);
 }
 
+html
+{
+  background-color: $main-color-light;
+}
+
 body
 {
   font-family: "Alegreya";
   font-size: 17px;
-  background: $dark-blue;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to top, $grey-blue, $dark-blue);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to top, $grey-blue, $dark-blue); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+  background: $main-color-dark;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, $main-color-light, $main-color-dark);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, $main-color-light, $main-color-dark); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
   height: 100%;
   cursor: default;
 }
@@ -18,7 +23,7 @@ body
 .container {
   height: 100%;
   max-width: 1080px !important;
-  margin-top: 100px;
+  margin-top: 60px;
 }
 
 .section
@@ -100,9 +105,24 @@ h3.title
   text-align: center;
 }
 
+.ad-container
+{
+    margin-top: 0px;
+    padding-top: 32px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
 .ad
 {
   margin: 1rem;
+}
+
+.btn-primary,
+.btn-primary:hover
+{
+  background-color: $active;
+  border-color: $active;
 }
 
 button:focus

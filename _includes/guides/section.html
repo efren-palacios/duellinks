@@ -1,24 +1,39 @@
 <div class="section">
-    {% case include.level %}
+    {% case include.section.level %}
         {% when 1 %}
-            <h3>{{include.section.number}} {{include.section.title}}</h3>
+            <h3>{{include.section.title}}</h3>
         {% when 2 %}
-            <h4>{{include.section.number}} {{include.section.title}}</h4>
+            <h4>{{include.section.title}}</h4>
         {% when 3 %}
-            <h5>{{include.section.number}} {{include.section.title}}</h5>
+            <h5>{{include.section.title}}</h5>
         {% else %}
-            <h6>{{include.section.number}} {{include.section.title}}</h6>
-      {% endcase %}
+            <h6>{{include.section.title}}</h6>
+    {% endcase %}
     
-    {% for paragraph in include.section.paragraphs %}
-        <p class="{{paragraph.layout}}">{{paragraph.text}}</p>
+    {% for block in include.section.blocks %}
+        {% if block.paragraph != null %}
+            <p class="{{block.layout}}">{{block.paragraph}}</p>
+        {% elsif block.deck != null %}
+            {% include deck.html deck=block.deck showStats=true %}
+        {% elsif block.box != null %}
+            {% include deck.html deck=block.box showStats=false %}
+        {% endif %}
     {% endfor %}
+
+    {% if include.section.guides != null %}
+        <ul>
+            {% for guideName in include.section.guides %}
+                {% assign guide = site.data.deck-types.guides[{{page.deck-type}}][{{guideName}}] %}
+                <li><a href="/guides/{{guide.url}}">{{guide.title}}</a></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
     
-    {% if include.section.sub-sections.size > 0 %}
+    <!--{% if include.section.sub-sections.size > 0 %}
         {% assign next-level = include.level | plus: 1 %}
         
         {% for sub-section in include.section.sub-sections %}
             {% include guides/section.html section=sub-section level=next-level %}
         {% endfor %}
-    {% endif %}
+    {% endif %}-->
 </div>

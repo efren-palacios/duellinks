@@ -1,0 +1,39 @@
+<div class="flex-container {{include.deck.position}}">
+    <div class="deck-container">
+        {% if include.deck.name != null and include.deck.author != null and include.deck.created != null %}
+            <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
+        {% endif %}
+        {% if include.showStats %}
+            <div id="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
+        {% endif %}
+        <div id="deck">
+            <div id="cards">
+                {% for card in include.deck.main %}
+                    {% include deckbuild.html card=card %}
+                {% endfor %}
+                {% if include.deck.extra != null %}
+                    {% for card in extra %}
+                        {% include deckbuild.html card=card %}
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    <div class="stats">  
+        {% if include.showStats == true %}
+            {% assign amountOfMainCards = 0 %}
+            {% for card in include.deck.main %}
+                {% assign amountOfMainCards = amountOfMainCards | plus: card.amount %}
+            {% endfor%}
+
+            {% assign amountOfExtraCards = 0 %}
+            {% for card in include.deck.extra %}
+                {% assign amountOfExtraCards = amountOfExtraCards | plus: card.amount %}
+            {% endfor%}
+
+           <!-- <p><img class="main" src="/img/assets/main.png" alt="Skill icon"> Main: {{amountOfMainCards}}</p>
+            <p><img class="main" src="/img/assets/extra.png" alt="Skill icon"> Extra: {{amountOfExtraCards}}</p> -->
+        {% endif %}
+       <!-- <div class="noimg"><img class="info" src="/img/assets/no-image.gif" /></div> -->
+    </div>
+</div>

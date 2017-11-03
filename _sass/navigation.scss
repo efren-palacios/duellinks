@@ -8,7 +8,7 @@
   padding: 4px;
   border: 1px solid transparent;
   box-shadow: 0 0 10px 0 $black;
-  background-color: $dark-blue;
+  background-color: $main-color-dark;
   position: fixed;
   width: 100%;
   top: 0;
@@ -17,6 +17,7 @@
   .navbar-toggler
   {
     cursor: pointer;
+    min-height: 48px;
   }
 
   .navbar-nav
@@ -54,7 +55,7 @@ li.nav-item > a.nav-link:hover
 li.nav-item > a.nav-link.active,
 li.nav-item > a.nav-link:focus
 {
-  color: #2F7D9C;
+  color: $active;
 }
 
 .pagination
@@ -71,7 +72,7 @@ li.nav-item > a.nav-link:focus
   {
     display: inline;
 
-    &.active .page-link
+    &.active .page-link,
     {
       background-color: #2F7D9C;
       border-color: rgba(255, 255, 255, 0.08);

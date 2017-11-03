@@ -10,10 +10,10 @@ module Jekyll
 
     def generate(site)
       site_data = site.data
-      decklists = site_data["decklists"]
+      top_decks = site_data["top-decks"]
 
-      for year_key in decklists.keys
-        year = decklists[year_key]
+      for year_key in top_decks.keys
+        year = top_decks[year_key]
         for month_key in year.keys
           month = year[month_key]
           monthName = Date::MONTHNAMES[month_key.to_i]
@@ -34,46 +34,29 @@ module Jekyll
               lower_name = deck_name.downcase
               lower_name.gsub! ' ', '-'
               updated_deck_name = lower_name   
+              updated_deck_name = updated_deck_name.gsub("##", "")
 
-              deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}/")
+              lower_author = deck['author'].downcase
+              lower_author.gsub! ' ', '-'
+              updated_author = lower_author
+
+              deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
               deck_file.puts("---")
               deck_file.puts("")
-              deck_file.puts("{% assign deck = site.data.decklists.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
-              deck_file.puts("<div class=\"flex-container\">")
-              deck_file.puts("    <div class=\"deck-container\">")
-              deck_file.puts("")
-              deck_file.puts("        <div id=\"label\"><b>{{deck.name}}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>")
-              deck_file.puts("")
-              deck_file.puts("        <div id=\"deck\">")
-              deck_file.puts("            <div id=\"cards\">")
-              deck_file.puts("                {% for item in deck.main %}")
-              deck_file.puts("                    {% include deckbuild.html card=item %}")
-              deck_file.puts("                {% endfor %}")
-              deck_file.puts("                {% assign extra = deck.extra %}")
-              deck_file.puts("                {% if extra != null %}")
-              deck_file.puts("                    {% for item in extra %}")
-              deck_file.puts("                        {% include deckbuild.html card=item %}")
-              deck_file.puts("                    {% endfor %}")
-              deck_file.puts("                {% endif %}")
-              deck_file.puts("            </div>")
-              deck_file.puts("        </div>")
-              deck_file.puts("    </div>")
-              deck_file.puts("    <div class=\"stats\">")        
-              deck_file.puts("        <p><img class=\"main\" src=\"https://cdn.discordapp.com/attachments/313655178094051331/368288837283217409/main.png\" alt=\"Skill icon\"> Main: 20</p>")
-              deck_file.puts("        <p><img class=\"main\" src=\"https://cdn.discordapp.com/attachments/313655178094051331/368290310100615168/extra.png\" alt=\"Skill icon\"> Extra: 0</p>")              
-              deck_file.puts("        <p><img class=\"main skill\" src=\"https://cdn.discordapp.com/attachments/313655178094051331/368290794882334720/skill.png\" alt=\"Skill icon\"> Skill: {{deck.skill}}</p>")              
-              deck_file.puts("        <div class=\"noimg\"><img class=\"info\" src=\"data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\" /></div>")
-              deck_file.puts("    </div>")
+              deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
+              deck_file.puts("<div class='deck-page'>")
+              deck_file.puts("  {% include deck.html deck=deck showStats=true %}")
+              deck_file.puts("  {% if deck.notes != null %}")
+              deck_file.puts("      <h2>Notes from {{deck.author}}</h2>")
+              deck_file.puts("      {% for note in deck.notes %}")
+              deck_file.puts("          <div class='section deck-notes'>")
+              deck_file.puts("              <h4>{{note.title}}</h4>")
+              deck_file.puts("              <p>{{note.text}}</p>")
+              deck_file.puts( "        </div>")
+              deck_file.puts("      {% endfor %}")
+              deck_file.puts("  {% endif %}")
+              deck_file.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/'' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
               deck_file.puts("</div>")
-              deck_file.puts("{% if deck.notes != null %}")
-              deck_file.puts("    <h2>Notes from {{deck.author}}</h2>")
-              deck_file.puts("    {% for note in deck.notes %}")
-              deck_file.puts("        <div class='section deck-notes'>")
-              deck_file.puts("            <h4>{{note.title}}</h4>")
-              deck_file.puts("            <p>{{note.text}}</p>")
-              deck_file.puts("        </div>")
-              deck_file.puts("    {% endfor %}")
-              deck_file.puts("{% endif %}")
               deck_file.close
 
               site.pages << DeckPage.new(site, site.source, '', 'deck.html')

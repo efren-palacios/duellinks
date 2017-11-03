@@ -1,0 +1,54 @@
+{
+  "name": "##Red-Eyes Zombies",
+  "author": "AdoboBoy",
+  "created": "2017-11-01",
+  "skill": "Beatdown",
+  "main": [
+    {
+      "name": "Gozuki",
+      "amount": "2"
+    },
+    {
+      "name": "Red-Eyes Zombie Dragon",
+      "amount": "3"
+    },
+    {
+      "name": "Samurai Skull",
+      "amount": "2"
+    },
+    {
+      "name": "Bacon Saver",
+      "amount": "1"
+    },
+    {
+      "name": "Red-Eyes Insight",
+      "amount": "3"
+    },
+    {
+      "name": "Forbidden Chalice",
+      "amount": "1"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3"
+    },
+    {
+      "name": "Mirror Wall",
+      "amount": "2"
+    },
+    {
+      "name": "Red-Eyes Spirit",
+      "amount": "2"
+    },
+    {
+      "name": "Curse Of Anubis",
+      "amount": "1"
+    }
+  ],
+  "notes":
+  [
+    {
+      "text": "All I faced were ca, ag, and burn. So that's why I ran 3 rez instead of 1 wyvern/2 rez. Chalice denied amazoness swords woman and ca searchers. Anubis allowed me swing over big dikinis. Also take note that im not running ama or storm, if 99% of your matches are ca (which they most likely are) you can cut them."
+    }
+  ]
+}

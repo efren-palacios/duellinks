@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Exiled Force",
+    "rarity": "UR"
+  },
+  {
+    "name": "Berserk Dragon",
+    "rarity": "UR"
+  },
+  {
+    "name": "Elemental HERO Terra Firma",
+    "rarity": "UR"
+  },
+  {
+    "name": "Gladiator Beast Heraklinos",
+    "rarity": "UR"
+  },
+  {
+    "name": "Neo Flamvell Sabre",
+    "rarity": "UR"
+  },
+  {
+    "name": "Into the Void",
+    "rarity": "UR"
+  },
+  {
+    "name": "Upstart Golden Ninja",
+    "rarity": "UR"
+  },
+  {
+    "name": "Saffira, Queen of Dragons",
+    "rarity": "UR"
+  },
+  {
+    "name": "Cosmic Cyclone",
+    "rarity": "UR"
+  },
+  {
+    "name": "Trifortressops",
+    "rarity": "UR"
+  },
+  {
+    "name": "Rush Recklessly",
+    "rarity": "SR"
+  },
+  {
+    "name": "Mask of Brutality",
+    "rarity": "SR"
+  },
+  {
+    "name": "Theinen the Great Sphinx",
+    "rarity": "SR"
+  },
+  {
+    "name": "UFOroid Fighter",
+    "rarity": "SR"
+  },
+  {
+    "name": "Elemental HERO Woodsman",
+    "rarity": "SR"
+  },
+  {
+    "name": "Gladiator Beast Laquari",
+    "rarity": "SR"
+  },
+  {
+    "name": "Gladiator Beast Andal",
+    "rarity": "SR"
+  },
+  {
+    "name": "Elemental HERO Storm Neos",
+    "rarity": "SR"
+  },
+  {
+    "name": "Impenetrable Attack",
+    "rarity": "SR"
+  },
+  {
+    "name": "Brotherhood of the Fire Fist - Swallow",
+    "rarity": "SR"
+  },
+  {
+    "name": "Gladiator Beast Nerokius",
+    "rarity": "SR"
+  },
+  {
+    "name": "First-Aid Squad",
+    "rarity": "SR"
+  },
+  {
+    "name": "My Body as a Shield",
+    "rarity": "R"
+  },
+  {
+    "name": "Andro Sphinx",
+    "rarity": "R"
+  },
+  {
+    "name": "Sphinx Teleia",
+    "rarity": "R"
+  },
+  {
+    "name": "Re-Fusion",
+    "rarity": "R"
+  },
+  {
+    "name": "UFOroid",
+    "rarity": "R"
+  },
+  {
+    "name": "Cybernetic Cyclopean",
+    "rarity": "R"
+  },
+  {
+    "name": "Disciple of the Forbidden Spell",
+    "rarity": "R"
+  },
+  {
+    "name": "Elemental HERO Ocean",
+    "rarity": "R"
+  },
+  {
+    "name": "Elemental HERO Aqua Neos",
+    "rarity": "R"
+  },
+  {
+    "name": "Neo-Spacian Aqua Dolphin",
+    "rarity": "R"
+  },
+  {
+    "name": "Neo Space",
+    "rarity": "R"
+  },
+  {
+    "name": "Field Barrier",
+    "rarity": "R"
+  },
+  {
+    "name": "Neo Space Pathfinder",
+    "rarity": "R"
+  },
+  {
+    "name": "Gladiator Beast Alexander",
+    "rarity": "R"
+  },
+  {
+    "name": "Gladiator Beast Murmillo",
+    "rarity": "R"
+  },
+  {
+    "name": "Gladiator Beast Bestiari",
+    "rarity": "R"
+  },
+  {
+    "name": "Test Ape",
+    "rarity": "R"
+  },
+  {
+    "name": "Colosseum - Cage of the Gladiator Beasts",
+    "rarity": "R"
+  },
+  {
+    "name": "Gladiator Beast's Respite",
+    "rarity": "R"
+  },
+  {
+    "name": "Genex Searcher",
+    "rarity": "R"
+  },
+  {
+    "name": "Ally of Justice Searcher",
+    "rarity": "R"
+  },
+  {
+    "name": "Ally of Justice Cosmic Gateway",
+    "rarity": "R"
+  },
+  {
+    "name": "R-Genex Accelerator",
+    "rarity": "R"
+  },
+  {
+    "name": "The Grand Jupiter",
+    "rarity": "R"
+  },
+  {
+    "name": "Gladiator Beast Essedarii",
+    "rarity": "R"
+  },
+  {
+    "name": "Brotherhood of the Fire Fist - Raven",
+    "rarity": "R"
+  },
+  {
+    "name": "Fire Formation - Tensu",
+    "rarity": "R"
+  },
+  {
+    "name": "Fire Formation - Tenken",
+    "rarity": "R"
+  },
+  {
+    "name": "Brotherhood of the Fire Fist - Buffalo",
+    "rarity": "R"
+  },
+  {
+    "name": "Brotherhood of the Fire Fist - Coyote",
+    "rarity": "R"
+  },
+  {
+    "name": "Hymn of Light",
+    "rarity": "R"
+  },
+  {
+    "name": "Backup Squad",
+    "rarity": "R"
+  },
+  {
+    "name": "Infinite Cards",
+    "rarity": "N"
+  },
+  {
+    "name": "Life Absorbing Machine",
+    "rarity": "N"
+  },
+  {
+    "name": "Bottomless Shifting Sand",
+    "rarity": "N"
+  },
+  {
+    "name": "Remove Brainwashing",
+    "rarity": "N"
+  },
+  {
+    "name": "Nin-Ken Dog",
+    "rarity": "N"
+  },
+  {
+    "name": "A Deal with Dark Ruler",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo Bug",
+    "rarity": "N"
+  },
+  {
+    "name": "Fiend's Hand Mirror",
+    "rarity": "N"
+  },
+  {
+    "name": "Spell Economics",
+    "rarity": "N"
+  },
+  {
+    "name": "Pyramid of Light",
+    "rarity": "N"
+  },
+  {
+    "name": "Ballista of Rampart Smashing",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo-Spacian Air Hummingbird",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo-Spacian Glow Moss",
+    "rarity": "N"
+  },
+  {
+    "name": "Terra Firma Gravity",
+    "rarity": "N"
+  },
+  {
+    "name": "Elemental HERO Glow Neos",
+    "rarity": "N"
+  },
+  {
+    "name": "NEX",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo-Spacian Marine Dolphin",
+    "rarity": "N"
+  },
+  {
+    "name": "Elemental HERO Marine Neos",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast Dimacari",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast Secutor",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast's Battle Halberd",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast's Battle Gladius",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator's Return",
+    "rarity": "N"
+  },
+  {
+    "name": "Disarm",
+    "rarity": "N"
+  },
+  {
+    "name": "Parry",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo-Spacian Twinkle Moss",
+    "rarity": "N"
+  },
+  {
+    "name": "Instant Neo Space",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast Octavius",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Lash",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Unknown Crusher",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Falco",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Nullfier",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Enemy Catcher",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Thunder Armor",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Millidith",
+    "rarity": "N"
+  },
+  {
+    "name": "Worm Noble",
+    "rarity": "N"
+  },
+  {
+    "name": "Trojan Gladiator Beast",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Reverse Break",
+    "rarity": "N"
+  },
+  {
+    "name": "Ally of Justice Unlimiter",
+    "rarity": "N"
+  },
+  {
+    "name": "Caravan of the Ice Barrier",
+    "rarity": "N"
+  },
+  {
+    "name": "Sacred Spirit of the Ice Barrier",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo Flamvell Shaman",
+    "rarity": "N"
+  },
+  {
+    "name": "Neo Flamvell Garuda",
+    "rarity": "N"
+  },
+  {
+    "name": "Secret Guards of the Ice Barrier",
+    "rarity": "N"
+  },
+  {
+    "name": "Gladiator Beast Augustus",
+    "rarity": "N"
+  },
+  {
+    "name": "Finite Cards",
+    "rarity": "N"
+  }
+]
