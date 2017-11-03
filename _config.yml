@@ -13,3 +13,5 @@ collections:
 gems:
   - jekyll-timeago
   - jekyll-angular
+plugins-dir:
+  - jekyll-sitemap
