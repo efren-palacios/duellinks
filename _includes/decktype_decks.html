@@ -3,6 +3,14 @@
 {% assign month = site.data.months | where: "id", currentMonth %}
 {% assign deckType = site.data.top-decks[currentYear][currentMonth][include.deckType] %}
 
+{% for tier in site.data.tierlist %}
+    {% for type in tier.types %}
+        {% if type.id == include.deckType %}
+            {% assign tiertype = type %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
 {% if deckType.size > 0 %}
 <div class="section">
     <h4>Latest top decks from {{month[0].name}}</h4>
@@ -19,7 +27,15 @@
         <tbody>
             {% assign decks = deckType | sort_decks %}
             {% for deck in decks limit:10 %}
-                {% capture url %}{{month[0].name}}-{{currentYear}}/{{include.deckType}}/{{deck[1].name | downcase | replace: " ", "-"}}{% endcapture %}
+                {% assign start = deck[1].name | slice: 0, 2 %}
+                {% if start != '##'  %}
+                    {% assign deckName = deck[1].name %}
+                    {% assign deckUrlName = deck[1].name | downcase | replace: " ", "-" %}
+                {% else %}
+                    {% assign deckName = deck[1].author | append: "'s " | append: tiertype.display | remove: " Decks" | append: " Deck" %}
+                    {% assign deckUrlName = include.deckType | remove: "-decks" %}
+                {% endif %}
+                {% capture url %}{{month[0].name}}-{{currentYear}}/{{include.deckType}}/{{deckUrlName}}-by-{{deck[1].author | downcase | replace: " ", "-"}}{% endcapture %}
                 <tr>
                     <td class="thumb-col">
                         <a href="/top-decks/{{url}}">
@@ -28,7 +44,7 @@
                             </div>
                         </a>
                     </td>
-                    <td><a href="/top-decks/{{url}}">{{deck[1].name}}</a></td>
+                    <td><a href="/top-decks/{{url}}">{{deckName}}</a></td>
                     <td><a href="/top-decks/{{url}}">{{deck[1].skill}}</a></td>
                     <td><a href="/top-decks/{{url}}">{{deck[1].author}}</a></td>
                     <td><a href="/top-decks/{{url}}">{{deck[1].created}}</a></td>
