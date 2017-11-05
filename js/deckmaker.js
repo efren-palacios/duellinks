@@ -11,23 +11,18 @@ $(function() {
             style: {
                 classes: 'qtip-dark qtip-shadow rounded'
             },
-        show: {
-            effect: function() {
-                $(this).fadeTo(500, 1);
-            }
-        },
-        hide: {
-            effect: function() {
-                $(this).fadeOut(200);
-            }
-        },
+            show: {
+                effect: function() { $(this).fadeIn(250); }
+            },
+            hide: {
+                fixed: true,
+                effect: function() { $(this).fadeOut(250); }
+            },
             position: {
-                viewport: $('.container'),
         my: 'center left',
         to: 'center right',
               adjust: {
                y: -50,
-               method: 'shift none'
             }
     },
             content: {
