@@ -27,6 +27,7 @@ $(function() {
         to: 'center right',
               adjust: {
                y: -50,
+               method: 'shift none'
             }
     },
             content: {
