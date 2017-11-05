@@ -5,7 +5,7 @@ category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
-description: In depth information about Hazy Flame BR decks.
+description: A quick introduction to the hazy flame deck type. Learn how to play hazy flame in no time.
 deck-type: hazy-flame-br
 permalink: /tier-list/hazy-flame-br/
 ---
