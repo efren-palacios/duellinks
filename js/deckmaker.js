@@ -5,7 +5,7 @@ $(function() {
     is_mobile = true;
   }  else {
 $(function() {
-    $('.dcards').each(function() {
+    $('.dcards, .card-hover').each(function() {
       let name = $(this).attr('src')
         $(this).qtip({
             style: {
@@ -22,10 +22,11 @@ $(function() {
             }
         },
             position: {
+                viewport: $('.container'),
         my: 'center left',
         to: 'center right',
               adjust: {
-               y: -50
+               y: -50,
             }
     },
             content: {

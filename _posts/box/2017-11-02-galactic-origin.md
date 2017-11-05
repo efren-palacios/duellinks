@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: Box - Galacti Origin
+title: Box - Galactic Origin
 meta: New Box
 categories: box
-image: https://i.imgur.com/eB5UjMk.png
+image: https://i.imgur.com/qFL4ijU.jpg
 author: Dkayed
 date: 2017-11-02 10:45:00 -0600
 comments: true
