@@ -1,7 +1,7 @@
 var is_mobile = false;
 
 $(function() {
-  if ($(".stats").css("display") == "none") {
+  if ($(".mobile").css("display") == "none") {
     is_mobile = true;
   }  else {
 $(function() {
@@ -49,11 +49,16 @@ ${r.data.card.is_monster ? '<p><b>[ </b>'+ r.data.card.species + ' / ' + r.data.
 }); 
 
 $(function() {
+console.log(is_mobile)
   if (is_mobile == true) {
     $(".item a").each(function() {
       $(this).attr("href",$(this).find("img").attr("src")).addClass("fancybox");
       $(this).qtip('destroy')
     });
+    $(".card-hover").each(function(){
+        var imgSrc = $(this).attr('src')
+        $(this).replaceWith($('<a class="fancybox" href="'+imgSrc+'">'+$(this).text()+'</a>'))
+    })
     $('.qtip').remove();
     $(".fancybox").fancybox();
   }
@@ -66,6 +71,10 @@ $(window).on("resize", function() {
       $(this).attr("href",$(this).find("img").attr("src")).addClass("fancybox").qtip('destroy');
       $(this).qtip('destroy');
     });
+    $(".card-hover").each(function(){
+        var imgSrc = $(this).attr('src')
+        $(this).replaceWith($('<a class="fancybox" href="'+imgSrc+'">'+$(this).text()+'</a>'))
+    })
     $(".fancybox").fancybox();
   }
 });

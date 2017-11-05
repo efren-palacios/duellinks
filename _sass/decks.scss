@@ -10,14 +10,6 @@
   justify-content: center;
 }
 
-.stats {
-  margin: 0 1rem;
-  display: flex;
-  flex-direction: column;
-  height: 440px;
-  width: auto;
-}
-
 .card-img {
   display: flex;
   align-items: center;
@@ -153,7 +145,7 @@
 }
 
 @media only screen and (max-width: 760px) {
-  .stats {
+  .mobile {
     display: none;
   }
   #deck {
