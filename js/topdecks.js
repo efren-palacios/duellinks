@@ -112,7 +112,7 @@ function InitializeViewModel()
 
             var amountOfDecks = TopDecksViewModel.filteredDecks().length;
 
-            for(var i = 1; i <= amountOfDecks / TopDecksViewModel.decksPerPage + 1; i++)
+            for(var i = 1; i < amountOfDecks / TopDecksViewModel.decksPerPage + 1; i++)
             {
                 TopDecksViewModel.pages.push(i);
             }
