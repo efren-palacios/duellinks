@@ -246,5 +246,22 @@ button:focus
 
 .site-portal
 {
+  text-align: center;
+  width: calc(100% + 20px);
+  margin-left: -10px;
   margin-bottom: 40px;
+
+  .card-deck
+  {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+
+    .card
+    {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
 }

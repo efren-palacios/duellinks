@@ -1,12 +1,12 @@
 {% assign card = site.data.cardsdb[include.cardname.name] %}
 <div class="col-sm-2 text-center">
-    <img class="rarity lazyload" src="{{site.url}}/img/{{item.rarity}}.png" />
+    <img class="rarity lazyload" src="{{site.url}}/img/assets/{{item.rarity}}.png" />
     <img src="https://yugiohprices.com/api/card_image/{{card.name}}" class="img-fluid lazyload" style="margin-bottom: 1rem;" />
 </div>
 <div class="col-sm-4">
-<p><b>{{item.name}}</b></p>
-<p>{{card.desc}}</p>
-{% if card.attribute != 0 %}
-<p class="cardname"><b>ATK:</b> {{card.atk | replace: '-2', '?'}} / <b>DEF:</b> {{card.def | replace: '-2', '?'}}</p>
-{% endif %}
+    <p><b>{{item.name}}</b></p>
+    <p>{{card.desc}}</p>
+    {% if card.attribute != 0 %}
+        <p class="cardname"><b>ATK:</b> {{card.atk | replace: '-2', '?'}} / <b>DEF:</b> {{card.def | replace: '-2', '?'}}</p>
+    {% endif %}
 </div>

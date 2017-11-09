@@ -12,7 +12,7 @@ comments: true
 {% include oneimage.html image="https://i.imgur.com/qFL4ijU.jpg" %}
 
 <div class="row">
-{% for item in site.data.box.galactic %}
-{% include box.html cardname=item %}
-{% endfor %}
+    {% for item in site.data.box.galactic %}
+        {% include box.html cardname=item %}
+    {% endfor %}
 </div>

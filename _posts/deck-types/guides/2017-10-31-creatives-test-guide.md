@@ -3,7 +3,7 @@ layout: blog
 title: Creative's Test Guide
 category: deck-type-guide
 author: Creative
-image: /img/logo.png
+image: /img/logos/dlm.png
 date: 2017-10-31
 feature: false
 comments: false

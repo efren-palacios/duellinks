@@ -4,15 +4,12 @@
   {% for article in site.posts %}
     {% if article.category != 'header' and article.category != 'deck-type-page' %}
       {% if article.feature == null or article.feature %}
-        {% increment counter %}
+        {% capture _ %}{% increment counter %}{% endcapture %}
         <div class="col-sm-6 col-12 card-deck">
           <div class="card">
             <div class="zoom">
                 <a href={{site.url}}{{article.url}}> 
-                    <img
-                    src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5"
-                    data-src="{{article.image}}"
-                    class="card-img-top lazyload" />
+                    <img src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{article.image}}" class="card-img-top lazyload" />
                 </a>
             </div>
             <div class="card-block text-white">
