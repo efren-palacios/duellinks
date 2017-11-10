@@ -5,9 +5,7 @@ $(function() {
     is_mobile = true;
   }  else {
 $(function() {
-    $('.dcards, .card-hover').each(function() {
-      let name = $(this).attr('src')
-        $(this).qtip({
+    let options = {
             style: {
                 classes: 'qtip-dark qtip-shadow rounded'
             },
@@ -22,11 +20,14 @@ $(function() {
         my: 'center left',
         to: 'center right',
               adjust: {
+               method: 'flip',
                y: -50,
+               x: 10
             }
     },
             content: {
                 text: function(event, api) {
+                    let name = $(this).attr('src')
                     axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r) {
                         api.set('content.text', `<div class="preview"><img width="120px" src="${name}" /></div><div class="carddata"><b>${r.data.card.name}</b><br />
 ${r.data.card.attribute ? "<p>Attribute: "+r.data.card.attribute : ""} ${r.data.card.stars ? "Level: " + r.data.card.stars+"</p>"  : ""}
@@ -37,7 +38,17 @@ ${r.data.card.is_monster ? '<p><b>[ </b>'+ r.data.card.species + ' / ' + r.data.
                     return "Loading card...";
                 },
             }
-        })
+        }
+
+    $('.dcards, .card-hover').each(function() {
+        if($(this).hasClass("card-hover")) {
+            options.style.tip = false
+            options.position.viewport = $('.container')
+            options.position.adjust.method = 'shift'
+            options.position.adjust.x = 0
+            options.position.adjust.y = 0
+          }
+        $(this).qtip(options)
     })
 })
   } 
