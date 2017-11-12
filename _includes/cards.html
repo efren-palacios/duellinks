@@ -3,7 +3,7 @@
 <div class="row justify-content-center text-center">
   {% for article in site.posts %}
     {% if article.category != 'header' and article.category != 'deck-type-page' %}
-      {% if article.feature == null or article.feature %}
+      {% if article.hide == null or article.hide == false %}
         {% capture _ %}{% increment counter %}{% endcapture %}
         <div class="col-sm-6 col-12 card-deck">
           <div class="card">

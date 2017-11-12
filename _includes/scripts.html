@@ -11,12 +11,19 @@
 <script src="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js"></script>
 <script src="{{site.url}}/js/livestream.js"></script>
 <script src="{{site.url}}/js/moment.js"></script>
+
 {% if page.url == "/top-decks/" %}
     <script src="{{site.url}}/js/topdecks.js"></script>
 {% endif %}
+
+{% if page.url == "/submit-your-deck/" %}
+<script src="{{site.url}}/js/deck-submission.js"></script>
+{% endif %}
+
 {% if page.url == "/stream/" %}
     <script src="{{site.url}}/js/vods.js"></script>
 {% endif %}
+
 <script type="text/javascript">
     $(function ()
     {

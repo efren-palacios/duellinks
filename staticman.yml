@@ -1,8 +1,8 @@
-allowedFields: ["name", "email", "message"]
+allowedFields: ["name", "author", "skill", "notes"]
 branch: master
-commitMessage: "New Comment!"
-filename: "entry{@timestamp}"
-format: yml
+commitMessage: "New Deck Submission!"
+filename: "new-deck{@timestamp}"
+format: json
 moderation: false
-path: "_data/comments/{options.slug}"
-requiredFields: ["name", "email", "message"]
+path: "_data/top-decks/pending"
+requiredFields: ["name", "author", "skill", "notes"]

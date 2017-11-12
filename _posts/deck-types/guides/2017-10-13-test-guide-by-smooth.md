@@ -5,7 +5,7 @@ category: deck-type-guide
 author: Smooth321
 image: /img/guides/sergeant-electro.png
 date: 2017-11-01
-feature: false
+hide: true
 comments: false
 description: 
 keywords: 
