@@ -18,7 +18,7 @@ permalink: /submit-your-deck/
 </div>
 
 <div class="section">
-    <form method="post" action="https://api.staticman.net/v2/entry/eduardoboucas/duellinks/master">
+    <form method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
         <div class="form-group">
             <label for="name">Deck name</label>
             <input type="text" class="form-control" id="name" name="fields[name]">
