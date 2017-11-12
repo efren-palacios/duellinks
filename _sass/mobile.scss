@@ -148,6 +148,39 @@
 {
   .decktype-filter .btn-wrapper
   {
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-bottom: 12px;
+
+    .btn-decktype 
+    {
+      height: 38px;
+
+      > .decktype-card
+      {
+        height: 204%;
+        clip: rect(0px, 46px, 70px, 0px);
+      }
+
+      > .decktype-display
+      {
+        font-size: 13px;
+        padding-left: 40px;
+      }
+
+      > .decktype-count
+      {
+        font-size: 15px;
+        margin-bottom: -2px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 320px)
+{
+  .decktype-filter .btn-wrapper
+  {
     width: 100%;
 
     .btn-decktype 
@@ -156,13 +189,14 @@
       
       > .decktype-display
       {
-        font-size: 17px;
-        padding-left: 55px;
+        font-size: 15px;
+        padding-left: 45px;
       }
 
       > .decktype-count
       {
-        font-size: 18px;
+        font-size: 16px;
+        margin-bottom: 1px;
       }
     }
   }
