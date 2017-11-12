@@ -83,22 +83,22 @@ table .thumbnail
         text-decoration: none;
     }
 
-    .skill
-    {
-        width: 20%;
-        min-width: 150px;
-    }
+    .name   { text-align: left; }
+    .skill  { width: 20%; }
+    .author { width: 20%; }
+    .added  { width: 10%; }
+}
 
-    .author
+@media only screen and (max-width: 480px)
+{
+    #TopDecksTable
     {
-        width: 20%;
-        min-width: 150px;
-    }
-
-    .added
-    {
-        width: 10%;
-        min-width: 100px;
+        th, td  { word-break: break-all; line-height: 15px; }
+        .name   { display: none; }
+        .skill  { width: auto; }
+        .author { width: auto; }
+        th.added { width: 54px; }
+        td.added { width: auto; padding-left: 5px !important; padding-right: 5px !important; }
     }
 }
 

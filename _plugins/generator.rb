@@ -55,7 +55,7 @@ module Jekyll
               deck_file.puts( "        </div>")
               deck_file.puts("      {% endfor %}")
               deck_file.puts("  {% endif %}")
-              deck_file.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/'' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
+              deck_file.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
               deck_file.puts("</div>")
               deck_file.close
 
