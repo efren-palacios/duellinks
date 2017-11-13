@@ -12,7 +12,7 @@ module Jekyll
       site_data = site.data
       top_decks = site_data["top-decks"]
 
-      for year_key in top_decks.keys
+      for year_key in top_decks.keys - ["pending"]
         year = top_decks[year_key]
         for month_key in year.keys
           month = year[month_key]
