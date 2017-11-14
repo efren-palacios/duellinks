@@ -10,28 +10,35 @@ comments: true
 ---
 
 {:.title}
-## KoG Profile: KC CUP GEM INVESTMENT GUIDE
+## KC CUP GEM INVESTMENT GUIDE
 ___
 
 {:.title}
 ### By Kaito
 
 
-## General Overview of Player and Deck
+## HOW TO SPEND GEMS
 					
 First and foremost what you have to recognise is that every gem you invest is and should be a
 strategic decision that will influence how well you do in future duels.
+
 Being able to correctly invest is what distinguishes good and bad f2p players (and people who only
 invest limited amounts of money)
-In this guide i will give you an idea which cards are worth buying and why.
+
+In this guide I will give you an idea which cards are worth buying and why.
+
 Generally when deciding wether or not a pack is worth investing in you only have to look at the SR
 and UR cards. Getting multiple copies of a Rare or Common card usually only requires a little
 amount of gems in comparison.
+
 The first question you should ask yourself before investing is always:
 Do I already have a deck that is able to hit the King of Games (KoG) rank?
+
 If the answer is yes then DO NOT INVEST your gems. Save them until an important competitive
 event that you want to participate in happens (like a KC-Cup or a Meta Championship Series).
+
 This way you will be able to play the best possible deck for that event.
+
 However if the answer is no then you want to invest your gems until you can play one of these
 decks (or a similar list):
 
@@ -128,7 +135,7 @@ None
 {% include cardimage.html name="Sergeant Electro" %}, {% include cardimage.html name="The Golden Apples" %}
 
 #### **MAYBE**
-{% include cardimage.html name="The Agent of Creation – Venus" %}(Venus is maybe a Tier 3 deck right now)
+{% include cardimage.html name="The Agent of Creation - Venus" %}(Venus is maybe a Tier 3 deck right now)
 
 #### **FUTURE POTENTIAL**
 {% include cardimage.html name="Legion the Fiend Jester" %}, {% include cardimage.html name="Warm Worm" %}
@@ -200,7 +207,7 @@ None
 **Hazy Flame, Gladiator Beasts, Burn, Ancient Gear, Ninjas**
 
 #### **NEEDED**
-{% include cardimage.html name="Floodgate Traphole" %}, {% include cardimage.html name="Flame Tiger" %}, {% include cardimage.html name="Caninetaur" %}
+{% include cardimage.html name="Floodgate Trap Hole" %}, {% include cardimage.html name="Flame Tiger" %}, {% include cardimage.html name="Caninetaur" %}
 
 #### **MAYBE**
 None
@@ -218,16 +225,16 @@ None
 {% include cardimage.html name="Wall of Disruption" %}
 
 #### **MAYBE**
-{% include cardimage.html name="Draining Shield" %}
+{% include cardimage.html name="Forbidden Chalice" %},{% include cardimage.html name="Draining Shield" %}
 
 #### **FUTURE POTENTIAL**
-{% include cardimage.html name="Forbidden Chalice" %}, {% include cardimage.html name="Man-Eater Bug" %}, {% include cardimage.html name="Painful Decision" %}, {% include cardimage.html name="Vorse Raider" %}, {% include cardimage.html name="Birthright" %}
+{% include cardimage.html name="Man-Eater Bug" %}, {% include cardimage.html name="Painful Decision" %}, {% include cardimage.html name="Vorse Raider" %}, {% include cardimage.html name="Birthright" %}
 
 ## **Galactic Origin:**
 {% include twoimages.html image1="https://i.imgur.com/He2t9Pr.png"%}
 
 #### **DECKS SUPPORTED:**
-**Gladiator Beasts**
+**Gladiator Beasts**, **Cyber Angels**
 
 #### **NEEDED**
 {% include cardimage.html name="Gladiator Beast Laquari" %}, {% include cardimage.html name="Impenetrable Attack" %}
