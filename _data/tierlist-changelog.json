@@ -1,0 +1,12 @@
+[
+    { "type": "red-eyes-zombies", "from": 1, "to": 2, "date": 2017-11-14 },
+    { "type": "ancient-gears", "from": "nothing", "to": 3, "date": 2017-11-14 },
+    { "type": "burn-decks", "from": 2, "to": 3, "date": 2017-11-14 },
+    { "type": "gladiators", "from": 2, "to": 3, "date": 2017-11-14 },
+    { "type": "hazy-flame-br", "from": 2, "to": 3, "date": 2017-11-14 },
+    { "type": "control-decks", "from": 2, "to": 4, "date": 2017-11-14 },
+    { "type": "dinos", "from": 2, "to": 4, "date": 2017-11-14 },
+    { "type": "mill-decks", "from": 2, "to": 4, "date": 2017-11-14 },
+    { "type": "ninja-control", "from": "nothing", "to": 4, "date": 2017-11-14 },
+    { "type": "relinquished", "from": 3, "to": 4, "date": 2017-11-14 }
+]
