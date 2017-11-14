@@ -148,6 +148,9 @@ None
 #### **FUTURE POTENTIAL**
 {% include cardimage.html name="Escape from the Dark Dimension" %}, {% include cardimage.html name="Dimensional Alchemist" %}, {% include cardimage.html name="Wild Tornado" %}
 
+## **Crimson Kingdom:**
+{% include twoimages.html image1="https://i.imgur.com/VUilx6W.png"%}
+
 #### **DECKS SUPPORTED:**
 **Red-Eyes-Zombie**
 
