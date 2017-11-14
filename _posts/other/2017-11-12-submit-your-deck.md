@@ -38,6 +38,16 @@ permalink: /submit-your-deck/
             </select>
         </div>
         <div class="form-group">
+            <label for="cards">Cards</label>
+            <select multiple class="form-control" name="fields[cards]" id="cards">
+                <option>Yomi Ship</option>
+                <option>Sphere Kuriboh</option>
+                <option>Vorse Raider</option>
+                <option>Enemy Controller</option>
+                <option>Mirror Wall</option>
+            </select>
+        </div>
+        <div class="form-group">
             <label for="notes">Notes</label>
             <textarea class="form-control" id="notes" name="fields[notes]" rows="3"></textarea>
         </div>
