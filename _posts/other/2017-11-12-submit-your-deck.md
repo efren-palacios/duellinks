@@ -53,4 +53,40 @@ permalink: /submit-your-deck/
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
+    <br>
+    <br>
+    <br>
+    <div class="game-board">
+        <div class="card-slot-row">
+            <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
+            <div class="card-slot"></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Mirror_Wall" /></div>
+            <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
+            <div class="card-slot"></div>
+        </div>
+        <div class="card-slot-row">
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Burst Stream of Destruction" /></div>
+            <div class="card-slot"></div>
+            <div class="card-slot"><img class="rotated" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" /></div>
+            <div class="card-slot"></div>
+            <div class="card-slot"></div>
+        </div>
+        <div class="game-phase"></div>
+        <div class="card-slot-row">
+            <div class="card-slot"></div>
+            <div class="card-slot"></div>
+            <div class="card-slot">
+                <img src="https://yugiohprices.com/api/card_image/Dark_Magician" />
+            </div>
+            <div class="card-slot"></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Thousand_Knives" /></div>
+        </div>
+        <div class="card-slot-row">
+            <div class="card-slot"></div>
+            <div class="card-slot"></div>
+            <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
+            <div class="card-slot"></div>
+            <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
+        </div>
+    </div>
 </div>

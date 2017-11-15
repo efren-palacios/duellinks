@@ -266,3 +266,56 @@ button:focus
     }
   }
 }
+
+
+.game-board
+{
+  display: inline-block;
+
+  .card-slot-row
+  {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    display: flex;
+  
+    .card-slot
+    {
+      border: 1px solid white;
+      border-radius: 4px;
+      margin-left: 15px;
+      margin-right: 15px;
+      height: 102px;
+      width: 70px;
+      float: left;
+
+      img
+      {
+        width: 100%;
+
+        &.rotated
+        {
+          transform: rotate(270deg);
+        }
+      }
+
+      &:first-child
+      {
+        margin-right: 25px;
+        border-radius: 0px;
+      }
+
+      &:last-child
+      {
+        margin-left: 25px;
+        border-radius: 0px;
+      }
+    }
+  }
+
+  .game-phase
+  {
+    display: inline-block;
+    height: 40px;
+  }
+}
