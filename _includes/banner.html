@@ -1,0 +1,14 @@
+
+{% assign active = true %}
+{% assign main-text = "TOP 8 KC CUP TOURNAMENT DECKS" %}
+{% assign url = "/meta-championship-series-2/" %}
+
+
+
+{% if active %}
+    {% unless page.url == url %}
+        <div class="banner">
+            <a href="{{url}}">{{main-text}}</a>
+        </div>
+    {% endunless %}
+{% endif %}
