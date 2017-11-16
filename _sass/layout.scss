@@ -128,7 +128,7 @@ h3.title
   display: flex;
   flex-direction: column;
   border: 2px solid rgba($active, 0.8);
-  background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
+  background-image: url(/img/assets/background-lines.png);
   background-position: center;
   background-size: cover;
   background-color: rgba(0, 119, 165, 0.07);
@@ -141,22 +141,25 @@ h3.title
 
   a
   {
-    color: rgb(158, 185, 195);
-    text-align: center;
     font-size: 2.4rem;
     line-height: 2.1rem;
+    text-align: center;
+    text-decoration: none;
     text-transform: uppercase;
-    text-shadow: 0 0 30px rgba(0, 57, 84, 0.8);
-    margin-top: auto;
-    margin-bottom: auto;
-    background: -webkit-linear-gradient(#eee, #096794);
-    background:    -moz-linear-gradient(#eee, #096794);
-    background:     -ms-linear-gradient(#eee, #096794);
-    background:      -o-linear-gradient(#eee, #096794);
-    background:         linear-gradient(#eee, #096794);
+    color: white;
+    text-shadow: 0 0 30px rgba(0, 57, 84, 0.4);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: -webkit-linear-gradient(white, white, #096794, #096794);
+    background:    -moz-linear-gradient(white, white, #096794, #096794);
+    background:     -ms-linear-gradient(white, white, #096794, #096794);
+    background:      -o-linear-gradient(white, white, #096794, #096794);
+    background:         linear-gradient(white, white, #096794, #096794);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
   }
 }
 
