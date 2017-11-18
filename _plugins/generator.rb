@@ -47,6 +47,7 @@ module Jekyll
               deck_file.puts("<div class='deck-page'>")
               deck_file.puts("  {% include deck.html deck=deck showStats=true %}")
               deck_file.puts("  {% if deck.notes != null %}")
+              deck_file.puts("<script>var playtest = {{deck | jsonify}}</script>") 
               deck_file.puts("      <h2>Notes from {{deck.author}}</h2>")
               deck_file.puts("      {% for note in deck.notes %}")
               deck_file.puts("          <div class='section deck-notes'>")

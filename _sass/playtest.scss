@@ -1,0 +1,81 @@
+  #playerdeck, #deckmenu img {
+    cursor: pointer;
+  }
+  
+  #hand {
+   flex-wrap: wrap;
+   width: 600px;
+   display: flex;
+   align-items: center;
+  }
+  
+  .deck {
+    width: 59px;
+    height: 86px;
+    position: relative;
+    background-image: url('http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png');
+    background-size: 100%;
+    cursor: pointer;
+    top: 175px;
+    left: 472px;
+  }
+  
+  #playmat img {
+    width: 500px;
+    height: auto;
+  }
+  
+  .stats {
+    text-align: center;
+    input {
+        margin: 1rem 0;
+    }
+  }
+
+  .game-board
+  {
+    display: inline-block;
+  
+    .testcard-slot-row
+    {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      clear: both;
+      display: flex;
+      .testcard-slot, .hand
+      {
+        border: 1px solid white;
+        border-radius: 4px;
+        margin-left: 15px;
+        margin-right: 15px;
+        height: 102px;
+        width: 70px;
+        float: left;
+        img
+        {
+          width: 100%;
+  
+          &.rotated
+          {
+            transform: rotate(270deg);
+          }
+        }
+  
+        &:first-child
+        {
+          border-radius: 0px;
+        }
+  
+        &:last-child
+        {
+          border-radius: 0px;
+        }
+      }
+    }
+  
+    .game-phase
+    {
+      display: inline-block;
+      height: 40px;
+    }
+  }
