@@ -1,4 +1,14 @@
-  #playerdeck, #deckmenu img {
+#playtest {
+    border: 1px solid white;
+    background-color: #000016;
+    background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
+    background-size: cover;
+    width: 750px;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+#playerdeck, #deckmenu img {
     cursor: pointer;
   }
   
