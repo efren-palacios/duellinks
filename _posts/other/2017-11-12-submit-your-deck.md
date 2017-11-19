@@ -46,22 +46,22 @@ permalink: /submit-your-deck/
             <input type="text" class="form-control" id="main02" name="fields[main02]" value="Flame Tiger">
             <input type="text" class="form-control" id="main03" name="fields[main03]" value="Flame Tiger">
             <input type="text" class="form-control" id="main04" name="fields[main04]" value="Caninetaur">
-            <input type="text" class="form-control" id="main01" name="fields[main05]" value="Caninetaur">
-            <input type="text" class="form-control" id="main02" name="fields[main06]" value="Caninetaur">
-            <input type="text" class="form-control" id="main03" name="fields[main07]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main04" name="fields[main08]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main01" name="fields[main09]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main02" name="fields[main10]" value="Soul Exchange">
-            <input type="text" class="form-control" id="main03" name="fields[main11]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main04" name="fields[main12]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main01" name="fields[main13]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main02" name="fields[main14]" value="Floodgate Trap Hole">
-            <input type="text" class="form-control" id="main03" name="fields[main15]" value="Floodgate Trap Hole">
-            <input type="text" class="form-control" id="main04" name="fields[main16]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main01" name="fields[main17]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main02" name="fields[main18]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main03" name="fields[main19]" value="Beast Rising">
-            <input type="text" class="form-control" id="main04" name="fields[main20]" value="Beast Rising">
+            <input type="text" class="form-control" id="main05" name="fields[main05]" value="Caninetaur">
+            <input type="text" class="form-control" id="main06" name="fields[main06]" value="Caninetaur">
+            <input type="text" class="form-control" id="main07" name="fields[main07]" value="Hazy Flame Sphynx">
+            <input type="text" class="form-control" id="main08" name="fields[main08]" value="Hazy Flame Sphynx">
+            <input type="text" class="form-control" id="main09" name="fields[main09]" value="Hazy Flame Sphynx">
+            <input type="text" class="form-control" id="main10" name="fields[main10]" value="Soul Exchange">
+            <input type="text" class="form-control" id="main11" name="fields[main11]" value="Enemy Controller">
+            <input type="text" class="form-control" id="main12" name="fields[main12]" value="Enemy Controller">
+            <input type="text" class="form-control" id="main13" name="fields[main13]" value="Enemy Controller">
+            <input type="text" class="form-control" id="main14" name="fields[main14]" value="Floodgate Trap Hole">
+            <input type="text" class="form-control" id="main15" name="fields[main15]" value="Floodgate Trap Hole">
+            <input type="text" class="form-control" id="main16" name="fields[main16]" value="Mirror Wall">
+            <input type="text" class="form-control" id="main17" name="fields[main17]" value="Mirror Wall">
+            <input type="text" class="form-control" id="main18" name="fields[main18]" value="Mirror Wall">
+            <input type="text" class="form-control" id="main19" name="fields[main19]" value="Beast Rising">
+            <input type="text" class="form-control" id="main20" name="fields[main20]" value="Beast Rising">
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
