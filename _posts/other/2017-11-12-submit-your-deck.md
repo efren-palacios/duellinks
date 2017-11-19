@@ -38,25 +38,18 @@ permalink: /submit-your-deck/
             </select>
         </div>
         <div class="form-group">
-            <label for="cards">Cards</label>
-            <select multiple class="form-control" name="fields[cards]" id="cards">
-                <option>Yomi Ship</option>
-                <option>Sphere Kuriboh</option>
-                <option>Vorse Raider</option>
-                <option>Enemy Controller</option>
-                <option>Mirror Wall</option>
-            </select>
-        </div>
-        <div class="form-group">
             <label for="notes">Notes</label>
             <textarea class="form-control" id="notes" name="fields[notes]" rows="3"></textarea>
         </div>
+        <div class="form-group hidden">
+            <input type="text" class="form-control" id="main01" name="fields[main01]" value="Mirror Wall">
+            <input type="text" class="form-control" id="main02" name="fields[main02]" value="Dark Magician">
+            <input type="text" class="form-control" id="main03" name="fields[main03]" value="Thousand Knives">
+            <input type="text" class="form-control" id="main04" name="fields[main04]" value="Beaver Warrior">
+        </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
-    <br>
-    <br>
-    <br>
-    <div class="game-board">
+    <div class="game-board hidden">
         <div class="card-slot-row">
             <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
             <div class="card-slot"></div>

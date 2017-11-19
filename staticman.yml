@@ -1,8 +1,8 @@
-allowedFields: ["name", "author", "skill", "cards", "notes"]
+allowedFields: ["name", "author", "skill", "main01", "main02", "main03", "main04", "notes"]
 branch: master
 commitMessage: "New Deck Submission!"
 filename: "new-deck-{@timestamp}"
 format: json
 moderation: false
 path: "_data/top-decks/pending"
-requiredFields: ["name", "author", "skill", "cards", "notes"]
+requiredFields: ["name", "author", "skill", "main01", "main02", "main03", "main04", "notes"]
