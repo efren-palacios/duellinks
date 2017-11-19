@@ -1,8 +1,25 @@
-allowedFields: ["name", "author", "skill", "main01", "main02", "main03", "main04", "notes"]
+allowedFields: [
+  "name",   "author", "skill",  "notes",
+  "main01", "main02", "main03", "main04",
+  "main05", "main06", "main07", "main08", 
+  "main09", "main10", "main11", "main12",
+  "main13", "main14", "main15", "main16",
+  "main17", "main18", "main19", "main20", 
+  "main21", "main22", "main23", "main24",
+  "main25", "main26", "main27", "main28",
+  "main29", "main30"
+]
+requiredFields: [
+  "name",   "author", "skill",  "notes",
+  "main01", "main02", "main03", "main04",
+  "main05", "main06", "main07", "main08", 
+  "main09", "main10", "main11", "main12",
+  "main13", "main14", "main15", "main16",
+  "main17", "main18", "main19", "main20"
+]
 branch: master
 commitMessage: "New Deck Submission!"
 filename: "new-deck-{@timestamp}"
 format: json
 moderation: false
 path: "_data/top-decks/pending"
-requiredFields: ["name", "author", "skill", "main01", "main02", "main03", "main04", "notes"]
