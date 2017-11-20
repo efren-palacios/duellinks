@@ -10,9 +10,9 @@ $(function() {
        },
        success: function (channel) {
         if (channel['stream'] == null) {
-            console.log("stream offline")
+            //console.log("stream offline")
         } else {
-            console.log("stream online")
+            //console.log("stream online")
         }
        }
 })
