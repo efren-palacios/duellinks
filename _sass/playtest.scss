@@ -89,3 +89,14 @@
       height: 40px;
     }
   }
+
+  .token, .coin, .dice {
+    width: 25px;
+    z-index: 999999;
+    cursor: pointer;
+  }
+  
+  #results {
+    position: relative;
+    left: 25px;
+}

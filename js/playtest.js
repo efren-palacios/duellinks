@@ -86,6 +86,7 @@ $('#playerdeck, #deal').click(function() {
 $('#new').click(function() {
   refreshDeck();
   shuffleDeck(decklist);
+  $('.tokencopy').remove();
   $('#hand').empty();
   for (var i = 0; i < 4; i++) {
   dealHand(randomCard())
@@ -164,3 +165,35 @@ function refreshDeck() {
       $('#deckcount span').text(decklist.length)
   })
 }
+
+$('.token').draggable({
+  helper: 'clone',
+  snap: '.testcard-slot',
+  snapMode: 'center',
+  snapTolerance: '22',
+  stack: '.hand'
+});
+$('.token').bind('dragstop', function(event, ui) {
+$(this).after($(ui.helper).clone().draggable().addClass('tokencopy'));
+});
+
+$('.dice').click(function() {
+  let die = []
+   die[0] = 'https://i.imgur.com/kp4VvpW.png'
+   die[1] = 'https://i.imgur.com/zsG76hB.png'
+   die[2] = 'https://i.imgur.com/3LJiXtf.png'
+   die[3] = 'https://i.imgur.com/Ngbnkkv.png'
+   die[4] = 'https://i.imgur.com/lwEpMt6.png'
+   die[5] = 'https://i.imgur.com/4TZwH9q.png'
+  let output
+  let faceValue = Math.floor(Math.random() * 6);
+  $('#results').hide().html(`<img width="60px" src=${die[faceValue]} />`).fadeIn()
+})
+
+$('.coin').click(function() {
+    return (Math.floor(Math.random() * 2) == 0) ? $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/1AJdr5l.png"/>`).fadeIn() : $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/N2dFEVu.png"/>`).fadeIn();
+})
+
+$(document).on("click", ".tokencopy", function(){
+  $(this).remove();
+})
