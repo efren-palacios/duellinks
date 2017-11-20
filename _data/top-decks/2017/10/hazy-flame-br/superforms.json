@@ -6,43 +6,35 @@
   "main": [
     {
       "name": "Flame Tiger",
-      "amount": "3",
-      "type": "monster"
+      "amount": "3"
     },
     {
       "name": "Caninetaur",
-      "amount": "3",
-      "type": "monster"
+      "amount": "3"
     },
     {
       "name": "Hazy Flame Sphynx",
-      "amount": "3",
-      "type": "monster"
+      "amount": "3"
     },
     {
       "name": "Soul Exchange",
-      "amount": "1",
-      "type": "spell"
+      "amount": "1"
     },
     {
       "name": "Enemy Controller",
-      "amount": "3",
-      "type": "spell"
+      "amount": "3"
     },
     {
       "name": "Floodgate Trap Hole",
-      "amount": "2",
-      "type": "trap"
+      "amount": "2"
     },
     {
       "name": "Mirror Wall",
-      "amount": "3",
-      "type": "trap"
+      "amount": "3"
     },
     {
       "name": "Beast Rising",
-      "amount": "2",
-      "type": "trap"
+      "amount": "2"
     }
   ]
 }

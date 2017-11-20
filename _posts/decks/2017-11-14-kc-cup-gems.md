@@ -7,6 +7,7 @@ image: https://i.imgur.com/DutHpHC.png
 author: Kaito
 date: 2017-9-5 23:56:00 -0600
 comments: true
+permalink: /guides/kc-cup-gems
 ---
 
 {:.title}

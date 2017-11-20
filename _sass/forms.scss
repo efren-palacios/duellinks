@@ -6,3 +6,29 @@ form
         background-color: #cce3ff;
     }
 }
+
+.deck-submission
+{
+    .card-search
+    {
+        flex: 0 0 47.5%;
+        max-width: 47.5%;
+        padding-right: 47px;
+
+        #deck
+        {
+            margin-top: 25px;
+        }
+    }
+
+    #deck
+    {
+        border-radius: .25rem;
+    }
+
+    .card-display
+    {
+        flex: 0 0 52.5%;
+        max-width: 52.5%;
+    }
+}

@@ -18,52 +18,87 @@ permalink: /submit-your-deck/
 </div>
 
 <div class="section">
-    <form method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
-        <div class="form-group">
-            <label for="name">Deck name</label>
-            <input type="text" class="form-control" id="name" name="fields[name]">
+    <form class="deck-submission" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
+        <div class="row">
+            <div class="form-group col-sm-12">
+                <label for="name">Deck name</label>
+                <input type="text" class="form-control" id="name" name="fields[name]">
+            </div>
+            <div class="form-group col-sm-12">
+                <label for="author">Author</label>
+                <input type="text" class="form-control" id="author" name="fields[author]">
+            </div>
+            <div class="form-group col-sm-12">
+                <label for="skill">Skill</label>
+                <select class="form-control" id="skill" name="fields[skill]">
+                    <option>Balance</option>
+                    <option>Restart</option>
+                    <option>The Tie That Binds</option>
+                    <option>Mind Scan</option>
+                    <option>Destiny Draw</option>
+                </select>
+            </div>
+            <div class="form-group col-sm-5 card-search">
+                <label for="searcher">Search a card</label>
+                <input type="text" class="form-control" id="searcher">
+                    <div id="deck">
+                        <div id="cards">
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                        </div>
+                    </div>
+            </div>
+            <div class="form-group col-sm-7 card-display">
+                <label for="searcher">Your deck</label>
+                    <div id="deck">
+                        <div id="cards">
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
+                        </div>
+                    </div>
+            </div>
+            <div class="form-group col-sm-12">
+                <label for="notes">Notes</label>
+                <textarea class="form-control" id="notes" name="fields[notes]" rows="3"></textarea>
+            </div>
+            <div class="form-group col-sm-12 hidden">
+                <input type="text" class="form-control" id="main01" name="fields[main01]" value="Flame Tiger">
+                <input type="text" class="form-control" id="main02" name="fields[main02]" value="Flame Tiger">
+                <input type="text" class="form-control" id="main03" name="fields[main03]" value="Flame Tiger">
+                <input type="text" class="form-control" id="main04" name="fields[main04]" value="Caninetaur">
+                <input type="text" class="form-control" id="main05" name="fields[main05]" value="Caninetaur">
+                <input type="text" class="form-control" id="main06" name="fields[main06]" value="Caninetaur">
+                <input type="text" class="form-control" id="main07" name="fields[main07]" value="Hazy Flame Sphynx">
+                <input type="text" class="form-control" id="main08" name="fields[main08]" value="Hazy Flame Sphynx">
+                <input type="text" class="form-control" id="main09" name="fields[main09]" value="Hazy Flame Sphynx">
+                <input type="text" class="form-control" id="main10" name="fields[main10]" value="Soul Exchange">
+                <input type="text" class="form-control" id="main11" name="fields[main11]" value="Enemy Controller">
+                <input type="text" class="form-control" id="main12" name="fields[main12]" value="Enemy Controller">
+                <input type="text" class="form-control" id="main13" name="fields[main13]" value="Enemy Controller">
+                <input type="text" class="form-control" id="main14" name="fields[main14]" value="Floodgate Trap Hole">
+                <input type="text" class="form-control" id="main15" name="fields[main15]" value="Floodgate Trap Hole">
+                <input type="text" class="form-control" id="main16" name="fields[main16]" value="Mirror Wall">
+                <input type="text" class="form-control" id="main17" name="fields[main17]" value="Mirror Wall">
+                <input type="text" class="form-control" id="main18" name="fields[main18]" value="Mirror Wall">
+                <input type="text" class="form-control" id="main19" name="fields[main19]" value="Beast Rising">
+                <input type="text" class="form-control" id="main20" name="fields[main20]" value="Beast Rising">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
         </div>
-        <div class="form-group">
-            <label for="author">Author</label>
-            <input type="text" class="form-control" id="author" name="fields[author]">
-        </div>
-        <div class="form-group">
-            <label for="skill">Skill</label>
-            <select class="form-control" id="skill" name="fields[skill]">
-                <option>Balance</option>
-                <option>Restart</option>
-                <option>The Tie That Binds</option>
-                <option>Mind Scan</option>
-                <option>Destiny Draw</option>
-            </select>
-        </div>
-        <div class="form-group">
-            <label for="notes">Notes</label>
-            <textarea class="form-control" id="notes" name="fields[notes]" rows="3"></textarea>
-        </div>
-        <div class="form-group hidden">
-            <input type="text" class="form-control" id="main01" name="fields[main01]" value="Flame Tiger">
-            <input type="text" class="form-control" id="main02" name="fields[main02]" value="Flame Tiger">
-            <input type="text" class="form-control" id="main03" name="fields[main03]" value="Flame Tiger">
-            <input type="text" class="form-control" id="main04" name="fields[main04]" value="Caninetaur">
-            <input type="text" class="form-control" id="main05" name="fields[main05]" value="Caninetaur">
-            <input type="text" class="form-control" id="main06" name="fields[main06]" value="Caninetaur">
-            <input type="text" class="form-control" id="main07" name="fields[main07]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main08" name="fields[main08]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main09" name="fields[main09]" value="Hazy Flame Sphynx">
-            <input type="text" class="form-control" id="main10" name="fields[main10]" value="Soul Exchange">
-            <input type="text" class="form-control" id="main11" name="fields[main11]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main12" name="fields[main12]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main13" name="fields[main13]" value="Enemy Controller">
-            <input type="text" class="form-control" id="main14" name="fields[main14]" value="Floodgate Trap Hole">
-            <input type="text" class="form-control" id="main15" name="fields[main15]" value="Floodgate Trap Hole">
-            <input type="text" class="form-control" id="main16" name="fields[main16]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main17" name="fields[main17]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main18" name="fields[main18]" value="Mirror Wall">
-            <input type="text" class="form-control" id="main19" name="fields[main19]" value="Beast Rising">
-            <input type="text" class="form-control" id="main20" name="fields[main20]" value="Beast Rising">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
     <div class="game-board hidden">
         <div class="card-slot-row">

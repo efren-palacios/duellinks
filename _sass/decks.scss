@@ -3,20 +3,24 @@
   margin-top: 40px;
 }
 
-.deck-container {
+.deck-container
+{
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: 450px;
 }
 
-.card-img {
+.card-img
+{
   display: flex;
   align-items: center;
   margin: 2rem;
 }
 
-.flex-container {
+.flex-container
+{
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -29,7 +33,8 @@
   justify-content: left;
 }
 
-#label {
+#label
+{
   text-align: center;
   margin-top: 1rem;
 }
@@ -40,8 +45,8 @@
   color: $active;
 }
 
-#deck {
-  width: 450px;
+#deck
+{
   height: auto;
   display: flex;
   border: 1px solid white;
@@ -51,23 +56,31 @@
   cursor: default;
 }
 
-#cards {
+#cards
+{
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
   padding: 0.5rem;
   width: 100%;
 }
-.item {
+
+.item
+{
+
   box-sizing: border-box;
   margin: 0.5rem;
-  img.dcards {
+
+  img.dcards
+  {
     height: auto;
     width: 70px;
     border: 1px solid rgba(255, 255, 255, 0.4);
     cursor: pointer;
   }
-  p {
+
+  p
+  {
     display: flex;
     align-content: center;
     border: 1px solid blue;
@@ -76,56 +89,67 @@
   }
 }
 
-.deckinfo p {
+.deckinfo p
+{
   font-weight: bold;
   margin-bottom: 1px;
 }
 
-.name {
+.name
+{
   padding-left: 10px;
   text-align: justify;
 }
 
-.value {
+.value
+{
   padding-left: 10px;
   text-align: left;
 }
 
-.main {
+.main
+{
   height: 1.7rem;
   padding-bottom: 0.3rem;
   display: inline-block;
 }
 
-.stats p {
+.stats p
+{
   display: block;
   margin: 1px;
 }
 
-.skill {
+.skill
+{
   margin-left: 0.3rem;
   margin-right: 0.3rem;
 }
 
-.info {
+.info
+{
   position: absolute;
   display: flex;
 }
 
-.cardinfo {
+.cardinfo
+{
   display: flex !important;
   flex-direction: row;
 }
 
-.qtip-content {
+.qtip-content
+{
   display: flex;
 }
 
-.preview img {
+.preview img
+{
   width: 120px;
 }
 
-.carddata {
+.carddata
+{
   display: flex !important;
   flex-direction: column;
   justify-content: center;
@@ -133,22 +157,28 @@
   padding: 1rem 0;
 }
 
-.preview img {
+.preview img
+{
   margin: 1rem 1rem 1rem .5rem;
   width: 120px;
   display: flex;
 }
 
-.qtip-dark {
+.qtip-dark
+{
   background-color: #111;
   min-width: 500px;
 }
 
-@media only screen and (max-width: 760px) {
-  .mobile {
+@media only screen and (max-width: 760px)
+{
+  .mobile
+  {
     display: none;
   }
-  #deck {
+
+  #deck
+  {
     width: 362px;
   }
 }
