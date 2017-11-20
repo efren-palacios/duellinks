@@ -82,18 +82,25 @@
         }
       }
     }
-  
-    .game-phase
-    {
-      display: inline-block;
-      height: 40px;
-    }
-  }
 
-  .token, .coin, .dice {
-    width: 25px;
-    z-index: 999999;
-    cursor: pointer;
+    .stats
+    {
+      .tools
+      {
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .token, .coin, .dice
+        {
+          width: 25px;
+          z-index: 999999;
+          margin-right: 5px;
+          cursor: pointer;
+        }
+      }
+    }
   }
   
   #results {

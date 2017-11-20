@@ -69,14 +69,14 @@ permalink: /submit-your-deck/
         <div class="card-slot-row">
             <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
             <div class="card-slot"></div>
-            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Mirror_Wall" /></div>
             <div class="card-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" /></div>
+            <div class="card-slot"></div>
             <div class="card-slot"></div>
         </div>
         <div class="card-slot-row">
-            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Burst Stream of Destruction" /></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Machine_Angel_Ritual" /></div>
             <div class="card-slot"></div>
-            <div class="card-slot"><img class="rotated" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" /></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Cyber_Angel_Dakini" /></div>
             <div class="card-slot"></div>
             <div class="card-slot"></div>
         </div>
@@ -84,11 +84,9 @@ permalink: /submit-your-deck/
         <div class="card-slot-row">
             <div class="card-slot"></div>
             <div class="card-slot"></div>
-            <div class="card-slot">
-                <img src="https://yugiohprices.com/api/card_image/Dark_Magician" />
-            </div>
-            <div class="card-slot"></div>
-            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Thousand_Knives" /></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Black_Dragon_Ninja" /></div>
+            <div class="card-slot"><img class="rotated" src="https://yugiohprices.com/api/card_image/Crimson_Ninja" /></div>
+            <div class="card-slot"><img src="https://yugiohprices.com/api/card_image/Ninjitsu_Art_of_Transformation" /></div>
         </div>
         <div class="card-slot-row">
             <div class="card-slot"></div>
