@@ -5,7 +5,8 @@
         "info": "blah blah blah",
         "types":
         [
-            { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" }            
+            { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
+            { "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" }            
         ] 
     },
     {
@@ -13,8 +14,7 @@
         "category": "KOG",
         "info": "blah blah blah",
         "types":
-        [
-            { "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" },
+        [            
             { "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" }
         ]
     },
