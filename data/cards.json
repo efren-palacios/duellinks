@@ -3,10 +3,9 @@
 [
   {% assign cards = site.data.cardsdb %}
   {% for card in cards %}
-    {% assign description = card[1].desc | strip_newlines | remove: '"' %}
     {
-      "name": "{{card[1].name}}",
-      "description": "{{description}}"
+      "name": "{{card[1].name | replace: '"', "'"}}",
+      "description": "{{card[1].desc | strip_tabs | strip_newlines | escape_backslashes | replace: '"', "'"}}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}

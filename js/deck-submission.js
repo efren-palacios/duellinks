@@ -5,7 +5,7 @@ $(document).ready(function()
 
 function GetAllCards()
 {
-    $.getJSON( "/data/cards.json", function(data)
+    $.getJSON("/data/cards.json", function(data)
     {
         var x = data;
         x++;
