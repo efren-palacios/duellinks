@@ -40,20 +40,12 @@ permalink: /submit-your-deck/
             </div>
             <div class="form-group col-sm-5 card-search">
                 <label for="searcher">Search a card</label>
-                <input type="text" class="form-control" id="searcher">
-                    <div id="deck">
-                        <div id="cards">
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                        </div>
+                <input type="text" class="form-control" data-bind="textInput: searchTerm">
+                <div id="deck">
+                    <div id="cards" data-bind="foreach: filteredCards">
+                        <div class="item"><a><img class="dcards" data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + nameLink }" alt=""></a></div>
                     </div>
+                </div>
             </div>
             <div class="form-group col-sm-7 card-display">
                 <label for="searcher">Your deck</label>
@@ -97,7 +89,9 @@ permalink: /submit-your-deck/
                 <input type="text" class="form-control" id="main19" name="fields[main19]" value="Beast Rising">
                 <input type="text" class="form-control" id="main20" name="fields[main20]" value="Beast Rising">
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <div class="form-group col-sm-1">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
         </div>
     </form>
     <div class="game-board hidden">

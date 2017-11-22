@@ -4,7 +4,7 @@
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}
         {% if include.showStats %}
-            <div id="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
+            <div class="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
         {% endif %}
         <div id="deck">
             <div id="cards">
@@ -40,6 +40,8 @@
         <div id="playtest" title="Playtest Beta">
             <div class="game-board">
                 <div class="stats">
+                    <input type="button" value="Import" id="import">
+                    <input type="button" value="Export" id="export">
                     <input type="button" value="New Hand" id="new">
                     <input type="button" value="View Deck" id="view">
                     <input type="button" value="Draw Card" id="deal">
@@ -71,6 +73,8 @@
                 <div id="hand">
                     <div class="game-board"></div>
                 </div>
+                <div class="export" title="Export Code"></div>
+                <div class="import" title="Import Code"></div>
             </div>          
         </div>
     </div>
