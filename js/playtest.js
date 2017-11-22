@@ -9,14 +9,66 @@ $(function(){
 let decklist = []
 let hand = []
 let board = []
+let currentDeck = playtest.main
 
+let encode = window.btoa(JSON.stringify(currentDeck))
+
+$('#export').click(function() {
+  $('.export').html(`<textarea style="width:320px" class="code">${encode}</textarea>`)
+  $('.export').dialog({
+    width: 388,
+    open: function(event, ui) {
+      $(this).closest(".ui-dialog")
+      .find(".ui-dialog-titlebar-close")
+      .removeClass("ui-dialog-titlebar-close")
+      .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
+  }
+  })
+})
+
+$('#import').click(function() {
+  $('.import').html(`<textarea style="width:320px" class="codeimport"></textarea><input type="button" value="Submit" id="submitdeck">`)
+  $('.import').dialog({
+    width: 388,
+    open: function(event, ui) {
+      $(this).closest(".ui-dialog")
+      .find(".ui-dialog-titlebar-close")
+      .removeClass("ui-dialog-titlebar-close")
+      .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
+  }
+  })
+})
+
+$(document).on("click", "#submitdeck", function() {
+  $('.import').dialog( "close" )
+  let code = window.atob($('.codeimport').val())
+  importDeck(JSON.parse(code))
+})
+
+$(document).on("click", ".code", function() {
+  $(this).select()
+  document.execCommand("Copy");
+})
 
 $(document).on("click","#deckmenu img", function(){
   dealCard($(this).attr('id'))
 })
 
+function importDeck(deck) {
+  refreshDeck(deck)
+  shuffleDeck(decklist)
+  $('#hand').empty();
+  for (var i = 0; i < 4; i++) {
+  dealHand(randomCard())
+  }
+  if ($('#deckmenu').dialog('isOpen')) {
+    openDeck(deck)
+  }
+  currentDeck = deck
+}
+
 $(function() {
-  refreshDeck();
+  refreshDeck(currentDeck);
   shuffleDeck(decklist);
   $('#hand').empty();
   for (var i = 0; i < 4; i++) {
@@ -38,14 +90,14 @@ $('#shuffle').click(function() {
   $('#playerdeck').effect( "shake", {distance: "5"} )
   shuffleDeck(decklist)
       if ($('#deckmenu').dialog('isOpen')) {
-      openDeck()
+      openDeck(currentDeck)
     }
 })
 
 
-function openDeck() {
+function openDeck(deck) {
   if (hand.length == 0) {
-      refreshDeck()
+      refreshDeck(deck);
       }
   if (decklist == 0) return;
   $('#deckmenu').empty()
@@ -54,18 +106,22 @@ function openDeck() {
   }
   $('#deckmenu').dialog({
     width: 450,
-    open: function() {
+    height: 563,
+    resizable: false,
+    draggable: false,
+    open: function(event, ui) {
         $(this).closest(".ui-dialog")
         .find(".ui-dialog-titlebar-close")
         .removeClass("ui-dialog-titlebar-close")
-        .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>");
-    }
+        .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
+    },
+    position: { my: "left+10 top", at: "right top", of: '#playtest' }
 })
 }
 
 
 $('#view').click(function() {
-  openDeck()
+  openDeck(currentDeck)
 })
 
 $('.testcard-slot').droppable
@@ -84,15 +140,14 @@ $('#playerdeck, #deal').click(function() {
 })
 
 $('#new').click(function() {
-  refreshDeck();
-  shuffleDeck(decklist);
+  importDeck(currentDeck);
   $('.tokencopy').remove();
   $('#hand').empty();
   for (var i = 0; i < 4; i++) {
   dealHand(randomCard())
   }
       if ($('#deckmenu').dialog('isOpen')) {
-      openDeck()
+      openDeck(currentDeck)
     }
 })
 
@@ -143,7 +198,7 @@ function dealCard(i) {
     $('#deckcount span').text(decklist.length)
     if ($('#deckmenu').dialog('isOpen')) {
       if (decklist == 0) {$('#deckmenu').dialog( "close" )}
-      openDeck()
+      openDeck(currentDeck)
     }
 }
 
@@ -151,16 +206,17 @@ function removeCard(c) {
   decklist.splice(c, 1)
 }
 
-function refreshDeck() {
-      if (decklist.length > 0) {
+function refreshDeck(deck) {
+      if (deck.length > 0) {
       decklist = []
       hand = []
     }
-  for (let card in playtest.main) {
-    for (i = 0; i < Number(playtest.main[card].amount); i++) {
-          decklist.push(playtest.main[card].name)
+  for (let card in deck) {
+    for (i = 0; i < Number(deck[card].amount); i++) {
+          decklist.push(deck[card].name)
     }
   }
+  shuffleDeck(decklist)
   $(function() {
       $('#deckcount span').text(decklist.length)
   })
