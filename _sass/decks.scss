@@ -36,13 +36,13 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  justify-content: center;
+  justify-content: left;
   margin-bottom: 15px;
 }
 
-.flex-container.left
+.flex-container.center
 {
-  justify-content: left;
+  justify-content: center;
 }
 
 #deck

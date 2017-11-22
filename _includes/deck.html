@@ -1,6 +1,6 @@
-<div class="flex-container {{include.deck.position}}">
+<div class="flex-container {% if include.showHeader %}center{% endif %}">
     <div class="deck-container">
-        {% if include.deck.name != null and include.deck.author != null and include.deck.created != null %}
+        {% if include.showHeader %}
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}
         {% if include.showStats %}
@@ -30,16 +30,11 @@
             {% for card in include.deck.extra %}
                 {% assign amountOfExtraCards = amountOfExtraCards | plus: card.amount %}
             {% endfor%}
-
-           <!-- <p><img class="main" src="/img/assets/main.png" alt="Skill icon"> Main: {{amountOfMainCards}}</p>
-            <p><img class="main" src="/img/assets/extra.png" alt="Skill icon"> Extra: {{amountOfExtraCards}}</p> -->
         {% endif %}
         <div class="mobile"></div>
-       <!-- <div class="noimg"><img class="info" src="/img/assets/no-image.gif" /></div> -->
     </div>
 </div>
-
-{% if include.deck.name != null %}
+{% if include.showHeader %}
     <div class="text-center">
         <a style='margin: 1rem 0;' id="play" class='btn btn-success' role='button'><i class='fa fa-play-circle' aria-hidden='true'></i> Play Test Deck</a>
         <div id="playtest" title="Playtest Beta">

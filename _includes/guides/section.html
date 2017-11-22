@@ -14,9 +14,9 @@
         {% if block.paragraph != null %}
             <p class="{{block.layout}}">{{block.paragraph}}</p>
         {% elsif block.deck != null %}
-            {% include deck.html deck=block.deck showStats=true %}
+            {% include deck.html deck=block.deck showHeader=false showStats=true %}
         {% elsif block.box != null %}
-            {% include deck.html deck=block.box showStats=false %}
+            {% include deck.html deck=block.box showHeader=false showStats=false %}
         {% endif %}
     {% endfor %}
 
