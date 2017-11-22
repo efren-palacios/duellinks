@@ -102,7 +102,7 @@ function openDeck(deck) {
   if (decklist == 0) return;
   $('#deckmenu').empty()
   for (i in decklist) {
-  $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${decklist[i]}" width="60px" id="${i}"/>`)
+  $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" width="60px" id="${decklist[i].id}"/>`)
   }
   $('#deckmenu').dialog({
     width: 450,
@@ -157,22 +157,54 @@ function randomCard() {
 
 function dealHand(i) {
       let card = document.createElement('img');
-      card.src = `https://yugiohprices.com/api/card_image/${decklist[i]}`;
-      $('#hand').append(`<div class="game-board"><div class="testcard-slot-row"><div class="hand"><img src="${card.src}" /></div></div>`)
-      addHand(decklist[i])
+      card.src = `https://yugiohprices.com/api/card_image/${decklist[i].name}`;
+      $('#hand').append(`<div id="cardId${decklist[i].id}" class="game-board"><div class="testcard-slot-row"><div class="hand"><img id="${decklist[i].id}" src="${card.src}" /></div></div>`)
+      addHand(decklist[i].name, decklist[i].id)
       $('.hand').css('border', 'none')
       $('.hand').draggable
     ({  
         snap: '.testcard-slot',
         snapMode: 'inner',
         snapTolerance: '22',
-        stack: '.hand'
+        stack: '.hand',
+		stop: function(){
+			var cardDOM = $(this);
+			var draggable = cardDOM.data("ui-draggable");
+			$.each(draggable.snapElements, function(index, element) {
+				if (element.snapping) {
+					var snapped = draggable.snapElements;
+					
+					var snappedTo = $.map(snapped, function(element) {
+						return element.snapping ? element.item : null;
+					});
+					
+					$.each(snappedTo, function(idx, item) {
+						if($(item).children().first().attr('id') == 'playerdeck'){
+							let cardId = cardDOM.children().first().attr('id');
+							addCardToDeck(cardId);
+							removeCardFromHand(cardId);
+							
+							if ($('#deckmenu').dialog('isOpen')) {
+								openDeck(currentDeck)
+							}
+							
+							return false;
+						}
+					});
+					
+					return false;
+				}
+			});
+		}
     });
       removeCard(i)
 }
 
-function addHand(i) {
-  hand.push(i);
+function addHand(i, id) {
+	hand.push({
+		id: id,
+		name: i
+	});
 }
 
 function shuffleDeck(a) {
@@ -184,15 +216,44 @@ function shuffleDeck(a) {
 
 function dealCard(i) {
   if (decklist == 0) return;
-  $('#hand').append(`<div class="testcard-slot-row"><div class="hand"><img src="https://yugiohprices.com/api/card_image/${decklist[i]}" /></div>`)
-    addHand(decklist[i])
+  $('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand"><img id="${decklist[i].id}" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" /></div>`)
+    addHand(decklist[i].name, decklist[i].id)
     $('.hand').css('border', 'none')
     $('.hand').draggable
     ({  
-        snap: '.card-slot',
+        snap: '.testcard-slot',
         snapMode: 'inner',
         snapTolerance: '22',
-        stack: '.hand'
+        stack: '.hand',
+		stop: function(){
+			var cardDOM = $(this);
+			var draggable = cardDOM.data("ui-draggable");
+			$.each(draggable.snapElements, function(index, element) {
+				if (element.snapping) {
+					var snapped = draggable.snapElements;
+					
+					var snappedTo = $.map(snapped, function(element) {
+						return element.snapping ? element.item : null;
+					});
+					
+					$.each(snappedTo, function(idx, item) {
+						if($(item).children().first().attr('id') == 'playerdeck'){
+							let cardId = cardDOM.children().first().attr('id');
+							addCardToDeck(cardId);
+							removeCardFromHand(cardId);
+							
+							if ($('#deckmenu').dialog('isOpen')) {
+								openDeck(currentDeck)
+							}
+							
+							return false;
+						}
+					});
+					
+					return false;
+				}
+			});
+		}
     });
     removeCard(i)
     $('#deckcount span').text(decklist.length)
@@ -206,16 +267,49 @@ function removeCard(c) {
   decklist.splice(c, 1)
 }
 
+function getCardPosInHand(id){
+	let index = -1;
+	
+	hand.forEach(function(element, i) {
+		if(element.id == id) index = i;
+	});
+	
+	return index;
+}
+
+function addCardToDeck(c){
+	let cardIndexInHand = getCardPosInHand(c);
+
+	decklist.push({
+		id: hand[cardIndexInHand].id,
+		name: hand[cardIndexInHand].name
+	});
+}
+
+function removeCardFromHand(c){
+	let cardIndexInHand = getCardPosInHand(c);
+	$('#hand').find('#cardId' + c).remove();
+	
+	hand.splice(cardIndexInHand, 1)
+}
+
 function refreshDeck(deck) {
       if (deck.length > 0) {
       decklist = []
       hand = []
     }
-  for (let card in deck) {
-    for (i = 0; i < Number(deck[card].amount); i++) {
-          decklist.push(deck[card].name)
-    }
-  }
+  	let id = 0;
+	
+	for (let card in deck) {
+		for (i = 0; i < Number(deck[card].amount); i++) {
+			decklist.push({
+				id: id,
+				name: deck[card].name
+			})
+		  
+			id++
+		}
+	}
   shuffleDeck(decklist)
   $(function() {
       $('#deckcount span').text(decklist.length)
