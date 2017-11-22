@@ -3,7 +3,7 @@ layout: blog
 title: Gladiator Beasts Guide
 category: deck-type-guide
 author: Raytee
-image: 
+image: /img/guides/gladiators.png
 date: 2017-11-22
 comments: false
 description: 
