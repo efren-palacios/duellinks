@@ -1,0 +1,10 @@
+{% assign split = include.deck | split: '/' %}
+
+{% capture year %}{{ split[0] }}{% endcapture %}
+{% capture month %}{{ split[1] }}{% endcapture %}
+{% capture deckType %}{{ split[2] }}{% endcapture %}
+{% capture author %}{{ split[3] }}{% endcapture %}
+
+{% assign deck = site.data.top-decks[year][month][deckType][author] %}
+
+{% include deck.html deck=deck showHeader=false showStats=true %}
