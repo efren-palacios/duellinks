@@ -51,7 +51,8 @@ $(document).on("click", ".code", function() {
 })
 
 $(document).on("click","#deckmenu img", function(){
-  dealCard($(this).attr('id'))
+	let id = $(this).attr('id');
+  dealCard(getCardPositionInArray(decklist, id))
 })
 
 function importDeck(deck) {
@@ -267,18 +268,18 @@ function removeCard(c) {
   decklist.splice(c, 1)
 }
 
-function getCardPosInHand(id){
+function getCardPositionInArray(arr, cardId){
 	let index = -1;
 	
-	hand.forEach(function(element, i) {
-		if(element.id == id) index = i;
+	arr.forEach(function(element, i) {
+		if(element.id == cardId) index = i;
 	});
 	
 	return index;
 }
 
 function addCardToDeck(c){
-	let cardIndexInHand = getCardPosInHand(c);
+	let cardIndexInHand = getCardPositionInArray(hand, c);
 
 	decklist.push({
 		id: hand[cardIndexInHand].id,
@@ -287,7 +288,7 @@ function addCardToDeck(c){
 }
 
 function removeCardFromHand(c){
-	let cardIndexInHand = getCardPosInHand(c);
+	let cardIndexInHand = getCardPositionInArray(hand, c);
 	$('#hand').find('#cardId' + c).remove();
 	
 	hand.splice(cardIndexInHand, 1)
