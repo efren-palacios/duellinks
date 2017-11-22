@@ -43,7 +43,7 @@ module Jekyll
               deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
               deck_file.puts("---")
               deck_file.puts("")
-              deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")<div class="flex-container">
+              deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
               deck_file.puts("<div class='deck-page'>")
               deck_file.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
               deck_file.puts("    <script>var playtest = {{deck | jsonify}}</script>") 
