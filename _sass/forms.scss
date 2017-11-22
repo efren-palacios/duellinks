@@ -3,7 +3,9 @@ form
     .form-control,
     .form-control:focus
     {
-        background-color: #cce3ff;
+        color: #d8d8d8;
+        border: 1px solid #182f4c;
+        background-color: #0c2740;
     }
 }
 
@@ -18,17 +20,23 @@ form
         #deck
         {
             margin-top: 25px;
+            min-height: 490px;
         }
-    }
-
-    #deck
-    {
-        border-radius: .25rem;
     }
 
     .card-display
     {
         flex: 0 0 52.5%;
         max-width: 52.5%;
+
+        #deck
+        {
+            min-height: 553px;
+        }
+    }
+
+    #deck
+    {
+        border-radius: .25rem;
     }
 }

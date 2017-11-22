@@ -23,8 +23,10 @@ function InitializeViewModel()
             timeoutId = setTimeout(function()
             {
                 var lowerSearchTerm = searchTerm.toLowerCase();
-                var newCards = $(TopDecksViewModel.cards()).filter(function(){ return this.nameSearch.indexOf(lowerSearchTerm) != -1 || this.description.indexOf(lowerSearchTerm) != -1});
-                TopDecksViewModel.filteredCards(newCards.slice(0, 20));
+                var nameResults = $(TopDecksViewModel.cards()).filter(function(){ return this.nameSearch.indexOf(lowerSearchTerm) != -1});
+                var descResults = $(TopDecksViewModel.cards()).filter(function(){ return this.description.indexOf(lowerSearchTerm) != -1});
+                var mergedResults = $.unique($.merge(nameResults, descResults));
+                TopDecksViewModel.filteredCards(mergedResults.slice(0, 20));
             }, 400);
         }
         else

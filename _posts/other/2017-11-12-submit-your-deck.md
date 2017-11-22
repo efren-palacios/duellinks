@@ -89,7 +89,9 @@ permalink: /submit-your-deck/
                 <input type="text" class="form-control" id="main19" name="fields[main19]" value="Beast Rising">
                 <input type="text" class="form-control" id="main20" name="fields[main20]" value="Beast Rising">
             </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <div class="form-group col-sm-1">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
         </div>
     </form>
     <div class="game-board hidden">

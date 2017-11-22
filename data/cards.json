@@ -3,11 +3,13 @@
 [
   {% assign cards = site.data.cardsdb %}
   {% for card in cards %}
-    {
-      "nameSearch": "{{card[1].name | replace: '"', "" | downcase}}",
-      "nameLink": "{{card[1].name | replace: ' ', "_" | replace: '"', "_" | replace: '’', "'"}}",
-      "description": "{{card[1].desc | strip_tabs | strip_newlines | escape_backslashes | replace: '"', "" | downcase}}"
-    }
-    {% unless forloop.last %},{% endunless %}
+    {% unless card[1].desc contains "Pendulum Effect" or card[1].desc contains "Pendulum Monster" %}
+      {
+        "nameSearch": "{{card[1].name | replace: '"', "" | downcase}}",
+        "nameLink": "{{card[1].name | replace: ' ', "_" | replace: '"', "_" | replace: '’', "'"}}",
+        "description": "{{card[1].desc | strip_tabs | strip_newlines | escape_backslashes | replace: '"', "" | downcase}}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endunless %}
   {% endfor %}
 ]

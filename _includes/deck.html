@@ -4,7 +4,7 @@
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}
         {% if include.showStats %}
-            <div id="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
+            <div class="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
         {% endif %}
         <div id="deck">
             <div id="cards">
