@@ -23,7 +23,9 @@ module Jekyll
               deck = decktype[deck_key]
               deck_name = deck['name']
 
-              deck_file = File.new('deck.html', 'w')
+              unless File.exist?('deck.html')
+                deck_file = File.new('deck.html', 'w')
+              end
 
               deck_file.puts("---")
               deck_file.puts("layout: blog")
