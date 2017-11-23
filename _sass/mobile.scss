@@ -161,6 +161,11 @@
       padding-left: 7px;
       margin-bottom: 12px;
 
+      > .decktype-new
+      {
+        width: 30px;
+      }
+
       .btn-decktype 
       {
         height: 38px;
@@ -191,9 +196,14 @@
 {
   .decktype-filter .btn-wrapper
   {
-    width: 100%;
+    /*width: 100%;*/
 
-    .btn-decktype 
+    > .decktype-new
+    {
+      width: 25px;
+    }
+
+    /*.btn-decktype 
     {
       text-align: left;
       
@@ -208,6 +218,6 @@
         font-size: 16px;
         margin-bottom: 1px;
       }
-    }
+    }*/
   }
 }
