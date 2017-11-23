@@ -16,7 +16,15 @@
             <h4 class="card-title text-white">{{page.title}}</h4>
           </a>
           <div class="text-white">
-            <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
+            {% if page.title == "TIER LIST" %}
+              {% if site.data.tierlist_last_modified_date > page.date %}
+                <small class="text-muted">Last Updated: {{ site.data.tierlist_last_modified_date | timeago }}</small>
+              {% else %}
+                <small class="text-muted">Last Updated: {{ page.date | timeago }}</small> 
+              {% endif %}
+            {% else %}
+              <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
+            {% endif %}
           </div>
         </div>
       </div>
