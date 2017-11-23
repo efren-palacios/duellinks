@@ -12,7 +12,7 @@
                     {% include deckbuild.html card=card %}
                 {% endfor %}
                 {% if include.deck.extra != null %}
-                    {% for card in extra %}
+                    {% for card in include.deck.extra %}
                         {% include deckbuild.html card=card %}
                     {% endfor %}
                 {% endif %}

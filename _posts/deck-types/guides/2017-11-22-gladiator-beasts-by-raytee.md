@@ -31,34 +31,34 @@ I used the deck in the 2nd Stage as well, and it brought me to Rank 8 in Europe 
 
 ### Staple Cards
 
-**Gladiator Beast Laquari: [Optimal Count 3]**  
+**{Gladiator Beast Laquari}: [Optimal Count 3]**  
 Our main beater, who has the highest chances to run over opponents monsters successfully.
 Besides his good stats, we also have the option
-to go into “Gladiator Beast Bestiari” or
-“Gladiator Beast Murmillo” to gain more field advantage.
-[We need him to fuse into “Gladiator Beast Heraklinos” sometimes]
+to go into {Gladiator Beast Bestiari} or
+{Gladiator Beast Murmillo} to gain more field advantage.
+[We need him to fuse into {Gladiator Beast Heraklinos} sometimes]
 
-**Gladiator Beast Bestiari: [Optimal Count 3]**  
+**{Gladiator Beast Bestiari}: [Optimal Count 3]**  
 Our way to remove backrow, 
 which is needed in a meta that includes a lot of strong backrow cards.
 
-**Gladiator Beast Murmillo: [Optimal Count 2]**  
+**{Gladiator Beast Murmillo}: [Optimal Count 2]**  
 With this monster destruction effect, we can remove multiple monsters per turn, or big monsters that we can't destroy by battle.
 Also he is helpful in burn match ups with destiny draw for example, 
-that our opponent is forced to use his resources onto a low ATK monster to prevent "Gladiator Beast Bestiari" to get summoned to wipe out his backrow.
+that our opponent is forced to use his resources onto a low ATK monster to prevent {Gladiator Beast Bestiari} to get summoned to wipe out his backrow.
 
-**Gladiator Beast Dimacari: [Optimal Count 1-2]**  
+**{Gladiator Beast Dimacari}: [Optimal Count 1-2]**  
 A one of staple, with the effect to attack twice per turn, that we can finish some opponents faster. Or to just clean the field much easier, with two attacks and then go into another Gladiator for even more advantage.
 
 ### Optimal Additions For Gladiator Beasts
 
-**Enemy Controller | Floodgate Trap Hole | Impenetrable Attack**  
-[These three cards are the most versatile ones, when it comes to the current meta]
+**{Enemy Controller} | {Floodgate Trap Hole} | {Impenetrable Attack}**  
+[These three cards are the most versatile ones, when it comes to the current meta]  
 [More about their different uses can be found in the match up section]
 
 ### Extra Deck
 
-**Gladiator Beast Heraklinos: [Optimal Count 1]**  
+**{Gladiator Beast Heraklinos}: [Optimal Count 1]**  
 Rarely used, but can be helpful against Mill or Burn in some situations with his effect to negate spells and traps, by discarding a card from our hand.
 
 **Gladiator Beast Nerokius: [Optimal Count 1]**  
@@ -67,34 +67,34 @@ So it is not bad to keep one in your extra deck for specific situations.
 Also when he battles we can bring out 2 Gladiator Beasts afterwards.
 
 **Gladiator Beast Essedarii: [Optimal Count 3]**  
-By far the most used Fusion in Gladiator Beasts, because we can deal with "Massivemorph", or just play around "Lava Golem" for example.
-2500 ATK are also perfect, this allows us to run over monsters like "Red-Eyes Zombie Dragon".
+By far the most used Fusion in Gladiator Beasts, because we can deal with {Massivemorph}, or just play around {Lava Golem} for example.
+2500 ATK are also perfect, this allows us to run over monsters like {Red-Eyes Zombie Dragon}.
 
 ### Best Tech Options
 
-**Sphere Kuribo: [Optimal Count 1]**  
+**{Sphere Kuriboh}: [Optimal Count 1]**  
 We are living in a very offensive and OTK heavy meta, 
-so "Sphere Kuribo" helps to not get OTKed,
+so {Sphere Kuriboh} helps to not get OTKed,
 also it turns monsters into defense position, 
 that makes it way easier to attack, specially when our opponents has backrow.
 
-**Half Shut: [Optimal Count 1-2]**  
+**{Half Shut}: [Optimal Count 1-2]**  
 This card is just a tech, 
 because the current meta is dominated by Cyber Angels,
 and in this match up the card is useless in 90% of the cases, 
 because of "Cyber Angel Dakini".
 
-**Forbidden Chalice: [Optimal Count 1-2]**  
+**{Forbidden Chalice}: [Optimal Count 1-2]**  
 Not a staple, but definitely something that can help against our biggest enemy, 
 the Ninjas.
 
 ### Substitutes For The Staples / Optimal Additions
 
-1. Windstorm of Etaqua 
-2. Curse of Anubis
-3. Mirror Wall
-4. Adhesion Trap Hole
-5. Super Rush Headlong
+1. {Windstorm of Etaqua}
+2. {Curse of Anubis}
+3. {Mirror Wall}
+4. {Adhesion Trap Hole}
+5. {Super Rush Headlong}
 
 ### Match Ups
 
@@ -108,42 +108,42 @@ Cyber Angels in general often struggle against a lot of backrow,
 and every single spell or trap that we are playing, 
 is helpful in the Cyber Angel Matchup.
 So what we are trying to do, is to let them run out of resources or gain quick field advantage with multiple backrow cards.
-This really depends on the set up that we are having, but mostly we stay patient and trying to remove all "Cyber Angel Dakini" so that our opponent runs out of options, this opens up to slowly gain the advantage for a save win.
+This really depends on the set up that we are having, but mostly we stay patient and trying to remove all {Cyber Angel Dakini} so that our opponent runs out of options, this opens up to slowly gain the advantage for a save win.
 
-How do we deal with "Cyber Angel Dakini":
-"Enemy Controller" is definitely the best way to deal with "Cyber Angel Dakini",
+How do we deal with {Cyber Angel Dakini}:
+{Enemy Controller} is definitely the best way to deal with {Cyber Angel Dakini},
 we just tribute one monster when she uses her effect, to send her to the graveyard with her own effect.
-"Floodgate Trap Hole" does not remove "Cyber Angel Dakini", but it slows down Cyber Angels, this gives us the option to draw into more resources to slowly take full control over the field.
-"Wall of Disruption" lowers the ATK of opponents monsters permanently,
-(Cyber Angels mostly having multiple monsters on the field, which makes "Wall of Disruption" way better than "Mirror Wall" in this Matchup)
+{Floodgate Trap Hole} does not remove {Cyber Angel Dakini}, but it slows down Cyber Angels, this gives us the option to draw into more resources to slowly take full control over the field.
+{Wall of Disruption} lowers the ATK of opponents monsters permanently,
+(Cyber Angels mostly having multiple monsters on the field, which makes {Wall of Disruption} way better than {Mirror Wall} in this Matchup)
 which makes them easier targets to attack so that we can clean the field with our Gladiator Beast effects.
 
-Another important factor is the "Machine Angel Ritual",
+Another important factor is the {Machine Angel Ritual},
 don't try to remove this card from the graveyard as fast as possible.
 (Be patient, we win this match up with the time)
-Because when you floodgate a "Cyber Angel Dakini" for example, your opponent can't use it, but when you attack into it, to destroy it with "Gladiator Beast Murmillo",
-your opponent can use the ritual, to prevent the destruction, to recycle again with the "Cyber Angel Dakini".
-Make sure to take care of the "Cyber Angel Dakini" 100%, 
+Because when you floodgate a {Cyber Angel Dakini} for example, your opponent can't use it, but when you attack into it, to destroy it with {Gladiator Beast Murmillo},
+your opponent can use the ritual, to prevent the destruction, to recycle again with the {Cyber Angel Dakini}.
+Make sure to take care of the {Cyber Angel Dakini} 100%, 
 before you try to force out the ritual from the graveyard.
 
-"Gladiator Beast Dimacari" with his effect to attack twice in one battle phase,
+{Gladiator Beast Dimacari} with his effect to attack twice in one battle phase,
 can be very useful in a match up like Cyber Angels.
 Because the deck plays many monsters with less than 1600 ATK,
-like "Sonic Bird", "Senju of the Thousand Hands" or "Cyber Petit Angel".
+like {Sonic Bird}, {Senju of the Thousand Hands} or {Cyber Petit Angel}.
 This gives us the option to destroy a monster and to attack directly,
 which can remove opponents skills like "Mind Scan".
-Or when our opponent has a floodgated "Cyber Angel Dakini" and a searcher,
-we attack over the searcher and then into the "Cyber Angel Dakini" to bring "Gladiator Beast Murmillo" to destroy it.
-(Depending if the "Machine Angel Ritual" is in the graveyard or not)
+Or when our opponent has a floodgated {Cyber Angel Dakini} and a searcher,
+we attack over the searcher and then into the {Cyber Angel Dakini} to bring {Gladiator Beast Murmillo} to destroy it.
+(Depending if the {Machine Angel Ritual} is in the graveyard or not)
 
 When the Cyber Angel player uses "Mind Scan", don't be scared to set multiple backrow cards. We are giving our opponent informations, 
 but on the other hand, it is extremely rough to play around a backrow line up
-with multiple "Wall of Disruption", "Enemy Controller" and "Floodgate Trap Hole".
+with multiple {Wall of Disruption}, {Enemy Controller} and {Floodgate Trap Hole}.
 It is a very strong mind game, that many players can't handle.
 This leads to misplays that can turn the whole match into our favor.
 
 As long we are drawing into enough backrow the Matchup is very even,
-but when Cyber Angels playing techs like "Anti Magic Arrows" or "Nobleman of Extermination" they have higher chances to win, but in general I would say
+but when Cyber Angels playing techs like {Anti-Magic Arrows} or {Nobleman of Extermination} they have higher chances to win, but in general I would say
 
 Gladiator Beasts [50] vs Cyber Angels [50]
 

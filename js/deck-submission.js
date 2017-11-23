@@ -1,12 +1,14 @@
 $(document).ready(function()
 {
-    timeoutId = 0;
     InitializeViewModel();
     GetAllCards();
+    MakeBoxesDroppable();
 });
 
 function InitializeViewModel()
 {
+    timeoutId = 0;
+
     TopDecksViewModel =
     {
         cards: ko.observableArray(),
@@ -27,6 +29,7 @@ function InitializeViewModel()
                 var descResults = $(TopDecksViewModel.cards()).filter(function(){ return this.description.indexOf(lowerSearchTerm) != -1});
                 var mergedResults = $.unique($.merge(nameResults, descResults));
                 TopDecksViewModel.filteredCards(mergedResults.slice(0, 20));
+                MakeCardsDraggable();
             }, 400);
         }
         else
@@ -44,4 +47,22 @@ function GetAllCards()
     {
         TopDecksViewModel.cards(data);
     });
+}
+
+function MakeCardsDraggable()
+{
+    $(".item").draggable({helper: "clone"});
+}
+
+function MakeBoxesDroppable()
+{
+    $(".box-main").droppable(
+        {
+            accept: ".item",
+            drop: function(event, ui)
+            {
+                var card = $(ui.draggable).clone();
+                $(this).append(card);
+            }
+        });
 }

@@ -50,17 +50,7 @@ permalink: /submit-your-deck/
             <div class="form-group col-sm-7 card-display">
                 <label for="searcher">Your deck</label>
                     <div id="deck">
-                        <div id="cards">
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Dark_Magician" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Blue_Eyes_White_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                            <div class="item"><a><img class="dcards" src="https://yugiohprices.com/api/card_image/Red_Eyes_Black_Dragon" alt=""></a></div>
-                        </div>
+                        <div id="cards" class="box-main"></div>
                     </div>
             </div>
             <div class="form-group col-sm-12">
