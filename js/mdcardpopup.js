@@ -1,5 +1,5 @@
 $(function(){
-    $("p").each(function(){
+    $("p, h1, h2, h3, h4, h5, li").each(function(){
         var text = $(this).text();
 
         var startInd = [];
@@ -26,18 +26,8 @@ $(function(){
             $(this).html(html);
         }
     });
-
-    rerunDeckMaker();
 });
 
 function cardNameToCardPopup(cardName){
     return '<span class="card-hover" src="https://yugiohprices.com/api/card_image/' + cardName + '">' + cardName + '</span><span class="mobile"></span>';
-}
-
-function rerunDeckMaker(){
-    var head = document.getElementsByTagName('head')[0];
-    var script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = window.location.hostname + '/js/deckmaker.js';
-    head.appendChild(script);
 }
