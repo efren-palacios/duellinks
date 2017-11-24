@@ -1,6 +1,12 @@
 @font-face
 {
-  font-family: Alegreya;
+  font-family: Alegreya-Regular;
+  src: url(/fonts/Alegreya/AlegreyaSans-Regular.ttf);
+}
+
+@font-face
+{
+  font-family: Alegreya-Medium;
   src: url(/fonts/Alegreya/AlegreyaSans-Medium.ttf);
 }
 
@@ -11,7 +17,7 @@ html
 
 body
 {
-  font-family: "Alegreya";
+  font-family: "Alegreya-Medium";
   font-size: 17px;
   background: $main-color-dark;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, $main-color-light, $main-color-dark);  /* Chrome 10-25, Safari 5.1-6 */
@@ -360,5 +366,49 @@ button:focus
   {
     display: inline-block;
     height: 40px;
+  }
+}
+
+// MARKDOWN STUFF
+.markdown{
+  h1{
+    font-size: 35pt;
+    letter-spacing: 0.7px;
+    margin-bottom: -7px;
+  }
+
+  h2{
+    font-size: 26pt;
+    letter-spacing: 0.7px; 
+    margin-bottom: 15px;   
+  }
+
+  h3{
+    font-size: 22pt;
+    margin-top: 40px;
+  }
+
+  h4{
+    margin-top: 20px;
+  }
+
+  strong{
+    letter-spacing: 0.5px;
+    font-family: "Alegreya-Medium" !important;
+  }
+
+  p{
+    margin-left: 20px;
+    letter-spacing: 0.1px;
+    font-size: 14pt;
+    font-family: "Alegreya-Regular" !important;
+  }
+
+  li{
+    font-size: 14pt;
+  }
+
+  .deck-container{
+    margin: 0 auto;
   }
 }

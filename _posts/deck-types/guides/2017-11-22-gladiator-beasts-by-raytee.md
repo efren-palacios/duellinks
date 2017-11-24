@@ -17,7 +17,7 @@ permalink: /guides/gladiator-beasts-guide-by-raytee/
 
 ### Introduction / Achievements / Optimized Deck
 
-Hello, my name is Raytee. Maybe some people will know me from my Youtube Channel “Raytee Gaming”.
+Hello, my name is Raytee. Maybe some people will know me from my **Youtube Channel** “Raytee Gaming”.
 
 Since the release of Gladiator Beasts in Duel Links,
 I started to work with this deck. One of the main reasons for this is, that I played this deck for a long time in the TCG, and it is still one of my favorite Arctypes when it comes to Yu-Gi-Oh!.  
@@ -61,12 +61,12 @@ A one of staple, with the effect to attack twice per turn, that we can finish so
 **{Gladiator Beast Heraklinos}: [Optimal Count 1]**  
 Rarely used, but can be helpful against Mill or Burn in some situations with his effect to negate spells and traps, by discarding a card from our hand.
 
-**Gladiator Beast Nerokius: [Optimal Count 1]**  
+**{Gladiator Beast Nerokius}: [Optimal Count 1]**  
 Rarely used as well, but he can't get destroyed by battle and when he attacks your opponent can't activate spells or traps.
 So it is not bad to keep one in your extra deck for specific situations.
 Also when he battles we can bring out 2 Gladiator Beasts afterwards.
 
-**Gladiator Beast Essedarii: [Optimal Count 3]**  
+**{Gladiator Beast Essedarii}: [Optimal Count 3]**  
 By far the most used Fusion in Gladiator Beasts, because we can deal with {Massivemorph}, or just play around {Lava Golem} for example.
 2500 ATK are also perfect, this allows us to run over monsters like {Red-Eyes Zombie Dragon}.
 
@@ -82,7 +82,7 @@ that makes it way easier to attack, specially when our opponents has backrow.
 This card is just a tech, 
 because the current meta is dominated by Cyber Angels,
 and in this match up the card is useless in 90% of the cases, 
-because of "Cyber Angel Dakini".
+because of {Cyber Angel Dakini}.
 
 **{Forbidden Chalice}: [Optimal Count 1-2]**  
 Not a staple, but definitely something that can help against our biggest enemy, 
@@ -154,29 +154,29 @@ Ninjas are setting up very fast, with big monsters and Ninjutsu Arts,
 which makes it extremely complicated to get a successful attack going.
 (aka our whole game plan gets slowed down a lot)
 Our most important cards in this Matchup are 
-"Impenetrable Attack", "Floodgate Trap Hole" and "Gladiator Beast Bestiari".
+{Impenetrable Attack}, {Floodgate Trap Hole} and {Gladiator Beast Bestiari}.
 
 Ninjas are not using "Mind Scan", 
 so we can set multiple cards down to protect our monsters as best as possible,
-multiple set cards are very important, specially because of the "Red Dragon Ninja",
+multiple set cards are very important, specially because of the {Red Dragon Ninja},
 who can simply send one of our set cards back to the top/bottom of our deck
 to take our protection away and once we are out of backrow we will lose automatically against Ninjas.
-"Crimson Ninja" is also an annoying card, 
+{Crimson Ninja} is also an annoying card, 
 but when we are using "Mind Scan" we can prepare ourselves to deal with this one.
 
-The "Black Dragon Dragon" is also a very hard counter to our whole game plan,
-because with his effect he can dodge cards like "Enemy Controller",
+The {Black Dragon Dragon} is also a very hard counter to our whole game plan,
+because with his effect he can dodge cards like {Enemy Controller},
 which makes it extremely complicated, to get a successful battle going without using to many resources.
-(Be VERY careful, when you want to take control of a "Black Dragon Ninja" with "Enemy Controller")
+(Be VERY careful, when you want to take control of a {Black Dragon Ninja} with {Enemy Controller})
 
-"Floodgate Trap Hole" is the best counter to Ninjas in the early game,
-because "Ninjutsu Art Of Transformation" can only be used with face up monsters,
-so we are forcing our opponent to have a "Ninjutsu Art Of Duplication".
-And when our opponent just has "Ninjutsu Art Of Transformation",
+{Floodgate Trap Hole} is the best counter to Ninjas in the early game,
+because {Ninjutsu Art Of Transformation} can only be used with face up monsters,
+so we are forcing our opponent to have a {Ninjutsu Art Of Duplication}.
+And when our opponent just has {Ninjutsu Art Of Transformation},
 we attack into the floodgated Ninja to remove it from the field,
-to bring out "Gladiator Beast Bestiari" to remove backrow as well.
+to bring out {Gladiator Beast Bestiari} to remove backrow as well.
 
-"Impenetrable Attack" is the other big card that can turn the match up into our favor.
+{Impenetrable Attack} is the other big card that can turn the match up into our favor.
 By protecting our monster(s) from opponents attacks, and we can get the chance to trigger a Gladiator Beast effect.
 So when the chance is there, we need to use it, even when that means that we need to take a good amount of damage, because once we gained field advantage with multiple backrow cards and 1-2 monsters, this should be our game.
 (I have to say that good Ninja players will always be very careful, so mostly they will play around Impenetrable Attack)
@@ -192,28 +192,28 @@ Gladiator Beasts [35] vs Three Star Demotion Ninjas [65]
 A very favourable match up for Gladiator Beasts,
 we all know that Red-Eyes Zombies gets countered by decks that are using a lot of backrow.
 
-This is the Matchup where "Gladiator Beast Laquari" shines the most,
-Red-Eyes Zombies playing besides their main beater "Red-Eyes Zombies Dragon" cards like
-"Gozuki" and "Samurai Skull", both of them having 1700 ATK, 
-so "Gladiator Beast Laquari" can easily run over them 
-to force out resources like "Bacon Saver" or "Enemy Controller" early in the game.
+This is the Matchup where {Gladiator Beast Laquari} shines the most,
+Red-Eyes Zombies playing besides their main beater {Red-Eyes Zombies Dragon} cards like
+{Gozuki} and {Samurai Skull}, both of them having 1700 ATK, 
+so {Gladiator Beast Laquari} can easily run over them 
+to force out resources like {Bacon Saver} or {Enemy Controller} early in the game.
 
 Red-Eyes Zombies are also having no monster removal, they mostly win by just running over everything,
-but we can prevent things like that pretty easily with "Wall of Disruption"
+but we can prevent things like that pretty easily with {Wall of Disruption}
 because Red-Eyes Zombies always attacks with multiple monsters, so we prevent an OTK and we get attack targets for our next turn.
 (In the optimal case, we destroy a monster + we are getting a Gladiator effect as well)
 
-"Impenetrable Attack" is also very important, our opponent can attack into our monster, but when he can't finish us we can go into another Gladiator to gain more field advantage.
+{Impenetrable Attack} is also very important, our opponent can attack into our monster, but when he can't finish us we can go into another Gladiator to gain more field advantage.
 
-A very dangerous scenario is when a Red-Eyes Zombie deck tries to start an OTK with "Anti Magic Arrows",
+A very dangerous scenario is when a Red-Eyes Zombie deck tries to start an OTK with {Anti Magic Arrows},
 turn the toggle to on, when you expect it.
-Often they try to take over one of your monsters with "Enemy Controller" at the start of the battle phase,
-in a situation like this you could turn one of their monsters into defense by chaining your own "Enemy Controller"
-but when you have it, chain "Impenetrable Attack" to prevent all the battle damage at this battle phase.
+Often they try to take over one of your monsters with {Enemy Controller} at the start of the battle phase,
+in a situation like this you could turn one of their monsters into defense by chaining your own {Enemy Controller}
+but when you have it, chain {Impenetrable Attack} to prevent all the battle damage at this battle phase.
 
 Gladiator Beasts having a huge advantage in this match up,
 because they can let Red-Eyes Zombies run out of ressources pretty easily.
-Red-Eyes Zombies are relying on "Anti Magic Arrows", 
+Red-Eyes Zombies are relying on {Anti Magic Arrows}, 
 otherwise Gladiators will take over the game with the time.
 
 Gladiator Beasts [60] vs Red-Eyes Zombies [40]
@@ -224,30 +224,30 @@ Ancient Gears is another popular Matchup.
 But Gladiator Beasts having many tools and backrow options 
 to win against this deck consistently.
 
-One of our main priorities in the early game is, to get rid of the "Ancient Gear Castle"
-that our opponent gets with the skill "Middle Age Mechs".
-Because when we can destroy it with our "Gladiator Beast Bestiari",
+One of our main priorities in the early game is, to get rid of the {Ancient Gear Castle}
+that our opponent gets with the skill {Middle Age Mechs}.
+Because when we can destroy it with our {Gladiator Beast Bestiari},
 our opponent has multiple options to draw dead, 
-when he draws into cards like "Ancient Gear Golem" ore "Ancient Gear Beast".
+when he draws into cards like {Ancient Gear Golem} ore {Ancient Gear Beast}.
 
-The Ancient Gear monsters are not that dangerous for a optimized Gladiator Beast deck, with cards like "Floodgate Trap Hole" and "Enemy Controller" we can prevent them from attacking.
+The Ancient Gear monsters are not that dangerous for a optimized Gladiator Beast deck, with cards like {Floodgate Trap Hole} and {Enemy Controller} we can prevent them from attacking.
 Both cards can bring them into defense position as well, 
-so we can attack into them or destroy them with "Gladiator Beast Murmillo".
+so we can attack into them or destroy them with {Gladiator Beast Murmillo}.
 
-Ancient Gears are playing normally 2-3 copies of "Sergeant Electro",
+Ancient Gears are playing normally 2-3 copies of {Sergeant Electro},
 this card needs to be removed as fast as possible.
-Our best option against "Sergeant Electro" is "Floodgate Trap Hole",
+Our best option against {Sergeant Electro} is {Floodgate Trap Hole},
 because we prevent him from using his annoying effect and we get a save target to attack for our Gladiators.
-"Enemy Controller" is the next best card, because we can turn "Sergeant Electro" into defense position, to attack him in our following turn, to get our Gladiator effects going. 
-Another way to deal with him is, when we have multiple monsters, we tribute one, taking over "Sergeant Electro"
-(as long our opponent has no "Rare Metalmorph" / "Mind Scan" helps a lot in this situation)
-pinning the most dangerous card from our opponent, then we attack to go into "Gladiator Beast Murmillo" to destroy "Sergeant Electro".
+{Enemy Controller} is the next best card, because we can turn {Sergeant Electro} into defense position, to attack him in our following turn, to get our Gladiator effects going. 
+Another way to deal with him is, when we have multiple monsters, we tribute one, taking over {Sergeant Electro}
+(as long our opponent has no {Rare Metalmorph} / "Mind Scan" helps a lot in this situation)
+pinning the most dangerous card from our opponent, then we attack to go into {Gladiator Beast Murmillo} to destroy {Sergeant Electro}.
 
-We just have a single card in our deck, that can be dead in some situations against Ancient Gears, this is "Wall of Disruption", so we need to be careful when we set this card. It is not chainable and we can only activate it to an attack declaration,
-besides "Sergeant Electro" and "Ancient Gear Knight" (not resummoned) the card can't get used against Ancient Gear monsters.
-"Impenetrable Attack" is only risky against "Sergeant Electro", but against the rest of the Ancient Gear deck is it usable, because we can use it at the start of the battle phase. But be careful to not set multiple copies of "Impenetrable Attack" and "Wall of Disruption" otherwise you run into the risk, that a single "Sergeant Electro" pins all your backrow cards and you can't do anything against it.
+We just have a single card in our deck, that can be dead in some situations against Ancient Gears, this is {Wall of Disruption}, so we need to be careful when we set this card. It is not chainable and we can only activate it to an attack declaration,
+besides {Sergeant Electro} and {Ancient Gear Knight} (not resummoned) the card can't get used against Ancient Gear monsters.
+{Impenetrable Attack} is only risky against {Sergeant Electro}, but against the rest of the Ancient Gear deck is it usable, because we can use it at the start of the battle phase. But be careful to not set multiple copies of {Impenetrable Attack} and {Wall of Disruption} otherwise you run into the risk, that a single {Sergeant Electro} pins all your backrow cards and you can't do anything against it.
 Overall when we draw a standard hand, Gladiator Beasts can handle Ancient Gears very well,
-the deck has nothing besides "Sergeant Electro" that means so much trouble that we could lose the game instantly. 
+the deck has nothing besides {Sergeant Electro} that means so much trouble that we could lose the game instantly. 
 Gladiator Beasts [60] vs Ancient Gears [40]
 
 #### 5. Burn
@@ -255,28 +255,28 @@ Gladiator Beasts [60] vs Ancient Gears [40]
 The modern burn deck, that we are currently having in duel links, 
 is a very good Matchup for Gladiator Beasts, because we can easily deal with everything that they have.
 
-One of the biggest threads of a Burn deck is the "Lava Golem",
-with the option to fuse our monsters over and over again, we can easily play around that card and even when he hits the field we have options like "Floodgate Trap Hole" to prevent the damage.
-"Enemy Controller" helps as well when your opponent controls a monster,
-that we can tribute the "Lava Golem" away.
-Also the effect of "Gladiator Beast Murmillo" can take care of the "Lava Golem",
-when we have no "Floodgate Trap Hole" or "Enemy Controller".
+One of the biggest threads of a Burn deck is the {Lava Golem},
+with the option to fuse our monsters over and over again, we can easily play around that card and even when he hits the field we have options like {Floodgate Trap Hole} to prevent the damage.
+{Enemy Controller} helps as well when your opponent controls a monster,
+that we can tribute the {Lava Golem} away.
+Also the effect of {Gladiator Beast Murmillo} can take care of the {Lava Golem},
+when we have no {Floodgate Trap Hole} or {Enemy Controller}.
 
-"Massivemorph" just slows us down a little but with "Gladiator Beast Essedarii"
+{Massivemorph} just slows us down a little but with {Gladiator Beast Essedarii}
 we can shuffle the morphed monsters back in the deck and we still have a strong monster to attack with.
-Pretty similar is "Gladiator Beast Heraklinos", once "Lava Golem" is gone we can set him up, to attack for game without caring about any spells and traps.
-I prefer "Gladiator Beast Heraklinos" over "Gladiator Beast Nerokius" 
-because "Gladiator Beast Nerokius" can't negate spells and traps before he attacks.
+Pretty similar is {Gladiator Beast Heraklinos}, once {Lava Golem} is gone we can set him up, to attack for game without caring about any spells and traps.
+I prefer {Gladiator Beast Heraklinos} over {Gladiator Beast Nerokius}
+because {Gladiator Beast Nerokius} can't negate spells and traps before he attacks.
 
-Many burn decks play cards like "Draining Shield" or "The Golden Apples" for example, against those cards we can simply attack with "Gladiator Beast Murmillo"
-because like this our opponent is forced to use his resources on a low attack monster, that we can't bring out "Gladiator Beast Bestiari" to destroy his backrow.
+Many burn decks play cards like {Draining Shield} or {The Golden Apples} for example, against those cards we can simply attack with {Gladiator Beast Murmillo}
+because like this our opponent is forced to use his resources on a low attack monster, that we can't bring out {Gladiator Beast Bestiari} to destroy his backrow.
 
-"Amazoness Swords Woman" is the last big thread in a modern Burn deck,
-but besides having cards like "Floodgate Trap Hole" or "Enemy Controller" to turn her into defense position,
-we also have "Impenetrable Attack". 
+{Amazoness Swords Woman} is the last big thread in a modern Burn deck,
+but besides having cards like {Floodgate Trap Hole} or {Enemy Controller} to turn her into defense position,
+we also have {Impenetrable Attack}. 
 Mostly our opponent will try to run into a massivemorphed monster,
-by just using the second effect of "Impenetrable Attack" (we take no battle damage for this battle phase)
-like this we destroy the "Amazoness Swords Woman" and we take no damage, so we take care of two threads with one card activation.
+by just using the second effect of {Impenetrable Attack} (we take no battle damage for this battle phase)
+like this we destroy the {Amazoness Swords Woman} and we take no damage, so we take care of two threads with one card activation.
 (And our Gladiator can use its effect)
 
 It is extremely hard to lose against a Burn deck with Gladiators these days,
@@ -286,18 +286,18 @@ Gladiator Beasts [80] vs Burn [20]
 
 #### 6. Hazy Flame Sphynx
 
-"Hazy Flame Sphynx" with "Beast Rising" is besides Ninjas one of our worst Matchups, the deck is packed with cards that can counter Gladiator Beasts very hard.
+{Hazy Flame Sphynx} with {Beast Rising} is besides Ninjas one of our worst Matchups, the deck is packed with cards that can counter Gladiator Beasts very hard.
 
 We normally play very patient, but Hazy Flame includes many cards that are giving Gladiator Beasts a hard time, so when you are facing a Hazy Deck, try to gain advantage as fast as possible, otherwise once Hazy sets up, it is very rough to come back.
-"Floodgate Trap Hole" is the card that can win us the match up,
-not only "Hazy Flame Sphynx" means a lot of trouble, this deck also plays multiple copies of "Sergeant Electro", so without "Floodgate Trap Hole" Gladiators will have a very hard time against this tricky Matchup.
-One of the biggest issues in this match up is "Hazy Flame Sphynx" effect, that she can't get targeted by card effects, so our "Gladiator Beast Murmillo" can't do anything against her, "Enemy Controller" also does not work.
-And when our opponent boosts his "Hazy Flame Sphynx" with "Beast Rising", it is almost impossible to get her away from field,
-"Wall of Disruption" could reduce her attack once, but "Beast Rising" can simply get used again, and the problem is right back.
-Hazy Flame decks often play 1-2 "Soul Exchange"
-"Soul Exchange" is by far one of the biggest counter cards against Gladiator Beasts,
+{Floodgate Trap Hole} is the card that can win us the match up,
+not only {Hazy Flame Sphynx} means a lot of trouble, this deck also plays multiple copies of {Sergeant Electro}, so without {Floodgate Trap Hole} Gladiators will have a very hard time against this tricky Matchup.
+One of the biggest issues in this match up is {Hazy Flame Sphynx} effect, that she can't get targeted by card effects, so our {Gladiator Beast Murmillo} can't do anything against her, {Enemy Controller} also does not work.
+And when our opponent boosts his {Hazy Flame Sphynx} with {Beast Rising}, it is almost impossible to get her away from field,
+{Wall of Disruption} could reduce her attack once, but {Beast Rising} can simply get used again, and the problem is right back.
+Hazy Flame decks often play 1-2 {Soul Exchange}
+{Soul Exchange} is by far one of the biggest counter cards against Gladiator Beasts,
 because we can't do anything against it.
-We will lose a monster and our opponent will get "Hazy Flame Sphynx" + her effect to summon another monster.
+We will lose a monster and our opponent will get {Hazy Flame Sphynx} + her effect to summon another monster.
 
 Hazy Flame feels pretty much like a very hard counter deck to Gladiators,
 every card in this deck is very useful against us.
@@ -308,7 +308,7 @@ Gladiator Beasts [35] vs Hazy Flame [65]
 #### (Most Common Skills = Mind Scan, Balance, Holy Guard)
 
 Overall "Mind Scan" is the best way to play Gladiator Beasts,
-"Balance" gives you a lower chance to get brick hands and "Holy Guard" prevents the damage when you need to run into bigger monsters like "Cyber Angel Dakini" or "Ancient Gear Golem". But compared to the advantage that "Mind Scan" gives you, 
+"Balance" gives you a lower chance to get brick hands and "Holy Guard" prevents the damage when you need to run into bigger monsters like {Cyber Angel Dakini} or {Ancient Gear Golem}. But compared to the advantage that "Mind Scan" gives you, 
 those Skills are good, but not that great as "Mind Scan" is.
 
 **Why I choose "Mind Scan" over "Balance" & "Holy Guard":**  
@@ -323,15 +323,15 @@ lets us play many match ups completely different,
 which makes it a lot easier to deal with tricky situations or match ups like Phoenix or Burn.
 
 **Example: vs Phoenix**  
-Phoenix players, when they have no "Fire King Island" but a "Sacred Phoenix of Nephtys" in hand, they will set a "Fire King Avatar Yaksha".
+Phoenix players, when they have no {Fire King Island} but a {Sacred Phoenix of Nephtys} in hand, they will set a {Fire King Avatar Yaksha}.
 As a very backrow heavy deck, we normally play our monster and set 2-3 cards (depending on the match up),
-but when we see a "Fire King Avatar Yaksha" we expect a Phoenix deck.
-"Mind Scan" helps us to not lose a lot of backrow to one "Sacred Phoenix of Nephtys",
-so we can play a monster, attack and then bring in the optimal case a "Gladiator Beast - Laquari", besides that we can set a "Floodgate Trap Hole" or an "Enemy Controller" to deal with the "Sacred Phoenix of Nephtys" in the following turn.
-"Gladiator Beast - Laquari" is the optimal choice in this scenario, because our opponent can't run over it easily.
-When we solved the thread in form of "Sacred Phoenix of Nephtys", the match will quickly turn into our favor,  without "Mind Scan" we could lose very fast by just running into a "Fire King Avatar Yaksha"  and lose all our backrow options to one single "Sacred Phoenix of Nephtys" summon, but with "Mind Scan" we can prepare ourselves and play the Matchup with careful backrow management.
+but when we see a {Fire King Avatar Yaksha} we expect a Phoenix deck.
+"Mind Scan" helps us to not lose a lot of backrow to one {Sacred Phoenix of Nephtys},
+so we can play a monster, attack and then bring in the optimal case a {Gladiator Beast - Laquari}, besides that we can set a {Floodgate Trap Hole} or an {Enemy Controller} to deal with the {Sacred Phoenix of Nephtys} in the following turn.
+{Gladiator Beast - Laquari} is the optimal choice in this scenario, because our opponent can't run over it easily.
+When we solved the thread in form of {Sacred Phoenix of Nephtys}, the match will quickly turn into our favor,  without "Mind Scan" we could lose very fast by just running into a {Fire King Avatar Yaksha} and lose all our backrow options to one single {Sacred Phoenix of Nephtys} summon, but with "Mind Scan" we can prepare ourselves and play the Matchup with careful backrow management.
 
-"Holy Guard" is a very popular skill for Gladiator Beasts, but preventing battle damage in our own turn,  is currently only good against Cyber Angels and Ancient Gears,  when we need to run into big monsters like "Cyber Angel Dakini" or "Ancient Gear Golem" for example to activate our Gladiator Beast effects.
+"Holy Guard" is a very popular skill for Gladiator Beasts, but preventing battle damage in our own turn, is currently only good against Cyber Angels and Ancient Gears,  when we need to run into big monsters like {Cyber Angel Dakini} or {Ancient Gear Golem} for example to activate our Gladiator Beast effects.
 Even against those match ups it is very situational.
 In a "Mind Scan" build we need to attack more carefully, specially because we want to keep our skill as long as possible, but being careful is not a bad thing, Gladiator Beasts should be played carefully, to slowly gain the field advantage till our opponent can't come back anymore. Rushing is never good with Gladiator Beasts, they are still a control deck, so patience is the key to victory.
 "Holy Guard" is good for beginners, to start and slowly learn the deck step by step,
@@ -342,17 +342,17 @@ otherwise "Mind Scan" is the better choice here as well, because "Holy Guard" is
 "Mind Scan" is the biggest advantage that you can have in the mirror match,
 because it gives you the option to force out multiple resources at once.
 Example:
-Your opponent has "Gladiator Beast Dimacari" and two backrow cards,
-"Impenetrable Attack" and "Wall of Disruption".
+Your opponent has {Gladiator Beast Dimacari} and two backrow cards,
+{Impenetrable Attack} and {Wall of Disruption}.
 ("Mind Scan" helps a lot to make plays like this possible without running into surprise factor cards)
-With just "Gladiator Beast Laquari" and "Enemy Controller" we can get rid of all 3 cards of our opponent.
-We play "Gladiator Beast Laquari" set our backrow, but keep the "Enemy Controller"
-then we attack, our opponent will use one of his backrow cards, it doesn't matter which one, you chain "Enemy Controller" to take over the opponents Gladiator, so your opponent is forced to use the second card as well because we will shuffle his Gladiator back into his deck to summon one of our "Gladiator Beast Bestiari" to destroy the second backrow card.
+With just {Gladiator Beast Laquari} and {Enemy Controller} we can get rid of all 3 cards of our opponent.
+We play {Gladiator Beast Laquari} set our backrow, but keep the {Enemy Controller}
+then we attack, our opponent will use one of his backrow cards, it doesn't matter which one, you chain {Enemy Controller} to take over the opponents Gladiator, so your opponent is forced to use the second card as well because we will shuffle his Gladiator back into his deck to summon one of our {Gladiator Beast Bestiari} to destroy the second backrow card.
 A devastating play like this can win us the game very quickly.
 
 Many people decide to go aggressive when it comes to the mirror match,
 but when you have enough backrow you should stay patient to go for save plays.
-When you expect a Gladiator Beast deck as opponent a very good opening is to set a monster and set "Impenetrable Attack",like this you have a monster that your opponent can't destroy, not by battle or with "Gladiator Beast Murmillo"
+When you expect a Gladiator Beast deck as opponent a very good opening is to set a monster and set {Impenetrable Attack},like this you have a monster that your opponent can't destroy, not by battle or with {Gladiator Beast Murmillo}
 and your opponent when he attacks he needs to use his Gladiators first, 
 he will bring out his monster(s) and then you safely go for the best Gladiator that you need for that situation.
 
