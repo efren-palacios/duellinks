@@ -17,7 +17,7 @@ html
 
 body
 {
-  font-family: "Alegreya-Medium";
+  font-family: "Alegreya-Regular";
   font-size: 17px;
   background: $main-color-dark;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, $main-color-light, $main-color-dark);  /* Chrome 10-25, Safari 5.1-6 */
@@ -398,14 +398,7 @@ button:focus
   }
 
   p{
-    margin-left: 20px;
     letter-spacing: 0.1px;
-    font-size: 14pt;
-    font-family: "Alegreya-Regular" !important;
-  }
-
-  li{
-    font-size: 14pt;
   }
 
   .deck-container{
