@@ -17,10 +17,14 @@
           </a>
           <div class="text-white">
             {% if page.title == "TIER LIST" %}
-              {% if site.data.tierlist_last_modified_date > page.date %}
-                <small class="text-muted">Last Updated: {{ site.data.tierlist_last_modified_date | timeago }}</small>
+              {% assign changelog = site.data.tierlist-changelog | sort: 'date' | reverse %}
+              {% assign firstDate = changelog[0].date %}
+              {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
+              {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
+              {% if fomattedFirstDate > formattedPageDate %}
+                <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
               {% else %}
-                <small class="text-muted">Last Updated: {{ page.date | timeago }}</small> 
+                <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
               {% endif %}
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
