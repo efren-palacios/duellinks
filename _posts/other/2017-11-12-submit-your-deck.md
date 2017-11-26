@@ -43,15 +43,21 @@ permalink: /submit-your-deck/
                 <input type="text" class="form-control" data-bind="textInput: searchTerm">
                 <div id="deck">
                     <div id="cards" data-bind="foreach: filteredCards">
-                        <div class="item"><a><img class="dcards" data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + nameLink }" alt=""></a></div>
+                        <div class="item" data-bind="attr: {'data-name': name}">
+                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a> 
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="form-group col-sm-7 card-display">
                 <label for="searcher">Your deck</label>
-                    <div id="deck">
-                        <div id="cards" class="box-main"></div>
+                <div id="deck" class="user-deck">
+                    <div id="cards" data-bind="foreach: selectedMainCards">
+                        <div class="item" data-bind="attr: {'data-name': $rawData}">
+                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl($rawData) }" alt=""></a>
+                        </div>
                     </div>
+                </div>
             </div>
             <div class="form-group col-sm-12">
                 <label for="notes">Notes</label>

@@ -13,6 +13,12 @@ module Jekyll
       input.gsub(/\\/, '\\\\\\\\')
     end
   end
+  module ApiFilter
+    def insert_name(input, name)
+      input.gsub('[name]', name.gsub(' ', '_').gsub('-', '_').gsub(':', '_').gsub('#', '_').gsub('"', '_'))
+    end
+  end
 end
 Liquid::Template.register_filter(Jekyll::DateFilter)
 Liquid::Template.register_filter(Jekyll::StringFilter)
+Liquid::Template.register_filter(Jekyll::ApiFilter)

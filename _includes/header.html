@@ -16,7 +16,7 @@
             <h4 class="card-title text-white">{{page.title}}</h4>
           </a>
           <div class="text-white">
-            {% if page.title == "TIER LIST" %}
+            {% if page.title == "TIER LIST" %} <!-- why not page.url? page title is more likely to change than page url -->
               {% if site.data.tierlist_last_modified_date > page.date %}
                 <small class="text-muted">Last Updated: {{ site.data.tierlist_last_modified_date | timeago }}</small>
               {% else %}

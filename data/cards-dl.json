@@ -1,0 +1,9066 @@
+[
+	{
+		"id": "3800",
+		"name": "Blue-Eyes White Dragon"
+	},
+	{
+		"id": "3806",
+		"name": "Dark Magician"
+	},
+	{
+		"id": "3900",
+		"name": "Insect Monster Token"
+	},
+	{
+		"id": "3901",
+		"name": "Kuriboh Token"
+	},
+	{
+		"id": "3906",
+		"name": "Army Ant Token"
+	},
+	{
+		"id": "3907",
+		"name": "Slime Token"
+	},
+	{
+		"id": "3908",
+		"name": "Wicked Token"
+	},
+	{
+		"id": "3909",
+		"name": "Poisonous Snake Token"
+	},
+	{
+		"id": "3910",
+		"name": "Lekunga Token"
+	},
+	{
+		"id": "3911",
+		"name": "Clone Token"
+	},
+	{
+		"id": "3912",
+		"name": "Wicked Plant Token"
+	},
+	{
+		"id": "3913",
+		"name": "Mirage Token"
+	},
+	{
+		"id": "3914",
+		"name": "Metal Fiend Token"
+	},
+	{
+		"id": "3915",
+		"name": "Ojama Token"
+	},
+	{
+		"id": "3916",
+		"name": "Ojama Token"
+	},
+	{
+		"id": "3917",
+		"name": "Ojama Token"
+	},
+	{
+		"id": "3918",
+		"name": "Lamb Token"
+	},
+	{
+		"id": "3919",
+		"name": "Lamb Token"
+	},
+	{
+		"id": "3921",
+		"name": "Block Token"
+	},
+	{
+		"id": "3927",
+		"name": "Option Token"
+	},
+	{
+		"id": "3928",
+		"name": "Synthetic Seraphim Token"
+	},
+	{
+		"id": "3929",
+		"name": "Double Dude Token"
+	},
+	{
+		"id": "3930",
+		"name": "Eva Token"
+	},
+	{
+		"id": "3931",
+		"name": "Fireball Token"
+	},
+	{
+		"id": "3941",
+		"name": "Sinister Seed Token"
+	},
+	{
+		"id": "3944",
+		"name": "Oyster Token"
+	},
+	{
+		"id": "3945",
+		"name": "Ice Coffin Token"
+	},
+	{
+		"id": "3950",
+		"name": "Plant Token"
+	},
+	{
+		"id": "3951",
+		"name": "Seed Token"
+	},
+	{
+		"id": "3958",
+		"name": "Ghost Token"
+	},
+	{
+		"id": "3960",
+		"name": "Worm Token"
+	},
+	{
+		"id": "3961",
+		"name": "Multi Token"
+	},
+	{
+		"id": "3963",
+		"name": "Spider Token"
+	},
+	{
+		"id": "3964",
+		"name": "Soul Token"
+	},
+	{
+		"id": "3971",
+		"name": "Compass Token"
+	},
+	{
+		"id": "3975",
+		"name": "Malus Token"
+	},
+	{
+		"id": "3979",
+		"name": "Mecha Phantom Beast Token"
+	},
+	{
+		"id": "3995",
+		"name": "Dragon Lord Token"
+	},
+	{
+		"id": "4007",
+		"name": "Blue-Eyes White Dragon"
+	},
+	{
+		"id": "4008",
+		"name": "Mystical Elf"
+	},
+	{
+		"id": "4009",
+		"name": "Hitotsu-Me Giant"
+	},
+	{
+		"id": "4010",
+		"name": "Baby Dragon"
+	},
+	{
+		"id": "4011",
+		"name": "Ryu-Kishin"
+	},
+	{
+		"id": "4012",
+		"name": "Feral Imp"
+	},
+	{
+		"id": "4013",
+		"name": "Winged Dragon"
+	},
+	{
+		"id": "4015",
+		"name": "Shadow Specter"
+	},
+	{
+		"id": "4016",
+		"name": "Blackland Fire Dragon"
+	},
+	{
+		"id": "4017",
+		"name": "Sword Arm of Dragon"
+	},
+	{
+		"id": "4018",
+		"name": "Swamp Battleguard"
+	},
+	{
+		"id": "4019",
+		"name": "Tyhone"
+	},
+	{
+		"id": "4020",
+		"name": "Battle Steer"
+	},
+	{
+		"id": "4021",
+		"name": "Flame Swordsman"
+	},
+	{
+		"id": "4022",
+		"name": "Time Wizard"
+	},
+	{
+		"id": "4023",
+		"name": "Right Leg of the Forbidden One"
+	},
+	{
+		"id": "4024",
+		"name": "Left Leg of the Forbidden One"
+	},
+	{
+		"id": "4025",
+		"name": "Right Arm of the Forbidden One"
+	},
+	{
+		"id": "4026",
+		"name": "Left Arm of the Forbidden One"
+	},
+	{
+		"id": "4027",
+		"name": "Exodia the Forbidden One"
+	},
+	{
+		"id": "4028",
+		"name": "Summoned Skull"
+	},
+	{
+		"id": "4030",
+		"name": "Skull Servant"
+	},
+	{
+		"id": "4031",
+		"name": "Horn Imp"
+	},
+	{
+		"id": "4032",
+		"name": "Battle Ox"
+	},
+	{
+		"id": "4033",
+		"name": "Beaver Warrior"
+	},
+	{
+		"id": "4034",
+		"name": "Rock Ogre Grotto #1"
+	},
+	{
+		"id": "4035",
+		"name": "Mountain Warrior"
+	},
+	{
+		"id": "4036",
+		"name": "Zombie Warrior"
+	},
+	{
+		"id": "4037",
+		"name": "Koumori Dragon"
+	},
+	{
+		"id": "4038",
+		"name": "Two-Headed King Rex"
+	},
+	{
+		"id": "4039",
+		"name": "Judge Man"
+	},
+	{
+		"id": "4040",
+		"name": "Saggi the Dark Clown"
+	},
+	{
+		"id": "4041",
+		"name": "Dark Magician"
+	},
+	{
+		"id": "4042",
+		"name": "The Snake Hair"
+	},
+	{
+		"id": "4043",
+		"name": "Gaia the Dragon Champion"
+	},
+	{
+		"id": "4044",
+		"name": "Gaia The Fierce Knight"
+	},
+	{
+		"id": "4045",
+		"name": "Curse of Dragon"
+	},
+	{
+		"id": "4046",
+		"name": "Dragon Piper"
+	},
+	{
+		"id": "4047",
+		"name": "Celtic Guardian"
+	},
+	{
+		"id": "4049",
+		"name": "Karbonala Warrior"
+	},
+	{
+		"id": "4050",
+		"name": "Rogue Doll"
+	},
+	{
+		"id": "4051",
+		"name": "Wattkid"
+	},
+	{
+		"id": "4053",
+		"name": "Torike"
+	},
+	{
+		"id": "4054",
+		"name": "Sangan"
+	},
+	{
+		"id": "4055",
+		"name": "Big Insect"
+	},
+	{
+		"id": "4056",
+		"name": "Basic Insect"
+	},
+	{
+		"id": "4057",
+		"name": "Armored Lizard"
+	},
+	{
+		"id": "4058",
+		"name": "Hercules Beetle"
+	},
+	{
+		"id": "4059",
+		"name": "Killer Needle"
+	},
+	{
+		"id": "4060",
+		"name": "Gokibore"
+	},
+	{
+		"id": "4061",
+		"name": "Giant Flea"
+	},
+	{
+		"id": "4062",
+		"name": "Larvae Moth"
+	},
+	{
+		"id": "4063",
+		"name": "Great Moth"
+	},
+	{
+		"id": "4064",
+		"name": "Kuriboh"
+	},
+	{
+		"id": "4065",
+		"name": "Mammoth Graveyard"
+	},
+	{
+		"id": "4066",
+		"name": "Great White"
+	},
+	{
+		"id": "4067",
+		"name": "Wolf"
+	},
+	{
+		"id": "4068",
+		"name": "Harpie Lady"
+	},
+	{
+		"id": "4069",
+		"name": "Harpie Lady Sisters"
+	},
+	{
+		"id": "4070",
+		"name": "Tiger Axe"
+	},
+	{
+		"id": "4071",
+		"name": "Silver Fang"
+	},
+	{
+		"id": "4073",
+		"name": "Perfectly Ultimate Great Moth"
+	},
+	{
+		"id": "4075",
+		"name": "Thousand Dragon"
+	},
+	{
+		"id": "4076",
+		"name": "Fiend Kraken"
+	},
+	{
+		"id": "4077",
+		"name": "Jellyfish"
+	},
+	{
+		"id": "4078",
+		"name": "Cocoon of Evolution"
+	},
+	{
+		"id": "4079",
+		"name": "Kairyu-Shin"
+	},
+	{
+		"id": "4080",
+		"name": "Giant Soldier of Stone"
+	},
+	{
+		"id": "4081",
+		"name": "Man-Eating Plant"
+	},
+	{
+		"id": "4082",
+		"name": "Krokodilus"
+	},
+	{
+		"id": "4084",
+		"name": "Axe Raider"
+	},
+	{
+		"id": "4085",
+		"name": "Megazowler"
+	},
+	{
+		"id": "4086",
+		"name": "Uraby"
+	},
+	{
+		"id": "4087",
+		"name": "Crawling Dragon #2"
+	},
+	{
+		"id": "4088",
+		"name": "Red-Eyes B. Dragon"
+	},
+	{
+		"id": "4089",
+		"name": "Castle of Dark Illusions"
+	},
+	{
+		"id": "4090",
+		"name": "Reaper of the Cards"
+	},
+	{
+		"id": "4091",
+		"name": "King of Yamimakai"
+	},
+	{
+		"id": "4093",
+		"name": "Dark Chimera"
+	},
+	{
+		"id": "4095",
+		"name": "Catapult Turtle"
+	},
+	{
+		"id": "4096",
+		"name": "Gyakutenno Megami"
+	},
+	{
+		"id": "4097",
+		"name": "Mystic Horseman"
+	},
+	{
+		"id": "4098",
+		"name": "Rabid Horseman"
+	},
+	{
+		"id": "4100",
+		"name": "Crawling Dragon"
+	},
+	{
+		"id": "4101",
+		"name": "Crass Clown"
+	},
+	{
+		"id": "4102",
+		"name": "Armored Zombie"
+	},
+	{
+		"id": "4103",
+		"name": "Dragon Zombie"
+	},
+	{
+		"id": "4104",
+		"name": "Clown Zombie"
+	},
+	{
+		"id": "4105",
+		"name": "Pumpking the King of Ghosts"
+	},
+	{
+		"id": "4106",
+		"name": "Battle Warrior"
+	},
+	{
+		"id": "4107",
+		"name": "Wings of Wicked Flame"
+	},
+	{
+		"id": "4108",
+		"name": "Mask of Darkness"
+	},
+	{
+		"id": "4110",
+		"name": "Curtain of the Dark Ones"
+	},
+	{
+		"id": "4111",
+		"name": "Tomozaurus"
+	},
+	{
+		"id": "4112",
+		"name": "Spirit of the Winds"
+	},
+	{
+		"id": "4113",
+		"name": "Kageningen"
+	},
+	{
+		"id": "4114",
+		"name": "Graveyard and the Hand of Invitation"
+	},
+	{
+		"id": "4115",
+		"name": "Goddess with the Third Eye"
+	},
+	{
+		"id": "4116",
+		"name": "Hero of the East"
+	},
+	{
+		"id": "4117",
+		"name": "Doma The Angel of Silence"
+	},
+	{
+		"id": "4120",
+		"name": "White Magical Hat"
+	},
+	{
+		"id": "4122",
+		"name": "Nightmare Scorpion"
+	},
+	{
+		"id": "4123",
+		"name": "Spirit of the Books"
+	},
+	{
+		"id": "4124",
+		"name": "Supporter in the Shadows"
+	},
+	{
+		"id": "4125",
+		"name": "Trial of Nightmare"
+	},
+	{
+		"id": "4126",
+		"name": "Dream Clown"
+	},
+	{
+		"id": "4128",
+		"name": "Yamatano Dragon Scroll"
+	},
+	{
+		"id": "4129",
+		"name": "Dark Plant"
+	},
+	{
+		"id": "4131",
+		"name": "Faith Bird"
+	},
+	{
+		"id": "4132",
+		"name": "Orion the Battle King"
+	},
+	{
+		"id": "4135",
+		"name": "Nemuriko"
+	},
+	{
+		"id": "4136",
+		"name": "Weather Control"
+	},
+	{
+		"id": "4138",
+		"name": "The 13th Grave"
+	},
+	{
+		"id": "4140",
+		"name": "Mystical Capture Chain"
+	},
+	{
+		"id": "4141",
+		"name": "Fiend's Hand"
+	},
+	{
+		"id": "4143",
+		"name": "Mystery Hand"
+	},
+	{
+		"id": "4144",
+		"name": "Dragon Statue"
+	},
+	{
+		"id": "4145",
+		"name": "Blue-Eyed Silver Zombie"
+	},
+	{
+		"id": "4148",
+		"name": "Flame Manipulator"
+	},
+	{
+		"id": "4149",
+		"name": "Necrolancer the Time-lord"
+	},
+	{
+		"id": "4150",
+		"name": "Djinn the Watcher of the Wind"
+	},
+	{
+		"id": "4157",
+		"name": "Rhaimundos of the Red Sword"
+	},
+	{
+		"id": "4158",
+		"name": "The Melting Red Shadow"
+	},
+	{
+		"id": "4159",
+		"name": "Dokuroizo the Grim Reaper"
+	},
+	{
+		"id": "4160",
+		"name": "Fire Reaper"
+	},
+	{
+		"id": "4162",
+		"name": "Hard Armor"
+	},
+	{
+		"id": "4163",
+		"name": "Firegrass"
+	},
+	{
+		"id": "4164",
+		"name": "Man Eater"
+	},
+	{
+		"id": "4165",
+		"name": "Dig Beak"
+	},
+	{
+		"id": "4166",
+		"name": "M-Warrior #1"
+	},
+	{
+		"id": "4167",
+		"name": "M-Warrior #2"
+	},
+	{
+		"id": "4168",
+		"name": "Tainted Wisdom"
+	},
+	{
+		"id": "4173",
+		"name": "Ancient Jar"
+	},
+	{
+		"id": "4174",
+		"name": "Darkfire Dragon"
+	},
+	{
+		"id": "4178",
+		"name": "Armaill"
+	},
+	{
+		"id": "4180",
+		"name": "Hurricail"
+	},
+	{
+		"id": "4181",
+		"name": "Ancient Brain"
+	},
+	{
+		"id": "4182",
+		"name": "Fire Eye"
+	},
+	{
+		"id": "4184",
+		"name": "Claw Reacher"
+	},
+	{
+		"id": "4185",
+		"name": "Phantom Dewan"
+	},
+	{
+		"id": "4190",
+		"name": "Genin"
+	},
+	{
+		"id": "4191",
+		"name": "Eyearmor"
+	},
+	{
+		"id": "4193",
+		"name": "Gate Deeg"
+	},
+	{
+		"id": "4194",
+		"name": "Synchar"
+	},
+	{
+		"id": "4196",
+		"name": "Akakieisu"
+	},
+	{
+		"id": "4197",
+		"name": "LaLa Li-oon"
+	},
+	{
+		"id": "4200",
+		"name": "Terra the Terrible"
+	},
+	{
+		"id": "4201",
+		"name": "Doron"
+	},
+	{
+		"id": "4204",
+		"name": "Happy Lover"
+	},
+	{
+		"id": "4206",
+		"name": "Petit Dragon"
+	},
+	{
+		"id": "4208",
+		"name": "Archfiend Marmot of Nefariousness"
+	},
+	{
+		"id": "4209",
+		"name": "Phantom Ghost"
+	},
+	{
+		"id": "4211",
+		"name": "Dorover"
+	},
+	{
+		"id": "4212",
+		"name": "Twin Long Rods #1"
+	},
+	{
+		"id": "4213",
+		"name": "Droll Bird"
+	},
+	{
+		"id": "4214",
+		"name": "Petit Angel"
+	},
+	{
+		"id": "4216",
+		"name": "Hinotama Soul"
+	},
+	{
+		"id": "4217",
+		"name": "Thunder Kid"
+	},
+	{
+		"id": "4218",
+		"name": "Meotoko"
+	},
+	{
+		"id": "4220",
+		"name": "Kagemusha of the Blue Flame"
+	},
+	{
+		"id": "4221",
+		"name": "Flame Ghost"
+	},
+	{
+		"id": "4222",
+		"name": "Doriado"
+	},
+	{
+		"id": "4223",
+		"name": "B. Skull Dragon"
+	},
+	{
+		"id": "4224",
+		"name": "Two-Mouth Darkruler"
+	},
+	{
+		"id": "4225",
+		"name": "Solitude"
+	},
+	{
+		"id": "4226",
+		"name": "Masked Sorcerer"
+	},
+	{
+		"id": "4227",
+		"name": "Kumootoko"
+	},
+	{
+		"id": "4230",
+		"name": "Trap Master"
+	},
+	{
+		"id": "4231",
+		"name": "Fiend Sword"
+	},
+	{
+		"id": "4233",
+		"name": "Hitodenchak"
+	},
+	{
+		"id": "4234",
+		"name": "Wood Remains"
+	},
+	{
+		"id": "4240",
+		"name": "Beautiful Headhuntress"
+	},
+	{
+		"id": "4242",
+		"name": "Guardian of the Labyrinth"
+	},
+	{
+		"id": "4243",
+		"name": "Haniwa"
+	},
+	{
+		"id": "4246",
+		"name": "The Drdek"
+	},
+	{
+		"id": "4248",
+		"name": "Candle of Fate"
+	},
+	{
+		"id": "4250",
+		"name": "Dissolverock"
+	},
+	{
+		"id": "4251",
+		"name": "Meda Bat"
+	},
+	{
+		"id": "4252",
+		"name": "One Who Hunts Souls"
+	},
+	{
+		"id": "4253",
+		"name": "Root Water"
+	},
+	{
+		"id": "4254",
+		"name": "Master & Expert"
+	},
+	{
+		"id": "4257",
+		"name": "Enchanting Mermaid"
+	},
+	{
+		"id": "4259",
+		"name": "Fairywitch"
+	},
+	{
+		"id": "4262",
+		"name": "D.D. Warrior"
+	},
+	{
+		"id": "4263",
+		"name": "Stone Armadiller"
+	},
+	{
+		"id": "4264",
+		"name": "Beastking of the Swamps"
+	},
+	{
+		"id": "4266",
+		"name": "Lunar Queen Elzaim"
+	},
+	{
+		"id": "4267",
+		"name": "Archfiend Mirror"
+	},
+	{
+		"id": "4270",
+		"name": "Wing Egg Elf"
+	},
+	{
+		"id": "4271",
+		"name": "The Furious Sea King"
+	},
+	{
+		"id": "4273",
+		"name": "Unknown Warrior of Fiend"
+	},
+	{
+		"id": "4274",
+		"name": "Sectarian of Secrets"
+	},
+	{
+		"id": "4275",
+		"name": "Versago the Destroyer"
+	},
+	{
+		"id": "4278",
+		"name": "Mavelus"
+	},
+	{
+		"id": "4281",
+		"name": "Ground Attacker Bugroth"
+	},
+	{
+		"id": "4283",
+		"name": "Gorgon Egg"
+	},
+	{
+		"id": "4284",
+		"name": "Petit Moth"
+	},
+	{
+		"id": "4286",
+		"name": "Protector of the Throne"
+	},
+	{
+		"id": "4289",
+		"name": "Holograh"
+	},
+	{
+		"id": "4290",
+		"name": "Tao the Chanter"
+	},
+	{
+		"id": "4291",
+		"name": "Serpent Marauder"
+	},
+	{
+		"id": "4292",
+		"name": "Gatekeeper"
+	},
+	{
+		"id": "4293",
+		"name": "Ogre of the Black Shadow"
+	},
+	{
+		"id": "4297",
+		"name": "Fireyarou"
+	},
+	{
+		"id": "4299",
+		"name": "Masaki the Legendary Swordsman"
+	},
+	{
+		"id": "4301",
+		"name": "Bio Plant"
+	},
+	{
+		"id": "4302",
+		"name": "One-Eyed Shield Dragon"
+	},
+	{
+		"id": "4304",
+		"name": "Wicked Dragon with the Ersatz Head"
+	},
+	{
+		"id": "4305",
+		"name": "Sonic Maid"
+	},
+	{
+		"id": "4306",
+		"name": "Kurama"
+	},
+	{
+		"id": "4307",
+		"name": "Legendary Sword"
+	},
+	{
+		"id": "4308",
+		"name": "Sword of Dark Destruction"
+	},
+	{
+		"id": "4309",
+		"name": "Dark Energy"
+	},
+	{
+		"id": "4311",
+		"name": "Laser Cannon Armor"
+	},
+	{
+		"id": "4312",
+		"name": "Insect Armor with Laser Cannon"
+	},
+	{
+		"id": "4313",
+		"name": "Elf's Light"
+	},
+	{
+		"id": "4314",
+		"name": "Beast Fangs"
+	},
+	{
+		"id": "4315",
+		"name": "Steel Shell"
+	},
+	{
+		"id": "4316",
+		"name": "Vile Germs"
+	},
+	{
+		"id": "4317",
+		"name": "Black Pendant"
+	},
+	{
+		"id": "4318",
+		"name": "Silver Bow and Arrow"
+	},
+	{
+		"id": "4320",
+		"name": "Horn of the Unicorn"
+	},
+	{
+		"id": "4321",
+		"name": "Dragon Treasure"
+	},
+	{
+		"id": "4322",
+		"name": "Electro-Whip"
+	},
+	{
+		"id": "4323",
+		"name": "Cyber Shield"
+	},
+	{
+		"id": "4324",
+		"name": "Elegant Egotist"
+	},
+	{
+		"id": "4325",
+		"name": "Mystical Moon"
+	},
+	{
+		"id": "4326",
+		"name": "Stop Defense"
+	},
+	{
+		"id": "4328",
+		"name": "Violet Crystal"
+	},
+	{
+		"id": "4329",
+		"name": "Book of Secret Arts"
+	},
+	{
+		"id": "4330",
+		"name": "Invigoration"
+	},
+	{
+		"id": "4331",
+		"name": "Machine Conversion Factory"
+	},
+	{
+		"id": "4332",
+		"name": "Raise Body Heat"
+	},
+	{
+		"id": "4333",
+		"name": "Follow Wind"
+	},
+	{
+		"id": "4334",
+		"name": "Power of Kaishin"
+	},
+	{
+		"id": "4335",
+		"name": "Dragon Capture Jar"
+	},
+	{
+		"id": "4336",
+		"name": "Forest"
+	},
+	{
+		"id": "4337",
+		"name": "Wasteland"
+	},
+	{
+		"id": "4338",
+		"name": "Mountain"
+	},
+	{
+		"id": "4339",
+		"name": "Sogen"
+	},
+	{
+		"id": "4340",
+		"name": "Umi"
+	},
+	{
+		"id": "4341",
+		"name": "Yami"
+	},
+	{
+		"id": "4344",
+		"name": "Mooyan Curry"
+	},
+	{
+		"id": "4345",
+		"name": "Red Medicine"
+	},
+	{
+		"id": "4346",
+		"name": "Goblin's Secret Remedy"
+	},
+	{
+		"id": "4347",
+		"name": "Soul of the Pure"
+	},
+	{
+		"id": "4348",
+		"name": "Dian Keto the Cure Master"
+	},
+	{
+		"id": "4349",
+		"name": "Sparks"
+	},
+	{
+		"id": "4350",
+		"name": "Hinotama"
+	},
+	{
+		"id": "4351",
+		"name": "Final Flame"
+	},
+	{
+		"id": "4356",
+		"name": "Dark-Piercing Light"
+	},
+	{
+		"id": "4357",
+		"name": "Yaranzo"
+	},
+	{
+		"id": "4359",
+		"name": "Takriminos"
+	},
+	{
+		"id": "4361",
+		"name": "Megasonic Eye"
+	},
+	{
+		"id": "4362",
+		"name": "Super War-Lion"
+	},
+	{
+		"id": "4364",
+		"name": "Seiyaryu"
+	},
+	{
+		"id": "4365",
+		"name": "Three-Legged Zombies"
+	},
+	{
+		"id": "4366",
+		"name": "Zera the Mant"
+	},
+	{
+		"id": "4369",
+		"name": "Fairy's Gift"
+	},
+	{
+		"id": "4370",
+		"name": "Black Luster Soldier"
+	},
+	{
+		"id": "4371",
+		"name": "Fiend's Mirror"
+	},
+	{
+		"id": "4372",
+		"name": "Labyrinth Wall"
+	},
+	{
+		"id": "4373",
+		"name": "Jirai Gumo"
+	},
+	{
+		"id": "4374",
+		"name": "Shadow Ghoul"
+	},
+	{
+		"id": "4375",
+		"name": "Wall Shadow"
+	},
+	{
+		"id": "4376",
+		"name": "Labyrinth Tank"
+	},
+	{
+		"id": "4377",
+		"name": "Sanga of the Thunder"
+	},
+	{
+		"id": "4378",
+		"name": "Kazejin"
+	},
+	{
+		"id": "4379",
+		"name": "Suijin"
+	},
+	{
+		"id": "4380",
+		"name": "Gate Guardian"
+	},
+	{
+		"id": "4381",
+		"name": "Dungeon Worm"
+	},
+	{
+		"id": "4382",
+		"name": "Monster Tamer"
+	},
+	{
+		"id": "4383",
+		"name": "Ryu-Kishin Powered"
+	},
+	{
+		"id": "4384",
+		"name": "Swordstalker"
+	},
+	{
+		"id": "4385",
+		"name": "La Jinn the Mystical Genie of the Lamp"
+	},
+	{
+		"id": "4386",
+		"name": "Blue-Eyes Ultimate Dragon"
+	},
+	{
+		"id": "4387",
+		"name": "Toon Alligator"
+	},
+	{
+		"id": "4388",
+		"name": "Rude Kaiser"
+	},
+	{
+		"id": "4389",
+		"name": "Parrot Dragon"
+	},
+	{
+		"id": "4390",
+		"name": "Dark Rabbit"
+	},
+	{
+		"id": "4391",
+		"name": "Bickuribox"
+	},
+	{
+		"id": "4392",
+		"name": "Harpie's Pet Dragon"
+	},
+	{
+		"id": "4394",
+		"name": "Pendulum Machine"
+	},
+	{
+		"id": "4395",
+		"name": "Giltia the D. Knight"
+	},
+	{
+		"id": "4396",
+		"name": "Launcher Spider"
+	},
+	{
+		"id": "4397",
+		"name": "Zoa"
+	},
+	{
+		"id": "4398",
+		"name": "Metalzoa"
+	},
+	{
+		"id": "4399",
+		"name": "Zone Eater"
+	},
+	{
+		"id": "4401",
+		"name": "Dancing Elf"
+	},
+	{
+		"id": "4403",
+		"name": "Leghul"
+	},
+	{
+		"id": "4404",
+		"name": "Ooguchi"
+	},
+	{
+		"id": "4408",
+		"name": "Monster Eye"
+	},
+	{
+		"id": "4410",
+		"name": "Tatsunootoshigo"
+	},
+	{
+		"id": "4412",
+		"name": "Yaiba Robo"
+	},
+	{
+		"id": "4413",
+		"name": "Machine King"
+	},
+	{
+		"id": "4417",
+		"name": "Bat"
+	},
+	{
+		"id": "4418",
+		"name": "Giga-Tech Wolf"
+	},
+	{
+		"id": "4426",
+		"name": "Cyber-Stein"
+	},
+	{
+		"id": "4428",
+		"name": "Jinzo #7"
+	},
+	{
+		"id": "4431",
+		"name": "Thunder Dragon"
+	},
+	{
+		"id": "4432",
+		"name": "Stone Dragon"
+	},
+	{
+		"id": "4435",
+		"name": "Goddess of Whim"
+	},
+	{
+		"id": "4439",
+		"name": "Ancient Elf"
+	},
+	{
+		"id": "4442",
+		"name": "White Dolphin"
+	},
+	{
+		"id": "4443",
+		"name": "Deepsea Shark"
+	},
+	{
+		"id": "4445",
+		"name": "Bottom Dweller"
+	},
+	{
+		"id": "4450",
+		"name": "Turu-Purun"
+	},
+	{
+		"id": "4451",
+		"name": "Sentinel of the Seas"
+	},
+	{
+		"id": "4454",
+		"name": "Spike Seadra"
+	},
+	{
+		"id": "4460",
+		"name": "Destroyer Golem"
+	},
+	{
+		"id": "4465",
+		"name": "Tripwire Beast"
+	},
+	{
+		"id": "4468",
+		"name": "The Immortal of Thunder"
+	},
+	{
+		"id": "4471",
+		"name": "Punished Eagle"
+	},
+	{
+		"id": "4472",
+		"name": "Skull Red Bird"
+	},
+	{
+		"id": "4473",
+		"name": "Crimson Sunbird"
+	},
+	{
+		"id": "4475",
+		"name": "Armed Ninja"
+	},
+	{
+		"id": "4481",
+		"name": "Sinister Serpent"
+	},
+	{
+		"id": "4484",
+		"name": "Insect Soldiers of the Sky"
+	},
+	{
+		"id": "4488",
+		"name": "Pragtical"
+	},
+	{
+		"id": "4493",
+		"name": "Flower Wolf"
+	},
+	{
+		"id": "4496",
+		"name": "Needle Ball"
+	},
+	{
+		"id": "4497",
+		"name": "Peacock"
+	},
+	{
+		"id": "4498",
+		"name": "Hoshiningen"
+	},
+	{
+		"id": "4505",
+		"name": "Kattapillar"
+	},
+	{
+		"id": "4506",
+		"name": "Dragon Seeker"
+	},
+	{
+		"id": "4507",
+		"name": "Man-Eater Bug"
+	},
+	{
+		"id": "4515",
+		"name": "Bracchio-raidus"
+	},
+	{
+		"id": "4518",
+		"name": "Cannon Soldier"
+	},
+	{
+		"id": "4519",
+		"name": "Guardian of the Throne Room"
+	},
+	{
+		"id": "4520",
+		"name": "Brave Scizzar"
+	},
+	{
+		"id": "4522",
+		"name": "Muka Muka"
+	},
+	{
+		"id": "4529",
+		"name": "The Bistro Butcher"
+	},
+	{
+		"id": "4530",
+		"name": "Star Boy"
+	},
+	{
+		"id": "4531",
+		"name": "Spirit of the Mountain"
+	},
+	{
+		"id": "4533",
+		"name": "Milus Radiant"
+	},
+	{
+		"id": "4538",
+		"name": "Gemini Elf"
+	},
+	{
+		"id": "4541",
+		"name": "Kamakiriman"
+	},
+	{
+		"id": "4543",
+		"name": "Mega Thunderball"
+	},
+	{
+		"id": "4544",
+		"name": "Niwatori"
+	},
+	{
+		"id": "4546",
+		"name": "Skelengel"
+	},
+	{
+		"id": "4547",
+		"name": "Hane-Hane"
+	},
+	{
+		"id": "4549",
+		"name": "Tongyo"
+	},
+	{
+		"id": "4551",
+		"name": "Skelgon"
+	},
+	{
+		"id": "4553",
+		"name": "Griggle"
+	},
+	{
+		"id": "4559",
+		"name": "Mushroom Man #2"
+	},
+	{
+		"id": "4560",
+		"name": "Lava Battleguard"
+	},
+	{
+		"id": "4562",
+		"name": "The Wandering Doomed"
+	},
+	{
+		"id": "4565",
+		"name": "Oscillo Hero"
+	},
+	{
+		"id": "4567",
+		"name": "Lesser Dragon"
+	},
+	{
+		"id": "4570",
+		"name": "Great Mammoth of Goldfine"
+	},
+	{
+		"id": "4572",
+		"name": "Yormungarde"
+	},
+	{
+		"id": "4573",
+		"name": "Darkworld Thorns"
+	},
+	{
+		"id": "4574",
+		"name": "Anthrosaurus"
+	},
+	{
+		"id": "4575",
+		"name": "Drooling Lizard"
+	},
+	{
+		"id": "4576",
+		"name": "Trakodon"
+	},
+	{
+		"id": "4579",
+		"name": "Little D"
+	},
+	{
+		"id": "4585",
+		"name": "Abyss Flower"
+	},
+	{
+		"id": "4586",
+		"name": "Patrol Robo"
+	},
+	{
+		"id": "4588",
+		"name": "Dark Witch"
+	},
+	{
+		"id": "4592",
+		"name": "Greenkappa"
+	},
+	{
+		"id": "4595",
+		"name": "Tentacle Plant"
+	},
+	{
+		"id": "4599",
+		"name": "Giant Turtle Who Feeds on Flames"
+	},
+	{
+		"id": "4600",
+		"name": "Rose Spectre of Dunn"
+	},
+	{
+		"id": "4604",
+		"name": "Little Chimera"
+	},
+	{
+		"id": "4605",
+		"name": "Violent Rain"
+	},
+	{
+		"id": "4609",
+		"name": "Fairy Dragon"
+	},
+	{
+		"id": "4612",
+		"name": "Twin Long Rods #2"
+	},
+	{
+		"id": "4614",
+		"name": "Shining Friendship"
+	},
+	{
+		"id": "4615",
+		"name": "Bladefly"
+	},
+	{
+		"id": "4616",
+		"name": "Electric Lizard"
+	},
+	{
+		"id": "4617",
+		"name": "Hiro's Shadow Scout"
+	},
+	{
+		"id": "4618",
+		"name": "Lady of Faith"
+	},
+	{
+		"id": "4619",
+		"name": "Twin-Headed Thunder Dragon"
+	},
+	{
+		"id": "4620",
+		"name": "Hunter Spider"
+	},
+	{
+		"id": "4622",
+		"name": "Hourglass of Courage"
+	},
+	{
+		"id": "4624",
+		"name": "Warrior of Tradition"
+	},
+	{
+		"id": "4625",
+		"name": "Rock Spirit"
+	},
+	{
+		"id": "4626",
+		"name": "Snakeyashi"
+	},
+	{
+		"id": "4630",
+		"name": "High Tide Gyojin"
+	},
+	{
+		"id": "4634",
+		"name": "Witch's Apprentice"
+	},
+	{
+		"id": "4636",
+		"name": "Ancient Lizard Warrior"
+	},
+	{
+		"id": "4637",
+		"name": "Maiden of the Moonlight"
+	},
+	{
+		"id": "4642",
+		"name": "Blue-Winged Crown"
+	},
+	{
+		"id": "4647",
+		"name": "Invader of the Throne"
+	},
+	{
+		"id": "4648",
+		"name": "Mystical Sheep #1"
+	},
+	{
+		"id": "4650",
+		"name": "Flame Viper"
+	},
+	{
+		"id": "4656",
+		"name": "Whiptail Crow"
+	},
+	{
+		"id": "4657",
+		"name": "Kunai with Chain"
+	},
+	{
+		"id": "4658",
+		"name": "Magical Labyrinth"
+	},
+	{
+		"id": "4659",
+		"name": "Warrior Elimination"
+	},
+	{
+		"id": "4660",
+		"name": "Salamandra"
+	},
+	{
+		"id": "4663",
+		"name": "Megamorph"
+	},
+	{
+		"id": "4664",
+		"name": "Metalmorph"
+	},
+	{
+		"id": "4666",
+		"name": "Acid Rain"
+	},
+	{
+		"id": "4668",
+		"name": "Eradicating Aerosol"
+	},
+	{
+		"id": "4669",
+		"name": "Breath of Light"
+	},
+	{
+		"id": "4670",
+		"name": "Eternal Drought"
+	},
+	{
+		"id": "4674",
+		"name": "Shine Palace"
+	},
+	{
+		"id": "4675",
+		"name": "Shadow Spell"
+	},
+	{
+		"id": "4676",
+		"name": "Black Luster Ritual"
+	},
+	{
+		"id": "4677",
+		"name": "Zera Ritual"
+	},
+	{
+		"id": "4678",
+		"name": "Harpie's Feather Duster"
+	},
+	{
+		"id": "4679",
+		"name": "War-Lion Ritual"
+	},
+	{
+		"id": "4680",
+		"name": "Beastly Mirror Ritual"
+	},
+	{
+		"id": "4682",
+		"name": "Commencement Dance"
+	},
+	{
+		"id": "4683",
+		"name": "Hamburger Recipe"
+	},
+	{
+		"id": "4685",
+		"name": "Novox's Prayer"
+	},
+	{
+		"id": "4687",
+		"name": "House of Adhesive Tape"
+	},
+	{
+		"id": "4688",
+		"name": "Eatgaboon"
+	},
+	{
+		"id": "4692",
+		"name": "Widespread Ruin"
+	},
+	{
+		"id": "4694",
+		"name": "Bad Reaction to Simochi"
+	},
+	{
+		"id": "4695",
+		"name": "Reverse Trap"
+	},
+	{
+		"id": "4696",
+		"name": "Fake Trap"
+	},
+	{
+		"id": "4698",
+		"name": "Turtle Oath"
+	},
+	{
+		"id": "4700",
+		"name": "Resurrection of Chakra"
+	},
+	{
+		"id": "4702",
+		"name": "Javelin Beetle Pact"
+	},
+	{
+		"id": "4703",
+		"name": "Garma Sword Oath"
+	},
+	{
+		"id": "4705",
+		"name": "Revival of Dokurorider"
+	},
+	{
+		"id": "4706",
+		"name": "Fortress Whale's Oath"
+	},
+	{
+		"id": "4707",
+		"name": "Performance of Sword"
+	},
+	{
+		"id": "4708",
+		"name": "Hungry Burger"
+	},
+	{
+		"id": "4710",
+		"name": "Skull Guardian"
+	},
+	{
+		"id": "4712",
+		"name": "Serpent Night Dragon"
+	},
+	{
+		"id": "4713",
+		"name": "Skull Knight"
+	},
+	{
+		"id": "4714",
+		"name": "Cosmo Queen"
+	},
+	{
+		"id": "4715",
+		"name": "Chakra"
+	},
+	{
+		"id": "4716",
+		"name": "Crab Turtle"
+	},
+	{
+		"id": "4718",
+		"name": "Meteor Dragon"
+	},
+	{
+		"id": "4719",
+		"name": "Meteor B. Dragon"
+	},
+	{
+		"id": "4722",
+		"name": "Garma Sword"
+	},
+	{
+		"id": "4723",
+		"name": "Javelin Beetle"
+	},
+	{
+		"id": "4724",
+		"name": "Fortress Whale"
+	},
+	{
+		"id": "4725",
+		"name": "Dokurorider"
+	},
+	{
+		"id": "4727",
+		"name": "Black Magic Ritual"
+	},
+	{
+		"id": "4728",
+		"name": "Magician of Black Chaos"
+	},
+	{
+		"id": "4729",
+		"name": "Slot Machine"
+	},
+	{
+		"id": "4731",
+		"name": "Red Archery Girl"
+	},
+	{
+		"id": "4733",
+		"name": "Manga Ryu-Ran"
+	},
+	{
+		"id": "4734",
+		"name": "Toon Mermaid"
+	},
+	{
+		"id": "4735",
+		"name": "Toon Summoned Skull"
+	},
+	{
+		"id": "4736",
+		"name": "Dark-Eyes Illusionist"
+	},
+	{
+		"id": "4737",
+		"name": "Relinquished"
+	},
+	{
+		"id": "4738",
+		"name": "Jigen Bakudan"
+	},
+	{
+		"id": "4739",
+		"name": "Thousand-Eyes Idol"
+	},
+	{
+		"id": "4743",
+		"name": "Hyozanryu"
+	},
+	{
+		"id": "4744",
+		"name": "Alpha The Magnet Warrior"
+	},
+	{
+		"id": "4745",
+		"name": "Legion the Fiend Jester"
+	},
+	{
+		"id": "4747",
+		"name": "Lord of D."
+	},
+	{
+		"id": "4748",
+		"name": "Red-Eyes Black Metal Dragon"
+	},
+	{
+		"id": "4749",
+		"name": "Barrel Dragon"
+	},
+	{
+		"id": "4752",
+		"name": "Three-Headed Geedo"
+	},
+	{
+		"id": "4753",
+		"name": "Gazelle the King of Mythical Beasts"
+	},
+	{
+		"id": "4755",
+		"name": "Berfomet"
+	},
+	{
+		"id": "4756",
+		"name": "Chimera the Flying Mythical Beast"
+	},
+	{
+		"id": "4760",
+		"name": "Cyber Raider"
+	},
+	{
+		"id": "4761",
+		"name": "The Fiend Megacyber"
+	},
+	{
+		"id": "4763",
+		"name": "Beta The Magnet Warrior"
+	},
+	{
+		"id": "4764",
+		"name": "Big Shield Gardna"
+	},
+	{
+		"id": "4766",
+		"name": "Dark Magician Girl"
+	},
+	{
+		"id": "4767",
+		"name": "Alligator's Sword"
+	},
+	{
+		"id": "4768",
+		"name": "Insect Queen"
+	},
+	{
+		"id": "4769",
+		"name": "Parasite Paracide"
+	},
+	{
+		"id": "4770",
+		"name": "Skull-Mark Ladybug"
+	},
+	{
+		"id": "4771",
+		"name": "Little-Winguard"
+	},
+	{
+		"id": "4772",
+		"name": "Pinch Hopper"
+	},
+	{
+		"id": "4773",
+		"name": "Blue-Eyes Toon Dragon"
+	},
+	{
+		"id": "4774",
+		"name": "Sword Hunter"
+	},
+	{
+		"id": "4775",
+		"name": "Drill Bug"
+	},
+	{
+		"id": "4776",
+		"name": "Deepsea Warrior"
+	},
+	{
+		"id": "4777",
+		"name": "Bite Shoes"
+	},
+	{
+		"id": "4786",
+		"name": "Dunames Dark Witch"
+	},
+	{
+		"id": "4789",
+		"name": "Beast of Talwar"
+	},
+	{
+		"id": "4792",
+		"name": "Gamma The Magnet Warrior"
+	},
+	{
+		"id": "4794",
+		"name": "Time Machine"
+	},
+	{
+		"id": "4795",
+		"name": "Copycat"
+	},
+	{
+		"id": "4798",
+		"name": "Toon World"
+	},
+	{
+		"id": "4799",
+		"name": "Gorgon's Eye"
+	},
+	{
+		"id": "4800",
+		"name": "Mimicat"
+	},
+	{
+		"id": "4802",
+		"name": "Black Illusion Ritual"
+	},
+	{
+		"id": "4804",
+		"name": "Negate Attack"
+	},
+	{
+		"id": "4805",
+		"name": "Multiply"
+	},
+	{
+		"id": "4806",
+		"name": "7 Completed"
+	},
+	{
+		"id": "4808",
+		"name": "Lightforce Sword"
+	},
+	{
+		"id": "4810",
+		"name": "The Flute of Summoning Dragon"
+	},
+	{
+		"id": "4811",
+		"name": "Shield & Sword"
+	},
+	{
+		"id": "4813",
+		"name": "Chain Destruction"
+	},
+	{
+		"id": "4814",
+		"name": "Mesmeric Control"
+	},
+	{
+		"id": "4815",
+		"name": "Graceful Dice"
+	},
+	{
+		"id": "4816",
+		"name": "Skull Dice"
+	},
+	{
+		"id": "4822",
+		"name": "Dark Renewal"
+	},
+	{
+		"id": "4823",
+		"name": "Tragedy"
+	},
+	{
+		"id": "4828",
+		"name": "Ectoplasmer"
+	},
+	{
+		"id": "4830",
+		"name": "Dark Magic Curtain"
+	},
+	{
+		"id": "4831",
+		"name": "Anti-Magic Arrows"
+	},
+	{
+		"id": "4834",
+		"name": "Magical Arm Shield"
+	},
+	{
+		"id": "4837",
+		"name": "Polymerization"
+	},
+	{
+		"id": "4838",
+		"name": "Remove Trap"
+	},
+	{
+		"id": "4839",
+		"name": "Two-Pronged Attack"
+	},
+	{
+		"id": "4840",
+		"name": "Blue Medicine"
+	},
+	{
+		"id": "4841",
+		"name": "Raimei"
+	},
+	{
+		"id": "4842",
+		"name": "Monster Reborn"
+	},
+	{
+		"id": "4843",
+		"name": "De-Spell"
+	},
+	{
+		"id": "4845",
+		"name": "Gravedigger Ghoul"
+	},
+	{
+		"id": "4846",
+		"name": "Burning Spear"
+	},
+	{
+		"id": "4847",
+		"name": "Gust Fan"
+	},
+	{
+		"id": "4848",
+		"name": "The Inexperienced Spy"
+	},
+	{
+		"id": "4849",
+		"name": "Reinforcements"
+	},
+	{
+		"id": "4850",
+		"name": "Castle Walls"
+	},
+	{
+		"id": "4852",
+		"name": "Ancient Telescope"
+	},
+	{
+		"id": "4856",
+		"name": "Tribute to The Doomed"
+	},
+	{
+		"id": "4858",
+		"name": "The Cheerful Coffin"
+	},
+	{
+		"id": "4862",
+		"name": "Magic Jammer"
+	},
+	{
+		"id": "4863",
+		"name": "Seven Tools of the Bandit"
+	},
+	{
+		"id": "4867",
+		"name": "Polymerization"
+	},
+	{
+		"id": "4868",
+		"name": "Last Day of Witch"
+	},
+	{
+		"id": "4869",
+		"name": "Exile of the Wicked"
+	},
+	{
+		"id": "4871",
+		"name": "Restructer Revolution"
+	},
+	{
+		"id": "4872",
+		"name": "Fusion Sage"
+	},
+	{
+		"id": "4873",
+		"name": "Sword of Deep-Seated"
+	},
+	{
+		"id": "4874",
+		"name": "Block Attack"
+	},
+	{
+		"id": "4877",
+		"name": "Germ Infection"
+	},
+	{
+		"id": "4878",
+		"name": "Paralyzing Potion"
+	},
+	{
+		"id": "4879",
+		"name": "The Stern Mystic"
+	},
+	{
+		"id": "4881",
+		"name": "Neo the Magic Swordsman"
+	},
+	{
+		"id": "4883",
+		"name": "Man-Eating Treasure Chest"
+	},
+	{
+		"id": "4884",
+		"name": "Sorcerer of the Doomed"
+	},
+	{
+		"id": "4888",
+		"name": "Ring of Magnetism"
+	},
+	{
+		"id": "4890",
+		"name": "Stim-Pack"
+	},
+	{
+		"id": "4897",
+		"name": "Final Destiny"
+	},
+	{
+		"id": "4903",
+		"name": "Fairy's Hand Mirror"
+	},
+	{
+		"id": "4904",
+		"name": "Tailor of the Fickle"
+	},
+	{
+		"id": "4906",
+		"name": "The Reliable Guardian"
+	},
+	{
+		"id": "4912",
+		"name": "Snake Fang"
+	},
+	{
+		"id": "4916",
+		"name": "Senju of the Thousand Hands"
+	},
+	{
+		"id": "4918",
+		"name": "Flash Assailant"
+	},
+	{
+		"id": "4919",
+		"name": "Karate Man"
+	},
+	{
+		"id": "4925",
+		"name": "Boar Soldier"
+	},
+	{
+		"id": "4927",
+		"name": "Flying Kamakiri #1"
+	},
+	{
+		"id": "4929",
+		"name": "Sonic Bird"
+	},
+	{
+		"id": "4930",
+		"name": "Mystic Tomato"
+	},
+	{
+		"id": "4932",
+		"name": "Gaia Power"
+	},
+	{
+		"id": "4933",
+		"name": "Umiiruka"
+	},
+	{
+		"id": "4934",
+		"name": "Molten Destruction"
+	},
+	{
+		"id": "4935",
+		"name": "Rising Air Current"
+	},
+	{
+		"id": "4936",
+		"name": "Luminous Spark"
+	},
+	{
+		"id": "4937",
+		"name": "Mystic Plasma Zone"
+	},
+	{
+		"id": "4939",
+		"name": "Michizure"
+	},
+	{
+		"id": "4940",
+		"name": "Gust"
+	},
+	{
+		"id": "4945",
+		"name": "Metal Detector"
+	},
+	{
+		"id": "4946",
+		"name": "Numinous Healer"
+	},
+	{
+		"id": "4950",
+		"name": "Gamble"
+	},
+	{
+		"id": "4951",
+		"name": "DNA Surgery"
+	},
+	{
+		"id": "4952",
+		"name": "The Regulation of Tribe"
+	},
+	{
+		"id": "4953",
+		"name": "Backup Soldier"
+	},
+	{
+		"id": "4954",
+		"name": "Attack and Receive"
+	},
+	{
+		"id": "4961",
+		"name": "Skull Invitation"
+	},
+	{
+		"id": "4962",
+		"name": "Magical Hats"
+	},
+	{
+		"id": "4964",
+		"name": "Nobleman of Extermination"
+	},
+	{
+		"id": "4965",
+		"name": "The Shallow Grave"
+	},
+	{
+		"id": "4970",
+		"name": "Bubonic Vermin"
+	},
+	{
+		"id": "4972",
+		"name": "Twin-Headed Fire Dragon"
+	},
+	{
+		"id": "4973",
+		"name": "Darkfire Soldier #1"
+	},
+	{
+		"id": "4975",
+		"name": "Darkfire Soldier #2"
+	},
+	{
+		"id": "4976",
+		"name": "Kiseitai"
+	},
+	{
+		"id": "4977",
+		"name": "Cyber Falcon"
+	},
+	{
+		"id": "4979",
+		"name": "Flying Kamakiri #2"
+	},
+	{
+		"id": "4981",
+		"name": "Oni Tank T-34"
+	},
+	{
+		"id": "4982",
+		"name": "Overdrive"
+	},
+	{
+		"id": "4983",
+		"name": "Buster Blader"
+	},
+	{
+		"id": "4985",
+		"name": "Graverobber"
+	},
+	{
+		"id": "4986",
+		"name": "Gift of The Mystical Elf"
+	},
+	{
+		"id": "4987",
+		"name": "The Eye of Truth"
+	},
+	{
+		"id": "4989",
+		"name": "Call of the Haunted"
+	},
+	{
+		"id": "4991",
+		"name": "Earthshaker"
+	},
+	{
+		"id": "4992",
+		"name": "Enchanted Javelin"
+	},
+	{
+		"id": "4993",
+		"name": "Mirror Wall"
+	},
+	{
+		"id": "5001",
+		"name": "Windstorm of Etaqua"
+	},
+	{
+		"id": "5002",
+		"name": "Valkyrion the Magna Warrior"
+	},
+	{
+		"id": "5003",
+		"name": "Alligator's Sword Dragon"
+	},
+	{
+		"id": "5004",
+		"name": "Vorse Raider"
+	},
+	{
+		"id": "5006",
+		"name": "Aqua Chorus"
+	},
+	{
+		"id": "5007",
+		"name": "Sebek's Blessing"
+	},
+	{
+		"id": "5009",
+		"name": "Riryoku"
+	},
+	{
+		"id": "5010",
+		"name": "Sword of Dragon's Soul"
+	},
+	{
+		"id": "5011",
+		"name": "Seal of the Ancients"
+	},
+	{
+		"id": "5015",
+		"name": "Luminous Soldier"
+	},
+	{
+		"id": "5018",
+		"name": "Wolf Axwielder"
+	},
+	{
+		"id": "5019",
+		"name": "The Illusory Gentleman"
+	},
+	{
+		"id": "5021",
+		"name": "Birdface"
+	},
+	{
+		"id": "5023",
+		"name": "Airknight Parshath"
+	},
+	{
+		"id": "5024",
+		"name": "Fairy King Truesdale"
+	},
+	{
+		"id": "5028",
+		"name": "Thunder Nyan Nyan"
+	},
+	{
+		"id": "5030",
+		"name": "Twin-Headed Behemoth"
+	},
+	{
+		"id": "5032",
+		"name": "Woodland Sprite"
+	},
+	{
+		"id": "5033",
+		"name": "Arsenal Bug"
+	},
+	{
+		"id": "5035",
+		"name": "Jowls of Dark Demise"
+	},
+	{
+		"id": "5042",
+		"name": "Mucus Yolk"
+	},
+	{
+		"id": "5043",
+		"name": "Servant of Catabolism"
+	},
+	{
+		"id": "5044",
+		"name": "Rigorous Reaver"
+	},
+	{
+		"id": "5045",
+		"name": "Moisture Creature"
+	},
+	{
+		"id": "5053",
+		"name": "Sonic Jammer"
+	},
+	{
+		"id": "5059",
+		"name": "Gearfried the Iron Knight"
+	},
+	{
+		"id": "5063",
+		"name": "Revival Jam"
+	},
+	{
+		"id": "5065",
+		"name": "Flying Fish"
+	},
+	{
+		"id": "5067",
+		"name": "Rocket Warrior"
+	},
+	{
+		"id": "5069",
+		"name": "The Legendary Fisherman"
+	},
+	{
+		"id": "5072",
+		"name": "Robolady"
+	},
+	{
+		"id": "5073",
+		"name": "Roboyarou"
+	},
+	{
+		"id": "5079",
+		"name": "Lightning Conger"
+	},
+	{
+		"id": "5093",
+		"name": "Grand Tiki Elder"
+	},
+	{
+		"id": "5095",
+		"name": "Melchid the Four-Face Beast"
+	},
+	{
+		"id": "5096",
+		"name": "Nuvia the Wicked"
+	},
+	{
+		"id": "5097",
+		"name": "Masked Beast Des Gardius"
+	},
+	{
+		"id": "5098",
+		"name": "The Mask of Remnants"
+	},
+	{
+		"id": "5099",
+		"name": "Soul Exchange"
+	},
+	{
+		"id": "5101",
+		"name": "Chosen One"
+	},
+	{
+		"id": "5102",
+		"name": "Mask of Weakness"
+	},
+	{
+		"id": "5104",
+		"name": "Mask of Dispel"
+	},
+	{
+		"id": "5107",
+		"name": "Mask of the Accursed"
+	},
+	{
+		"id": "5109",
+		"name": "Return of the Doomed"
+	},
+	{
+		"id": "5110",
+		"name": "Lightning Blade"
+	},
+	{
+		"id": "5111",
+		"name": "Tornado Wall"
+	},
+	{
+		"id": "5112",
+		"name": "Infinite Dismissal"
+	},
+	{
+		"id": "5116",
+		"name": "Multiplication of Ants"
+	},
+	{
+		"id": "5118",
+		"name": "De-Fusion"
+	},
+	{
+		"id": "5119",
+		"name": "Jam Breeding Machine"
+	},
+	{
+		"id": "5120",
+		"name": "Nightmare's Steelcage"
+	},
+	{
+		"id": "5122",
+		"name": "Jam Defender"
+	},
+	{
+		"id": "5124",
+		"name": "Magic Cylinder"
+	},
+	{
+		"id": "5125",
+		"name": "Solemn Wishes"
+	},
+	{
+		"id": "5126",
+		"name": "Burning Land"
+	},
+	{
+		"id": "5128",
+		"name": "Fairy Meteor Crush"
+	},
+	{
+		"id": "5130",
+		"name": "Shift"
+	},
+	{
+		"id": "5131",
+		"name": "Insect Imitation"
+	},
+	{
+		"id": "5132",
+		"name": "Dimensionhole"
+	},
+	{
+		"id": "5133",
+		"name": "Magic Drain"
+	},
+	{
+		"id": "5135",
+		"name": "Shadow of Eyes"
+	},
+	{
+		"id": "5138",
+		"name": "Bombardment Beetle"
+	},
+	{
+		"id": "5139",
+		"name": "4-Starred Ladybug of Doom"
+	},
+	{
+		"id": "5140",
+		"name": "Gradius"
+	},
+	{
+		"id": "5141",
+		"name": "Vampire Baby"
+	},
+	{
+		"id": "5142",
+		"name": "Mad Sword Beast"
+	},
+	{
+		"id": "5143",
+		"name": "Skull Mariner"
+	},
+	{
+		"id": "5149",
+		"name": "Souls of the Forgotten"
+	},
+	{
+		"id": "5151",
+		"name": "Rain of Mercy"
+	},
+	{
+		"id": "5152",
+		"name": "Monster Recovery"
+	},
+	{
+		"id": "5153",
+		"name": "Type Zero Magic Crusher"
+	},
+	{
+		"id": "5161",
+		"name": "Yellow Luster Shield"
+	},
+	{
+		"id": "5165",
+		"name": "Dark Magician"
+	},
+	{
+		"id": "5166",
+		"name": "Thousand Knives"
+	},
+	{
+		"id": "5168",
+		"name": "Mystic Box"
+	},
+	{
+		"id": "5194",
+		"name": "The Unfriendly Amazon"
+	},
+	{
+		"id": "5195",
+		"name": "Amazoness Archer"
+	},
+	{
+		"id": "5197",
+		"name": "Fire Princess"
+	},
+	{
+		"id": "5198",
+		"name": "Lady Assailant of Flames"
+	},
+	{
+		"id": "5199",
+		"name": "Fire Sorcerer"
+	},
+	{
+		"id": "5200",
+		"name": "Spirit of the Breeze"
+	},
+	{
+		"id": "5202",
+		"name": "Fairy Guardian"
+	},
+	{
+		"id": "5203",
+		"name": "Empress Mantis"
+	},
+	{
+		"id": "5204",
+		"name": "Cure Mermaid"
+	},
+	{
+		"id": "5205",
+		"name": "Hysteric Fairy"
+	},
+	{
+		"id": "5206",
+		"name": "Bio-Mage"
+	},
+	{
+		"id": "5209",
+		"name": "Darklord Marie"
+	},
+	{
+		"id": "5210",
+		"name": "Jar of Greed"
+	},
+	{
+		"id": "5211",
+		"name": "Scroll of Bewitchment"
+	},
+	{
+		"id": "5217",
+		"name": "Lightning Vortex"
+	},
+	{
+		"id": "5218",
+		"name": "Exchange"
+	},
+	{
+		"id": "5219",
+		"name": "The Portrait's Secret"
+	},
+	{
+		"id": "5220",
+		"name": "The Gross Ghost of Fled Dreams"
+	},
+	{
+		"id": "5221",
+		"name": "Headless Knight"
+	},
+	{
+		"id": "5222",
+		"name": "Dark Necrofear"
+	},
+	{
+		"id": "5223",
+		"name": "Magic Formula"
+	},
+	{
+		"id": "5224",
+		"name": "Destiny Board"
+	},
+	{
+		"id": "5225",
+		"name": "The Dark Door"
+	},
+	{
+		"id": "5227",
+		"name": "Dark Spirit of the Silent"
+	},
+	{
+		"id": "5229",
+		"name": "The Earl of Demise"
+	},
+	{
+		"id": "5231",
+		"name": "Temple of the Kings"
+	},
+	{
+		"id": "5232",
+		"name": "Judgment of Anubis"
+	},
+	{
+		"id": "5234",
+		"name": "Embodiment of Apophis"
+	},
+	{
+		"id": "5237",
+		"name": "Makiu"
+	},
+	{
+		"id": "5238",
+		"name": "Ancient Lamp"
+	},
+	{
+		"id": "5242",
+		"name": "Mystical Beast of Serket"
+	},
+	{
+		"id": "5243",
+		"name": "Swift Gaia the Fierce Knight"
+	},
+	{
+		"id": "5244",
+		"name": "Obnoxious Celtic Guard"
+	},
+	{
+		"id": "5246",
+		"name": "Spiritualism"
+	},
+	{
+		"id": "5249",
+		"name": "Summoner of Illusions"
+	},
+	{
+		"id": "5250",
+		"name": "Bazoo the Soul-Eater"
+	},
+	{
+		"id": "5254",
+		"name": "The Rock Spirit"
+	},
+	{
+		"id": "5255",
+		"name": "Garuda the Wind Spirit"
+	},
+	{
+		"id": "5256",
+		"name": "Gilasaurus"
+	},
+	{
+		"id": "5257",
+		"name": "Tornado Bird"
+	},
+	{
+		"id": "5258",
+		"name": "Dreamsprite"
+	},
+	{
+		"id": "5259",
+		"name": "Supply"
+	},
+	{
+		"id": "5260",
+		"name": "Maryokutai"
+	},
+	{
+		"id": "5261",
+		"name": "Collected Power"
+	},
+	{
+		"id": "5262",
+		"name": "Royal Command"
+	},
+	{
+		"id": "5263",
+		"name": "Riryoku Field"
+	},
+	{
+		"id": "5264",
+		"name": "Skull Lair"
+	},
+	{
+		"id": "5265",
+		"name": "Graverobber's Retribution"
+	},
+	{
+		"id": "5266",
+		"name": "Deal of Phantom"
+	},
+	{
+		"id": "5269",
+		"name": "The Emperor's Holiday"
+	},
+	{
+		"id": "5270",
+		"name": "Cyclon Laser"
+	},
+	{
+		"id": "5276",
+		"name": "Fusion Gate"
+	},
+	{
+		"id": "5278",
+		"name": "Miracle Dig"
+	},
+	{
+		"id": "5284",
+		"name": "Amazoness Swords Woman"
+	},
+	{
+		"id": "5286",
+		"name": "Amazoness Archers"
+	},
+	{
+		"id": "5287",
+		"name": "Rope of Life"
+	},
+	{
+		"id": "5291",
+		"name": "Amazoness Chain Master"
+	},
+	{
+		"id": "5292",
+		"name": "Viser Des"
+	},
+	{
+		"id": "5295",
+		"name": "Amazoness Fighter"
+	},
+	{
+		"id": "5296",
+		"name": "Amazoness Spellcaster"
+	},
+	{
+		"id": "5298",
+		"name": "Nightmare Wheel"
+	},
+	{
+		"id": "5299",
+		"name": "Dramatic Rescue"
+	},
+	{
+		"id": "5300",
+		"name": "Byser Shock"
+	},
+	{
+		"id": "5301",
+		"name": "Dark Ruler Ha Des"
+	},
+	{
+		"id": "5302",
+		"name": "Dark Balter the Terrible"
+	},
+	{
+		"id": "5304",
+		"name": "Possessed Dark Soul"
+	},
+	{
+		"id": "5305",
+		"name": "Winged Minion"
+	},
+	{
+		"id": "5306",
+		"name": "Skull Knight #2"
+	},
+	{
+		"id": "5308",
+		"name": "Twin-Headed Wolf"
+	},
+	{
+		"id": "5309",
+		"name": "Opticlops"
+	},
+	{
+		"id": "5310",
+		"name": "Bark of Dark Ruler"
+	},
+	{
+		"id": "5311",
+		"name": "Fatal Abacus"
+	},
+	{
+		"id": "5313",
+		"name": "The Puppet Magic of Dark Ruler"
+	},
+	{
+		"id": "5314",
+		"name": "Soul Demolition"
+	},
+	{
+		"id": "5315",
+		"name": "Double Snare"
+	},
+	{
+		"id": "5316",
+		"name": "Freed the Matchless General"
+	},
+	{
+		"id": "5319",
+		"name": "Ryu Senshi"
+	},
+	{
+		"id": "5320",
+		"name": "Warrior Dai Grepher"
+	},
+	{
+		"id": "5322",
+		"name": "Frontier Wiseman"
+	},
+	{
+		"id": "5324",
+		"name": "The Hunter with 7 Weapons"
+	},
+	{
+		"id": "5326",
+		"name": "Dragon Manipulator"
+	},
+	{
+		"id": "5327",
+		"name": "The A. Forces"
+	},
+	{
+		"id": "5329",
+		"name": "Array of Revealing Light"
+	},
+	{
+		"id": "5330",
+		"name": "The Warrior Returning Alive"
+	},
+	{
+		"id": "5331",
+		"name": "Ready for Intercepting"
+	},
+	{
+		"id": "5332",
+		"name": "A Feint Plan"
+	},
+	{
+		"id": "5333",
+		"name": "Tyrant Dragon"
+	},
+	{
+		"id": "5334",
+		"name": "Spear Dragon"
+	},
+	{
+		"id": "5335",
+		"name": "Spirit Ryu"
+	},
+	{
+		"id": "5339",
+		"name": "Cave Dragon"
+	},
+	{
+		"id": "5340",
+		"name": "Gray Wing"
+	},
+	{
+		"id": "5341",
+		"name": "Troop Dragon"
+	},
+	{
+		"id": "5342",
+		"name": "The Dragon's Bead"
+	},
+	{
+		"id": "5343",
+		"name": "A Wingbeat of Giant Dragon"
+	},
+	{
+		"id": "5344",
+		"name": "Dragon's Gunfire"
+	},
+	{
+		"id": "5345",
+		"name": "Stamping Destruction"
+	},
+	{
+		"id": "5347",
+		"name": "Dragon's Rage"
+	},
+	{
+		"id": "5348",
+		"name": "Burst Breath"
+	},
+	{
+		"id": "5349",
+		"name": "Luster Dragon #2"
+	},
+	{
+		"id": "5350",
+		"name": "Emergency Provisions"
+	},
+	{
+		"id": "5351",
+		"name": "Keldo"
+	},
+	{
+		"id": "5352",
+		"name": "Dragged Down into the Grave"
+	},
+	{
+		"id": "5354",
+		"name": "Spell Reproduction"
+	},
+	{
+		"id": "5356",
+		"name": "Mudora"
+	},
+	{
+		"id": "5357",
+		"name": "Cestus of Dagla"
+	},
+	{
+		"id": "5362",
+		"name": "Muko"
+	},
+	{
+		"id": "5363",
+		"name": "Zolga"
+	},
+	{
+		"id": "5365",
+		"name": "Blast Held by a Tribute"
+	},
+	{
+		"id": "5366",
+		"name": "Agido"
+	},
+	{
+		"id": "5367",
+		"name": "Silent Doom"
+	},
+	{
+		"id": "5372",
+		"name": "Gradius' Option"
+	},
+	{
+		"id": "5373",
+		"name": "Maharaghi"
+	},
+	{
+		"id": "5374",
+		"name": "Inaba White Rabbit"
+	},
+	{
+		"id": "5376",
+		"name": "Susa Soldier"
+	},
+	{
+		"id": "5377",
+		"name": "Yamata Dragon"
+	},
+	{
+		"id": "5378",
+		"name": "Great Long Nose"
+	},
+	{
+		"id": "5379",
+		"name": "Otohime"
+	},
+	{
+		"id": "5380",
+		"name": "Hino-Kagu-Tsuchi"
+	},
+	{
+		"id": "5381",
+		"name": "Asura Priest"
+	},
+	{
+		"id": "5382",
+		"name": "Fushi No Tori"
+	},
+	{
+		"id": "5383",
+		"name": "Super Robolady"
+	},
+	{
+		"id": "5384",
+		"name": "Super Roboyarou"
+	},
+	{
+		"id": "5385",
+		"name": "Fengsheng Mirror"
+	},
+	{
+		"id": "5387",
+		"name": "A Legendary Ocean"
+	},
+	{
+		"id": "5389",
+		"name": "Smoke Grenade of the Thief"
+	},
+	{
+		"id": "5390",
+		"name": "Spiritual Energy Settle Machine"
+	},
+	{
+		"id": "5391",
+		"name": "Second Coin Toss"
+	},
+	{
+		"id": "5393",
+		"name": "The Secret of the Bandit"
+	},
+	{
+		"id": "5394",
+		"name": "After the Struggle"
+	},
+	{
+		"id": "5395",
+		"name": "Magic Reflector"
+	},
+	{
+		"id": "5397",
+		"name": "Disappear"
+	},
+	{
+		"id": "5402",
+		"name": "Spirit's Invitation"
+	},
+	{
+		"id": "5403",
+		"name": "Nutrient Z"
+	},
+	{
+		"id": "5409",
+		"name": "Kaiser Sea Horse"
+	},
+	{
+		"id": "5410",
+		"name": "Vampire Lord"
+	},
+	{
+		"id": "5412",
+		"name": "Sasuke Samurai"
+	},
+	{
+		"id": "5417",
+		"name": "Great Dezard"
+	},
+	{
+		"id": "5418",
+		"name": "Swarm of Scarabs"
+	},
+	{
+		"id": "5419",
+		"name": "Swarm of Locusts"
+	},
+	{
+		"id": "5420",
+		"name": "Giant Axe Mummy"
+	},
+	{
+		"id": "5422",
+		"name": "Guardian Sphinx"
+	},
+	{
+		"id": "5428",
+		"name": "Fushioh Richie"
+	},
+	{
+		"id": "5429",
+		"name": "Cobraman Sakuzy"
+	},
+	{
+		"id": "5430",
+		"name": "Book of Life"
+	},
+	{
+		"id": "5431",
+		"name": "Book of Taiyou"
+	},
+	{
+		"id": "5432",
+		"name": "Book of Moon"
+	},
+	{
+		"id": "5434",
+		"name": "Secret Pass to the Treasures"
+	},
+	{
+		"id": "5435",
+		"name": "Call of the Mummy"
+	},
+	{
+		"id": "5436",
+		"name": "Timidity"
+	},
+	{
+		"id": "5438",
+		"name": "Tutan Mask"
+	},
+	{
+		"id": "5441",
+		"name": "Curse of Royal"
+	},
+	{
+		"id": "5443",
+		"name": "Statue of the Wicked"
+	},
+	{
+		"id": "5444",
+		"name": "Dark Coffin"
+	},
+	{
+		"id": "5449",
+		"name": "Pharaoh's Treasure"
+	},
+	{
+		"id": "5450",
+		"name": "Toon Dark Magician Girl"
+	},
+	{
+		"id": "5451",
+		"name": "Gilford the Lightning"
+	},
+	{
+		"id": "5453",
+		"name": "Legendary Fiend"
+	},
+	{
+		"id": "5473",
+		"name": "Toon Defense"
+	},
+	{
+		"id": "5474",
+		"name": "Toon Table of Contents"
+	},
+	{
+		"id": "5475",
+		"name": "Toon Masked Sorcerer"
+	},
+	{
+		"id": "5476",
+		"name": "Toon Gemini Elf"
+	},
+	{
+		"id": "5477",
+		"name": "Toon Cannon Soldier"
+	},
+	{
+		"id": "5478",
+		"name": "Toon Goblin Attack Force"
+	},
+	{
+		"id": "5479",
+		"name": "Card of Sanctity"
+	},
+	{
+		"id": "5482",
+		"name": "Puppet Master"
+	},
+	{
+		"id": "5483",
+		"name": "Gernia"
+	},
+	{
+		"id": "5485",
+		"name": "Lord Poison"
+	},
+	{
+		"id": "5486",
+		"name": "Spell of Pain"
+	},
+	{
+		"id": "5489",
+		"name": "Helpoemer"
+	},
+	{
+		"id": "5490",
+		"name": "Hidden Soldiers"
+	},
+	{
+		"id": "5491",
+		"name": "Gil Garth"
+	},
+	{
+		"id": "5492",
+		"name": "Coffin Seller"
+	},
+	{
+		"id": "5496",
+		"name": "Lava Golem"
+	},
+	{
+		"id": "5497",
+		"name": "Relieve Monster"
+	},
+	{
+		"id": "5498",
+		"name": "Machine Duplication"
+	},
+	{
+		"id": "5499",
+		"name": "Dark Jeroid"
+	},
+	{
+		"id": "5502",
+		"name": "Five-Headed Dragon"
+	},
+	{
+		"id": "5503",
+		"name": "Queen's Knight"
+	},
+	{
+		"id": "5504",
+		"name": "X-Head Cannon"
+	},
+	{
+		"id": "5505",
+		"name": "Enemy Controller"
+	},
+	{
+		"id": "5506",
+		"name": "Master Kyonshee"
+	},
+	{
+		"id": "5507",
+		"name": "Kabazauls"
+	},
+	{
+		"id": "5510",
+		"name": "Gravekeeper's Curse"
+	},
+	{
+		"id": "5512",
+		"name": "Gravekeeper's Spear Soldier"
+	},
+	{
+		"id": "5513",
+		"name": "Gravekeeper's Vassal"
+	},
+	{
+		"id": "5515",
+		"name": "Gravekeeper's Chief"
+	},
+	{
+		"id": "5516",
+		"name": "Gravekeeper's Cannonholder"
+	},
+	{
+		"id": "5517",
+		"name": "Gravekeeper's Assailant"
+	},
+	{
+		"id": "5518",
+		"name": "A Man with Wdjat"
+	},
+	{
+		"id": "5520",
+		"name": "A Cat of Ill Omen"
+	},
+	{
+		"id": "5521",
+		"name": "Yomi Ship"
+	},
+	{
+		"id": "5523",
+		"name": "An Owl of Luck"
+	},
+	{
+		"id": "5525",
+		"name": "Cobra Jar"
+	},
+	{
+		"id": "5529",
+		"name": "Card Shuffle"
+	},
+	{
+		"id": "5531",
+		"name": "Dark Room of Nightmare"
+	},
+	{
+		"id": "5532",
+		"name": "Different Dimension Capsule"
+	},
+	{
+		"id": "5533",
+		"name": "Necrovalley"
+	},
+	{
+		"id": "5534",
+		"name": "Buster Rancher"
+	},
+	{
+		"id": "5535",
+		"name": "Hieroglyph Lithograph"
+	},
+	{
+		"id": "5538",
+		"name": "Banner of Courage"
+	},
+	{
+		"id": "5542",
+		"name": "Curse of Aging"
+	},
+	{
+		"id": "5546",
+		"name": "Disturbance Strategy"
+	},
+	{
+		"id": "5547",
+		"name": "Trap of Board Eraser"
+	},
+	{
+		"id": "5548",
+		"name": "Rite of Spirit"
+	},
+	{
+		"id": "5550",
+		"name": "D. Tribe"
+	},
+	{
+		"id": "5552",
+		"name": "Y-Dragon Head"
+	},
+	{
+		"id": "5553",
+		"name": "XY-Dragon Cannon"
+	},
+	{
+		"id": "5555",
+		"name": "Z-Metal Tank"
+	},
+	{
+		"id": "5556",
+		"name": "XYZ-Dragon Cannon"
+	},
+	{
+		"id": "5557",
+		"name": "Soul Rope"
+	},
+	{
+		"id": "5558",
+		"name": "King's Knight"
+	},
+	{
+		"id": "5559",
+		"name": "Jack's Knight"
+	},
+	{
+		"id": "5560",
+		"name": "Interdimensional Matter Transporter"
+	},
+	{
+		"id": "5561",
+		"name": "Goblin Zombie"
+	},
+	{
+		"id": "5562",
+		"name": "Drillago"
+	},
+	{
+		"id": "5564",
+		"name": "Lekunga"
+	},
+	{
+		"id": "5574",
+		"name": "Cloning"
+	},
+	{
+		"id": "5575",
+		"name": "Cost Down"
+	},
+	{
+		"id": "5581",
+		"name": "Dark Blade"
+	},
+	{
+		"id": "5582",
+		"name": "Pitch-Dark Dragon"
+	},
+	{
+		"id": "5583",
+		"name": "Kiryu"
+	},
+	{
+		"id": "5584",
+		"name": "Decayed Commander"
+	},
+	{
+		"id": "5585",
+		"name": "Zombie Tiger"
+	},
+	{
+		"id": "5588",
+		"name": "Vampire Orchis"
+	},
+	{
+		"id": "5589",
+		"name": "Des Dendle"
+	},
+	{
+		"id": "5590",
+		"name": "Burning Beast"
+	},
+	{
+		"id": "5591",
+		"name": "Freezing Beast"
+	},
+	{
+		"id": "5592",
+		"name": "Union Rider"
+	},
+	{
+		"id": "5593",
+		"name": "D.D. Crazy Beast"
+	},
+	{
+		"id": "5595",
+		"name": "Neko Mane King"
+	},
+	{
+		"id": "5596",
+		"name": "Helping Robo for Combat"
+	},
+	{
+		"id": "5600",
+		"name": "Paladin of White Dragon"
+	},
+	{
+		"id": "5601",
+		"name": "White Dragon Ritual"
+	},
+	{
+		"id": "5602",
+		"name": "Frontline Base"
+	},
+	{
+		"id": "5604",
+		"name": "Combination Attack"
+	},
+	{
+		"id": "5606",
+		"name": "Autonomous Action Unit"
+	},
+	{
+		"id": "5607",
+		"name": "Poison of the Old Man"
+	},
+	{
+		"id": "5608",
+		"name": "Ante"
+	},
+	{
+		"id": "5612",
+		"name": "Kishido Spirit"
+	},
+	{
+		"id": "5613",
+		"name": "Tribute Doll"
+	},
+	{
+		"id": "5617",
+		"name": "Spell Shield Type-8"
+	},
+	{
+		"id": "5618",
+		"name": "Meteorain"
+	},
+	{
+		"id": "5619",
+		"name": "Pineapple Blast"
+	},
+	{
+		"id": "5621",
+		"name": "Physical Double"
+	},
+	{
+		"id": "5623",
+		"name": "Formation Union"
+	},
+	{
+		"id": "5624",
+		"name": "Adhesion Trap Hole"
+	},
+	{
+		"id": "5625",
+		"name": "XZ-Tank Cannon"
+	},
+	{
+		"id": "5626",
+		"name": "YZ-Tank Dragon"
+	},
+	{
+		"id": "5628",
+		"name": "Dark Paladin"
+	},
+	{
+		"id": "5629",
+		"name": "Double Spell"
+	},
+	{
+		"id": "5630",
+		"name": "Spell Absorption"
+	},
+	{
+		"id": "5631",
+		"name": "Diffusion Wave-Motion"
+	},
+	{
+		"id": "5641",
+		"name": "Great Angus"
+	},
+	{
+		"id": "5643",
+		"name": "Sonic Duck"
+	},
+	{
+		"id": "5644",
+		"name": "Luster Dragon"
+	},
+	{
+		"id": "5645",
+		"name": "Amazoness Paladin"
+	},
+	{
+		"id": "5646",
+		"name": "Amazoness Blowpiper"
+	},
+	{
+		"id": "5647",
+		"name": "Amazoness Tiger"
+	},
+	{
+		"id": "5650",
+		"name": "Apprentice Magician"
+	},
+	{
+		"id": "5651",
+		"name": "Old Vindictive Magician"
+	},
+	{
+		"id": "5652",
+		"name": "Chaos Command Magician"
+	},
+	{
+		"id": "5653",
+		"name": "Magical Marionette"
+	},
+	{
+		"id": "5654",
+		"name": "Pixie Knight"
+	},
+	{
+		"id": "5655",
+		"name": "Breaker the Magical Warrior"
+	},
+	{
+		"id": "5656",
+		"name": "Magical Plant Mandragola"
+	},
+	{
+		"id": "5659",
+		"name": "Armor Exe"
+	},
+	{
+		"id": "5663",
+		"name": "Magical Merchant"
+	},
+	{
+		"id": "5665",
+		"name": "Cat's Ear Tribe"
+	},
+	{
+		"id": "5667",
+		"name": "Dark Cat with White Tail"
+	},
+	{
+		"id": "5668",
+		"name": "Pitch-Black Power Stone"
+	},
+	{
+		"id": "5669",
+		"name": "Big Bang Shot"
+	},
+	{
+		"id": "5670",
+		"name": "Gather Your Mind"
+	},
+	{
+		"id": "5673",
+		"name": "Emblem of Dragon Destroyer"
+	},
+	{
+		"id": "5676",
+		"name": "Spellbook Organization"
+	},
+	{
+		"id": "5677",
+		"name": "Mega Ton Magical Cannon"
+	},
+	{
+		"id": "5678",
+		"name": "Continuous Destruction Punch"
+	},
+	{
+		"id": "5679",
+		"name": "Exhausting Spell"
+	},
+	{
+		"id": "5680",
+		"name": "Hidden Spellbook"
+	},
+	{
+		"id": "5681",
+		"name": "Miracle Restoring"
+	},
+	{
+		"id": "5683",
+		"name": "Disarmament"
+	},
+	{
+		"id": "5684",
+		"name": "Anti-Spell"
+	},
+	{
+		"id": "5685",
+		"name": "The Spell Absorbing Life"
+	},
+	{
+		"id": "5687",
+		"name": "Bowganian"
+	},
+	{
+		"id": "5697",
+		"name": "Shinato"
+	},
+	{
+		"id": "5698",
+		"name": "Dark Flare Knight"
+	},
+	{
+		"id": "5699",
+		"name": "Mirage Knight"
+	},
+	{
+		"id": "5703",
+		"name": "Arsenal Summoner"
+	},
+	{
+		"id": "5707",
+		"name": "Guardian Ceal"
+	},
+	{
+		"id": "5708",
+		"name": "Guardian Grarl"
+	},
+	{
+		"id": "5709",
+		"name": "Guardian Baou"
+	},
+	{
+		"id": "5711",
+		"name": "Guardian Tryce"
+	},
+	{
+		"id": "5713",
+		"name": "Gyaku-Gire Panda"
+	},
+	{
+		"id": "5715",
+		"name": "Despair from the Dark"
+	},
+	{
+		"id": "5716",
+		"name": "Maju Garzett"
+	},
+	{
+		"id": "5717",
+		"name": "Fear from the Dark"
+	},
+	{
+		"id": "5721",
+		"name": "Shinato's Ark"
+	},
+	{
+		"id": "5725",
+		"name": "Shooting Star Bow - Ceal"
+	},
+	{
+		"id": "5726",
+		"name": "Gravity Axe - Grarl"
+	},
+	{
+		"id": "5727",
+		"name": "Wicked-Breaking Flamberge - Baou"
+	},
+	{
+		"id": "5729",
+		"name": "Twin Swords of Flashing Light - Tryce"
+	},
+	{
+		"id": "5731",
+		"name": "Rod of the Mind's Eye"
+	},
+	{
+		"id": "5732",
+		"name": "Fairy of the Spring"
+	},
+	{
+		"id": "5734",
+		"name": "Morale Boost"
+	},
+	{
+		"id": "5736",
+		"name": "Different Dimension Gate"
+	},
+	{
+		"id": "5737",
+		"name": "Staunch Defender"
+	},
+	{
+		"id": "5738",
+		"name": "Ojama Trio"
+	},
+	{
+		"id": "5739",
+		"name": "Arsenal Robber"
+	},
+	{
+		"id": "5756",
+		"name": "Dark Magician Knight"
+	},
+	{
+		"id": "5757",
+		"name": "Knight's Title"
+	},
+	{
+		"id": "5758",
+		"name": "Sage's Stone"
+	},
+	{
+		"id": "5759",
+		"name": "Gagagigo"
+	},
+	{
+		"id": "5761",
+		"name": "Ojama Green"
+	},
+	{
+		"id": "5764",
+		"name": "Sasuke Samurai #2"
+	},
+	{
+		"id": "5767",
+		"name": "Outstanding Dog Marron"
+	},
+	{
+		"id": "5769",
+		"name": "Iron Blacksmith Kotetsu"
+	},
+	{
+		"id": "5771",
+		"name": "Mefist the Infernal General"
+	},
+	{
+		"id": "5779",
+		"name": "Metallizing Parasite - Lunatite"
+	},
+	{
+		"id": "5781",
+		"name": "Legendary Flame Lord"
+	},
+	{
+		"id": "5782",
+		"name": "Dark Master - Zorc"
+	},
+	{
+		"id": "5783",
+		"name": "Incandescent Ordeal"
+	},
+	{
+		"id": "5784",
+		"name": "Contract with the Abyss"
+	},
+	{
+		"id": "5785",
+		"name": "Contract with the Dark Master"
+	},
+	{
+		"id": "5792",
+		"name": "Altar for Tribute"
+	},
+	{
+		"id": "5796",
+		"name": "Archfiend's Roar"
+	},
+	{
+		"id": "5797",
+		"name": "Dice Re-Roll"
+	},
+	{
+		"id": "5798",
+		"name": "Spell Vanishing"
+	},
+	{
+		"id": "5799",
+		"name": "Sakuretsu Armor"
+	},
+	{
+		"id": "5800",
+		"name": "Ray of Hope"
+	},
+	{
+		"id": "5804",
+		"name": "Perfect Machine King"
+	},
+	{
+		"id": "5810",
+		"name": "Chiron the Mage"
+	},
+	{
+		"id": "5811",
+		"name": "Ojama Yellow"
+	},
+	{
+		"id": "5812",
+		"name": "Ojama Black"
+	},
+	{
+		"id": "5814",
+		"name": "Big Koala"
+	},
+	{
+		"id": "5815",
+		"name": "Des Kangaroo"
+	},
+	{
+		"id": "5816",
+		"name": "Crimson Ninja"
+	},
+	{
+		"id": "5818",
+		"name": "Gale Lizard"
+	},
+	{
+		"id": "5820",
+		"name": "Chopman the Desperate Outlaw"
+	},
+	{
+		"id": "5821",
+		"name": "Sasuke Samurai #3"
+	},
+	{
+		"id": "5822",
+		"name": "D.D. Scout Plane"
+	},
+	{
+		"id": "5825",
+		"name": "Coach Goblin"
+	},
+	{
+		"id": "5826",
+		"name": "Witch Doctor of Chaos"
+	},
+	{
+		"id": "5827",
+		"name": "Chaos Necromancer"
+	},
+	{
+		"id": "5828",
+		"name": "Chaosrider Gustaph"
+	},
+	{
+		"id": "5837",
+		"name": "Heart of the Underdog"
+	},
+	{
+		"id": "5839",
+		"name": "Ojama Delta Hurricane!!"
+	},
+	{
+		"id": "5841",
+		"name": "Chaos End"
+	},
+	{
+		"id": "5842",
+		"name": "Chaos Greed"
+	},
+	{
+		"id": "5847",
+		"name": "Thunder Crash"
+	},
+	{
+		"id": "5848",
+		"name": "Dimension Distortion"
+	},
+	{
+		"id": "5849",
+		"name": "Reload"
+	},
+	{
+		"id": "5850",
+		"name": "Soul Absorption"
+	},
+	{
+		"id": "5851",
+		"name": "Big Burn"
+	},
+	{
+		"id": "5853",
+		"name": "Cursed Seal of the Forbidden Spell"
+	},
+	{
+		"id": "5854",
+		"name": "Tower of Babel"
+	},
+	{
+		"id": "5858",
+		"name": "Dark Mirror Force"
+	},
+	{
+		"id": "5859",
+		"name": "Energy Drain"
+	},
+	{
+		"id": "5869",
+		"name": "Magician's Valkyria"
+	},
+	{
+		"id": "5871",
+		"name": "Giga Gagagigo"
+	},
+	{
+		"id": "5876",
+		"name": "Blazing Inpachi"
+	},
+	{
+		"id": "5878",
+		"name": "The Thing in the Crater"
+	},
+	{
+		"id": "5879",
+		"name": "Molten Zombie"
+	},
+	{
+		"id": "5885",
+		"name": "Don Turtle"
+	},
+	{
+		"id": "5887",
+		"name": "Dark Driceratops"
+	},
+	{
+		"id": "5889",
+		"name": "Black Tyranno"
+	},
+	{
+		"id": "5890",
+		"name": "Anti-Aircraft Flower"
+	},
+	{
+		"id": "5892",
+		"name": "Insect Princess"
+	},
+	{
+		"id": "5893",
+		"name": "Amphibious Bugroth MK-3"
+	},
+	{
+		"id": "5894",
+		"name": "Torpedo Fish"
+	},
+	{
+		"id": "5895",
+		"name": "Levia-Dragon - Daedalus"
+	},
+	{
+		"id": "5896",
+		"name": "Orca Mega-Fortress of Darkness"
+	},
+	{
+		"id": "5897",
+		"name": "Cannonball Spear Shellfish"
+	},
+	{
+		"id": "5899",
+		"name": "Guardian Angel Joan"
+	},
+	{
+		"id": "5902",
+		"name": "Ryu Kokki"
+	},
+	{
+		"id": "5903",
+		"name": "Gryphon's Feather Duster"
+	},
+	{
+		"id": "5904",
+		"name": "Stray Lambs"
+	},
+	{
+		"id": "5909",
+		"name": "Ultra Evolution Pill"
+	},
+	{
+		"id": "5910",
+		"name": "Earth Chant"
+	},
+	{
+		"id": "5911",
+		"name": "Jade Insect Whistle"
+	},
+	{
+		"id": "5912",
+		"name": "Destruction Ring"
+	},
+	{
+		"id": "5915",
+		"name": "A Hero Emerges"
+	},
+	{
+		"id": "5919",
+		"name": "DNA Transplant"
+	},
+	{
+		"id": "5920",
+		"name": "Robbin' Zombie"
+	},
+	{
+		"id": "5921",
+		"name": "Trap Jammer"
+	},
+	{
+		"id": "5922",
+		"name": "Invader of Darkness"
+	},
+	{
+		"id": "5926",
+		"name": "Brain Crusher"
+	},
+	{
+		"id": "5930",
+		"name": "Inferno Hammer"
+	},
+	{
+		"id": "5933",
+		"name": "Teva"
+	},
+	{
+		"id": "5934",
+		"name": "Gora Turtle of Illusion"
+	},
+	{
+		"id": "5935",
+		"name": "Zoma the Spirit"
+	},
+	{
+		"id": "5944",
+		"name": "Dangerous Machine Type-6"
+	},
+	{
+		"id": "5947",
+		"name": "Warrior of Zera"
+	},
+	{
+		"id": "5948",
+		"name": "Sealmaster Meisei"
+	},
+	{
+		"id": "5949",
+		"name": "Mystical Shine Ball"
+	},
+	{
+		"id": "5950",
+		"name": "Metal Armored Bug"
+	},
+	{
+		"id": "5952",
+		"name": "The Agent of Wisdom - Mercury"
+	},
+	{
+		"id": "5953",
+		"name": "The Agent of Creation - Venus"
+	},
+	{
+		"id": "5955",
+		"name": "The Unhappy Girl"
+	},
+	{
+		"id": "5957",
+		"name": "The Kick Man"
+	},
+	{
+		"id": "5958",
+		"name": "Vampire Lady"
+	},
+	{
+		"id": "5962",
+		"name": "KA-2 Des Scissors"
+	},
+	{
+		"id": "5964",
+		"name": "Blowback Dragon"
+	},
+	{
+		"id": "5968",
+		"name": "Piranha Army"
+	},
+	{
+		"id": "5970",
+		"name": "Disc Fighter"
+	},
+	{
+		"id": "5971",
+		"name": "Arcane Archer of the Forest"
+	},
+	{
+		"id": "5972",
+		"name": "Lady Ninja Yae"
+	},
+	{
+		"id": "5975",
+		"name": "White Magician Pikeru"
+	},
+	{
+		"id": "5978",
+		"name": "Mystik Wok"
+	},
+	{
+		"id": "5979",
+		"name": "Burst Stream of Destruction"
+	},
+	{
+		"id": "5980",
+		"name": "Monster Gate"
+	},
+	{
+		"id": "5981",
+		"name": "Weapon Change"
+	},
+	{
+		"id": "5982",
+		"name": "The Sanctuary in the Sky"
+	},
+	{
+		"id": "5983",
+		"name": "Earthquake"
+	},
+	{
+		"id": "5984",
+		"name": "Talisman of Trap Sealing"
+	},
+	{
+		"id": "5985",
+		"name": "Goblin Thief"
+	},
+	{
+		"id": "5987",
+		"name": "Micro Ray"
+	},
+	{
+		"id": "5988",
+		"name": "Light of Judgment"
+	},
+	{
+		"id": "5989",
+		"name": "Talisman of Spell Sealing"
+	},
+	{
+		"id": "5992",
+		"name": "Ninjitsu Art of Transformation"
+	},
+	{
+		"id": "5993",
+		"name": "Beckoning Light"
+	},
+	{
+		"id": "5994",
+		"name": "Draining Shield"
+	},
+	{
+		"id": "5995",
+		"name": "Armor Break"
+	},
+	{
+		"id": "6004",
+		"name": "Gemini Imps"
+	},
+	{
+		"id": "6005",
+		"name": "Return Zombie"
+	},
+	{
+		"id": "6006",
+		"name": "Legacy of Yata-Garasu"
+	},
+	{
+		"id": "6010",
+		"name": "Call of the Earthbound"
+	},
+	{
+		"id": "6018",
+		"name": "Mokey Mokey"
+	},
+	{
+		"id": "6022",
+		"name": "Pharaoh's Servant"
+	},
+	{
+		"id": "6023",
+		"name": "Pharaonic Protector"
+	},
+	{
+		"id": "6025",
+		"name": "Theban Nightmare"
+	},
+	{
+		"id": "6029",
+		"name": "Legacy Hunter"
+	},
+	{
+		"id": "6032",
+		"name": "3-Hump Lacooda"
+	},
+	{
+		"id": "6033",
+		"name": "Ghost Knight of Jackal"
+	},
+	{
+		"id": "6034",
+		"name": "Absorbing Kid from the Sky"
+	},
+	{
+		"id": "6035",
+		"name": "Elephant Statue of Blessing"
+	},
+	{
+		"id": "6036",
+		"name": "Elephant Statue of Disaster"
+	},
+	{
+		"id": "6037",
+		"name": "Spirit Caller"
+	},
+	{
+		"id": "6038",
+		"name": "Emissary of the Afterlife"
+	},
+	{
+		"id": "6040",
+		"name": "Double Coston"
+	},
+	{
+		"id": "6043",
+		"name": "Man-Thro' Tro'"
+	},
+	{
+		"id": "6044",
+		"name": "King of the Swamp"
+	},
+	{
+		"id": "6045",
+		"name": "Emissary of the Oasis"
+	},
+	{
+		"id": "6047",
+		"name": "Order to Charge"
+	},
+	{
+		"id": "6048",
+		"name": "Sword of the Soul-Eater"
+	},
+	{
+		"id": "6049",
+		"name": "Dust Barrier"
+	},
+	{
+		"id": "6050",
+		"name": "Soul Reversal"
+	},
+	{
+		"id": "6053",
+		"name": "7"
+	},
+	{
+		"id": "6055",
+		"name": "Enchanting Fitting Room"
+	},
+	{
+		"id": "6057",
+		"name": "Dark Magic Attack"
+	},
+	{
+		"id": "6058",
+		"name": "Delta Attacker"
+	},
+	{
+		"id": "6059",
+		"name": "Thousand Energy"
+	},
+	{
+		"id": "6066",
+		"name": "Human-Wave Tactics"
+	},
+	{
+		"id": "6067",
+		"name": "Curse of Anubis"
+	},
+	{
+		"id": "6068",
+		"name": "Desert Sunlight"
+	},
+	{
+		"id": "6069",
+		"name": "Des Counterblow"
+	},
+	{
+		"id": "6070",
+		"name": "Labyrinth of Nightmare"
+	},
+	{
+		"id": "6071",
+		"name": "Soul Resurrection"
+	},
+	{
+		"id": "6072",
+		"name": "Order to Smash"
+	},
+	{
+		"id": "6076",
+		"name": "Gandora the Dragon of Destruction"
+	},
+	{
+		"id": "6082",
+		"name": "Blue-Eyes Shining Dragon"
+	},
+	{
+		"id": "6083",
+		"name": "Familiar Knight"
+	},
+	{
+		"id": "6084",
+		"name": "Rare Metal Dragon"
+	},
+	{
+		"id": "6086",
+		"name": "Sorcerer of Dark Magic"
+	},
+	{
+		"id": "6090",
+		"name": "Inferno Tempest"
+	},
+	{
+		"id": "6092",
+		"name": "Watapon"
+	},
+	{
+		"id": "6094",
+		"name": "Neo Aqua Madoor"
+	},
+	{
+		"id": "6096",
+		"name": "Goblin Calligrapher"
+	},
+	{
+		"id": "6097",
+		"name": "Ultimate Insect LV1"
+	},
+	{
+		"id": "6098",
+		"name": "Horus the Black Flame Dragon LV4"
+	},
+	{
+		"id": "6099",
+		"name": "Horus the Black Flame Dragon LV6"
+	},
+	{
+		"id": "6100",
+		"name": "Horus the Black Flame Dragon LV8"
+	},
+	{
+		"id": "6101",
+		"name": "Dark Mimic LV1"
+	},
+	{
+		"id": "6102",
+		"name": "Dark Mimic LV3"
+	},
+	{
+		"id": "6105",
+		"name": "Armed Dragon LV3"
+	},
+	{
+		"id": "6106",
+		"name": "Armed Dragon LV5"
+	},
+	{
+		"id": "6107",
+		"name": "Armed Dragon LV7"
+	},
+	{
+		"id": "6109",
+		"name": "Black Dragon's Chick"
+	},
+	{
+		"id": "6110",
+		"name": "Malice Doll of Demise"
+	},
+	{
+		"id": "6111",
+		"name": "Ninja Grandmaster Sasuke"
+	},
+	{
+		"id": "6115",
+		"name": "Element Dragon"
+	},
+	{
+		"id": "6116",
+		"name": "Element Soldier"
+	},
+	{
+		"id": "6118",
+		"name": "Masked Dragon"
+	},
+	{
+		"id": "6119",
+		"name": "Mind on Air"
+	},
+	{
+		"id": "6120",
+		"name": "Unshaven Angler"
+	},
+	{
+		"id": "6121",
+		"name": "The Trojan Horse"
+	},
+	{
+		"id": "6122",
+		"name": "Nobleman-Eater Bug"
+	},
+	{
+		"id": "6123",
+		"name": "Enraged Muka Muka"
+	},
+	{
+		"id": "6125",
+		"name": "Penumbral Soldier Lady"
+	},
+	{
+		"id": "6126",
+		"name": "Ojama King"
+	},
+	{
+		"id": "6127",
+		"name": "Master of Oz"
+	},
+	{
+		"id": "6129",
+		"name": "Dark Factory of Mass Production"
+	},
+	{
+		"id": "6131",
+		"name": "Mind Wipe"
+	},
+	{
+		"id": "6132",
+		"name": "Abyssal Designator"
+	},
+	{
+		"id": "6133",
+		"name": "Level Up!"
+	},
+	{
+		"id": "6135",
+		"name": "The Graveyard in the Fourth Dimension"
+	},
+	{
+		"id": "6136",
+		"name": "Two-Man Cell Battle"
+	},
+	{
+		"id": "6137",
+		"name": "Big Wave Small Wave"
+	},
+	{
+		"id": "6138",
+		"name": "Fusion Weapon"
+	},
+	{
+		"id": "6139",
+		"name": "Ritual Weapon"
+	},
+	{
+		"id": "6140",
+		"name": "Taunt"
+	},
+	{
+		"id": "6142",
+		"name": "Spirit Barrier"
+	},
+	{
+		"id": "6149",
+		"name": "Hallowed Life Barrier"
+	},
+	{
+		"id": "6159",
+		"name": "Shattered Axe"
+	},
+	{
+		"id": "6160",
+		"name": "Blockman"
+	},
+	{
+		"id": "6167",
+		"name": "Silent Magician LV4"
+	},
+	{
+		"id": "6168",
+		"name": "Magician's Circle"
+	},
+	{
+		"id": "6169",
+		"name": "Magicians Unite"
+	},
+	{
+		"id": "6170",
+		"name": "Silent Magician LV8"
+	},
+	{
+		"id": "6172",
+		"name": "Woodborg Inpachi"
+	},
+	{
+		"id": "6174",
+		"name": "Bokoichi the Freightening Car"
+	},
+	{
+		"id": "6175",
+		"name": "Harpie Girl"
+	},
+	{
+		"id": "6176",
+		"name": "The Creator"
+	},
+	{
+		"id": "6177",
+		"name": "The Creator Incarnate"
+	},
+	{
+		"id": "6178",
+		"name": "Ultimate Insect LV3"
+	},
+	{
+		"id": "6181",
+		"name": "Heavy Mech Support Platform"
+	},
+	{
+		"id": "6182",
+		"name": "Element Magician"
+	},
+	{
+		"id": "6183",
+		"name": "Element Saurus"
+	},
+	{
+		"id": "6184",
+		"name": "Roc from the Valley of Haze"
+	},
+	{
+		"id": "6186",
+		"name": "Harpie Lady 1"
+	},
+	{
+		"id": "6187",
+		"name": "Harpie Lady 2"
+	},
+	{
+		"id": "6188",
+		"name": "Harpie Lady 3"
+	},
+	{
+		"id": "6189",
+		"name": "Raging Flame Sprite"
+	},
+	{
+		"id": "6191",
+		"name": "Eagle Eye"
+	},
+	{
+		"id": "6192",
+		"name": "Tactical Espionage Expert"
+	},
+	{
+		"id": "6193",
+		"name": "Invasion of Flames"
+	},
+	{
+		"id": "6196",
+		"name": "Mirage Dragon"
+	},
+	{
+		"id": "6197",
+		"name": "Gaia Soul the Combustible Collective"
+	},
+	{
+		"id": "6199",
+		"name": "B.E.S. Big Core"
+	},
+	{
+		"id": "6201",
+		"name": "Dekoichi the Battlechanted Locomotive"
+	},
+	{
+		"id": "6202",
+		"name": "A-Team: Trap Disposal Unit"
+	},
+	{
+		"id": "6203",
+		"name": "Homunculus the Alchemic Being"
+	},
+	{
+		"id": "6204",
+		"name": "Dark Blade the Dragon Knight"
+	},
+	{
+		"id": "6207",
+		"name": "Harpies' Hunting Ground"
+	},
+	{
+		"id": "6208",
+		"name": "Triangle Ecstasy Spark"
+	},
+	{
+		"id": "6211",
+		"name": "Mokey Mokey Smackdown"
+	},
+	{
+		"id": "6213",
+		"name": "Monster Reincarnation"
+	},
+	{
+		"id": "6215",
+		"name": "Lighten the Load"
+	},
+	{
+		"id": "6216",
+		"name": "Malice Dispersion"
+	},
+	{
+		"id": "6217",
+		"name": "Divine Wrath"
+	},
+	{
+		"id": "6218",
+		"name": "Xing Zhen Hu"
+	},
+	{
+		"id": "6219",
+		"name": "Rare Metalmorph"
+	},
+	{
+		"id": "6220",
+		"name": "Fruits of Kozaky's Studies"
+	},
+	{
+		"id": "6221",
+		"name": "Mind Haxorz"
+	},
+	{
+		"id": "6222",
+		"name": "Fuh-Rin-Ka-Zan"
+	},
+	{
+		"id": "6224",
+		"name": "Pikeru's Circle of Enchantment"
+	},
+	{
+		"id": "6225",
+		"name": "Spell Purification"
+	},
+	{
+		"id": "6226",
+		"name": "Astral Barrier"
+	},
+	{
+		"id": "6227",
+		"name": "Covering Fire"
+	},
+	{
+		"id": "6231",
+		"name": "Owner's Seal"
+	},
+	{
+		"id": "6233",
+		"name": "Divine Dragon Ragnarok"
+	},
+	{
+		"id": "6234",
+		"name": "Chu-Ske the Mouse Fighter"
+	},
+	{
+		"id": "6236",
+		"name": "Sacred Phoenix of Nephthys"
+	},
+	{
+		"id": "6237",
+		"name": "Hand of Nephthys"
+	},
+	{
+		"id": "6238",
+		"name": "Ultimate Insect LV5"
+	},
+	{
+		"id": "6240",
+		"name": "Element Valkyrie"
+	},
+	{
+		"id": "6241",
+		"name": "Element Doom"
+	},
+	{
+		"id": "6242",
+		"name": "Maji-Gire Panda"
+	},
+	{
+		"id": "6244",
+		"name": "Behemoth the King of All Animals"
+	},
+	{
+		"id": "6245",
+		"name": "Big-Tusked Mammoth"
+	},
+	{
+		"id": "6246",
+		"name": "Kangaroo Champ"
+	},
+	{
+		"id": "6248",
+		"name": "Blade Rabbit"
+	},
+	{
+		"id": "6250",
+		"name": "Blast Magician"
+	},
+	{
+		"id": "6251",
+		"name": "Gearfried the Swordmaster"
+	},
+	{
+		"id": "6253",
+		"name": "Shadowslayer"
+	},
+	{
+		"id": "6254",
+		"name": "Golem Sentry"
+	},
+	{
+		"id": "6255",
+		"name": "Abare Ushioni"
+	},
+	{
+		"id": "6257",
+		"name": "The Dark - Hex-Sealed Fusion"
+	},
+	{
+		"id": "6258",
+		"name": "The Earth - Hex-Sealed Fusion"
+	},
+	{
+		"id": "6259",
+		"name": "Whirlwind Prodigy"
+	},
+	{
+		"id": "6260",
+		"name": "Flame Ruler"
+	},
+	{
+		"id": "6261",
+		"name": "Firebird"
+	},
+	{
+		"id": "6266",
+		"name": "A Feather of the Phoenix"
+	},
+	{
+		"id": "6267",
+		"name": "Poison Fangs"
+	},
+	{
+		"id": "6269",
+		"name": "Spiral Spear Strike"
+	},
+	{
+		"id": "6270",
+		"name": "Release Restraint"
+	},
+	{
+		"id": "6271",
+		"name": "Centrifugal Field"
+	},
+	{
+		"id": "6272",
+		"name": "Fulfillment of the Contract"
+	},
+	{
+		"id": "6274",
+		"name": "The Big March of Animals"
+	},
+	{
+		"id": "6280",
+		"name": "Good Goblin Housekeeping"
+	},
+	{
+		"id": "6282",
+		"name": "Assault on GHQ"
+	},
+	{
+		"id": "6286",
+		"name": "Forced Ceasefire"
+	},
+	{
+		"id": "6288",
+		"name": "Union Attack"
+	},
+	{
+		"id": "6289",
+		"name": "Blood Sucker"
+	},
+	{
+		"id": "6291",
+		"name": "Overpowering Eye"
+	},
+	{
+		"id": "6293",
+		"name": "Vampire Genesis"
+	},
+	{
+		"id": "6298",
+		"name": "Kaibaman"
+	},
+	{
+		"id": "6310",
+		"name": "Elemental HERO Avian"
+	},
+	{
+		"id": "6311",
+		"name": "Elemental HERO Burstinatrix"
+	},
+	{
+		"id": "6312",
+		"name": "Elemental HERO Clayman"
+	},
+	{
+		"id": "6313",
+		"name": "Elemental HERO Sparkman"
+	},
+	{
+		"id": "6314",
+		"name": "Winged Kuriboh"
+	},
+	{
+		"id": "6318",
+		"name": "Millennium Scorpion"
+	},
+	{
+		"id": "6319",
+		"name": "Ultimate Insect LV7"
+	},
+	{
+		"id": "6320",
+		"name": "Lost Guardian"
+	},
+	{
+		"id": "6324",
+		"name": "Megarock Dragon"
+	},
+	{
+		"id": "6326",
+		"name": "Grave Ohja"
+	},
+	{
+		"id": "6328",
+		"name": "Monk Fighter"
+	},
+	{
+		"id": "6329",
+		"name": "Master Monk"
+	},
+	{
+		"id": "6330",
+		"name": "Guardian Statue"
+	},
+	{
+		"id": "6331",
+		"name": "Medusa Worm"
+	},
+	{
+		"id": "6332",
+		"name": "D.D. Survivor"
+	},
+	{
+		"id": "6334",
+		"name": "White Ninja"
+	},
+	{
+		"id": "6335",
+		"name": "Aussa the Earth Charmer"
+	},
+	{
+		"id": "6336",
+		"name": "Eria the Water Charmer"
+	},
+	{
+		"id": "6337",
+		"name": "Hiita the Fire Charmer"
+	},
+	{
+		"id": "6338",
+		"name": "Wynn the Wind Charmer"
+	},
+	{
+		"id": "6340",
+		"name": "Des Wombat"
+	},
+	{
+		"id": "6343",
+		"name": "Elemental Mistress Doriado"
+	},
+	{
+		"id": "6344",
+		"name": "Elemental HERO Flame Wingman"
+	},
+	{
+		"id": "6345",
+		"name": "Elemental HERO Thunder Giant"
+	},
+	{
+		"id": "6346",
+		"name": "Gift of the Martyr"
+	},
+	{
+		"id": "6347",
+		"name": "Double Attack"
+	},
+	{
+		"id": "6349",
+		"name": "Kaminote Blow"
+	},
+	{
+		"id": "6350",
+		"name": "Doriado's Blessing"
+	},
+	{
+		"id": "6352",
+		"name": "Legendary Black Belt"
+	},
+	{
+		"id": "6355",
+		"name": "Impenetrable Formation"
+	},
+	{
+		"id": "6356",
+		"name": "Hero Signal"
+	},
+	{
+		"id": "6363",
+		"name": "Grave Lure"
+	},
+	{
+		"id": "6366",
+		"name": "Royal Surrender"
+	},
+	{
+		"id": "6368",
+		"name": "Infernal Flame Emperor"
+	},
+	{
+		"id": "6374",
+		"name": "Divine Knight Ishzark"
+	},
+	{
+		"id": "6376",
+		"name": "Ocean Dragon Lord - Neo-Daedalus"
+	},
+	{
+		"id": "6380",
+		"name": "Green Baboon"
+	},
+	{
+		"id": "6391",
+		"name": "Wroughtweiler"
+	},
+	{
+		"id": "6393",
+		"name": "Elemental HERO Bubbleman"
+	},
+	{
+		"id": "6399",
+		"name": "Skyscraper"
+	},
+	{
+		"id": "6409",
+		"name": "Spark Blaster"
+	},
+	{
+		"id": "6410",
+		"name": "Van'Dalgyon the Dark Dragon Lord"
+	},
+	{
+		"id": "6413",
+		"name": "Jerry Beans Man"
+	},
+	{
+		"id": "6419",
+		"name": "B.E.S. Crystal Core"
+	},
+	{
+		"id": "6424",
+		"name": "Des Frog"
+	},
+	{
+		"id": "6425",
+		"name": "T.A.D.P.O.L.E."
+	},
+	{
+		"id": "6426",
+		"name": "Poison Draw Frog"
+	},
+	{
+		"id": "6427",
+		"name": "Tyranno Infinity"
+	},
+	{
+		"id": "6429",
+		"name": "Ebon Magician Curran"
+	},
+	{
+		"id": "6430",
+		"name": "D.D.M. - Different Dimension Master"
+	},
+	{
+		"id": "6431",
+		"name": "Fusion Recovery"
+	},
+	{
+		"id": "6432",
+		"name": "Miracle Fusion"
+	},
+	{
+		"id": "6434",
+		"name": "System Down"
+	},
+	{
+		"id": "6435",
+		"name": "Des Croaking"
+	},
+	{
+		"id": "6436",
+		"name": "Pot of Generosity"
+	},
+	{
+		"id": "6437",
+		"name": "Shien's Spy"
+	},
+	{
+		"id": "6439",
+		"name": "Spiritual Earth Art - Kurogane"
+	},
+	{
+		"id": "6442",
+		"name": "Spiritual Wind Art - Miyabi"
+	},
+	{
+		"id": "6443",
+		"name": "A Rival Appears!"
+	},
+	{
+		"id": "6445",
+		"name": "Rising Energy"
+	},
+	{
+		"id": "6446",
+		"name": "D.D. Trap Hole"
+	},
+	{
+		"id": "6447",
+		"name": "Conscription"
+	},
+	{
+		"id": "6449",
+		"name": "Prepare to Strike Back"
+	},
+	{
+		"id": "6450",
+		"name": "The Selection"
+	},
+	{
+		"id": "6454",
+		"name": "Arcana Knight Joker"
+	},
+	{
+		"id": "6456",
+		"name": "Gilford the Legend"
+	},
+	{
+		"id": "6458",
+		"name": "Divine Sword - Phoenix Blade"
+	},
+	{
+		"id": "6468",
+		"name": "Level Modulation"
+	},
+	{
+		"id": "6469",
+		"name": "Ojamuscle"
+	},
+	{
+		"id": "6470",
+		"name": "Ojamagic"
+	},
+	{
+		"id": "6471",
+		"name": "V-Tiger Jet"
+	},
+	{
+		"id": "6472",
+		"name": "Blade Skater"
+	},
+	{
+		"id": "6473",
+		"name": "Reborn Zombie"
+	},
+	{
+		"id": "6474",
+		"name": "Chthonian Soldier"
+	},
+	{
+		"id": "6475",
+		"name": "W-Wing Catapult"
+	},
+	{
+		"id": "6476",
+		"name": "Infernal Incinerator"
+	},
+	{
+		"id": "6478",
+		"name": "Elemental HERO Wildheart"
+	},
+	{
+		"id": "6479",
+		"name": "Hydrogeddon"
+	},
+	{
+		"id": "6480",
+		"name": "Oxygeddon"
+	},
+	{
+		"id": "6481",
+		"name": "Water Dragon"
+	},
+	{
+		"id": "6482",
+		"name": "Etoile Cyber"
+	},
+	{
+		"id": "6483",
+		"name": "VW-Tiger Catapult"
+	},
+	{
+		"id": "6485",
+		"name": "Cyber Blader"
+	},
+	{
+		"id": "6487",
+		"name": "Elemental HERO Tempest"
+	},
+	{
+		"id": "6489",
+		"name": "Chthonian Alliance"
+	},
+	{
+		"id": "6491",
+		"name": "Feather Shot"
+	},
+	{
+		"id": "6492",
+		"name": "Bonding - H2O"
+	},
+	{
+		"id": "6493",
+		"name": "Chthonian Polymer"
+	},
+	{
+		"id": "6494",
+		"name": "Chthonian Blast"
+	},
+	{
+		"id": "6495",
+		"name": "Hero Barrier"
+	},
+	{
+		"id": "6496",
+		"name": "Feather Wind"
+	},
+	{
+		"id": "6497",
+		"name": "Zure"
+	},
+	{
+		"id": "6498",
+		"name": "B.E.S. Tetran"
+	},
+	{
+		"id": "6513",
+		"name": "Branch!"
+	},
+	{
+		"id": "6518",
+		"name": "Simultaneous Loss"
+	},
+	{
+		"id": "6519",
+		"name": "Weed Out"
+	},
+	{
+		"id": "6520",
+		"name": "The League of Uniform Nomenclature"
+	},
+	{
+		"id": "6521",
+		"name": "Roll Out!"
+	},
+	{
+		"id": "6524",
+		"name": "Armed Changer"
+	},
+	{
+		"id": "6527",
+		"name": "Elemental HERO Necroshade"
+	},
+	{
+		"id": "6529",
+		"name": "Elemental HERO Mudballman"
+	},
+	{
+		"id": "6530",
+		"name": "Dark Eradicator Warlock"
+	},
+	{
+		"id": "6531",
+		"name": "Mythical Beast Cerberus"
+	},
+	{
+		"id": "6532",
+		"name": "Magical Blast"
+	},
+	{
+		"id": "6535",
+		"name": "Elemental HERO Steam Healer"
+	},
+	{
+		"id": "6541",
+		"name": "Magical Mallet"
+	},
+	{
+		"id": "6543",
+		"name": "Ring of Defense"
+	},
+	{
+		"id": "6544",
+		"name": "The Grave of Enkindling"
+	},
+	{
+		"id": "6550",
+		"name": "White-Horned Dragon"
+	},
+	{
+		"id": "6555",
+		"name": "Dark Red Enchanter"
+	},
+	{
+		"id": "6572",
+		"name": "Magnet Circle LV2"
+	},
+	{
+		"id": "6583",
+		"name": "Treasure Map"
+	},
+	{
+		"id": "6589",
+		"name": "Adhesive Explosive"
+	},
+	{
+		"id": "6590",
+		"name": "Machine King Prototype"
+	},
+	{
+		"id": "6593",
+		"name": "Chain Thrasher"
+	},
+	{
+		"id": "6595",
+		"name": "Tenkabito Shien"
+	},
+	{
+		"id": "6596",
+		"name": "Parasitic Ticky"
+	},
+	{
+		"id": "6597",
+		"name": "Gokipon"
+	},
+	{
+		"id": "6598",
+		"name": "Silent Insect"
+	},
+	{
+		"id": "6600",
+		"name": "Anteatereatingant"
+	},
+	{
+		"id": "6603",
+		"name": "Treeborn Frog"
+	},
+	{
+		"id": "6604",
+		"name": "Beelze Frog"
+	},
+	{
+		"id": "6608",
+		"name": "Malice Ascendant"
+	},
+	{
+		"id": "6609",
+		"name": "Grass Phantom"
+	},
+	{
+		"id": "6611",
+		"name": "Divine Dragon - Excelion"
+	},
+	{
+		"id": "6614",
+		"name": "D.3.S. Frog"
+	},
+	{
+		"id": "6615",
+		"name": "Symbol of Heritage"
+	},
+	{
+		"id": "6618",
+		"name": "Samsara"
+	},
+	{
+		"id": "6620",
+		"name": "Next to be Lost"
+	},
+	{
+		"id": "6621",
+		"name": "Generation Shift"
+	},
+	{
+		"id": "6624",
+		"name": "Option Hunter"
+	},
+	{
+		"id": "6625",
+		"name": "Goblin Out of the Frying Pan"
+	},
+	{
+		"id": "6626",
+		"name": "Malfunction"
+	},
+	{
+		"id": "6636",
+		"name": "The Flute of Summoning Kuriboh"
+	},
+	{
+		"id": "6641",
+		"name": "Great Spirit"
+	},
+	{
+		"id": "6642",
+		"name": "Canyon"
+	},
+	{
+		"id": "6643",
+		"name": "Elemental HERO Wild Wingman"
+	},
+	{
+		"id": "6644",
+		"name": "Elemental HERO Necroid Shaman"
+	},
+	{
+		"id": "6653",
+		"name": "Elemental HERO Neos"
+	},
+	{
+		"id": "6657",
+		"name": "Elemental HERO Mariner"
+	},
+	{
+		"id": "6658",
+		"name": "Destiny HERO - Doom Lord"
+	},
+	{
+		"id": "6659",
+		"name": "Destiny HERO - Captain Tenacious"
+	},
+	{
+		"id": "6660",
+		"name": "Destiny HERO - Diamond Dude"
+	},
+	{
+		"id": "6661",
+		"name": "Destiny HERO - Dreadmaster"
+	},
+	{
+		"id": "6664",
+		"name": "Cyber Tutu"
+	},
+	{
+		"id": "6665",
+		"name": "Cyber Gymnast"
+	},
+	{
+		"id": "6666",
+		"name": "Cyber Prima"
+	},
+	{
+		"id": "6667",
+		"name": "Guard Penalty"
+	},
+	{
+		"id": "6668",
+		"name": "Clock Tower Prison"
+	},
+	{
+		"id": "6671",
+		"name": "H - Heated Heart"
+	},
+	{
+		"id": "6672",
+		"name": "E - Emergency Call"
+	},
+	{
+		"id": "6673",
+		"name": "R - Righteous Justice"
+	},
+	{
+		"id": "6674",
+		"name": "O - Oversoul"
+	},
+	{
+		"id": "6676",
+		"name": "Elemental Recharge"
+	},
+	{
+		"id": "6677",
+		"name": "Destruction of Destiny"
+	},
+	{
+		"id": "6679",
+		"name": "Destiny Signal"
+	},
+	{
+		"id": "6684",
+		"name": "Victory Viper XX03"
+	},
+	{
+		"id": "6690",
+		"name": "Bountiful Artemis"
+	},
+	{
+		"id": "6691",
+		"name": "Royal Knight"
+	},
+	{
+		"id": "6692",
+		"name": "Herald of Purple Light"
+	},
+	{
+		"id": "6693",
+		"name": "Herald of Green Light"
+	},
+	{
+		"id": "6697",
+		"name": "Guard Dog"
+	},
+	{
+		"id": "6698",
+		"name": "Whirlwind Weasel"
+	},
+	{
+		"id": "6699",
+		"name": "Avalanching Aussa"
+	},
+	{
+		"id": "6700",
+		"name": "Raging Eria"
+	},
+	{
+		"id": "6701",
+		"name": "Blazing Hiita"
+	},
+	{
+		"id": "6702",
+		"name": "Storming Wynn"
+	},
+	{
+		"id": "6704",
+		"name": "Swift Birdman Joe"
+	},
+	{
+		"id": "6705",
+		"name": "Celestial Transformation"
+	},
+	{
+		"id": "6706",
+		"name": "Power Capsule"
+	},
+	{
+		"id": "6711",
+		"name": "Synthetic Seraphim"
+	},
+	{
+		"id": "6720",
+		"name": "Simorgh"
+	},
+	{
+		"id": "6721",
+		"name": "Sonic Shooter"
+	},
+	{
+		"id": "6722",
+		"name": "Hysteric Party"
+	},
+	{
+		"id": "6723",
+		"name": "Puppet King"
+	},
+	{
+		"id": "6727",
+		"name": "Cyber Dinosaur"
+	},
+	{
+		"id": "6752",
+		"name": "Destiny HERO - Blade Master"
+	},
+	{
+		"id": "6753",
+		"name": "Destiny HERO - Dasher"
+	},
+	{
+		"id": "6754",
+		"name": "Destiny HERO - Double Dude"
+	},
+	{
+		"id": "6756",
+		"name": "Destiny HERO - Fear Monger"
+	},
+	{
+		"id": "6757",
+		"name": "Destiny HERO - Dogma"
+	},
+	{
+		"id": "6758",
+		"name": "Dark City"
+	},
+	{
+		"id": "6759",
+		"name": "Mausoleum of the Emperor"
+	},
+	{
+		"id": "6761",
+		"name": "D - Chain"
+	},
+	{
+		"id": "6762",
+		"name": "D - Spirit"
+	},
+	{
+		"id": "6763",
+		"name": "Destiny Mirage"
+	},
+	{
+		"id": "6784",
+		"name": "Elemental HERO Stratos"
+	},
+	{
+		"id": "6785",
+		"name": "HERO's Bond"
+	},
+	{
+		"id": "6790",
+		"name": "Dragonic Knight"
+	},
+	{
+		"id": "6794",
+		"name": "Zeta Reticulant"
+	},
+	{
+		"id": "6798",
+		"name": "Black Ptera"
+	},
+	{
+		"id": "6799",
+		"name": "Babycerasaurus"
+	},
+	{
+		"id": "6811",
+		"name": "Fossil Excavation"
+	},
+	{
+		"id": "6813",
+		"name": "Royal Writ of Taxation"
+	},
+	{
+		"id": "6815",
+		"name": "Toy Magician"
+	},
+	{
+		"id": "6817",
+		"name": "Hunting Instinct"
+	},
+	{
+		"id": "6818",
+		"name": "Survival Instinct"
+	},
+	{
+		"id": "6819",
+		"name": "Big Evolution Pill"
+	},
+	{
+		"id": "6822",
+		"name": "Tail Swipe"
+	},
+	{
+		"id": "6823",
+		"name": "Jurassic World"
+	},
+	{
+		"id": "6825",
+		"name": "Seismic Shockwave"
+	},
+	{
+		"id": "6845",
+		"name": "Cyber Angel Benten"
+	},
+	{
+		"id": "6846",
+		"name": "Cyber Angel Idaten"
+	},
+	{
+		"id": "6847",
+		"name": "Cyber Angel Dakini"
+	},
+	{
+		"id": "6848",
+		"name": "Cyber Petit Angel"
+	},
+	{
+		"id": "6850",
+		"name": "Machine Angel Ritual"
+	},
+	{
+		"id": "6860",
+		"name": "Trojan Blast"
+	},
+	{
+		"id": "6876",
+		"name": "Dark Lucius LV4"
+	},
+	{
+		"id": "6877",
+		"name": "Dark Lucius LV6"
+	},
+	{
+		"id": "6878",
+		"name": "Dark Lucius LV8"
+	},
+	{
+		"id": "6879",
+		"name": "Snipe Hunter"
+	},
+	{
+		"id": "6880",
+		"name": "Blast Asmodian"
+	},
+	{
+		"id": "6884",
+		"name": "Barrier Statue of the Inferno"
+	},
+	{
+		"id": "6892",
+		"name": "Combo Fighter"
+	},
+	{
+		"id": "6893",
+		"name": "Combo Master"
+	},
+	{
+		"id": "6894",
+		"name": "Man Beast of Ares"
+	},
+	{
+		"id": "6900",
+		"name": "Ritual Foregone"
+	},
+	{
+		"id": "6902",
+		"name": "Counter Cleaner"
+	},
+	{
+		"id": "6905",
+		"name": "Miraculous Rebirth"
+	},
+	{
+		"id": "6906",
+		"name": "Mystical Wind Typhoon"
+	},
+	{
+		"id": "6907",
+		"name": "Level Down!?"
+	},
+	{
+		"id": "6908",
+		"name": "Degenerate Circuit"
+	},
+	{
+		"id": "6911",
+		"name": "Straight Flush"
+	},
+	{
+		"id": "6913",
+		"name": "Dimensional Inversion"
+	},
+	{
+		"id": "6914",
+		"name": "Chain Healing"
+	},
+	{
+		"id": "6916",
+		"name": "Accumulated Fortune"
+	},
+	{
+		"id": "6917",
+		"name": "Vanity's Call"
+	},
+	{
+		"id": "6920",
+		"name": "Goka"
+	},
+	{
+		"id": "6927",
+		"name": "Elemental HERO Heat"
+	},
+	{
+		"id": "6936",
+		"name": "Stray Asmodian"
+	},
+	{
+		"id": "6938",
+		"name": "Flame Ogre"
+	},
+	{
+		"id": "6946",
+		"name": "Return Soul"
+	},
+	{
+		"id": "6949",
+		"name": "Destiny HERO - Malicious"
+	},
+	{
+		"id": "6950",
+		"name": "Destiny Draw"
+	},
+	{
+		"id": "6951",
+		"name": "Over Destiny"
+	},
+	{
+		"id": "6952",
+		"name": "D - Counter"
+	},
+	{
+		"id": "6953",
+		"name": "Eternal Dread"
+	},
+	{
+		"id": "6954",
+		"name": "Phantom Beast Cross-Wing"
+	},
+	{
+		"id": "6955",
+		"name": "Phantom Beast Wild-Horn"
+	},
+	{
+		"id": "6957",
+		"name": "Phantom Beast Rock-Lizard"
+	},
+	{
+		"id": "6962",
+		"name": "Spiral Serpent"
+	},
+	{
+		"id": "6971",
+		"name": "Sage of Silence"
+	},
+	{
+		"id": "6981",
+		"name": "Raging Earth"
+	},
+	{
+		"id": "6982",
+		"name": "Silent Abyss"
+	},
+	{
+		"id": "6983",
+		"name": "Firestorm Prominence"
+	},
+	{
+		"id": "6984",
+		"name": "Destruction Cyclone"
+	},
+	{
+		"id": "6985",
+		"name": "Umbral Soul"
+	},
+	{
+		"id": "6986",
+		"name": "Radiant Spirit"
+	},
+	{
+		"id": "6991",
+		"name": "Lycanthrope"
+	},
+	{
+		"id": "6992",
+		"name": "CÃº Chulainn the Awakened"
+	},
+	{
+		"id": "6995",
+		"name": "Ancient Rules"
+	},
+	{
+		"id": "6997",
+		"name": "Synthesis Spell"
+	},
+	{
+		"id": "6998",
+		"name": "Emblem of the Awakening"
+	},
+	{
+		"id": "6999",
+		"name": "Twister"
+	},
+	{
+		"id": "7001",
+		"name": "Card Trader"
+	},
+	{
+		"id": "7008",
+		"name": "Eliminating the League"
+	},
+	{
+		"id": "7012",
+		"name": "Ritual Sealing"
+	},
+	{
+		"id": "7013",
+		"name": "Birthright"
+	},
+	{
+		"id": "7024",
+		"name": "Elemental HERO Lady Heat"
+	},
+	{
+		"id": "7026",
+		"name": "Elemental HERO Inferno"
+	},
+	{
+		"id": "7035",
+		"name": "Angel O7"
+	},
+	{
+		"id": "7046",
+		"name": "Neo-Parshath"
+	},
+	{
+		"id": "7049",
+		"name": "Freya"
+	},
+	{
+		"id": "7053",
+		"name": "Aegis of Gaia"
+	},
+	{
+		"id": "7058",
+		"name": "Elemental HERO Voltic"
+	},
+	{
+		"id": "7064",
+		"name": "Mosaic Manticore"
+	},
+	{
+		"id": "7094",
+		"name": "Exploder Dragon"
+	},
+	{
+		"id": "7096",
+		"name": "Destiny HERO - Plasma"
+	},
+	{
+		"id": "7108",
+		"name": "Destroyersaurus"
+	},
+	{
+		"id": "7111",
+		"name": "Harpie Queen"
+	},
+	{
+		"id": "7112",
+		"name": "Sky Scourge Enrise"
+	},
+	{
+		"id": "7115",
+		"name": "Goe Goe the Gallant Ninja"
+	},
+	{
+		"id": "7116",
+		"name": "Mei-Kou"
+	},
+	{
+		"id": "7118",
+		"name": "Seismic Crasher"
+	},
+	{
+		"id": "7119",
+		"name": "Dweller in the Depths"
+	},
+	{
+		"id": "7120",
+		"name": "Magna-Slash Dragon"
+	},
+	{
+		"id": "7125",
+		"name": "Lucky Iron Axe"
+	},
+	{
+		"id": "7126",
+		"name": "Tornado"
+	},
+	{
+		"id": "7132",
+		"name": "Terrible Deal"
+	},
+	{
+		"id": "7136",
+		"name": "Secrets of the Gallant"
+	},
+	{
+		"id": "7137",
+		"name": "Radiant Mirror Force"
+	},
+	{
+		"id": "7138",
+		"name": "Hard-sellin' Goblin"
+	},
+	{
+		"id": "7139",
+		"name": "Hard-sellin' Zombie"
+	},
+	{
+		"id": "7144",
+		"name": "Gravity Behemoth"
+	},
+	{
+		"id": "7147",
+		"name": "Lich Lord"
+	},
+	{
+		"id": "7148",
+		"name": "Prometheus"
+	},
+	{
+		"id": "7152",
+		"name": "Sword of Dark Rites"
+	},
+	{
+		"id": "7161",
+		"name": "Fifth Hope"
+	},
+	{
+		"id": "7165",
+		"name": "Snake Whistle"
+	},
+	{
+		"id": "7167",
+		"name": "Damage = Reptile"
+	},
+	{
+		"id": "7176",
+		"name": "Elemental HERO Darkbright"
+	},
+	{
+		"id": "7179",
+		"name": "Ojama Knight"
+	},
+	{
+		"id": "7188",
+		"name": "Ritual Raven"
+	},
+	{
+		"id": "7193",
+		"name": "Hunter Dragon"
+	},
+	{
+		"id": "7197",
+		"name": "Aquarian Alessa"
+	},
+	{
+		"id": "7198",
+		"name": "Lucky Pied Piper"
+	},
+	{
+		"id": "7199",
+		"name": "Grasschopper"
+	},
+	{
+		"id": "7200",
+		"name": "Goggle Golem"
+	},
+	{
+		"id": "7202",
+		"name": "Doom Shaman"
+	},
+	{
+		"id": "7203",
+		"name": "King Pyron"
+	},
+	{
+		"id": "7204",
+		"name": "Shadow Delver"
+	},
+	{
+		"id": "7207",
+		"name": "Phantom Cricket"
+	},
+	{
+		"id": "7208",
+		"name": "Crystal Seer"
+	},
+	{
+		"id": "7210",
+		"name": "Frost and Flame Dragon"
+	},
+	{
+		"id": "7211",
+		"name": "Desert Twister"
+	},
+	{
+		"id": "7212",
+		"name": "Razor Lizard"
+	},
+	{
+		"id": "7213",
+		"name": "Light Effigy"
+	},
+	{
+		"id": "7214",
+		"name": "Dark Effigy"
+	},
+	{
+		"id": "7215",
+		"name": "Zombie Master"
+	},
+	{
+		"id": "7219",
+		"name": "Double Summon"
+	},
+	{
+		"id": "7222",
+		"name": "Phalanx Pike"
+	},
+	{
+		"id": "7223",
+		"name": "Symbols of Duty"
+	},
+	{
+		"id": "7228",
+		"name": "Common Charity"
+	},
+	{
+		"id": "7229",
+		"name": "Destructive Draw"
+	},
+	{
+		"id": "7230",
+		"name": "Shield Spear"
+	},
+	{
+		"id": "7232",
+		"name": "Spell Reclamation"
+	},
+	{
+		"id": "7233",
+		"name": "Trap Reclamation"
+	},
+	{
+		"id": "7236",
+		"name": "Counter Counter"
+	},
+	{
+		"id": "7244",
+		"name": "Felgrand Dragon"
+	},
+	{
+		"id": "7246",
+		"name": "Herald of Creation"
+	},
+	{
+		"id": "7254",
+		"name": "Over Limit"
+	},
+	{
+		"id": "7256",
+		"name": "Swing of Memories"
+	},
+	{
+		"id": "7292",
+		"name": "Infinity Dark"
+	},
+	{
+		"id": "7293",
+		"name": "Magical Reflect Slime"
+	},
+	{
+		"id": "7301",
+		"name": "Superalloy Beast Raptinus"
+	},
+	{
+		"id": "7306",
+		"name": "Super Double Summon"
+	},
+	{
+		"id": "7317",
+		"name": "Release from Stone"
+	},
+	{
+		"id": "7324",
+		"name": "Energy-Absorbing Monolith"
+	},
+	{
+		"id": "7337",
+		"name": "Mormolith"
+	},
+	{
+		"id": "7339",
+		"name": "Phantom Dragonray Bronto"
+	},
+	{
+		"id": "7340",
+		"name": "Il Blud"
+	},
+	{
+		"id": "7341",
+		"name": "Blazewing Butterfly"
+	},
+	{
+		"id": "7366",
+		"name": "Atlantean Pikeman"
+	},
+	{
+		"id": "7369",
+		"name": "Gemini Lancer"
+	},
+	{
+		"id": "7377",
+		"name": "Armor Breaker"
+	},
+	{
+		"id": "7398",
+		"name": "Deep Diver"
+	},
+	{
+		"id": "7401",
+		"name": "Vortex Trooper"
+	},
+	{
+		"id": "7416",
+		"name": "Destiny HERO - Dunker"
+	},
+	{
+		"id": "7417",
+		"name": "Destiny HERO - Departed"
+	},
+	{
+		"id": "7424",
+		"name": "Doomsday Horror"
+	},
+	{
+		"id": "7431",
+		"name": "Field-Commander Rahz"
+	},
+	{
+		"id": "7435",
+		"name": "Cannon Soldier MK-2"
+	},
+	{
+		"id": "7436",
+		"name": "The Calculator"
+	},
+	{
+		"id": "7439",
+		"name": "Magnetic Mosquito"
+	},
+	{
+		"id": "7450",
+		"name": "Dimension Explosion"
+	},
+	{
+		"id": "7452",
+		"name": "The Beginning of the End"
+	},
+	{
+		"id": "7457",
+		"name": "Acidic Downpour"
+	},
+	{
+		"id": "7464",
+		"name": "Sinister Seeds"
+	},
+	{
+		"id": "7469",
+		"name": "Dark Spirit Art - Greed"
+	},
+	{
+		"id": "7471",
+		"name": "Escape from the Dark Dimension"
+	},
+	{
+		"id": "7472",
+		"name": "Gemini Trap Hole"
+	},
+	{
+		"id": "7474",
+		"name": "All-Out Attacks"
+	},
+	{
+		"id": "7477",
+		"name": "Cry Havoc!"
+	},
+	{
+		"id": "7478",
+		"name": "Transmigration Break"
+	},
+	{
+		"id": "7486",
+		"name": "Skreech"
+	},
+	{
+		"id": "7487",
+		"name": "Royal Firestorm Guards"
+	},
+	{
+		"id": "7488",
+		"name": "Veil of Darkness"
+	},
+	{
+		"id": "7489",
+		"name": "Security Orb"
+	},
+	{
+		"id": "7492",
+		"name": "Card Ejector"
+	},
+	{
+		"id": "7494",
+		"name": "Assault Armor"
+	},
+	{
+		"id": "7495",
+		"name": "Evil Blast"
+	},
+	{
+		"id": "7517",
+		"name": "Dimensional Alchemist"
+	},
+	{
+		"id": "7518",
+		"name": "Samsara Kaiser"
+	},
+	{
+		"id": "7522",
+		"name": "Evil Dragon Ananta"
+	},
+	{
+		"id": "7527",
+		"name": "Blizzed"
+	},
+	{
+		"id": "7528",
+		"name": "Blizzard Warrior"
+	},
+	{
+		"id": "7530",
+		"name": "Mist Valley Thunderbird"
+	},
+	{
+		"id": "7533",
+		"name": "Flamvell Dragnov"
+	},
+	{
+		"id": "7539",
+		"name": "Commander Gottoms"
+	},
+	{
+		"id": "7540",
+		"name": "Ally of Justice Clausolas"
+	},
+	{
+		"id": "7541",
+		"name": "Ally of Justice Garadholg"
+	},
+	{
+		"id": "7543",
+		"name": "Worm Apocalypse"
+	},
+	{
+		"id": "7544",
+		"name": "Worm Barses"
+	},
+	{
+		"id": "7545",
+		"name": "Worm Cartaros"
+	},
+	{
+		"id": "7546",
+		"name": "Worm Dimikles"
+	},
+	{
+		"id": "7547",
+		"name": "Worm Erokin"
+	},
+	{
+		"id": "7554",
+		"name": "Detonate"
+	},
+	{
+		"id": "7560",
+		"name": "Tethys"
+	},
+	{
+		"id": "7564",
+		"name": "Deepsea Macrotrema"
+	},
+	{
+		"id": "7576",
+		"name": "Miracle Flipper"
+	},
+	{
+		"id": "7577",
+		"name": "Destiny HERO - Dread Servant"
+	},
+	{
+		"id": "7602",
+		"name": "Unifrog"
+	},
+	{
+		"id": "7606",
+		"name": "Goblin Recon Squad"
+	},
+	{
+		"id": "7608",
+		"name": "Diskblade Rider"
+	},
+	{
+		"id": "7610",
+		"name": "DUCKER Mobile Cannon"
+	},
+	{
+		"id": "7615",
+		"name": "Destiny End Dragoon"
+	},
+	{
+		"id": "7620",
+		"name": "Demise of the Land"
+	},
+	{
+		"id": "7621",
+		"name": "D - Formation"
+	},
+	{
+		"id": "7623",
+		"name": "Cup of Ace"
+	},
+	{
+		"id": "7627",
+		"name": "Wetlands"
+	},
+	{
+		"id": "7630",
+		"name": "Light of Redemption"
+	},
+	{
+		"id": "7636",
+		"name": "Limit Reverse"
+	},
+	{
+		"id": "7645",
+		"name": "Destruction Jammer"
+	},
+	{
+		"id": "7650",
+		"name": "Sanguine Swamp"
+	},
+	{
+		"id": "7653",
+		"name": "Dice Try!"
+	},
+	{
+		"id": "7660",
+		"name": "Maiden of Macabre"
+	},
+	{
+		"id": "7662",
+		"name": "Nimble Musasabi"
+	},
+	{
+		"id": "7663",
+		"name": "Oyster Meister"
+	},
+	{
+		"id": "7664",
+		"name": "Dharc the Dark Charmer"
+	},
+	{
+		"id": "7675",
+		"name": "Twin-Barrel Dragon"
+	},
+	{
+		"id": "7677",
+		"name": "Izanami"
+	},
+	{
+		"id": "7680",
+		"name": "Sword of Kusanagi"
+	},
+	{
+		"id": "7681",
+		"name": "Orb of Yasaka"
+	},
+	{
+		"id": "7682",
+		"name": "Mirror of Yata"
+	},
+	{
+		"id": "7713",
+		"name": "Gonogo"
+	},
+	{
+		"id": "7715",
+		"name": "Doctor Cranium"
+	},
+	{
+		"id": "7720",
+		"name": "Telekinetic Shocker"
+	},
+	{
+		"id": "7721",
+		"name": "Destructotron"
+	},
+	{
+		"id": "7727",
+		"name": "Dark Hunter"
+	},
+	{
+		"id": "7729",
+		"name": "Yamato-no-Kami"
+	},
+	{
+		"id": "7740",
+		"name": "Domino Effect"
+	},
+	{
+		"id": "7745",
+		"name": "Psi-Station"
+	},
+	{
+		"id": "7760",
+		"name": "Machine Lord Ãœr"
+	},
+	{
+		"id": "7766",
+		"name": "Judgment of Thunder"
+	},
+	{
+		"id": "7767",
+		"name": "Psychic Rejuvenation"
+	},
+	{
+		"id": "7768",
+		"name": "Fish Depth Charge"
+	},
+	{
+		"id": "7769",
+		"name": "Needlebug Nest"
+	},
+	{
+		"id": "7798",
+		"name": "Dark General Freed"
+	},
+	{
+		"id": "7799",
+		"name": "Magical Exemplar"
+	},
+	{
+		"id": "7800",
+		"name": "Maniacal Servant"
+	},
+	{
+		"id": "7801",
+		"name": "Flame Spirit Ignis"
+	},
+	{
+		"id": "7802",
+		"name": "Super-Ancient Dinobeast"
+	},
+	{
+		"id": "7813",
+		"name": "Royal Knight of the Ice Barrier"
+	},
+	{
+		"id": "7816",
+		"name": "Mist Condor"
+	},
+	{
+		"id": "7821",
+		"name": "X-Saber Anu Piranha"
+	},
+	{
+		"id": "7822",
+		"name": "X-Saber Galahad"
+	},
+	{
+		"id": "7826",
+		"name": "Ally of Justice Thousand Arms"
+	},
+	{
+		"id": "7827",
+		"name": "Ally of Justice Unknown Crusher"
+	},
+	{
+		"id": "7832",
+		"name": "Worm Jetelikpse"
+	},
+	{
+		"id": "7842",
+		"name": "Goblin Decoy Squad"
+	},
+	{
+		"id": "7854",
+		"name": "Red-Eyes Zombie Dragon"
+	},
+	{
+		"id": "7869",
+		"name": "Healing Wave Generator"
+	},
+	{
+		"id": "7889",
+		"name": "Power Injector"
+	},
+	{
+		"id": "7890",
+		"name": "Storm Caller"
+	},
+	{
+		"id": "7892",
+		"name": "Botanical Girl"
+	},
+	{
+		"id": "7896",
+		"name": "Tiger Dragon"
+	},
+	{
+		"id": "7901",
+		"name": "Card Rotator"
+	},
+	{
+		"id": "7902",
+		"name": "Seed of Deception"
+	},
+	{
+		"id": "7912",
+		"name": "Psychokinesis"
+	},
+	{
+		"id": "7913",
+		"name": "Fragrance Storm"
+	},
+	{
+		"id": "7914",
+		"name": "The World Tree"
+	},
+	{
+		"id": "7918",
+		"name": "Battle Mania"
+	},
+	{
+		"id": "7924",
+		"name": "Lineage of Destruction"
+	},
+	{
+		"id": "7930",
+		"name": "Bamboo Scrap"
+	},
+	{
+		"id": "7931",
+		"name": "Plant Food Chain"
+	},
+	{
+		"id": "7933",
+		"name": "DNA Checkup"
+	},
+	{
+		"id": "7944",
+		"name": "Naturia Beetle"
+	},
+	{
+		"id": "7945",
+		"name": "Naturia Rock"
+	},
+	{
+		"id": "7946",
+		"name": "Naturia Guardian"
+	},
+	{
+		"id": "7954",
+		"name": "Dai-sojo of the Ice Barrier"
+	},
+	{
+		"id": "7957",
+		"name": "Mist Valley Executor"
+	},
+	{
+		"id": "7958",
+		"name": "Flamvell Grunika"
+	},
+	{
+		"id": "7961",
+		"name": "Ally of Justice Nullfier"
+	},
+	{
+		"id": "7962",
+		"name": "Ally of Justice Searcher"
+	},
+	{
+		"id": "7963",
+		"name": "Ally of Justice Enemy Catcher"
+	},
+	{
+		"id": "7964",
+		"name": "Ally of Justice Thunder Armor"
+	},
+	{
+		"id": "7965",
+		"name": "Ally of Justice Cosmic Gateway"
+	},
+	{
+		"id": "7966",
+		"name": "Worm Linx"
+	},
+	{
+		"id": "7982",
+		"name": "Red-Eyes Wyvern"
+	},
+	{
+		"id": "7984",
+		"name": "White Night Queen"
+	},
+	{
+		"id": "7988",
+		"name": "Give and Take"
+	},
+	{
+		"id": "8024",
+		"name": "Lifeforce Harmonizer"
+	},
+	{
+		"id": "8027",
+		"name": "Scanner"
+	},
+	{
+		"id": "8029",
+		"name": "Desert Protector"
+	},
+	{
+		"id": "8031",
+		"name": "Bee List Soldier"
+	},
+	{
+		"id": "8032",
+		"name": "Hydra Viper"
+	},
+	{
+		"id": "8056",
+		"name": "Arcane Barrier"
+	},
+	{
+		"id": "8061",
+		"name": "Shining Silver Force"
+	},
+	{
+		"id": "8078",
+		"name": "Seed of Flame"
+	},
+	{
+		"id": "8080",
+		"name": "Overdrive Teleporter"
+	},
+	{
+		"id": "8081",
+		"name": "Rai-Jin"
+	},
+	{
+		"id": "8082",
+		"name": "Rai-Mei"
+	},
+	{
+		"id": "8092",
+		"name": "Fabled Lurrie"
+	},
+	{
+		"id": "8099",
+		"name": "Jurrac Tyrannus"
+	},
+	{
+		"id": "8100",
+		"name": "Naturia Antjaw"
+	},
+	{
+		"id": "8106",
+		"name": "Genex Army"
+	},
+	{
+		"id": "8111",
+		"name": "Ally of Justice Reverse Break"
+	},
+	{
+		"id": "8112",
+		"name": "Ally of Justice Unlimiter"
+	},
+	{
+		"id": "8113",
+		"name": "Worm Opera"
+	},
+	{
+		"id": "8132",
+		"name": "Endymion"
+	},
+	{
+		"id": "8133",
+		"name": "Disenchanter"
+	},
+	{
+		"id": "8134",
+		"name": "Defender"
+	},
+	{
+		"id": "8135",
+		"name": "Magical Citadel of Endymion"
+	},
+	{
+		"id": "8136",
+		"name": "Spell Power Grasp"
+	},
+	{
+		"id": "8139",
+		"name": "Dark Voltanis"
+	},
+	{
+		"id": "8140",
+		"name": "Prime Material Falcon"
+	},
+	{
+		"id": "8141",
+		"name": "Bone Crusher"
+	},
+	{
+		"id": "8143",
+		"name": "Totem Dragon"
+	},
+	{
+		"id": "8145",
+		"name": "Submarine Frog"
+	},
+	{
+		"id": "8180",
+		"name": "Minoan Centaur"
+	},
+	{
+		"id": "8181",
+		"name": "Reinforced Human Psychic Borg"
+	},
+	{
+		"id": "8189",
+		"name": "Lava Dragon"
+	},
+	{
+		"id": "8190",
+		"name": "Vanguard of the Dragon"
+	},
+	{
+		"id": "8200",
+		"name": "Magic Planter"
+	},
+	{
+		"id": "8201",
+		"name": "Wonder Clover"
+	},
+	{
+		"id": "8210",
+		"name": "Psychic Path"
+	},
+	{
+		"id": "8212",
+		"name": "Supremacy Berry"
+	},
+	{
+		"id": "8214",
+		"name": "Calming Magic"
+	},
+	{
+		"id": "8227",
+		"name": "Attack of the Cornered Rat"
+	},
+	{
+		"id": "8235",
+		"name": "Fabled Topi"
+	},
+	{
+		"id": "8242",
+		"name": "Naturia Dragonfly"
+	},
+	{
+		"id": "8243",
+		"name": "Naturia Sunflower"
+	},
+	{
+		"id": "8248",
+		"name": "R-Genex Crusher"
+	},
+	{
+		"id": "8249",
+		"name": "R-Genex Magma"
+	},
+	{
+		"id": "8251",
+		"name": "Samurai of the Ice Barrier"
+	},
+	{
+		"id": "8254",
+		"name": "Worm Solid"
+	},
+	{
+		"id": "8255",
+		"name": "Worm Tentacles"
+	},
+	{
+		"id": "8256",
+		"name": "Worm Ugly"
+	},
+	{
+		"id": "8265",
+		"name": "Ojama Blue"
+	},
+	{
+		"id": "8266",
+		"name": "Ojama Country"
+	},
+	{
+		"id": "8271",
+		"name": "Skull Conductor"
+	},
+	{
+		"id": "8276",
+		"name": "Court of Justice"
+	},
+	{
+		"id": "8314",
+		"name": "Scary Moth"
+	},
+	{
+		"id": "8319",
+		"name": "Shark Cruiser"
+	},
+	{
+		"id": "8321",
+		"name": "Genetic Woman"
+	},
+	{
+		"id": "8325",
+		"name": "Minefieldriller"
+	},
+	{
+		"id": "8329",
+		"name": "Ancient Crimson Ape"
+	},
+	{
+		"id": "8330",
+		"name": "FalchionÎ²"
+	},
+	{
+		"id": "8335",
+		"name": "Release Restraint Wave"
+	},
+	{
+		"id": "8337",
+		"name": "Advance Draw"
+	},
+	{
+		"id": "8340",
+		"name": "Spirit Burner"
+	},
+	{
+		"id": "8344",
+		"name": "Solidarity"
+	},
+	{
+		"id": "8345",
+		"name": "Hydro Pressure Cannon"
+	},
+	{
+		"id": "8346",
+		"name": "Water Hazard"
+	},
+	{
+		"id": "8347",
+		"name": "Brain Research Lab"
+	},
+	{
+		"id": "8349",
+		"name": "Sword of Sparkles"
+	},
+	{
+		"id": "8351",
+		"name": "Ancient Leaf"
+	},
+	{
+		"id": "8352",
+		"name": "Fossil Dig"
+	},
+	{
+		"id": "8361",
+		"name": "Damage Translation"
+	},
+	{
+		"id": "8370",
+		"name": "A Major Upset"
+	},
+	{
+		"id": "8379",
+		"name": "Overwhelm"
+	},
+	{
+		"id": "8390",
+		"name": "Dragunity Tribus"
+	},
+	{
+		"id": "8401",
+		"name": "Naturia Hydrangea"
+	},
+	{
+		"id": "8404",
+		"name": "R-Genex Ultimum"
+	},
+	{
+		"id": "8406",
+		"name": "General Grunard of the Ice Barrier"
+	},
+	{
+		"id": "8413",
+		"name": "Worm Zero"
+	},
+	{
+		"id": "8431",
+		"name": "Phoenix Gearfried"
+	},
+	{
+		"id": "8433",
+		"name": "Featherizer"
+	},
+	{
+		"id": "8434",
+		"name": "Gemini Soldier"
+	},
+	{
+		"id": "8435",
+		"name": "Supervise"
+	},
+	{
+		"id": "8466",
+		"name": "Woodland Archer"
+	},
+	{
+		"id": "8467",
+		"name": "Knight of the Red Lotus"
+	},
+	{
+		"id": "8470",
+		"name": "Lord British Space Fighter"
+	},
+	{
+		"id": "8474",
+		"name": "Divine Grace - Northwemko"
+	},
+	{
+		"id": "8483",
+		"name": "Attack Pheromones"
+	},
+	{
+		"id": "8484",
+		"name": "Molting Escape"
+	},
+	{
+		"id": "8489",
+		"name": "Herculean Power"
+	},
+	{
+		"id": "8491",
+		"name": "Ritual of Grace"
+	},
+	{
+		"id": "8492",
+		"name": "Preparation of Rites"
+	},
+	{
+		"id": "8493",
+		"name": "Moray of Greed"
+	},
+	{
+		"id": "8495",
+		"name": "Raging Mad Plants"
+	},
+	{
+		"id": "8498",
+		"name": "Slip Summon"
+	},
+	{
+		"id": "8503",
+		"name": "Spider Egg"
+	},
+	{
+		"id": "8504",
+		"name": "Wolf in Sheep's Clothing"
+	},
+	{
+		"id": "8507",
+		"name": "Limit Impulse"
+	},
+	{
+		"id": "8510",
+		"name": "Gemini Counter"
+	},
+	{
+		"id": "8511",
+		"name": "Gemini Booster"
+	},
+	{
+		"id": "8512",
+		"name": "Ritual Buster"
+	},
+	{
+		"id": "8514",
+		"name": "Seal of Wickedness"
+	},
+	{
+		"id": "8515",
+		"name": "Appointer of the Red Lotus"
+	},
+	{
+		"id": "8517",
+		"name": "Warm Worm"
+	},
+	{
+		"id": "8518",
+		"name": "Worm Bait"
+	},
+	{
+		"id": "8519",
+		"name": "Regretful Rebirth"
+	},
+	{
+		"id": "8525",
+		"name": "Psychic Emperor"
+	},
+	{
+		"id": "8526",
+		"name": "Card Guard"
+	},
+	{
+		"id": "8528",
+		"name": "Pseudo Space"
+	},
+	{
+		"id": "8543",
+		"name": "Elemental HERO Flash"
+	},
+	{
+		"id": "8550",
+		"name": "Genex Ally Powercell"
+	},
+	{
+		"id": "8551",
+		"name": "Genex Ally Changer"
+	},
+	{
+		"id": "8553",
+		"name": "Genex Ally Solid"
+	},
+	{
+		"id": "8569",
+		"name": "Naturia Strawberry"
+	},
+	{
+		"id": "8573",
+		"name": "General Raiho of the Ice Barrier"
+	},
+	{
+		"id": "8597",
+		"name": "Yellow Baboon"
+	},
+	{
+		"id": "8598",
+		"name": "Gemini Scorpion"
+	},
+	{
+		"id": "8638",
+		"name": "Gravekeeper's Visionary"
+	},
+	{
+		"id": "8647",
+		"name": "Oilman"
+	},
+	{
+		"id": "8649",
+		"name": "Djinn Prognosticator of Rituals"
+	},
+	{
+		"id": "8650",
+		"name": "Garlandolf"
+	},
+	{
+		"id": "8659",
+		"name": "Advance Force"
+	},
+	{
+		"id": "8661",
+		"name": "Temple of the Sun"
+	},
+	{
+		"id": "8667",
+		"name": "Gravekeeper's Stele"
+	},
+	{
+		"id": "8668",
+		"name": "Machine Assembly Line"
+	},
+	{
+		"id": "8669",
+		"name": "Ritual of Destruction"
+	},
+	{
+		"id": "8670",
+		"name": "Ascending Soul"
+	},
+	{
+		"id": "8671",
+		"name": "Ritual Cage"
+	},
+	{
+		"id": "8672",
+		"name": "Pot of Benevolence"
+	},
+	{
+		"id": "8676",
+		"name": "Nature's Reflection"
+	},
+	{
+		"id": "8678",
+		"name": "Meteor Flare"
+	},
+	{
+		"id": "8680",
+		"name": "Destruct Potion"
+	},
+	{
+		"id": "8685",
+		"name": "Machine King - 3000 B.C."
+	},
+	{
+		"id": "8687",
+		"name": "Forgotten Temple of the Deep"
+	},
+	{
+		"id": "8694",
+		"name": "Machina Peacekeeper"
+	},
+	{
+		"id": "8700",
+		"name": "Transforming Sphere"
+	},
+	{
+		"id": "8702",
+		"name": "Spawn Alligator"
+	},
+	{
+		"id": "8712",
+		"name": "Genex Ally Reliever"
+	},
+	{
+		"id": "8724",
+		"name": "Strategist of the Ice Barrier"
+	},
+	{
+		"id": "8726",
+		"name": "General Gantala of the Ice Barrier"
+	},
+	{
+		"id": "8734",
+		"name": "The Atmosphere"
+	},
+	{
+		"id": "8754",
+		"name": "Alchemist of Black Spells"
+	},
+	{
+		"id": "8757",
+		"name": "Dragonic Guard"
+	},
+	{
+		"id": "8759",
+		"name": "Djinn Disserere of Rituals"
+	},
+	{
+		"id": "8761",
+		"name": "Gravekeeper's Priestess"
+	},
+	{
+		"id": "8781",
+		"name": "Card Breaker"
+	},
+	{
+		"id": "8782",
+		"name": "Second Booster"
+	},
+	{
+		"id": "8800",
+		"name": "Lyna the Light Charmer"
+	},
+	{
+		"id": "8806",
+		"name": "Delta Tri"
+	},
+	{
+		"id": "8807",
+		"name": "Trigon"
+	},
+	{
+		"id": "8827",
+		"name": "The Fountain in the Sky"
+	},
+	{
+		"id": "8828",
+		"name": "Dragon Laser"
+	},
+	{
+		"id": "8831",
+		"name": "Worm Call"
+	},
+	{
+		"id": "8832",
+		"name": "Magic Triangle of the Ice Barrier"
+	},
+	{
+		"id": "8835",
+		"name": "Forbidden Graveyard"
+	},
+	{
+		"id": "8836",
+		"name": "Leeching the Light"
+	},
+	{
+		"id": "8845",
+		"name": "Damage Gate"
+	},
+	{
+		"id": "8848",
+		"name": "Assault Spirits"
+	},
+	{
+		"id": "8853",
+		"name": "Crevice Into the Different Dimension"
+	},
+	{
+		"id": "8859",
+		"name": "Wild Tornado"
+	},
+	{
+		"id": "8863",
+		"name": "Half Shut"
+	},
+	{
+		"id": "8909",
+		"name": "Vylon Charger"
+	},
+	{
+		"id": "8934",
+		"name": "Dash Warrior"
+	},
+	{
+		"id": "8936",
+		"name": "A/D Changer"
+	},
+	{
+		"id": "8938",
+		"name": "Playful Possum"
+	},
+	{
+		"id": "8948",
+		"name": "Rhinotaurus"
+	},
+	{
+		"id": "8961",
+		"name": "Amazoness Sage"
+	},
+	{
+		"id": "8962",
+		"name": "Amazoness Trainee"
+	},
+	{
+		"id": "8968",
+		"name": "Final Psychic Ogre"
+	},
+	{
+		"id": "8976",
+		"name": "Blind Spot Strike"
+	},
+	{
+		"id": "8977",
+		"name": "Double Cyclone"
+	},
+	{
+		"id": "8981",
+		"name": "Wattcine"
+	},
+	{
+		"id": "8983",
+		"name": "Landoise's Luminous Moss"
+	},
+	{
+		"id": "8984",
+		"name": "Amazoness Village"
+	},
+	{
+		"id": "8985",
+		"name": "Amazoness Fighting Spirit"
+	},
+	{
+		"id": "8986",
+		"name": "Unicorn Beacon"
+	},
+	{
+		"id": "8987",
+		"name": "Beast Rage"
+	},
+	{
+		"id": "8992",
+		"name": "Summoning Curse"
+	},
+	{
+		"id": "9003",
+		"name": "Amazoness Willpower"
+	},
+	{
+		"id": "9004",
+		"name": "Queen's Pawn"
+	},
+	{
+		"id": "9005",
+		"name": "Beast Rising"
+	},
+	{
+		"id": "9009",
+		"name": "Anti-Magic Prism"
+	},
+	{
+		"id": "9010",
+		"name": "Chivalry"
+	},
+	{
+		"id": "9011",
+		"name": "Light of Destruction"
+	},
+	{
+		"id": "9022",
+		"name": "Sergeant Electro"
+	},
+	{
+		"id": "9039",
+		"name": "Akz"
+	},
+	{
+		"id": "9108",
+		"name": "Naturia Pumpkin"
+	},
+	{
+		"id": "9109",
+		"name": "Naturia Stag Beetle"
+	},
+	{
+		"id": "9110",
+		"name": "Dance Princess of the Ice Barrier"
+	},
+	{
+		"id": "9114",
+		"name": "Delg the Dark Monarch"
+	},
+	{
+		"id": "9129",
+		"name": "Barkion's Bark"
+	},
+	{
+		"id": "9137",
+		"name": "Tokkosho of Ghost Destroying"
+	},
+	{
+		"id": "9138",
+		"name": "White Elephant's Gift"
+	},
+	{
+		"id": "9139",
+		"name": "Heat Wave"
+	},
+	{
+		"id": "9143",
+		"name": "Defenders Intersect"
+	},
+	{
+		"id": "9147",
+		"name": "Half Counter"
+	},
+	{
+		"id": "9152",
+		"name": "Exterio's Fang"
+	},
+	{
+		"id": "9154",
+		"name": "Different Dimension Ground"
+	},
+	{
+		"id": "9203",
+		"name": "Amazoness Scouts"
+	},
+	{
+		"id": "9204",
+		"name": "Naturia Pineapple"
+	},
+	{
+		"id": "9209",
+		"name": "Amazoness Heirloom"
+	},
+	{
+		"id": "9210",
+		"name": "Amazoness Shamanism"
+	},
+	{
+		"id": "9211",
+		"name": "Super Rush Recklessly"
+	},
+	{
+		"id": "9213",
+		"name": "Vylon Ohm"
+	},
+	{
+		"id": "9277",
+		"name": "Archfiend Empress"
+	},
+	{
+		"id": "9282",
+		"name": "Gravekeeper's Recruiter"
+	},
+	{
+		"id": "9290",
+		"name": "Cards from the Sky"
+	},
+	{
+		"id": "9292",
+		"name": "Cosmic Compass"
+	},
+	{
+		"id": "9349",
+		"name": "Foolish Return"
+	},
+	{
+		"id": "9362",
+		"name": "The Golden Apples"
+	},
+	{
+		"id": "9369",
+		"name": "Tyrant's Tirade"
+	},
+	{
+		"id": "9371",
+		"name": "Tiki Soul"
+	},
+	{
+		"id": "9409",
+		"name": "Rose Lover"
+	},
+	{
+		"id": "9440",
+		"name": "Naturia Eggplant"
+	},
+	{
+		"id": "9497",
+		"name": "Serene Psychic Witch"
+	},
+	{
+		"id": "9526",
+		"name": "ESP Amplifier"
+	},
+	{
+		"id": "9530",
+		"name": "Contact with the Aquamirror"
+	},
+	{
+		"id": "9542",
+		"name": "Psychic Reactor"
+	},
+	{
+		"id": "9543",
+		"name": "Brain Hazard"
+	},
+	{
+		"id": "9548",
+		"name": "Sealing Ceremony of Mokuton"
+	},
+	{
+		"id": "9550",
+		"name": "Localized Tornado"
+	},
+	{
+		"id": "9555",
+		"name": "Vampire Dragon"
+	},
+	{
+		"id": "9566",
+		"name": "Speed Bird"
+	},
+	{
+		"id": "9568",
+		"name": "Tenshin"
+	},
+	{
+		"id": "9570",
+		"name": "Blustering Winds"
+	},
+	{
+		"id": "9637",
+		"name": "Skystarray"
+	},
+	{
+		"id": "9639",
+		"name": "Wingtortoise"
+	},
+	{
+		"id": "9640",
+		"name": "Space-Time Police"
+	},
+	{
+		"id": "9648",
+		"name": "Poki Draco"
+	},
+	{
+		"id": "9662",
+		"name": "Wonder Wand"
+	},
+	{
+		"id": "9668",
+		"name": "Infected Mail"
+	},
+	{
+		"id": "9672",
+		"name": "Fish and Kicks"
+	},
+	{
+		"id": "9675",
+		"name": "Quill Pen of Gulldos"
+	},
+	{
+		"id": "9679",
+		"name": "Peeking Goblin"
+	},
+	{
+		"id": "9687",
+		"name": "Bright Future"
+	},
+	{
+		"id": "9690",
+		"name": "Treaty on Uniform Nomenclature"
+	},
+	{
+		"id": "9696",
+		"name": "Raigeki Bottle"
+	},
+	{
+		"id": "9697",
+		"name": "Gravelstorm"
+	},
+	{
+		"id": "9728",
+		"name": "Needle Sunfish"
+	},
+	{
+		"id": "9747",
+		"name": "Naturia Marron"
+	},
+	{
+		"id": "9749",
+		"name": "Senior Silver Ninja"
+	},
+	{
+		"id": "9750",
+		"name": "Rodenut"
+	},
+	{
+		"id": "9751",
+		"name": "Fenghuang"
+	},
+	{
+		"id": "9752",
+		"name": "Tribe-Shocking Virus"
+	},
+	{
+		"id": "9766",
+		"name": "Cross Attack"
+	},
+	{
+		"id": "9768",
+		"name": "Photon Veil"
+	},
+	{
+		"id": "9774",
+		"name": "Extra Gate"
+	},
+	{
+		"id": "9775",
+		"name": "Shard of Greed"
+	},
+	{
+		"id": "9776",
+		"name": "Murmur of the Forest"
+	},
+	{
+		"id": "9777",
+		"name": "Tri-Wight"
+	},
+	{
+		"id": "9780",
+		"name": "Poisonous Winds"
+	},
+	{
+		"id": "9787",
+		"name": "Icy Crevasse"
+	},
+	{
+		"id": "9792",
+		"name": "Champion's Vigilance"
+	},
+	{
+		"id": "9798",
+		"name": "Sealing Ceremony of Suiton"
+	},
+	{
+		"id": "9835",
+		"name": "Triple Star Trion"
+	},
+	{
+		"id": "9841",
+		"name": "Sea Lancer"
+	},
+	{
+		"id": "9842",
+		"name": "Piercing Moray"
+	},
+	{
+		"id": "9843",
+		"name": "Lost Blue Breaker"
+	},
+	{
+		"id": "9848",
+		"name": "Painful Return"
+	},
+	{
+		"id": "9863",
+		"name": "Alexandrite Dragon"
+	},
+	{
+		"id": "9887",
+		"name": "Flame Armor Ninja"
+	},
+	{
+		"id": "9888",
+		"name": "Air Armor Ninja"
+	},
+	{
+		"id": "9889",
+		"name": "Aqua Armor Ninja"
+	},
+	{
+		"id": "9904",
+		"name": "Masked Ninja Ebisu"
+	},
+	{
+		"id": "9909",
+		"name": "Trance Archfiend"
+	},
+	{
+		"id": "9910",
+		"name": "Divine Dragon Apocralyph"
+	},
+	{
+		"id": "9911",
+		"name": "Darkstorm Dragon"
+	},
+	{
+		"id": "9912",
+		"name": "Numen erat Testudo"
+	},
+	{
+		"id": "9921",
+		"name": "Full-Force Strike"
+	},
+	{
+		"id": "9923",
+		"name": "Double Defender"
+	},
+	{
+		"id": "9925",
+		"name": "Armor Ninjitsu Art of Alchemy"
+	},
+	{
+		"id": "9932",
+		"name": "Dark Mambele"
+	},
+	{
+		"id": "9933",
+		"name": "Creeping Darkness"
+	},
+	{
+		"id": "9934",
+		"name": "Shrine of Mist Valley"
+	},
+	{
+		"id": "9937",
+		"name": "Dicephoon"
+	},
+	{
+		"id": "9951",
+		"name": "Over Capacity"
+	},
+	{
+		"id": "9954",
+		"name": "Sealing Ceremony of Katon"
+	},
+	{
+		"id": "9955",
+		"name": "Lightpulsar Dragon"
+	},
+	{
+		"id": "9956",
+		"name": "Darkflare Dragon"
+	},
+	{
+		"id": "9958",
+		"name": "Chaos Zone"
+	},
+	{
+		"id": "9959",
+		"name": "Dragon's Rebirth"
+	},
+	{
+		"id": "9961",
+		"name": "Chachaka Archer"
+	},
+	{
+		"id": "10014",
+		"name": "Tour Bus From the Underworld"
+	},
+	{
+		"id": "10023",
+		"name": "Ninjitsu Art of Duplication"
+	},
+	{
+		"id": "10024",
+		"name": "Wattaildragon"
+	},
+	{
+		"id": "10031",
+		"name": "Hammer Shark"
+	},
+	{
+		"id": "10041",
+		"name": "Hieratic Dragon of Nuit"
+	},
+	{
+		"id": "10059",
+		"name": "Lady of D."
+	},
+	{
+		"id": "10062",
+		"name": "Flame Tiger"
+	},
+	{
+		"id": "10074",
+		"name": "Bound Wand"
+	},
+	{
+		"id": "10086",
+		"name": "That Wacky Magic!"
+	},
+	{
+		"id": "10088",
+		"name": "Storm"
+	},
+	{
+		"id": "10089",
+		"name": "Nitwit Outwit"
+	},
+	{
+		"id": "10090",
+		"name": "Gamushara"
+	},
+	{
+		"id": "10091",
+		"name": "Commander of Swords"
+	},
+	{
+		"id": "10098",
+		"name": "Return"
+	},
+	{
+		"id": "10100",
+		"name": "Spiritual Light Art - Hijiri"
+	},
+	{
+		"id": "10101",
+		"name": "Sealing Ceremony of Raiton"
+	},
+	{
+		"id": "10102",
+		"name": "Aquamirror Cycle"
+	},
+	{
+		"id": "10104",
+		"name": "Hazy Flame Hyppogrif"
+	},
+	{
+		"id": "10106",
+		"name": "Eco"
+	},
+	{
+		"id": "10107",
+		"name": "Beetron"
+	},
+	{
+		"id": "10110",
+		"name": "Uminotaurus"
+	},
+	{
+		"id": "10116",
+		"name": "Ancient Dragon"
+	},
+	{
+		"id": "10119",
+		"name": "Lightray Grepher"
+	},
+	{
+		"id": "10121",
+		"name": "Draconnection"
+	},
+	{
+		"id": "10131",
+		"name": "Trance the Magic Swordsman"
+	},
+	{
+		"id": "10161",
+		"name": "Uniflora"
+	},
+	{
+		"id": "10163",
+		"name": "Silver Sentinel"
+	},
+	{
+		"id": "10164",
+		"name": "Dust Knight"
+	},
+	{
+		"id": "10165",
+		"name": "Block Golem"
+	},
+	{
+		"id": "10190",
+		"name": "Spellbook of Wisdom"
+	},
+	{
+		"id": "10192",
+		"name": "Where Arf Thou?"
+	},
+	{
+		"id": "10205",
+		"name": "Turnabout"
+	},
+	{
+		"id": "10209",
+		"name": "Rebound"
+	},
+	{
+		"id": "10210",
+		"name": "Lucky Punch"
+	},
+	{
+		"id": "10226",
+		"name": "Mogmole"
+	},
+	{
+		"id": "10229",
+		"name": "Deep Sweeper"
+	},
+	{
+		"id": "10232",
+		"name": "Planet Pathfinder"
+	},
+	{
+		"id": "10250",
+		"name": "Abyss Warrior"
+	},
+	{
+		"id": "10252",
+		"name": "Fishborg Planter"
+	},
+	{
+		"id": "10254",
+		"name": "Shore Knight"
+	},
+	{
+		"id": "10255",
+		"name": "Mecha Sea Dragon Plesion"
+	},
+	{
+		"id": "10256",
+		"name": "Metallizing Parasite - Soltite"
+	},
+	{
+		"id": "10276",
+		"name": "Gravity Blaster"
+	},
+	{
+		"id": "10287",
+		"name": "The Humble Sentry"
+	},
+	{
+		"id": "10290",
+		"name": "Heroic Gift"
+	},
+	{
+		"id": "10298",
+		"name": "Magic Deflector"
+	},
+	{
+		"id": "10300",
+		"name": "Cash Back"
+	},
+	{
+		"id": "10302",
+		"name": "Retort"
+	},
+	{
+		"id": "10304",
+		"name": "Pahunder"
+	},
+	{
+		"id": "10305",
+		"name": "Mahunder"
+	},
+	{
+		"id": "10306",
+		"name": "Sishunder"
+	},
+	{
+		"id": "10314",
+		"name": "Blue Dragon Ninja"
+	},
+	{
+		"id": "10315",
+		"name": "Imairuka"
+	},
+	{
+		"id": "10319",
+		"name": "Advance Zone"
+	},
+	{
+		"id": "10320",
+		"name": "Ninjitsu Art of Shadow Sealing"
+	},
+	{
+		"id": "10347",
+		"name": "Fire King Avatar Kirin"
+	},
+	{
+		"id": "10352",
+		"name": "Red Dragon Ninja"
+	},
+	{
+		"id": "10353",
+		"name": "Slushy"
+	},
+	{
+		"id": "10359",
+		"name": "Attack the Moon!"
+	},
+	{
+		"id": "10362",
+		"name": "Bacon Saver"
+	},
+	{
+		"id": "10363",
+		"name": "Amarylease"
+	},
+	{
+		"id": "10388",
+		"name": "Hazy Flame Griffin"
+	},
+	{
+		"id": "10389",
+		"name": "Hazy Flame Sphynx"
+	},
+	{
+		"id": "10396",
+		"name": "Brushfire Knight"
+	},
+	{
+		"id": "10399",
+		"name": "Pyrorex the Elemental Lord"
+	},
+	{
+		"id": "10401",
+		"name": "Leotaur"
+	},
+	{
+		"id": "10422",
+		"name": "The Big Cattle Drive"
+	},
+	{
+		"id": "10425",
+		"name": "After the Storm"
+	},
+	{
+		"id": "10426",
+		"name": "Goblin Circus"
+	},
+	{
+		"id": "10427",
+		"name": "Dimension Gate"
+	},
+	{
+		"id": "10438",
+		"name": "Jurrac Impact"
+	},
+	{
+		"id": "10439",
+		"name": "Dice-nied"
+	},
+	{
+		"id": "10446",
+		"name": "Fire King Avatar Yaksha"
+	},
+	{
+		"id": "10459",
+		"name": "Kidmodo Dragon"
+	},
+	{
+		"id": "10465",
+		"name": "Kujakujaku"
+	},
+	{
+		"id": "10472",
+		"name": "Bonfire Colossus"
+	},
+	{
+		"id": "10476",
+		"name": "Spell Wall"
+	},
+	{
+		"id": "10477",
+		"name": "Kickfire"
+	},
+	{
+		"id": "10485",
+		"name": "Dotedotengu"
+	},
+	{
+		"id": "10494",
+		"name": "Aurora Wing"
+	},
+	{
+		"id": "10506",
+		"name": "Mecha Phantom Beast Hamstrat"
+	},
+	{
+		"id": "10517",
+		"name": "Altitude Knight"
+	},
+	{
+		"id": "10523",
+		"name": "Risebell the Star Adjuster"
+	},
+	{
+		"id": "10539",
+		"name": "Magnum Shield"
+	},
+	{
+		"id": "10546",
+		"name": "Hysteric Sign"
+	},
+	{
+		"id": "10559",
+		"name": "High Tide on Fire Island"
+	},
+	{
+		"id": "10561",
+		"name": "Dragoncarnation"
+	},
+	{
+		"id": "10565",
+		"name": "Magical Undertaker"
+	},
+	{
+		"id": "10566",
+		"name": "Caligo Claw Crow"
+	},
+	{
+		"id": "10568",
+		"name": "Puzzle Reborn"
+	},
+	{
+		"id": "10578",
+		"name": "Duck Fighter"
+	},
+	{
+		"id": "10598",
+		"name": "Trifortressops"
+	},
+	{
+		"id": "10599",
+		"name": "Ghost Fairy Elfobia"
+	},
+	{
+		"id": "10639",
+		"name": "Talaya"
+	},
+	{
+		"id": "10669",
+		"name": "Archfiend Palabyrinth"
+	},
+	{
+		"id": "10670",
+		"name": "Transmodify"
+	},
+	{
+		"id": "10672",
+		"name": "Single Purchase"
+	},
+	{
+		"id": "10683",
+		"name": "Armageddon Designator"
+	},
+	{
+		"id": "10763",
+		"name": "Pumprincess the Princess of Ghosts"
+	},
+	{
+		"id": "10768",
+		"name": "Skelesaurus"
+	},
+	{
+		"id": "10769",
+		"name": "Knight Day Grepher"
+	},
+	{
+		"id": "10771",
+		"name": "MariÃ±a"
+	},
+	{
+		"id": "10796",
+		"name": "Pot of Dichotomy"
+	},
+	{
+		"id": "10801",
+		"name": "Burst Rebirth"
+	},
+	{
+		"id": "10808",
+		"name": "Chain Ignition"
+	},
+	{
+		"id": "10815",
+		"name": "Mecha Phantom Beast Aerosguin"
+	},
+	{
+		"id": "10817",
+		"name": "Tour Bus To Forbidden Realms"
+	},
+	{
+		"id": "10822",
+		"name": "Shogi Knight"
+	},
+	{
+		"id": "10823",
+		"name": "Black Luster Soldier - Envoy of the Evening Twilight"
+	},
+	{
+		"id": "10826",
+		"name": "Chaos Seed"
+	},
+	{
+		"id": "10827",
+		"name": "Exchange of Night and Day"
+	},
+	{
+		"id": "10858",
+		"name": "Sea Lord's Amulet"
+	},
+	{
+		"id": "10864",
+		"name": "Blue Flame Swordsman"
+	},
+	{
+		"id": "10865",
+		"name": "Harpie Lady Phoenix Formation"
+	},
+	{
+		"id": "10871",
+		"name": "Ghostrick Ghoul"
+	},
+	{
+		"id": "10910",
+		"name": "Ghostrick Skeleton"
+	},
+	{
+		"id": "10911",
+		"name": "Ghostrick Mummy"
+	},
+	{
+		"id": "10919",
+		"name": "Gravekeeper's Shaman"
+	},
+	{
+		"id": "10920",
+		"name": "Gravekeeper's Oracle"
+	},
+	{
+		"id": "10924",
+		"name": "Black Brachios"
+	},
+	{
+		"id": "10952",
+		"name": "Hidden Temples of Necrovalley"
+	},
+	{
+		"id": "10956",
+		"name": "Shared Ride"
+	},
+	{
+		"id": "10965",
+		"name": "Oath of Companionship"
+	},
+	{
+		"id": "10992",
+		"name": "Obedience Schooled"
+	},
+	{
+		"id": "10994",
+		"name": "Flowerbot"
+	},
+	{
+		"id": "10995",
+		"name": "Humpty Grumpty"
+	},
+	{
+		"id": "10997",
+		"name": "Dragoroar"
+	},
+	{
+		"id": "11024",
+		"name": "Ghost of a Grudge"
+	},
+	{
+		"id": "11065",
+		"name": "Beautunaful Princess"
+	},
+	{
+		"id": "11142",
+		"name": "Blue Dragon Summoner"
+	},
+	{
+		"id": "11146",
+		"name": "Sorcerous Spell Wall"
+	},
+	{
+		"id": "11150",
+		"name": "Kuribandit"
+	},
+	{
+		"id": "11158",
+		"name": "Guarded Treasure"
+	},
+	{
+		"id": "11161",
+		"name": "Flash Fusion"
+	},
+	{
+		"id": "11166",
+		"name": "Doble Passe"
+	},
+	{
+		"id": "11167",
+		"name": "Carboneddon"
+	},
+	{
+		"id": "11179",
+		"name": "Gate Blocker"
+	},
+	{
+		"id": "11206",
+		"name": "Wattsychic Fighter"
+	},
+	{
+		"id": "11208",
+		"name": "Earthshattering Event"
+	},
+	{
+		"id": "11226",
+		"name": "Battleguard King"
+	},
+	{
+		"id": "11255",
+		"name": "Spy-C-Spy"
+	},
+	{
+		"id": "11265",
+		"name": "Feast of the Wild LV5"
+	},
+	{
+		"id": "11276",
+		"name": "Pop-Up"
+	},
+	{
+		"id": "11289",
+		"name": "That Six"
+	},
+	{
+		"id": "11307",
+		"name": "Escher the Frost Vassal"
+	},
+	{
+		"id": "11387",
+		"name": "Wonder Balloons"
+	},
+	{
+		"id": "11390",
+		"name": "Magical Star Illusion"
+	},
+	{
+		"id": "11411",
+		"name": "Solemn Scolding"
+	},
+	{
+		"id": "11419",
+		"name": "Elemental HERO Blazeman"
+	},
+	{
+		"id": "11424",
+		"name": "Master Craftsman Gamil"
+	},
+	{
+		"id": "11427",
+		"name": "Inspiration"
+	},
+	{
+		"id": "11430",
+		"name": "Typhoon"
+	},
+	{
+		"id": "11504",
+		"name": "Fusion Substitute"
+	},
+	{
+		"id": "11515",
+		"name": "Heavy Knight of the Flame"
+	},
+	{
+		"id": "11516",
+		"name": "BOXer"
+	},
+	{
+		"id": "11563",
+		"name": "Marmiting Captain"
+	},
+	{
+		"id": "11598",
+		"name": "Soul Transition"
+	},
+	{
+		"id": "11657",
+		"name": "Harpie Harpist"
+	},
+	{
+		"id": "11661",
+		"name": "Gift Exchange"
+	},
+	{
+		"id": "11664",
+		"name": "Fiendish Rhino Warrior"
+	},
+	{
+		"id": "11669",
+		"name": "Dark Burning Attack"
+	},
+	{
+		"id": "11671",
+		"name": "Symbol of Friendship"
+	},
+	{
+		"id": "11711",
+		"name": "Doomdog Octhros"
+	},
+	{
+		"id": "11749",
+		"name": "Jar of Avarice"
+	},
+	{
+		"id": "11751",
+		"name": "Fiend Griefing"
+	},
+	{
+		"id": "11754",
+		"name": "Monster Rebone"
+	},
+	{
+		"id": "11763",
+		"name": "Fire King Island"
+	},
+	{
+		"id": "11821",
+		"name": "Aromage Bergamot"
+	},
+	{
+		"id": "11844",
+		"name": "Cards of the Red Stone"
+	},
+	{
+		"id": "11863",
+		"name": "Extra Buck"
+	},
+	{
+		"id": "11875",
+		"name": "Caninetaur"
+	},
+	{
+		"id": "11886",
+		"name": "Tyrant Wing"
+	},
+	{
+		"id": "11893",
+		"name": "Double Magical Arm Bind"
+	},
+	{
+		"id": "11898",
+		"name": "Red-Eyes Spirit"
+	},
+	{
+		"id": "11901",
+		"name": "Toon Kingdom"
+	},
+	{
+		"id": "11902",
+		"name": "Toon Rollback"
+	},
+	{
+		"id": "11915",
+		"name": "Reverse Reuse"
+	},
+	{
+		"id": "11964",
+		"name": "Sphere Kuriboh"
+	},
+	{
+		"id": "11980",
+		"name": "Skilled Red Magician"
+	},
+	{
+		"id": "11982",
+		"name": "Toon Barrel Dragon"
+	},
+	{
+		"id": "11997",
+		"name": "Shuffle Reborn"
+	},
+	{
+		"id": "12001",
+		"name": "Gateway to Chaos"
+	},
+	{
+		"id": "12010",
+		"name": "Super Rush Headlong"
+	},
+	{
+		"id": "12015",
+		"name": "Super Soldier Shield"
+	},
+	{
+		"id": "12021",
+		"name": "Urgent Ritual Art"
+	},
+	{
+		"id": "12032",
+		"name": "Extinction on Schedule"
+	},
+	{
+		"id": "12041",
+		"name": "Black Luster Soldier - Sacred Soldier"
+	},
+	{
+		"id": "12089",
+		"name": "Relinkuriboh"
+	},
+	{
+		"id": "12099",
+		"name": "Painful Escape"
+	},
+	{
+		"id": "12126",
+		"name": "Buster Blader"
+	},
+	{
+		"id": "12129",
+		"name": "Wizard Buster Destruction Sword"
+	},
+	{
+		"id": "12130",
+		"name": "Robot Buster Destruction Sword"
+	},
+	{
+		"id": "12146",
+		"name": "Toon Buster Blader"
+	},
+	{
+		"id": "12153",
+		"name": "Buster Blader"
+	},
+	{
+		"id": "12168",
+		"name": "Karma of the Destruction Swordsman"
+	},
+	{
+		"id": "12208",
+		"name": "Booby Trap E"
+	},
+	{
+		"id": "12242",
+		"name": "Ultimate Providence"
+	},
+	{
+		"id": "12254",
+		"name": "Angmarl the Fiendish Monarch"
+	},
+	{
+		"id": "12310",
+		"name": "Tenmataitei"
+	},
+	{
+		"id": "12332",
+		"name": "Beacon of White"
+	},
+	{
+		"id": "12337",
+		"name": "Pre-Preparation of Rites"
+	},
+	{
+		"id": "12338",
+		"name": "Fusion Tag"
+	},
+	{
+		"id": "12341",
+		"name": "Finite Cards"
+	},
+	{
+		"id": "12352",
+		"name": "Graceful Tear"
+	},
+	{
+		"id": "12362",
+		"name": "Guardian of Felgrand"
+	},
+	{
+		"id": "12363",
+		"name": "Ruins of the Divine Dragon Lords"
+	},
+	{
+		"id": "12395",
+		"name": "Vennu"
+	},
+	{
+		"id": "12396",
+		"name": "Primal Cry"
+	},
+	{
+		"id": "12435",
+		"name": "Black Dragon Ninja"
+	},
+	{
+		"id": "12440",
+		"name": "Wrecker Panda"
+	},
+	{
+		"id": "12464",
+		"name": "Cosmic Cyclone"
+	},
+	{
+		"id": "12467",
+		"name": "Card of the Soul"
+	},
+	{
+		"id": "12475",
+		"name": "Floodgate Trap Hole"
+	},
+	{
+		"id": "12476",
+		"name": "Premature Return"
+	},
+	{
+		"id": "12477",
+		"name": "Unified Front"
+	},
+	{
+		"id": "12511",
+		"name": "Magicians' Defense"
+	},
+	{
+		"id": "12539",
+		"name": "Ritual Sanctuary"
+	},
+	{
+		"id": "12567",
+		"name": "Silent Burning"
+	},
+	{
+		"id": "12568",
+		"name": "Magnet Reverse"
+	},
+	{
+		"id": "12569",
+		"name": "Magnet Force"
+	},
+	{
+		"id": "12574",
+		"name": "Beta The Electromagnet Warrior"
+	},
+	{
+		"id": "12585",
+		"name": "Heavy Mech Support Armor"
+	},
+	{
+		"id": "12587",
+		"name": "Majesty with Eyes of Blue"
+	},
+	{
+		"id": "12613",
+		"name": "Chemicritter Hydron Hawk"
+	},
+	{
+		"id": "12614",
+		"name": "Chemicritter Carbo Crab"
+	},
+	{
+		"id": "12616",
+		"name": "Poly-Chemicritter Dioxogre"
+	},
+	{
+		"id": "12617",
+		"name": "Poly-Chemicritter Hydragon"
+	},
+	{
+		"id": "12618",
+		"name": "Meteor Dragon Red-Eyes Impact"
+	},
+	{
+		"id": "12622",
+		"name": "Doki Doki"
+	},
+	{
+		"id": "12650",
+		"name": "Red-Eyes Insight"
+	},
+	{
+		"id": "12654",
+		"name": "Sprite's Blessing"
+	},
+	{
+		"id": "12669",
+		"name": "Summon Gate"
+	},
+	{
+		"id": "12682",
+		"name": "Magical Something"
+	},
+	{
+		"id": "12683",
+		"name": "Ninjitsu Art Notebook"
+	},
+	{
+		"id": "12702",
+		"name": "Destiny HERO - Drilldark"
+	},
+	{
+		"id": "12735",
+		"name": "Delta The Magnet Warrior"
+	},
+	{
+		"id": "12745",
+		"name": "Cyber Tutubon"
+	},
+	{
+		"id": "12757",
+		"name": "Shinobird Crow"
+	},
+	{
+		"id": "12758",
+		"name": "Shinobird Crane"
+	},
+	{
+		"id": "12764",
+		"name": "Apprentice Piper"
+	},
+	{
+		"id": "12772",
+		"name": "Shinobaroness Peacock"
+	},
+	{
+		"id": "12790",
+		"name": "Machine Angel Absolute Ritual"
+	},
+	{
+		"id": "12795",
+		"name": "Shinobird's Calling"
+	},
+	{
+		"id": "12796",
+		"name": "Shinobird Power Spot"
+	},
+	{
+		"id": "12797",
+		"name": "Super Soldier Synthesis"
+	},
+	{
+		"id": "12808",
+		"name": "Beginning of Heaven and Earth"
+	},
+	{
+		"id": "12815",
+		"name": "Massivemorph"
+	},
+	{
+		"id": "12872",
+		"name": "Fusion Recycling Plant"
+	},
+	{
+		"id": "12889",
+		"name": "Brohunder"
+	},
+	{
+		"id": "12896",
+		"name": "Gozuki"
+	},
+	{
+		"id": "13074",
+		"name": "Orbital Hydralander"
+	},
+	{
+		"id": "13155",
+		"name": "Spacetime Transcendence"
+	},
+	{
+		"id": "13207",
+		"name": "Samurai Skull"
+	}
+]
