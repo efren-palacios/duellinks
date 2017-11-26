@@ -7,9 +7,10 @@ $(function(){
 })
 
 let decklist = []
+let extradecklist = []
 let hand = []
 let board = []
-let currentDeck = playtest.main
+let currentDeck = joinMainExtraDeck(playtest.main, playtest.extra)
 
 let encode = window.btoa(JSON.stringify(currentDeck))
 
@@ -52,15 +53,46 @@ $(document).on("click", ".code", function() {
 
 $(document).on("click","#deckmenu img", function(){
 	let id = $(this).attr('id');
-  dealCard(getCardPositionInArray(decklist, id))
+
+  let positionInMain = getCardPositionInArray(decklist, id)
+
+  if(positionInMain >= 0){ // monster is in the main deck
+    dealCard(positionInMain)
+  }else{ // monster is in the extra deck
+    summonMonsterFromExtra(getCardPositionInArray(extradecklist, id))
+  }
 })
+
+function joinMainExtraDeck(main, extra){
+  var joined = [];
+
+  let id = 0;
+
+  for (let card in main) {
+    joined.push({
+      name: main[card].name,
+      deck: 0,
+      amount: main[card].amount
+    })
+  }
+
+  for (let card in extra) {
+    joined.push({
+      name: extra[card].name,
+      deck: 1,
+      amount: extra[card].amount
+    })
+  }
+
+  return joined;
+}
 
 function importDeck(deck) {
   refreshDeck(deck)
   shuffleDeck(decklist)
   $('#hand').empty();
   for (var i = 0; i < 4; i++) {
-  dealHand(randomCard())
+    dealHand(randomCard())
   }
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(deck)
@@ -95,35 +127,46 @@ $('#shuffle').click(function() {
     }
 })
 
-
-function openDeck(deck) {
+function openDeck(deck, extra = false) {
   if (hand.length == 0) {
-      refreshDeck(deck);
-      }
-  if (decklist == 0) return;
-  $('#deckmenu').empty()
-  for (i in decklist) {
-  $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" width="60px" id="${decklist[i].id}"/>`)
+    refreshDeck(deck);
   }
+
+  if ((extra ? extradecklist : decklist) == 0) return;
+
+  $('#deckmenu').empty()
+
+  for (i in (extra ? extradecklist : decklist)) {
+    if(extra)
+      $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${extradecklist[i].name}" width="60px" id="${extradecklist[i].id}"/>`)
+    else
+      $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" width="60px" id="${decklist[i].id}"/>`)
+  }
+
   $('#deckmenu').dialog({
     width: 450,
     height: 563,
     resizable: false,
     draggable: false,
     open: function(event, ui) {
-        $(this).closest(".ui-dialog")
+      $(this).closest(".ui-dialog")
         .find(".ui-dialog-titlebar-close")
         .removeClass("ui-dialog-titlebar-close")
         .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
     },
-    position: { my: "left+10 top", at: "right top", of: '#playtest' }
-})
+    position: {
+      my: "left+10 top",
+      at: "right top",
+      of: '#playtest'
+    }
+  })
 }
 
 
 $('#view').click(function() {
   openDeck(currentDeck)
 })
+
 
 $('.testcard-slot').droppable
     ({
@@ -138,6 +181,10 @@ $('.testcard-slot').droppable
 
 $('#playerdeck, #deal').click(function() {
   dealCard(0)
+})
+
+$('#playerextradeck').click(function(){
+  openDeck(currentDeck, true);
 })
 
 $('#new').click(function() {
@@ -215,6 +262,59 @@ function shuffleDeck(a) {
     }
 }
 
+function summonMonsterFromExtra(i){
+  if (extradecklist == 0) return;
+
+$("#source").appendTo("#destination");
+
+  $('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand"><img id="${extradecklist[i].id}" src="https://yugiohprices.com/api/card_image/${extradecklist[i].name}" /></div>`)
+  var destination = $('#playerextradeck').position();
+  $('#cardId' + extradecklist[i].id).css({top: destination.top, left: destination.left, position:'absolute'});
+
+  var animDest = $('#center-m-z').position();
+  $('#cardId' + extradecklist[i].id).animate({ top: animDest.top - 20, left: animDest.left}, 500);
+  
+  addHand(extradecklist[i].name, extradecklist[i].id)
+  removeCardFromExtra(i);
+    $('.hand').css('border', 'none')
+    $('.hand').draggable
+    ({  
+        snap: '.testcard-slot',
+        snapMode: 'inner',
+        snapTolerance: '22',
+        stack: '.hand',
+		stop: function(){
+			var cardDOM = $(this);
+			var draggable = cardDOM.data("ui-draggable");
+			$.each(draggable.snapElements, function(index, element) {
+				if (element.snapping) {
+					var snapped = draggable.snapElements;
+					
+					var snappedTo = $.map(snapped, function(element) {
+						return element.snapping ? element.item : null;
+					});
+					
+					$.each(snappedTo, function(idx, item) {
+						if($(item).children().first().attr('id') == 'playerextradeck'){
+							let cardId = cardDOM.children().first().attr('id');
+							addCardToExtraDeck(cardId);
+							removeCardFromHand(cardId);
+							
+							if ($('#deckmenu').dialog('isOpen')) {
+								openDeck(currentDeck, true)
+							}
+							
+							return false;
+						}
+					});
+					
+					return false;
+				}
+			});
+		}
+    });
+}
+
 function dealCard(i) {
   if (decklist == 0) return;
   $('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand"><img id="${decklist[i].id}" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" /></div>`)
@@ -268,6 +368,10 @@ function removeCard(c) {
   decklist.splice(c, 1)
 }
 
+function removeCardFromExtra(c) {
+  extradecklist.splice(c, 1)
+}
+
 function getCardPositionInArray(arr, cardId){
 	let index = -1;
 	
@@ -287,31 +391,52 @@ function addCardToDeck(c){
 	});
 }
 
+function addCardToExtraDeck(c){
+	let cardIndexInHand = getCardPositionInArray(hand, c);
+
+	extradecklist.push({
+		id: hand[cardIndexInHand].id,
+		name: hand[cardIndexInHand].name
+	});
+}
+
 function removeCardFromHand(c){
 	let cardIndexInHand = getCardPositionInArray(hand, c);
-	$('#hand').find('#cardId' + c).remove();
+
+  $('#hand').find('#cardId' + c).remove();
 	
 	hand.splice(cardIndexInHand, 1)
 }
 
 function refreshDeck(deck) {
-      if (deck.length > 0) {
+    if (deck.length > 0) {
       decklist = []
+      extradecklist = []
       hand = []
     }
-  	let id = 0;
-	
-	for (let card in deck) {
-		for (i = 0; i < Number(deck[card].amount); i++) {
-			decklist.push({
-				id: id,
-				name: deck[card].name
-			})
-		  
-			id++
-		}
+
+    let id = 0;
+
+	  for (let i in deck) {
+      for(let j = 0; j < Number(deck[i].amount); j++){
+        if(deck[i].deck == 0){
+          decklist.push({
+            id: id,
+            name: deck[i].name
+          })
+        }else if(deck[i].deck == 1){
+          extradecklist.push({
+            id: id,
+            name: deck[i].name
+          })
+        }
+
+        id++;
+      }
 	}
+
   shuffleDeck(decklist)
+
   $(function() {
       $('#deckcount span').text(decklist.length)
   })

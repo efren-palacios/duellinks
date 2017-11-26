@@ -22,6 +22,10 @@
 #playerdeck, #deckmenu img {
     cursor: pointer;
   }
+
+  #playerextradeck img {
+    cursor: pointer;
+  }
   
   #hand {
    flex-wrap: wrap;
@@ -63,7 +67,7 @@
       margin-bottom: 20px;
       clear: both;
       display: flex;
-      .testcard-slot, .hand
+      .testcard-slot, .hand, .field
       {
         border: 1px solid white;
         border-radius: 4px;
