@@ -1,5 +1,3 @@
-{% assign api = site.data.card-api %}
-
 {% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
 {% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
 {% assign month = site.data.months | where: "id", currentMonth %}
@@ -42,7 +40,7 @@
                     <td class="thumb-col">
                         <a href="/top-decks/{{url}}">
                             <div class="thumbnail">
-                                <img src="{{ api | insert_name: deck[1].main[0].name }}" class="portrait" />
+                                <img src="{{ site.data.card-api | name: deck[1].main[0].name }}" class="portrait" />
                             </div>
                         </a>
                     </td>

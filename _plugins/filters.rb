@@ -14,7 +14,7 @@ module Jekyll
     end
   end
   module ApiFilter
-    def insert_name(input, name)
+    def name(input, name)
       input.gsub('[name]', name.gsub(' ', '_').gsub('-', '_').gsub(':', '_').gsub('#', '_').gsub('"', '_').gsub('/', '_'))
     end
   end
