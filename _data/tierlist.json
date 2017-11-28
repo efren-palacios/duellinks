@@ -2,7 +2,7 @@
     {
         "tier": 1,
         "category": "KOG",
-        "info": "**Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.**",
+        "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
             { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
@@ -33,7 +33,7 @@
     {
         "tier": 10,
         "category": "YouTube",
-        "info": "NOTE: This is simply a placeholder for older decks to not have to copy and find new pictures for. If this is displaying, an error has occurred with the website.",
+        "info": "",
         "types":
         [
             { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
