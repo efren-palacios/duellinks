@@ -2,7 +2,7 @@
     {
         "tier": 1,
         "category": "KOG",
-        "info": "blah blah blah",
+        "info": "**Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.**",
         "types":
         [
             { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
@@ -12,7 +12,7 @@
     {
         "tier": 2,
         "category": "KOG",
-        "info": "blah blah blah",
+        "info": "1 step away from being part of the best decks. Capable of winning a tournament without people being surprised. An advantage they have over tier 1 decks is that everyone is more focused on building their deck to beat a tier 1 deck and not a deck from this category.",
         "types":
         [            
             { "id": "gladiators",         "display": "Gladiators",         "card": "Gladiator Beast Bestiari" },
@@ -22,7 +22,7 @@
     {
         "tier": 3,
         "category": "KOG",
-        "info": "blah blah blah",
+        "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [
             { "id": "ancient-gears",      "display": "Ancient Gears",      "card": "Ancient Gear Golem"},
