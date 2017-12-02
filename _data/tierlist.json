@@ -26,8 +26,7 @@
         "types":
         [
             { "id": "ancient-gears",      "display": "Ancient Gears",      "card": "Ancient Gear Golem"},
-            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
-            { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" }
+            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" }
         ]
     },
     {
@@ -36,6 +35,7 @@
         "info": "",
         "types":
         [
+            { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" },
             { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
             { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
             { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
