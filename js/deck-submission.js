@@ -4,6 +4,7 @@ $(document).ready(function()
     GetAllCards();
     MakeBoxesDroppable();
     CreateTypeEnum();
+    BindFormEvents();
 });
 
 function InitializeViewModel()
@@ -89,24 +90,30 @@ function MakeBoxesDroppable()
 
 function AddCardToUserDeck(name)
 {
-    var nextNumber = GetNextNumber(name);
-
-    if(nextNumber <= 3)
+    if(DeckSubmissionViewModel.selectedMainCards().length < 30)
     {
-        $.getJSON("https://www.ygohub.com/api/card_info?name=" + name, function(data)
+        var nextNumber = GetNextNumber(name);
+        
+        if(nextNumber <= 3)
         {
-            var card = 
+            $.getJSON("https://www.ygohub.com/api/card_info?name=" + name, function(data)
             {
-                name: name,
-                type: GetTypeId(data.card.type),
-                attack: parseInt(data.card.attack),
-                isNormal: $.inArray("Effect", data.card.monster_types) < 0,
-                number: nextNumber
-            }
-    
-            DeckSubmissionViewModel.selectedMainCards.push(card);
-            MakeCardsDraggable();
-        });
+                if(data.status === "success")
+                {
+                    var card = 
+                    {
+                        name: name,
+                        type: GetTypeId(data.card.type),
+                        attack: parseInt(data.card.attack),
+                        isNormal: $.inArray("Effect", data.card.monster_types) < 0,
+                        number: nextNumber
+                    }
+            
+                    DeckSubmissionViewModel.selectedMainCards.push(card);
+                    MakeCardsDraggable();
+                }
+            });
+        }
     }
 }
 
@@ -148,10 +155,11 @@ function SortDeck(a, b)
         if(normalResult != 0) return normalResult;
 
         var attackResult = (a.attack < b.attack) ? 1 : ((a.attack > b.attack) ? -1 : 0);
-        return attackResult;
+        if(attackResult != 0) return attackResult;
     }
 
-    return 0;
+    var nameResult = (a.name > b.name) ? 1 : ((a.name < b.name) ? -1 : 0);
+    return nameResult;
 }
 
 function CreateTypeEnum()
@@ -169,4 +177,12 @@ function GetTypeName(typeId)
 {
     var types = $(cardTypes).filter(function(){ return this.id === typeId; });
     return types.length > 0 ? types[0].name : "";
+}
+
+function BindFormEvents()
+{
+    $("form.deck-submission").submit(function(event)
+    {
+        event.preventDefault();
+    });
 }
