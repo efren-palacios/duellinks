@@ -3,6 +3,7 @@ $(document).ready(function()
     InitializeViewModel();
     GetAllCards();
     MakeBoxesDroppable();
+    CreateTypeEnum();
 });
 
 function InitializeViewModel()
@@ -67,9 +68,7 @@ function MakeBoxesDroppable()
         accept: ".item",
         drop: function(event, ui)
         {
-            var name = $(ui.draggable).data("name");
-            DeckSubmissionViewModel.selectedMainCards.push(name);
-            MakeCardsDraggable();
+            AddCardToUserDeck($(ui.draggable).data("name"));
         },
         out: function (event, ui)
         {
@@ -77,7 +76,12 @@ function MakeBoxesDroppable()
             ui.helper.off('mouseup').on('mouseup', function ()
             {
                 var name = $(ui.draggable).data("name");
-                DeckSubmissionViewModel.selectedMainCards.remove(name);
+                var number = $(ui.draggable).data("number");
+
+                DeckSubmissionViewModel.selectedMainCards.remove(function(card)
+                {
+                    return card.name == name && card.number === number;
+                });
             });
         }
     });
@@ -85,5 +89,84 @@ function MakeBoxesDroppable()
 
 function AddCardToUserDeck(name)
 {
+    var nextNumber = GetNextNumber(name);
+
+    if(nextNumber <= 3)
+    {
+        $.getJSON("https://www.ygohub.com/api/card_info?name=" + name, function(data)
+        {
+            var card = 
+            {
+                name: name,
+                type: GetTypeId(data.card.type),
+                attack: parseInt(data.card.attack),
+                isNormal: $.inArray("Effect", data.card.monster_types) < 0,
+                number: nextNumber
+            }
     
+            DeckSubmissionViewModel.selectedMainCards.push(card);
+            MakeCardsDraggable();
+        });
+    }
+}
+
+function GetNextNumber(name)
+{
+    var cards = $(DeckSubmissionViewModel.selectedMainCards()).filter(function()
+    {
+        return this.name === name;
+    });
+
+    if(cards.length === 0)
+    {
+        return 1;
+    }
+    else
+    {
+        numbers = cards.map(function(){return this.number;});
+
+        for(var i = 1; i <= 3; i++)
+        {
+            if($.inArray(i, numbers) < 0)
+            {
+                return i;
+            }
+        }
+
+        return Math.max.apply(Math, numbers) + 1;
+    }
+}
+
+function SortDeck(a, b)
+{
+    var typeResult = (a.type > b.type) ? 1 : ((a.type < b.type) ? -1 : 0);
+    if(typeResult != 0) return typeResult;
+
+    if(a.type === 1 && b.type === 1)
+    {
+        var normalResult = (a.isNormal > b.isNormal) ? 1 : ((a.isNormal < b.isNormal) ? -1 : 0);
+        if(normalResult != 0) return normalResult;
+
+        var attackResult = (a.attack < b.attack) ? 1 : ((a.attack > b.attack) ? -1 : 0);
+        return attackResult;
+    }
+
+    return 0;
+}
+
+function CreateTypeEnum()
+{
+    cardTypes = [{ id: 1, name: "Monster"}, { id: 2, name: "Spell"}, { id: 3, name: "Trap"}];
+}
+
+function GetTypeId(typeName)
+{
+    var types = $(cardTypes).filter(function() { return this.name === typeName; });
+    return types.length > 0 ? types[0].id : -1;
+}
+
+function GetTypeName(typeId)
+{
+    var types = $(cardTypes).filter(function(){ return this.id === typeId; });
+    return types.length > 0 ? types[0].name : "";
 }

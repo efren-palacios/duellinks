@@ -16,7 +16,7 @@ function GetCards()
 {
     $.getJSON("/data/cards-dl.json", function(data)
     {
-        cards = data;
+        allCards = data;
     });
 }
 
@@ -67,7 +67,7 @@ function GetCardUrl(name)
 
 function GetDuelLinksIdByCardName(name)
 {
-    var result = $(cards).filter(function(index, value)
+    var result = $(allCards).filter(function(index, value)
     {
         return value.name === name;
     });

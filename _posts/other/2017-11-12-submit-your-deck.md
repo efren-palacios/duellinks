@@ -52,9 +52,9 @@ permalink: /submit-your-deck/
             <div class="form-group col-sm-7 card-display">
                 <label for="searcher">Your deck</label>
                 <div id="deck" class="user-deck">
-                    <div id="cards" data-bind="foreach: selectedMainCards">
-                        <div class="item" data-bind="attr: {'data-name': $rawData}">
-                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl($rawData) }" alt=""></a>
+                    <div id="cards" data-bind="foreach: selectedMainCards().sort(SortDeck)">
+                        <div class="item" data-bind="attr: {'data-name': name, 'data-number': number}">
+                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a>
                         </div>
                     </div>
                 </div>
