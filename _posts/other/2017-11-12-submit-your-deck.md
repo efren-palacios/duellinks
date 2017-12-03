@@ -67,7 +67,7 @@ permalink: /submit-your-deck/
                 <input type="text" class="form-control" data-bind="attr: { name: 'fields[main' + $index() + ']', value: name}">
             </div>
             <div class="form-group col-sm-1">
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <input type="button" id="SubmitDeck" class="btn btn-primary" value="Submit">
             </div>
         </div>
     </form>

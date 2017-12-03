@@ -96,7 +96,7 @@ function AddCardToUserDeck(name)
         
         if(nextNumber <= 3)
         {
-            $.getJSON("https://www.ygohub.com/api/card_info?name=" + name, function(data)
+            $.getJSON("https://www.ygohub.com/api/card_info?name=" + encodeURIComponent(name), function(data)
             {
                 if(data.status === "success")
                 {
@@ -181,8 +181,8 @@ function GetTypeName(typeId)
 
 function BindFormEvents()
 {
-    $("form.deck-submission").submit(function(event)
+    $("#SubmitDeck").click(function()
     {
-        event.preventDefault();
+        $("form.deck-submission").submit();
     });
 }
