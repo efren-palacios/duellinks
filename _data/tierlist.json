@@ -1,5 +1,19 @@
 [
     {
+        "category": "NewDecks",
+        "info": "New deck types or decks that have received new cards that change the deck.",
+        "types":
+        [
+            { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
+            { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
+            { "id": "dinos-control",      "display": "Dino Control",       "card": "Hydrogeddon" },
+            { "id": "gemini",             "display": "Geminis",            "card": "Supervise" },
+            { "id": "machine",            "display": "Machines",           "card": "Pulse Mines" },
+            { "id": "pyrorex",            "display": "Pyrorex",            "card": "Pyrorex the Elemental Lord" },
+            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" }
+        ] 
+    },
+    {
         "tier": 1,
         "category": "KOG",
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
