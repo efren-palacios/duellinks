@@ -3,6 +3,7 @@ layout: blog
 title: Box - Galactic Origin
 meta: New Box
 categories: box
+pinned: true
 image: https://i.imgur.com/qFL4ijU.jpg
 author: Dkayed
 date: 2017-11-02 10:45:00 -0600
