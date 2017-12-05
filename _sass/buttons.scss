@@ -25,8 +25,8 @@
             outline: 3px solid #385979;
             background: #A9BCC3;
             color: #252B2D;
-            font-weight: 500;
-            font-size: 19px;
+            font-weight: 600;
+            font-size: 17px;
             line-height: 18px;
             overflow: hidden;
             float: left;
@@ -66,16 +66,15 @@
                 padding-top: 2px;
                 padding-left: 48px;
                 text-transform: uppercase;
+                letter-spacing: 1px;
             }
 
             > .decktype-count
             {
-                display: flex;
-                justify-content: right;
-                align-items: flex-end;
+                position: absolute;
+                right: 1px;
+                bottom: 1px;
                 font-size: 20px;
-                margin-bottom: 1px;
-                margin-right: 1px;
                 color: #060606;
 
                 /*

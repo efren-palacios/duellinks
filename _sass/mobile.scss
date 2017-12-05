@@ -178,7 +178,7 @@
 
         > .decktype-display
         {
-          font-size: 13px;
+          font-size: 12px;
           padding-left: 40px;
         }
 
@@ -196,28 +196,25 @@
 {
   .decktype-filter .btn-wrapper
   {
-    /*width: 100%;*/
-
     > .decktype-new
     {
       width: 25px;
     }
 
-    /*.btn-decktype 
+    .btn-decktype 
     {
-      text-align: left;
-      
+      line-height: 15px;
+
       > .decktype-display
       {
-        font-size: 15px;
-        padding-left: 45px;
+        padding-left: 38px;
+        letter-spacing: 0px;
       }
 
       > .decktype-count
       {
-        font-size: 16px;
-        margin-bottom: 1px;
+        font-size: 14px;
       }
-    }*/
+    }
   }
 }
