@@ -1,7 +1,39 @@
 require 'fileutils'
 require 'jekyll'
+require 'json'
 
 module Jekyll
+  class DeckFile < Jekyll::Page
+  end
+
+  class DeckFileGenerator < Jekyll::Generator
+    safe true
+
+    def generate(site)
+      year = Date.today.year.to_s
+      month = Date.today.month.to_s
+
+      pending = site.data["top-decks"]["pending"]
+
+      for file_key in pending.keys
+        file = pending[file_key]
+
+        deck_type = "gladiators"
+        file_path = "./_data/top-decks/" + year + "/" + month + "/" + deck_type + "/" + file["author"] + ".json"
+
+        #if File.exist?(file_path)
+          #FileUtils.rm file_path
+        #end
+
+        #new_file = File.new(file_path, "w")
+        #new_file.puts(file) #.gsub("=>", ":")
+        #new_file.close
+
+      end
+    end
+  end
+  
+  
   class DeckPage < Jekyll::Page
   end
 
@@ -23,15 +55,16 @@ module Jekyll
               deck = decktype[deck_key]
               deck_name = deck['name']
 
-              unless File.exist?('deck.html')
-                deck_file = File.new('deck.html', 'w')
+              if File.exist?('deck.html')
+                FileUtils.rm 'deck.html'
               end
-
-              deck_file.puts("---")
-              deck_file.puts("layout: blog")
-              deck_file.puts("title: #{deck_name}")
-              deck_file.puts("author: bot")
-              deck_file.puts("comments: true")
+                
+              deck_page = File.new('deck.html', 'w')
+              deck_page.puts("---")
+              deck_page.puts("layout: blog")
+              deck_page.puts("title: #{deck_name}")
+              deck_page.puts("author: bot")
+              deck_page.puts("comments: true")
 
               lower_name = deck_name.downcase
               lower_name.gsub! ' ', '-'
@@ -42,29 +75,27 @@ module Jekyll
               lower_author.gsub! ' ', '-'
               updated_author = lower_author
 
-              deck_file.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
-              deck_file.puts("---")
-              deck_file.puts("")
-              deck_file.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
-              deck_file.puts("<div class='deck-page'>")
-              deck_file.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
-              deck_file.puts("    <script>var playtest = {{deck | jsonify}}</script>") 
-              deck_file.puts("    {% if deck.notes != null %}")
-              deck_file.puts("      <h2>Notes from {{deck.author}}</h2>")
-              deck_file.puts("      {% for note in deck.notes %}")
-              deck_file.puts("        <div class='section deck-notes'>")
-              deck_file.puts("          <h4>{{note.title}}</h4>")
-              deck_file.puts("          <p>{{note.text}}</p>")
-              deck_file.puts( "      </div>")
-              deck_file.puts("    {% endfor %}")
-              deck_file.puts("  {% endif %}")
-              deck_file.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
-              deck_file.puts("</div>")
-              deck_file.close
+              deck_page.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
+              deck_page.puts("---")
+              deck_page.puts("")
+              deck_page.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
+              deck_page.puts("<div class='deck-page'>")
+              deck_page.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
+              deck_page.puts("    <script>var playtest = {{deck | jsonify}}</script>") 
+              deck_page.puts("    {% if deck.notes != null %}")
+              deck_page.puts("      <h2>Notes from {{deck.author}}</h2>")
+              deck_page.puts("      {% for note in deck.notes %}")
+              deck_page.puts("        <div class='section deck-notes'>")
+              deck_page.puts("          <h4>{{note.title}}</h4>")
+              deck_page.puts("          <p>{{note.text}}</p>")
+              deck_page.puts( "      </div>")
+              deck_page.puts("    {% endfor %}")
+              deck_page.puts("  {% endif %}")
+              deck_page.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
+              deck_page.puts("</div>")
+              deck_page.close
 
               site.pages << DeckPage.new(site, site.source, '', 'deck.html')
-
-              FileUtils.rm 'deck.html'
             end
           end
         end
