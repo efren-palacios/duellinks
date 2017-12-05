@@ -56,7 +56,7 @@
 .card-hover
 {
   color: $flashy-blue;
-  font-weight: bold;
+  /*font-weight: bold;*/ /* looks better without */
   cursor: pointer;
 }
 
