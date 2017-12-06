@@ -1,0 +1,23 @@
+---
+layout: blog
+title: ##Harpies
+author: bot
+comments: true
+permalink: /top-decks/December-2017/harpies/harpies-by-boafanyz/
+---
+
+{% assign deck = site.data.top-decks.2017.12.harpies.BoAFanYZ %}
+<div class='deck-page'>
+  {% include deck.html deck=deck showHeader=true showStats=true %}
+    <script>var playtest = {{deck | jsonify}}</script>
+    {% if deck.notes != null %}
+      <h2>Notes from {{deck.author}}</h2>
+      {% for note in deck.notes %}
+        <div class='section deck-notes'>
+          <h4>{{note.title}}</h4>
+          <p>{{note.text}}</p>
+      </div>
+    {% endfor %}
+  {% endif %}
+  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>
+</div>
