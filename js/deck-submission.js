@@ -1,11 +1,25 @@
 $(document).ready(function()
 {
+    SortDecktypes();
     InitializeViewModel();
     GetAllCards();
     MakeBoxesDroppable();
     CreateTypeEnum();
     BindFormEvents();
 });
+
+function SortDecktypes()
+{
+    var options = $("#deckType option");
+    var list = options.map(function(index, option) { return { display: $(option).text(), value: option.value }; }).get();
+    list.sort(function(o1, o2) { return o1.display > o2.display ? 1 : o1.display < o2.display ? -1 : 0; });
+    
+    options.each(function(index, option)
+    {
+      option.value = list[index].value;
+      $(option).text(list[index].display);
+    });
+}
 
 function InitializeViewModel()
 {

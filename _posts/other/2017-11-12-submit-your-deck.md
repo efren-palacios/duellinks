@@ -20,15 +20,27 @@ permalink: /submit-your-deck/
 <div class="section">
     <form class="deck-submission" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
         <div class="row">
-            <div class="form-group col-sm-12">
+            <div class="form-group col-sm-6">
                 <label for="name">Deck name</label>
                 <input type="text" class="form-control" id="name" name="fields[name]">
             </div>
-            <div class="form-group col-sm-12">
+            <div class="form-group col-sm-6">
                 <label for="author">Author</label>
                 <input type="text" class="form-control" id="author" name="fields[author]">
             </div>
-            <div class="form-group col-sm-12">
+            <div class="form-group col-sm-6">
+                <label for="deckType">Deck Type</label>
+                <select class="form-control" id="deckType" name="fields[deckType]">
+                    <option value=""></option>
+                    {% assign tiers = site.data.tierlist %}
+                    {% for tier in tiers %}
+                        {% for type in tier.types %}
+                            <option value="{{type.id}}">{{type.display}}</option>
+                        {% endfor %}
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group col-sm-6">
                 <label for="skill">Skill</label>
                 <select class="form-control" id="skill" name="fields[skill]">
                     <option>Balance</option>

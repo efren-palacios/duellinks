@@ -6,8 +6,7 @@
   "main": [
     {
       "name": "Gladiator Beast Laquari",
-      "amount": "3",
-      "type": "monster"
+      "amount": "3"
     },
     {
       "name": "Gladiator Beast Bestiari",

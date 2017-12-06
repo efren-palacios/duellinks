@@ -1,0 +1,50 @@
+{
+  "name": "##Harpies",
+  "author": "BoAFanYZ",
+  "created": "2017-12-05",
+  "skill": "Harpies' Hunting Ground",
+  "main": [
+    {
+      "name": "Sphere Kuriboh",
+      "amount": "1"
+    },
+    {
+      "name": "Harpie Dancer",
+      "amount": "3"
+    },
+    {
+      "name": "Birdface",
+      "amount": "3"
+    },
+    {
+      "name": "Cyber Harpie Lady",
+      "amount": "3"
+    },
+    {
+      "name": "Parallel Twister",
+      "amount": "1"
+    },
+    {
+      "name": "Big Bang Shot",
+      "amount": "3"
+    },
+    {
+      "name": "Enemy Controller",
+      "amount": "3"
+    },
+    {
+      "name": "Elegant Egotist",
+      "amount": "1"
+    },
+    {
+      "name": "Floodgate Trap Hole",
+      "amount": "2"
+    }
+  ],
+  "notes":
+  [
+    {
+      "text": "Only Use Harpies."
+    }
+  ]
+}
