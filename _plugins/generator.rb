@@ -3,9 +3,6 @@ require 'jekyll'
 require 'json'
 
 module Jekyll
-  class DeckFile < Jekyll::Page
-  end
-
   class DeckFileGenerator < Jekyll::Generator
     safe true
 
@@ -20,22 +17,22 @@ module Jekyll
         file = pending[file_key]
         deck_type = file["deckType"]
 
-        directory = "./_data/top-decks/" + year + "/" + month + "/" + deck_type + "/"
+        directory = site.source + "/_data/top-decks/" + year + "/" + month + "/" + deck_type + "/"
         file_name = file["author"].downcase + ".json"
         full_path = directory + file_name
 
-        unless File.directory?(directory)
+        #unless File.directory?(directory)
           #FileUtils.mkdir_p(directory)
-        end
+        #end
 
-        unless File.exist?(full_path)
+        #unless File.exist?(full_path)
           #new_file = File.new(full_path, "w")
 
           file_main = [file["main0"], file["main1"], file["main2"], file["main3"], file["main4"], file["main5"]]
           deck_main = []
 
           for card in file_main
-            deck_main.push(card)
+            deck_main.push({ "name" => card, "amount" => 1})
           end
 
           deck =
@@ -52,9 +49,7 @@ module Jekyll
           #new_file.close
 
 
-        end
-
-
+        #end
       end
     end
   end
@@ -81,11 +76,11 @@ module Jekyll
               deck = decktype[deck_key]
               deck_name = deck['name']
 
-              if File.exist?('deck.html')
-                FileUtils.rm 'deck.html'
+              unless File.exist?('deck.html')
+                deck_page = File.new('deck.html', 'w')
               end
                 
-              deck_page = File.new('deck.html', 'w')
+              
               deck_page.puts("---")
               deck_page.puts("layout: blog")
               deck_page.puts("title: #{deck_name}")
@@ -122,6 +117,8 @@ module Jekyll
               deck_page.close
 
               site.pages << DeckPage.new(site, site.source, '', 'deck.html')
+
+              FileUtils.rm 'deck.html'
             end
           end
         end
