@@ -1,7 +1,7 @@
 [
   {
     "name": "Power of Dark",
-    "description": "Begins Duel with the Field Spell \"Yami\" activated.",
+    "description": "Begins Duel with the Field Spell 'Yami' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Yami Yugi"
@@ -42,7 +42,7 @@
     "character": "Joey"
   },
   {
-    "name": "Roll \"n\" Boost",
+    "name": "Roll 'n' Boost",
     "description": "Can be used each time your Life Points decrease by 2000. Show 1 monster card in your hand to the opponent and roll the die once. The Level of the monster shown becomes that of the die number untile the end of the turn.",
     "how": "Drop",
     "exclusive": true,
@@ -70,21 +70,21 @@
     "character": "Mai"
   },
   {
-    "name": "Harpie\"s Last Will",
-    "description": "6 \"Harpie\" cards in your Graveyard are banished, and 1 \"Harpie's Feather Duster\" card is added to your hand from outside your Deck.",
+    "name": "Harpie's Last Will",
+    "description": "6 'Harpie' cards in your Graveyard are banished, and 1 'Harpie's Feather Duster' card is added to your hand from outside your Deck.",
     "how": "Drop",
     "exclusive": true,
     "character": "Mai"
   },
   {
     "name": "Flight of the Harpies",
-    "description": "Can be used each time your Life points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random \"Harpie\" card.",
+    "description": "Can be used each time your Life points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Harpie' card.",
     "how": "Drop",
     "exclusive": true,
     "character": "Mai"
   },
   {
-    "name": "Harpie\"s Hunting Ground",
+    "name": "Harpie's Hunting Ground",
     "description": "Begin the Duel with the Field Spell Harpies' Hunting Ground on the top of your deck.",
     "how": "Drop",
     "exclusive": true,
@@ -113,7 +113,7 @@
   },
   {
     "name": "Dinosaur Kingdom",
-    "description": "Begin duel with the field spell \"Jurassic World\" activated.",
+    "description": "Begin duel with the field spell 'Jurassic World' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Rex"
@@ -155,7 +155,7 @@
   },
   {
     "name": "Parasite Infestation",
-    "description": "After starting hands are dealt, 1 or 2 \"Parasite Paracide\" cards are added to your opponent's deck face up.",
+    "description": "After starting hands are dealt, 1 or 2 'Parasite Paracide' cards are added to your opponent's deck face up.",
     "how": "Level 20",
     "exclusive": true,
     "character": "Weevil"
@@ -169,7 +169,7 @@
   },
   {
     "name": "Moth to the Flame",
-    "description": "Turn counts are double-speed for any \"Petit Moth\" with \"Cocoon of Evolution\" equipped on your side of the field.",
+    "description": "Turn counts are double-speed for any 'Petit Moth' with 'Cocoon of Evolution' equipped on your side of the field.",
     "how": "Drop",
     "exclusive": true,
     "character": "Weevil"
@@ -217,22 +217,22 @@
     "character": "Bandit Keith"
   },
   {
-    "name": "Cheater\"s Coin",
-    "description": "If your Life Points are at least 1000 more than opponent\"s, and if you have at least 5 cards in your hand, your coin tosses always land on heads.",
+    "name": "Cheater's Coin",
+    "description": "If your Life Points are at least 1000 more than opponent's, and if you have at least 5 cards in your hand, your coin tosses always land on heads.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bandit Keith"
   },
   {
     "name": "Bandit",
-    "description": "Can be used if your Life Points are at 1500 or below. Select and take control of 1 card Set in your opponent\"s Spell & Trap Zone. This skill can only be used once per Duel.",
+    "description": "Can be used if your Life Points are at 1500 or below. Select and take control of 1 card Set in your opponent's Spell & Trap Zone. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bandit Keith"
   },
   {
     "name": "Mythic Depths",
-    "description": "Begins Duel with the Field Spell \"Umi\" activated.",
+    "description": "Begins Duel with the Field Spell 'Umi' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Mako"
@@ -253,7 +253,7 @@
   },
   {
     "name": "Menace from the Deep",
-    "description": "Can be used if \"Umi\" is on the field, and you have a Water-attribute normal monster on your field. That monster can attack your opponent directly. this turn. At the end of the Battle Phase, that monster is sent to the Graveyard. This skill can only be used once per turn.",
+    "description": "Can be used if 'Umi' is on the field, and you have a Water-attribute normal monster on your field. That monster can attack your opponent directly. this turn. At the end of the Battle Phase, that monster is sent to the Graveyard. This skill can only be used once per turn.",
     "how": "Drop",
     "exclusive": true,
     "character": "Mako"
@@ -281,7 +281,7 @@
   },
   {
     "name": "Gravekeeper's lot",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random \"Gravekeeper's\" card.",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Gravekeeper's' card.",
     "how": "Drop",
     "exclusive": true,
     "character": "Ishizu"
@@ -323,7 +323,7 @@
   },
   {
     "name": "Bluff Trap",
-    "description": "Can be used each time your Life Points decrease by 1200. \"Statue of the Wicked\" is set in your Spell & Trap Zone.",
+    "description": "Can be used each time your Life Points decrease by 1200. 'Statue of the Wicked' is set in your Spell & Trap Zone.",
     "how": "Drop",
     "exclusive": true,
     "character": "Odion"
@@ -358,7 +358,7 @@
   },
   {
     "name": "It's a Toon World",
-    "description": "Begin Duel with the Continuous Spell \"Toon World\" activated.",
+    "description": "Begin Duel with the Continuous Spell 'Toon World' activated.",
     "how": "Drop",
     "exclusive": true,
     "character": "Pegasus"
@@ -400,7 +400,7 @@
   },
   {
     "name": "Destiny Board",
-    "description": "Can be used if \"Dark Necrofear\" is in your Graveyard, and your LP are at 2000 or below. At the end of your 5th turn after activating this skill, you win the Duel. This skill is negated if \"Dark Necrofear\" leaves your Graveyard. This skill can only be used once per Duel.",
+    "description": "Can be used if 'Dark Necrofear' is in your Graveyard, and your LP are at 2000 or below. At the end of your 5th turn after activating this skill, you win the Duel. This skill is negated if 'Dark Necrofear' leaves your Graveyard. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bakura"
@@ -414,7 +414,7 @@
   },
   {
     "name": "Elements Unite!",
-    "description": "You will start the duel with 500 Life Points and your starting hand will be 1 card, which is \"Gate Guardian\". In addition, you will start the Duel with Suijin, Kazejin, and Sanga of the Thunder on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.",
+    "description": "You will start the duel with 500 Life Points and your starting hand will be 1 card, which is 'Gate Guardian'. In addition, you will start the Duel with Suijin, Kazejin, and Sanga of the Thunder on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Paradox"
@@ -428,7 +428,7 @@
   },
   {
     "name": "Thunder, Water, and Wind",
-    "description": "Can be used when you life pints decrease by 1800. Randomly add one \"Sanga\" \"Kazejin\" or \"Suijin\" to your hand (these cards are not drawn from your deck). Can only be used once per duel",
+    "description": "Can be used when you life pints decrease by 1800. Randomly add one 'Sanga' 'Kazejin' or 'Suijin' to your hand (these cards are not drawn from your deck). Can only be used once per duel",
     "how": "Level 20",
     "exclusive": true,
     "character": "Paradox"
@@ -442,14 +442,14 @@
   },
   {
     "name": "Labyrinth Builder",
-    "description": "Shuffle 2 cards from your hand into the Deck to create \"Labyrinth Wall\" on your side of the field. This skill can only be used once per Duel.",
+    "description": "Shuffle 2 cards from your hand into the Deck to create 'Labyrinth Wall' on your side of the field. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Paradox"
   },
   {
     "name": "Guardian Call",
-    "description": "Can be used when your Life Points decrease by 1800. Randomly add 1 \"Guardian\" card from your Deck to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used when your Life Points decrease by 1800. Randomly add 1 'Guardian' card from your Deck to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Paradox"
@@ -547,14 +547,14 @@
   },
   {
     "name": "Shadow Game",
-    "description": "At the end of their respective turn, each player will lose LP equal to \"100\" times the number of cards in their own graveyard.",
+    "description": "At the end of their respective turn, each player will lose LP equal to '100' times the number of cards in their own graveyard.",
     "how": "Drop",
     "exclusive": true,
     "character": "Yami Marik"
   },
   {
     "name": "Where the Heroes Dwell",
-    "description": "Can be used after you Life Points are 2000 or below. Play the Field Spell \"Skyscraper\". If there already is Field Spell on your side of the Field, Return it to your hand. This skill can only be used once per duel.",
+    "description": "Can be used after you Life Points are 2000 or below. Play the Field Spell 'Skyscraper'. If there already is Field Spell on your side of the Field, Return it to your hand. This skill can only be used once per duel.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Jaden"
@@ -596,7 +596,7 @@
   },
   {
     "name": "Destiny Calling",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Dark City.\" If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Dark City.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Aster"
@@ -624,7 +624,7 @@
   },
   {
     "name": "Land of the Ojamas",
-    "description": "Begins Duel with the Field Spell \"Ojama Country\" activated.",
+    "description": "Begins Duel with the Field Spell 'Ojama Country' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Chazz"
@@ -652,42 +652,42 @@
   },
   {
     "name": "Silent as WATER",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Umiiruka.\" If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Bastion"
   },
   {
     "name": "Quick as the WIND",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Rising Air Current.\" If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 13",
     "exclusive": true,
     "character": "Bastion"
   },
   {
     "name": "Mighty as FIRE",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Molten Destruction.\" If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 20",
     "exclusive": true,
     "character": "Bastion"
   },
   {
     "name": "Firm as the EARTH",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Gaia Power.\" If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion"
   },
   {
     "name": "Radiating LIGHT",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Luminous Spark.\" If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion"
   },
   {
     "name": "DARK as Night",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell \"Mystic Plasma Zone.\" If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion"
@@ -708,14 +708,14 @@
   },
   {
     "name": "Master of Rites II",
-    "description": "Begin Duel with the Continuous Spell \"Ritual Cage\" activated.",
+    "description": "Begin Duel with the Continuous Spell 'Ritual Cage' activated.",
     "how": "Level 20",
     "exclusive": true,
     "character": "Alexis"
   },
   {
     "name": "Middle Age Mechs",
-    "description": "Begin Duel with the Continuous Spell \"Ancient Gear Castle\" activated.",
+    "description": "Begin Duel with the Continuous Spell 'Ancient Gear Castle' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Crowler"

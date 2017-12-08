@@ -42,13 +42,7 @@ permalink: /submit-your-deck/
             </div>
             <div class="form-group col-sm-6">
                 <label for="skill">Skill</label>
-                <select class="form-control" id="skill" name="fields[skill]">
-                    <option>Balance</option>
-                    <option>Restart</option>
-                    <option>The Tie That Binds</option>
-                    <option>Mind Scan</option>
-                    <option>Destiny Draw</option>
-                </select>
+                <input type="text" class="form-control" id="skill" name="fields[skill]">
             </div>
             <div class="form-group col-sm-5 card-search">
                 <label for="searcher">Search a card</label>
