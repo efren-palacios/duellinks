@@ -419,3 +419,22 @@ button:focus
     text-align: center;
   }
 }
+
+/* Easy autocomplete override */
+.easy-autocomplete-container ul {
+    background: #092035 !important;
+    border-top: 1px dotted #092035 !important;
+}
+
+.easy-autocomplete li {
+    border-bottom: 1px solid #0b2842 !important
+}
+
+.easy-autocomplete-container ul li {
+  border-color: #092035 !important;
+  padding: 8px 12px !important;
+}
+
+.easy-autocomplete-container ul li.selected {
+  background: #092035 !important;
+}

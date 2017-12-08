@@ -1,14 +1,14 @@
 ---
 layout: blog
 title: Gladiator Beasts Guide
-category: deck-type-guide
 author: Raytee
-image: /img/guides/gladiators.png
+category: deck-type-guide
+deck-type: gladiators
+image: /img/guides/gladiator-beasts-guide-by-raytee/thumbnail.png
 date: 2017-11-22
 comments: false
 description: 
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
-deck-type: gladiators
 permalink: /guides/gladiator-beasts-guide-by-raytee/
 ---
 

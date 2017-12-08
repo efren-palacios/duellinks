@@ -200,3 +200,16 @@ function BindFormEvents()
         $("form.deck-submission").submit();
     });
 }
+
+// Skill auto complete
+var options = {
+    url: "/data/skills.json",
+    getValue: "name",
+    list: {
+        match: {
+            enabled: true
+        }
+    }
+};
+
+$("#skill").easyAutocomplete(options);
