@@ -13,6 +13,7 @@ permalink: /news/in-game-update-&-upcoming-changes-december-2017
 
 # In Game Update & Upcoming Changes - December 7th, 2017
 ## By KingParrott
+
 ### Updates
 With the recent update on December 7th, Konami released a vault of new information to its Duel Links player base. I'm going to break it down to give the community what they need to know.
 
@@ -62,4 +63,4 @@ Finally, it has been announced that the next KC Cup is planned to be held near t
 
 ---
 ##### Thats all for now,
-#####  fo-KingParrott
+##### -KingParrott
