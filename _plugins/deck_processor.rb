@@ -44,10 +44,10 @@ module Jekyll
           {
             "name" => file["name"],
             "author" => file["author"],
-            "created" => file["date"],
+            "created" => file["date"][0..9],
             "skill" => file["skill"],
             "main" => deck_main,
-            "notes" => file["notes"]
+            "notes" => [{ "text" => file["notes"]}]
           }
 
           new_file.puts(deck.to_json)
