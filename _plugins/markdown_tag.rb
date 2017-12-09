@@ -25,7 +25,19 @@ module Jekyll
                 elsif (currChar == "}" && lastCardNameTagOpen >= 0)
                     tagContent = content[lastCardNameTagOpen + 1, i - lastCardNameTagOpen - 1]
 
-                    if (!tagContent.include?(": '") && !tagContent.include?(":'") && !tagContent.include?("$") && !tagContent.include?(":.") && !tagContent.include?("':") && !tagContent.include?("' :"))
+                    prohibitedSubstr = ["+", ": '", ":'", "$", ":.", "':", "' :", "/", "-", "=", ">", "<"]
+
+                    isTagCardName = true
+
+                    for j in 0...prohibitedSubstr.length
+                        if tagContent.include?(prohibitedSubstr[j])
+                            isTagCardName = false
+                            break
+                        end
+                    end
+
+                    if isTagCardName
+                        puts tagContent
                         cardNames.push(tagContent)
                     end
 
