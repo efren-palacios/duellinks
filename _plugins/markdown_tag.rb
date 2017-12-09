@@ -37,7 +37,6 @@ module Jekyll
                     end
 
                     if isTagCardName
-                        puts tagContent
                         cardNames.push(tagContent)
                     end
 
