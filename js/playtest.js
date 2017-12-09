@@ -91,23 +91,60 @@ function importDeck(deck) {
   refreshDeck(deck)
   shuffleDeck(decklist)
   $('#hand').empty();
-  for (var i = 0; i < 4; i++) {
-    dealHand(randomCard())
-  }
+  handleSkill(Phase.DRAW); 
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(deck)
   }
   currentDeck = deck
 }
 
+/*
+ * This is the starting function for the playtest area.
+ * Marking this for future reference. 
+ */  
 $(function() {
   refreshDeck(currentDeck);
   shuffleDeck(decklist);
   $('#hand').empty();
-  for (var i = 0; i < 4; i++) {
-    dealHand(randomCard())
-  }
+  handleSkill(Phase.DRAW);  
 })
+
+/*
+ * The object 'Phase' represents the time in which a skill needs to occur.
+ * 
+ * There are several representations:
+ * -- DRAW: The opening hand is modified in some way BEFORE the duel begins (i.e. start with Harpies' Hunting Ground, start with 5 card [Duel, Standby], etc.) 
+ * -- STANDBY: The field is manipulated in some way BEFORE the duel begins (i.e. start with Ojama Country, start with monsters on the field [Elements Unite], etc.)
+ * -- MAIN: Anything after the beginning of the duel is manipuated (i.e. draw the same card twice [Extra, Extra], etc.)     
+ */ 
+let Phase = {}
+Phase.DRAW = "Draw Phase"
+Phase.STANDBY = "Standby Phase"
+Phase.MAIN = "Main Phase"
+
+function handleSkill(phase) {
+  switch(phase) {
+    case Phase.DRAW: 
+      switch(playtest.skill) {
+        case "Harpies' Hunting Ground":
+          decklist.push({ id: decklist.length, name: "Harpies' Hunting Ground" });
+          dealHand(decklist.length - 1);
+
+          for (var i = 0; i < 3; i++) {
+            dealHand(randomCard());
+          }
+
+          break;
+        default: 
+          for (var i = 0; i < 4; i++) {
+            dealHand(randomCard());
+          }
+      }
+      break;
+    default:
+      console.error("The following phase has not been defined: " + phase)
+  }
+}
 
 $(document).on("click", ".hand img", function() {
   let currentImage = $(this).attr('src')
@@ -154,9 +191,7 @@ $('#new').click(function() {
   importDeck(currentDeck);
   $('.tokencopy').remove();
   $('#hand').empty();
-  for (var i = 0; i < 4; i++) {
-    dealHand(randomCard())
-  }
+  handleSkill(Phase.DRAW);
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(currentDeck)
   }
