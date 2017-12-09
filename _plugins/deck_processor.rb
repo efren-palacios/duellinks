@@ -7,8 +7,6 @@ module Jekyll
 
     def generate(site)
 
-      # Deck File Processing
-
       pending = site.data["top-decks"]["pending"]
 
       year = Date.today.year.to_s
@@ -30,7 +28,12 @@ module Jekyll
         unless File.exist?(full_path)
           new_file = File.new(full_path, "w")
 
-          file_main = [file["main0"], file["main1"], file["main2"], file["main3"], file["main4"], file["main5"]]
+          file_main = [
+            file["main0"],  file["main1"],  file["main2"],  file["main3"],  file["main4"],  file["main5"],
+            file["main6"],  file["main7"],  file["main8"],  file["main9"],  file["main10"], file["main11"],
+            file["main12"], file["main13"], file["main14"], file["main15"], file["main16"], file["main17"],
+            file["main18"], file["main19"]]
+
           deck_main = []
 
           for card in file_main
@@ -52,9 +55,6 @@ module Jekyll
 
         end
       end
-
-      # End Deck File Processing
-      
     end
   end
 end
