@@ -6,11 +6,8 @@
         [
             { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
             { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
-            { "id": "dinos-control",      "display": "Dino Control",       "card": "Hydrogeddon" },
             { "id": "gemini",             "display": "Geminis",            "card": "Supervise" },
-            { "id": "machine",            "display": "Machines",           "card": "Pulse Mines" },
-            { "id": "pyrorex",            "display": "Pyrorex",            "card": "Pyrorex the Elemental Lord" },
-            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" }
+            { "id": "winged-dragon-of-ra", "display": "Winged Dragon of Ra", "card": "The Winged Dragon of Ra" }
         ] 
     },
     {
@@ -30,7 +27,9 @@
         "types":
         [            
             { "id": "gladiators",         "display": "Gladiators",         "card": "Gladiator Beast Bestiari" },
-            { "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" }
+            { "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" },
+            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
+            { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" }
         ]
     },
     {
@@ -40,8 +39,7 @@
         "types":
         [
             { "id": "ancient-gears",      "display": "Ancient Gears",      "card": "Ancient Gear Golem"},
-            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
-            { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" }
+            { "id": "dinos-control",      "display": "Dino Control",       "card": "Hydrogeddon" }            
         ]
     },
     {
@@ -49,7 +47,10 @@
         "category": "YouTube",
         "info": "",
         "types":
-        [            
+        [    
+            { "id": "machine",            "display": "Machines",           "card": "Pulse Mines" },
+            { "id": "pyrorex",            "display": "Pyrorex",            "card": "Pyrorex the Elemental Lord" },
+            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" },   
             { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
             { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
             { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
