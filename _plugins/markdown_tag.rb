@@ -64,6 +64,8 @@ module Jekyll
                 end
             end
 
+            content.gsub! '[contentonly]', '{:.content-only}'
+
             # Call the standard Markdown converter
             site = Jekyll::Site.new(@config)
             mkconverter = site.find_converter_instance(Jekyll::Converters::Markdown)
