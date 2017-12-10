@@ -17,6 +17,10 @@ permalink: /guides/gladiator-beasts-guide-by-raytee/
 
 ### Introduction / Achievements / Optimized Deck
 
+Decklist 1 | Decklist 2
+:------------:|:------------:
+![](https://i.imgur.com/1343yIJ.png) | ![](https://i.imgur.com/1343yIJ.png)
+
 Hello, my name is Raytee. Maybe some people will know me from my **Youtube Channel** “Raytee Gaming”.
 
 Since the release of Gladiator Beasts in Duel Links,

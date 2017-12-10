@@ -10,8 +10,6 @@ module Jekyll
 
     def generate(site)
 
-      # Deck Page Generation
-
       top_decks = site.data["top-decks"]
 
       for year_key in top_decks.keys - ["pending"]
@@ -71,8 +69,6 @@ module Jekyll
           end
         end
       end
-
-      # End Deck Page Generation
 
     end
   end

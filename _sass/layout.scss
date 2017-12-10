@@ -80,6 +80,11 @@ hr
   border: 1px solid $dark-blue;
 }
 
+table{
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
 .comment 
 {
   background: $grey-blue2;
