@@ -33,11 +33,11 @@ Konami finally finished aggregating the data of decks, cards, and skills used fo
 	* {Machine Angel Ritual}
 	* {Machine Angel Absolute Ritual}
 3.  Top 5 Most Frequent Duelist Skills
-	* Mind Scan
-	* Restart
-	* Three-Star Demotion
-	* Middle Age Mechs
-	* Beatdown
+	* {Mind Scan}
+	* {Restart}
+	* {Three-Star Demotion}
+	* {Middle Age Mechs}
+	* {Beatdown}
 
 Looking at the above statistics, the majority of second stage KC Cup players used a cyber angel deck as their strategy of choice to compete in the tournament. {Cyber Angel Dakini} proved to be very powerful with its ability to remove monsters, inflict piercing damage, and recycle cards necessary for future ritual summons.  Mind Scan also gained immense popularity due to the heavy back-row that non cyber angel decks ran. 
 

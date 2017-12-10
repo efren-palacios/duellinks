@@ -20,23 +20,59 @@ $(function()
                 {
                     text: function(event, api)
                     {
-                        let name = $(this).attr('src')
-                        axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r)
-                        {
-                            api.set('content.text',
-                               `<div class="preview"><img width="120px" src="${name}" /></div>
-                                <div class="carddata"><b>${r.data.card.name}</b><br />
-                                    ${r.data.card.attribute ? "<p>Attribute: " + r.data.card.attribute : ""}
-                                    ${r.data.card.stars ? "Level: " + r.data.card.stars+"</p>"  : ""}
-                                    ${r.data.card.is_monster
-                                        ? '<p><b>[ </b>' + r.data.card.species + ' / ' + r.data.card.monster_types + '<b> ]</b></p>'
-                                        : '<p><b>[ </b>' + r.data.card.type + ' / ' + r.data.card.property +  '<b> ]</b></p>'}
-                                    <p>${r.data.card.text}</p>
-                                    <p>${r.data.card.attack ? "<b>ATK/</b>" + r.data.card.attack : ""}
-                                    ${r.data.card.defense ? "<b>DEF/</b>"+r.data.card.defense : ""}</p>
+                        let type = $(this).attr('name')
+                        if(type == "cardPopup"){
+                            let name = $(this).attr('src')
+                            axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r)
+                            {
+                                api.set('content.text',
+                                `<div class="preview"><img width="120px" src="${name}" /></div>
+                                    <div class="carddata"><b>${r.data.card.name}</b><br />
+                                        ${r.data.card.attribute ? "<p>Attribute: " + r.data.card.attribute : ""}
+                                        ${r.data.card.stars ? "Level: " + r.data.card.stars+"</p>"  : ""}
+                                        ${r.data.card.is_monster
+                                            ? '<p><b>[ </b>' + r.data.card.species + ' / ' + r.data.card.monster_types + '<b> ]</b></p>'
+                                            : '<p><b>[ </b>' + r.data.card.type + ' / ' + r.data.card.property +  '<b> ]</b></p>'}
+                                        <p>${r.data.card.text}</p>
+                                        <p>${r.data.card.attack ? "<b>ATK/</b>" + r.data.card.attack : ""}
+                                        ${r.data.card.defense ? "<b>DEF/</b>"+r.data.card.defense : ""}</p>
+                                    </div>`)
+                            })
+                            return "Loading card...";
+                        }else if(type == "skillPopup"){
+                            let name = $(this).html();
+                            axios.get(window.location.protocol + "//" + window.location.hostname + ":4000/data/skillsChars.json").then(function(r)
+                            {
+
+                                let characterWhoUses = [];
+                                let exclusive = false;
+                                let desc = "No description available";
+
+                                for(var i = 0; i < r.data.length; i++){
+                                    if(r.data[i].name.replace(/[^a-zA-Z ]/g, "").toLowerCase() == name.replace(/[^a-zA-Z ]/g, "").toLowerCase()){
+                                        desc = r.data[i].desc;
+                                        exclusive = r.data[i].exclusive;
+                                        characterWhoUses.push(r.data[i].character);
+
+                                        if(exclusive == true)
+                                            break;
+                                    }
+                                }
+
+                                let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
+
+                                api.set('content.text',
+                                `<div class="previewSkill"><img src="../img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
+                                <div class="skilldata">
+                                    <b>${name}</b><br/>
+                                    <p>${desc}</p>
+                                    ${exclusive == true
+                                            ? '<p>Skill exclusive to ' + characterWhoUses[0] + '</p>'
+                                            : '<p>Skill can be used in different characters</p>'}
                                 </div>`)
-                        })
-                        return "Loading card...";
+                            })
+                            return "Loading skill...";
+                        }
                     },
                 }
             }

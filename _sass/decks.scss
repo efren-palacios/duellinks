@@ -157,10 +157,26 @@
   padding: 1rem 0;
 }
 
+.skilldata
+{
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 12px;
+  padding: 1rem 0 0 0;
+}
+
 .preview img
 {
   margin: 1rem 1rem 1rem .5rem;
   width: 120px;
+  display: flex;
+}
+
+.previewSkill img
+{
+  margin: 1rem 1rem 1rem .5rem;
+  width: 90px;
   display: flex;
 }
 

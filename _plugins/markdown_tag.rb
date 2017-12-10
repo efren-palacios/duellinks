@@ -1,4 +1,5 @@
 require 'jekyll'
+require 'json'
 
 module Jekyll
     class CardNameConverter < Converter
@@ -44,8 +45,23 @@ module Jekyll
                 end
             end
 
+            skillsJsonFile = File.read('_data/skills.json')
+            skillsJson = JSON.parse(skillsJsonFile)
+
             for i in 0...cardNames.size
-                content.sub! '{' + cardNames[i] + '}', '<span class="card-hover" src="https://yugiohprices.com/api/card_image/' + cardNames[i] + '">' + cardNames[i] + '</span><span class="mobile"></span>'
+                isSkill = false
+                for j in 0...skillsJson.size
+                    if skillsJson[j]['name'].downcase.tr("!", "") == cardNames[i].downcase.tr("!", "")
+                        isSkill = true
+                       break
+                    end
+                end
+
+                if isSkill
+                    content.sub! '{' + cardNames[i] + '}', '<span class="card-hover" name="skillPopup">' + cardNames[i] + '</span><span class="mobile"></span>'
+                else
+                    content.sub! '{' + cardNames[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + cardNames[i] + '">' + cardNames[i] + '</span><span class="mobile"></span>'
+                end
             end
 
             # Call the standard Markdown converter
