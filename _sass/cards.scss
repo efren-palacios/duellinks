@@ -96,7 +96,7 @@
   float: right;
 }
 
-.monster
+/*.monster
 {
   color: $monster;
 
@@ -138,7 +138,7 @@
   {
     color: darken($fusion, 10%)
   }
-}
+}*/
 /* ------------------------ */
 
 
@@ -207,6 +207,7 @@
   img.portrait
   {
     width: 150%;
+    max-width: 150%;
     height: auto;
   }
 

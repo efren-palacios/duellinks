@@ -38,7 +38,7 @@ table th,
 table td
 {
     vertical-align: middle !important;
-    padding: 10px !important;
+    padding: 10px
 }
 
 table .thumb-col
@@ -113,18 +113,32 @@ table.content-only
 {
     margin-left: -10px;
     margin-right: -10px;
-}
 
-table.content-only,
-table.content-only td
-{
-    border: none !important;
-}
+    &,
+    td
+    {
+        border: none !important;
+    }
 
-table.content-only thead,
-table.content-only tbody,
-{
-    background-color: transparent;
+    th
+    {
+        padding-bottom: 0px;
+        text-transform: uppercase;
+        font-weight: normal;
+        font-size: larger;
+    }
+
+    thead,
+    tbody,
+    {
+        background-color: transparent;
+    }
+
+    tbody tr:first-child td
+    {
+        padding-top: 3px;
+    }
+
 }
 
 /* ---------------------- */
