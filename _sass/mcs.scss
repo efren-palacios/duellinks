@@ -1,0 +1,71 @@
+// Larger than vertical phone screens  
+@media screen and (min-width: 576px) {
+    .blue_banner_container {
+        position: absolute !important;
+    }
+    .red_banner_container {
+        position: absolute !important;
+    }    
+}
+
+@media screen and (max-width: 576px) {
+    .red_banner_text {
+        color: black !important;
+    }
+}
+
+// Tablet
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .blue_banner_container {
+        padding: 50px !important;
+        width: 50%;
+    }
+    .red_banner_container {
+        left: 50%;
+        margin: 55px;
+    }
+    .red_banner_header_text {
+        font-size: 30px !important;
+    } 
+}
+
+// Laptop
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .blue_banner_container {
+        padding: 60px !important;
+        width: 50%;
+    }
+    .red_banner_container {
+        left: 50%;
+        margin: 55px;
+    }
+}
+
+// Desktop 
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .blue_banner_container {
+        padding: 70px !important;
+        width: 50%;
+    }
+    .red_banner_container {
+        left: 50%;
+        margin: 55px;
+    }
+}
+
+// Desktop (XL) 
+@media screen and (min-width: 1200px) {
+    .blue_banner_container {
+        padding: 90px 70px 70px 70px !important;
+        width: 50%;
+    }
+    .red_banner_container {
+        left: 50%;
+        margin: 55px;
+    }
+}
+
+.red_banner_container p {
+    margin-bottom: 5px;
+}
+ 
