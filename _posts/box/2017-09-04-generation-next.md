@@ -3,7 +3,6 @@ layout: blog
 title: Box - Generation Next
 meta: New Box
 categories: box
-pinned: true
 image: https://i.imgur.com/eB5UjMk.png
 author: Dkayed
 date: 2017-09-19 10:45:00 -0600
