@@ -56,7 +56,7 @@ Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.
 [content-only]
 Decklist 1 | Decklist 2
 |:----------:|:----------:|
-![](https://cdn.discordapp.com/attachments/358808598811377675/389845056044924931/Eugen_Heidt_MCS_DL1_-_RussiaPlaya123.PNG) | ![](https://cdn.discordapp.com/attachments/358808598811377675/389845058230157312/Eugen_Heidt_MCS_DL2_-_RussiaPlaya123.PNG)
+![](/img/news/meta-championship-series-4-report/eugen-dl1.png) | ![](/img/news/meta-championship-series-4-report/eugen-dl2.png)
 
 #### 2nd Place - Jason: 
 "I used ca because I thought it was just the best deck, most consistent and most powerful. I used gb because it was the strongest control deck imo with a good matchup overall with everything, it was the deck I started with the most because I could usually play every game with my balanced hands."
@@ -64,7 +64,7 @@ Decklist 1 | Decklist 2
 [content-only]
 Decklist 1 | Decklist 2
 |:----------:|:----------:|
-![](https://cdn.discordapp.com/attachments/358808598811377675/389852701007020032/Jason5490_MCS_DL1_-_Jason_chu.jpg) | ![](https://cdn.discordapp.com/attachments/358808598811377675/389852709370724355/Jason5490_MCS_DL2_-_Jason_chu.jpg)
+![](/img/news/meta-championship-series-4-report/jason-dl2.png) | ![](/img/news/meta-championship-series-4-report/jason-dl2.png)
 
 #### 3rd Place - Dellex: 
 "I used double cyber angels since the deck was the most consistent. Restart and balance made it so i nearly always opened very well. Also i have played cyber angels since release and have had the most playtesting as a result of that.  I played 1 sphere kuriboh since it gives the least amount of information to my opponent. People will often go for game with econ only to lose to the suprise sphere kuriboh. If i ran econ instead my opponent would have the option to play around it. You cannot play around the 1 sphere kuriboh since by the time you realized i played it you will have already lost to it.
