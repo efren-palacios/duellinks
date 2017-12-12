@@ -3,6 +3,7 @@ $(document).ready(function()
     SortDecktypes();
     InitializeViewModel();
     GetAllCards();
+    GetAllSkills();
     MakeBoxesDroppable();
     CreateTypeEnum();
     BindFormEvents();
@@ -69,6 +70,18 @@ function GetAllCards()
     {
         DeckSubmissionViewModel.cards(data);
     });
+}
+
+function GetAllSkills()
+{
+    var options =
+    {
+        url: "/data/skills.json",
+        getValue: "name",
+        list: { match: { enabled: true } }
+    };
+
+    $("#skill").easyAutocomplete(options);
 }
 
 function MakeCardsDraggable()
@@ -199,17 +212,32 @@ function BindFormEvents()
     {
         $("form.deck-submission").submit();
     });
+
+    $("form.deck-submission").submit(function ()
+    {
+        var form = this;
+    
+        $(form).addClass('form--loading');
+    
+        $.ajax(
+        {
+          type: $(this).attr('method'),
+          url: $(this).attr('action'),
+          data: $(this).serialize(),
+          contentType: 'application/x-www-form-urlencoded',
+          success: function (data)
+          {
+            alert("Deck submitted!");
+            $(form).removeClass('form--loading');
+          },
+          error: function (err)
+          {
+            console.log(err);
+            alert("Error");
+            $(form).removeClass('form--loading');
+          }
+        });
+    
+        return false;
+    });
 }
-
-// Skill auto complete
-var options = {
-    url: "/data/skills.json",
-    getValue: "name",
-    list: {
-        match: {
-            enabled: true
-        }
-    }
-};
-
-$("#skill").easyAutocomplete(options);

@@ -32,12 +32,25 @@ module Jekyll
             file["main0"],  file["main1"],  file["main2"],  file["main3"],  file["main4"],  file["main5"],
             file["main6"],  file["main7"],  file["main8"],  file["main9"],  file["main10"], file["main11"],
             file["main12"], file["main13"], file["main14"], file["main15"], file["main16"], file["main17"],
-            file["main18"], file["main19"]]
+            file["main18"], file["main19"], file["main20"], file["main21"], file["main22"], file["main23"],
+            file["main24"], file["main25"], file["main26"], file["main27"], file["main28"], file["main29"]]
+          
+          file_extra = [
+            file["extra0"], file["extra1"], file["extra2"], file["extra3"], file["extra4"], file["extra5"]]
 
           deck_main = []
+          deck_extra = []
 
           for card in file_main
-            deck_main.push({ "name" => card, "amount" => 1})
+            if card
+              deck_main.push({ "name" => card, "amount" => 1})
+            end
+          end
+
+          for card in file_extra
+            if card
+              deck_extra.push({ "name" => card, "amount" => 1})
+            end
           end
 
           deck =
@@ -47,6 +60,7 @@ module Jekyll
             "created" => file["date"][0..9],
             "skill" => file["skill"],
             "main" => deck_main,
+            "extra" => deck_extra,
             "notes" => [{ "text" => file["notes"]}]
           }
 

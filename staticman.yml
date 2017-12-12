@@ -10,13 +10,12 @@ allowedFields: [
   "main28", "main29", "deckType"
 ]
 requiredFields: [
-  "name",   "author", "skill",  "notes",
+  "name",   "author", "skill",  "deckType",
   "main0",  "main1",  "main2",  "main3",
   "main4",  "main5",  "main6",  "main7",
   "main8",  "main9",  "main10", "main11",
   "main12", "main13", "main14", "main15",
-  "main16", "main17", "main18", "main19",
-  "deckType"
+  "main16", "main17", "main18", "main19"
 ]
 branch: master
 commitMessage: "New Deck Submission!"
