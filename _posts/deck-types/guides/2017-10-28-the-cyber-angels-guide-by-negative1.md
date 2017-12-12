@@ -280,7 +280,7 @@ Role: Subsitute Ritual Spell
 
 With MAR at 1, sprite can be used as a replacement ritual spell. You do not get the protection of MAR, or the Graveyard synergy of MAAR, but you can use it to summon any LIGHT ritual monster. This allows you to run monsters such as {Saffira, Queen of Dragons} more consistently.
 
-**Run 0-1**
+**Run 0-1**
 
 ---
 
