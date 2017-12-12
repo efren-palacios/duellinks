@@ -21,13 +21,10 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
 * **[Overview](#overview)**
     * [Introduction](#introduction)
     * [Playstyle](#playstyle)
-
 * **[Adressing Nerfs](#adressing-nerfs)**	
     * [How Will the Nerfs Affect CA?](#how-will-the-nerfs-affect-ca)
     * [How Will Nerfs/New Boxes Affect This Guide?](#how-will-nerfsnew-boxes-affect-this-guide)
-  
 * **[Short Hands and Abbreviations](#short-hands-and-abbreviations)**
-
 * **[The Decklist Breakdown](#the-decklist-breakdown)**
     * [Skills To Run With Cyber Angels](#skills-to-run-with-cyber-angels)
     * [Skill Matchup Chart](#skill-matchup-chart)
@@ -40,9 +37,7 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
     * [Miscellaneous Cards](#miscellaneous-cards)
     * [Cards to Not Run](#cards-to-not-run)
     * [How To Build A CA Deck](#how-to-build-a-ca-deck)
-
 * **[Combos](#combos)**
-
 * **[The Matchups](#the-matchups)**
     * [The Mirror 50-50](#the-mirror-50-50)
     * [CA vs Ninjas 60-40](#ca-vs-ninjas-60-40)
@@ -51,7 +46,6 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
     * [CA vs Burn 40-60 Burn](#ca-vs-burn-40-60-burn)
     * [CA vs Ancient Gears 60-40](#ca-vs-ancient-gears-60-40)
     * [Matchup Chart](#matchup-chart)
-
 * **[Frequently Asked Questions](#frequently-asked-questions)**
 * **[Replays](#replays)**
 * **[Special Thanks](#special-thanks)**
@@ -85,7 +79,7 @@ Changes to the game and the evolution of the meta will result in areas becoming 
 
 For newer players and those returning to the game.
 
-**Decks:**
+**Decks:**  
 AG: Ancient Gears  
 Burn: Destiny Draw Burn  
 CA: Cyber Angels  
@@ -93,26 +87,26 @@ GB: Gladiator Beast
 Ninjas: 3 Star Demotion Ninjas  
 REZ: Red-Eyes Zombies
 
-**Cards:**
-AGG: {Ancient Gear Golem}
-AMA: {Anti-Magic Arrows}
-Anubis: {Curse of Anubis}
-BDN: {Black Dragon Ninja}
-CC: {Cosmic Cyclone}
-Chalice: {Forbidden Chalice}
-Ebisu: {Masked Ninja Ebisu}
-Econ: {Enemy Controller}
-Floodgate: {Floodgate Trap Hole}
-MW: {Mirror Wall}
-RDN: {Red Dragon Ninja}
-REZD: {Red-Eyes Zombie Dragon}
-Saffira: {Saffira, Queen of Dragons}
-Spirit: {Red-Eyes Spirit}
-Swordswoman: {Amazoness Swordswoman}
-WoD: {Wall of Disruption}
-Xing: {Xing Zhen Hu}
+**Cards:**  
+AGG: {Ancient Gear Golem}  
+AMA: {Anti-Magic Arrows}  
+Anubis: {Curse of Anubis}  
+BDN: {Black Dragon Ninja}  
+CC: {Cosmic Cyclone}  
+Chalice: {Forbidden Chalice}  
+Ebisu: {Masked Ninja Ebisu}  
+Econ: {Enemy Controller}  
+Floodgate: {Floodgate Trap Hole}  
+MW: {Mirror Wall}  
+RDN: {Red Dragon Ninja}  
+REZD: {Red-Eyes Zombie Dragon}  
+Saffira: {Saffira, Queen of Dragons}  
+Spirit: {Red-Eyes Spirit}  
+Swordswoman: {Amazoness Swordswoman}  
+WoD: {Wall of Disruption}  
+Xing: {Xing Zhen Hu}  
 
-**Game State:**
+**Game State:**  
 Fast: Effects and results are immediate. Often refers to monster/spell effects as they can be activated on the turn you draw them and don’t require much setup.
 Slow: Effects that are delayed or will only occur in specific circumstances. Often refers to traps and cards with similar trigger conditions.
 Swing: Attack.
@@ -179,6 +173,7 @@ These decklists are optimized builds using {Restart} and {Balance}. I do not bel
 
 #### The Trinity
 
+[content-only]
 ![Dakini](https://image.prntscr.com/image/B-jFhxRtSVW18pemQx0dow.png) | ![Idaten](https://image.prntscr.com/image/RZE7hk2tQyWnorFgtU-Vvw.png) | ![Benten](https://image.prntscr.com/image/NYgHvX4RRlqBc95Dqyv1KQ.png)
 
 **{Cyber Angel Dakini}** - Dakini
@@ -198,6 +193,7 @@ Benten is primarily tribute fodder. Summoning her is a bad move in most cases be
 
 #### The Acolytes
 
+[content-only]
 ![Sonic Bird](https://image.prntscr.com/image/vmTB1NCCRbGSiqAGNeyl6Q.png) | ![Senju of the Thousand Hands](https://image.prntscr.com/image/6j0BDsvwQTOLKFtd82GW7A.png) | ![Cyber Petit Angel](https://image.prntscr.com/image/JOnppKBYQp6LRV9oJ1i26A.png)
 
 **{Sonic Bird}** - Bird
@@ -217,6 +213,7 @@ Petit is the best searcher in this deck, and even though people have made KOG wi
 
 #### The Rituals
 
+[content-only]
 ![Machine Angel Ritual](https://image.prntscr.com/image/CHc6zqnrR4Oa4IxYQe-0AA.png) | ![Machine Angel Absolute Ritual](https://image.prntscr.com/image/61hQKkJWTcCMB-ppF6QEDQ.png) | ![Sprite's Blessing](https://image.prntscr.com/image/uPC-PqHaSS6eTVklMmYJpg.png)
 
 **{Machine Angel Absolute Ritual}** - MAAR
@@ -319,6 +316,7 @@ Ritual Spells  highlighted in green.
 **Run at most 3 tech cards.** Running too many is leads to bricking and an overall decrease in consistency. {Hymn of Light} is treated as both a tech and a ritual spell.
 Techs are highlighted in pink.
 
+[content-only]
 ![Spell/Trap-based techs](https://image.prntscr.com/image/KnUKODSkQwGpH-R-YkiwJg.png) | ![Monster-based techs](https://image.prntscr.com/image/9mu5ot3JRrurskksFtc7iw.png)
 
 ---
