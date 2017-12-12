@@ -64,7 +64,7 @@ Decklist 1 | Decklist 2
 [content-only]
 Decklist 1 | Decklist 2
 |:----------:|:----------:|
-![](/img/news/meta-championship-series-4-report/jason-dl2.png) | ![](/img/news/meta-championship-series-4-report/jason-dl2.png)
+![](/img/news/meta-championship-series-4-report/jason-dl1.png) | ![](/img/news/meta-championship-series-4-report/jason-dl2.png)
 
 #### 3rd Place - Dellex: 
 "I used double cyber angels since the deck was the most consistent. Restart and balance made it so i nearly always opened very well. Also i have played cyber angels since release and have had the most playtesting as a result of that.  I played 1 sphere kuriboh since it gives the least amount of information to my opponent. People will often go for game with econ only to lose to the suprise sphere kuriboh. If i ran econ instead my opponent would have the option to play around it. You cannot play around the 1 sphere kuriboh since by the time you realized i played it you will have already lost to it.
