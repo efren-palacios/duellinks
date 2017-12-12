@@ -186,9 +186,9 @@ These are some theoretical winrates between average CA builds of each duel skill
 
 #### Top Tier CA Builds In the Current Meta
 
-![Restart decklist](https://image.prntscr.com/image/L7B0c1uNTuWtprRX-n1aUg.png) 
+[content-only]
+![Restart decklist](https://image.prntscr.com/image/L7B0c1uNTuWtprRX-n1aUg.png) | ![Balance decklist](https://image.prntscr.com/image/B3xLEQDQQD6m6QZIwTsRjg.png)
 
-![Balance decklist](https://image.prntscr.com/image/B3xLEQDQQD6m6QZIwTsRjg.png)
 These decklists are optimized builds using {Restart} and {Balance}. I do not believe they are empirically the best CA builds in the game but that the best CA builds will resemble them. Playing one of these can definitely get you to KoG, but you should consider adapting your tech choices to suit what you encounter the most if you want to speed up your climb.
 
 ---
