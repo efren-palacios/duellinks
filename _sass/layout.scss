@@ -38,10 +38,28 @@ body
   margin-top: 25px;
 }
 
-p
+p,
+ul
 {
   color: $text-muted;
   text-align: justify;
+}
+
+p img
+{
+  margin: auto;
+  display: block;
+  max-width: 100%;
+}
+
+a
+{
+  color: $active;
+
+  &:hover
+  {
+    color: darken($active, 8%);
+  }
 }
 
 .hidden
@@ -102,13 +120,6 @@ hr
 {
   margin-top: 1.5rem;
   border-radius: 50%;
-}
-
-p img
-{
-  margin: auto;
-  display: block;
-  max-width: 100%;
 }
 
 h2.title,
