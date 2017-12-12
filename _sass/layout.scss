@@ -376,46 +376,69 @@ button:focus
 }
 
 // MARKDOWN STUFF
-.markdown{
-  h1{
+.markdown
+{
+  //fix for url-fragments jumping to a location under the header bar
+  h1, h2, h3, h4, h5, h6
+  {
+    padding-top: $fragment;
+  }
+
+  h1
+  {
     font-size: 35pt;
     letter-spacing: 0.7px;
     margin-bottom: -7px;
+    margin-top: - $fragment;
   }
 
-  h2{
+  h2
+  {
     font-size: 26pt;
     letter-spacing: 0.7px; 
-    margin-bottom: 15px;   
+    margin-bottom: 15px;  
+    margin-top: - $fragment;
   }
 
-  h3{
+  h3
+  {
     font-size: 22pt;
-    margin-top: 40px;
+    margin-top: 30px - $fragment;
   }
 
-  h4{
-    margin-top: 20px;
+  h4
+  {
+    margin-top: 10px - $fragment;
   }
 
-  strong{
+  h5, h6
+  {
+    margin-top: - $fragment;
+  }
+
+  strong
+  {
     letter-spacing: 0.5px;
     font-family: "Alegreya-Medium" !important;
   }
 
-  p{
+  p
+  {
     letter-spacing: 0.1px;
   }
 
-  .deck-container{
+  .deck-container
+  {
     margin: 0 auto;
   }
 
-  .card-hover{
+  .card-hover
+  {
     color: #2F7D9C !important;
   }
 
-  .mdstyle-center{
+  .mdstyle-center
+  {
     display: block;
     text-align: center;
   }
