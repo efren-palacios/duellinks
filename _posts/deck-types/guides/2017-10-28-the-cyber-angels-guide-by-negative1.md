@@ -86,11 +86,11 @@ Changes to the game and the evolution of the meta will result in areas becoming 
 For newer players and those returning to the game.
 
 **Decks:**
-AG: Ancient Gears
-Burn: Destiny Draw Burn
-CA: Cyber Angels
-GB: Gladiator Beast
-Ninjas: 3 Star Demotion Ninjas
+AG: Ancient Gears  
+Burn: Destiny Draw Burn  
+CA: Cyber Angels  
+GB: Gladiator Beast  
+Ninjas: 3 Star Demotion Ninjas  
 REZ: Red-Eyes Zombies
 
 **Cards:**
@@ -137,19 +137,19 @@ Prior to the nerfs, {Balance} was the best skill for CA to run. However, with {B
 
 [“New Balance - What you should know?”](https://docs.google.com/document/d/1FN3NQAUItbn2CDZf2uVEk2LChRq-NtbLiToWFE3tvUU/edit)
 by: pll
-[Balance decklist](http://prntscr.com/hm8h0f)
+[Balance decklist](https://image.prntscr.com/image/XGjBi9nTS-__q62e_GlGmg.png)
 Cred: Taaha - Top 55 in KC Cup at peak DP
 
 #### **Duel Standby:**
 {Duel Standby} allows you to take full advantage of CA’s consistency and get massive combos off. Going second with {Duel Standby} is almost a guaranteed win as you can often blow through all of your opponent’s defenses by going for double Dakini, which is made easier with the extra material. Of all the CA builds, many consider DS CA to be the weakest when going first, and when playing the mirror, it is commonly believed that your opponent can just as easily OTK you as you could’ve OTK’d them. However, you can mitigate the disadvantage state with your tech choices to deal with going first in the mirror. Remember that your deck will be constructed with the extra material in mind; while your opponent will also have an extra card, their deck will not be made with the extra material in mind.
 
-[Duel Standby decklist](http://prntscr.com/hm8gaa)
+[Duel Standby decklist](https://image.prntscr.com/image/AKKAyQbRQkqu83_SdXzCig.png)
 Cred: Snowstar - 75% winrate in KC Cup
 
 #### **Mind Scan:**
 With the meta shifting towards CA and Ninjas, {Mind Scan} is becoming less relevant. MS CA was most powerful when CA was the least common, because Mind Scan CA does better against slower decks that utilize backrow and does worse against other CA decks. Since most CA decks are running econ as their main tech (or at least they should), the only task Mind Scan accomplishes in the mirror is prevent your opponent from bluffing face downs. I have made claims in the past that MS was the best skill for CA, but from my experience in the KC Cup, I no longer deem MS CA to be the strongest/most consistent CA build. The meta is still heavily focused on CA, and until that changes, I do not believe MS has a chance at being the best skill for CA.
 
-[Mind Scan decklist](http://prntscr.com/hm8fv6)
+[Mind Scan decklist](https://image.prntscr.com/image/ajSVX6OURhykizslsfFWMw.png)
 Cred: Rasiert - got 1st in EU during first day KC Cup
 
 ---
@@ -170,7 +170,7 @@ These are some theoretical winrates between average CA builds of each duel skill
 
 #### Top Tier CA Builds In the Current Meta
 
-[Restart decklist](http://prntscr.com/hm3isz) | [Balance decklist](http://prntscr.com/hm3j7e)
+[Restart decklist](https://image.prntscr.com/image/L7B0c1uNTuWtprRX-n1aUg.png) | [Balance decklist](https://image.prntscr.com/image/B3xLEQDQQD6m6QZIwTsRjg.png)
 These decklists are optimized builds using {Restart} and {Balance}. I do not believe they are empirically the best CA builds in the game but that the best CA builds will resemble them. Playing one of these can definitely get you to KoG, but you should consider adapting your tech choices to suit what you encounter the most if you want to speed up your climb.
 
 ---
@@ -179,7 +179,7 @@ These decklists are optimized builds using {Restart} and {Balance}. I do not bel
 
 #### The Trinity
 
-![Dakini](http://prntscr.com/hm9orp) | ![Idaten](http://prntscr.com/hm9olp) | ![Benten](http://prntscr.com/hm9og3)
+![Dakini](https://image.prntscr.com/image/B-jFhxRtSVW18pemQx0dow.png) | ![Idaten](https://image.prntscr.com/image/RZE7hk2tQyWnorFgtU-Vvw.png) | ![Benten](https://image.prntscr.com/image/NYgHvX4RRlqBc95Dqyv1KQ.png)
 
 **{Cyber Angel Dakini}** - Dakini
 Role: Boss Monster, Resource Control, End Goal
@@ -198,7 +198,7 @@ Benten is primarily tribute fodder. Summoning her is a bad move in most cases be
 
 #### The Acolytes
 
-![Sonic Bird](http://prntscr.com/hm8dtm) | ![Senju of the Thousand Hands](http://prntscr.com/hm8e1x) | ![Cyber Petit Angel](http://prntscr.com/hm8f2b)
+![Sonic Bird](https://image.prntscr.com/image/vmTB1NCCRbGSiqAGNeyl6Q.png) | ![Senju of the Thousand Hands](https://image.prntscr.com/image/6j0BDsvwQTOLKFtd82GW7A.png) | ![Cyber Petit Angel](https://image.prntscr.com/image/JOnppKBYQp6LRV9oJ1i26A.png)
 
 **{Sonic Bird}** - Bird
 Role: Search Ritual Spells
@@ -217,19 +217,19 @@ Petit is the best searcher in this deck, and even though people have made KOG wi
 
 #### The Rituals
 
-![Machine Angel Ritual](http://prntscr.com/hm8d0s) | ![Machine Angel Absolute Ritual](http://prntscr.com/hm8db7) | ![Sprite's Blessing](http://prntscr.com/hm8dm7)
+![Machine Angel Ritual](https://image.prntscr.com/image/CHc6zqnrR4Oa4IxYQe-0AA.png) | ![Machine Angel Absolute Ritual](https://image.prntscr.com/image/61hQKkJWTcCMB-ppF6QEDQ.png) | ![Sprite's Blessing](https://image.prntscr.com/image/uPC-PqHaSS6eTVklMmYJpg.png)
 
 **{Machine Angel Absolute Ritual}** - MAAR
 Role: Summon your Ritual Monsters, Restock your Deck
 This card can only be searched by {Sonic Bird} and Idaten, and it can’t be returned to the hand. However, MAAR is still an amazing card in its own right, and you want as many ritual spells as you can get with MAR limited to 1.
 **Run 3**
 
-**Machine Angel Ritual** - MAR
+**{Machine Angel Ritual}** - MAR
 Role: Summon your Ritual Monsters, Protection
 Konami hit this card hard with the new banlist, and not without a good reason. MAR is overall better than MAAR. It’s easier to get to your hand from the deck or Graveyard, and does not require an exact level to use. It also protects your light fairies while in the Graveyard, resulting in cards such as {Divine Wrath} and {Super Rush Headlong} becoming weak choices for the current meta.
 **Run 1**
 
-**Sprite’s Blessing** - Sprite
+**{Sprite’s Blessing}** - Sprite
 Role: Subsitute Ritual Spell
 With MAR at 1, sprite can be used as a replacement ritual spell. You do not get the protection of MAR, or the Graveyard synergy of MAAR, but you can use it to summon any LIGHT ritual monster. This allows you to run monsters such as {Saffira, Queen of Dragons} more consistently.
 **Run 0-1**
@@ -263,7 +263,7 @@ Floodgate is an overall good card, but lacks synergy with CA. Setting problemati
 {Cosmic Cyclone} and {Nobleman of Extermination} are the current best cards CA has in the meta. Nobleman can be good for burn as it can eliminate multiple copies of a single threat without spending life points, but CC is arguably stronger in the current meta because it can guarantee the removal of a backrow, and is a quickplay spell so it can be used on either player’s turn or can be chained. I’ve seen {Anti-Magic Arrows} getting used on occasion, but is not as good in the current meta because AMA doesn’t stop monster effects, and the most common threats to CA get used in the Main Phase to counter Dakini or interrupt combos. {Xing Zhen Hu} used to be a contender as another good option, but with the rise of Ninjas, backrow heavy/slower decks are much weaker as a result, so even having 2 backrow to lock down happens much less.
 **Tech**
 
-##### **Skelengel**
+##### **{Skelengel}**
 {Skelengel} is a f2p substitute for other searchers but has no real place in an optimal build for CA as it is susceptible to a Dakini effect or piercing damage. With CA and Ninjas holding tier 1, flip effects are too slow to contend in the higher levels of competition.
 **Can replace: {Sonic Bird}, Senju, Petit**
 
@@ -296,7 +296,7 @@ Super Rush had it’s use in the previous meta, but the monster removal Dakini p
 ##### **{Metalmorph}**
 When CA came onto the scene, 3SD TBD and 3SD Ninjas dropped in viability, and so did {Metalmorph}. With Ninjas making a comeback, some may wonder if {Metalmorph} is good again. The short answer is no. 
 
-##### **Divine Wrath**
+##### **{Divine Wrath}**
 {Divine Wrath} and similar effect negation cards can negate effects, but this effect is not as relevant in the current meta. If you chain dwrath when an opponent summons a Dakini, their Dakini will be safe as long as they tributed a Benten or an Idaten for the summon. This is because of a ruling in Yugioh called “SEGOC” or “Simultaneous Effects Go On Chain.” Since Dakini’s effect and Benten’s / Idaten’s effect would all be activated simultaneously, they go on chain; dwrath can only negate the last link in the chain, so Dakini gets protected. {Forbidden Chalice} is overall a faster and less costly option, not to mention it is chainable.
 
 ##### **{Sky Scourge Enrise}**
@@ -309,7 +309,7 @@ With the excess of LIGHT fairy type monsters in CA, some people have tried runni
 **Core:**
 All CA decks should start with these cards and from there try to develop for the meta. Use {Restart} CA if you want to utilize spells and trap tech options and use {Balance} CA if you want to utilize monster tech options. Balance CA can run Hymn of light as a tech, but this is to meet a requirement for spells.
 
-![CA Core](http://prntscr.com/hm8ipk)
+![CA Core](https://image.prntscr.com/image/kOsZpxCUQDSbayQko4ZcJw.png)
 
 **Ritual Spells:**
 **Aim to have 6 ritual spells.** Running 5 is also viable, but straying too far will lead to consistency issues. Don’t forget that {Sonic Bird} can be treated as a ritual spell as it can search for one when summoned.
@@ -319,7 +319,7 @@ Ritual Spells  highlighted in green.
 **Run at most 3 tech cards.** Running too many is leads to bricking and an overall decrease in consistency. {Hymn of Light} is treated as both a tech and a ritual spell.
 Techs are highlighted in pink.
 
-![Spell/Trap-based techs](http://prntscr.com/hm9hpc)![Monster-based techs](http://prntscr.com/hm9huq)
+![Spell/Trap-based techs](https://image.prntscr.com/image/KnUKODSkQwGpH-R-YkiwJg.png) | ![Monster-based techs](https://image.prntscr.com/image/9mu5ot3JRrurskksFtc7iw.png)
 
 ---
 
@@ -452,7 +452,8 @@ REZ has remained a top tier deck for such a long time because of its versatility
 + **Summoning Dakini:** When summoning Dakini’s with Idaten boosts, do so in defense unless you plan to go for an OTK. This is because summoning Dakini in attack can often lead to econ take plays in the Battle Phase.
 + **Using Dakini’s Effect:** In most matchups, it is best to not activate Dakini’s effect if you believe they have econ. In the REZ matchup, there are some instances where you have to use Dakini’s effect whether you think they have econ or not.
 + **You Can’t Play Around Everything:** A bad habit that I used to have when starting with CA was trying to play around multiple different cards. If they have two cards set and one of them is a spirit, you don’t have the luxury to play around both {Enemy Controller} and {Mirror Wall}. In some scenarios, you have to gamble on which you think they have, as playing too passive will allow them to set up for an OTK. If you think they have econ and don’t activate Dakini’s effect, then you should attack and force them to use it. If you think they have mirror wall instead, then you should activate Dakini effect and not swing. What you should not do is think they have econ and not have Dakini effect, but also try to play as if they could have mirror wall and not swing.
-#####**Effective Techs for the Matchup:**
+
+##### **Effective Techs for the Matchup:**
 Keep in mind that most of the techs that you would use against REZ are weak against Ninjas or the mirror.
 
 + {Curse of Anubis}: If your opponent is able to establish their board before you can fully set up your defense, curse of anubis can be used as a backup strategy in the event your opponent goes for econ take. You get to stop the play and get your Dakini back, effectively wasting their econ.
@@ -475,13 +476,14 @@ I would like to preface that I have not played many games against GB, so my opin
 + Stopping their tags is important but you should know when it is okay to let them tag. **Summoning Idaten is a bad play turn 1**. If you go first, it is better to summon a searcher and end than to summon a searcher and summon an Idaten. If you summon Idaten, then you give them a target for murmillo.
 + **Activating Dakini effect is almost always the right option**. GB don’t run many monsters, and unlike REZ they can’t swarm or resurrect themselves. If they lose all of their murmillo for instance, their tags won’t matter as much because they will have to contact fusion or econ take in order to get over a Dakini.
 + If you run Chalice, remember that you cannot chain it to their monsters’ tag out as shuffling back into the deck is considered a cost. If you want to stop the tag out, turn your toggle to ON and activate Chalice after damage calculation. The game will not ask you to activate at this time if you have it set to AUTO.
-#####**Effective Techs for the Matchup:**
+
+##### **Effective Techs for the Matchup:**
 All techs in this matchup are used to prevent tagouts as that is the source of GB’s strength. Since all of the cards serve the same function, thorough explanations will not be given.
 
-+ Forbidden Chalice: stops tagout via effect negation
-+ Enemy Controller: stops tagout via position change
-+ Bacon Saver: stops tagout via attack negation
-+ Curse of Anubis: stops multiple tagouts via position change
++ {Forbidden Chalice}: stops tagout via effect negation
++ {Enemy Controller}: stops tagout via position change
++ {Bacon Saver}: stops tagout via attack negation
++ {Curse of Anubis}: stops multiple tagouts via position change
 
 ---
 
@@ -493,26 +495,31 @@ All techs in this matchup are used to prevent tagouts as that is the source of G
 + Idaten is also an acceptable but not as effective as Benten.
 + Dakini should be reserved for tributing a {Lava Golem} and/or removing any large tokens that were spawned from {The Golden Apples}.
 + If they activate massivemorph on Dakini and crash with swordswoman, you will take 3900 points of damage. Keep this in mind any time you are tempted to summon Dakini.
+
 ##### **Effective Techs for this Matchup:**
 + {Forbidden Chalice}: Chalice negates a monster’s effect, so if your opponent tries to crash with swordswoman, you can flip the OTK. Chalice is arguably your best option when taking into account other matchups.
 
 + {Mystik Wok}: This is a solid answer to everything burn has to offer. If they try to draining shield your monster, you can use wok and you heal instead. If they summon lava golem, you can use wok and you heal instead. If they massivemorph your Dakini, you can activate wok and Dakini will no longer be a burden. If you can get them to activate a combination of the aforementioned cards, then you let them waste their resources. I ran wok in MCS4 and can attest to its value.
 
-+ {Fire Formation Gyokkou}: Gyokkou allows you to pin a backrow and prevents them from chaining it. Xing allows you to pin 2 backrow, but is slower and does not prevent chaining.
++ {Fire Formation - Gyokkou}: Gyokkou allows you to pin a backrow and prevents them from chaining it. Xing allows you to pin 2 backrow, but is slower and does not prevent chaining.
 
-+ Nobleman of Extermination: Nobleman can help you remove all copies a specific trap. If you open with it going second, you can bar your opponent from using an essential defensive card such as massivemorph or golden apples.
-Enemy Controller: Econ is used for stopping singular attacks so you can attack into those defense position monsters.
-+ Curse of Anubis: Use this card to stop literally any and all attacks. This card is best saved to neutralize aggressive swordswoman plays and stop skystarray from chipping away from your life points.
++ {Nobleman of Extermination}: Nobleman can help you remove all copies a specific trap. If you open with it going second, you can bar your opponent from using an essential defensive card such as massivemorph or golden apples.
 
-+ Anti-Magic Arrows: AMA trashes burn. The only reason CA shouldn’t run this card is because AMA has limited value in other matchups  when compared to econ, and is nearly useless in the CA mirror.
++ {Enemy Controller}: Econ is used for stopping singular attacks so you can attack into those defense position monsters.
+
++ {Curse of Anubis}: Use this card to stop literally any and all attacks. This card is best saved to neutralize aggressive swordswoman plays and stop skystarray from chipping away from your life points.
+
++ {Anti-Magic Arrows}: AMA trashes burn. The only reason CA shouldn’t run this card is because AMA has limited value in other matchups  when compared to econ, and is nearly useless in the CA mirror.
 
 ---
 
 #### CA vs Ancient Gears 60-40
 
 Of all the matchups against the current top 6 decks, CA does the best against AG. Decks that run heavy backrow tend to do well against CA, but the problem with AG is that they sacrifice one of their backrow spaces for ancient gear castle. The result is a slow backrow heavy deck that can’t run heavy backrow until late game, but AG struggles with surviving long enough to do so.
+
 ##### **How to Play the Matchup:**
 + **Overpower Them:** AG lack the speed to compete with CA. Summoning double Dakini or even just a boosted Dakini can often result in massive tempo swings in your favor. If you let the duel drag out, then AG can draw into AGG  and play like any other backrow heavy deck.
+
 ##### **Effective Tech Cards for this Matchup:**
 + Forbidden Chalice: Chalice is mostly just to counter and econ take play. If you aren’t losing your Dakini when they econ take, then they lack the necessary means to defeat CA. However, you don’t really need to tech against AG, so Chalice is good because it’s decent in more relevant matchups.
 
