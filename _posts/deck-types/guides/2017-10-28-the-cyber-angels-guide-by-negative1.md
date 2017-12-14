@@ -12,7 +12,7 @@ deck-type: cyber-angels
 permalink: /guides/the-cyber-angels-guide-by-negative1/
 ---
 
-# Cyber Angels
+# The Cyber Angels Guide
 ## by Negative1
 
 ### **Table of Contents**
@@ -276,7 +276,7 @@ Konami hit this card hard with the new banlist, and not without a good reason. M
 
 **{Sprite’s Blessing}** - Sprite
 
-Role: Subsitute Ritual Spell
+Role: Substitute Ritual Spell
 
 With MAR at 1, sprite can be used as a replacement ritual spell. You do not get the protection of MAR, or the Graveyard synergy of MAAR, but you can use it to summon any LIGHT ritual monster. This allows you to run monsters such as {Saffira, Queen of Dragons} more consistently.
 
@@ -287,42 +287,59 @@ With MAR at 1, sprite can be used as a replacement ritual spell. You do not get 
 #### Techs and Replacements
 Tech cards are an important part of CA in the current meta. However, it is important to know that some tech cards synergize with a deck more than others.
 
+---
+
 ##### **{Enemy Controller}**
 This is the best and most common tech card for CA and against CA. Econ is the card closest to being a core card of the deck, but only because of how strong it is in the current meta. If you are missing any searchers, consider econ as a replacement.
 
 **Tech / Can replace: {Sonic Bird}, {Senju of the Thousand Hands}, {Cyber Petit Angel}**
+
+---
 
 ##### **{Saffira, Queen of Dragons}**
 Saffira is one of the strongest techs CA has available. When using her End Phase effect, always consider your field/hand and your opponent’s field/hand; don’t always try to discard one card from their hand or draw 2 discard 1. You should try to determine what will give you the most options on your following turn while giving your opponent the least options. Do not forget that she is a tech card, not a core card. As such, it is risky to include multiple Saffira as you will also need to add multiple ritual spells just to summon her. **{Hymn of Light}** can help as it provides protection for your  ritual monsters, but don’t run more Hymn than Saffira. Also, Saffira’s effect is a hard once per turn, so having multiple on the board will only give you a single activation.
 
 **Tech / Can replace: Dakini**
 
+---
+
 ##### **{Forbidden Chalice}**
 With Ninjas rising in popularity, {Forbidden Chalice} is becoming a promising tech that interrupts plays. It is useful against all of the top tier decks, but the least against REZ.
 
 **Tech**
+
+---
 
 ##### **{Bacon Saver}**
 While previously seen as a REZ only card, bacon saver is also a good tech card for CA because of its level and Graveyard effect. Bacon can be used to win the mirror going first; summoning a searcher turn 1 without protection is almost a guaranteed loss in the mirror, but setting bacon turn 1 and passing is far safer and a great defense against double Dakini.
 
 **Tech**
 
+---
+
 ##### **{Floodgate Trap Hole}**
 Floodgate is an overall good card, but lacks synergy with CA. Setting problematic monsters face down is best reserved for monsters with strong effects, not just monsters with strong attack. However, eliminating monster based threats is not a task neither CA nor Ninjas struggle with, so floodgate is most commonly just a temporary obstacle for tier 1 to work around. While they may not be common in the most relevant decks, you can activate floodgate in response to your opponent summoning {Lava Golem}, as well as in response to a gemini summon.
 
 **Tech**
+
+---
 
 ##### **“Anti Backrow” or “Backrow Hate”**
 {Cosmic Cyclone} and {Nobleman of Extermination} are the current best cards CA has in the meta. Nobleman can be good for burn as it can eliminate multiple copies of a single threat without spending life points, but CC is arguably stronger in the current meta because it can guarantee the removal of a backrow, and is a quickplay spell so it can be used on either player’s turn or can be chained. I’ve seen {Anti-Magic Arrows} getting used on occasion, but is not as good in the current meta because AMA doesn’t stop monster effects, and the most common threats to CA get used in the Main Phase to counter Dakini or interrupt combos. {Xing Zhen Hu} used to be a contender as another good option, but with the rise of Ninjas, backrow heavy/slower decks are much weaker as a result, so even having 2 backrow to lock down happens much less.
 
 **Tech**
 
+---
+
 ##### **{Skelengel}**
 {Skelengel} is a f2p substitute for other searchers but has no real place in an optimal build for CA as it is susceptible to a Dakini effect or piercing damage. With CA and Ninjas holding tier 1, flip effects are too slow to contend in the higher levels of competition.
 
 **Can replace: {Sonic Bird}, Senju, Petit**
 
+---
+
 **Strong Defensive Traps**
+
 {Curse of Anubis}, {Wall of Disruption}, {Mirror Wall}, and {Windstorm of Etaqua} can be added, but vary in use. **Curse is arguably the most versatile of the four** as it can stop all-in econ take plays and the meta is not favoring normal monsters. These cards will help you stall until you can get more combo pieces, but I recommend a soft limit of 1 because stall cards don’t really work towards CA’s win condition.
 
 **Tech**
