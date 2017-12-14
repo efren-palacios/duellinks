@@ -238,6 +238,6 @@ function BindFormEvents()
           }
         });
     
-        return false;
+        return false;  
     });
 }

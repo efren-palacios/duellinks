@@ -23,3 +23,8 @@ filename: "new-deck-{@timestamp}"
 format: json
 moderation: false
 path: "_data/top-decks/pending"
+generatedFields:
+  date:
+    type: date
+    options:
+      format: iso8601
