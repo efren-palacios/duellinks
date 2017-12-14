@@ -79,52 +79,30 @@ Changes to the game and the evolution of the meta will result in areas becoming 
 For newer players and those returning to the game.
 
 **Decks:**  
-
 AG: Ancient Gears  
-
 Burn: Destiny Draw Burn  
-
 CA: Cyber Angels  
-
 GB: Gladiator Beast  
-
 Ninjas: 3 Star Demotion Ninjas  
-
 REZ: Red-Eyes Zombies
 
 **Cards:**  
 AGG: {Ancient Gear Golem}  
-
 AMA: {Anti-Magic Arrows}  
-
 Anubis: {Curse of Anubis}  
-
 BDN: {Black Dragon Ninja}  
-
 CC: {Cosmic Cyclone}  
-
 Chalice: {Forbidden Chalice}  
-
 Ebisu: {Masked Ninja Ebisu}  
-
 Econ: {Enemy Controller}  
-
 Floodgate: {Floodgate Trap Hole}  
-
 MW: {Mirror Wall}  
-
 RDN: {Red Dragon Ninja}  
-
 REZD: {Red-Eyes Zombie Dragon}  
-
 Saffira: {Saffira, Queen of Dragons}  
-
 Spirit: {Red-Eyes Spirit}  
-
 Swordswoman: {Amazoness Swordswoman}  
-
 WoD: {Wall of Disruption}  
-
 Xing: {Xing Zhen Hu}  
 
 **Game State:**  
