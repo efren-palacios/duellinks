@@ -20,7 +20,7 @@ module Jekyll
           deck_type = file["deckType"]
 
           directory = site.source + "/_data/top-decks/" + year + "/" + month + "/" + deck_type + "/"
-          file_name = file["author"].downcase + ".json"
+          file_name = file["author"].gsub("/", "").gsub(/\s+/, ' ').gsub(" ", "-").downcase + ".json"
           full_path = directory + file_name
 
           unless File.directory?(directory)
