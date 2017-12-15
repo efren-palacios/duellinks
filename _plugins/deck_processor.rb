@@ -71,7 +71,7 @@ module Jekyll
 
           end
 
-          FileUtils.rm site.source + "/_data/top-decks/pending/" + file_key + ".json"
+          #FileUtils.rm site.source + "/_data/top-decks/pending/" + file_key + ".json"
           
         end
       end
