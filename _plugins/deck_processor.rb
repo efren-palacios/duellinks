@@ -70,6 +70,9 @@ module Jekyll
             new_file.close
 
           end
+
+          FileUtils.rm site.source + "/_data/top-decks/pending/" + file_key + ".json"
+          
         end
       end
     end
