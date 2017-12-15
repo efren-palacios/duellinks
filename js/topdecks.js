@@ -164,7 +164,7 @@ function GetTopDecks()
 
 function SortDeckTypes(a, b)
 {
-    var countResult = (a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0);
+    var countResult = (parseInt(a.count) < parseInt(b.count)) ? 1 : ((parseInt(a.count) > parseInt(b.count)) ? -1 : 0);
     if(countResult != 0) return countResult;
 
     var displayResult = (a.display > b.display) ? 1 : ((a.display < b.display) ? -1 : 0);
@@ -193,7 +193,7 @@ function ScrollTo(element)
     if($(window).outerWidth() <= 767)
     {
         var page = $("html,body");
-        var scrollPosition = $(element).offset().top - $(".navbar").outerHeight() - 15;
+        var scrollPosition = $(element).offset().top;
 
         page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
         {
