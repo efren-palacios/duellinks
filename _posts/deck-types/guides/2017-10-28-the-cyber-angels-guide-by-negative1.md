@@ -645,7 +645,7 @@ When newer and less familiar players enter the CA channel on the discord, many o
 
 >**“Is CA still the best deck? Dkayed won KC Cup with Ninjas”**
 
-CA is still the best deck, but by a very small margin. Ninjas have a good matchup against most decks, but they lose to CA. Dkayed did win KC Cup with Ninjas and made mention that he consciously decided to play Ninjas over CA, but Ninjas are not better than CA. Ninjas were a better pick in KC Cup because it was an uncommon deck that was not fully optimized and could rack up quick wins.
+CA is still the best deck, but by a very small margin. Ninjas have a good matchup against most decks, but they lose to CA. Dkayed did win KC Cup with Ninjas and made mention that he consciously decided to play Ninjas over CA, but Ninjas are not better than CA. Ninjas were a better pick in KC Cup because it was an uncommon deck that was not fully optimized and could rack up quick wins. 
 
 ---
 
