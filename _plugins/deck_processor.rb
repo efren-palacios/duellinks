@@ -57,12 +57,12 @@ module Jekyll
               end
             end
 
-            deckName = file["name"].gsub("##", "").gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
+            deckName = file["name"].gsub("##", "").gsub(/\W|_/, "-").gsub(/-+/, "-").gsub("-Decks", "-Deck").downcase
             url = "/top-decks/#{monthName}-#{year}/#{deck_type}/#{deckName}-by-#{author}".gsub(/-+/, "-").gsub(/-$/, "") + "/"
 
             deck =
             {
-              "name" => file["name"],
+              "name" => file["name"].gsub(" Decks", " Deck"),
               "author" => file["author"],
               "created" => file["date"][0..9],
               "skill" => file["skill"],
