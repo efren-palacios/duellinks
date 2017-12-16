@@ -2,6 +2,8 @@ var is_mobile = false;
 
 $(function()
 {
+    console.log(window.location.href);
+
     if ($(".mobile").css("display") == "none")
     {
         is_mobile = true;
@@ -20,6 +22,12 @@ $(function()
                 {
                     text: function(event, api)
                     {
+						
+						let websiteLink = location.protocol + "//" + location.hostname;
+						if(location.port){
+							websiteLink += ":" + location.port;
+						}
+						
                         let type = $(this).attr('name')
                         if(type == "cardPopup"){
                             let name = $(this).attr('src')
@@ -41,7 +49,7 @@ $(function()
                             return "Loading card...";
                         }else if(type == "skillPopup"){
                             let name = $(this).html();
-                            axios.get(window.location.protocol + "//" + window.location.hostname + ":4000/data/skillsChars.json").then(function(r)
+                            axios.get("/data/skillsChars.json").then(function(r)
                             {
 
                                 let characterWhoUses = [];
@@ -60,9 +68,9 @@ $(function()
                                 }
 
                                 let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
-
+								
                                 api.set('content.text',
-                                `<div class="previewSkill"><img src="../img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
+                                `<div class="previewSkill"><img src="${websiteLink}/img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
                                 <div class="skilldata">
                                     <b>${name}</b><br/>
                                     <p>${desc}</p>

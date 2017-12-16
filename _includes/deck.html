@@ -4,7 +4,9 @@
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}
         {% if include.showStats %}
-            <div class="skill"><img class="main" src="/img/assets/skill.png" alt="skill"> {{include.deck.skill}}</div>
+            <div class="skill">
+                <img class="main" src="/img/assets/skill.png" alt="skill"><span class="card-hover" name="skillPopup">{{include.deck.skill}}</span><span class="mobile"></span>
+            </div>
         {% endif %}
         <div id="deck">
             <div id="cards">
@@ -62,13 +64,13 @@
                     <div class="testcard-slot"></div>
                 </div>
                 <div class="testcard-slot-row">
-                    <div class="testcard-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" id="playerextradeck" />
+                    <div class="testcard-slot"><img src="/img/assets/card-back.png" id="playerextradeck" />
                         <div id="deckcount"><p></p></div>
                     </div>
                     <div class="testcard-slot"></div>
                     <div class="testcard-slot"></div>
                     <div class="testcard-slot"></div>
-                    <div class="testcard-slot"><img src="http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png" id="playerdeck" />
+                    <div class="testcard-slot"><img src="/img/assets/card-back.png" id="playerdeck" />
                         <div id="deckcount"><p></p></div>
                     </div>
                 </div>
