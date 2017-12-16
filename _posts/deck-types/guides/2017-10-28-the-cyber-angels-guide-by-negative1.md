@@ -107,8 +107,11 @@ Xing: {Xing Zhen Hu}
 
 **Game State:**  
 Fast: Effects and results are immediate. Often refers to monster/spell effects as they can be activated on the turn you draw them and don’t require much setup.
+
 Slow: Effects that are delayed or will only occur in specific circumstances. Often refers to traps and cards with similar trigger conditions.
+
 Swing: Attack.
+
 Lethal: You can kill your opponent on your current turn.
 
 ---
@@ -128,10 +131,10 @@ Cred: Mathews - 5th in KC Cup
 #### **Balance:**
 Prior to the nerfs, {Balance} was the best skill for CA to run. However, with Balance becoming “kinda-Balance” and not perfectly guaranteeing you a consistent starting hand, Balance is not as good as it used to be. I am averse to using new Balance in CA myself, but it definitely is still a viable option for CA. There is a well-written document that details how the new Balance works that has been made by pll of the Duel Links Meta discord, and I encourage anyone who is considering using Balance to read it so they can understand the workings of the skill.
 
-[“New Balance - What you should know?”](https://docs.google.com/document/d/1FN3NQAUItbn2CDZf2uVEk2LChRq-NtbLiToWFE3tvUU/edit)
+[“New Balance - What you should know?”](https://duellinksmeta.netlify.com/guides/new-balance-what-you-should-know/)
 by: pll
 
-![Balance decklist](https://image.prntscr.com/image/XGjBi9nTS-__q62e_GlGmg.png)
+![Balance decklist](https://image.prntscr.com/image/ZqDUpy-1SxSqC-a2McemmA.png)
 Cred: Taaha - Top 55 in KC Cup at peak DP
 
 #### **Duel Standby:**
@@ -178,6 +181,8 @@ These decklists are optimized builds using {Restart} and {Balance}. I do not bel
 [content-only]
 ![Dakini](https://image.prntscr.com/image/B-jFhxRtSVW18pemQx0dow.png) | ![Idaten](https://image.prntscr.com/image/RZE7hk2tQyWnorFgtU-Vvw.png) | ![Benten](https://image.prntscr.com/image/OeRHVl4tRHS_PGXYnluRbg.png)
 
+---
+
 **{Cyber Angel Dakini}** - Dakini
 
 Role: Boss Monster, Resource Control, End Goal
@@ -185,6 +190,8 @@ Role: Boss Monster, Resource Control, End Goal
 Dakini is the boss monster of this deck, but it is also the source of **many misplays by CA players**. Knowing when and how to use Dakini is one of the most important skills a CA player needs to find success in the current meta.
 
 **Run 3**
+
+---
 
 **{Cyber Angel Idaten}** - Idaten
 
@@ -194,6 +201,8 @@ Idaten is used in the most common CA combo, tribute Benten to summon Idaten. Thi
 
 **Run 1**
 
+---
+
 **{Cyber Angel Benten}** - Benten
 
 Role: Combo Starter, Combo Extender, Deck Thinning
@@ -202,10 +211,14 @@ Benten is primarily tribute fodder. Summoning her is a bad move in most cases be
 
 **Run 3**
 
+---
+
 #### The Acolytes
 
 [content-only]
 ![Sonic Bird](https://image.prntscr.com/image/vmTB1NCCRbGSiqAGNeyl6Q.png) | ![Senju of the Thousand Hands](https://image.prntscr.com/image/6j0BDsvwQTOLKFtd82GW7A.png) | ![Cyber Petit Angel](https://image.prntscr.com/image/JOnppKBYQp6LRV9oJ1i26A.png)
+
+---
 
 **{Sonic Bird}** - Bird
 
@@ -215,6 +228,8 @@ When running Balance, {Sonic Bird} is the least useful of the three as you are g
 
 **Run 0-2** depending on skill used.
 
+---
+
 **{Senju of the Thousand Hands}** - Senju
 
 Role: Search Ritual Monsters
@@ -222,6 +237,8 @@ Role: Search Ritual Monsters
 Senju searches out ritual monsters and can be searched out by the ritual monsters.
 
 **Run 2-3** depending on skill used.
+
+---
 
 **{Cyber Petit Angel}** - Petit
 
@@ -231,10 +248,14 @@ Petit is the best searcher in this deck, and even though people have made KOG wi
 
  **Run 2**, 1 can work if you are just starting out but will only get you so far.
 
+---
+
 #### The Rituals
 
 [content-only]
 ![Machine Angel Ritual](https://image.prntscr.com/image/CHc6zqnrR4Oa4IxYQe-0AA.png) | ![Machine Angel Absolute Ritual](https://image.prntscr.com/image/61hQKkJWTcCMB-ppF6QEDQ.png) | ![Sprite's Blessing](https://image.prntscr.com/image/uPC-PqHaSS6eTVklMmYJpg.png)
+
+---
 
 **{Machine Angel Absolute Ritual}** - MAAR
 
@@ -244,6 +265,8 @@ This card can only be searched by {Sonic Bird} and Idaten, and it can’t be ret
 
 **Run 3**
 
+---
+
 **{Machine Angel Ritual}** - MAR
 
 Role: Summon your Ritual Monsters, Protection
@@ -251,6 +274,8 @@ Role: Summon your Ritual Monsters, Protection
 Konami hit this card hard with the new banlist, and not without a good reason. MAR is overall better than MAAR. It’s easier to get to your hand from the deck or Graveyard, and does not require an exact level to use. It also protects your light fairies while in the Graveyard, resulting in cards such as {Divine Wrath} and {Super Rush Headlong} becoming weak choices for the current meta.
 
 **Run 1**
+
+---
 
 **{Sprite’s Blessing}** - Sprite
 
@@ -312,11 +337,11 @@ Floodgate is an overall good card, but lacks synergy with CA. Setting problemati
 ##### **{Skelengel}**
 {Skelengel} is a f2p substitute for other searchers but has no real place in an optimal build for CA as it is susceptible to a Dakini effect or piercing damage. With CA and Ninjas holding tier 1, flip effects are too slow to contend in the higher levels of competition.
 
-**Can replace: {Sonic Bird}, Senju, Petit**
+**Can replace: {Sonic Bird}, {Senju of the Thousand Hands}, {Cyber Petit Angel}**
 
 ---
 
-**Strong Defensive Traps**
+##### **Strong Defensive Traps**
 
 {Curse of Anubis}, {Wall of Disruption}, {Mirror Wall}, and {Windstorm of Etaqua} can be added, but vary in use. **Curse is arguably the most versatile of the four** as it can stop all-in econ take plays and the meta is not favoring normal monsters. These cards will help you stall until you can get more combo pieces, but I recommend a soft limit of 1 because stall cards don’t really work towards CA’s win condition.
 
@@ -331,13 +356,18 @@ Electro struggles to find a place in CA. Electro is a relatively weak monster th
 
 **Tech**
 
+---
+
 ##### **“Spell Counters”**
 {Spell Shield Type-8}, {Magic Drain}, {Magic Deflector}, {Riryoku Field} (someone made KOG with it… somehow), the list goes on. **These cards are no longer as valuable as they used to be** because of the prominence of Ninjas in the meta and their lack of reliance on spells. Only use if you face mostly CA.
 
 **Tech**
 
+---
+
 ##### **{Sphere Kuriboh}**
 SK used to be a semi-common tech in CA, but as time has passed people have realized that SK is not very effective. This is mostly because **econ does SK’s job and is far more versatile**. Running 1 is fine, but running 2 may be a tad much. **Don’t run 2 SK just because of its secondary effect**. Relinquished was able to run SK because they are both level 1 and it was a free summon at no cost. CA can run SK, but all of the core monsters in CA are of even level, so using SK second effect of banishing from the grave won’t get used unless you are able to get both SK into play (your hand or Graveyard).
+
 **Tech / Can replace: {Sonic Bird}, {Senju of the Thousand Hands}, {Cyber Petit Angel}**
 
 ---
@@ -354,7 +384,7 @@ When CA came onto the scene, 3SD TBD and 3SD Ninjas dropped in viability, and so
 {Divine Wrath} and similar effect negation cards can negate effects, but this effect is not as relevant in the current meta. If you chain dwrath when an opponent summons a Dakini, their Dakini will be safe as long as they tributed a Benten or an Idaten for the summon. This is because of a ruling in Yugioh called “SEGOC” or “Simultaneous Effects Go On Chain.” Since Dakini’s effect and Benten’s / Idaten’s effect would all be activated simultaneously, they go on chain; dwrath can only negate the last link in the chain, so Dakini gets protected. {Forbidden Chalice} is overall a faster and less costly option, not to mention it is chainable.
 
 ##### **{Sky Scourge Enrise}**
-With the excess of LIGHT fairy type monsters in CA, some people have tried running Enrise along with SK, or at the very least have attempted to do so. The problem is that enrise is far too slow for the current meta. Tier 1 is centered around OTK’s and turn 1/2 plays, while enrise requires multiple of set up to even summon.
+With the excess of LIGHT fairy type monsters in CA, some people have tried running Enrise along with SK, or at the very least have attempted to do so. The problem is that enrise is far too slow for the current meta. Tier 1 is centered around OTK’s and turn 1/2 plays, while enrise requires multiple turns of set up to even summon.
 
 ---
 
@@ -531,11 +561,11 @@ Keep in mind that most of the techs that you would use against REZ are weak agai
 
 + {Curse of Anubis}: If your opponent is able to establish their board before you can fully set up your defense, Curse of Anubis can be used as a backup strategy in the event your opponent goes for econ take. You get to stop the play and get your Dakini back, effectively wasting their econ.
 
-+ {Xing Zhen Hu}: The nerfs will make xing a strong tech against REZ with the nerfs. If a REZ player sets two spirits turn 1 while not having 2 REZD in the grave, you can target both and cut off half of their striking power. If you hit a WOD and a Floodgate, you clog their backrow and leave them with only 1 spot left which is susceptible to a second Xing.
++ {Xing Zhen Hu}: The nerfs will make Xing a strong tech against REZ with the nerfs. If a REZ player sets two spirits turn 1 while not having 2 REZD in the grave, you can target both and cut off half of their striking power. If you hit a WOD and a Floodgate, you clog their backrow and leave them with only 1 spot left which is susceptible to a second Xing.
 
 + {Cosmic Cyclone}: CC is the fastest option for CA; you can use it in the End Phase to snipe spirits or econs.
 
-+ {Duel Standby}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are are much more common with DS and allow CA to outpace REZ.
++ {Duel Standby}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are much more common with DS and allow CA to outpace REZ.
 
 ---
 
@@ -572,11 +602,11 @@ All techs in this matchup are used to prevent tagouts as that is the source of G
 ##### **Effective Techs for this Matchup:**
 + {Forbidden Chalice}: Chalice negates a monster’s effect, so if your opponent tries to crash with swordswoman, you can flip the OTK. Chalice is arguably your best option when taking into account other matchups.
 
-+ {Mystik Wok}: This is a solid answer to everything burn has to offer. If they try to draining shield your monster, you can use wok and you heal instead. If they summon lava golem, you can use wok and you heal instead. If they massivemorph your Dakini, you can activate wok and Dakini will no longer be a burden. If you can get them to activate a combination of the aforementioned cards, then you let them waste their resources. I ran wok in MCS4 and can attest to its value.
++ {Mystik Wok}: This is a solid answer to everything burn has to offer. If they try to Draining Shield your monster, you can use Wok and you heal instead. If they summon lava golem, you can use Wok and you heal instead. If they Massivemorph your Dakini, you can activate Wok and Dakini will no longer be a burden. If you can get them to activate a combination of the aforementioned cards, then you let them waste their resources. I ran wok in MCS4 and can attest to its value.
 
 + {Fire Formation - Gyokkou}: Gyokkou allows you to pin a backrow and prevents them from chaining it. Xing allows you to pin 2 backrow, but is slower and does not prevent chaining.
 
-+ {Nobleman of Extermination}: Nobleman can help you remove all copies a specific trap. If you open with it going second, you can bar your opponent from using an essential defensive card such as massivemorph or golden apples.
++ {Nobleman of Extermination}: Nobleman can help you remove all copies of a specific trap. If you open with it going second, you can bar your opponent from using an essential defensive card such as massivemorph or golden apples.
 
 + {Enemy Controller}: Econ is used for stopping singular attacks so you can attack into those defense position monsters.
 
@@ -621,13 +651,13 @@ CA is still the best deck, but by a very small margin. Ninjas have a good matchu
 
 There are 2 things you want to consider when deciding whether to retrieve a ritual spell from the grave or get one from the deck:
 
-##### **1. Do I want to have MAR in play?**
+##### 1. Do I want to have MAR in play?
 
-   a. {Machine Angel Ritual} is your best ritual spell. It can be searched by Petit, returned by Dakini, doesn’t require exact levels, and can stop a monster from being destroyed. However, with MAR at 1, you want to consider what you need it for. In the CA mirror, I would advise against pulling MAR with Idaten’s effect because keeping MAR in grave means protection and having MAR in the deck means that you can search it with Petit. In slower matchups and when you have all monsters in hand, adding MAR from the grave is good because you allow yourself to have a play on the following turn.
+{Machine Angel Ritual} is your best ritual spell. It can be searched by Petit, returned by Dakini, doesn’t require exact levels, and can stop a monster from being destroyed. However, with MAR at 1, you want to consider what you need it for. In the CA mirror, I would advise against pulling MAR with Idaten’s effect because keeping MAR in grave means protection and having MAR in the deck means that you can search it with Petit. In slower matchups and when you have all monsters in hand, adding MAR from the grave is good because you allow yourself to have a play on the following turn.
    
-##### **2. How will this affect my next draw?**
+##### 2. How will this affect my next draw?
 
- a. Knowing what you do and don’t want to draw will depend on you knowing what cards remain in your deck. If you have a spell heavy hand, use Idaten’s effect to take a ritual spell from your deck so that you are more likely to draw a monster on your next turn. If you have a monster heavy hand, use Idaten’s effect to take a ritual spell from your graveyard so that you increase your chances at drawing another ritual spell on your next turn.
+Knowing what you do and don’t want to draw will depend on you knowing what cards remain in your deck. If you have a spell heavy hand, use Idaten’s effect to take a ritual spell from your deck so that you are more likely to draw a monster on your next turn. If you have a monster heavy hand, use Idaten’s effect to take a ritual spell from your graveyard so that you increase your chances at drawing another ritual spell on your next turn.
 
 >**“What is the best skill for CA?”**
 
@@ -659,7 +689,7 @@ Replays coming soon! Old replays were prenerf, so I have deleted them to make ro
 
 Dkayed: For fostering a productive, competitive community with Duel Links Meta; also for dealing with all the memes.
 
-Vincenity: For repping CA in DLPT’s / Team Wars and giving me competition while trying for deck expert. The understanding that I wasn’t the only person interested in the position helped me work on my guide, even if we both got it the end. Congrats!
+Vincenity: For repping CA in DLPT’s / Team Wars and giving me competition while trying for deck expert. The understanding that I wasn’t the only person interested in the position helped me work on my guide, even if we both got it in the end. Congrats!
 
 Nix: For giving me solid advice on my guide and helping develop DDraw burn. Now there’s legit no excuse for complaining when people lose to CA.
 
