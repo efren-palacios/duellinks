@@ -200,6 +200,10 @@
     "description": "Increases starting Life Points by 1000."
   },
   {
+    "name": "LP Boost β",
+    "description": "Increases starting Life Points by 1500, reduce hand by 1 card."
+  },
+  {
     "name": "Mind Scan",
     "description": "If your Life Points are 3000 or more, you can see the cards Set in your opponent's field."
   },

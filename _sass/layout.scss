@@ -474,3 +474,8 @@ button:focus
 .easy-autocomplete-container ul li.selected {
   background: #092035 !important;
 }
+
+.inactive-link {
+   pointer-events: none;
+   cursor: default;
+}

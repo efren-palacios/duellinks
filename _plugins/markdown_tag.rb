@@ -65,6 +65,7 @@ module Jekyll
             end
 
             content.gsub! '[content-only]', '{:.content-only}'
+            content.gsub! '[table-of-contents]', '{:.table-of-contents}'
 
             # Call the standard Markdown converter
             site = Jekyll::Site.new(@config)
