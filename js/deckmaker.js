@@ -2,6 +2,8 @@ var is_mobile = false;
 
 $(function()
 {
+    console.log(window.location.href);
+
     if ($(".mobile").css("display") == "none")
     {
         is_mobile = true;
@@ -41,7 +43,7 @@ $(function()
                             return "Loading card...";
                         }else if(type == "skillPopup"){
                             let name = $(this).html();
-                            axios.get(window.location.protocol + "//" + window.location.hostname + ":4000/data/skillsChars.json").then(function(r)
+                            axios.get("/data/skillsChars.json").then(function(r)
                             {
 
                                 let characterWhoUses = [];
