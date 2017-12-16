@@ -22,6 +22,12 @@ $(function()
                 {
                     text: function(event, api)
                     {
+						
+						let websiteLink = location.protocol + "//" + location.hostname;
+						if(location.port){
+							websiteLink += ":" + location.port;
+						}
+						
                         let type = $(this).attr('name')
                         if(type == "cardPopup"){
                             let name = $(this).attr('src')
@@ -62,9 +68,9 @@ $(function()
                                 }
 
                                 let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
-
+								
                                 api.set('content.text',
-                                `<div class="previewSkill"><img src="../img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
+                                `<div class="previewSkill"><img src="${websiteLink}/img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
                                 <div class="skilldata">
                                     <b>${name}</b><br/>
                                     <p>${desc}</p>
