@@ -536,7 +536,7 @@ Ninjas have seen a resurgence after KC Cup. This shift can be attributed to Dkay
 ##### **How to Play the Matchup:**
 This matchup is very coinflip dependent. Going first against Ninjas can sometimes be like going first against CA, where you have to set up a good defense and hope they can’t OTK you.
 
-+ **Regarding Boosted Dakini Turn 1:** Some people have tried summoning a boosted Dakini turn 1 as a means to combat BDN OTK’s, but this a hard gamble. If we use Dkayed’s ninja list as a standard, then the chance that Ninjas have BDN with at least 1 banish going second is 54.53%, not taking into account instances where they start with {Black Dragon Ninja}, Armor Ninjitsu Art of Alchemy}, {Ninjitsu Art Notebook}, and another Ninjitsu Art and can potentially use Alchemy to draw another ninja (which would add roughly another 4%).
++ **Regarding Boosted Dakini Turn 1:** Some people have tried summoning a boosted Dakini turn 1 as a means to combat BDN OTK’s, but this a hard gamble. If we use Dkayed’s ninja list as a standard, then the chance that Ninjas have BDN with at least 1 banish going second is 54.53%, not taking into account instances where they start with {Black Dragon Ninja}, {Armor Ninjitsu Art of Alchemy}, {Ninjitsu Art Notebook}, and another Ninjitsu Art and can potentially use Alchemy to draw another ninja (which would add roughly another 4%).
 + **Going First:** Going first is similar to going first against CA; set up a defense of two monsters to prevent OTK’s. If they open perfect, then they can still OTK through two lines of defense, but understand that this is a rare occurrence, and happens less often as you getting double Dakini.
 + **Going Second:** Ideally, you want to OTK them, or at least extinguish all of their resources so that they won’t be able to summon another BDN. Do this by summoning double Dakini, boosted Dakini, or even double boosted Dakini.
 
@@ -647,32 +647,39 @@ When newer and less familiar players enter the CA channel on the discord, many o
 
 CA is still the best deck, but by a very small margin. Ninjas have a good matchup against most decks, but they lose to CA. Dkayed did win KC Cup with Ninjas and made mention that he consciously decided to play Ninjas over CA, but Ninjas are not better than CA. Ninjas were a better pick in KC Cup because it was an uncommon deck that was not fully optimized and could rack up quick wins.
 
+---
+
 >**“When I activate Idaten’s effect, when do I search a ritual spell from the deck, and when do I take one from the graveyard?”**
 
 There are 2 things you want to consider when deciding whether to retrieve a ritual spell from the grave or get one from the deck:
 
-##### 1. Do I want to have MAR in play?
+###### 1. Do I want to have MAR in play?
 
 {Machine Angel Ritual} is your best ritual spell. It can be searched by Petit, returned by Dakini, doesn’t require exact levels, and can stop a monster from being destroyed. However, with MAR at 1, you want to consider what you need it for. In the CA mirror, I would advise against pulling MAR with Idaten’s effect because keeping MAR in grave means protection and having MAR in the deck means that you can search it with Petit. In slower matchups and when you have all monsters in hand, adding MAR from the grave is good because you allow yourself to have a play on the following turn.
-   
-##### 2. How will this affect my next draw?
+
+###### 2. How will this affect my next draw?
 
 Knowing what you do and don’t want to draw will depend on you knowing what cards remain in your deck. If you have a spell heavy hand, use Idaten’s effect to take a ritual spell from your deck so that you are more likely to draw a monster on your next turn. If you have a monster heavy hand, use Idaten’s effect to take a ritual spell from your graveyard so that you increase your chances at drawing another ritual spell on your next turn.
+
+---
 
 >**“What is the best skill for CA?”**
 
 I believe that {Balance} and {Restart} are the best skills for CA in the current meta and I have achieved KoG with both. {Mind Scan} is not good in the current meta, and while I think {Duel Standby} has potential, it lacks results in tournaments.
 
-
-
+---
 
 >**“Should I spend gems on [insert card]”**
 
 Unless that card is in the core of CA, you don’t need to spend gems on it. Cards such as {Nobleman of Extermination} and {Cosmic Cyclone} are nice to have, but are not necessary and are easily replaced by econs.
 
+---
+
 >**“What are your thoughts on Saffira?”**
 
 Saffira is strong in the current meta because Saffira builds don’t run backrow, but as a result CA becomes weaker on ladder because defense helps against rogue decks.
+
+---
 
 >**“What are your thoughts on Anti-Backrow? (Xing, Nobleman, etc.)”**
 
