@@ -13,14 +13,16 @@ module Jekyll
 
         year = Date.today.year.to_s
         month = Date.today.month.to_s
+        monthName = Date::MONTHNAMES[month.to_i].downcase
 
         for file_key in pending.keys
 
           file = pending[file_key]
           deck_type = file["deckType"]
+          author = file["author"].gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
 
           directory = site.source + "/_data/top-decks/" + year + "/" + month + "/" + deck_type + "/"
-          file_name = file["author"].gsub("/", "").gsub(/\s+/, ' ').gsub(" ", "-").downcase + ".json"
+          file_name = author + ".json"
           full_path = directory + file_name
 
           unless File.directory?(directory)
@@ -55,6 +57,9 @@ module Jekyll
               end
             end
 
+            deckName = file["name"].gsub("##", "").gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
+            url = "/top-decks/#{monthName}-#{year}/#{deck_type}/#{deckName}-by-#{author}".gsub(/-+/, "-").gsub(/-$/, "") + "/"
+
             deck =
             {
               "name" => file["name"],
@@ -63,7 +68,8 @@ module Jekyll
               "skill" => file["skill"],
               "main" => deck_main,
               "extra" => deck_extra,
-              "notes" => [{ "text" => file["notes"]}]
+              "notes" => [{ "text" => file["notes"]}],
+              "url" => url
             }
 
             new_file.puts(deck.to_json)

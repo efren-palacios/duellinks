@@ -26,15 +26,13 @@
             {% assign start = deck[1].name | slice: 0, 2 %}
             {% if start != '##'  %}
               {% assign deckName = deck[1].name %}
-              {% assign deckUrlName = deck[1].name | downcase | replace: " ", "-" %}
             {% else %}
               {% assign deckName = deck[1].author | append: "'s " | append: tiertype.display | remove: " Decks" | append: " Deck" %}
-              {% assign deckUrlName = decktype[0] | remove: "-decks" %}
             {% endif %}
             {
               "author": "{{deck[1].author}}",
               "name": "{{deckName}}",
-              "url": "/{{month[0].name}}-{{currentYear}}/{{decktype[0]}}/{{deckUrlName}}-by-{{deck[1].author | downcase | replace: " ", "-"}}",
+              "url": "{{deck[1].url}}",
               "created": "{{deck[1].created}}",
               "front": "{{deck[1].main[0].name}}",
               "skill": "{{deck[1].skill}}"

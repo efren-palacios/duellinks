@@ -16,7 +16,7 @@ module Jekyll
         year = top_decks[year_key]
         for month_key in year.keys
           month = year[month_key]
-          monthName = Date::MONTHNAMES[month_key.to_i]
+          monthName = Date::MONTHNAMES[month_key.to_i].downcase
           for decktype_key in month.keys
             decktype = month[decktype_key]
             for deck_key in decktype.keys
@@ -33,16 +33,11 @@ module Jekyll
               deck_page.puts("author: bot")
               deck_page.puts("comments: true")
 
-              lower_name = deck_name.downcase
-              lower_name.gsub! ' ', '-'
-              updated_deck_name = lower_name   
-              updated_deck_name = updated_deck_name.gsub("##", "")
-
               lower_author = deck['author'].downcase
               lower_author.gsub! ' ', '-'
               updated_author = lower_author
 
-              deck_page.puts("permalink: /top-decks/#{monthName}-#{year_key}/#{decktype_key}/#{updated_deck_name}-by-#{updated_author}/")
+              deck_page.puts("permalink: #{deck['url']}")
               deck_page.puts("---")
               deck_page.puts("")
               deck_page.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
