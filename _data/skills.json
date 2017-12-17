@@ -200,7 +200,15 @@
     "description": "Increases starting Life Points by 1000."
   },
   {
+    "name": "LP Boost a",
+    "description": "Increases starting Life Points by 1000."
+  },
+  {
     "name": "LP Boost β",
+    "description": "Increases starting Life Points by 1500, reduce hand by 1 card."
+  },
+  {
+    "name": "LP Boost b",
     "description": "Increases starting Life Points by 1500, reduce hand by 1 card."
   },
   {

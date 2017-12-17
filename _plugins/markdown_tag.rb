@@ -15,7 +15,7 @@ module Jekyll
         end
 
         def convert(content)
-            cardNames = Array.new
+            markedText = Array.new
             decks = Array.new
 
             lastCardNameTagOpen = -1
@@ -38,7 +38,7 @@ module Jekyll
                     end
 
                     if isTagCardName
-                        cardNames.push(tagContent)
+                        markedText.push(tagContent)
                     end
 
                     lastCardNameTagOpen = -1
@@ -48,19 +48,24 @@ module Jekyll
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
 
-            for i in 0...cardNames.size
+            for i in 0...markedText.size
                 isSkill = false
+                skillOfficialName = markedText[i]
                 for j in 0...skillsJson.size
-                    if skillsJson[j]['name'].downcase.tr("!", "") == cardNames[i].downcase.tr("!", "")
+                    skillJson = skillsJson[j]['name'].downcase.gsub(/\W/, '')
+                    text = markedText[i].downcase.gsub(/\W/, '')
+
+                    if skillJson == text
                         isSkill = true
+                        skillOfficialName = skillsJson[j]['name']
                        break
                     end
                 end
 
                 if isSkill
-                    content.sub! '{' + cardNames[i] + '}', '<span class="card-hover" name="skillPopup">' + cardNames[i] + '</span><span class="mobile"></span>'
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
                 else
-                    content.sub! '{' + cardNames[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + cardNames[i] + '">' + cardNames[i] + '</span><span class="mobile"></span>'
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + markedText[i] + '">' + markedText[i] + '</span><span class="mobile"></span>'
                 end
             end
 

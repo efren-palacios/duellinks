@@ -55,9 +55,11 @@ $(function()
                                 let characterWhoUses = [];
                                 let exclusive = false;
                                 let desc = "No description available";
+                                let officialName = name;
 
                                 for(var i = 0; i < r.data.length; i++){
                                     if(r.data[i].name.replace(/[^a-zA-Z ]/g, "").toLowerCase() == name.replace(/[^a-zA-Z ]/g, "").toLowerCase()){
+                                        officialName = r.data[i].name;
                                         desc = r.data[i].desc;
                                         exclusive = r.data[i].exclusive;
                                         characterWhoUses.push(r.data[i].character);
@@ -72,11 +74,11 @@ $(function()
                                 api.set('content.text',
                                 `<div class="previewSkill"><img src="${websiteLink}/img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
                                 <div class="skilldata">
-                                    <b>${name}</b><br/>
+                                    <b>${officialName}</b><br/>
                                     <p>${desc}</p>
                                     ${exclusive == true
-                                            ? '<p>Skill exclusive to ' + characterWhoUses[0] + '</p>'
-                                            : '<p>Skill can be used in different characters</p>'}
+                                            ? '<p>Skill exclusive to ' + characterWhoUses[0] + '.</p>'
+                                            : '<p>Skill can be used by different characters.</p>'}
                                 </div>`)
                             })
                             return "Loading skill...";
