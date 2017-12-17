@@ -137,10 +137,10 @@ by: pll
 ![Balance decklist](https://image.prntscr.com/image/ZqDUpy-1SxSqC-a2McemmA.png)
 Cred: Taaha - Top 55 in KC Cup at peak DP
 
-#### **Duel Standby:**
-{Duel Standby} allows you to take full advantage of CA’s consistency and get massive combos off. Going second with Duel Standby is almost a guaranteed win as you can often blow through all of your opponent’s defenses by going for double Dakini, which is made easier with the extra material. Of all the CA builds, many consider DS CA to be the weakest when going first, and when playing the mirror, it is commonly believed that your opponent can just as easily OTK you as you could’ve OTK’d them. However, you can mitigate the disadvantage state with your tech choices to deal with going first in the mirror. Remember that your deck will be constructed with the extra material in mind; while your opponent will also have an extra card, their deck will not be made with the extra material in mind.
+#### **Duel, standby!:**
+{Duel, standby!} allows you to take full advantage of CA’s consistency and get massive combos off. Going second with Duel, standby! is almost a guaranteed win as you can often blow through all of your opponent’s defenses by going for double Dakini, which is made easier with the extra material. Of all the CA builds, many consider DS CA to be the weakest when going first, and when playing the mirror, it is commonly believed that your opponent can just as easily OTK you as you could’ve OTK’d them. However, you can mitigate the disadvantage state with your tech choices to deal with going first in the mirror. Remember that your deck will be constructed with the extra material in mind; while your opponent will also have an extra card, their deck will not be made with the extra material in mind.
 
-![Duel Standby decklist](https://image.prntscr.com/image/AKKAyQbRQkqu83_SdXzCig.png)
+![Duel, standby! decklist](https://image.prntscr.com/image/AKKAyQbRQkqu83_SdXzCig.png)
 Cred: Snowstar - 75% winrate in KC Cup
 
 #### **Mind Scan:**
@@ -155,11 +155,11 @@ Cred: Rasiert - got 1st in EU during first day KC Cup
 
 These are some theoretical winrates between average CA builds of each duel skill. These are not absolute, but general estimations given optimized builds with the skill being the main differentiator.
 
-|  Skill: |Restart|Balance|Duel Standby|Mind Scan|
+|  Skill: |Restart|Balance|Duel, standby!|Mind Scan|
 |:-:|:-:|:-:|:-:|:-:|
 |**Restart**|Mirror|50:50|60:40|55:45|
 |**Balance**|50:50|Mirror|50:50|55:45|
-|**Duel Standby**|40:60|50:50|Mirror|50:50|
+|**Duel, standby!**|40:60|50:50|Mirror|50:50|
 |**Mind Scan**|45:55|45:55|50:50|Mirror|
 
 
@@ -565,7 +565,7 @@ Keep in mind that most of the techs that you would use against REZ are weak agai
 
 + {Cosmic Cyclone}: CC is the fastest option for CA; you can use it in the End Phase to snipe spirits or econs.
 
-+ {Duel Standby}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are much more common with DS and allow CA to outpace REZ.
++ {Duel, standby!}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are much more common with DS and allow CA to outpace REZ.
 
 ---
 
@@ -634,7 +634,7 @@ Of all the matchups against the current top 6 decks, CA does the best against AG
 |:-:             |:-:|:-:|:-:|:-:|
 |**Restart**     |55:45|60:40|45:55|60:40|40:60|65:35|
 |**Balance**     |50:50|60:40|45:55|60:40|35:65|60:40|
-|**Duel Standby**|50:50|55:45|55:45|60:40|40:60|65:35|
+|**Duel, standby!**|50:50|55:45|55:45|60:40|40:60|65:35|
 |**Mind Scan**   |45:55|55:45|40:60|50:50|45:55|55:45|
 |**Overall**   |50:50|60:40|45:55|60:40|40:60|60:40|
 
@@ -665,7 +665,7 @@ Knowing what you do and don’t want to draw will depend on you knowing what car
 
 >**“What is the best skill for CA?”**
 
-I believe that {Balance} and {Restart} are the best skills for CA in the current meta and I have achieved KoG with both. {Mind Scan} is not good in the current meta, and while I think {Duel Standby} has potential, it lacks results in tournaments.
+I believe that {Balance} and {Restart} are the best skills for CA in the current meta and I have achieved KoG with both. {Mind Scan} is not good in the current meta, and while I think {Duel, standby!} has potential, it lacks results in tournaments.
 
 ---
 
@@ -700,7 +700,7 @@ Vincenity: For repping CA in DLPT’s / Team Wars and giving me competition whil
 
 Nix: For giving me solid advice on my guide and helping develop DDraw burn. Now there’s legit no excuse for complaining when people lose to CA.
 
-Snowstar: For his insight on Curse of Anubis and Duel Standby, but also for helping review my guide a bunch of times because konami keeps changing the game.
+Snowstar: For his insight on Curse of Anubis and Duel, standby!, but also for helping review my guide a bunch of times because konami keeps changing the game.
 
 CrimsonLTCR: For helping theorycraft and test techs, alternate skills, and how best to use them.
 
