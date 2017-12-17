@@ -40,7 +40,7 @@ module Jekyll
               file["main24"], file["main25"], file["main26"], file["main27"], file["main28"], file["main29"]]
             
             file_extra = [
-              file["extra0"], file["extra1"], file["extra2"], file["extra3"], file["extra4"], file["extra5"]]
+              file["extra0"], file["extra1"], file["extra2"], file["extra3"], file["extra4"]]
 
             deck_main = []
             deck_extra = []
