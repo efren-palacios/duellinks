@@ -7,7 +7,8 @@ allowedFields: [
   "main16", "main17", "main18", "main19",
   "main20", "main21", "main22", "main23",
   "main24", "main25", "main26", "main27",
-  "main28", "main29", "deckType"
+  "main28", "main29", "extra0", "extra1",
+  "extra2", "extra3", "extra4", deckType"
 ]
 requiredFields: [
   "name",   "author", "skill",  "deckType",
