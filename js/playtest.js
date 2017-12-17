@@ -12,7 +12,7 @@ let hand = []
 let board = []
 let currentDeck = joinMainExtraDeck(playtest.main, playtest.extra)
 
-let encode = window.btoa(JSON.stringify(currentDeck))
+let encode = window.btoa(JSON.stringify(getExportReadyDeck(currentDeck)))
 
 $('#export').click(function() {
   $('.export').html(`<textarea style="width:320px" class="code">${encode}</textarea>`)
@@ -62,6 +62,31 @@ $(document).on("click", "#deckmenu img", function() {
     summonMonsterFromExtra(getCardPositionInArray(extradecklist, id))
   }
 })
+
+function getExportReadyDeck(currentDeck){
+	var joined = [];
+	
+	for (let card in currentDeck) {
+		let found = false;
+		for(let joinedCard in joined){
+			if(joined[joinedCard].name == currentDeck[card].name){
+				joined[joinedCard].amount++;
+				found = true;
+				break;
+			}
+		}
+		
+		if(!found){
+			joined.push({
+			  name: currentDeck[card].name,
+			  deck: currentDeck[card].deck,
+			  amount: 1
+			});
+		}
+	}
+	
+	return joined;
+}
 
 function joinMainExtraDeck(main, extra) {
   var joined = [];
