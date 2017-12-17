@@ -29,16 +29,11 @@ module Jekyll
               
               deck_page.puts("---")
               deck_page.puts("layout: blog")
-              deck_page.puts("title: #{deck_name}")
               deck_page.puts("author: bot")
               deck_page.puts("comments: true")
-
-              lower_author = deck['author'].downcase
-              lower_author.gsub! ' ', '-'
-              updated_author = lower_author
-
               deck_page.puts("permalink: #{deck['url']}")
               deck_page.puts("---")
+              
               deck_page.puts("")
               deck_page.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
               deck_page.puts("<div class='deck-page'>")

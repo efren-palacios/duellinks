@@ -20,47 +20,60 @@ permalink: /submit-your-deck/
 <div class="section">
     <form class="deck-submission" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
         <div class="row">
-            <div class="form-group col-sm-6">
-                <label for="name">Deck name</label>
-                <input type="text" class="form-control" id="name" name="fields[name]">
-            </div>
-            <div class="form-group col-sm-6">
-                <label for="author">Author</label>
-                <input type="text" class="form-control" id="author" name="fields[author]">
-            </div>
-            <div class="form-group col-sm-6">
-                <label for="deckType">Deck Type</label>
-                <select class="form-control" id="deckType" name="fields[deckType]">
-                    <option value=""></option>
-                    {% assign tiers = site.data.tierlist %}
-                    {% for tier in tiers %}
-                        {% for type in tier.types %}
-                            <option value="{{type.id}}">{{type.display}}</option>
+            <div class="col-sm-5 left-side">
+                <div class="form-group">
+                    <label for="name">Deck name</label>
+                    <input type="text" class="form-control" id="name" name="fields[name]">
+                </div>
+                <div class="form-group">
+                    <label for="deckType">Deck Type</label>
+                    <select class="form-control" id="deckType" name="fields[deckType]">
+                        <option value=""></option>
+                        {% assign tiers = site.data.tierlist %}
+                        {% for tier in tiers %}
+                            {% for type in tier.types %}
+                                <option value="{{type.id}}">{{type.display}}</option>
+                            {% endfor %}
                         {% endfor %}
-                    {% endfor %}
-                </select>
-            </div>
-            <div class="form-group col-sm-6">
-                <label for="skill">Skill</label>
-                <input type="text" class="form-control" id="skill" name="fields[skill]">
-            </div>
-            <div class="form-group col-sm-5 card-search">
-                <label for="searcher">Search a card</label>
-                <input type="text" class="form-control" data-bind="textInput: searchTerm">
-                <div id="deck">
-                    <div id="cards" data-bind="foreach: filteredCards">
-                        <div class="item" data-bind="attr: {'data-name': name}">
-                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a> 
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="skill">Skill</label>
+                    <input type="text" class="form-control" id="skill" name="fields[skill]">
+                </div>
+                <div class="form-group">
+                    <label>Search a card</label>
+                    <input type="text" class="form-control" data-bind="textInput: searchTerm">
+                    <div id="deck">
+                        <div id="cards" data-bind="foreach: filteredCards">
+                            <div class="item" data-bind="attr: {'data-name': name}">
+                                <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a> 
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="form-group col-sm-7 card-display">
-                <label for="searcher">Your deck</label>
-                <div id="deck" class="user-deck">
-                    <div id="cards" data-bind="foreach: selectedMainCards().sort(SortDeck)">
-                        <div class="item" data-bind="attr: {'data-name': name, 'data-number': number}">
-                            <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a>
+            <div class="col-sm-7 right-side">
+                <div class="form-group">
+                    <label for="author">Author</label>
+                    <input type="text" class="form-control" id="author" name="fields[author]">
+                </div>
+                <div class="form-group">
+                    <label>Your deck</label>
+                    <div id="deck-container">
+                        <div id="deck">
+                            <div id="cards" data-bind="foreach: selectedMainCards().sort(SortDeck)">
+                                <div class="item" data-bind="attr: {'data-name': name, 'data-number': number}">
+                                    <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="deck" class="extra-deck">
+                            <div id="cards" data-bind="foreach: selectedExtraCards().sort(SortDeck)">
+                                <div class="item" data-bind="attr: {'data-name': name, 'data-number': number}">
+                                    <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
