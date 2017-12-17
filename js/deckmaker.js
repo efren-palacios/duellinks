@@ -77,8 +77,8 @@ $(function()
                                     <b>${officialName}</b><br/>
                                     <p>${desc}</p>
                                     ${exclusive == true
-                                            ? '<p>Skill exclusive to ' + characterWhoUses[0] + '</p>'
-                                            : '<p>Skill can be used by different characters</p>'}
+                                            ? '<p>Skill exclusive to ' + characterWhoUses[0] + '.</p>'
+                                            : '<p>Skill can be used by different characters.</p>'}
                                 </div>`)
                             })
                             return "Loading skill...";
