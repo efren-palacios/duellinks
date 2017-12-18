@@ -11,7 +11,7 @@
       {% for tier in site.data.tierlist %}
         {% for type in tier.types %}
           {% if type.id == decktype[0] %}
-           {% assign tiertype = type %}
+            {% assign tiertype = type %}
           {% endif %}
         {% endfor %}
       {% endfor %}
