@@ -4,8 +4,6 @@
         "info": "New deck types or decks that have received new cards that change the deck.",
         "types":
         [
-            { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
-            { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
             { "id": "gemini",             "display": "Geminis",            "card": "Supervise" },
             { "id": "winged-dragon-of-ra", "display": "Winged Dragon of Ra", "card": "The Winged Dragon of Ra" }
         ] 
@@ -43,15 +41,23 @@
         ]
     },
     {
-        "tier": 10,
-        "category": "YouTube",
-        "info": "",
+        "category": "NotableKoGDecks",
+        "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
+        "types":
+        [
+            { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
+            { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
+            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" }
+        ] 
+    },
+    {
+        "category": "OtherDecks",
+        "info": "These are decks that are currently active, but are not skilled enough for King of Games or tier status.",
         "types":
         [    
             { "id": "machine",            "display": "Machines",           "card": "Pulse Mines" },
             { "id": "pyrorex",            "display": "Pyrorex",            "card": "Pyrorex the Elemental Lord" },
-            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" },   
-            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
+            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" },
             { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
             { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
             { "id": "mill-decks",         "display": "Mill Decks",         "card": "Hiro's Shadow Scout" },
@@ -70,7 +76,8 @@
             { "id": "venus",              "display": "Venus",              "card": "The Agent of Creation - Venus" },
             { "id": "zombies-gemini",     "display": "Zombies Gemini",     "card": "Goblin Zombie" },
             { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
-            { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" }
+            { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
+            { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" }
         ]
     }
 ]
