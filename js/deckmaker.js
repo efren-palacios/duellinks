@@ -49,9 +49,8 @@ $(function()
                             return "Loading card...";
                         }else if(type == "skillPopup"){
                             let name = $(this).html();
-                            axios.get("/data/skillsChars.json").then(function(r)
-                            {
-
+                            axios.get(websiteLink + "/data/skillsChars.json").then(function(r)
+                            {						
                                 let characterWhoUses = [];
                                 let exclusive = false;
                                 let desc = "No description available";

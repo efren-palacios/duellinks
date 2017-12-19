@@ -575,7 +575,7 @@
   },
   {
     "name": "Straight to the Grave",
-    "description": "Begin Duel with the Field Spell \"Wasteland\" activated.",
+    "description": "Begin Duel with the Field Spell 'Wasteland' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Bonz"
