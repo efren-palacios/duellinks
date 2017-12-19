@@ -30,8 +30,8 @@
               {% assign deckName = deck[1].author | append: "'s " | append: tiertype.display | remove: " Decks" | append: " Deck" %}
             {% endif %}
             {
-              "author": "{{deck[1].author}}",
-              "name": "{{deckName}}",
+              "author": "{{deck[1].author | escape_backslashes }}",
+              "name": "{{deckName | escape_backslashes }}",
               "url": "{{deck[1].url}}",
               "created": "{{deck[1].created}}",
               "front": "{{deck[1].main[0].name}}",
