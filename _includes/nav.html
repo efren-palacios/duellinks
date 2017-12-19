@@ -1,52 +1,53 @@
 <nav class="navbar navbar-expand-md">
-  <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-    <i class="fa fa-bars fa-lg" aria-hidden="true"></i>          
-  </button>
-
-  <div class="navbar-collapse collapse" id="navbarsExampleDefault">
-    <ul class="navbar-nav mr-auto mx-auto">
-      <a class="navbar-brand" href="{{site.url}}">
-        <img src="{{site.url}}/img/logos/dlm.png" alt="">
-      </a>
-      <li class="nav-item">
-        {% if page.url contains "/tier-list/" %}
-          <a class="nav-link active" href="{{site.url}}/tier-list/">Tier List</a>
-        {% else %}
-          <a class="nav-link" href="{{site.url}}/tier-list/">Tier List</a>
-        {% endif %}
-      </li>
-      <li class="nav-item active">
-          {% if page.url contains "/top-decks/" %}
-            <a class="nav-link active" href="{{site.url}}/top-decks/">Top Decks</a>
+  <div class="container">
+    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-bars fa-lg" aria-hidden="true"></i>          
+    </button>
+    <a class="navbar-brand ml-auto" href="{{site.url}}">
+      <img src="{{site.url}}/img/logos/dlm.png" alt="">
+    </a>
+    <div class="navbar-collapse collapse mr-auto" id="navbarsExampleDefault">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          {% if page.url contains "/tier-list/" %}
+            <a class="nav-link active" href="{{site.url}}/tier-list/">Tier List</a>
           {% else %}
-            <a class="nav-link" href="{{site.url}}/top-decks/">Top Decks</a>
+            <a class="nav-link" href="{{site.url}}/tier-list/">Tier List</a>
           {% endif %}
-      </li>
-      <li class="nav-item">
-          {% if page.url contains "/meta-championship-series/" %}
-          <a class="nav-link active" href="{{site.url}}/meta-championship-series/">MCS</a>
-        {% else %}
-          <a class="nav-link" href="{{site.url}}/meta-championship-series/">MCS</a>
-        {% endif %}
-      </li>
-      <li class="nav-item active">
-        {% if page.url contains "/new-players/" %}
-          <a class="nav-link active" href="{{site.url}}/new-players/">New Players</a>
-        {% else %}
-          <a class="nav-link" href="{{site.url}}/new-players/">New Players</a>
-        {% endif %}
-      </li>
-      <li class="nav-item">
-        {% if page.url contains "/discord/" %}
-          <a class="nav-link active" href="{{site.url}}/discord/">Discord</a>
-        {% else %}
-          <a class="nav-link" href="{{site.url}}/discord/">Discord</a>
-        {% endif %}
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="{{site.url}}">New Event</a>
-      </li>
-    </ul>
+        </li>
+        <li class="nav-item active">
+            {% if page.url contains "/top-decks/" %}
+              <a class="nav-link active" href="{{site.url}}/top-decks/">Top Decks</a>
+            {% else %}
+              <a class="nav-link" href="{{site.url}}/top-decks/">Top Decks</a>
+            {% endif %}
+        </li>
+        <li class="nav-item">
+            {% if page.url contains "/meta-championship-series/" %}
+            <a class="nav-link active" href="{{site.url}}/meta-championship-series/">MCS</a>
+          {% else %}
+            <a class="nav-link" href="{{site.url}}/meta-championship-series/">MCS</a>
+          {% endif %}
+        </li>
+        <li class="nav-item active">
+          {% if page.url contains "/new-players/" %}
+            <a class="nav-link active" href="{{site.url}}/new-players/">New Players</a>
+          {% else %}
+            <a class="nav-link" href="{{site.url}}/new-players/">New Players</a>
+          {% endif %}
+        </li>
+        <li class="nav-item">
+          {% if page.url contains "/discord/" %}
+            <a class="nav-link active" href="{{site.url}}/discord/">Discord</a>
+          {% else %}
+            <a class="nav-link" href="{{site.url}}/discord/">Discord</a>
+          {% endif %}
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{site.url}}">New Event</a>
+        </li>
+      </ul>
+    </div>   
   </div>
 </nav>
       <!--                 <li class="nav-item dropdown">

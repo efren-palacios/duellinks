@@ -20,18 +20,27 @@
     min-height: 48px;
   }
 
+  .navbar-brand 
+  {
+    margin-right: 1.5rem;
+
+    > img
+    {
+      height: 38px;
+    }
+  }
+
   .navbar-nav
   {
-    text-align: center;
+    text-align: center;   
+  }
 
-    .navbar-brand 
-    {
-      margin-right: 1.5rem;
-  
-      > img
-      {
-        height: 38px;
-      }
+  .container {
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    .navbar-items {
+      display: flex;
     }
   }
 }

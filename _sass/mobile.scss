@@ -75,21 +75,24 @@
 
 @media only screen and (max-width: 767px)
 {
-  .navbar .navbar-nav
+  .navbar
   {
+    .navbar-nav {
+      li.nav-item > a.nav-link
+      {
+        padding-top: 6px;
+      }
+  
+      li.nav-item:last-child
+      {
+        margin-bottom: 6px;
+      }
+    }
+
     .navbar-brand 
     {
-      margin-right: 0;
-    }
-
-    li.nav-item > a.nav-link
-    {
-      padding-top: 6px;
-    }
-
-    li.nav-item:last-child
-    {
-      margin-bottom: 6px;
+      margin-right: auto!important;
+      margin-left: auto!important;
     }
   }
 }
@@ -216,5 +219,13 @@
         font-size: 14px;
       }
     }
+  }
+}
+
+@media only screen and (min-width: 767px)
+{
+  .navbar-collapse
+  {
+    flex-basis: inherit;
   }
 }
