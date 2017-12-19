@@ -583,14 +583,14 @@
   {
     "name": "Zombie Draw",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, randomly draw a Zombie-Type monster.",
-    "how": "Level 13",
+    "how": "Drop",
     "exclusive": true,
     "character": "Bonz"
   },
   {
     "name": "Posthumous Army",
     "description": "Can be used each time your Life Points decrease by 2000. The monsters in both player's Graveyards become Zombie-Type monsters.",
-    "how": "Level 20",
+    "how": "Drop",
     "exclusive": true,
     "character": "Bonz"
   },
