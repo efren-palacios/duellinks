@@ -434,5 +434,17 @@
   {
     "name": "Teacherly Discipline",
     "description": "Can be used each time your Life Points decrease by 1500. Declare a Monster, Spell, or Trap Card. That type of card will be randomly selected from your opponent's Deck and placed on top of their Deck. Neither player will see what the card is. Nothing will be placed on top of your opponent's Deck if the declared card type is not in their Deck."
+  },
+  {
+    "name": "Straight to the Grave",
+    "description": "Begin Duel with the Field Spell \"Wasteland\" activated."
+  },
+  {
+    "name": "Zombie Draw",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, randomly draw a Zombie-Type monster."
+  },
+  {
+    "name": "Posthumous Army",
+    "description": "Can be used each time your Life Points decrease by 2000. The monsters in both player's Graveyards become Zombie-Type monsters."
   }
 ]
