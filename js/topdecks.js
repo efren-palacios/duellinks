@@ -100,37 +100,74 @@ function InitializeViewModel()
         },
         deferEvaluation: true}),
 
-        navigateToPage: function(page)
-        {
-            TopDecksViewModel.currentPage(1);
-        },
-
         resetPagination: function()
         {
             TopDecksViewModel.currentPage(1);
+            TopDecksViewModel.recalculatePagination();
+        },
+
+        recalculatePagination: function()
+        {
             TopDecksViewModel.pages.removeAll();
+            TopDecksViewModel.pages.push(TopDecksViewModel.currentPage());
 
-            var amountOfDecks = TopDecksViewModel.filteredDecks().length;
+            var minPages = 1;
+            var maxPages = Math.floor(TopDecksViewModel.filteredDecks().length / TopDecksViewModel.decksPerPage) + 1;
 
-            for(var i = 1; i < amountOfDecks / TopDecksViewModel.decksPerPage + 1; i++)
+            for(var i = 0; i < 9; i++)
             {
-                TopDecksViewModel.pages.push(i);
+                var minPage = Math.min.apply(Math, TopDecksViewModel.pages());
+                var maxPage = Math.max.apply(Math, TopDecksViewModel.pages());
+
+                if(i % 2 === 0)
+                {
+                    if(maxPage < maxPages)
+                        TopDecksViewModel.pages.push(maxPage + 1);
+                    else if(minPage > minPages)
+                        TopDecksViewModel.pages.push(minPage - 1);
+                }
+                else
+                {
+                    if(minPage > minPages)
+                        TopDecksViewModel.pages.push(minPage - 1); 
+                    else if(maxPage < maxPages)
+                        TopDecksViewModel.pages.push(maxPage + 1);
+                }
             }
+
+            TopDecksViewModel.pages.sort(SortPages);
         },
 
         selectPage: function(page)
         {
             TopDecksViewModel.currentPage(page);
+            TopDecksViewModel.recalculatePagination();
+        },
+
+        selectFirstPage: function()
+        {
+            TopDecksViewModel.currentPage(1);
+            TopDecksViewModel.recalculatePagination();
+        },
+
+        selectLastPage: function()
+        {
+            var amountOfDecks = TopDecksViewModel.filteredDecks().length;
+            var lastPage = Math.floor(amountOfDecks / TopDecksViewModel.decksPerPage) + 1;
+            TopDecksViewModel.currentPage(lastPage);
+            TopDecksViewModel.recalculatePagination();
         },
 
         selectPreviousPage: function()
         {
             TopDecksViewModel.currentPage(TopDecksViewModel.currentPage() - 1);
+            TopDecksViewModel.recalculatePagination();
         },
 
         selectNextPage: function()
         {
             TopDecksViewModel.currentPage(TopDecksViewModel.currentPage() + 1);
+            TopDecksViewModel.recalculatePagination();
         }
     };
     
@@ -178,6 +215,11 @@ function SortDecks(a, b)
 
     var nameResult = (a.name > b.name) ? 1 : ((a.name < b.name) ? -1 : 0);
     return nameResult;
+}
+
+function SortPages(a, b)
+{
+    return a > b ? 1 : (a < b) ? -1 : 0;
 }
 
 function RemoveDuplicates(array)

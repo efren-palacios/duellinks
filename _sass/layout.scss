@@ -67,6 +67,13 @@ a
   display: none !important;
 }
 
+.disabled
+{
+  opacity: .5;
+  pointer-events: none;
+  nav-index: -1;
+}
+
 .invisible
 {
   visibility: hidden;
