@@ -112,7 +112,7 @@ function InitializeViewModel()
             TopDecksViewModel.pages.push(TopDecksViewModel.currentPage());
 
             var minPages = 1;
-            var maxPages = Math.floor(TopDecksViewModel.filteredDecks().length / TopDecksViewModel.decksPerPage) + 1;
+            var maxPages = Math.ceil(TopDecksViewModel.filteredDecks().length / TopDecksViewModel.decksPerPage);
 
             for(var i = 0; i < 9; i++)
             {
