@@ -5,7 +5,7 @@ author: KingParrott
 image: /img/news/in-game-update-&-upcoming-changes-december-2017/thumbnail.png
 category: news
 date: 2017-12-08
-pinned: true
+pinned: false
 comments: false
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
 keywords: news, upcoming updates, KC Cup, nerf, konami
