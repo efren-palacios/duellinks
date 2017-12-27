@@ -446,5 +446,21 @@
   {
     "name": "Posthumous Army",
     "description": "Can be used each time your Life Points decrease by 2000. The monsters in both player's Graveyards become Zombie-Type monsters."
+  },
+  {
+    "name": "Card Shuffle",
+    "description": "Can be used by paying 300 life points. Shuffle your deck. This skill can only be used once per turn."
+  },
+  {
+    "name": "Master of Magicians",
+    "description": "Can be used after your Life Points decrease by 2000. Randomly add 'Thousand Knives', 'Dark Magic Attack' or 'Dark Magician Expanded' to your hand. This skill can only be used once per duel."
+  },
+  {
+    "name": "A Trick Up the Sleeve",
+    "description": "Your starting hand will include 1 Level 7 or higher DARK Spellcaster-Type monster, randomly selected from your Deck. This skill will not activate if your deck does not contain any Level 7 DARK Spellcaster-Type monsters."
+  },
+  {
+    "name": "Show of Nightmares",
+    "description": "Can be activated if you have 3 or more Spell cards with different names in your Graveyard. Randomly add 1 Spell card in your graveyard to your hand. This skill can only be used once per duel."
   }
 ]
