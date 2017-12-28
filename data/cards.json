@@ -7,7 +7,7 @@
       {
         "name": "{{card[1].name | replace: '"', '\\"'}}",
         "nameSearch": "{{card[1].name | replace: '"', "" | downcase}}",
-        "nameLink": "{{card[1].name | replace: ' ', "_" | replace: '"', "_" | replace: '’', "'" | remove: '#'}}",
+        "nameLink": "{{card[1].name | replace: ' ', "_" | replace: '"', "_" | replace: '’', "'" | replace: '!', "_" | remove: '#'}}",
         "description": "{{card[1].desc | strip_tabs | strip_newlines | escape_backslashes | replace: '"', "" | downcase}}"
       }
       {% unless forloop.last %},{% endunless %}
