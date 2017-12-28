@@ -5,7 +5,15 @@
         "types":
         [
             { "id": "gemini",             "display": "Geminis",            "card": "Supervise" },
-            { "id": "winged-dragon-of-ra", "display": "Winged Dragon of Ra", "card": "The Winged Dragon of Ra" }
+            { "id": "winged-dragon-of-ra", "display": "Winged Dragon of Ra", "card": "The Winged Dragon of Ra" },
+            { "id": "cloudians",          "display": "Cloudians",          "card": "Cloudian - Eye of the Typhoon" },
+            { "id": "dark-magician",      "display": "Dark Magician",      "card": "Dark Magician" },
+            { "id": "dark-world",         "display": "Dark World",         "card": "Reign-Beaux, Overlord of Dark World" },
+            { "id": "gem-knights",        "display": "Gem-Knights",        "card": "Gem-Knight Emerald" },
+            { "id": "jurrac",             "display": "Jurrac",             "card": "Jurrac Guaiba" },
+            { "id": "lightsworn",         "display": "Lightsworn",         "card": "Lyla, Lightsworn Sorceress" },
+            { "id": "necrofear",          "display": "Necrofear",          "card": "Dark Necrofear" },
+            { "id": "volcanics",          "display": "Volcanics",          "card": "Volcanic Rocket" }
         ] 
     },
     {
@@ -47,7 +55,8 @@
         [
             { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
             { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
-            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" }
+            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
+            { "id": "phoenix-nephthys",   "display": "Phoenix",            "card": "Sacred Phoenix of Nephthys" }
         ] 
     },
     {
@@ -62,7 +71,6 @@
             { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
             { "id": "mill-decks",         "display": "Mill Decks",         "card": "Hiro's Shadow Scout" },
             { "id": "ninja-control",      "display": "Ninja Control",      "card": "White Ninja" },
-            { "id": "phoenix-nephthys",   "display": "Phoenix",            "card": "Sacred Phoenix of Nephthys" },
             { "id": "relinquished",       "display": "Relinquished",       "card": "Relinquished" },
             { "id": "bls-the-creator",    "display": "BLS / The Creator",  "card": "Black Luster Soldier - Sacred Soldier" },
             { "id": "dark-paladin",       "display": "Dark Paladin",       "card": "Dark Paladin" },
