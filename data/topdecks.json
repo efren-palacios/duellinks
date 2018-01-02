@@ -5,7 +5,6 @@
   {% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
 
   {% assign decks = site.data.top-decks[currentYear][currentMonth] %}
-  {% assign month = site.data.months | where: "id", currentMonth %}
 
   {% for decktype in decks %}
       {% for tier in site.data.tierlist %}
