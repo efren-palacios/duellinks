@@ -22,7 +22,7 @@ function GetCards()
 
 function GetCardUrl(name)
 {
-    var invalidChars = [" ", "-", ":", "#", "\"", "/"];
+    var invalidChars = [" ", "-", ":", "#", "\"", "/", "!"];
 
     $.each(invalidChars, function(index, value)
     {
