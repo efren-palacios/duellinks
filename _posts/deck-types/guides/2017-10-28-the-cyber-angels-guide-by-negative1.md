@@ -55,7 +55,7 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
 
 #### Introduction
 
-Cyber Angels are the current best deck in duel links with their swarming ability and OTK potential. However, some players believe CA doesn’t live up to the hype and believe they have solved the matchup. This mindset has been developed from inexperienced CA players playing mindlessly, or at the very least over extending. This guide will briefly discuss common plays, but the goal of this guide is to make you recognize possible options that are being neglected.
+Cyber Angels are the current best deck in duel links with their swarming ability and OTK potential. However, some players believe CA doesn’t live up to the hype and believe they have solved the matchup. This mindset has been developed from inexperienced CA players playing mindlessly, or at the very least over extending. This guide will briefly discuss common plays, but the goal of this guide is to make you recognize possible options that are being neglected..
 
 #### Playstyle
 
