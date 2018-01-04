@@ -20,7 +20,7 @@ permalink: /submit-your-deck/
 <div class="section">
     <div style="width: 100%; margin-bottom: 1rem; text-align: center;">
         <span id="kog-status">Getting discord information...</span>
-        <a style="display: none; display: block;" href="ttps://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">
+        <a style="display: none; display: block;" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">
             <input type="submit" id="discord-login-button" style="cursor: pointer; display: none;" class="btn btn-primary" value="Login in to discord" />
         </a>
     </div>
