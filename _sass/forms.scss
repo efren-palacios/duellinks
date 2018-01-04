@@ -7,6 +7,10 @@ form
         border: 1px solid #182f4c;
         background-color: #0c2740;
     }
+
+    input.form-control:read-only{
+        background-color: #0a1f33;
+    }
 }
 
 .deck-submission
