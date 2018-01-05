@@ -85,7 +85,8 @@
             { "id": "zombies-gemini",     "display": "Zombies Gemini",     "card": "Goblin Zombie" },
             { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
             { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
-            { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" }
+            { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" },
+            { "id": "desert-twister",     "display": "Desert Twister",     "card": "Desert Twister" }
         ]
     }
 ]
