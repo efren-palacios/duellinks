@@ -18,13 +18,11 @@ permalink: /submit-your-deck/
 </div>
 
 <div class="section">
-    <div style="width: 100%; margin-bottom: 1rem; text-align: center;">
-        <span id="kog-status">Getting discord information...</span>
-        <a style="display: none; display: block;" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">
-            <input type="submit" id="discord-login-button" style="cursor: pointer; display: none;" class="btn btn-primary" value="Login in to discord" />
-        </a>
+    <div class="discord-login-content">
+        <span class="discord-conn-info" id="kog-status">Getting discord information...</span>
+        <a href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify" class="btn btn-info" role="button">Login to discord</a>
     </div>
-    <form class="deck-submission" id="deck-sub-form" style="display: none;" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
+    <form class="deck-submission hidden" id="deck-sub-form" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
         <div class="row">
             <div class="col-sm-5 left-side">
                 <div class="form-group">
@@ -99,7 +97,7 @@ permalink: /submit-your-deck/
             </div>
         </div>
     </form>
-    <div style="width: 100%; text-align: center;">
+    <div class="post-submission-wrapper">
         <span id="post-submit-message"></span>
     </div>
 </div>

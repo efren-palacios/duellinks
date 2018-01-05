@@ -5,29 +5,28 @@ var savedUserId = -1;
 var savedUserDevRole = false;
 
 $(function () {
-    $("#discord-login-button").hide();
-    $("#deck-sub-form").hide();
+    $("#deck-sub-form").addClass("hidden");
     $("#deck-sub-form :input").prop('readonly', true);
 
     var accessToken = getAccessTokenFromURL();
     var hasAccessToken = accessToken ? true : false;
 
     if (hasAccessToken) {
-        $("#discord-login-button").hide();
+        $("#discord-login-button").addClass("hidden");
         $("#kog-status").html("Checking your discord roles...");
         getDiscordInformationAboutUser(accessToken, userIsKoGAction, userIsNotKoGAction);
 
         if(window.history.pushState)
             window.history.pushState({}, null, window.location.href.split("#")[0]);
     }else{
-        $("#discord-login-button").show();
+        $("#discord-login-button").removeClass("hidden");
         $("#kog-status").html("Only KoG memebers can submit decks to this page. Login to discord to get access.");
     }
 })
 
 $("#SubmitDeck").click(function(){
     if(savedUserId != 1 && !savedUserDevRole){
-        $("#deck-sub-form").hide();
+        $("#deck-sub-form").addClass("hidden");
         $("#deck-sub-form :input").prop('readonly', true);
         $("#post-submit-message").html("Thank you very much for your deck submission!");
 
@@ -47,11 +46,11 @@ $("#SubmitDeck").click(function(){
 function userIsKoGAction(userName){
     if(savedUserDevRole){
         $("#kog-status").html(userName + ", you are a content manager, you have open access.");
-        $("#deck-sub-form").show();
+        $("#deck-sub-form").removeClass("hidden");
         $("#deck-sub-form :input").prop('readonly', false);
     }else{
         $("#kog-status").html(userName + ", you are King Of Games this month!");
-        $("#deck-sub-form").show();
+        $("#deck-sub-form").removeClass("hidden");
         $("#deck-sub-form :input").prop('readonly', false);
         $("#author").prop('readonly', true);
         $("#author").val(userName);
@@ -60,7 +59,7 @@ function userIsKoGAction(userName){
 
 function userIsNotKoGAction(userName){
     $("#kog-status").html(userName + ", you not are King Of Games this month!");
-    $("#deck-sub-form").hide();
+    $("#deck-sub-form").addClass("hidden");
     $("#deck-sub-form :input").prop('readonly', true);
 }
 

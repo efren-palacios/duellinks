@@ -487,3 +487,24 @@ button:focus
 .easy-autocomplete-container ul li.selected {
   background: #092035 !important;
 }
+
+/* Submit your deck discord connection */
+.discord-login-content{
+  width: 100%;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.discord-login-button{
+  cursor: pointer;
+}
+
+.post-submission-wrapper{
+  width: 100%;
+  text-align: center;
+}
+
+.discord-conn-info{
+  display: block;
+  margin-bottom: 0.5rem;
+}
