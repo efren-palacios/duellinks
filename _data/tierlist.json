@@ -86,7 +86,9 @@
             { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
             { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
             { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" },
-            { "id": "desert-twister",     "display": "Desert Twister",     "card": "Desert Twister" }
+            { "id": "desert-twister",     "display": "Desert Twister",     "card": "Desert Twister" },
+			{ "id": "genex",     		  "display": "Genex",     		   "card": "Genex Army" },
+			{ "id": "blue-eyes",     	  "display": "Blue-Eyes White Dragon", "card": "Blue-Eyes White Dragon" }
         ]
     }
 ]
