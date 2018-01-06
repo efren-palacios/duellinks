@@ -39,7 +39,7 @@ module Jekyll
               deck_page.puts("<div class='deck-page'>")
               deck_page.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
               deck_page.puts("    <script>var playtest = {{deck | jsonify}}</script>") 
-              deck_page.puts("    {% if deck.notes != null %}")
+              deck_page.puts("    {% if deck.notes != null and deck.notes.size > 0  and deck.notes[0].text != '' %}")
               deck_page.puts("      <h2>Notes from {{deck.author}}</h2>")
               deck_page.puts("      {% for note in deck.notes %}")
               deck_page.puts("        <div class='section deck-notes'>")
