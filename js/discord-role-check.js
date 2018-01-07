@@ -175,7 +175,7 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
             if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isContentManager()){
                 $("#kog-status").html("You can only submit one deck per month.");
             }else{
-                if(discordUser.isKoG()) isKogAction(discordUser.getUsername());
+                if(discordUser.isKoG() || discordUser.isContentManager()) isKogAction(discordUser.getUsername());
                 else isNotKogAction(discordUser.getUsername());
             }
         },
@@ -241,7 +241,7 @@ function userIsKoGAction(userName){
 }
 
 function userIsNotKoGAction(userName){
-    $("#kog-status").html(userName + ", you not are King Of Games this month!");
+    $("#kog-status").html(userName + ", you are not King Of Games this month!");
     $("#deck-sub-form").addClass("hidden");
     $("#deck-sub-form :input").prop('readonly', true);
 }
