@@ -12,13 +12,24 @@ module Jekyll
 
       top_decks = site.data["top-decks"]
 
+      cur_year = Date.today.year.to_s
+      cur_month = Date.today.month.to_s.rjust(2, "0")
+
       for year_key in top_decks.keys - ["pending"]
         year = top_decks[year_key]
+
         for month_key in year.keys
           month = year[month_key]
-          monthName = Date::MONTHNAMES[month_key.to_i].downcase
+
+          unless year_key == cur_year && month_key == cur_month
+            generateTopDecks(site, year_key, month_key, month)
+          end
+
           for decktype_key in month.keys
             decktype = month[decktype_key]
+            
+            #generate top-decks seasonal decktype pages
+
             for deck_key in decktype.keys
               deck = decktype[deck_key]
               deck_name = deck['name']
@@ -59,7 +70,84 @@ module Jekyll
           end
         end
       end
+    end
 
+    def generateTopDecks(site, year, month, decktypes)
+      
+      generateTopDecksPageFiles(site, year, month, decktypes)
+      generateTopDecksDataFiles(site, year, month, decktypes)
+
+    end
+
+    def generateTopDecksPageFiles(site, year, month, decktypes)
+      
+      monthName = Date::MONTHNAMES[month.to_i].downcase
+      
+      unless File.exist?('season-page.html')
+        season_page = File.new('season-page.html', 'w')
+      end
+      
+      season_page.puts("---")
+      season_page.puts("layout: blog")
+      season_page.puts("author: bot")
+      season_page.puts("permalink: /top-decks/#{monthName}-#{year}/")
+      season_page.puts("---")
+      season_page.puts("")
+      season_page.puts("<span>#{monthName}-#{year}</span>") #todo
+      season_page.close
+
+      site.pages << DeckPage.new(site, site.source, '', 'season-page.html')
+
+      FileUtils.rm 'season-page.html'
+
+    end
+
+    def generateTopDecksDataFiles(site, year, month, decktypes)
+
+      file_path = site.source + "/data/top-decks/" + year + "-" + month + ".json"
+      
+      if File.exist?(file_path)
+        FileUtils.rm file_path
+      end
+
+      new_file = File.new(file_path, "w")
+      
+      top_decks = []
+
+      for decktype_key in decktypes.keys
+        decktype = decktypes[decktype_key]
+
+        tierlistFile = File.read('_data/tierlist.json')
+        tierlist = JSON.parse(tierlistFile)
+
+        tiertype = { "display" => "", "card" => "" }
+
+        for tier in tierlist
+          for type in tier["types"]
+            if type["id"] == decktype_key
+              tiertype = type
+            end
+          end
+        end
+
+        if tiertype
+          display = tiertype["display"]
+          card = tiertype["card"]
+        end
+
+        top_decks.push(
+        {
+          "id" => decktype_key,
+          "display" => display,
+          "card" => card,
+          "count" => decktype.length,
+          "decks" => [] #todo
+        })
+      end
+
+      new_file.puts(top_decks.to_json)
+      new_file.close
+      
     end
   end
 end

@@ -4,9 +4,9 @@
   {% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
   {% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
 
-  {% assign decks = site.data.top-decks[currentYear][currentMonth] %}
+  {% assign decktypes = site.data.top-decks[currentYear][currentMonth] %}
 
-  {% for decktype in decks %}
+  {% for decktype in decktypes %}
       {% for tier in site.data.tierlist %}
         {% for type in tier.types %}
           {% if type.id == decktype[0] %}
