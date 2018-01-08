@@ -57,7 +57,7 @@ $(function()
                                 let officialName = name;
 
                                 for(var i = 0; i < r.data.length; i++){
-                                    if(r.data[i].name.replace(/[^a-zA-Z ]/g, "").toLowerCase() == name.replace(/[^a-zA-Z ]/g, "").toLowerCase()){
+                                    if(r.data[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()){
                                         officialName = r.data[i].name;
                                         desc = r.data[i].desc;
                                         exclusive = r.data[i].exclusive;
