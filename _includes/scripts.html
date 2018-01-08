@@ -18,6 +18,12 @@
 <script src="{{site.url}}/js/jquery-ui-drag-n-drop.min.js"></script>
 <script src="{{site.url}}/js/jquery.easy-autocomplete.min.js"></script>
 
+{% if page.scripts %}
+    {% assign scripts = page.scripts | split: ',' %}
+    {% for script in scripts %}
+        <script src="{{site.url}}/js/{{script}}"></script>
+    {% endfor%}
+{% endif %}
 
 {% if page.url == "/top-decks/" %}
     <script src="{{site.url}}/js/topdecks.js"></script>

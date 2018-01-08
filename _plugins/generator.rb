@@ -29,9 +29,11 @@ module Jekyll
               deck = decktype[deck_key]
               deck_name = deck['name']
 
-              unless File.exist?('deck.html')
-                deck_page = File.new('deck.html', 'w')
+              if File.exist?('deck.html')
+                FileUtils.rm 'deck.html'
               end
+
+              deck_page = File.new('deck.html', 'w')
               
               deck_page.puts("---")
               deck_page.puts("layout: blog")
@@ -92,9 +94,10 @@ module Jekyll
       season_page.puts("layout: blog")
       season_page.puts("author: bot")
       season_page.puts("permalink: /top-decks/#{monthName}-#{year}/")
+      season_page.puts("scripts: topdecks.js")
       season_page.puts("---")
       season_page.puts("")
-      season_page.puts("<span>#{monthName}-#{year}</span>") #todo
+      season_page.puts("{% include top-decks.html season='#{year}-#{month}' %}")
       season_page.close
 
       site.pages << DeckPage.new(site, site.source, '', 'season-page.html')

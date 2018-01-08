@@ -171,7 +171,9 @@ function InitializeViewModel()
 
 function GetTopDecks()
 {
-    $.getJSON( "/data/topdecks.json", function(data)
+    var season = $("#season-identifier").data("season");
+
+    $.getJSON( "/data/top-decks/" + season + ".json", function(data)
     {
         data = $.grep(data, function(deckType)
         { 
