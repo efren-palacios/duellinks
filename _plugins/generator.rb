@@ -12,18 +12,13 @@ module Jekyll
 
       top_decks = site.data["top-decks"]
 
-      cur_year = Date.today.year.to_s
-      cur_month = Date.today.month.to_s.rjust(2, "0")
-
       for year_key in top_decks.keys - ["pending"]
         year = top_decks[year_key]
 
         for month_key in year.keys
           month = year[month_key]
 
-          unless year_key == cur_year && month_key == cur_month
-            generateTopDecks(site, year_key, month_key, month)
-          end
+          generateTopDecks(site, year_key, month_key, month)
 
           for decktype_key in month.keys
             decktype = month[decktype_key]
@@ -74,7 +69,13 @@ module Jekyll
 
     def generateTopDecks(site, year, month, decktypes)
       
-      generateTopDecksPageFiles(site, year, month, decktypes)
+      cur_year = Date.today.year.to_s
+      cur_month = Date.today.month.to_s.rjust(2, "0")
+
+      unless year == cur_year && month == cur_month
+        generateTopDecksPageFiles(site, year, month, decktypes)
+      end
+
       generateTopDecksDataFiles(site, year, month, decktypes)
 
     end
@@ -135,13 +136,36 @@ module Jekyll
           card = tiertype["card"]
         end
 
+        decks = []
+
+        for deck_key in decktype.keys
+          deck = decktype[deck_key]
+
+          if deck["name"].start_with?("##")
+            deckName = deck["author"] + "'s " + tiertype["display"].gsub(" Decks", "") + " Deck"
+          else
+            deckName = deck["name"]
+          end
+
+          decks.push(
+          {
+            "author" => deck["author"].gsub(/\\/, '\\\\'),
+            "name" => deckName.gsub(/\\/, '\\\\'),
+            "url" => deck["url"],
+            "created" => deck["created"],
+            "front" => tiertype["card"],
+            "skill" => deck["skill"]
+          })
+
+        end
+
         top_decks.push(
         {
           "id" => decktype_key,
           "display" => display,
           "card" => card,
           "count" => decktype.length,
-          "decks" => [] #todo
+          "decks" => decks
         })
       end
 
