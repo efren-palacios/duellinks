@@ -79,6 +79,7 @@ function GetAllSkills()
     {
         url: "/data/skills.json",
         getValue: "name",
+        adjustWidth: false,
         list: { match: { enabled: true } }
     };
 
