@@ -141,6 +141,7 @@ function InitializeViewModel()
         selectPage: function(page)
         {
             TopDecksViewModel.currentPage(page);
+            TopDecksViewModel.recalculatePagination();
         },
 
         selectFirstPage: function()
