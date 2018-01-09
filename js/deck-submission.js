@@ -79,6 +79,7 @@ function GetAllSkills()
     {
         url: "/data/skills.json",
         getValue: "name",
+        adjustWidth: false,
         list: { match: { enabled: true } }
     };
 
@@ -254,9 +255,12 @@ function BindFormEvents()
           data: $(this).serialize(),
           contentType: 'application/x-www-form-urlencoded',
           success: function (data)
-          {
+          { 
             alert("Deck submitted!");
             $(form).removeClass('form--loading');
+            DeckSubmissionViewModel.selectedMainCards.remove(function(card){ return true; });
+            DeckSubmissionViewModel.selectedExtraCards.remove(function(card){ return true; });
+            $('#deck-sub-form').trigger("reset");
           },
           error: function (err)
           {

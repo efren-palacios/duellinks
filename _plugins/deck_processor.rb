@@ -12,7 +12,7 @@ module Jekyll
       if pending
 
         year = Date.today.year.to_s
-        month = Date.today.month.to_s
+        month = Date.today.month.to_s.rjust(2, "0")
         monthName = Date::MONTHNAMES[month.to_i].downcase
 
         for file_key in pending.keys

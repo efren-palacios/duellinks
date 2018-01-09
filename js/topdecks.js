@@ -102,7 +102,7 @@ function InitializeViewModel()
 
         resetPagination: function()
         {
-            TopDecksViewModel.currentPage(1);
+            TopDecksViewModel.selectFirstPage();
             TopDecksViewModel.recalculatePagination();
         },
 
@@ -146,28 +146,24 @@ function InitializeViewModel()
 
         selectFirstPage: function()
         {
-            TopDecksViewModel.currentPage(1);
-            TopDecksViewModel.recalculatePagination();
+            TopDecksViewModel.selectPage(1);
         },
 
         selectLastPage: function()
         {
             var amountOfDecks = TopDecksViewModel.filteredDecks().length;
             var lastPage = Math.floor(amountOfDecks / TopDecksViewModel.decksPerPage) + 1;
-            TopDecksViewModel.currentPage(lastPage);
-            TopDecksViewModel.recalculatePagination();
+            TopDecksViewModel.selectPage(lastPage);
         },
 
         selectPreviousPage: function()
         {
-            TopDecksViewModel.currentPage(TopDecksViewModel.currentPage() - 1);
-            TopDecksViewModel.recalculatePagination();
+            TopDecksViewModel.selectPage(TopDecksViewModel.currentPage() - 1);
         },
 
         selectNextPage: function()
         {
-            TopDecksViewModel.currentPage(TopDecksViewModel.currentPage() + 1);
-            TopDecksViewModel.recalculatePagination();
+            TopDecksViewModel.selectPage(TopDecksViewModel.currentPage() + 1);
         }
     };
     
@@ -176,7 +172,9 @@ function InitializeViewModel()
 
 function GetTopDecks()
 {
-    $.getJSON( "/data/topdecks.json", function(data)
+    var season = $("#season-identifier").data("season");
+
+    $.getJSON( "/data/top-decks/" + season + ".json", function(data)
     {
         data = $.grep(data, function(deckType)
         { 
@@ -201,7 +199,7 @@ function GetTopDecks()
 
 function SortDeckTypes(a, b)
 {
-    var countResult = (parseInt(a.count) < parseInt(b.count)) ? 1 : ((parseInt(a.count) > parseInt(b.count)) ? -1 : 0);
+    var countResult = (a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0);
     if(countResult != 0) return countResult;
 
     var displayResult = (a.display > b.display) ? 1 : ((a.display < b.display) ? -1 : 0);

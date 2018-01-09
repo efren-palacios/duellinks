@@ -98,8 +98,8 @@ li.nav-item > a.nav-link:focus
       display: flex;
       justify-content: center;
       padding: 6px 4px;
-      font-size: 21px;
-      min-width: 40px;
+      font-size: 19px;
+      min-width: 37px;
       color: $text-muted;
       background-color: rgba(36, 59, 85, 0.4);
       border-color: rgba(255, 255, 255, 0.08);
@@ -119,8 +119,8 @@ li.nav-item > a.nav-link:focus
     &.previous .page-link,
     &.next .page-link
     {
-      padding-top: 12px;
-      padding-bottom: 11px;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   }
 }

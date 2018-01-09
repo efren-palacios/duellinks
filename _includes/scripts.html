@@ -18,6 +18,12 @@
 <script src="{{site.url}}/js/jquery-ui-drag-n-drop.min.js"></script>
 <script src="{{site.url}}/js/jquery.easy-autocomplete.min.js"></script>
 
+{% if page.scripts %}
+    {% assign scripts = page.scripts | split: ',' %}
+    {% for script in scripts %}
+        <script src="{{site.url}}/js/{{script}}"></script>
+    {% endfor%}
+{% endif %}
 
 {% if page.url == "/top-decks/" %}
     <script src="{{site.url}}/js/topdecks.js"></script>
@@ -25,6 +31,7 @@
 
 {% if page.url == "/submit-your-deck/" %}
     <script src="{{site.url}}/js/deck-submission.js"></script>
+    <script src="{{site.url}}/js/discord-role-check.js"></script>
 {% endif %}
 
 {% if page.url == "/stream/" %}
@@ -33,7 +40,7 @@
 
 {% if page.url == "/new-players/"  %}
     <script src="{{site.url}}/js/anchorSet.js"></script>
-{% endif %}    
+{% endif %}
 
 <script type="text/javascript">
     $(function ()

@@ -30,24 +30,21 @@
                 {% assign start = deck[1].name | slice: 0, 2 %}
                 {% if start != '##'  %}
                     {% assign deckName = deck[1].name %}
-                    {% assign deckUrlName = deck[1].name | downcase | replace: " ", "-" %}
                 {% else %}
                     {% assign deckName = deck[1].author | append: "'s " | append: tiertype.display | remove: " Decks" | append: " Deck" %}
-                    {% assign deckUrlName = include.deckType | remove: "-decks" %}
                 {% endif %}
-                {% capture url %}{{month[0].name}}-{{currentYear}}/{{include.deckType}}/{{deckUrlName}}-by-{{deck[1].author | downcase | replace: " ", "-"}}{% endcapture %}
                 <tr>
                     <td class="thumb-col">
-                        <a href="/top-decks/{{url}}">
+                        <a href="{{deck[1].url}}">
                             <div class="thumbnail">
                                 <img src="{{ site.data.card-api | name: deck[1].main[0].name }}" class="portrait" />
                             </div>
                         </a>
                     </td>
-                    <td><a href="/top-decks/{{url}}">{{deckName}}</a></td>
-                    <td><a href="/top-decks/{{url}}">{{deck[1].skill}}</a></td>
-                    <td><a href="/top-decks/{{url}}">{{deck[1].author}}</a></td>
-                    <td><a href="/top-decks/{{url}}">{{deck[1].created}}</a></td>
+                    <td><a href="{{deck[1].url}}">{{deckName}}</a></td>
+                    <td><a href="{{deck[1].url}}">{{deck[1].skill}}</a></td>
+                    <td><a href="{{deck[1].url}}">{{deck[1].author}}</a></td>
+                    <td><a href="{{deck[1].url}}">{{deck[1].created}}</a></td>
                 </tr>
             {% endfor %}
         </tbody>
