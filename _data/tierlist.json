@@ -88,7 +88,8 @@
             { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" },
             { "id": "desert-twister",     "display": "Desert Twister",     "card": "Desert Twister" },
 			{ "id": "genex",     		  "display": "Genex",     		   "card": "Genex Army" },
-			{ "id": "blue-eyes",     	  "display": "Blue-Eyes White Dragon", "card": "Blue-Eyes White Dragon" }
+			{ "id": "blue-eyes",     	  "display": "Blue-Eyes White Dragon", "card": "Blue-Eyes White Dragon" },
+			{ "id": "ananta",     	  	  "display": "Evil Dragon Ananta", "card": "Evil Dragon Ananta" }
         ]
     }
 ]
