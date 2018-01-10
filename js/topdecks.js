@@ -232,10 +232,10 @@ function ScrollTo(element)
 {
     if($(window).outerWidth() <= 767)
     {
-        var page = $("html,body");
-        var scrollPosition = $(element).offset().top;
+        var page = $(".page-wrapper");
+        var scrollPosition = page.scrollTop() + $(element).offset().top;
 
-        page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
+        page.on("mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
         {
             page.stop();
         });
