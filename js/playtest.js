@@ -220,7 +220,15 @@ function openDeck(deck, extra = false) {
 
   if ((extra ? extradecklist : decklist) == 0) return;
 
-  $('#deckmenu').empty()
+  $('#deckmenu').empty()  
+
+  /* There's an issue (possibly within JQuery-UI) with the dialog opening without 
+   * a reference to the top of the #playlist div; initializing 
+   * the dialog once addresses this 
+   */  
+  if(!$('#deckmenu').dialog('instance')) {    
+    $('#deckmenu').dialog({autoOpen: false})  
+  }
 
   for (i in (extra ? extradecklist : decklist)) {
     if (extra)
@@ -234,6 +242,7 @@ function openDeck(deck, extra = false) {
     height: 563,
     resizable: false,
     draggable: false,
+    autoOpen: true,
     open: function(event, ui) {
       $(this).closest(".ui-dialog")
         .find(".ui-dialog-titlebar-close")
@@ -241,8 +250,8 @@ function openDeck(deck, extra = false) {
         .html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
     },
     position: {
-      my: "left+10 top",
-      at: "right top",
+      my: "left top",
+      at: "right-158 top",
       of: '#playtest'
     }
   })
