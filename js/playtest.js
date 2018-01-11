@@ -195,15 +195,6 @@ $('#view').click(function() {
   openDeck(currentDeck)
 })
 
-$('.testcard-slot').droppable({
-  accept: '.hand',
-  drop: function(event, ui) {
-    ui.draggable.css('left', 0)
-    ui.draggable.css('top', 0)
-    ui.draggable.css('position', 'absolute')
-  }
-});
-
 $('#playerdeck, #deal').click(function() {
   dealCard(0)
 })
