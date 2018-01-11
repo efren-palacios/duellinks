@@ -198,8 +198,8 @@ $('#view').click(function() {
 $('.testcard-slot').droppable({
   accept: '.hand',
   drop: function(event, ui) {
-    ui.draggable.css('left', $(this).position().left - 1)
-    ui.draggable.css('top', $(this).position().top)
+    ui.draggable.css('left', 0)
+    ui.draggable.css('top', 0)
     ui.draggable.css('position', 'absolute')
   }
 });
