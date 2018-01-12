@@ -146,8 +146,7 @@ a
 
 hr
 {
-  border-color: $dark-blue;
-  border: 1px solid $dark-blue;
+  border-color: $dark-line;
 }
 
 .comment 
@@ -447,18 +446,11 @@ button:focus
 // MARKDOWN STUFF
 .markdown
 {
-  //fix for url-fragments jumping to a location under the header bar
-  h1, h2, h3, h4, h5, h6
-  {
-    padding-top: $fragment;
-  }
-
   h1
   {
     font-size: 35pt;
     letter-spacing: 0.7px;
     margin-bottom: -7px;
-    margin-top: - $fragment;
   }
 
   h2
@@ -466,23 +458,17 @@ button:focus
     font-size: 26pt;
     letter-spacing: 0.7px; 
     margin-bottom: 15px;  
-    margin-top: - $fragment;
   }
 
   h3
   {
     font-size: 22pt;
-    margin-top: 30px - $fragment;
+    margin-top: 30px;
   }
 
   h4
   {
-    margin-top: 10px - $fragment;
-  }
-
-  h5, h6
-  {
-    margin-top: - $fragment;
+    margin-top: 10px;
   }
 
   strong
