@@ -164,6 +164,14 @@ function InitializeViewModel()
         selectNextPage: function()
         {
             TopDecksViewModel.selectPage(TopDecksViewModel.currentPage() + 1);
+        },
+
+        bindCollapsable: function(elements, data, idk, mkay)
+        {
+            if ($("#stats-skills table.top-decks-stats").length === TopDecksViewModel.deckTypes().length)
+            {
+                BindCollapsableTables();
+            }
         }
     };
     
