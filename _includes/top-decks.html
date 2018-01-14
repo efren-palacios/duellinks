@@ -97,26 +97,16 @@
                 <table class="collapsable stats top-decks-stats">
                     <thead>
                         <tr>
-                            <th data-bind="text: display" class="decktype"></th>
-                            <th data-bind="text: count" class="count"></th>
-                            <th class="percentage">54,1%</th>
+                            <th data-bind="text: display"    class="display"></th>
+                            <th data-bind="text: count"      class="count"></th>
+                            <th data-bind="text: percentage" class="percentage"></th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody data-bind="foreach: skills">
                         <tr>
-                            <td>MIND SCAN</td>
-                            <td class="count">35</td>
-                            <td class="percentage">44,3%</td>
-                        </tr>
-                        <tr>
-                            <td>BALANCE</td>
-                            <td class="count">26</td>
-                            <td class="percentage">32,8%</td>
-                        </tr>
-                        <tr>
-                            <td>RESTART</td>
-                            <td class="count">18</td>
-                            <td class="percentage">21,4%</td>
+                            <td data-bind="text: display"    class="display"></td>
+                            <td data-bind="text: count"      class="count"></td>
+                            <td data-bind="text: percentage" class="percentage"></td>
                         </tr>
                     </tbody>
                 </table>

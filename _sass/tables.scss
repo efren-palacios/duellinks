@@ -94,22 +94,9 @@ table img
 
 .top-decks-stats
 {
-    .decktype
-    {
-        width: 70%;
-    }
-
-    .count
-    {
-        width: 15%;
-        text-align: right;
-    }
-
-    .percentage
-    {
-        width: 15%;
-        text-align: right;
-    }
+    .display    { width: 76%; }
+    .count      { width: 12%; text-align: right; }
+    .percentage { width: 12%; text-align: right; }
 }
 
 @media only screen and (max-width: 480px)
