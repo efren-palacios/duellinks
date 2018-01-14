@@ -21,7 +21,9 @@ function ReadUrlHashFragment()
     
     if (hash !== "")
     {
-        $(".nav-tabs a[href='" + hash + "']").tab("show");
+        $.when( $(".nav-tabs a[href='" + hash + "']").tab("show") ).then(function( ) { $(".page-wrapper").scrollTop(0); });
+        /*$(".nav-tabs a[href='" + hash + "']").tab("show");
+        $(".page-wrapper").scrollTop(0);*/
     } 
 }
 
@@ -29,8 +31,9 @@ function BindTabsToUrlHash()
 {
     $(document).on("shown.bs.tab", "a[data-toggle='tab']", function(event)
     {
+        var position = $(".page-wrapper").scrollTop();
         window.location.hash = event.target.hash;
-        $(".page-wrapper").scrollTop(0);
+        $(".page-wrapper").scrollTop(position);
     });
 }
 
