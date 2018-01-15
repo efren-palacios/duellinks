@@ -63,8 +63,9 @@
         "info": "These are decks that are currently active, but are not skilled enough for King of Games or tier status.",
         "types":
         [    
-            { "id": "ninja-control",        "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },
             { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
+            { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
             { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
