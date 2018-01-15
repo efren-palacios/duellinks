@@ -9,6 +9,7 @@ date: 2017-11-30 02:28:00 +0000
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: new, new players, beginner, beginner guide, just started, info, information, how to play, how to start
 permalink: /new-players/
+order: 6
 ---
 
 ## {{page.title}}
