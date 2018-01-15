@@ -19,16 +19,18 @@
         </script>
     {% include nav.html %}
 
-    <div class="container">
+    <div class="page-wrapper scrollbar">
+        <div class="container">
 
-        {% include ad.html %}
+            {% include ad.html %}
 
-        <div class="col text-white" style="margin-top: 20px;">
-            {{content}}
+            <div class="col text-white" style="margin-top: 20px;">
+                {{content}}
+            </div>
+        
+            {% include social.html %}
+
         </div>
-     
-        {% include social.html %}
-
     </div>
 
 </body>

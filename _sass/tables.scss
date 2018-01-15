@@ -4,6 +4,7 @@ table
 {
     border: 1px solid rgba(255, 255, 255, 0.08) !important;
     margin-top: 10px;
+    width: 100%;
 }
 
 table thead 
@@ -14,11 +15,6 @@ table thead
 table tbody 
 {
     background: rgba(36,59,85,.4);
-}
-
-table tbody tr:hover
-{
-    background: rgba(255, 255, 255, 0.03);
 }
 
 table tr th
@@ -96,6 +92,13 @@ table img
     .added  { width: 10%; }
 }
 
+.top-decks-stats
+{
+    .display    { width: 76%; }
+    .count      { width: 12%; text-align: right; }
+    .percentage { width: 12%; text-align: right; }
+}
+
 @media only screen and (max-width: 480px)
 {
     #TopDecksTable
@@ -140,6 +143,65 @@ table.content-only
         padding-top: 3px;
     }
 
+}
+
+table.hover tbody tr:hover,
+table.collapsable thead tr:hover
+{
+    background: rgba(255, 255, 255, 0.03);
+}
+
+table.collapsable
+{
+    thead tr
+    {
+        cursor: pointer;
+    }
+
+    &.collapsed
+    {
+        tbody
+        {
+            display: none;
+        }
+    }
+}
+
+table.stats
+{
+    th, td
+    {
+        padding: 3px;
+    }
+
+    th
+    {
+        font-weight: normal;
+        text-transform: uppercase;
+    }
+
+    td
+    {
+        font-size: 14px;
+        padding-top: 4px;
+        padding-bottom: 0px;
+    }
+
+    tr th:first-child
+    {
+        padding-left: 10px;
+    }
+
+    tr td:first-child
+    {
+        padding-left: 20px;
+    }
+
+    tr th:last-child,
+    tr td:last-child
+    {
+        padding-right: 10px;
+    }
 }
 
 /* ---------------------- */

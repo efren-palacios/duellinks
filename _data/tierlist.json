@@ -1,29 +1,12 @@
 [
     {
-        "category": "NewDecks",
-        "info": "New deck types or decks that have received new cards that change the deck.",
-        "types":
-        [
-            { "id": "gemini",             "display": "Geminis",            "card": "Supervise" },
-            { "id": "winged-dragon-of-ra", "display": "Winged Dragon of Ra", "card": "The Winged Dragon of Ra" },
-            { "id": "cloudians",          "display": "Cloudians",          "card": "Cloudian - Eye of the Typhoon" },
-            { "id": "dark-magician",      "display": "Dark Magician",      "card": "Dark Magician" },
-            { "id": "dark-world",         "display": "Dark World",         "card": "Reign-Beaux, Overlord of Dark World" },
-            { "id": "gem-knights",        "display": "Gem-Knights",        "card": "Gem-Knight Emerald" },
-            { "id": "jurrac",             "display": "Jurrac",             "card": "Jurrac Guaiba" },
-            { "id": "lightsworn",         "display": "Lightsworn",         "card": "Lyla, Lightsworn Sorceress" },
-            { "id": "necrofear",          "display": "Necrofear",          "card": "Dark Necrofear" },
-            { "id": "volcanics",          "display": "Volcanics",          "card": "Volcanic Rocket" }
-        ] 
-    },
-    {
         "tier": 1,
         "category": "KOG",
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "cyber-angels",       "display": "Cyber Angels",       "card": "Cyber Angel Dakini" },
-            { "id": "ninjas",             "display": "Ninjas",             "card": "Red Dragon Ninja" }            
+            { "id": "hazy-flame-br",         "display": "Hazy Flame BR",          "card": "Hazy Flame Sphynx" },
+            { "id": "red-eyes-zombies",      "display": "Red-Eyes Zombies",       "card": "Red-Eyes Zombie Dragon" }            
         ] 
     },
     {
@@ -32,10 +15,8 @@
         "info": "1 step away from being part of the best decks. Capable of winning a tournament without people being surprised. An advantage they have over tier 1 decks is that everyone is more focused on building their deck to beat a tier 1 deck and not a deck from this category.",
         "types":
         [            
-            { "id": "gladiators",         "display": "Gladiators",         "card": "Gladiator Beast Bestiari" },
-            { "id": "red-eyes-zombies",   "display": "Red-Eyes Zombies",   "card": "Red-Eyes Zombie Dragon" },
-            { "id": "burn-decks",         "display": "Burn Decks",         "card": "Burning Land" },
-            { "id": "hazy-flame-br",      "display": "Hazy Flame BR",      "card": "Hazy Flame Sphynx" }
+            { "id": "gladiators",           "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
+            { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"}
         ]
     },
     {
@@ -43,9 +24,12 @@
         "category": "KOG",
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
-        [
-            { "id": "ancient-gears",      "display": "Ancient Gears",      "card": "Ancient Gear Golem"},
-            { "id": "dinos-control",      "display": "Dino Control",       "card": "Hydrogeddon" }            
+        [            
+            { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
+            { "id": "dinos-control",        "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" },
+            { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" }        
         ]
     },
     {
@@ -53,10 +37,25 @@
         "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
         "types":
         [
-            { "id": "six-samurais",       "display": "Six Samurais",       "card": "Great Shogun Shien" },
-            { "id": "harpies",            "display": "Harpies",            "card": "Cyber Harpie Lady" },
-            { "id": "control-decks",      "display": "Control Decks",      "card": "Guardian Statue" },
-            { "id": "phoenix-nephthys",   "display": "Phoenix",            "card": "Sacred Phoenix of Nephthys" }
+            { "id": "six-samurais",         "display": "Six Samurais",          "card": "Great Shogun Shien" },
+            { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
+            { "id": "control-decks",        "display": "Control Decks",         "card": "Guardian Statue" }
+        ] 
+    },
+    {
+        "category": "NewDecks",
+        "info": "New deck types or decks that have received new cards that change the deck.",
+        "types":
+        [
+            { "id": "gemini",               "display": "Geminis",               "card": "Supervise" },
+            { "id": "winged-dragon-of-ra",  "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
+            { "id": "cloudians",            "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
+            { "id": "dark-magician",        "display": "Dark Magician",         "card": "Dark Magician" },
+            { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
+            { "id": "gem-knights",          "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
+            { "id": "jurrac",               "display": "Jurrac",                "card": "Jurrac Guaiba" },
+            { "id": "lightsworn",           "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
+            { "id": "necrofear",            "display": "Necrofear",             "card": "Dark Necrofear" }
         ] 
     },
     {
@@ -64,31 +63,34 @@
         "info": "These are decks that are currently active, but are not skilled enough for King of Games or tier status.",
         "types":
         [    
-            { "id": "machine",            "display": "Machines",           "card": "Pulse Mines" },
-            { "id": "pyrorex",            "display": "Pyrorex",            "card": "Pyrorex the Elemental Lord" },
-            { "id": "trap-monsters",      "display": "Trap Monsters",      "card": "Tiki Soul" },
-            { "id": "dinos",              "display": "Dinos",              "card": "Destroyersaurus" },
-            { "id": "horus-dragon",       "display": "Horus",              "card": "Horus the Black Flame Dragon LV6" },
-            { "id": "mill-decks",         "display": "Mill Decks",         "card": "Hiro's Shadow Scout" },
-            { "id": "ninja-control",      "display": "Ninja Control",      "card": "White Ninja" },
-            { "id": "relinquished",       "display": "Relinquished",       "card": "Relinquished" },
-            { "id": "bls-the-creator",    "display": "BLS / The Creator",  "card": "Black Luster Soldier - Sacred Soldier" },
-            { "id": "dark-paladin",       "display": "Dark Paladin",       "card": "Dark Paladin" },
-            { "id": "gravekeepers",       "display": "Gravekeepers",       "card": "Gravekeeper's Chief" },
-            { "id": "mausoleum",          "display": "Mausoleum",          "card": "Mausoleum of the Emperor" },
-            { "id": "monstermorph-evo",   "display": "Monstermorph-Evo",   "card": "Gandora the Dragon of Destruction" },
-            { "id": "ojamas",             "display": "Ojamas",             "card": "Ojama King" },
-            { "id": "toon-barrel-dragon", "display": "Toon Barrel Dragon", "card": "Toon Barrel Dragon" },
-            { "id": "treeborn-tributes",  "display": "Treeborn Tributes",  "card": "Treeborn Frog" },
-            { "id": "magnet-warriors",    "display": "Magnet Warriors",    "card": "Delta The Magnet Warrior" },
-            { "id": "venus",              "display": "Venus",              "card": "The Agent of Creation - Venus" },
-            { "id": "zombies-gemini",     "display": "Zombies Gemini",     "card": "Goblin Zombie" },
-            { "id": "hammer-shark",       "display": "Hammer Shark",       "card": "Hammer Shark" },
-            { "id": "psychics",           "display": "Psychics",           "card": "Serene Psychic Witch" },
-            { "id": "ice-barrier",        "display": "Ice Barrier",        "card": "General Gantala of the Ice Barrier" },
-            { "id": "desert-twister",     "display": "Desert Twister",     "card": "Desert Twister" },
-			{ "id": "genex",     		  "display": "Genex",     		   "card": "Genex Army" },
-			{ "id": "blue-eyes",     	  "display": "Blue-Eyes White Dragon", "card": "Blue-Eyes White Dragon" }
+            { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
+            { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
+            { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
+            { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
+            { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
+            { "id": "dinos",                "display": "Dinos",                 "card": "Destroyersaurus" },
+            { "id": "horus-dragon",         "display": "Horus",                 "card": "Horus the Black Flame Dragon LV6" },
+            { "id": "mill-decks",           "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
+            { "id": "ninja-control",        "display": "Ninja Control",         "card": "White Ninja" },
+            { "id": "relinquished",         "display": "Relinquished",          "card": "Relinquished" },
+            { "id": "bls-the-creator",      "display": "BLS / The Creator",     "card": "Black Luster Soldier - Sacred Soldier" },
+            { "id": "dark-paladin",         "display": "Dark Paladin",          "card": "Dark Paladin" },
+            { "id": "gravekeepers",         "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
+            { "id": "mausoleum",            "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
+            { "id": "monstermorph-evo",     "display": "Monstermorph-Evo",      "card": "Gandora the Dragon of Destruction" },
+            { "id": "ojamas",               "display": "Ojamas",                "card": "Ojama King" },
+            { "id": "toon-barrel-dragon",   "display": "Toon Barrel Dragon",    "card": "Toon Barrel Dragon" },
+            { "id": "treeborn-tributes",    "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
+            { "id": "magnet-warriors",      "display": "Magnet Warriors",       "card": "Delta The Magnet Warrior" },
+            { "id": "venus",                "display": "Venus",                 "card": "The Agent of Creation - Venus" },
+            { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
+            { "id": "hammer-shark",         "display": "Hammer Shark",          "card": "Hammer Shark" },
+            { "id": "psychics",             "display": "Psychics",              "card": "Serene Psychic Witch" },
+            { "id": "ice-barrier",          "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
+            { "id": "desert-twister",       "display": "Desert Twister",        "card": "Desert Twister" },
+			{ "id": "genex",     		    "display": "Genex",     		    "card": "Genex Army" },
+			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" }
         ]
     }
 ]

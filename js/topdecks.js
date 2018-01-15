@@ -164,6 +164,14 @@ function InitializeViewModel()
         selectNextPage: function()
         {
             TopDecksViewModel.selectPage(TopDecksViewModel.currentPage() + 1);
+        },
+
+        bindCollapsable: function(elements, data, idk, mkay)
+        {
+            if ($("#stats-skills table.top-decks-stats").length === TopDecksViewModel.deckTypes().length)
+            {
+                BindCollapsableTables();
+            }
         }
     };
     
@@ -181,18 +189,55 @@ function GetTopDecks()
             return deckType.count > 0; 
         });
 
-        data.sort(SortDeckTypes);
-        TopDecksViewModel.deckTypes(data);
-
         TopDecksViewModel.defaultDecks = [];
 
-        $.each(data,  function(index, decktype)
+        $.each(data, function(index, decktype)
         {
             $.merge(TopDecksViewModel.defaultDecks, decktype.decks);
         });
 
+        var totalDecks = TopDecksViewModel.defaultDecks.length;
+
+        $.each(data, function(index, decktype)
+        {
+            decktype.percentage = GetPercentage(decktype.count, totalDecks);
+
+            var allSkills = $.map(decktype.decks, function(deck, index){ return deck.skill });
+            var skills = [];
+
+            $.each(allSkills, function(index, skill)
+            {
+                var skillDisplays = $.map(skills, function(skill) { return skill.display; });
+                var skillIndex = $.inArray(skill, skillDisplays);
+
+                if(skillIndex === -1)
+                {
+                    count = (skills[skill] || 0 ) + 1;
+                    
+                    skills.push(
+                    {
+                        display: skill,
+                        count: count,
+                        percentage: GetPercentage(count, allSkills.length)
+                    });
+                }
+                else
+                {
+                    skills[skillIndex].count++;
+                    skills[skillIndex].percentage = GetPercentage(skills[skillIndex].count, allSkills.length);
+                }
+            });
+
+            skills.sort(SortSkills),
+            decktype.skills = skills;
+        });
+
+        data.sort(SortDeckTypes);
+        TopDecksViewModel.deckTypes(data);
+
         TopDecksViewModel.defaultDecks.sort(SortDecks);
         TopDecksViewModel.filteredDecks(TopDecksViewModel.defaultDecks);
+
         TopDecksViewModel.resetPagination();
     });
 }
@@ -202,7 +247,9 @@ function SortDeckTypes(a, b)
     var countResult = (a.count < b.count) ? 1 : ((a.count > b.count) ? -1 : 0);
     if(countResult != 0) return countResult;
 
-    var displayResult = (a.display > b.display) ? 1 : ((a.display < b.display) ? -1 : 0);
+    var aL = a.display.toLowerCase(), bL = b.display.toLowerCase();
+
+    var displayResult = (aL > bL) ? 1 : ((aL < bL) ? -1 : 0);
     return displayResult;
 }
 
@@ -213,6 +260,12 @@ function SortDecks(a, b)
 
     var nameResult = (a.name > b.name) ? 1 : ((a.name < b.name) ? -1 : 0);
     return nameResult;
+}
+
+function SortSkills(a, b)
+{
+    //Skills for stats have a count and a display property as well
+    return SortDeckTypes(a, b);
 }
 
 function SortPages(a, b)
@@ -228,14 +281,19 @@ function RemoveDuplicates(array)
     });
 }
 
+function GetPercentage(amount, total)
+{
+    return Math.round(amount / total * 1000) / 10 + "%";
+}
+
 function ScrollTo(element)
 {
     if($(window).outerWidth() <= 767)
     {
-        var page = $("html,body");
-        var scrollPosition = $(element).offset().top;
+        var page = $(".page-wrapper");
+        var scrollPosition = page.scrollTop() + $(element).offset().top;
 
-        page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
+        page.on("mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
         {
             page.stop();
         });

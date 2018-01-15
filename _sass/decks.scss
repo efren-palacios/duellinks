@@ -1,6 +1,6 @@
 .deck-page h2
 {
-  margin-top: 40px - $fragment;
+  margin-top: 15px;
 }
 
 .deck-container
@@ -186,6 +186,7 @@
   min-width: 500px;
 }
 
+// Tablet
 @media only screen and (max-width: 760px)
 {
   .mobile
@@ -196,5 +197,12 @@
   #deck
   {
     width: 362px;
+  }
+}
+
+// Phone (Vertical)
+@media screen and (max-width: 400px) {
+  #deck {
+    width: 276px; 
   }
 }

@@ -9,6 +9,10 @@
 
 }
 
+#playtest{
+	position: relative;
+}
+
 // Button to start playtest
 #play{
   cursor: pointer;
@@ -55,7 +59,7 @@
     height: auto;
   }
   
-  .stats {
+  #playtest .actions {
     text-align: center;
     input {
         margin: 1rem 0;
@@ -115,7 +119,6 @@
         .token, .coin, .dice
         {
           width: 25px;
-          z-index: 999999;
           margin-right: 5px;
           cursor: pointer;
         }
