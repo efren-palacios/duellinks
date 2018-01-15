@@ -51,6 +51,7 @@ So, for example, if you have 12 monsters in your deck, you can only open with 2 
  - You are guaranteed 1 spell and 1 trap since in the deck you have 6 or more of them.
  - You cannot get more than 2 spells or 2 traps.
  - You are not guaranteed a monster in your hand, but you can open with it about 60% of the time (check table 1). You can very rarely open with 2 monsters
+ 
  2. A deck with 13 monsters, 3 spells and 4 traps:
  
  - Even though you don’t have 6 traps nor 6 spells, you are guaranteed 1 trap or spell since with 13 monsters you can’t get 4 monsters in your starting hand, so the slots missing are filled with spell/traps.
