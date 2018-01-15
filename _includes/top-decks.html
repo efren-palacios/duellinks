@@ -37,7 +37,7 @@
             </div>
         </div>
         <div class="section">
-            <table id="TopDecksTable" class="table">
+            <table id="TopDecksTable" class="hover">
                 <thead>
                     <tr>
                         <th class="thumb-col"></th>
@@ -92,7 +92,25 @@
     </div>
     <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
         <div class="section">
-            <h4>Stats will come here</h4>
+            <h5>SKILLS</h5>
+            <div id="stats-skills" data-bind="foreach: { data: $root.deckTypes, afterRender: bindCollapsable }">
+                <table class="collapsable stats top-decks-stats">
+                    <thead>
+                        <tr>
+                            <th data-bind="text: display"    class="display"></th>
+                            <th data-bind="text: count"      class="count"></th>
+                            <th data-bind="text: percentage" class="percentage"></th>
+                        </tr>
+                    </thead>
+                    <tbody data-bind="foreach: skills">
+                        <tr>
+                            <td data-bind="text: display"    class="display"></td>
+                            <td data-bind="text: count"      class="count"></td>
+                            <td data-bind="text: percentage" class="percentage"></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
 </div>

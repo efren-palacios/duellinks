@@ -1,38 +1,43 @@
 <div class="row card-collection">
-  {% for page in site.categories.header %}
-    <div class="col-sm-4 col-12 card-deck header">
+  {% for i in (1..6) %}
+    {% for page in site.categories.header %}
+      {% if page.order == i %}
+        <div class="col-sm-4 col-12 card-deck header">
 
-      <div class="card">
-        <div class="zoom">
-          <a href={{site.url}}{{page.url}}> 
-              <img
-              src="https://images.weserv.nl/?url={{page.image | replace: 'https://', ''}}&w=200&blur=5"
-              data-src="{{page.image}}"
-              class="card-img-top lazyload" />
-          </a>
-        </div>
-        <div class="card-block">
-          <a href={{site.url}}{{page.url}}>
-            <h4 class="card-title text-white">{{page.title}}</h4>
-          </a>
-          <div class="text-white">
-            {% if page.title == "TIER LIST" %} <!-- why not page.url? page title is more likely to change than page url -->
-              {% assign changelog = site.data.tierlist-changelog | sort: 'date' | reverse %}
-              {% assign firstDate = changelog[0].date %}
-              {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-              {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
-              {% if fomattedFirstDate > formattedPageDate %}
-                <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
-              {% else %}
-                <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
-              {% endif %}
-            {% else %}
-              <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
-            {% endif %}
+          <div class="card">
+            <div class="zoom">
+              <a href={{site.url}}{{page.url}}> 
+                  <img
+                  src="https://images.weserv.nl/?url={{page.image | replace: 'https://', ''}}&w=200&blur=5"
+                  data-src="{{page.image}}"
+                  class="card-img-top lazyload" />
+              </a>
+            </div>
+            <div class="card-block">
+              <a href={{site.url}}{{page.url}}>
+                <h4 class="card-title text-white">{{page.title}}</h4>
+              </a>
+              <div class="text-white">
+                {% if page.title == "TIER LIST" %} <!-- why not page.url? page title is more likely to change than page url -->
+                  {% assign changelog = site.data.tierlist-changelog | sort: 'date' | reverse %}
+                  {% assign firstDate = changelog[0].date %}
+                  {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
+                  {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
+                  {% if fomattedFirstDate > formattedPageDate %}
+                    <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
+                  {% else %}
+                    <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
+                  {% endif %}
+                {% else %}
+                  <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
+                {% endif %}
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
 
-    </div>
+        </div>
+        {% break %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </div>

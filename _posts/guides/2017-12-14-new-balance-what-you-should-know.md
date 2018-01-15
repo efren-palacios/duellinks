@@ -36,7 +36,7 @@ It’s not that difficult, here we have the table of *Number of Cards in the dec
 
 As you can see from the table, no quantity of cards in the deck gives you a 100% chance of opening with an exact number of cards like 5, 10 or 15 did before, giving you 1, 2 and 3 cards in your starting hand respectively.
 
-But we can get some interesting results out of that like with ***6 cards of a type in the deck, you are guaranteed AT LEAST 1 of it in your starting hand***. (sorry for flashy color, this is important)
+But we can get some interesting results out of that like with ***6 cards of a type in the deck, you are guaranteed AT LEAST 1 of it in your starting hand***.
 
 With that in mind, we can get what is the maximum and minimum cards of a type you can open with and gather it all up, which looks something like this:
 
@@ -51,6 +51,7 @@ So, for example, if you have 12 monsters in your deck, you can only open with 2 
  - You are guaranteed 1 spell and 1 trap since in the deck you have 6 or more of them.
  - You cannot get more than 2 spells or 2 traps.
  - You are not guaranteed a monster in your hand, but you can open with it about 60% of the time (check table 1). You can very rarely open with 2 monsters
+ 
  2. A deck with 13 monsters, 3 spells and 4 traps:
  
  - Even though you don’t have 6 traps nor 6 spells, you are guaranteed 1 trap or spell since with 13 monsters you can’t get 4 monsters in your starting hand, so the slots missing are filled with spell/traps.
