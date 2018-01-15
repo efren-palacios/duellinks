@@ -55,8 +55,7 @@
             { "id": "gem-knights",          "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
             { "id": "jurrac",               "display": "Jurrac",                "card": "Jurrac Guaiba" },
             { "id": "lightsworn",           "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
-            { "id": "necrofear",            "display": "Necrofear",             "card": "Dark Necrofear" },
-            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
+            { "id": "necrofear",            "display": "Necrofear",             "card": "Dark Necrofear" }
         ] 
     },
     {
