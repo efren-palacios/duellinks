@@ -27,6 +27,8 @@
         [            
             { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
             { "id": "dinos-control",        "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" },
             { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" }        
         ]
     },
@@ -37,10 +39,7 @@
         [
             { "id": "six-samurais",         "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
-            { "id": "control-decks",        "display": "Control Decks",         "card": "Guardian Statue" },
-            { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
-            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Sacred Phoenix of Nephthys" },
-            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
+            { "id": "control-decks",        "display": "Control Decks",         "card": "Guardian Statue" }
         ] 
     },
     {
@@ -65,6 +64,8 @@
         "info": "These are decks that are currently active, but are not skilled enough for King of Games or tier status.",
         "types":
         [    
+            { "id": "ninja-control",        "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
