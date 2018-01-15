@@ -36,7 +36,7 @@ It’s not that difficult, here we have the table of *Number of Cards in the dec
 
 As you can see from the table, no quantity of cards in the deck gives you a 100% chance of opening with an exact number of cards like 5, 10 or 15 did before, giving you 1, 2 and 3 cards in your starting hand respectively.
 
-But we can get some interesting results out of that like with ***6 cards of a type in the deck, you are guaranteed AT LEAST 1 of it in your starting hand***. (sorry for flashy color, this is important)
+But we can get some interesting results out of that like with ***6 cards of a type in the deck, you are guaranteed AT LEAST 1 of it in your starting hand***.
 
 With that in mind, we can get what is the maximum and minimum cards of a type you can open with and gather it all up, which looks something like this:
 
