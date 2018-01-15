@@ -2,13 +2,13 @@
 layout: blog
 title: Zane_Roaming_Event
 author: Gia_Joestar
-image: /img/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
-category: guide
+image: /img/events/zane-roaming-event-by-gia-joestar/thumbnail.png
+category: event
 date: 2018-01-01
 comments: false
 description: 
-keywords: guide, in-depth guide
-permalink: /guides/GUIDE_TITLE-by-GUIDE_AUTHOR/
+keywords: event, in-depth event
+permalink: /events/zane-roaming-event-by-gia-joestar/
 hide: true
 ---
 
