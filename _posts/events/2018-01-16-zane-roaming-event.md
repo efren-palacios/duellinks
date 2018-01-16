@@ -1,15 +1,15 @@
 ---
 layout: blog
-title: Zane_Roaming_Event
-author: Gia_Joestar
-image: /img/events/zane-roaming-event-by-gia-joestar/thumbnail.png
+title: Zane Roaming Event
+author: Perune
+image: /img/events/zane-roaming-event/thumbnail.png
 category: event
-date: 2018-01-01
+date: 2018-01-16
 comments: false
 description: 
 keywords: event, in-depth event
-permalink: /events/zane-roaming-event-by-gia-joestar/
-hide: true
+permalink: /events/zane-roaming-event-by-perune/
+hide: false
 ---
 
 # {{page.title}}
@@ -24,8 +24,9 @@ hide: true
 ####  Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you.       Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
 
 ### Event Rewards
+
 | Card    | How to Obtain |  Recommendation
-| :------- | :---- | :--- | :---- 
+| :------- | :---- | :--- | :----  |
 | {Chimeratech Overdragon} | Duel Zane 15 times or a random drop from dueling Zane | Future Potential |
 | {Cybernetic Fusion Support} |  Win 7 duels against Zane or a random drop from dueling Zane| Future Potential |
 | {Attack Reflector Unit} | Win 3 duels against Zane or a random drop from dueling Zane  | Bad |
@@ -36,6 +37,7 @@ hide: true
 |  {Cyber Dragon Zwei}|  Random drop from dueling Zane| Bad |
 | {Cyber Laser Dragon} | Random drop from Dueling Zane | Bad |
 | {Cyber Repair Plant} | Random drop from Dueling Zane | Bad |
+
 ### Event Strategy (Last Updated: 09/01/2018)
 #### Cloudian Zane Farm By: Freeskadoodle
 How To Play: 

@@ -29,9 +29,7 @@ module Jekyll
               deck = decktype[deck_key]
               deck_name = deck['name']
 
-              if File.exist?('deck.html')
-                FileUtils.rm 'deck.html'
-              end
+              FileUtils.rm 'deck.html', :force => true 
 
               deck_page = File.new('deck.html', 'w')
               

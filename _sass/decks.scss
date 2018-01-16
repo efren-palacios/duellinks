@@ -193,10 +193,12 @@
   {
     display: none;
   }
+}
 
-  #deck
-  {
-    width: 362px;
+// Phone (Vertical): Plus or Large Screen Sizes 
+@media screen and (max-width: 490px) {
+  #deck {
+    width: 362px; 
   }
 }
 
