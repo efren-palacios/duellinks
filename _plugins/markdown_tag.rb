@@ -16,15 +16,17 @@ module Jekyll
 
         def convert(content)
             markedText = Array.new
+            customTagsIndex = Array.new
+            customTagsName = Array.new
             decks = Array.new
 
-            lastCardNameTagOpen = -1
+            lastTagOpen = -1
             for i in 0...content.length
                 currChar = content[i].chr
-                if(currChar == "{")
-                    lastCardNameTagOpen = i
-                elsif (currChar == "}" && lastCardNameTagOpen >= 0)
-                    tagContent = content[lastCardNameTagOpen + 1, i - lastCardNameTagOpen - 1]
+                if(currChar == "{" || currChar == "[")
+                    lastTagOpen = i
+                elsif ((currChar == "}" || currChar == "]") && lastTagOpen >= 0)
+                    tagContent = content[lastTagOpen + 1, i - lastTagOpen - 1]
 
                     prohibitedSubstr = [": '", ":'", "$", ":.", "':", "' :", ">", "<"]
 
@@ -38,15 +40,70 @@ module Jekyll
                     end
 
                     if isTagCardName
-                        markedText.push(tagContent)
+                        if(currChar == "}")
+                            markedText.push(tagContent)
+                        elsif(currChar == "]")
+                            customTagsIndex.push(i + 1)
+                            customTagsName.push(tagContent)
+                        end
                     end
 
-                    lastCardNameTagOpen = -1
+                    lastTagOpen = -1
                 end
             end
 
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
+
+            for i in 0...customTagsIndex.size
+                startI = customTagsIndex[i]
+                tag = customTagsName[i]
+
+                startContent = -1
+                for j in startI...content.length
+                    currChar = content[j].chr
+                    if(currChar == "(")
+                        startContent = j
+                    elsif(currChar == ")" && startContent > 0)
+                        tagContent = content[startContent + 1, j - startContent - 1]
+
+                        if(tag == "gallery")
+                            imageLinks = tagContent.split(',')
+                            
+                            galleryHtml = '
+                            <div id="imageGallery" class="carousel slide" data-ride="carousel">
+                                <ol class="carousel-indicators">'
+
+                            for k in 0...imageLinks.length
+                                galleryHtml += '<li data-target="#imageGallery" data-slide-to="' + k.to_s + '">';
+                            end
+
+                            galleryHtml += '</ol>
+                                <div class="carousel-inner">'
+
+                            for k in 0...imageLinks.length
+                                galleryHtml += '<div class="item"><img src="' + imageLinks[k] + '"></div>';
+                            end
+
+                            galleryHtml += '</div>
+                                <a class="left carousel-control" href="#imageGallery" data-slide="prev">
+                                    <span class="glyphicon glyphicon-chevron-left"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="right carousel-control" href="#imageGallery" data-slide="next">
+                                    <span class="glyphicon glyphicon-chevron-right"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
+                                </div>'
+
+                            content.gsub! '[' + tag + '](' + tagContent + ')', galleryHtml
+                        end
+
+                        startContent = -1
+                        break
+                    end
+                end
+            end
 
             for i in 0...markedText.size
                 isSkill = false
