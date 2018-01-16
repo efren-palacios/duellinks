@@ -90,7 +90,10 @@
             { "id": "ice-barrier",          "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
             { "id": "desert-twister",       "display": "Desert Twister",        "card": "Desert Twister" },
 			{ "id": "genex",     		    "display": "Genex",     		    "card": "Genex Army" },
-			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" }
+			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
+            { "id": "elemental-hero",     	"display": "Elemental Hero",        "card": "Elemental HERO Neos" },
+            { "id": "other",     	        "display": "Other",                 "card": "Question" },
+            { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" }
         ]
     }
 ]
