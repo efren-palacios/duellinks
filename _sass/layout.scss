@@ -533,3 +533,22 @@ button:focus
   width: 100%;
   text-align: center;
 }
+
+.stats-header
+{
+  h5
+  {
+    float: left;
+  }
+
+  .stats-actions
+  {
+    float: right;
+
+    span
+    {
+      color: $active;
+      cursor: pointer;
+    }
+  }
+}

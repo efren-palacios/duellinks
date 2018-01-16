@@ -2,6 +2,7 @@ $(document).ready(function()
 {
     InitializeViewModel();
     GetTopDecks();
+    BindTopDecksPageEvents();
 });
 
 function InitializeViewModel()
@@ -303,4 +304,21 @@ function ScrollTo(element)
             page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
         });
     }
+}
+
+function BindTopDecksPageEvents()
+{
+    $(".stats-header #collapse-all").click(function(event)
+    {
+        $("#stats-skills table.collapsable").addClass("collapsed");
+        $("#collapse-all").addClass("hidden");
+        $("#expand-all").removeClass("hidden");
+    });
+
+    $(".stats-header #expand-all").click(function(event)
+    {
+        $("#stats-skills table.collapsable").removeClass("collapsed");
+        $("#expand-all").addClass("hidden");
+        $("#collapse-all").removeClass("hidden");
+    });
 }
