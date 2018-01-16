@@ -8,7 +8,8 @@ form
         background-color: #0c2740;
     }
 
-    .form-control:read-only
+    input.form-control:read-only,
+    textarea.form-control:read-only
     {
         background-color: #0a1f33;
     }
