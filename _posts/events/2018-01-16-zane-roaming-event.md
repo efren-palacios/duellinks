@@ -4,7 +4,7 @@ title: Zane Roaming Event
 author: Perune
 image: /img/events/zane-roaming-event/thumbnail.png
 category: event
-date: 2018-01-01
+date: 2018-01-16
 comments: false
 description: 
 keywords: event, in-depth event

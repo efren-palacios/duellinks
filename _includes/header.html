@@ -7,10 +7,19 @@
           <div class="card">
             <div class="zoom">
               <a href={{site.url}}{{page.url}}> 
+                {% if page.title == "NEW EVENT" %}
+                   {% for event in site.categories.event limit:1 %}
+                    <img
+                      src="https://images.weserv.nl/?url={{event.image | replace: 'https://', ''}}&w=200&blur=5"
+                      data-src="{{event.image}}"
+                      class="card-img-top lazyload" />
+                  {% endfor %}
+                {% else %}
                   <img
                   src="https://images.weserv.nl/?url={{page.image | replace: 'https://', ''}}&w=200&blur=5"
                   data-src="{{page.image}}"
                   class="card-img-top lazyload" />
+                {% endif %}
               </a>
             </div>
             <div class="card-block">
@@ -28,6 +37,10 @@
                   {% else %}
                     <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
                   {% endif %}
+                {% elsif page.title == "NEW EVENT" %}
+                  {% for event in site.categories.event limit:1 %}
+                    <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
+                  {% endfor %}
                 {% else %}
                   <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
                 {% endif %}
