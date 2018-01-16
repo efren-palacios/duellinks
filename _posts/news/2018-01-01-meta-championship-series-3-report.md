@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "META CHAMPIONSHIP #2"
+title: "META CHAMPIONSHIP #3"
 category: tournaments
 image: https://i.imgur.com/AJBBqGQ.png
 author: Dkayed
