@@ -16,7 +16,11 @@ permalink: /submit-your-deck/
     <h2>SUBMIT YOUR DECK</h2>
     <p>This page is meant for our discord members who have reached King of Games in the current season and who want to showcase the deck that they reached it with. We display these KoG decks on our <a href="{{site.url}}/top-decks/">top decks</a> page as an informative overview and guideline of what kind of decks are being used to reach KoG with.</p>
     <p id="kog-status">Getting discord information...</p>
-    <a id="discord-login-button" class="btn btn-info" role="button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">Log in</a>
+    {% if jekyll.environment == "dev" %}
+        <a id="discord-login-button" class="btn btn-info" role="button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">Log in</a>
+    {% else %}
+        <a id="discord-login-button" class="btn btn-info" role="button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsubmit-your-deck%2F&response_type=token&scope=identify">Log in</a>
+    {% endif %}
 </div>
 
 <div class="section">
