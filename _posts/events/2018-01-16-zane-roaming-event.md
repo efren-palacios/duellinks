@@ -18,7 +18,7 @@ hide: false
 ### - Zane Truesdale Event ( Last Updated: 01/09/2018) 
 
 
-
+[gallery](https://i.imgur.com/ucb6qg6.png,https://i.imgur.com/opRGBGk.png,https://i.imgur.com/dYx0Zrb.png,https://i.imgur.com/UrIGULL.png,https://i.imgur.com/g4tAj60.png,https://i.imgur.com/ERHMYLH.png)
 
 ### Event Info
 ####  Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you.       Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
@@ -56,6 +56,7 @@ How To Play: Ideal starting hand: Sanctuary or spirit barrier +lvl 4 cloudian tu
  Ideal starting hand: Sanctuary or spirit barrier +lvl 4 cloudian turbulence.  Use turbulence effect whenever you can summon nimbusman or have Gift on your hand.  Use abyssal on "Sea serpent - Light".  Try to tribute max monster as possible to summon the Nimbusman.  Save 2 leeching the light to final combo, as long as he have rare metalmorph
 
 <a href="https://imgur.com/fOXxzrf"><img src="https://i.imgur.com/fOXxzrf.png" title="source: imgur.com" /></a>
+
 
 #### Unhappy Girl Ra Balance Zane Farm By: Pelat
 How To Play: UG + Barrier, attack his monster, FTH his Daedalus, gain LP with Ladybug, summon Ra last turn (it will be over 13000 minimun if you played correctly).  Always remember to not clock up your monster zone due to the fact that rai-mei could search both UG and Ladybug (usually summon the third UG once you have 3 ladybug in hand).  Cloudian doesn't lock opponent but it's a #4/5 UG for consistency.
