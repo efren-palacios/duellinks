@@ -86,6 +86,11 @@ function GetAllSkills()
     $("#skill").easyAutocomplete(options);
 }
 
+function MakeCardsClickable()
+{
+    $(".item").draggable({helper: "clone", zIndex: 10000});
+}
+
 function MakeCardsDraggable()
 {
     $(".item").draggable({helper: "clone", zIndex: 10000});

@@ -1,38 +1,47 @@
-function DiscordUser(id, username, roles){
+function DiscordUser(id, username, roles)
+{
     this.id = id;
     this.username = username;
     this.roles = roles;
 }
 
-DiscordUser.prototype.getID = function() {
+DiscordUser.prototype.getID = function()
+{
     return this.id;
 };
 
-DiscordUser.prototype.getUsername = function() {
+DiscordUser.prototype.getUsername = function()
+{
     return this.username;
 };
 
-DiscordUser.prototype.isContentManager = function() {
+DiscordUser.prototype.isContentManager = function()
+{
     return $.inArray('website devs', this.roles) !== -1 || $.inArray('dkayed', this.roles) !== -1 || $.inArray('content manager', this.roles) !== -1;
 };
 
-DiscordUser.prototype.isDev = function() {
+DiscordUser.prototype.isDev = function()
+{
     return $.inArray('website devs', this.roles) !== -1;
 };
 
-DiscordUser.prototype.isKoG = function() {
+DiscordUser.prototype.isKoG = function()
+{
     return $.inArray('king of games', this.roles) !== -1;
 };
 
-function ProfileCookieManager(profileCookieName){
+function ProfileCookieManager(profileCookieName)
+{
     this.profileCookieName = profileCookieName;
 }
 
-ProfileCookieManager.prototype.hasAnyProfile = function(){
+ProfileCookieManager.prototype.hasAnyProfile = function()
+{
     return this.getCookie(this.profileCookieName) ? true : false;
 }
 
-ProfileCookieManager.prototype.getCookie = function(cname){
+ProfileCookieManager.prototype.getCookie = function(cname)
+{
     var name = cname + "=";
     var decodedCookie = decodeURIComponent(document.cookie);
     var ca = decodedCookie.split(';');
@@ -48,18 +57,21 @@ ProfileCookieManager.prototype.getCookie = function(cname){
     return "";
 }
 
-ProfileCookieManager.prototype.getAllProfiles = function(){
+ProfileCookieManager.prototype.getAllProfiles = function()
+{
     if(this.hasAnyProfile())
         return JSON.parse(this.getCookie(this.profileCookieName));
     else
         return [];
 }
 
-ProfileCookieManager.prototype.hasProfile = function(profileId){
+ProfileCookieManager.prototype.hasProfile = function(profileId)
+{
     return $.inArray(profileId, this.getAllProfiles()) !== -1;
 }
 
-ProfileCookieManager.prototype.addProfile = function(profileId){
+ProfileCookieManager.prototype.addProfile = function(profileId)
+{
     var currentProfiles = this.getAllProfiles();
 
     if(!this.hasProfile(profileId))
@@ -74,7 +86,8 @@ ProfileCookieManager.prototype.addProfile = function(profileId){
     document.cookie = this.profileCookieName + "=" + newCookieValue + ";" + expires + ";path=/";
 }
 
-function DiscordAPICall(botToken, discordId){
+function DiscordAPICall(botToken, discordId)
+{
     this.botToken = botToken;
     this.discordId = discordId;
 
@@ -88,29 +101,36 @@ function DiscordAPICall(botToken, discordId){
     this.allowedRoles = [];
 }
 
-DiscordAPICall.prototype.getAccessToken = function(){
+DiscordAPICall.prototype.getAccessToken = function()
+{
     return this.accessToken;
 }
 
-DiscordAPICall.prototype.setUserID = function(id){
+DiscordAPICall.prototype.setUserID = function(id)
+{
     this.userId = id;
 }
 
-DiscordAPICall.prototype.getUserID = function(){
+DiscordAPICall.prototype.getUserID = function()
+{
     return this.userId;
 }
 
-DiscordAPICall.prototype.setAllowedRoles = function(allowedRoles){
+DiscordAPICall.prototype.setAllowedRoles = function(allowedRoles)
+{
     this.allowedRoles = allowedRoles;
 }
 
-DiscordAPICall.prototype.getAllowedRoles = function(){
+DiscordAPICall.prototype.getAllowedRoles = function()
+{
     return this.allowedRoles;
 }
 
-DiscordAPICall.prototype.getUserIDByAccessToken = function(callback){
+DiscordAPICall.prototype.getUserIDByAccessToken = function(callback)
+{
     var ref = this;
-    $.ajax({
+    $.ajax(
+    {
         type: 'GET',
         url: "https://discordapp.com/api/users/@me",
         headers: { "Authorization": "Bearer " + this.accessToken },
@@ -119,20 +139,23 @@ DiscordAPICall.prototype.getUserIDByAccessToken = function(callback){
             callback();
         },
         error: function () {
-            $("#kog-status").html("Login to discord to check your KoG status");
+            $("#kog-status").html("Please login to discord to check your KoG status.");
         }
     });
 }
 
-DiscordAPICall.prototype.getAllowedRolesID = function(callback){
+DiscordAPICall.prototype.getAllowedRolesID = function(callback)
+{
     var ref = this;
     var roles = ['king of games', 'dkayed', 'website devs', 'content manager'];
 
-    $.ajax({
+    $.ajax(
+    {
         type: 'GET',
         url: "https://discordapp.com/api/guilds/" + this.discordId,
         headers: { "Authorization": "Bot " + this.botToken },
-        success: function (result) {
+        success: function (result)
+        {
             var allowedRoles = [];
             for (var i = 0; i < result['roles'].length; i++) {
                 if ($.inArray(result['roles'][i]['name'].toLowerCase(), roles) !== -1) {
@@ -146,19 +169,23 @@ DiscordAPICall.prototype.getAllowedRolesID = function(callback){
             ref.setAllowedRoles(allowedRoles);
             callback();
         },
-        error: function () {
+        error: function ()
+        {
             $("#kog-status").html("Internal error.");
         }
     });
 }
 
-DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction){
+DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction)
+{
     var ref = this;
-    $.ajax({
+    $.ajax(
+    {
         type: 'GET',
         url: "https://discordapp.com/api/guilds/" + this.discordId + "/members/" + this.userId,
         headers: { "Authorization": "Bot " + this.botToken },
-        success: function (result) {
+        success: function (result)
+        {
             var allowedRoles = ref.getAllowedRoles();
 
             var userRoles = [];
@@ -173,14 +200,17 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
             discordUser = new DiscordUser(ref.getUserID(), result['user']['username'], userRoles);
 
             if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isContentManager()){
-                $("#kog-status").html("You can only submit one deck per month.");
-            }else{
+                $("#kog-status").html("Only one deck per month can be submitted.");
+            }
+            else
+            {
                 if(discordUser.isKoG() || discordUser.isContentManager()) isKogAction(discordUser.getUsername());
                 else isNotKogAction(discordUser.getUsername());
             }
         },
-        error: function () {
-            $("#kog-status").html("Your are not in the DLM Discord.");
+        error: function ()
+        {
+            $("#kog-status").html("You appear to not be a member of our discord. Only members of the DuelLinksMeta discord can submit decks here.");
         }
     });
 }
@@ -189,64 +219,77 @@ var discordUser = new DiscordUser("", "", []);
 var cookieManager = new ProfileCookieManager("discord-id");
 var apiManager = new DiscordAPICall('Mzk4MjkwODY1NTU2MTYwNTEz.DS8Y4A.ofv3FayCq8uldaqB--FLQnFjfJk', '303175246268334082');
 
-$(function () {
+$(function ()
+{
     $("#deck-sub-form").addClass("hidden");
-    $("#deck-sub-form :input").prop('readonly', true);
+    $("#deck-sub-form :input").prop("readonly", true);
 
     var accessToken = apiManager.getAccessToken();
 
-    if (accessToken) {
+    if (accessToken)
+    {
+        removeAccessTokenFromURL();
+
         $("#discord-login-button").addClass("hidden");
         $("#kog-status").html("Checking your discord roles...");
 
         apiManager.getUserIDByAccessToken(function(){
             apiManager.getAllowedRolesID(function(){
                 apiManager.processUserRoles(userIsKoGAction, userIsNotKoGAction);
-                removeAccessTokenFromURL();
             });
         });
-    }else{
+    }
+    else
+    {
         $("#discord-login-button").removeClass("hidden");
-        $("#kog-status").html("Only KoG memebers can submit decks to this page. Login to discord to get access.");
+        $("#kog-status").html("If you are a KoG member of our discord, then please log in to get access.");
     }
 })
 
-$("#SubmitDeck").click(function(){
-    if(discordUser.getID() != "" && !discordUser.isContentManager()){
+$("#SubmitDeck").click(function()
+{
+    if(discordUser.getID() != "" && !discordUser.isContentManager())
+    {
         $("#deck-sub-form").addClass("hidden");
-        $("#deck-sub-form :input").prop('readonly', true);
-        $("#post-submit-message").html("Thank you very much for your deck submission!");
+        $("#deck-sub-form :input").prop("readonly", true);
+        $("#post-submit-message").html("Thank you very much for your deck submission! See you next month " + discordUser.getUsername() + "!");
 
         cookieManager.addProfile(discordUser.getID());
     }
 });
 
-function userIsKoGAction(userName){
-    if(discordUser.isContentManager()){
-        $("#deck-sub-form :input").prop('readonly', false);
+function userIsKoGAction(userName)
+{
+    if(discordUser.isContentManager())
+    {
+        $("#deck-sub-form :input").prop("readonly", false);
 
         if(discordUser.isDev())
             $("#kog-status").html(userName + ", you are a website developer, you have open access.");
         else
             $("#kog-status").html(userName + ", you are a content manager, you have open access.");
 
-    }else{
-        $("#kog-status").html(userName + ", you are King Of Games this month!");
-        $("#deck-sub-form :input").prop('readonly', false);
-        $("#author").prop('readonly', true);
+    }
+    else
+    {
+        $("#kog-status").html(userName + ", you are King Of Games this month! You can submit your deck now.");
+        $("#deck-sub-form :input").prop("readonly", false);
+        $("#author").prop("readonly", true);
         $("#author").val(userName);
     }
 
     $("#deck-sub-form").removeClass("hidden");
 }
 
-function userIsNotKoGAction(userName){
-    $("#kog-status").html(userName + ", you are not King Of Games this month!");
+function userIsNotKoGAction(userName)
+{
+    $("#kog-status").html(userName + ", you are not King Of Games yet this month. Please check the discord and send us proof in the #kog-proof channel.");
     $("#deck-sub-form").addClass("hidden");
-    $("#deck-sub-form :input").prop('readonly', true);
+    $("#deck-sub-form :input").prop("readonly", true);
 }
 
-function removeAccessTokenFromURL(){
+function removeAccessTokenFromURL()
+{
     if(window.history.pushState)
         window.history.pushState({}, null, window.location.href.split("#")[0]);
 }
