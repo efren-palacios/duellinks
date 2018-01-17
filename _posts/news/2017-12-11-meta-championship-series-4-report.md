@@ -5,7 +5,7 @@ author: TOASTYKILLA
 image: /img/news/meta-championship-series-4-report/thumbnail.png
 category: news
 date: 2017-12-10
-pinned: true
+pinned: false
 comments: false
 description: "Here is the in-depth report about the Meta Championship Series #4."
 keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
