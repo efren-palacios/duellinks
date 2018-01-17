@@ -5,8 +5,8 @@
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "hazy-flame-br",         "display": "Hazy Flame BR",          "card": "Hazy Flame Sphynx" },
-            { "id": "red-eyes-zombies",      "display": "Red-Eyes Zombies",       "card": "Red-Eyes Zombie Dragon" }            
+            { "id": "hazy-flame-br",        "display": "Hazy Flame BR",         "card": "Hazy Flame Sphynx" },
+            { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" }            
         ] 
     },
     {
@@ -93,7 +93,8 @@
 			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
             { "id": "elemental-hero",     	"display": "Elemental Hero",        "card": "Elemental HERO Neos" },
             { "id": "other",     	        "display": "Other",                 "card": "Question" },
-            { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" }
+            { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
+            { "id": "wetlands",     	    "display": "Wetlands",              "card": "Wetlands" }
         ]
     }
 ]
