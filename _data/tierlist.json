@@ -46,7 +46,7 @@
             { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },
             { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
-            { "id": "control-decks",        "display": "Control Decks",         "card": "Guardian Statue" }
+            { "id": "control-decks",        "display": "Control Decks",         "card": "Sergeant Electro" }
         ] 
     },
     {
