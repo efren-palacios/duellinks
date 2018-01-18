@@ -50,7 +50,7 @@ permalink: /submit-your-deck/
                 <div class="form-group">
                     <label>Search a card</label>
                     <input type="text" class="form-control" data-bind="textInput: searchTerm">
-                    <div id="deck">
+                    <div id="deck" class="card-search">
                         <div id="cards" data-bind="foreach: filteredCards">
                             <div class="item" data-bind="attr: {'data-name': name}">
                                 <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a> 

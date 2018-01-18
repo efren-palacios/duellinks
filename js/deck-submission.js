@@ -88,9 +88,18 @@ function GetAllSkills()
 
 function MakeCardsClickable()
 {
-    $(".item").draggable({helper: "clone", zIndex: 10000});
+    $(".deck-submission").on("click", ".card-search .item", function()
+    {
+        AddCardToUserDeck($(this).data("name"));
+    });
+
+    $(".deck-submission").on("click", "#deck-container .item", function()
+    {
+        RemoveCardFromUserDeck($(this).data("name"), $(this).data("number"));
+    });
 }
 
+//todo: make it so we dont have to call this each time the search results change
 function MakeCardsDraggable()
 {
     $(".item").draggable({helper: "clone", zIndex: 10000});
@@ -110,18 +119,11 @@ function MakeBoxesDroppable()
             var self = ui;
             ui.helper.off('mouseup').on('mouseup', function ()
             {
+                
                 var name = $(ui.draggable).data("name");
                 var number = $(ui.draggable).data("number");
 
-                DeckSubmissionViewModel.selectedMainCards.remove(function(card)
-                {
-                    return card.name == name && card.number === number;
-                });
-
-                DeckSubmissionViewModel.selectedExtraCards.remove(function(card)
-                {
-                    return card.name == name && card.number === number;
-                });
+                RemoveCardFromUserDeck(name, number);
             });
         }
     });
@@ -159,6 +161,19 @@ function AddCardToUserDeck(name)
             }
         });
     }
+}
+
+function RemoveCardFromUserDeck(name, number)
+{
+    DeckSubmissionViewModel.selectedMainCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
+
+    DeckSubmissionViewModel.selectedExtraCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
 }
 
 function GetNextNumber(name)
@@ -242,6 +257,8 @@ function GetTypeName(typeId)
 
 function BindFormEvents()
 {
+    MakeCardsClickable();
+
     $("#SubmitDeck").click(function()
     {
         $("form.deck-submission").submit();

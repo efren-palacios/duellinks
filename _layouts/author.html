@@ -1,91 +1,92 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-<body>
-  <div id="fb-root"></div>
-  <script>
-    (function (d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1815513031811368";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, "script", "facebook-jssdk"));
-  </script>
-  {% include nav.html %}
+  
+  {% include head.html %}
+  
+  <body>
 
-  <div class="page-wrapper scrollbar">
-    <div class="container">
+    <div id="fb-root"></div>
 
-      {% include ad.html %}
+    <script>
+      (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1815513031811368";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, "script", "facebook-jssdk"));
+    </script>
 
-      {% include banner.html %}
+    {% include nav.html %}
 
-      <div class="col text-white" style="margin-top: 20px;">
-        <h1 class="text-center" style="margin: 2rem 0">{{page.author}}</h1>
-        <div class="row">
-          <div class="col-sm">
-            <img width="200px" style="margin:auto;display:block;margin-bottom:1rem;" src='{{page.image}}' class="img-fluid text-center" />          
-          </div>
-          <div class="col-sm-8">
-            <p><b>About:</b> {{page.about}}</p>
-            <p><b>Accomplishments</b> {{page.accomplishments}}</p>
-            <a href="{{page.facebook}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                <i class="fa fa-square fa-stack-2x" style="color:#3B5998; "></i>
-                <i class="fa fa-facebook  fa-stack-1x" style="color:white; "></i>
-            </a>
+    <div class="page-wrapper scrollbar">
+      <div class="container">
 
-            <a href="{{page.youtube}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                    <i class="fa fa-square fa-stack-2x" style="color:#FF0000; "></i>
-                  <i class="fa fa-youtube  fa-stack-1x" style="color:white; "></i>
-                </a>
+        {% include ad.html %}
 
-            <a href="{{page.twitter}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                          <i class="fa fa-square fa-stack-2x" style="color:#00aced; "></i>
-                    <i class="fa fa-twitter  fa-stack-1x" style="color:white; "></i>
-                      </a>
-          </div>
-        </div>
-        <h1 class="text-center" style="margin: 2rem 0">Guides / Articles</h1>
-        <div class="row justify-content-center text-center">
-          {% assign author = site.posts | where:"author",page.author %} {% for card in author %}
-          <div class="col-sm-6 col-12 card-deck">
-            <div class="card">
-              <div class="zoom">
-                <a href='{{site.url}}{{card.url}}'> 
-                          <img
-                          src="https://images.weserv.nl/?url={{card.image | replace: 'https://', ''}}&w=200&blur=5"
-                          data-src="{{card.image}}"
-                          class="card-img-top lazyload" />
-                      </a>
-              </div>
-              <div class="card-block text-white">
-                <a href='{{site.url}}{{card.url}}'>
-                  <h4 class="card-title">{{card.title}}</h4>
-                </a>
-                <div class="text-white">
-                  <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}
-                            </small>
-                </div>
-              </div>
+        {% include banner.html %}
 
+        <div class="col text-white" style="margin-top: 20px;">
+          <h1 class="text-center" style="margin: 2rem 0">{{page.author}}</h1>
+          <div class="row">
+            <div class="col-sm">
+              <img width="200px" style="margin:auto;display:block;margin-bottom:1rem;" src='{{page.image}}' class="img-fluid text-center" />          
+            </div>
+            <div class="col-sm-8">
+              <p><b>About:</b> {{page.about}}</p>
+              <p><b>Accomplishments</b> {{page.accomplishments}}</p>
+              <a href="{{page.facebook}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                <i class="fa fa-square fa-stack-2x" style="color:#3B5998;"></i>
+                <i class="fa fa-facebook  fa-stack-1x" style="color:white;"></i>
+              </a>
+
+              <a href="{{page.youtube}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                <i class="fa fa-square fa-stack-2x" style="color:#FF0000;"></i>
+                <i class="fa fa-youtube  fa-stack-1x" style="color:white;"></i>
+              </a>
+
+              <a href="{{page.twitter}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                <i class="fa fa-square fa-stack-2x" style="color:#00aced;"></i>
+                <i class="fa fa-twitter  fa-stack-1x" style="color:white;"></i>
+              </a>
             </div>
           </div>
-          {% endfor %}
+          <h1 class="text-center" style="margin: 2rem 0">Guides / Articles</h1>
+          <div class="row justify-content-center text-center">
+            {% assign author = site.posts | where: "author", page.author %}
+            {% for card in author %}
+              <div class="col-sm-6 col-12 card-deck">
+                <div class="card">
+                  <div class="zoom">
+                    <a href='{{site.url}}{{card.url}}'> 
+                      <img src="https://images.weserv.nl/?url={{card.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{card.image}}" class="card-img-top lazyload" />
+                    </a>
+                  </div>
+                  <div class="card-block text-white">
+                    <a href='{{site.url}}{{card.url}}'>
+                      <h4 class="card-title">{{card.title}}</h4>
+                    </a>
+                    <div class="text-white">
+                      <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</small>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
         </div>
+
+        <div class="col text-white">
+          {% include facebook.html %}
+        </div>
+
+        {% include social.html %}
+
       </div>
-
-
-      <div class="col text-white">
-        {% include facebook.html %}
-      </div>
-
-      {% include social.html %}
-
     </div>
-  </div>
 
-</body>
-{% include scripts.html %}
+  </body>
+
+  {% include scripts.html %}
 
 </html>
