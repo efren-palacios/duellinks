@@ -3,7 +3,7 @@ layout: author
 title: "Perune"
 meta: "Owner"
 categories: authors
-image: https://i.imgur.com/AZaNe2i.png
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mallard2.jpg/1200px-Mallard2.jpg
 author: Perune
 comments: true
 facebook: https://www.facebook.com/DuelLinksMeta/
