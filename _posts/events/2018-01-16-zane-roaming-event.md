@@ -17,9 +17,6 @@ hide: false
 
 ### - Zane Truesdale Event ( Last Updated: 01/09/2018) 
 
-
-[gallery](https://i.imgur.com/ucb6qg6.png,https://i.imgur.com/opRGBGk.png,https://i.imgur.com/dYx0Zrb.png,https://i.imgur.com/UrIGULL.png,https://i.imgur.com/g4tAj60.png,https://i.imgur.com/ERHMYLH.png)
-
 ### Event Info
 ####  Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you.       Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
 
