@@ -1,4 +1,6 @@
 [
+    { "type": "hazy-flame-br", "from": 1, "to": 3, "date": 2018-01-17 },
+    { "type": "cyber-angels", "from": "nothing", "to": 3, "date": 2018-01-17 },
     { "type": "ninja-control", "from": 1, "to": "nothing", "date": 2018-01-14 },
     { "type": "cyber-angels", "from": 1, "to": "nothing", "date": 2018-01-14 },
     { "type": "temple-burn", "from": "nothing", "to": 3, "date": 2018-01-14 },
