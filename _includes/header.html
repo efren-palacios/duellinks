@@ -28,7 +28,7 @@
               </a>
               <div class="text-white">
                 {% if page.title == "TIER LIST" %} <!-- why not page.url? page title is more likely to change than page url -->
-                  {% assign changelog = site.data.tierlist-changelog | sort: 'date' | reverse %}
+                  {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
                   {% assign firstDate = changelog[0].date %}
                   {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
                   {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}

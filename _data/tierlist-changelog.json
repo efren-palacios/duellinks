@@ -1,26 +1,34 @@
-[
-    { "type": "hazy-flame-br", "from": 1, "to": 3, "date": 2018-01-17 },
-    { "type": "cyber-angels", "from": "nothing", "to": 3, "date": 2018-01-17 },
-    { "type": "ninja-control", "from": 1, "to": "nothing", "date": 2018-01-14 },
-    { "type": "cyber-angels", "from": 1, "to": "nothing", "date": 2018-01-14 },
-    { "type": "temple-burn", "from": "nothing", "to": 3, "date": 2018-01-14 },
-    { "type": "ananta", "from": "nothing", "to": 3, "date": 2018-01-14 },
-    { "type": "volcanics", "from": "nothing", "to": 3, "date": 2018-01-14 },
-    { "type": "red-eyes-zombies", "from": 2, "to": 1, "date": 2018-01-14 },
-    { "type": "ancient-gears", "from": 3, "to": 2, "date": 2018-01-14 },
-    { "type": "dinos-control", "from": "nothing", "to": 3, "date": 2017-12-10 },
-    { "type": "hazy-flame-br", "from": 3, "to": 2, "date": 2017-12-10 },
-    { "type": "burn-decks", "from": 3, "to": 2, "date": 2017-12-10 },
-    { "type": "gladiators", "from": 3, "to": 2, "date": 2017-11-23 },
-    { "type": "ninjas", "from": 2, "to": 1, "date": 2017-11-21 },
-    { "type": "red-eyes-zombies", "from": 1, "to": 2, "date": 2017-11-14 },
-    { "type": "ancient-gears", "from": "nothing", "to": 3, "date": 2017-11-14 },
-    { "type": "burn-decks", "from": 2, "to": 3, "date": 2017-11-14 },
-    { "type": "gladiators", "from": 2, "to": 3, "date": 2017-11-14 },
-    { "type": "hazy-flame-br", "from": 2, "to": 3, "date": 2017-11-14 },
-    { "type": "control-decks", "from": 2, "to": 4, "date": 2017-11-14 },
-    { "type": "dinos", "from": 2, "to": 4, "date": 2017-11-14 },
-    { "type": "mill-decks", "from": 2, "to": 4, "date": 2017-11-14 },
-    { "type": "ninja-control", "from": "nothing", "to": 4, "date": 2017-11-14 },
-    { "type": "relinquished", "from": 3, "to": 4, "date": 2017-11-14 }
-]
+{
+    "game-changes":
+    {
+        "date": 2018-01-09,
+        "description": "Gia this is for you, write your life story here (:"
+    },
+    "tier-changes": 
+    [
+        { "type": "hazy-flame-br", "from": 1, "to": 3, "date": 2018-01-17 },
+        { "type": "cyber-angels", "from": "nothing", "to": 3, "date": 2018-01-17 },
+        { "type": "ninja-control", "from": 1, "to": "nothing", "date": 2018-01-14 },
+        { "type": "cyber-angels", "from": 1, "to": "nothing", "date": 2018-01-14 },
+        { "type": "temple-burn", "from": "nothing", "to": 3, "date": 2018-01-14 },
+        { "type": "ananta", "from": "nothing", "to": 3, "date": 2018-01-14 },
+        { "type": "volcanics", "from": "nothing", "to": 3, "date": 2018-01-14 },
+        { "type": "red-eyes-zombies", "from": 2, "to": 1, "date": 2018-01-14 },
+        { "type": "ancient-gears", "from": 3, "to": 2, "date": 2018-01-14 },
+        { "type": "dinos-control", "from": "nothing", "to": 3, "date": 2017-12-10 },
+        { "type": "hazy-flame-br", "from": 3, "to": 2, "date": 2017-12-10 },
+        { "type": "burn-decks", "from": 3, "to": 2, "date": 2017-12-10 },
+        { "type": "gladiators", "from": 3, "to": 2, "date": 2017-11-23 },
+        { "type": "ninjas", "from": 2, "to": 1, "date": 2017-11-21 },
+        { "type": "red-eyes-zombies", "from": 1, "to": 2, "date": 2017-11-14 },
+        { "type": "ancient-gears", "from": "nothing", "to": 3, "date": 2017-11-14 },
+        { "type": "burn-decks", "from": 2, "to": 3, "date": 2017-11-14 },
+        { "type": "gladiators", "from": 2, "to": 3, "date": 2017-11-14 },
+        { "type": "hazy-flame-br", "from": 2, "to": 3, "date": 2017-11-14 },
+        { "type": "control-decks", "from": 2, "to": 4, "date": 2017-11-14 },
+        { "type": "dinos", "from": 2, "to": 4, "date": 2017-11-14 },
+        { "type": "mill-decks", "from": 2, "to": 4, "date": 2017-11-14 },
+        { "type": "ninja-control", "from": "nothing", "to": 4, "date": 2017-11-14 },
+        { "type": "relinquished", "from": 3, "to": 4, "date": 2017-11-14 }
+    ]
+}
