@@ -1,5 +1,6 @@
 <div class="row card-collection">
-  {% for page in site.categories.header | sort: "order" %}
+  {% assign pages = site.categories.header | sort: "order" %}
+  {% for page in pages %}
     <div class="col-sm-4 col-12 card-deck header">
       <div class="card">
         <div class="zoom">
