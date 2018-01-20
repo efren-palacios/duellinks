@@ -1,56 +1,44 @@
 <div class="row card-collection">
-  {% for i in (1..6) %}
-    {% for page in site.categories.header %}
-      {% if page.order == i %}
-        <div class="col-sm-4 col-12 card-deck header">
-
-          <div class="card">
-            <div class="zoom">
-              <a href={{site.url}}{{page.url}}> 
-                {% if page.title == "NEW EVENT" %}
-                   {% for event in site.categories.event limit:1 %}
-                    <img
-                      src="https://images.weserv.nl/?url={{event.image | replace: 'https://', ''}}&w=200&blur=5"
-                      data-src="{{event.image}}"
-                      class="card-img-top lazyload" />
-                  {% endfor %}
-                {% else %}
-                  <img
-                  src="https://images.weserv.nl/?url={{page.image | replace: 'https://', ''}}&w=200&blur=5"
-                  data-src="{{page.image}}"
-                  class="card-img-top lazyload" />
-                {% endif %}
-              </a>
-            </div>
-            <div class="card-block">
-              <a href={{site.url}}{{page.url}}>
-                <h4 class="card-title text-white">{{page.title}}</h4>
-              </a>
-              <div class="text-white">
-                {% if page.title == "TIER LIST" %} <!-- why not page.url? page title is more likely to change than page url -->
-                  {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
-                  {% assign firstDate = changelog[0].date %}
-                  {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-                  {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
-                  {% if fomattedFirstDate > formattedPageDate %}
-                    <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
-                  {% else %}
-                    <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
-                  {% endif %}
-                {% elsif page.title == "NEW EVENT" %}
-                  {% for event in site.categories.event limit:1 %}
-                    <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
-                  {% endfor %}
-                {% else %}
-                  <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
-                {% endif %}
-              </div>
-            </div>
-          </div>
-
+  {% for page in site.categories.header | sort: "order" %}
+    <div class="col-sm-4 col-12 card-deck header">
+      <div class="card">
+        <div class="zoom">
+          <a href={{site.url}}{{page.url}}> 
+            {% if page.url == "/events/" %}
+                {% for event in site.categories.event limit:1 %}
+                <img src="{{event.image}}" class="card-img-top lazyload" />
+              {% endfor %}
+            {% else %}
+              <img src="{{page.image}}" class="card-img-top lazyload" />
+            {% endif %}
+          </a>
         </div>
-        {% break %}
-      {% endif %}
-    {% endfor %}
+        <div class="card-block">
+          <a href={{site.url}}{{page.url}}>
+            <h4 class="card-title text-white">{{page.title}}</h4>
+          </a>
+          <div class="text-white">
+            {% if page.title == "/tierlist/" %}
+              {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
+              {% assign firstDate = changelog[0].date %}
+              {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
+              {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
+              {% if fomattedFirstDate > formattedPageDate %}
+                <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
+              {% else %}
+                <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
+              {% endif %}
+            {% elsif page.title == "NEW EVENT" %}
+              {% for event in site.categories.event limit:1 %}
+                <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
+              {% endfor %}
+            {% else %}
+              <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+    </div>
   {% endfor %}
 </div>

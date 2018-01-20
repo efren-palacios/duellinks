@@ -16,7 +16,7 @@
         "types":
         [            
             { "id": "gladiators",           "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
-            { "id": "hazy-flame-br",        "display": "Hazy Flame BR",         "card": "Hazy Flame Sphynx" },
+            { "id": "hazy-flame-br",        "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
             { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"}
         ]
     },
