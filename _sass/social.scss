@@ -1,0 +1,95 @@
+.discord-ad-banner
+{
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;  
+}
+
+.discord-ad-background-left {
+    z-index: 0;
+    position: absolute;
+    background-image: url('/img/dlm-ads/discord_ad.png');
+    top: 0;
+    right: 0;
+    left: 0;    
+    bottom: 0;  
+    opacity: 0.5;
+    background-position: top 0px right 0px;
+}
+
+.discord-ad-sub-banner {
+    min-height: 300px;
+    z-index: 1;
+}
+
+.discord-ad-image {
+    width: 50%;
+}
+
+.discord-ad-kog-image {
+    margin-bottom: 16px;
+}
+
+.discord-ad-text-area {
+    text-align: center;
+}
+
+.discord-ad-text {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.discord-ad-text-kog-date {
+    margin-bottom: 0px;
+}
+
+.discord-ad-text-title {
+    font-family: 'Rock Salt';
+    margin-top: 20px; 
+}
+
+a.discord-ad-sub-banner:hover {
+    text-decoration: none;
+}
+
+// Phone (Vertical)
+@media screen and (max-width: 576px) {
+    .discord-ad-sub-banner-right {
+        display: none;
+    }     
+    .discord-ad-image {
+        width: 30%;
+    } 
+    .discord-ad-background-left {
+        background-position: left;
+    }
+}
+
+// Tablet
+@media screen and (min-width: 576px) and (max-width: 768px) {
+    .discord-ad-sub-banner-right {
+        display: none;
+    }    
+    .discord-ad-image {
+        width: 30%;
+    }
+    .discord-ad-background-left {
+        background-position: top;
+    }
+}
+
+// Laptop
+@media screen and (min-width: 768px) and (max-width: 992px) {  
+    .discord-ad-text-title {
+        margin-top: 32px; 
+    }    
+    .discord-ad-background-left {
+        background-position: top;
+    }
+}
+
+// Desktop 
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
