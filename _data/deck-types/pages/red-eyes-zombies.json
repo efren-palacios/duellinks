@@ -5,6 +5,16 @@
     "sections":
     [
         {
+            "title": "Last Updated",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "January 21st, 2018 by <a href='https://duellinksmeta.netlify.com/authors/insano'>Insano - Red Eyes Expert</a>"
+                }  
+                ]
+        },
+        {
             "title": "Overview",
             "level": 1,
             "blocks":
@@ -59,12 +69,12 @@
                         "position": "left",
                         "main":
                         [
-                            { "name": "Red-eyes Zombie Dragon" },
-                            { "name": "Gozuki" },
-                            { "name": "Bacon Saver" },
-                            { "name": "Samurai Skull" },
-                            { "name": "Red-Eyes Insight" },
-                            { "name": "Red-Eyes Spirit" }
+                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
+                            { "name": "Gozuki", "amount": "2" },
+                            { "name": "Bacon Saver", "amount": "2" },
+                            { "name": "Samurai Skull", "amount": "1" },
+                            { "name": "Red-Eyes Insight", "amount": "2" },
+                            { "name": "Red-Eyes Spirit", "amount": "2" }
                         ]
                     }            
                 },
@@ -72,7 +82,7 @@
                     "paragraph": "These are the cards you shouldn't play the deck without."
                 },
                 {
-                    "paragraph": ""
+                    "paragraph": "For every {Gozuki} you're missing, replace with {Samurai Skull}"
                 }           
             ]
         },
