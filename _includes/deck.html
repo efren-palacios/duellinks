@@ -1,5 +1,5 @@
-<div class="flex-container {% if include.showHeader %}center{% endif %}">
-    <div class="deck-container">
+<div class="flex-container">
+    <div class="deck-container {{include.position}}">
         {% if include.showHeader %}
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}

@@ -27,7 +27,6 @@
                 { 
                     "deck":
                     {
-                        "position": "left",
                         "skill": "Duel, standby!",
                         "main":
                         [
@@ -54,7 +53,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Snoww, Unlight of Dark World", "amount": "3" },
@@ -80,7 +78,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Dark World Lightning" },

@@ -480,6 +480,9 @@ button:focus
   .deck-container
   {
     margin: 0 auto;
+
+    &.left  { margin-left:  0px; }
+    &.right { margin-right: 0px; }
   }
 
   .card-hover

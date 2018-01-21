@@ -23,4 +23,29 @@
     {% for section in guide.sections %}
         {% include guides/section.html section=section level=1 %}
     {% endfor %}
+
+    {% if guide.guides != null %}
+        <div class="section">
+            <h3>Guides</h3>
+            <ul>
+                {% for deckTypeGuide in site.categories.deck-type-guide %}
+                    {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
+                    {% if guide.guides contains link %}
+                        <li><a href="{{deckTypeGuide.permalink}}">{{deckTypeGuide.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+    {% if guide.videos != null %}
+        <div class="section">
+            <h3>Videos (todo: layout like /stream)</h3>
+            <ul>
+                {% for video in guide.videos %}
+                    <li><a href="{{video}}">{{video}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 </div>

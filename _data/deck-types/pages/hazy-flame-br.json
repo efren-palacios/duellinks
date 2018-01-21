@@ -27,7 +27,6 @@
                 { 
                     "deck":
                     {
-                        "position": "left",
                         "skill": "Destiny Draw",
                         "main":
                         [
@@ -55,7 +54,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Flame Tiger" },
@@ -84,7 +82,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Floodgate Trap Hole" }

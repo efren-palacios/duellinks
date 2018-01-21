@@ -14,20 +14,11 @@
         {% if block.paragraph != null %}
             <p class="{{block.layout}}">{{block.paragraph}}</p>
         {% elsif block.deck != null %}
-            {% include deck.html deck=block.deck showHeader=false showStats=true %}
+            {% include deck.html deck=block.deck position="left" showHeader=false showStats=true %}
         {% elsif block.box != null %}
-            {% include deck.html deck=block.box showHeader=false showStats=false %}
+            {% include deck.html deck=block.box  position="left" showHeader=false showStats=false %}
         {% endif %}
     {% endfor %}
-
-    {% if include.section.guides != null %}
-        <ul>
-            {% for guideName in include.section.guides %}
-                {% assign guide = site.data.deck-types.guides[{{page.deck-type}}][{{guideName}}] %}
-                <li><a href="/guides/{{guide.url}}">{{guide.title}}</a></li>
-            {% endfor %}
-        </ul>
-    {% endif %}
     
     <!--{% if include.section.sub-sections.size > 0 %}
         {% assign next-level = include.level | plus: 1 %}

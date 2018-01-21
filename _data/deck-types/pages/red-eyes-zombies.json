@@ -27,7 +27,6 @@
                 { 
                     "deck":
                     {
-                        "position": "left",
                         "skill": "Beatdown",
                         "main":
                         [
@@ -58,7 +57,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
@@ -86,7 +84,6 @@
                 {
                     "box":
                     {
-                        "position": "left",
                         "main":
                         [
                             { "name": "Enemy controller" },
