@@ -17,7 +17,7 @@ DiscordUser.prototype.getUsername = function()
 
 DiscordUser.prototype.isContentManager = function()
 {
-    return $.inArray('website devs', this.roles) !== -1 || $.inArray('dkayed', this.roles) !== -1 || $.inArray('content manager', this.roles) !== -1;
+    return $.inArray('website devs', this.roles) !== -1 || $.inArray('dkayed', this.roles) !== -1 || $.inArray('content creator', this.roles) !== -1;
 };
 
 DiscordUser.prototype.isDev = function()
@@ -147,7 +147,7 @@ DiscordAPICall.prototype.getUserIDByAccessToken = function(callback)
 DiscordAPICall.prototype.getAllowedRolesID = function(callback)
 {
     var ref = this;
-    var roles = ['king of games', 'dkayed', 'website devs', 'content manager'];
+    var roles = ['king of games', 'dkayed', 'website devs', 'content creator'];
 
     $.ajax(
     {
@@ -267,7 +267,7 @@ function userIsKoGAction(userName)
         if(discordUser.isDev())
             $("#kog-status").html(userName + ", you are a website developer, you have open access.");
         else
-            $("#kog-status").html(userName + ", you are a content manager, you have open access.");
+            $("#kog-status").html(userName + ", you are a content creator, you have open access.");
 
     }
     else
