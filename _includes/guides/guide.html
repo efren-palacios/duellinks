@@ -24,7 +24,7 @@
         {% include guides/section.html section=section level=1 %}
     {% endfor %}
 
-    {% if guide.guides != null %}
+    {% if guide.guides != null and guide.guides.size != 0 %}
         <div class="section">
             <h3>Guides</h3>
             <div class="row card-collection">
@@ -58,7 +58,7 @@
         </div>
     {% endif %}
 
-    {% if guide.videos != null %}
+    {% if guide.videos != null and guide.videos.size != 0 %}
         <div class="section">
             <h3>Videos (todo: layout like /stream)</h3>
             <ul>
