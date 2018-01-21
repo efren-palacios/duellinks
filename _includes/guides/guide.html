@@ -27,14 +27,34 @@
     {% if guide.guides != null %}
         <div class="section">
             <h3>Guides</h3>
-            <ul>
+            <div class="row card-collection">
                 {% for deckTypeGuide in site.categories.deck-type-guide %}
                     {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
                     {% if guide.guides contains link %}
-                        <li><a href="{{deckTypeGuide.permalink}}">{{deckTypeGuide.title}}</a></li>
+                        <div class="col-sm-6 col-12 card-deck">
+                            <div class="card">
+                                <div class="zoom">
+                                    <a href="{{deckTypeGuide.url}}"> 
+                                        <img src="{{deckTypeGuide.image}}" class="card-img-top lazyload" />
+                                    </a>
+                                </div>
+                                <div class="card-block text-white">
+                                    <a href="{{deckTypeGuide.url}}">
+                                        <h4 class="card-title">{{deckTypeGuide.title}}</h4>
+                                    </a>
+                                    <div class="text-white">
+                                        <small class="text-muted">Last Updated: {{ deckTypeGuide.date | timeago }}
+                                            {% if deckTypeGuide.author == 'Dkayed' %}
+                                            By <b><a class="text-danger" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% else %}
+                                            By <b><a class="text-warning" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% endif %}
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     {% endif %}
                 {% endfor %}
-            </ul>
+            </div>
         </div>
     {% endif %}
 
