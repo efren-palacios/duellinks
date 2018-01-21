@@ -1,18 +1,16 @@
-form
-{
-    .form-control,
-    .form-control:focus
-    {
-        color: #d8d8d8;
-        border: 1px solid #182f4c;
-        background-color: #0c2740;
-    }
 
-    input.form-control:read-only,
-    textarea.form-control:read-only
-    {
-        background-color: #0a1f33;
-    }
+.form-control,
+.form-control:focus
+{
+    color: #d8d8d8;
+    border: 1px solid #182f4c;
+    background-color: #0c2740;
+}
+
+input.form-control:read-only,
+textarea.form-control:read-only
+{
+    background-color: #0a1f33;
 }
 
 .deck-submission

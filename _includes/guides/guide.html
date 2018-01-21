@@ -1,12 +1,22 @@
 <div class="decktype-guide">
-    <div class="header">
-        <h2>{{guide.title}}</h2>
+    <div class="section header">
+        <h2>INTRODUCTION TO {{guide.deck-type | upcase }}</h2>
         {% if guide.created-by != null %}
-            by {{guide.created-by}}
+            <h4>by {{guide.created-by}}</h4>
         {% endif %}
     </div>
 
-    {% if guide.image != null%}
+    <div class="section">
+        <h3>Last Updated</h3>
+        <p>{{guide.modified-on}} by 
+        {% if guide.profile != null and guide.profile != "" %}
+            <a href="/authors/{{guide.profile}}/">{{guide.modified-by}}</a>
+        {% else %}
+            {{guide.modified-by}}
+        {% endif %}</p>
+    </div>
+
+    {% if guide.image != null %}
         <img class="splash" src="/img/guides/{{guide.image}}">
     {% endif %}
     

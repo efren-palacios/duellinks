@@ -5,7 +5,7 @@ category: deck-type-page
 author: Creative
 date: 2017-10-07
 comments: false
-description: In depth information about Red-Eyes Zombies decks.
+description: A quick introduction to the Red-Eyes Zombies deck type. Learn how to play Red-Eyes Zombies in no time.
 deck-type: red-eyes-zombies
 permalink: /tier-list/red-eyes-zombies/
 ---

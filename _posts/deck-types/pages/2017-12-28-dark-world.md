@@ -5,7 +5,7 @@ category: deck-type-page
 author: unpreceden7ed
 date: 2017-12-28
 comments: false
-description: In depth information about Dark World decks.
+description: A quick introduction to the Dark World deck type. Learn how to play Dark World in no time.
 deck-type: dark-world
 permalink: /tier-list/dark-world/
 ---

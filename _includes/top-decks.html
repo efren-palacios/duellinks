@@ -123,3 +123,16 @@
         </div>
     </div>
 </div>
+
+{% assign years = site.data.top-decks %}
+
+<div class="section">
+    <h4>TOP DECKS ARCHIVE</h4>
+    <select class="form-control">
+        {% for year in years %}
+            {% for month in year[1] %}
+                <option value="{{month[0]}}-{{year[0]}}">{{month[0]}}-{{year[0]}}</option>
+            {% endfor %}
+        {% endfor %}
+    </select>
+</div>

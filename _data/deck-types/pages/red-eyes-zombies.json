@@ -1,19 +1,11 @@
 {
-    "created-on": "2018-01-20",
-    "modified-on": "",
-    "title": "INTRODUCTION TO THE RED-EYES ZOMBIE DECK TYPE",
+    "deck-type": "Red-Eyes Zombies",
+    "created-by": "Insano - Red Eyes Expert",
+    "modified-by": "Insano - Red Eyes Expert",
+    "modified-on": "January 21st, 2018",
+    "profile": "insano",
     "sections":
     [
-        {
-            "title": "Last Updated",
-            "level": 1,
-            "blocks":
-            [
-                {
-                    "paragraph": "January 21st, 2018 by <a href='https://duellinksmeta.netlify.com/authors/insano'>Insano - Red Eyes Expert</a>"
-                }  
-                ]
-        },
         {
             "title": "Overview",
             "level": 1,
