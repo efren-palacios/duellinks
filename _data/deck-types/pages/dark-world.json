@@ -30,13 +30,13 @@
             "blocks":
             [
                 {
-                    "paragraph": "Below you can find popular choices among REZ players."
+                    "paragraph": "Below you can find popular choices among Dark World players."
                 },
                 { 
                     "deck":
                     {
                         "position": "left",
-                        "skill": "Beatdown",
+                        "skill": "Duel, standby!",
                         "main":
                         [
                             { "name": "Reign-Beaux, Overlord of Dark World", "amount": "3" },
