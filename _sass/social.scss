@@ -46,7 +46,7 @@
 
 .discord-ad-text-title {
     font-family: 'Rock Salt';
-    margin-top: 20px; 
+    margin-top: 32px; 
 }
 
 a.discord-ad-sub-banner:hover {
@@ -59,7 +59,7 @@ a.discord-ad-sub-banner:hover {
         display: none;
     }     
     .discord-ad-image {
-        width: 30%;
+        width: 40%;
     } 
     .discord-ad-background-left {
         background-position: left;
@@ -72,7 +72,7 @@ a.discord-ad-sub-banner:hover {
         display: none;
     }    
     .discord-ad-image {
-        width: 30%;
+        width: 40%;
     }
     .discord-ad-background-left {
         background-position: top;
@@ -80,10 +80,7 @@ a.discord-ad-sub-banner:hover {
 }
 
 // Laptop
-@media screen and (min-width: 768px) and (max-width: 992px) {  
-    .discord-ad-text-title {
-        margin-top: 32px; 
-    }    
+@media screen and (min-width: 768px) and (max-width: 992px) {   
     .discord-ad-background-left {
         background-position: top;
     }
