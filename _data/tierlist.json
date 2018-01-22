@@ -64,7 +64,7 @@
     },
     {
         "category": "OtherDecks",
-        "info": "These are all other decks that are currently active, but are generally not skilled enough for King of Games or tier status.",
+        "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
         [    
             { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
