@@ -188,11 +188,9 @@ h3.title
 
 .ad-container
 {
-    margin-top: 0px;
-    padding-top: 32px;
-    padding-left: 0px;
-    padding-right: 0px;
-    margin-bottom: 30px;
+  overflow: hidden;
+  padding-top: 20px;
+  margin-bottom: 20px;
 }
 
 .ad
