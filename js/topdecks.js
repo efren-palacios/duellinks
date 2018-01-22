@@ -173,7 +173,9 @@ function InitializeViewModel()
             {
                 BindCollapsableTables();
             }
-        }
+        },
+
+        selectedArchivedSeason: ko.observable("")
     };
     
     ko.applyBindings(TopDecksViewModel);

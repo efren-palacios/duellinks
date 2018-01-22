@@ -33,13 +33,20 @@
   .navbar-nav
   {
     text-align: center;   
+
+    .nav-item .nav-link
+    {
+      font-family: "Alegreya-Medium";
+    }
   }
 
-  .container {
+  .container
+  {
     margin-top: 0px;
     margin-bottom: 0px;
 
-    .navbar-items {
+    .navbar-items
+    {
       display: flex;
     }
   }
@@ -49,7 +56,6 @@ li.nav-item > a.nav-link
 {
   color: $text-default;
   text-transform: uppercase;
-  font-family: "Alegreya-Medium";
   font-size: 18px;
   padding-top: 16px;
   padding-bottom: 0px;
