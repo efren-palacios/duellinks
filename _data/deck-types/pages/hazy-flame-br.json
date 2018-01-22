@@ -60,7 +60,6 @@
                             { "name": "Hazy Flame Cerbereus", "amount": "2" },
                             { "name": "Caninetaur", "amount": "1" },
                             { "name": "Flame Tiger", "amount": "1" },
-                            { "name": "Hazy Flame Sphynx" },
                             { "name": "Soul Exchange" },
                             { "name": "Beast Rising" }
                         ]
@@ -92,6 +91,7 @@
                             { "name": "Sphere Kuriboh", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "1" },
                             { "name": "Mirror Wall", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
                             { "name": "Forbidden Chalice", "amount": "1" },
                             { "name": "Sergeant Electro", "amount": "1" },
                             { "name": "Fire Formation - Gyokkou", "amount": "1" },
