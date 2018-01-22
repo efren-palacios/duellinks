@@ -97,6 +97,7 @@ function InitializeTopDecksViewModel()
             decksPerPage: 10,
             currentPage: ko.observable(1),
             pages: ko.observableArray(),
+            pagesSmall: ko.observableArray(),
 
             pagedDecks: ko.computed({read: function()
             {
@@ -113,34 +114,40 @@ function InitializeTopDecksViewModel()
 
             recalculatePagination: function()
             {
-                TopDecksViewModel.pages.removeAll();
-                TopDecksViewModel.pages.push(TopDecksViewModel.currentPage());
+                TopDecksViewModel.recalculateDynamicPagination(TopDecksViewModel.pages, 10);
+                TopDecksViewModel.recalculateDynamicPagination(TopDecksViewModel.pagesSmall, 7);
+            },
+
+            recalculateDynamicPagination: function(pages, amountOfPages)
+            {
+                pages.removeAll();
+                pages.push(TopDecksViewModel.currentPage());
 
                 var minPages = 1;
                 var maxPages = Math.ceil(TopDecksViewModel.filteredDecks().length / TopDecksViewModel.decksPerPage);
 
-                for(var i = 0; i < 9; i++)
+                for(var i = 0; i < amountOfPages - 1; i++)
                 {
-                    var minPage = Math.min.apply(Math, TopDecksViewModel.pages());
-                    var maxPage = Math.max.apply(Math, TopDecksViewModel.pages());
+                    var minPage = Math.min.apply(Math, pages());
+                    var maxPage = Math.max.apply(Math, pages());
 
                     if(i % 2 === 0)
                     {
                         if(maxPage < maxPages)
-                            TopDecksViewModel.pages.push(maxPage + 1);
+                            pages.push(maxPage + 1);
                         else if(minPage > minPages)
-                            TopDecksViewModel.pages.push(minPage - 1);
+                            pages.push(minPage - 1);
                     }
                     else
                     {
                         if(minPage > minPages)
-                            TopDecksViewModel.pages.push(minPage - 1); 
+                            pages.push(minPage - 1); 
                         else if(maxPage < maxPages)
-                            TopDecksViewModel.pages.push(maxPage + 1);
+                            pages.push(maxPage + 1);
                     }
                 }
 
-                TopDecksViewModel.pages.sort(SortPages);
+                    pages.sort(SortPages);
             },
 
             selectPage: function(page)

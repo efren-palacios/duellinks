@@ -67,34 +67,54 @@ module Jekyll
                     elsif(currChar == ")" && startContent > 0)
                         tagContent = content[startContent + 1, j - startContent - 1]
 
-                        if(tag == "gallery")
+                        if(tag.include? "gallery")
                             imageLinks = tagContent.split(',')
                             
-                            galleryHtml = '
-                            <div id="imageGallery" class="carousel slide" data-ride="carousel">
-                                <ol class="carousel-indicators">'
+if(tag.include? "1/3")
+galleryHtml = '
+<div id="imageGallery" class="carousel slide carousel-size-1-3" data-ride="carousel">
+    <ol class="carousel-indicators">
+    '
+elsif(tag.include? "2/3")
+galleryHtml = '
+<div id="imageGallery" class="carousel slide carousel-size-2-3" data-ride="carousel">
+    <ol class="carousel-indicators">
+    '
+else
+galleryHtml = '
+<div id="imageGallery" class="carousel slide carousel-size-3-3" data-ride="carousel">
+    <ol class="carousel-indicators">
+    '
+end
 
-                            for k in 0...imageLinks.length
-                                galleryHtml += '<li data-target="#imageGallery" data-slide-to="' + k.to_s + '">';
-                            end
 
-                            galleryHtml += '</ol>
-                                <div class="carousel-inner">'
+for k in 0...imageLinks.length
+    galleryHtml += '    <li data-target="#imageGallery" data-slide-to="' + k.to_s + '"></li>
+    ';
+end
 
-                            for k in 0...imageLinks.length
-                                galleryHtml += '<div class="item"><img src="' + imageLinks[k] + '"></div>';
-                            end
+galleryHtml += '</ol>
+    <div class="carousel-inner">
+    '
 
-                            galleryHtml += '</div>
-                                <a class="left carousel-control" href="#imageGallery" data-slide="prev">
-                                    <span class="glyphicon glyphicon-chevron-left"></span>
-                                    <span class="sr-only">Previous</span>
-                                </a>
-                                <a class="right carousel-control" href="#imageGallery" data-slide="next">
-                                    <span class="glyphicon glyphicon-chevron-right"></span>
-                                    <span class="sr-only">Next</span>
-                                </a>
-                                </div>'
+galleryHtml += '    <div class="carousel-item active"><img class="d-block carousel-image-size" src="' + imageLinks[0] + '" alt=""></div>
+    ';
+
+for k in 1...imageLinks.length
+    galleryHtml += '    <div class="carousel-item"><img class="d-block carousel-image-size" src="' + imageLinks[k] + '" alt=""></div>
+    ';
+end
+
+galleryHtml += '</div>
+    <a class="carousel-control-prev" href="#imageGallery" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#imageGallery" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>'
 
                             content.gsub! '[' + tag + '](' + tagContent + ')', galleryHtml
                         end

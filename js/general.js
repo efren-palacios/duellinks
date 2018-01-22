@@ -2,6 +2,10 @@ $(document).ready(function()
 {
     ExecuteOnReadyFunctions();
     BindPageEvents();
+
+    $('.carousel').carousel({
+        interval: false
+    })
 });
 
 function ExecuteOnReadyFunctions()
