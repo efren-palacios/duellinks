@@ -7,7 +7,7 @@
         [
          
             { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
-            { "id": "cyber-angels",         "display": "Cyber Angels Bamboo",          "card": "Cyber Angel Dakini" }            
+            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" }            
         ] 
     },
     {
@@ -64,7 +64,7 @@
     },
     {
         "category": "OtherDecks",
-        "info": "These are decks that are currently active, but are not skilled enough for King of Games or tier status.",
+        "info": "These are all other decks that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
         [    
             { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
