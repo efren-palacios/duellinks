@@ -573,7 +573,19 @@ button:focus
   width: 100%;
 }
 
-.carousel-image-size{
+.carousel-image-size-h3{
+  height: 40rem;
+  max-width: 100%;
+  margin: auto;
+}
+
+.carousel-image-size-h2{
+  height: 30rem;
+  max-width: 100%;
+  margin: auto;
+}
+
+.carousel-image-size-h1{
   height: 20rem;
   max-width: 100%;
   margin: auto;
@@ -592,7 +604,15 @@ button:focus
     width: 100%;
   }
 
-  .carousel-image-size{
+  .carousel-image-size-h3{
+    height: 30rem;
+  }
+
+  .carousel-image-size-h2{
+    height: 22.5rem;
+  }
+
+  .carousel-image-size-h1{
     height: 15rem;
   }
 }

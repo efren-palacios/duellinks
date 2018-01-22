@@ -69,23 +69,30 @@ module Jekyll
 
                         if(tag.include? "gallery")
                             imageLinks = tagContent.split(',')
-                            
-if(tag.include? "1/3")
+
+                            carouselSize = ""
+                            if(tag.include? "1/3")
+                                carouselSize = "carousel-size-1-3"
+                            elsif(tag.include? "2/3")
+                                carouselSize = "carousel-size-2-3"
+                            else
+                                carouselSize = "carousel-size-3-3"
+                            end
+
+                            carouselImageHeight = ""
+                            if(tag.include? "h3")
+                                carouselImageHeight = "carousel-image-size-h3"
+                            elsif(tag.include? "h2")
+                                carouselImageHeight = "carousel-image-size-h2"
+                            else
+                                carouselImageHeight = "carousel-image-size-h1"
+                            end
+
+
 galleryHtml = '
-<div id="imageGallery" class="carousel slide carousel-size-1-3" data-ride="carousel">
+<div id="imageGallery" class="carousel slide ' + carouselSize + '" data-ride="carousel">
     <ol class="carousel-indicators">
     '
-elsif(tag.include? "2/3")
-galleryHtml = '
-<div id="imageGallery" class="carousel slide carousel-size-2-3" data-ride="carousel">
-    <ol class="carousel-indicators">
-    '
-else
-galleryHtml = '
-<div id="imageGallery" class="carousel slide carousel-size-3-3" data-ride="carousel">
-    <ol class="carousel-indicators">
-    '
-end
 
 
 for k in 0...imageLinks.length
@@ -97,11 +104,11 @@ galleryHtml += '</ol>
     <div class="carousel-inner">
     '
 
-galleryHtml += '    <div class="carousel-item active"><img class="d-block carousel-image-size" src="' + imageLinks[0] + '" alt=""></div>
+galleryHtml += '    <div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0] + '" alt=""></div>
     ';
 
 for k in 1...imageLinks.length
-    galleryHtml += '    <div class="carousel-item"><img class="d-block carousel-image-size" src="' + imageLinks[k] + '" alt=""></div>
+    galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k] + '" alt=""></div>
     ';
 end
 
