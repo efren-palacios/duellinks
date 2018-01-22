@@ -27,7 +27,7 @@
         "types":
         [            
             { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
-            { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"}
+            { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
             { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
                 
