@@ -6,7 +6,8 @@
         "types":
         [
          
-            { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" }            
+            { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
+            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" }            
         ] 
     },
     {
@@ -16,8 +17,7 @@
         "types":
         [            
             { "id": "gladiators",           "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
-            { "id": "hazy-flame-br",        "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
-            { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"}
+            { "id": "hazy-flame-br",        "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
         ]
     },
     {
@@ -27,9 +27,8 @@
         "types":
         [            
             { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
-            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
-            { "id": "dinos-control",        "display": "Dino Control",          "card": "Hydrogeddon" },
-            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"}
+            { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
             { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
                 
         ]
@@ -57,7 +56,6 @@
             { "id": "gemini",               "display": "Geminis",               "card": "Supervise" },
             { "id": "winged-dragon-of-ra",  "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
             { "id": "cloudians",            "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
-            { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
             { "id": "gem-knights",          "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
             { "id": "jurrac",               "display": "Jurrac",                "card": "Jurrac Guaiba" },
             { "id": "lightsworn",           "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
@@ -70,6 +68,8 @@
         "types":
         [    
             { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
+            { "id": "dinos-control",        "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
