@@ -46,10 +46,10 @@
                     }
                 },
                 {
-                    "paragraph": "With the addition of {Dark Magician Curtain}, it is now a lot easier to get a DM on the field, meaning the OP DM spells {Dark Magic Attack} and {Thousand Knives} will see a lot of use. Complete backrow destruction is this deck's strongest combo, along with monster removal, giving you huge advantage and allowing you to safely swing with your monsters. All of the mentioned spells are searchable with x2 {Magician's Rod}, giving you options to grab the best card for the situation."
+                    "paragraph": "With the addition of {Dark Magic Curtain}, it is now a lot easier to get a DM on the field, meaning the OP DM spells {Dark Magic Attack} and {Thousand Knives} will see a lot of use. Complete backrow destruction is this deck's strongest combo, along with monster removal, giving you huge advantage and allowing you to safely swing with your monsters. All of the mentioned spells are searchable with x2 {Magician's Rod}, giving you options to grab the best card for the situation."
                 },
                 {
-                    "paragraph": "Note: You cannot activate {Dark Magician Curtain} the turn you summoned a monster. Or you can not summon a monster the turn you used {Dark Magician Curtain}. However, you can set, which you should in most cases to avoid your opponent doing Econ take plays."
+                    "paragraph": "Note: You cannot activate {Dark Magic Curtain} the turn you summoned a monster. Or you can not summon a monster the turn you used {Dark Magician Curtain}. However, you can set, which you should in most cases to avoid your opponent doing Econ take plays."
                 }           
             ]
         },
@@ -98,7 +98,7 @@
                         [
                             { "name": "Enemy controller" },
                             { "name": "Mirror Wall" },
-                            { "name": "Floodgate Traphole" },
+                            { "name": "Floodgate Trap Hole" },
                             { "name": "Curse of Anubis" },
                             { "name": "Super Rush Headlong" },
                             { "name": "Wall of Disruption" }
