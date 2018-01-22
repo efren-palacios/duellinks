@@ -77,26 +77,51 @@
                     </tbody>
                 </table>
             </div>
-            <div class="section" data-bind="css: { hidden: $root.pages().length <= 1 }">
+            <div class="section page-group-default" data-bind="css: { hidden: $root.pages().length <= 1 }">
                 <nav>
-                    <ul class="pagination" data-bind="css: { disabled: $root.currentPage() == 1 }">
-                        <li class="page-item previous" data-bind="click: selectFirstPage">
-                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
-                        </li>
-                        <li class="page-item previous" data-bind="click: function () { $root.selectPreviousPage($data) }">
-                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
-                        </li>
-                    </ul>
                     <ul class="pagination pages" data-bind="foreach: $root.pages">
                         <li class="page-item" data-bind="click: function () { $root.selectPage($data) }, css: { active: $root.currentPage() === $rawData }">
                             <a class="page-link" data-bind="text: $rawData"></a>
                         </li>
                     </ul>
-                    <ul class="pagination" data-bind="css: { disabled: $root.currentPage() == $root.pages()[$root.pages().length - 1] }">
-                        <li class="page-item next" data-bind="click: function () { $root.selectNextPage($data) }">
+                    <ul class="pagination previous" data-bind="css: { disabled: $root.currentPage() == 1 }">
+                        <li class="page-item" data-bind="click: selectFirstPage">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: function () { $root.selectPreviousPage($data) }">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination next" data-bind="css: { disabled: $root.currentPage() == $root.pages()[$root.pages().length - 1] }">
+                        <li class="page-item" data-bind="click: function () { $root.selectNextPage($data) }">
                             <a class="page-link" aria-label="Next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
                         </li>
-                        <li class="page-item next" data-bind="click: selectLastPage">
+                        <li class="page-item" data-bind="click: selectLastPage">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="section page-group-small" data-bind="css: { hidden: $root.pagesSmall().length <= 1 }">
+                <nav>
+                    <ul class="pagination pages" data-bind="foreach: $root.pagesSmall">
+                        <li class="page-item" data-bind="click: function () { $root.selectPage($data) }, css: { active: $root.currentPage() === $rawData }">
+                            <a class="page-link" data-bind="text: $rawData"></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination previous" data-bind="css: { disabled: $root.currentPage() == 1 }">
+                        <li class="page-item" data-bind="click: selectFirstPage">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: function () { $root.selectPreviousPage($data) }">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination next" data-bind="css: { disabled: $root.currentPage() == $root.pagesSmall()[$root.pagesSmall().length - 1] }">
+                        <li class="page-item" data-bind="click: function () { $root.selectNextPage($data) }">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: selectLastPage">
                             <a class="page-link" aria-label="Next"><span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
                         </li>
                     </ul>

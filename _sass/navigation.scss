@@ -84,7 +84,7 @@ li.nav-item > a.nav-link:focus
     margin-right: 0px;
   }
 
-  > .page-item
+  .page-item
   {
     display: inline;
 
@@ -122,12 +122,15 @@ li.nav-item > a.nav-link:focus
         font-size: 15px;
       }
     }
+  }
 
-    &.previous .page-link,
-    &.next .page-link
-    {
-      padding-top: 10px;
-      padding-bottom: 10px;
-    }
+  &.previous { float: left; }
+  &.next { float: right; }
+
+  &.previous .page-item .page-link,
+  &.next .page-item .page-link
+  {
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
