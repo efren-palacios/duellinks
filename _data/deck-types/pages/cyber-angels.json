@@ -1,0 +1,125 @@
+{
+    "deck-type": "Cyber Angels",
+    "created-by": "Tutpup",
+    "modified-by": "Tutpup",
+    "modified-on": "January 21st, 2018",
+    "profile": "tutpup",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Cyber Angels are a ritual deck that...."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Duel, Stanby!",
+                        "main":
+                        [
+                            { "name": "Cyber Angel Dakini", "amount": "2" },
+                            { "name": "Cyber Angel Idaten", "amount": "1" },
+                            { "name": "Cyber Angel Benten", "amount": "2" },
+                            { "name": "Senju of the Thousand Hands", "amount": "1" },
+                            { "name": "Petit Angel", "amount": "2" },
+                            { "name": "Skelengel", "amount": "1" },
+                            { "name": "Machine Angel Absolute Ritual", "amount": "3" },
+                            { "name": "Release Restraint Wave", "amount": "1" },
+                            { "name": "Storm", "amount": "1" },
+                            { "name": "Cursed Bamboo Sword", "amount": "3" },
+                            { "name": "Golden Bamboo Sword", "amount": "3" },
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "The decklist above is a first place tournament deck by Tutpup - 2nd place World Championship player."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Cyber Angel Dakini", "amount": "2" },
+                            { "name": "Machine Angel Absolute Ritual", "amount": "3" },
+                            { "name": "Cyber Angel Benten", "amount": "2" },
+                            { "name": "Senju of the Thousand Hands", "amount": "1" },
+                            { "name": "Petit Angel" },
+                            { "name": "Skelengel" },
+                            { "name": "Release Restraint Wave" },
+                            { "name": "Cursed Bamboo Sword", "amount": "3" },
+                            { "name": "Golden Bamboo Sword", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These cards make up the main engine of the archtype."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Cyber Angel Idaten", "amount": "1" },
+                            { "name": "Broken Bamboo Sword", "amount": "1" },
+                            { "name": "Storm", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                }       
+            ]
+        },    
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                ""
+            ]
+        }
+    ]
+}
