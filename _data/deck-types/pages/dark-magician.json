@@ -1,0 +1,138 @@
+{
+    "deck-type": "Dark Magician",
+    "created-by": "Kayoh",
+    "modified-by": "Kayoh",
+    "modified-on": "January 21st, 2018",
+    "profile": "kayoh",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Red-eyes Zombie Dragon is the most versitile deck in the meta and one of the most powerful decks in the short history of Yu-Gi-Oh Duel Links. This deck is based on an engine powered by the multiple effects of it's boss monster, Red-Eyes Zombie Dragon and it's most imperative zombie monster, Gozuki. This is a very explosive otk deck that uses the best combo card in the game, Red-Eyes insight and the trap card, red-eyes spirit to flood the field with powerful 2400 atk/ 2000def monsters. This deck has much room for techs and powerful staple cards suck as enemy controller which helps it counter any weakness it may have."
+                }
+                   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Below you can find popular choices among REZ players."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Master of Magicians",
+                        "main":
+                        [
+                            { "name": "Sergeant Electro", "amount": "3" },
+                            { "name": "Legion the Fiend Jester", "amount": "2" },
+                            { "name": "Magician's Rod", "amount": "2" },
+                            { "name": "Dark Magician", "amount": "3" },
+                            { "name": "Dark Magic Attack", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Dark Magic Curtain", "amount": "1" },
+                            { "name": "Ancient Rules", "amount": "2" },
+                            { "name": "Thousand Knives", "amount": "1" },
+                            { "name": "Mirror Wall", "amount": "2" },
+                            { "name": "Champion's Vigilance", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "With the addition of {Dark Magician Curtain}, it is now a lot easier to get a DM on the field, meaning the OP DM spells {Dark Magic Attack} and {Thousand Knives} will see a lot of use. Complete backrow destruction is this deck's strongest combo, along with monster removal, giving you huge advantage and allowing you to safely swing with your monsters. All of the mentioned spells are searchable with x2 {Magician's Rod}, giving you options to grab the best card for the situation."
+                },
+                {
+                    "paragraph": "Note: You cannot activate {Dark Magician Curtain} the turn you summoned a monster. Or you can not summon a monster the turn you used {Dark Magician Curtain}. However, you can set, which you should in most cases to avoid your opponent doing Econ take plays."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Sergeant Electro", "amount": "2" },
+                            { "name": "Legion the Fiend Jester", "amount": "2" },
+                            { "name": "Magician's Rod", "amount": "2" },
+                            { "name": "Dark Magician", "amount": "3" },
+                            { "name": "Dark Magic Attack", "amount": "1" },
+                            { "name": "Dark Magic Curtain", "amount": "1" },
+                            { "name": "Ancient Rules", "amount": "2" },
+                            { "name": "Thousand Knives", "amount": "1" },
+                            { "name": "Champion's Vigilance", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "Since you're only limited to 1 {Dark Magic Attack}, {Sergeant Electro} is necessary to take care of backrow. It’s also good to force out your opponent's {Floodgate Traphole}s, since it would be devastating on your DM. If you're in control of the game, be patient and try to bait out floodgates before going all in with your DM.."
+                },
+                {
+                    "paragraph": "{Legion the Fiend Jester} is also necessary as they search for DM (combo'd with {Ancient Rules} ) and make tribute summons easier given the opportunity."
+                },
+                {
+                    "paragraph": "{Champion's Vigilance} is limited for a reason, it's really strong, especially with negating your opponent's monster summon. Since summoning DM is fast and easy, you'll always have use for this card."
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy controller" },
+                            { "name": "Mirror Wall" },
+                            { "name": "Floodgate Traphole" },
+                            { "name": "Curse of Anubis" },
+                            { "name": "Super Rush Headlong" },
+                            { "name": "Wall of Disruption" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- If you have yet to use your {Dark Magician Curtain}, make sure to leave at least 1 DM in your deck. Remember, Jesters can grab DM from the GY."
+                },
+                {
+                    "paragraph": "- {Magician's Rod} 's secondary effect that adds itself back from the GY to your hand does come in handy sometimes, especially if you have a floodgated monster that you don't mind tributing. It's search is powerful, and you have to be aware of what you have left to search in your deck. Remember, you must activate a spell/trap in your opponent's turn, so think carefully whether or not having the searcher is worth it."
+                }
+            ]
+        },
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                ""
+            ]
+        }
+    ]
+}

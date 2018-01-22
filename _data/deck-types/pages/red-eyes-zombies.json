@@ -30,8 +30,8 @@
                         "skill": "Beatdown",
                         "main":
                         [
-                            { "name": "Red-Eyes Zombie Dragon", "amount": "3" },
-                            { "name": "Gozuki", "amount": "2" },
+                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
+                            { "name": "Gozuki", "amount": "3" },
                             { "name": "Red-Eyes Wyvern", "amount": "1" },
                             { "name": "Samurai Skull", "amount": "2" },
                             { "name": "Bacon Saver", "amount": "1" },
