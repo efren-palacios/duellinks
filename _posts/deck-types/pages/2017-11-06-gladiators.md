@@ -15,3 +15,5 @@ permalink: /tier-list/gladiators/
 {% include guides/guide.html guide=guide %}
 
 {% include decktype_decks.html deckType=page.deck-type %}
+
+{% include top-decks-season-archive.html season=include.season %}
