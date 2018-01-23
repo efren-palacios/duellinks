@@ -1,0 +1,132 @@
+{
+    "deck-type": "Volcanics",
+    "created-by": "Whybona",
+    "modified-by": "Whybona",
+    "modified-on": "January 23st, 2018",
+    "profile": "whybona",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Volcanics is an archetype which focuses on constant monster removal through the use of Blaze Accelerator and Tri-Blaze Accelerator. It uses Volcanic Rocket to search for these cards, Volcanic Shell as discard fodder and Royal Firestorm Guards in order to recycle the Volcanic Shells and out resource the opponent. It is played as a control based deck which slowly grinds out the opponent's monsters and attacks the opponent directly when the field is cleared, slowly chipping away at their life points."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Duel, Stanby!",
+                        "main":
+                        [
+                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Volcanic Shell", "amount": "3" },
+                            { "name": "Royal Firestorm Guards", "amount": "3" },
+                            { "name": "Goka Pyre of Malice", "amount": "1" },
+                            { "name": "Floodgate Trap Hole,", "amount": "3" },
+                            { "name": "Hallowed Life Barrier", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Blaze Accelerator", "amount": "1" },
+                            { "name": "Tri-Blaze Accelerator", "amount": "1" },
+                            { "name": "Ultimate Providence", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "Decklist by Whybona."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Volcanic Rocket", "amount": "1" },
+                            { "name": "Volcanic Shell", "amount": "1" },
+                            { "name": "Royal Firestorm Guards", "amount": "1" },
+                            { "name": "Blaze Accelerator", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "The key to the playstyle is conserving your life points, don't overuse your resources to protect your monsters if you will be losing a small amount of life points and can destroy your opponent's monster on your turn. Don't over commit to the field since your front row can get clogged very quickly so it is best to keep just 1-2 monsters on the board at a time so that you can always summon a Royal Firestorm Guards."
+                },   
+                {
+                    "paragraph": "Always keep on eye on the number of pyro monsters you have in your graveyard to think about how you can get your Royal Firestorm Guards live and preferably get 5 in the grave so that you can leave a Volcanic Shell in there and then add it to your hand off the effect again, meaning you don't have to rely on drawing it again to keep the removal cycle going."
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Goka Pyre of Malice", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "1" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Soul Transition", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Hallowed Life Barrier", "amount": "1" },
+                            { "name": "Brushfire Knight, Divine Wrath", "amount": "1" },                                                        
+                            { "name": " Ultimate Providence", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- Remember that you can set shells if you lack other monsters; if your opponent destroys it then you will still be able to use its effect."
+                },   
+                {
+                    "paragraph": "- When using firestorm guards to shuffle pyro monsters back into your deck, leaving at least 1 shell in the graveyard is a good play as it will allow you to activate its effect and thin."
+                },
+                {
+                    "paragraph": "- Volcanic's hardest matchups are REZ and Hazy. However, this deck has a wide variety of tech options that can make at least 1 of the two matchups favorable, but leaves the other difficult. Choose your tech cards to best counter the deck that you believe will be the most common, and use your side deck (if you have one) to cover the other."
+                }     
+            ]
+        },    
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                ""
+            ]
+        }
+    ]
+}

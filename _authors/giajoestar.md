@@ -7,6 +7,6 @@ image: https://scontent-mia3-2.xx.fbcdn.net/v/t1.0-9/16938760_1905612823002810_7
 author: GiaJoestar
 comments: true
 facebook: https://www.facebook.com/notalentcossplay/
-about: "Yugioh mom, runs your tournaments, fiend expert, runs this shit"
+about: "Yugioh mom, runs your tournaments, fiend queen."
 accomplishments: "Tournament organizer, human resources, content mananger"
 ---
