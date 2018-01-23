@@ -37,9 +37,11 @@ permalink: /submit-your-deck/
                         <option value=""></option>
                         {% assign tiers = site.data.tierlist %}
                         {% for tier in tiers %}
-                            {% for type in tier.types %}
-                                <option value="{{type.id}}">{{type.display}}</option>
-                            {% endfor %}
+                            {% if tier.category != "Archive" %}
+                                {% for type in tier.types %}
+                                    <option value="{{type.id}}">{{type.display}}</option>
+                                {% endfor %}
+                            {% endif %}
                         {% endfor %}
                     </select>
                 </div>
