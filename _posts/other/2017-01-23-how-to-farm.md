@@ -5,6 +5,7 @@ author: pll
 image: /img/pages/tier-list/thumbnadsdil.png
 category: other
 comments: false
+hide: true
 date: 2018-01-23
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: guide, in-depth guide
