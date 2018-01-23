@@ -56,7 +56,6 @@ module Jekyll
 								elsif(currLocalChar == ")" && startContent > 0)
 									tagData = content[startContent + 1, j - startContent - 1]
 									customTagData.push(tagData)
-									puts tagData
 									addedData = true
 									break
 								end
@@ -75,14 +74,13 @@ module Jekyll
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
 
+			galleryCount = 0
             for i in (0...customTagsIndex.size).to_a.reverse
                 startI = customTagsIndex[i]
                 tag = customTagsName[i]
 				tagData = customTagData[i]
 
-                if(tag.include? "gallery")
-					#puts tag + " -> " + tagData
-				
+                if(tag.include? "gallery")		
 					imageLinks = tagData.split(',')
 
 					carouselSize = ""
@@ -104,12 +102,12 @@ module Jekyll
 					end
 
 galleryHtml = '
-<div id="imageGallery" class="carousel slide ' + carouselSize + '" data-ride="carousel">
+<div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
 	<ol class="carousel-indicators">
 	'
 
 for k in 0...imageLinks.length
-	galleryHtml += '    <li data-target="#imageGallery" data-slide-to="' + k.to_s + '"></li>
+	galleryHtml += '    <li data-target="#imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
 	';
 end
 
@@ -126,17 +124,18 @@ for k in 1...imageLinks.length
 end
 
 galleryHtml += '</div>
-	<a class="carousel-control-prev" href="#imageGallery" role="button" data-slide="prev">
+	<a class="carousel-control-prev" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="prev">
 		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
 	</a>
-	<a class="carousel-control-next" href="#imageGallery" role="button" data-slide="next">
+	<a class="carousel-control-next" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="next">
 		<span class="carousel-control-next-icon" aria-hidden="true"></span>
 		<span class="sr-only">Next</span>
 	</a>
 </div>'
 
 					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
+					galleryCount = galleryCount + 1
 				end
             end
 
