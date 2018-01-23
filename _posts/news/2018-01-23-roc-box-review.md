@@ -9,7 +9,6 @@ comments: false
 description: 
 keywords: news
 permalink: /guides/roc-box-review
-hide: true
 ---
 
 # {{page.title}}
@@ -41,7 +40,9 @@ Full card list link [link](https:lol.com)
 | [Nix](https://duellinksmeta.netlify.com/authors/nix.html) | Bujingi, but this box does not seem good to me. I will be skipping it. |
 | [Kayoh](https://duellinksmeta.netlify.com/authors/Kayoh.html) | No new deck types. I don't believe this box will change the meta. |
 
+
 [gallery h3](https://i.imgur.com/DyJ9W5X.png, https://i.imgur.com/ppvJQtQ.png)
+
 
 ## Needed:
 
@@ -56,7 +57,9 @@ Full card list link [link](https:lol.com)
 | [Whybona](https://duellinksmeta.netlify.com/authors/Whybona.html) | None. |
 | [Kayoh](https://duellinksmeta.netlify.com/authors/Kayoh.html) | Defense draw saves your LP and replaces itself, I can see this be played in cancer decks like burn/mill. |
 
+
 [gallery h3](https://i.imgur.com/8ASPjit.png, https://i.imgur.com/rl8z0WY.png, https://i.imgur.com/ppvJQtQ.png, https://i.imgur.com/fAwmFC8.png)
+
 
 ## Maybe
 
@@ -71,7 +74,9 @@ Full card list link [link](https:lol.com)
 | [Whybona](https://duellinksmeta.netlify.com/authors/Whybona.html) | Skill Successor as a potential side tech for Straight to the Grave REZ to help in the mirror match, especially against REZ decks using The Ties That Bind. Snipe Hunter as a tech in Volcanics for further removal. |
 | [Kayoh](https://duellinksmeta.netlify.com/authors/Kayoh.html) | Skill successor could be a good side deck card for the REZ mirror |
 
+
 [gallery h3](https://i.imgur.com/nWQRxn8.png, https://i.imgur.com/XzXGi5S.png, https://i.imgur.com/yxxF4cK.png, https://i.imgur.com/ivPZE7A.png, https://i.imgur.com/KhjMiAN.png, https://i.imgur.com/CIrSdDw.png, https://i.imgur.com/xcyMpAr.png, https://i.imgur.com/xTnMHra.png)
+
 
 ## Future Potential
 
