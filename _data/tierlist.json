@@ -6,8 +6,7 @@
         "types":
         [
          
-            { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
-            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" }            
+            { "id": "red-eyes-zombies",     "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" } 
         ] 
     },
     {
@@ -28,6 +27,7 @@
         [            
             { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
             { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
+            { "id": "cyber-angels",         "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
             { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
                 

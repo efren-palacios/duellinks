@@ -7,7 +7,7 @@
     "tier-changes": 
     [
         { "type": "dark-world", "from": "nothing", "to": 3, "date": 2018-01-21 },
-        { "type": "cyber-angels", "from": 3, "to": 1, "date": 2018-01-21 },
+        { "type": "cyber-angels", "from": 1, "to": 3, "date": 2018-01-23 },
         { "type": "ancient-gears", "from": 2, "to": 3, "date": 2018-01-21 },
         { "type": "dinos-control", "from": 3, "to": "nothing", "date": 2018-01-21 },
         { "type": "temple-burn", "from": 3, "to": "nothing", "date": 2018-01-21 },
