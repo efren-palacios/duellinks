@@ -2,7 +2,7 @@
 layout: blog
 title: Mini Box Review Resonance of Contrast
 author: GiaJoestar
-image: /img/news/NEWS_TITLE-by-NEWS_AUTHOR/thumbnail.png
+image: /img/news/thumbnail.png
 category: news
 date: 2018-01-23
 comments: true
