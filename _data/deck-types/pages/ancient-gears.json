@@ -1,5 +1,5 @@
 {
-    "deck-type": "Volcanics",
+    "deck-type": "Ancient Gears",
     "created-by": "MrHadouken",
     "modified-by": "MrHadouken",
     "modified-on": "January 23st, 2018",
@@ -96,7 +96,7 @@
                             { "name": "Windstorm of Etaqua", "amount": "1" },                                                        
                             { "name": "Pulse Mines", "amount": "2" },
                             { "name": "Mirror Wall", "amount": "2" }, 
-                            { "name": "Xing-Zen-Hu", "amount": "2" }
+                            { "name": "Xing Zen Hu", "amount": "2" }
                         ]
                     }       
                 },

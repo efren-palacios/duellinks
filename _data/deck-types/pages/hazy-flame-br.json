@@ -60,8 +60,8 @@
                             { "name": "Hazy Flame Cerbereus", "amount": "2" },
                             { "name": "Caninetaur", "amount": "1" },
                             { "name": "Flame Tiger", "amount": "1" },
-                            { "name": "Soul Exchange" },
-                            { "name": "Beast Rising" }
+                            { "name": "Soul Exchange", "amount": "2" },
+                            { "name": "Beast Rising", "amount": "2" }
                         ]
                     }            
                 },
