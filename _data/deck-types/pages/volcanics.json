@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Volcanics is an archetype which focuses on constant monster removal through the use of Blaze Accelerator and Tri-Blaze Accelerator. It uses Volcanic Rocket to search for these cards, Volcanic Shell as discard fodder and Royal Firestorm Guards in order to recycle the Volcanic Shells and out resource the opponent. It is played as a control based deck which slowly grinds out the opponent's monsters and attacks the opponent directly when the field is cleared, slowly chipping away at their life points."
+                    "paragraph": "Volcanics is an archetype which focuses on constant monster removal through the use of {Blaze Accelerator} and {Tri-Blaze Accelerator}. It uses {Volcanic Rocket} to search for these cards, {Volcanic Shell} as discard fodder and {Royal Firestorm Guards} in order to recycle the {Volcanic Shell]s and out resource the opponent. It is played as a control based deck which slowly grinds out the opponent's monsters and attacks the opponent directly when the field is cleared, slowly chipping away at their life points."
                 }   
             ]
         },
@@ -27,14 +27,14 @@
                 { 
                     "deck":
                     {
-                        "skill": "Duel, Stanby!",
+                        "skill": "Duel, Standby!",
                         "main":
                         [
                             { "name": "Volcanic Rocket", "amount": "3" },
                             { "name": "Volcanic Shell", "amount": "3" },
                             { "name": "Royal Firestorm Guards", "amount": "3" },
-                            { "name": "Goka Pyre of Malice", "amount": "1" },
-                            { "name": "Floodgate Trap Hole,", "amount": "3" },
+                            { "name": "Goka, the Pyre of Malice", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "3" },
                             { "name": "Hallowed Life Barrier", "amount": "2" },
                             { "name": "Curse of Anubis", "amount": "1" },
                             { "name": "Windstorm of Etaqua", "amount": "1" },
@@ -59,9 +59,9 @@
                     {
                         "main":
                         [
-                            { "name": "Volcanic Rocket", "amount": "1" },
-                            { "name": "Volcanic Shell", "amount": "1" },
-                            { "name": "Royal Firestorm Guards", "amount": "1" },
+                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Volcanic Shell", "amount": "3" },
+                            { "name": "Royal Firestorm Guards", "amount": "2" },
                             { "name": "Blaze Accelerator", "amount": "1" }
                         ]
                     }            
@@ -84,15 +84,16 @@
                     {
                         "main":
                         [
-                            { "name": "Goka Pyre of Malice", "amount": "1" },
+                            { "name": "Goka, the Pyre of Malice", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "1" },
                             { "name": "Curse of Anubis", "amount": "1" },
                             { "name": "Windstorm of Etaqua", "amount": "1" },
                             { "name": "Soul Transition", "amount": "1" },
                             { "name": "Wall of Disruption", "amount": "1" },
                             { "name": "Hallowed Life Barrier", "amount": "1" },
-                            { "name": "Brushfire Knight, Divine Wrath", "amount": "1" },                                                        
-                            { "name": " Ultimate Providence", "amount": "1" }
+                            { "name": "Brushfire Knight", "amount": "1" },
+                            { "name": "Divine Wrath", "amount": "1" },                                                         
+                            { "name": "Ultimate Providence", "amount": "1" }
                         ]
                     }       
                 },
