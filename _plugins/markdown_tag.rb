@@ -55,7 +55,7 @@ module Jekyll
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
 
-            for i in 0...customTagsIndex.size
+            for i in (0...customTagsIndex.size).to_a.reverse
                 startI = customTagsIndex[i]
                 tag = customTagsName[i]
 
@@ -123,7 +123,7 @@ galleryHtml += '</div>
     </a>
 </div>'
 
-                            content.gsub! '[' + tag + '](' + tagContent + ')', galleryHtml
+                            content.sub!('[' + tag + '](' + tagContent + ')', galleryHtml)
                         end
 
                         startContent = -1
