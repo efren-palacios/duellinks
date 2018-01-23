@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In Game Update & Upcoming Changes - December 22nd, 2018
+title: In Game Update & Upcoming Changes - January 22nd, 2018
 author: KingParrott
 image: /img/news/in-game-update-&-upcoming-changes-january-2018/thumbnail.png
 category: news
-date: 2017-01-22
+date: 2018-01-22
 pinned: false
 comments: false
 description: A break down of the new information Konami released in January 22nd.
