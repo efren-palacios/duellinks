@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/ishizu-ishtar/
 name: Ishizu Ishizu
 id: ishizu-ishtar
+hide: true
 ---
 
 # {{page.title}}

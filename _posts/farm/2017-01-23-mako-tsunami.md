@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/mako-tsunami/
 name: Mako Tsunami
 id: mako-tsunami
+hide: true
 ---
 
 # {{page.title}}

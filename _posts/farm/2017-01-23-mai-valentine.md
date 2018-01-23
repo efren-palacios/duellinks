@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/mai-valentine/
 name: Mai Valentine
 id: mai-valentine
+hide: true
 ---
 
 # {{page.title}}

@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/bandit-keith/
 name: Bandit Keith
 id: bandit-keith
+hide: true
 ---
 
 # {{page.title}}

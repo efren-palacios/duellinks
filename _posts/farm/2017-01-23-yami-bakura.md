@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/yami-bakura/
 name: Yami Bakura
 id: yami-bakura
+hide: true
 ---
 
 # {{page.title}}

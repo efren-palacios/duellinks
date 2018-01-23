@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/rex-raptor/
 name: Rex Raptor
 id: rex-raptor
+hide: true
 ---
 
 # {{page.title}}

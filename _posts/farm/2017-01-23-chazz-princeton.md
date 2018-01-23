@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/chazz-princeton/
 name: Chazz Princeton
 id: chazz-princeton
+hide: true
 ---
 
 # {{page.title}}

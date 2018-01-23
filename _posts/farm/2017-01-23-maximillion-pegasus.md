@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/maximillion-pegasus/
 name: Maximillion Pegasus
 id: maximillion-pegasus
+hide: true
 ---
 
 # {{page.title}}

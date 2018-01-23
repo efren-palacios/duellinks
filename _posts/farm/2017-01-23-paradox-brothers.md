@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/paradox-brothers/
 name: Paradox Brothers
 id: paradox-brothers
+hide: true
 ---
 
 # {{page.title}}

@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/tea-gardner/
 name: Tea Gardner
 id: tea-gardner
+hide: true
 ---
 
 # {{page.title}}

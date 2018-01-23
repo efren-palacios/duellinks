@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/joey-wheeler/
 name: Joey Wheeler
 id: joey-wheeler
+hide: true
 ---
 
 # {{page.title}}

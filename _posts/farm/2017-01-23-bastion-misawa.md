@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/bastion-misawa/
 name: Bastion Misawa
 id: bastion-misawa
+hide: true
 ---
 
 # {{page.title}}

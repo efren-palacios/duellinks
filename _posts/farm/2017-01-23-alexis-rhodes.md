@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/alexis-rhodes/
 name: Alexis Rhodes
 id: alexis-rhodes
+hide: true
 ---
 
 # {{page.title}}

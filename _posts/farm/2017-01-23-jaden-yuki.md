@@ -9,6 +9,7 @@ date: 2018-01-23
 permalink: /how-to-farm-all-characters/jaden-yuki/
 name: Jaden Yuki
 id: jaden-yuki
+hide: true
 ---
 
 # {{page.title}}
