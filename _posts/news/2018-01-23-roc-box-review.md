@@ -18,7 +18,7 @@ permalink: /guides/roc-box-review
 
 Full card list link [link](https:lol.com)
 
-## Quick Box review provided by [Top Player Council](https://duellinksmeta.netlify.com/top-player-council/)
+### Quick Box review provided by [Top Player Council](https://duellinksmeta.netlify.com/top-player-council/)
 
 - New Deck Types and the best cards for them: Deck types that we might see in the future
 - "Needed": Will be used in a current top tier deck
@@ -67,7 +67,7 @@ Full card list link [link](https:lol.com)
 | :------- | :---- |
 | [UnGatoPardo](https://duellinksmeta.netlify.com/authors/ungatopardo.html) | Phalanx spike could see use in standard Beatdown decks, potentially being able to be able to boost monsters by 1800 is very viable. |
 | [superforms](https://duellinksmeta.netlify.com/authors/superforms.html) | Void Trap Hole may be a popular side-deck card (against REZ and CA), and Phalanx Pike might be a REZ side-deck card for the mirror. Trial and Tribulation could be used in CA. |
-| [Kaito](https://duellinksmeta.netlify.com/authors/kaito.html) | Snipe Hunter is obviously supposed to push dark worlds and is a alternative or addition to trance archefiend. Red-Eyes Slash Dragon: On a similar powerlevel than dark paladin but it has more potential as you all now we have a lot of good red eyes support. Defense Draw: Decent stall card that might see play in one of the new stall decks that showed up recently. Has the big disadvantage that it cannot be chained to backrow removal. |
+| [Kaito](https://duellinksmeta.netlify.com/authors/kaito.html) | Red-Eyes Slash Dragon: On a similar powerlevel than dark paladin but it has more potential as you all now we have a lot of good red eyes support. Defense Draw: Decent stall card that might see play in one of the new stall decks that showed up recently. Has the big disadvantage that it cannot be chained to backrow removal. |
 | [Itsyoboyeden](https://duellinksmeta.netlify.com/authors/itsyoboyeden.html) | Void Trap Hole, Defense Draw, Skill Successor |
 | [Kazin_X](https://duellinksmeta.netlify.com/authors/kazinx.html) | Snipe Hunter - Fiend Decks or Control type decks (like NMCR control or Wallet Control), Phalanix Pike - Mirror Matches or new deck types, Skill successor , Defense Draw - any stall decks, can be interesting combination with GB under like a half shut or IA, Dawn Knight with combination of beginning of heaven. You will select dasher, BLS-SS, and Dawn Knight...dawn knight can flip the BLS-SS to the top, then dasher will summon it next turn you draw, Trial and Tribulation - Maybe for any ritual decks. CA still has some potential. And it can also be used in monarchs to generate some fuel. But its a win-more card in most cases, Photon Lead - quite a few good level 4s. Quick effect. Goes with sacred crane to draw cards. You can pull on Zanji for six sam. Sasuke/Golden Upstart for Ninja (not sure if there is space). Guardian of Felgrand and then summon another monster to use felgrand effect, Crashbug Road - not bad if your opponent doesn't have another level 4 to summon. Good in six sam |
 | [Nix](https://duellinksmeta.netlify.com/authors/nix.html) | Paladin of the Cursed Dragon in REZ |
