@@ -17,33 +17,36 @@ hide: true
 
 # Top Player Council - Season 1 (January - March 2018-)
 
-[Tutpup](https://duellinksmeta.netlify.com/authors/tutpup)
+* [Tutpup](https://duellinksmeta.netlify.com/authors/tutpup)
 2nd place Worlds
 
-DrBluePepper
+* DrBluePepper
 
-Eugen Heidt
+* Eugen Heidt 
+YCS champion, Yugioh TCG
 
-itsyoboyeden
+* itsyoboyeden
 
-Kaito
+* Kaito
 
-Kayoh
+* Kayoh
 
-Kazin_X
+* Kazin_X
 
-LuisGuada
+* LuisGuada
 
-Nix
+* Nix
 
-ShinySopheon
+* ShinySopheon
 
-ShootMyMantlet
+* ShootMyMantlet
+MCS Winner #2
 
-superforms
+* superforms
 
-timmychiew
+* timmychiew
+1st Place Worlds
 
-UnGatoPardo
+* UnGatoPardo
 
-Whybona
+* Whybona
