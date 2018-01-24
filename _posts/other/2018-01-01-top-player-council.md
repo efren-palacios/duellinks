@@ -3,50 +3,31 @@ layout: blog
 title: Top Player Council
 author: GiaJoestar
 image: /img/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
-category: guide
+category: other
 date: 2018-01-01
 comments: false
-description: 
-keywords: guide, in-depth guide
+description: These are the duel links meta top player council members. They are the core of everything that concerns the meta of yugioh duel links.
+keywords: top player counsil, top players, council, best player, best players
 permalink: /top-player-council/
 hide: true
 ---
 
 # {{page.title}}
-## by {{page.author}}
 
-# Top Player Council - Season 1 (January - March 2018-)
+### Current Members - Season 1 (January - March 2018)
 
-* [Tutpup](https://duellinksmeta.netlify.com/authors/tutpup)
-2nd place Worlds
-
+* [Tutpup](/authors/tutpup) - 2nd place Worlds
 * DrBluePepper
-
-* Eugen Heidt 
-YCS champion, Yugioh TCG
-
+* Eugen Heidt - YCS Champion, Yugioh TCG
 * itsyoboyeden
-
 * Kaito
-
-* Kayoh
-
-* Kazin_X
-
+* [Kayoh](/authors/kayoh)
+* [Kazin_X](/authors/kazin-x)
 * LuisGuada
-
 * Nix
-
 * ShinySopheon
-
-* ShootMyMantlet
-MCS Winner #2
-
-* superforms
-
-* timmychiew
-1st Place Worlds
-
+* ShootMyMantlet - 1st Place MCS #2
+* [superforms](/authors/superforms)
+* timmychiew - 1st Place Worlds
 * UnGatoPardo
-
 * Whybona

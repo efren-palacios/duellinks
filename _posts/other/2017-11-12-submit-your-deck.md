@@ -2,7 +2,6 @@
 layout: blog
 title: "SUBMIT YOUR DECK"
 category: other
-hide: true
 image: https://i.imgur.com/AJBBqGQ.png
 author: Creative
 date: 2017-11-12 18:05:00 +0200
@@ -10,6 +9,7 @@ comments: false
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: submit your deck, deck submission, showcase deck, upload deck, deck
 permalink: /submit-your-deck/
+hide: true
 ---
 
 <div class="section">
