@@ -34,18 +34,29 @@
         ]
     },
     {
+        "category": "HighPotential",
+        "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
+        "types":
+        [
+            { "id": "dark-magician",        "display": "Dark Magician",         "card": "Dark Magician" },
+            { "id": "dinos",                "display": "Dinos",                 "card": "Destroyersaurus" },
+            { "id": "stall-decks",     	    "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
+            { "id": "magnet-warriors",      "display": "Magnet Warriors",       "card": "Delta The Magnet Warrior" },
+            { "id": "mill-decks",           "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
+            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
+        ] 
+    },
+    {
         "category": "NotableKoGDecks",
         "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
         "types":
         [
-            { "id": "six-samurais",         "display": "Six Samurais",          "card": "Great Shogun Shien" },
-            { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
-            { "id": "dark-magician",        "display": "Dark Magician",         "card": "Dark Magician" },
             { "id": "genex",     		    "display": "Genex",     		    "card": "Genex Army" },
             { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "control-decks",        "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
-            { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
-            { "id": "control-decks",        "display": "Control Decks",         "card": "Sergeant Electro" }
+            { "id": "six-samurais",         "display": "Six Samurais",          "card": "Great Shogun Shien" },
+            { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" }
         ] 
     },
     {
@@ -67,14 +78,11 @@
         "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
         [    
-            { "id": "burn-decks",           "display": "Burn",                  "card": "Burning Land" },
-            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            
             { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
-            { "id": "dinos",                "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "horus-dragon",         "display": "Horus",                 "card": "Horus the Black Flame Dragon LV6" },
-            { "id": "mill-decks",           "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
             { "id": "ninja-control",        "display": "Ninja Control",         "card": "White Ninja" },
             { "id": "relinquished",         "display": "Relinquished",          "card": "Relinquished" },
             { "id": "bls-the-creator",      "display": "BLS / The Creator",     "card": "Black Luster Soldier - Sacred Soldier" },
@@ -85,7 +93,6 @@
             { "id": "ojamas",               "display": "Ojamas",                "card": "Ojama King" },
             { "id": "toon-barrel-dragon",   "display": "Toon Barrel Dragon",    "card": "Toon Barrel Dragon" },
             { "id": "treeborn-tributes",    "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
-            { "id": "magnet-warriors",      "display": "Magnet Warriors",       "card": "Delta The Magnet Warrior" },
             { "id": "venus",                "display": "Venus",                 "card": "The Agent of Creation - Venus" },
             { "id": "hammer-shark",         "display": "Hammer Shark",          "card": "Hammer Shark" },
             { "id": "psychics",             "display": "Psychics",              "card": "Serene Psychic Witch" },
@@ -96,7 +103,8 @@
             { "id": "other",     	        "display": "Other",                 "card": "Question" },
             { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
             { "id": "wetlands",     	    "display": "Wetlands",              "card": "Wetlands" },
-            { "id": "stall-decks",     	    "display": "Stall Decks",           "card": "Floodgate Trap Hole" }
+            { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
+            { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" }
         ]
     },
     {
