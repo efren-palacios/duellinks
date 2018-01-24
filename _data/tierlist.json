@@ -104,7 +104,8 @@
             { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
             { "id": "wetlands",     	    "display": "Wetlands",              "card": "Wetlands" },
             { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
-            { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" }
+            { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
+            { "id": "papa-corn",            "display": "Papa-Corn",             "card": "Papa-Corn" }
         ]
     },
     {
