@@ -94,6 +94,7 @@ ul
 {
   color: $text-muted;
   text-align: justify;
+  letter-spacing: 0.1px;
 }
 
 p img
@@ -436,44 +437,30 @@ button:focus
   }
 }
 
+h1 { font-size: 46px; letter-spacing: 0.7px; }
+h2 { font-size: 37px; letter-spacing: 0.5px; }
+h3 { font-size: 30px; letter-spacing: 0.3px; }
+h4 { font-size: 26px; }
+h5 { font-size: 22px; }
+h6 { font-size: 18px; }
+
+h1, h2, h3, h4, h5, h6
+{
+  margin-bottom: 0px;
+}
+
+strong
+{
+  letter-spacing: 0.5px;
+  font-family: "Alegreya-Medium" !important;
+}
+
 // MARKDOWN STUFF
 .markdown
 {
-  h1
-  {
-    font-size: 35pt;
-    letter-spacing: 0.7px;
-    margin-bottom: -7px;
-  }
-
-  h2
-  {
-    font-size: 26pt;
-    letter-spacing: 0.7px; 
-    margin-bottom: 15px;  
-  }
-
-  h3
-  {
-    font-size: 22pt;
-    margin-top: 30px;
-  }
-
-  h4
-  {
-    margin-top: 10px;
-  }
-
-  strong
-  {
-    letter-spacing: 0.5px;
-    font-family: "Alegreya-Medium" !important;
-  }
-
-  p
-  {
-    letter-spacing: 0.1px;
-  }
+  h1 { margin-bottom: -5px; }
+  h3 { margin-top: 25px; }
+  h6 { margin-top: 2px; }
 
   .deck-container
   {
