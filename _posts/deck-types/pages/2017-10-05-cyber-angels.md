@@ -15,3 +15,5 @@ permalink: /tier-list/cyber-angels/
 {% include guides/guide.html guide=guide %}
 
 {% include decktype_decks.html deckType=page.deck-type %}
+
+{% include top-decks-season-archive.html %}

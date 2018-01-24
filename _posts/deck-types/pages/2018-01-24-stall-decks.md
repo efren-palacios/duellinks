@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Toons
+title: Stall Decks
 category: deck-type-page
-author: unpreceden7ed
+author: Creative
+date: 2018-01-24
 comments: false
-date: 2017-09-30
-description: In depth information about Toon decks.
-deck-type: toons
-permalink: /tier-list/toons/
+description: In depth information about Stall decks.
+deck-type: stall-decks
+permalink: /tier-list/stall-decks/
 ---
 
 {% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}

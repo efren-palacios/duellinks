@@ -10,10 +10,10 @@ deck-type: lightsworn
 permalink: /tier-list/lightsworn/
 ---
 
-<div class="section">
-    <h2>{{page.title | uppercase}}</h2>
-    <p>HERE COMES INFO ABOUT LIGHTSWORN DECKTYPE</p>
-    <p>how to play, strong points, weak points, key cards, replacements, combos, matchups, why in current tier?, ...</p>
-</div>
+{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+
+{% include guides/guide.html guide=guide %}
 
 {% include decktype_decks.html deckType=page.deck-type %}
+
+{% include top-decks-season-archive.html %}
