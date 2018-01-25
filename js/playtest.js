@@ -347,6 +347,11 @@ function shuffleDeck(a) {
 }
 
 function snappedEvent(cardDOM, extra, event) {
+  // Shift the hand, if necessary
+  let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
+  hand[cardIdInHand].moved = true;
+  refreshHand();
+
   // Get the center point of the dragged card
   var cardCenter = getCenterPoint(cardDOM);
 
