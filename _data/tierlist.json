@@ -106,7 +106,8 @@
             { "id": "harpies",              "display": "Harpies",               "card": "Cyber Harpie Lady" },
             { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
             { "id": "papa-corn",            "display": "Papa-Corn",             "card": "Papa-Corn" },
-            { "id": "naturias",             "display": "Naturias",              "card": "Naturia Marron" }
+            { "id": "naturias",             "display": "Naturias",              "card": "Naturia Marron" },
+			{ "id": "slash-dragon",         "display": "Red-Eyes Slash Dragon", "card":"Red-Eyes Slash Dragon" }
         ]
     },
     {
