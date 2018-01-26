@@ -14,7 +14,7 @@
     left: 0;    
     bottom: 0;  
     opacity: 0.5;
-    background-position: top 0px right 0px;
+    background-position: 100%;
 }
 
 .discord-ad-sub-banner {
@@ -46,7 +46,7 @@
 
 .discord-ad-text-title {
     font-family: 'Rock Salt';
-    margin-top: 32px; 
+    margin-top: 20px; 
 }
 
 a.discord-ad-sub-banner:hover {
@@ -54,7 +54,7 @@ a.discord-ad-sub-banner:hover {
 }
 
 // Phone (Vertical)
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 575px) {
     .discord-ad-sub-banner-right {
         display: none;
     }     
@@ -75,18 +75,17 @@ a.discord-ad-sub-banner:hover {
         width: 40%;
     }
     .discord-ad-background-left {
-        background-position: top;
+        background-position: 100%;
+        opacity: 0.3;
     }
 }
 
 // Laptop
 @media screen and (min-width: 768px) and (max-width: 992px) {   
-    .discord-ad-background-left {
-        background-position: top;
+    .discord-ad-text-title {
+        margin-top: 30px; 
     }
-}
-
-// Desktop 
-@media screen and (min-width: 992px) and (max-width: 1200px) {
-    
+    .discord-ad-background-left {
+        background-position: top 0px right 0px;
+    }
 }
