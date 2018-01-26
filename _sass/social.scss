@@ -67,7 +67,7 @@ a.discord-ad-sub-banner:hover {
 }
 
 // Tablet
-@media screen and (min-width: 576px) and (max-width: 768px) {
+@media screen and (min-width: 576px) and (max-width: 767px) {
     .discord-ad-sub-banner-right {
         display: none;
     }    
@@ -77,6 +77,9 @@ a.discord-ad-sub-banner:hover {
     .discord-ad-background-left {
         background-position: 100%;
         opacity: 0.3;
+    }
+    .discord-ad-text-title {
+        margin-top: 10px; 
     }
 }
 
