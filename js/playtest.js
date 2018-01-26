@@ -347,31 +347,38 @@ function shuffleDeck(a) {
 }
 
 function snappedEvent(cardDOM, extra, event) {
-  var draggable = cardDOM.data("ui-draggable");
-  $.each(draggable.snapElements, function(index, element) {
-    if (element.snapping) {
-      var snapped = draggable.snapElements;
+  // Shift the hand, if necessary
+  let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
+  hand[cardIdInHand].moved = true;
+  refreshHand();
 
-      var snappedTo = $.map(snapped, function(element) {
-        return element.snapping ? element.item : null;
-      });
+  // Get the center point of the dragged card
+  var cardCenter = getCenterPoint(cardDOM);
 
-      let snapToId = (extra == true) ? 'playerextradeck' : 'playerdeck';
-
-      let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
-      hand[cardIdInHand].moved = true;
-
-      refreshHand();
-
-      $.each(snappedTo, function(idx, item) {
-        if ($(item).children().first().attr('id') == snapToId) {
-          event(cardDOM, extra);
-        }
-      });
-
+  // Get the player deck card slot element 
+  var cardSlotElements = $(".testcard-slot");
+  var playerDeckElem;
+  $.each(cardSlotElements, function(index, element) {
+    if($(element).children().first().attr('id') == "playerdeck") {
+      playerDeckElem = element;
       return false;
-    }
-  });
+    }      
+  });  
+
+  // Determine if the card's center point is within the player deck area 
+  // (with a 10px buffer for margins)
+  var playerdeckCenter = getCenterPoint($(playerDeckElem));
+  var playerdeckLowerHeight = playerdeckCenter.y - ($(playerDeckElem).height()/2) - 10;
+  var playerdeckUpperHeight = playerdeckCenter.y + ($(playerDeckElem).height()/2) + 10;
+  var playerdeckLowerWidth = playerdeckCenter.x - ($(playerDeckElem).width()/2) - 10;
+  var playerdeckUpperWidth = playerdeckCenter.x + ($(playerDeckElem).width()/2) + 10;
+  var centerInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
+  var centerInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
+
+  // Add the card to the player deck, if needed
+  if(centerInHeight && centerInWidth) {
+    event(cardDOM, extra);    
+  } 
 }
 
 function snappedToDeck(cardDOM, extra){
@@ -390,6 +397,23 @@ function snappedToDeck(cardDOM, extra){
 
   return false;
 }
+
+function getCenterPoint(div) {
+  var offset = div.offset();
+  var height = div.height();
+  var width = div.width();
+  
+  var x = 0;
+  var y = 0;
+  
+  x = offset.left + (width / 2);
+  y = offset.top + (height / 2);
+
+  var center = {};
+  center.x = x;
+  center.y = y;
+  return center;  
+}  
 
 function refreshHand(){
   for(i in hand){

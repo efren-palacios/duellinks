@@ -304,10 +304,10 @@ function GetPercentage(amount, total)
 
 function ScrollTo(element)
 {
-    if($(window).outerWidth() <= 767)
+    if(ShouldScroll())
     {
         var page = $(".page-wrapper");
-        var scrollPosition = page.scrollTop() + $(element).offset().top;
+        var scrollPosition = page.scrollTop() + $(element).offset().top - 70;
 
         page.on("mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function()
         {
@@ -319,6 +319,14 @@ function ScrollTo(element)
             page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
         });
     }
+}
+
+function ShouldScroll()
+{
+    var windowWidth = $(window).outerWidth();
+    var amountOfTypes = TopDecksViewModel.deckTypes().length;
+
+    return windowWidth <= 767 || (windowWidth > 767 && windowWidth <= 991 && amountOfTypes > 12) || (windowWidth > 991 && amountOfTypes > 16);
 }
 
 function BindTopDecksPageEvents()

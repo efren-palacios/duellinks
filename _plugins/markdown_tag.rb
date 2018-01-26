@@ -18,6 +18,7 @@ module Jekyll
             markedText = Array.new
             customTagsIndex = Array.new
             customTagsName = Array.new
+			customTagData = Array.new
             decks = Array.new
 
             lastTagOpen = -1
@@ -43,8 +44,26 @@ module Jekyll
                         if(currChar == "}")
                             markedText.push(tagContent)
                         elsif(currChar == "]")
-                            customTagsIndex.push(i + 1)
+                            customTagsIndex.push(i)
                             customTagsName.push(tagContent)
+							
+							startContent = -1
+							addedData = false
+							for j in i...content.length
+								currLocalChar = content[j].chr
+								if(currLocalChar == "(")
+									startContent = j
+								elsif(currLocalChar == ")" && startContent > 0)
+									tagData = content[startContent + 1, j - startContent - 1]
+									customTagData.push(tagData)
+									addedData = true
+									break
+								end
+							end
+							
+							if addedData == false
+								customTagData.push("")
+							end
                         end
                     end
 
@@ -55,81 +74,69 @@ module Jekyll
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
 
+			galleryCount = 0
             for i in (0...customTagsIndex.size).to_a.reverse
                 startI = customTagsIndex[i]
                 tag = customTagsName[i]
+				tagData = customTagData[i]
 
-                startContent = -1
-                for j in startI...content.length
-                    currChar = content[j].chr
-                    if(currChar == "(")
-                        startContent = j
-                    elsif(currChar == ")" && startContent > 0)
-                        tagContent = content[startContent + 1, j - startContent - 1]
+                if(tag.include? "gallery")		
+					imageLinks = tagData.split(',')
 
-                        if(tag.include? "gallery")
-                            imageLinks = tagContent.split(',')
+					carouselSize = ""
+					if(tag.include? "1/3")
+						carouselSize = "carousel-size-1-3"
+					elsif(tag.include? "2/3")
+						carouselSize = "carousel-size-2-3"
+					else
+						carouselSize = "carousel-size-3-3"
+					end
 
-                            carouselSize = ""
-                            if(tag.include? "1/3")
-                                carouselSize = "carousel-size-1-3"
-                            elsif(tag.include? "2/3")
-                                carouselSize = "carousel-size-2-3"
-                            else
-                                carouselSize = "carousel-size-3-3"
-                            end
-
-                            carouselImageHeight = ""
-                            if(tag.include? "h3")
-                                carouselImageHeight = "carousel-image-size-h3"
-                            elsif(tag.include? "h2")
-                                carouselImageHeight = "carousel-image-size-h2"
-                            else
-                                carouselImageHeight = "carousel-image-size-h1"
-                            end
-
+					carouselImageHeight = ""
+					if(tag.include? "h3")
+						carouselImageHeight = "carousel-image-size-h3"
+					elsif(tag.include? "h2")
+						carouselImageHeight = "carousel-image-size-h2"
+					else
+						carouselImageHeight = "carousel-image-size-h1"
+					end
 
 galleryHtml = '
-<div id="imageGallery" class="carousel slide ' + carouselSize + '" data-ride="carousel">
-    <ol class="carousel-indicators">
-    '
-
+<div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
+	<ol class="carousel-indicators">
+	'
 
 for k in 0...imageLinks.length
-    galleryHtml += '    <li data-target="#imageGallery" data-slide-to="' + k.to_s + '"></li>
-    ';
+	galleryHtml += '    <li data-target="#imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
+	';
 end
 
 galleryHtml += '</ol>
-    <div class="carousel-inner">
-    '
+	<div class="carousel-inner">
+	'
 
 galleryHtml += '    <div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0] + '" alt=""></div>
-    ';
+	';
 
 for k in 1...imageLinks.length
-    galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k] + '" alt=""></div>
-    ';
+	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k] + '" alt=""></div>
+	';
 end
 
 galleryHtml += '</div>
-    <a class="carousel-control-prev" href="#imageGallery" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#imageGallery" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
+	<a class="carousel-control-prev" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
 </div>'
 
-                            content.sub!('[' + tag + '](' + tagContent + ')', galleryHtml)
-                        end
-
-                        startContent = -1
-                        break
-                    end
-                end
+					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
+					galleryCount = galleryCount + 1
+				end
             end
 
             for i in 0...markedText.size
