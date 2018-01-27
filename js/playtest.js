@@ -1,5 +1,11 @@
 $('#play').click(function() {
-  $('#playtest').show()
+  $('#playtest').show({
+    complete: function() {
+      // Note: Some skills require card position movement, thus
+      // they need access to coordinates after the page has rendered     
+      handleSkill(Phase.STANDBY);
+    }
+  });
 })
 
 $(function() {
@@ -117,6 +123,7 @@ function importDeck(deck) {
   shuffleDeck(decklist)
   $('#hand').empty();
   handleSkill(Phase.DRAW); 
+  handleSkill(Phase.STANDBY); 
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(deck)
   }
@@ -131,7 +138,7 @@ $(function() {
   refreshDeck(currentDeck);
   shuffleDeck(decklist);
   $('#hand').empty();
-  handleSkill(Phase.DRAW);  
+  handleSkill(Phase.DRAW); 
 })
 
 /*
@@ -160,15 +167,60 @@ function handleSkill(phase) {
           }
 
           break;
+        case "Duel, standby!":
+          for (var i = 0; i < 5; i++) {
+            dealHand(randomCard());
+          }   
+          
+          break;
         default: 
           for (var i = 0; i < 4; i++) {
             dealHand(randomCard());
           }
       }
       break;
+    case Phase.STANDBY:
+      switch(playtest.skill) {
+        case "Straight to the Grave":  
+          // Note: The id is high to accommodate the number of cards in a deck
+          // It must be a number for the 'snappedEvent' function   
+          addCardToField("99", "Wasteland", 0);          
+          break;
+      }
+      break;
     default:
-      console.error("The following phase has not been defined: " + phase)
-  }
+      console.error("The following phase has not been defined: " + phase) 
+  }  
+}
+
+function addCardToField(id, cardName, position) {
+  // Create the div and temporarily add it to the hand slot
+  $('#hand').append(`<div id="cardId${id}" class="testcard-slot-row"><div class="hand cardMain${id}"><img id="${id}" src="https://yugiohprices.com/api/card_image/${cardName}" /></div>`)
+
+  // Make the card draggable
+  let nameDom = ('.cardMain' + id);
+  $(nameDom).css('border', 'none');
+  $(nameDom).draggable({
+    snap: '.testcard-slot',
+    snapMode: 'inner',
+    snapTolerance: '22',
+    stack: '.hand',
+    stop: function() {
+      snappedEvent($(this), false, snappedToDeck);
+    },
+    create: function() {
+      addHand(cardName, id); 
+
+      // Update the location of the card, as needed
+      var cardslotPosition = $($('.testcard-slot')[position]).offset();
+      $(nameDom).offset(cardslotPosition);
+      
+      // Manually update the hand, as the offset isn't equal to dragging
+      let cardIdInHand = getCardPositionInArray(hand, Number(id));
+      hand[cardIdInHand].moved = true;
+      refreshHand();  
+    }
+  }); 
 }
 
 $(document).on("click", ".hand img", function() {
@@ -208,6 +260,7 @@ $('#new').click(function() {
   $('.tokencopy').remove();
   $('#hand').empty();
   handleSkill(Phase.DRAW);
+  handleSkill(Phase.STANDBY); 
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(currentDeck)
   }
