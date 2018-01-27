@@ -70,7 +70,7 @@
     "character": "Mai Valentine"
   },
   {
-    "name": "Harpie's Last Will",
+    "name": "Harpies' Last Will",
     "description": "6 'Harpie' cards in your Graveyard are banished, and 1 'Harpie's Feather Duster' card is added to your hand from outside your Deck.",
     "how": "Drop",
     "exclusive": true,
@@ -84,7 +84,7 @@
     "character": "Mai Valentine"
   },
   {
-    "name": "Harpie's Hunting Ground",
+    "name": "Harpies' Hunting Ground",
     "description": "Begin the Duel with the Field Spell Harpies' Hunting Ground on the top of your deck.",
     "how": "Drop",
     "exclusive": true,
