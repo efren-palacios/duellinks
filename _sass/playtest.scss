@@ -63,6 +63,19 @@
     text-align: center;
     input {
         margin: 1rem 0;
+        margin-right: 10px;       
+    } 
+
+    input:last-child {
+        margin-right: 0px;
+    }
+
+    #export {
+      margin-right: 0px;  
+    }
+
+    .btn-outline-primary:focus {
+      box-shadow: none;
     }
   }
 
@@ -123,7 +136,7 @@
           cursor: pointer;
           z-index: 99;
         }
-      }
+      }     
     }
   }
   
