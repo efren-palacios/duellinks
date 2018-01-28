@@ -3,7 +3,7 @@ layout: blog
 title: Gladiator Beasts Guide
 author: Raytee
 category: deck-type-guide
-deck-type: gladiators
+deck-type: gladiator-beasts
 image: /img/guides/gladiator-beasts-guide-by-raytee/thumbnail.png
 date: 2017-11-22
 comments: false
@@ -27,7 +27,7 @@ I used the deck in the 2nd Stage as well, and it brought me to Rank 8 in Europe 
 
 #### Optimized Gladiator Beast Deck
 
-{% include deck-link.html deck="2017/11/gladiators/raytee" %}
+{% include deck-link.html deck="2017/11/gladiator-beasts/raytee" %}
 
 ### Staple Cards
 

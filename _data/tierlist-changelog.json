@@ -2,7 +2,7 @@
     "game-changes":
     {
         "date": 2018-01-09,
-        "description": "Disclaimer: Any konami changes, banlist, box releses go here."
+        "description": "Disclaimer: Any konami changes, banlist, box releases go here."
     },
     "tier-changes": 
     [
@@ -22,12 +22,12 @@
         { "type": "dinos-control", "from": "nothing", "to": 3, "date": 2017-12-10 },
         { "type": "hazy-flame", "from": 3, "to": 2, "date": 2017-12-10 },
         { "type": "burn-decks", "from": 3, "to": 2, "date": 2017-12-10 },
-        { "type": "gladiators", "from": 3, "to": 2, "date": 2017-11-23 },
+        { "type": "gladiator-beasts", "from": 3, "to": 2, "date": 2017-11-23 },
         { "type": "ninjas", "from": 2, "to": 1, "date": 2017-11-21 },
         { "type": "red-eyes-zombies", "from": 1, "to": 2, "date": 2017-11-14 },
         { "type": "ancient-gears", "from": "nothing", "to": 3, "date": 2017-11-14 },
         { "type": "burn-decks", "from": 2, "to": 3, "date": 2017-11-14 },
-        { "type": "gladiators", "from": 2, "to": 3, "date": 2017-11-14 },
+        { "type": "gladiator-beasts", "from": 2, "to": 3, "date": 2017-11-14 },
         { "type": "hazy-flame", "from": 2, "to": 3, "date": 2017-11-14 },
         { "type": "control-decks", "from": 2, "to": 4, "date": 2017-11-14 },
         { "type": "dinos", "from": 2, "to": 4, "date": 2017-11-14 },
