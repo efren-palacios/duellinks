@@ -16,7 +16,7 @@
         "types":
         [            
             { "id": "gladiators",           "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
-            { "id": "hazy-flame-br",        "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
+            { "id": "hazy-flame",        "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
         ]
     },
     {
@@ -99,7 +99,7 @@
             { "id": "ice-barrier",          "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
             { "id": "desert-twister",       "display": "Desert Twister",        "card": "Desert Twister" },
 			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
-            { "id": "elemental-hero",     	"display": "Elemental Hero",        "card": "Elemental HERO Neos" },
+            { "id": "elemental-heroes",     "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
             { "id": "other",     	        "display": "Other",                 "card": "Question" },
             { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
             { "id": "wetlands",     	    "display": "Wetlands",              "card": "Wetlands" },
@@ -107,8 +107,8 @@
             { "id": "zombies-gemini",       "display": "Zombies Gemini",        "card": "Goblin Zombie" },
             { "id": "papa-corn",            "display": "Papa-Corn",             "card": "Papa-Corn" },
             { "id": "naturias",             "display": "Naturias",              "card": "Naturia Marron" },
-			{ "id": "slash-dragon",         "display": "Red-Eyes Slash Dragon", "card":"Red-Eyes Slash Dragon" },
-			{ "id": "bujin",         		"display": "Bujin", 				"card":"Bujin Yamato" }
+			{ "id": "slash-dragon",         "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon" },
+			{ "id": "bujins",         		"display": "Bujins", 				"card": "Bujin Yamato" }
         ]
     },
     {
