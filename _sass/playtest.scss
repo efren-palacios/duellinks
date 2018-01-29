@@ -28,13 +28,13 @@
   margin: 1rem;
 }
 
-#playerdeck, #deckmenu img {
-    cursor: pointer;
-  }
+#playerdeck {
+  cursor: pointer;
+}
 
-  #playerextradeck img {
-    cursor: pointer;
-  }
+#playerextradeck {
+  cursor: pointer;
+}
   
   #hand {
    flex-wrap: wrap;

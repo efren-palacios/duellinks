@@ -420,14 +420,20 @@ function snappedEvent(cardDOM, extra, event) {
   // Get the center point of the dragged card
   var cardCenter = getCenterPoint(cardDOM);
 
-  // Get the player deck card slot element 
+  // Get the player and extra deck card slot elements 
   var cardSlotElements = $(".testcard-slot");
   var playerDeckElem;
+  var extraDeckElem;
   $.each(cardSlotElements, function(index, element) {
     if($(element).children().first().attr('id') == "playerdeck") {
       playerDeckElem = element;
-      return false;
     }      
+    if($(element).children().first().attr('id') == "playerextradeck") {
+      extraDeckElem = element;
+    }
+    if(playerDeckElem && extraDeckElem) {
+      return false;
+    }
   });  
 
   // Determine if the card's center point is within the player deck area 
@@ -437,13 +443,28 @@ function snappedEvent(cardDOM, extra, event) {
   var playerdeckUpperHeight = playerdeckCenter.y + ($(playerDeckElem).height()/2) + 10;
   var playerdeckLowerWidth = playerdeckCenter.x - ($(playerDeckElem).width()/2) - 10;
   var playerdeckUpperWidth = playerdeckCenter.x + ($(playerDeckElem).width()/2) + 10;
-  var centerInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
-  var centerInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
+  var playerdeckCenterInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
+  var playerdeckCenterInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
+
+  // Determine if the card's center point is within the extra deck area 
+  // (with a 10px buffer for margins)
+  var extradeckCenter = getCenterPoint($(extraDeckElem));
+  var extradeckLowerHeight = extradeckCenter.y - ($(extraDeckElem).height()/2) - 10;
+  var extradeckUpperHeight = extradeckCenter.y + ($(extraDeckElem).height()/2) + 10;
+  var extradeckLowerWidth = extradeckCenter.x - ($(extraDeckElem).width()/2) - 10;
+  var extradeckUpperWidth = extradeckCenter.x + ($(extraDeckElem).width()/2) + 10;
+  var extradeckCenterInHeight = (extradeckLowerHeight <= cardCenter.y) && (cardCenter.y <= extradeckUpperHeight);
+  var extradeckCenterInWidth = (extradeckLowerWidth <= cardCenter.x) && (cardCenter.x <= extradeckUpperWidth);
 
   // Add the card to the player deck, if needed
-  if(centerInHeight && centerInWidth) {
+  if((playerdeckCenterInHeight && playerdeckCenterInWidth) && !extra ) {
     event(cardDOM, extra);    
   } 
+
+  // Add the card to the extra deck, if needed
+  if((extradeckCenterInHeight && extradeckCenterInWidth) && extra) {
+    event(cardDOM, extra);
+  }
 }
 
 function snappedToDeck(cardDOM, extra){
