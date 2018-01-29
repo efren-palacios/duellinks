@@ -113,6 +113,12 @@ $(function()
             $(this).qtip('destroy')
         });
 
+        $(".markdown-item a").each(function()
+        {
+            $(this).attr("href",$(this).find("img").attr("src")).addClass("fancybox");
+            $(this).qtip('destroy')
+        });
+
         $(".card-hover").each(function()
         {
             var imgSrc = $(this).attr('src')
@@ -130,6 +136,12 @@ $(window).on("resize", function()
     if (is_mobile == true)
     {
         $(".item a").each(function(index)
+        {
+        $(this).attr("href",$(this).find("img").attr("src")).addClass("fancybox").qtip('destroy');
+        $(this).qtip('destroy');
+        });
+
+        $(".markdown-item a").each(function(index)
         {
         $(this).attr("href",$(this).find("img").attr("src")).addClass("fancybox").qtip('destroy');
         $(this).qtip('destroy');
