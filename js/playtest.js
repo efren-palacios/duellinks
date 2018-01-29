@@ -154,6 +154,11 @@ Phase.DRAW = "Draw Phase"
 Phase.STANDBY = "Standby Phase"
 Phase.MAIN = "Main Phase"
 
+// Note: The id is high to accommodate the number of cards in a deck
+// It must be a number for the 'snappedEvent' function  
+let Skill = {}
+Skill.DEFAULT_ID = "99"
+
 function handleSkill(phase) {
   switch(phase) {
     case Phase.DRAW: 
@@ -182,10 +187,17 @@ function handleSkill(phase) {
     case Phase.STANDBY:
       switch(playtest.skill) {
         case "Straight to the Grave":  
-          // Note: The id is high to accommodate the number of cards in a deck
-          // It must be a number for the 'snappedEvent' function   
-          addCardToField("99", "Wasteland", 0);          
+          addCardToField(Skill.DEFAULT_ID, "Wasteland", 0);          
           break;
+        case "Middle Age Mechs":
+          addCardToField(Skill.DEFAULT_ID, "Ancient Gear Castle", 7);          
+          break;
+        case "Dinosaur Kingdom":
+          addCardToField(Skill.DEFAULT_ID, "Jurassic World", 0);          
+          break;  
+        case "Fields of the Warriors":
+          addCardToField(Skill.DEFAULT_ID, "Sogen", 0);          
+          break;  
       }
       break;
     default:
