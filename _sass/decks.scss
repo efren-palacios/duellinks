@@ -230,12 +230,6 @@
   #deck {
     width: 362px; 
   }
-
-  .markdown-item{
-    margin: 0.25rem;
-    width: 52px;
-    height: 76px;
-  }
 }
 
 // Phone (Vertical)
@@ -245,9 +239,22 @@
   }
 }
 
+// Landscape
 @media only screen and (min-aspect-ratio: 13/9) {
   .card-deck-markdown{
     width: 51%;
     margin: auto;
+  }
+}
+
+// Portrait
+@media only screen and (max-aspect-ratio: 13/9) {
+  .markdown-item{
+    margin: 0.25rem;
+
+    img.dcards{
+      width: 52px;
+      height: 76px;
+    }
   }
 }
