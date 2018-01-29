@@ -20,9 +20,9 @@ permalink: /news/meta-championship-series-5-report/
 
 ### Top 8 Players / Decklists - Prize Support: $4,188
 
-#### January 27th 1pm EST / 6pm GMT . 7 Rounds Day 1. Top 32 move on to Day 2. 
+##### January 27th 1pm EST / 6pm GMT . 7 Rounds Day 1. Top 32 move on to Day 2. 
 
-#### Format: 364 players. SWISS. 1 deck, with 5 card Side-Deck.
+##### Format: 364 players. SWISS. 1 deck, with 5 card Side-Deck.
 
 
 |Rank|Participant Name|Match History
@@ -35,6 +35,8 @@ permalink: /news/meta-championship-series-5-report/
 |6|SDotAkuma | W W W W W L L L L L|
 |7|2much420 | W W W W L L L L L L |
 |8|DennisEG | W W W W W L L L L L |
+
+---------- 
 
 ## TOP 8 BREAKDOWN
 
@@ -192,9 +194,10 @@ Main Deck| Side Deck
 
 ----------
 
-## Featured Deck's
+## Featured Decks
 
 ### Top 32nd Place - ClashBruh
+
 Main Deck| Side Deck
 |:----------:|:----------:|
 |![Content Only](https://i.imgur.com/Qtqnwlj.jpg)|![Content Only](https://i.imgur.com/moLzld4.jpg)
@@ -202,6 +205,7 @@ Main Deck| Side Deck
 ----------
 
 ## Top 32nd Place - Jayrabian
+
 Main Deck| Side Deck
 |:----------:|:----------:|
 |![Content Only](https://i.imgur.com/CrSoHxQ.png)|![Content Only](https://i.imgur.com/MVjUJc3.png)
@@ -209,6 +213,7 @@ Main Deck| Side Deck
 ----------
 
 ## Top 32nd Place - 3K All Day
+
 Main Deck| Side Deck
 |:----------:|:----------:|
 |![Content only](https://i.imgur.com/Lx6Nyds.png)|![Content Only](https://i.imgur.com/OyF0PD4.png)
