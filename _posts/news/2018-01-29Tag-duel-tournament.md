@@ -4,7 +4,7 @@ title: Tag Duel Tournament
 author: Perune
 image: /img/logos/tagduel.jpg
 category: news
-date: 2018-1-29
+date: 2018-01-29
 pinned: false
 comments: true
 description: New tag Duel tournament is live.
