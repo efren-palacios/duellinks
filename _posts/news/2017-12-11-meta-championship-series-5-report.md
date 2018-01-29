@@ -13,7 +13,7 @@ permalink: /news/meta-championship-series-5-report/
 ---
 
 # {{page.title}}
-## by {{page.author}}
+## by {{page.author}}   
 
 
 ![content Only](https://media.discordapp.net/attachments/387867603869237248/397562085036392460/Teaser_V.png?width=400&height=225)
