@@ -77,8 +77,8 @@
 
   img.dcards
   {
-    width: 52px;
-    height: 76px;
+    width: 70px;
+    height: 102px;
     display: inline-block;
     border: 1px solid rgba(255, 255, 255, 0.4);
     cursor: pointer;
@@ -233,6 +233,8 @@
 
   .markdown-item{
     margin: 0.25rem;
+    width: 52px;
+    height: 76px;
   }
 }
 
