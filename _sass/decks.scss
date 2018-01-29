@@ -69,6 +69,31 @@
   width: 100%;
 }
 
+.markdown-item
+{
+
+  box-sizing: border-box;
+  margin: 0.35rem;
+
+  img.dcards
+  {
+    width: 52px;
+    height: 76px;
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+  }
+
+  p
+  {
+    display: flex;
+    align-content: center;
+    border: 1px solid blue;
+    height: 100%;
+    width: 56px;
+  }
+}
+
 .item
 {
 

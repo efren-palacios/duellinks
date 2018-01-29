@@ -145,7 +145,7 @@ module Jekyll
                             <div id="cards">'
 
                     for card in cardNames
-                        deckContainer += '<div class="item">
+                        deckContainer += '<div class="markdown-item">
                             <a><img class="dcards" alt="" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '"></a>
                         </div>'
                     end
