@@ -80,7 +80,7 @@ module Jekyll
                 tag = customTagsName[i]
 				tagData = customTagData[i]
 
-                if(tag.include? "gallery")		
+                if(tag.include? "gallery")	
 					imageLinks = tagData.split(',')
 
 					carouselSize = ""

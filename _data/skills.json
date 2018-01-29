@@ -36,6 +36,10 @@
     "description": "If your Life Points drop below 1000, your coin tosses always land on heads."
   },
   {
+    "name": "Fields of the Warriors",
+    "description": "Begin Duel with the Field Spell 'Sogen' activated."
+  },
+  {
     "name": "Aroma Strategy",
     "description": "You can see the card at the top of your deck even before drawing it."
   },
