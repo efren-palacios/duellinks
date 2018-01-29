@@ -58,7 +58,7 @@ How To Play: Ideal starting hand: Sanctuary or spirit barrier +lvl 4 cloudian tu
 #### Unhappy Girl Ra Balance Zane Farm By: Pelat
 How To Play: UG + Barrier, attack his monster, FTH his Daedalus, gain LP with Ladybug, summon Ra last turn (it will be over 13000 minimun if you played correctly).  Always remember to not clock up your monster zone due to the fact that rai-mei could search both UG and Ladybug (usually summon the third UG once you have 3 ladybug in hand).  Cloudian doesn't lock opponent but it's a #4/5 UG for consistency.
 
-[deck](The Winged Dragon of Ra,The Unhappy Girl,The Unhappy Girl,The Unhappy Girl,A Cat of Ill Omen,A Cat of Ill Omen,Golden Ladybug,Golden Ladybug,Golden Ladybug,Cloudian - Turbulence,Cloudian - Turbulence,Rai-Mei,Rai-Mei,Rai-Mei,Floodgate Trap Hole,Floodgate Trap Hole,Floodgate Trap Hole,Spirit Barrier,Spirit Barrier,Spirit Barrier)
+[deck](The Winged Dragon of Ra, The Unhappy Girl, The Unhappy Girl, The Unhappy Girl, A Cat of Ill Omen, A Cat of Ill Omen, Golden Ladybug, Golden Ladybug, Golden Ladybug, Cloudian - Turbulence, Cloudian - Turbulence, Rai-Mei, Rai-Mei, Rai-Mei, Floodgate Trap Hole, Floodgate Trap Hole, Floodgate Trap Hole, Spirit Barrier, Spirit Barrier, Spirit Barrier)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNTEwNjAwNTQsMzc2MTgwMywtMjA5Nz
