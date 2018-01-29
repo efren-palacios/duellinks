@@ -73,7 +73,7 @@
 {
 
   box-sizing: border-box;
-  margin: 0.35rem;
+  margin: 0.5rem;
 
   img.dcards
   {
@@ -229,6 +229,10 @@
 @media screen and (max-width: 490px) {
   #deck {
     width: 362px; 
+  }
+
+  .markdown-item{
+    margin: 0.25rem;
   }
 }
 
