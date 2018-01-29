@@ -63,6 +63,13 @@
     "character": "Joey Wheeler"
   },
   {
+    "name": "Fields of the Warriors",
+    "description": "Begin Duel with the Field Spell 'Sogen' activated.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Joey Wheeler"
+  },
+  {
     "name": "Aroma Strategy",
     "description": "You can see the card at the top of your deck even before drawing it.",
     "how": "Level 4",
