@@ -2,7 +2,7 @@
 layout: blog
 title: "Meta Championship Series #5 Report"
 author: TOASTYKILLA
-image: /img/logos/Teaser_V.png
+image: /img/logos/mcs5report.png
 category: news
 date: 2018-01-29
 pinned: true
@@ -16,7 +16,7 @@ permalink: /news/meta-championship-series-5-report/
 ## by {{page.author}}   
 
 
-![content Only](https://media.discordapp.net/attachments/387867603869237248/397562085036392460/Teaser_V.png?width=600&height=400)
+![content Only](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=900&height=400?)
 
 ### Top 8 Players / Decklists - Prize Support: $4,188
 
