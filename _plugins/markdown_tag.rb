@@ -103,20 +103,8 @@ module Jekyll
 
 galleryHtml = '
 <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
-	<ol class="carousel-indicators">
-	'
-
-for k in 0...imageLinks.length
-	galleryHtml += '    <li data-target="#imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
-	';
-end
-
-galleryHtml += '</ol>
 	<div class="carousel-inner">
-	'
-
-galleryHtml += '    <div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
-	';
+		<div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>'
 
 for k in 1...imageLinks.length
 	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
