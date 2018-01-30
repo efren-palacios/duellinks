@@ -29,6 +29,7 @@ permalink: /news/meta-championship-series-5-report/
 ## TOP 8 BREAKDOWN
 
 ![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=600&height=400)
+
 ####### Credit's to Reddit user: ArmoredKappa
 
 ----------
@@ -56,7 +57,7 @@ permalink: /news/meta-championship-series-5-report/
 
 ### 1st Place- Whilipino: $1,675
 
-#### YCS Anaheim 2016 Winner 
+##### YCS Anaheim 2016 Winner 
 
 Main Deck | Side Deck
 |:----------:|:----------:|
