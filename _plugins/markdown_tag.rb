@@ -101,38 +101,38 @@ module Jekyll
 						carouselImageHeight = "carousel-image-size-h1"
 					end
 
-                    galleryHtml = '
-                    <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
-                        <ol class="carousel-indicators">
-                        '
+galleryHtml = '
+<div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
+	<ol class="carousel-indicators">
+	'
 
-                    for k in 0...imageLinks.length
-                        galleryHtml += '    <li data-target="#imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
-                        ';
-                    end
+for k in 0...imageLinks.length
+	galleryHtml += '    <li data-target="#imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
+	';
+end
 
-                    galleryHtml += '</ol>
-                        <div class="carousel-inner">
-                        '
+galleryHtml += '</ol>
+	<div class="carousel-inner">
+	'
 
-                    galleryHtml += '    <div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
-                        ';
+galleryHtml += '    <div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
+	';
 
-                    for k in 1...imageLinks.length
-                        galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
-                        ';
-                    end
+for k in 1...imageLinks.length
+	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
+	';
+end
 
-                    galleryHtml += '</div>
-                        <a class="carousel-control-prev" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>'
+galleryHtml += '</div>
+	<a class="carousel-control-prev" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>'
 
 					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
 					galleryCount = galleryCount + 1
