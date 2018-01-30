@@ -16,19 +16,19 @@ permalink: /news/meta-championship-series-5-report/
 ## by {{page.author}}   
 
 
-![content Only](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=900&height=400?)
+![content Only](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=900&height=400)
 
-### Top 8 Players / Decklists - Prize Support: $4,188
+### Top 16 Players / Decklists - Prize Support: $4,188
 
 ##### January 27th 1pm EST / 6pm GMT . 7 Rounds Day 1. Top 32 move on to Day 2. 
 
-##### Format: 364 players. SWISS. 1 deck, with 5 card Side-Deck.
+##### Format: 314 players. SWISS. 1 deck, with 5 card Side-Deck.
 
 #####  [Full Top 32 standings here](https://smash.gg/tournament/meta-championship-series-v/events/mcs-v/standings)
 
 ---------- 
 
-## TOP 8 BREAKDOWN
+## TOP 16 BREAKDOWN
 
 ![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=900&height=400)
 
