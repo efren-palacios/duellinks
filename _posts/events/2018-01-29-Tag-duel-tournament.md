@@ -19,7 +19,7 @@ permalink: /events/Tag-duel-tournament
 ### Last Updated: (January 29 2018) 
 **Master Difficulty is now available to play**
 
-[gallery h4](https://imgur.com/2POgHwA.png, https://imgur.com/uDxXZI6.png, https://i.imgur.com/3hyERps.png, https://i.imgur.com/kSnlQOy.png, https://i.imgur.com/tQG5i9V.png, https://i.imgur.com/C2NrjOq.png, https://i.imgur.com/G5pqBT1.png, https://i.imgur.com/1yyXp5N.png, https://i.imgur.com/kiwJ1Ye.png, https://i.imgur.com/YBFcOPm.png)
+[gallery h3](https://imgur.com/2POgHwA.png, https://imgur.com/uDxXZI6.png, https://i.imgur.com/3hyERps.png, https://i.imgur.com/kSnlQOy.png, https://i.imgur.com/tQG5i9V.png, https://i.imgur.com/C2NrjOq.png, https://i.imgur.com/G5pqBT1.png, https://i.imgur.com/1yyXp5N.png, https://i.imgur.com/kiwJ1Ye.png, https://i.imgur.com/YBFcOPm.png)
 
 
 ### Event Info
