@@ -29,7 +29,7 @@ permalink: /news/meta-championship-series-5-report/
 ## TOP 8 BREAKDOWN
 
 ![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=600&height=400)
-### Credit's to Reddit user: ArmoredKappa
+####### Credit's to Reddit user: ArmoredKappa
 
 ----------
 
@@ -55,6 +55,7 @@ permalink: /news/meta-championship-series-5-report/
 ## Top 8 DeckList Winner's
 
 ### 1st Place- Whilipino: $1,675
+
 #### YCS Anaheim 2016 Winner 
 
 Main Deck | Side Deck
@@ -64,6 +65,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​2nd Place- Darkking: $754
+
 #### 3rd place Japan Nationals TCG
 
 Main Deck | Side Deck
@@ -82,6 +84,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​4th Place- Taichi0715: $335
+
 #### Japan National Champion TCG
 
 Main Deck | Side Deck
@@ -91,6 +94,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​5th Place- AndyTsang: $168
+
 #### YCS Denver 2017 Winner
 
 Main Deck| Side Deck
@@ -156,6 +160,7 @@ Main Deck| Side Deck
 ----------
 
 ###  13th Place- Stevie $52
+
 #### YCS Chicago 2015 Winner
 
 Main Deck| Side Deck
