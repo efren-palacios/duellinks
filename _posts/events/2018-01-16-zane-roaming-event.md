@@ -9,7 +9,7 @@ comments: false
 description: 
 keywords: event, in-depth event
 permalink: /events/zane-roaming-event-by-perune/
-hide: false
+hide: true
 ---
 
 # {{page.title}}
