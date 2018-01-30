@@ -24,6 +24,8 @@ permalink: /news/meta-championship-series-5-report/
 
 ##### Format: 364 players. SWISS. 1 deck, with 5 card Side-Deck.
 
+#####  [Full Top 32 standings here](https://smash.gg/tournament/meta-championship-series-v/events/mcs-v/standings)
+
 ---------- 
 
 ## TOP 8 BREAKDOWN
