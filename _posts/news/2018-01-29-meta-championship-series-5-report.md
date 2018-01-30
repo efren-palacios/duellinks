@@ -16,7 +16,7 @@ permalink: /news/meta-championship-series-5-report/
 ## by {{page.author}}   
 
 
-![content Only](https://media.discordapp.net/attachments/387867603869237248/397562085036392460/Teaser_V.png?width=400&height=225)
+![content Only](https://media.discordapp.net/attachments/387867603869237248/397562085036392460/Teaser_V.png?width=600&height=400)
 
 ### Top 8 Players / Decklists - Prize Support: $4,188
 
@@ -24,23 +24,11 @@ permalink: /news/meta-championship-series-5-report/
 
 ##### Format: 364 players. SWISS. 1 deck, with 5 card Side-Deck.
 
-
-|Rank|Participant Name|Match History
-| :-------- | :-------- | :-------- |
-|1|Whilipino | W W W W W W W W W W|
-|2|Darkking  |W W W W W W W W W L |
-|3|SuperVegito | W W W W W W L L L L |
-|4|Taichi0715 | W W W W W W W L L L |
-|5|AndyTsang | W W W W L L L L L L |
-|6|SDotAkuma | W W W W W L L L L L|
-|7|2much420 | W W W W L L L L L L |
-|8|DennisEG | W W W W W L L L L L |
-
 ---------- 
 
 ## TOP 8 BREAKDOWN
 
-![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=400&height=209)
+![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=600&height=400)
 ### Credit's to Reddit user: ArmoredKappa
 
 ----------
@@ -64,9 +52,10 @@ permalink: /news/meta-championship-series-5-report/
 
 ----------
 
-### Top 8 DeckList Winner's
+## Top 8 DeckList Winner's
 
-#### 1st Place- Whilipino: $1,675
+### 1st Place- Whilipino: $1,675
+#### YCS Anaheim 2016 Winner 
 
 Main Deck | Side Deck
 |:----------:|:----------:|
@@ -75,6 +64,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​2nd Place- Darkking: $754
+#### 3rd place Japan Nationals TCG
 
 Main Deck | Side Deck
 |:----------:|:----------:|
@@ -92,6 +82,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​4th Place- Taichi0715: $335
+#### Japan National Champion TCG
 
 Main Deck | Side Deck
 |:----------:|:----------:|
@@ -100,6 +91,7 @@ Main Deck | Side Deck
 ----------
 
 ### ​5th Place- AndyTsang: $168
+#### YCS Denver 2017 Winner
 
 Main Deck| Side Deck
 |:----------:|:----------:|
@@ -164,6 +156,7 @@ Main Deck| Side Deck
 ----------
 
 ###  13th Place- Stevie $52
+#### YCS Chicago 2015 Winner
 
 Main Deck| Side Deck
 |:----------:|:----------:|

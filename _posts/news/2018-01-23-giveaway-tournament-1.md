@@ -14,7 +14,6 @@ permalink: /guides/giveaway-tournament-1/
 # {{page.title}}
 ## by {{page.author}}
 
-
 ![Content Only](https://d33wubrfki0l68.cloudfront.net/80aaea09caafabd67113c1bf347b975ee629e1d0/0e583/img/logos/mcs_logo.png)
 
 ### Top 4 Players / Decklists- Prize support: $
@@ -24,6 +23,8 @@ permalink: /guides/giveaway-tournament-1/
 ### Top 4 Players /  Decklist's- Giveaway Pool :  
 
 #### 1 out of the 3 prizes = free MCS invite, lifetime discord, or 5 meta weekly tickets.
+
+#### Link to full standings: [Top 32 standings](https://smash.gg/tournament/meta-championship-series-v/events/mcs-v/standings)
 
 ----------
 
