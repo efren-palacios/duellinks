@@ -30,7 +30,7 @@ permalink: /news/meta-championship-series-5-report/
 
 ![Content Only](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=600&height=400)
 
-####### Credit's to Reddit user: ArmoredKappa
+####### Credit to Reddit user: ArmoredKappa
 
 ----------
 
