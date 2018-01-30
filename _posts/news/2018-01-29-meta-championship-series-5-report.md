@@ -16,7 +16,7 @@ permalink: /news/meta-championship-series-5-report/
 ## by {{page.author}}   
 
 
-![content Only](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=900&height=400)
+![content Only](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=1000&height=400)
 
 ### Top 16 Players / Decklists - Prize Support: $4,188
 
