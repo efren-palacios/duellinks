@@ -12,7 +12,7 @@ comments: true
 {% include oneimage.html image="https://i.imgur.com/wNoW7nN.jpg" %}
 
 <div class="row">
-{% for item in site.data.box.list %}
+{% for item in site.data.box.primal-burst %}
 {% include box.html cardname=item %}
 {% endfor %}
 </div>
