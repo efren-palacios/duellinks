@@ -9,7 +9,7 @@ pinned: false
 comments: true
 description: New tag Duel tournament is live.
 keywords: news, upcoming updates, KC Cup, nerf, konami
-permalink: /news/tag-duel-tournament
+permalink: /news/Tag-duel-tournament
 ---
 
 # {{page.title}}
@@ -19,7 +19,8 @@ permalink: /news/tag-duel-tournament
 ### Last Updated: (January 29 2018) 
 **Master Difficulty is now available to play**
 
-[gallery](<a href="https://imgur.com/2POgHwA"><img src="https://i.imgur.com/2POgHwA.png" title="source: imgur.com" /></a>, <a href="https://imgur.com/uDxXZI6"><img src="https://i.imgur.com/uDxXZI6.png" title="source: imgur.com" /></a>, <a href="https://imgur.com/3hyERps"><img src="https://i.imgur.com/3hyERps.png" title="source: imgur.com" /></a>, <a href="https://imgur.com/kSnlQOy"><img src="https://i.imgur.com/kSnlQOy.png" title="source: imgur.com" /></a>,<a href="https://imgur.com/tQG5i9V"><img src="https://i.imgur.com/tQG5i9V.png" title="source: imgur.com" /></a>,<a href="https://imgur.com/C2NrjOq"><img src="https://i.imgur.com/C2NrjOq.png" title="source: imgur.com" /></a>,<a href="https://imgur.com/G5pqBT1"><img src="https://i.imgur.com/G5pqBT1.png" title="source: imgur.com" /></a>,<a href="https://imgur.com/1yyXp5N"><img src="https://i.imgur.com/1yyXp5N.png" title="source: imgur.com" /></a>.<a href="https://imgur.com/kiwJ1Ye"><img src="https://i.imgur.com/kiwJ1Ye.png" title="source: imgur.com" /></a>,<a href="https://imgur.com/YBFcOPm"><img src="https://i.imgur.com/YBFcOPm.png" title="source: imgur.com" /></a>)
+[gallery](https://imgur.com/2POgHwA.png, https://imgur.com/uDxXZI6.png, https://i.imgur.com/3hyERps.png, https://i.imgur.com/kSnlQOy.png, https://i.imgur.com/tQG5i9V.png, https://i.imgur.com/C2NrjOq.png, https://i.imgur.com/G5pqBT1.png, https://i.imgur.com/1yyXp5N.png, https://i.imgur.com/kiwJ1Ye.png, "https://i.imgur.com/YBFcOPm.png)
+
 
 ### Event Info
 Kaiba Corp invites you to join in the Tag Duel Tournament where you and a partner duke it out against other well known tag teams.  Keep your wits about you as teamwork is essential to your victory.  Dueling in Duel World or Ranked will help you earn Friendship Letters to compete in the tournament.
