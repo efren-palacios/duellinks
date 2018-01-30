@@ -5,7 +5,7 @@ author: TOASTYKILLA
 image: /img/logos/Teaser_V.png
 category: news
 date: 2018-01-29
-pinned: false
+pinned: true
 comments: false
 description: "Here is the in-depth report about the Meta Championship Series #5."
 keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
