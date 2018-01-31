@@ -25,12 +25,10 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [            
-            { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
             { "id": "ancient-gears",        "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dinos",                "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "stall-decks",     	    "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
-            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" }
-                
+            { "id": "snipe-hunter-volcanics", "display": "Snipe Hunter/Volcanics", "card": "Snipe Hunter"}                
         ]
     },
     {
@@ -38,12 +36,11 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            { "id": "dark-magician",        "display": "Dark Magician",         "card": "Dark Magician" },
-            { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },
+            
+            { "id": "dark-world",           "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },        
             { "id": "ananta",     	  	    "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
-            { "id": "magnet-warriors",      "display": "Magnet Warriors",       "card": "Delta The Magnet Warrior" },
-            { "id": "mill-decks",           "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
-            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
+            { "id": "volcanics",            "display": "Volcanics",             "card": "Volcanic Rocket" },
+            { "id": "red-eyes-slash-dragon", "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"}
         ] 
     },
     {
@@ -51,8 +48,11 @@
         "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
         "types":
         [
+            { "id": "dark-magician",        "display": "Dark Magician",         "card": "Dark Magician" },            
+            { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },            
+            { "id": "elemental-heroes",     "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
+            { "id": "gaia-plate-magnets",   "display": "Gaia Plate Magnets",    "card": "Delta The Magnet Warrior" },
             { "id": "genex",     		    "display": "Genex",     		    "card": "Genex Army" },
-            { "id": "ninjas",               "display": "Ninjas",                "card": "Black Dragon Ninja" },
             { "id": "control-decks",        "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",     "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "six-samurais",         "display": "Six Samurais",          "card": "Great Shogun Shien" },
@@ -77,8 +77,9 @@
         "category": "OtherDecks",
         "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
-        [    
-            
+        [              
+            { "id": "mill-decks",           "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
+            { "id": "temple-burn",          "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "machine",              "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",              "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",        "display": "Trap Monsters",         "card": "Tiki Soul" },
@@ -99,7 +100,6 @@
             { "id": "ice-barrier",          "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
             { "id": "desert-twister",       "display": "Desert Twister",        "card": "Desert Twister" },
 			{ "id": "blue-eyes",     	    "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
-            { "id": "elemental-heroes",     "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
             { "id": "other",     	        "display": "Other",                 "card": "Question" },
             { "id": "handless",     	    "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
             { "id": "wetlands",     	    "display": "Wetlands",              "card": "Wetlands" },
