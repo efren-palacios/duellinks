@@ -19,7 +19,7 @@
             <h4 class="card-title text-white">{{page.title}}</h4>
           </a>
           <div class="text-white">
-            {% if page.title == "/tierlist/" %}
+            {% if page.title == "TIER LIST" %}
               {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
               {% assign firstDate = changelog[0].date %}
               {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
