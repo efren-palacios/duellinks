@@ -1,3 +1,6 @@
+
+/* ===== DiscordUser ===== */
+
 function DiscordUser(id, username, roles)
 {
     this.id = id;
@@ -29,6 +32,10 @@ DiscordUser.prototype.isKoG = function()
 {
     return $.inArray('king of games', this.roles) !== -1;
 };
+
+/* ======================= */
+
+/* ===== Cookie Mngr ===== */
 
 function ProfileCookieManager(profileCookieName)
 {
@@ -86,6 +93,10 @@ ProfileCookieManager.prototype.addProfile = function(profileId)
     document.cookie = this.profileCookieName + "=" + newCookieValue + ";" + expires + ";path=/";
 }
 
+/* ======================= */
+
+/* ===== Discord Api ===== */
+
 function DiscordAPICall(botToken, discordId)
 {
     this.botToken = botToken;
@@ -138,7 +149,8 @@ DiscordAPICall.prototype.getUserIDByAccessToken = function(callback)
             ref.setUserID(result['id']);
             callback();
         },
-        error: function () {
+        error: function ()
+        {
             $("#kog-status").html("Please login to discord to check your KoG status.");
         }
     });
@@ -157,9 +169,12 @@ DiscordAPICall.prototype.getAllowedRolesID = function(callback)
         success: function (result)
         {
             var allowedRoles = [];
-            for (var i = 0; i < result['roles'].length; i++) {
-                if ($.inArray(result['roles'][i]['name'].toLowerCase(), roles) !== -1) {
-                    allowedRoles.push({
+            for (var i = 0; i < result['roles'].length; i++)
+            {
+                if ($.inArray(result['roles'][i]['name'].toLowerCase(), roles) !== -1)
+                {
+                    allowedRoles.push(
+                    {
                         name: result['roles'][i]['name'],
                         id: result['roles'][i]['id']
                     });
@@ -189,9 +204,12 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
             var allowedRoles = ref.getAllowedRoles();
 
             var userRoles = [];
-            for (var i = 0; i < result['roles'].length; i++) {
-                for(var j = 0; j < allowedRoles.length; j++){
-                    if(allowedRoles[j].id == result['roles'][i]){
+            for (var i = 0; i < result['roles'].length; i++)
+            {
+                for(var j = 0; j < allowedRoles.length; j++)
+                {
+                    if(allowedRoles[j].id == result['roles'][i])
+                    {
                         userRoles.push(allowedRoles[j].name.toLowerCase());
                     }
                 }
@@ -199,13 +217,16 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
 
             discordUser = new DiscordUser(ref.getUserID(), result['user']['username'], userRoles);
 
-            if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isContentManager()){
+            if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isContentManager())
+            {
                 $("#kog-status").html("Only one deck per month can be submitted.");
             }
             else
             {
-                if(discordUser.isKoG() || discordUser.isContentManager()) isKogAction(discordUser.getUsername());
-                else isNotKogAction(discordUser.getUsername());
+                if(discordUser.isKoG() || discordUser.isContentManager())
+                    isKogAction(discordUser.getUsername());
+                else
+                    isNotKogAction(discordUser.getUsername());
             }
         },
         error: function ()
@@ -215,12 +236,17 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
     });
 }
 
+/* ======================= */
+
+/* ==== Discord Usage ==== */
+
 var discordUser = new DiscordUser("", "", []);
 var cookieManager = new ProfileCookieManager("discord-id");
 var apiManager = new DiscordAPICall('Mzk4MjkwODY1NTU2MTYwNTEz.DS8Y4A.ofv3FayCq8uldaqB--FLQnFjfJk', '303175246268334082');
 
 $(function ()
 {
+    //if these are defaults then they should be on the html page (faster)
     $("#deck-sub-form").addClass("hidden");
     $("#deck-sub-form :input").prop("readonly", true);
 
@@ -233,8 +259,10 @@ $(function ()
         $("#discord-login-button").addClass("hidden");
         $("#kog-status").html("Checking your discord roles...");
 
-        apiManager.getUserIDByAccessToken(function(){
-            apiManager.getAllowedRolesID(function(){
+        apiManager.getUserIDByAccessToken(function()
+        {
+            apiManager.getAllowedRolesID(function()
+            {
                 apiManager.processUserRoles(userIsKoGAction, userIsNotKoGAction);
             });
         });
@@ -269,6 +297,8 @@ function userIsKoGAction(userName)
         else
             $("#kog-status").html(userName + ", you are a content creator, you have open access.");
 
+        $("#deck-sub-form").removeClass("hidden");
+
     }
     else
     {
@@ -276,9 +306,9 @@ function userIsKoGAction(userName)
         $("#deck-sub-form :input").prop("readonly", false);
         $("#author").prop("readonly", true);
         $("#author").val(userName);
-    }
 
-    $("#deck-sub-form").removeClass("hidden");
+        $("#deck-sub-form").removeClass("hidden");
+    }
 }
 
 function userIsNotKoGAction(userName)
@@ -292,4 +322,21 @@ function removeAccessTokenFromURL()
 {
     if(window.history.pushState)
         window.history.pushState({}, null, window.location.href.split("#")[0]);
+}
+
+/* ======================= */
+
+function isSeasonEnd()
+{
+    var currentDate = new Date();
+    var seasonEnd = new Date($("#season-end").data("date"));
+        seasonEnd.setFullYear(currentDate.getFullYear());
+        seasonEnd.setMonth(currentDate.getMonth());
+    var seasonStart = new Date(seasonEnd.valueOf());
+        seasonStart.setDate(seasonStart.getDate() + 1)
+
+    
+    
+
+    var x = 0;
 }
