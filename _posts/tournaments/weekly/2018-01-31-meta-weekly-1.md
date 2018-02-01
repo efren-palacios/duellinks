@@ -2,9 +2,9 @@
 layout: blog
 title: "Meta Weekly #1 Report"
 category: tournaments
-image: https://i.imgur.com/AJBBqGQ.png
+image: /img/logos/meta-weekly.png
 author: Toastykilla
-date: 2018-01-31
+date: 2018-01-02
 comments: true
 description: meta weekly 1
 keywords: meta weekly, decks
@@ -16,7 +16,7 @@ permalink: /meta-weekly-1/
 
 ----
 
-![Content Only](https://media.discordapp.net/attachments/394309875280248832/400541595675394050/meta-weekly.png)
+![Content Only](/img/logos/meta-weekly.png)
 
 ### Tournament 1 META LADDER 
 
@@ -39,6 +39,8 @@ permalink: /meta-weekly-1/
 ### Top 4 Players /  Decklist's- Prize Pool : $231
 
 ### Top 4 Decklist's of the tournament 
+
+
 
 ![Content Only](https://i.imgur.com/RAN9aCw.png)
 

@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Meta Weekly #2 Report"
+title: "Meta Weekly #4 Report"
 category: tournaments
 image: /img/logos/meta-weekly.png
 author: Toastykilla
-date: 2018-01-31
+date: 2018-01-24
 comments: true
 description: meta weekly 2
 keywords: meta weekly, decks
@@ -40,7 +40,7 @@ permalink: /meta-weekly-2/
 
 ### Top 4 Decklist's of the tournament 
 
-##
+----------
 
 ![Content Onlt ](https://i.imgur.com/bRr4PI6.png)
 

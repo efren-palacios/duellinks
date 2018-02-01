@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Meta Weekly #2 Report"
+title: "Meta Weekly #5 Report"
 category: tournaments
 image: /img/logos/meta-weekly.png
 author: Toastykilla
@@ -40,7 +40,7 @@ permalink: /meta-weekly-2/
 
 ### Top 4 Decklist's of the tournament 
 
-#    
+---------- 
 
 ![Content Only](https://i.imgur.com/R0zxqAJ.png)
 

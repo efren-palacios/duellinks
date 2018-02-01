@@ -4,7 +4,7 @@ title: "Meta Weekly #2 Report"
 category: tournaments
 image: /img/logos/meta-weekly.png
 author: Toastykilla
-date: 2018-01-31
+date: 2018-01-10
 comments: true
 description: meta weekly 2
 keywords: meta weekly, decks
@@ -40,7 +40,7 @@ permalink: /meta-weekly-2/
 
 ### Top 4 Decklist's of the tournament 
 
-##
+----------
 
 ![Content Only](https://i.imgur.com/fVOHn97.png)
 
