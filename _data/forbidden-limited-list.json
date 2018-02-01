@@ -1,0 +1,31 @@
+[
+    {
+        "section": "Forbidden",
+        "info": "When cards are assigned as this, you may not include any of these into your deck.",
+        "cards":
+        [
+            
+        ]
+    },
+    {
+        "section": "Limited",
+        "info": "When cards are assigned as this, you may include only one card into your deck out of all the limited cards. Example: Since {Woodland Sprite} and {Golden Bamboo Sword} are limited, you can only include one or the other in your deck, not one of each.",
+        "cards":
+        [
+            { "name": "Champion's Vigilance" },
+            { "name": "Golden Bamboo Sword" },
+            { "name": "Restructer Revolution" },
+            { "name": "Woodland Sprite" }            
+        ]
+    },
+    {
+        "section": "Semi-Limited",
+        "info": "When cards are assigned as this, you may include only up to two cards into your deck out of all the semi-limited cards. Example: Since {Machine Angel Ritual} (A) and {Cyber Angel Dakini} (B) are semi-limited, you can have one of the following combinations of these cards in your deck [(A/B), (A/A) or (B/B)]. You are not allowed to have two copies of each card in your deck.",
+        "cards":
+        [
+            { "name": "Cyber Angel Dakini" },
+            { "name": "Machine Angel Ritual" },
+            { "name": "Red-Eyes Spirit" }
+        ]        
+    }
+]
