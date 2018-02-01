@@ -38,17 +38,7 @@
 <script src="{{site.url}}/js/playtest.js"></script> <!-- This should be in specific section -->
 <script src="{{site.url}}/js/mdstyling.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<script>
-    if (window.netlifyIdentity) {
-  window.netlifyIdentity.on("init", user => {
-    if (!user) {
-      window.netlifyIdentity.on("login", () => {
-        document.location.href = "/admin/";
-      });
-    }
-  });
-} 
-</script>
+
 <!-- Custom Scripts Specific Pages-->
 {% if page.scripts %}
     {% assign scripts = page.scripts | split: ',' %}
@@ -58,6 +48,20 @@
 {% endif %}
 
 <!-- TRY TO USE THE VERSION ABOVE (DEFINING THE SCRIPTS ON THE PAGE FILE ITSELF) IN STEAD OF THE VERSIONS BELOW -->
+
+{% if page.url == "/index.html" || page.url =="/admin/index.html" %}
+<script>
+    if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", user => {
+    if (!user) {
+      window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+}
+</script>
+{% endif %}
 
 {% if page.url == "/top-decks/" %}
     <script src="{{site.url}}/js/topdecks.js"></script>
