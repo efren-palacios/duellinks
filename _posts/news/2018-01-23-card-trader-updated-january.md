@@ -28,6 +28,9 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Opinions
 **[Superforms](/authors/superforms/) says:** 
+
+-------
+
 *{Vivid Knight}* only really has synergy with Bujins at the moment, and I don't think they'd run him. 
 
 *{Aromage Bergamot}* has potential in future Plant decks because it seems like a really nice semi-boss monster in a consistent, swarming Plant deck with other 1-tribute monsters (so that {Soul Exchange} could be used), which we don't have yet.
