@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Bujin
-category: deck-type-page
+title: Red-Eyes Slash Dragon
 author: pll
+category: deck-type-page
 date: 2018-01-24
 comments: false
-description: In depth information about Bujin.
-deck-type: bujin
-permalink: /tier-list/bujin/
+description: In depth information about Red-Eyes Slash Dragon.
+deck-type: red-eyes-slash-dragon
+permalink: /tier-list/red-eyes-slash-dragon/
 ---
 
 {% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}

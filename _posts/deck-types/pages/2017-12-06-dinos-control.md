@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Dinosaur Control
-category: deck-type-page
 author: pll
+category: deck-type-page
 date: 2017-12-06
 comments: false
 description: In depth information about Dinosaur Control decks.

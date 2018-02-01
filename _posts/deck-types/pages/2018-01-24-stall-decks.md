@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Stall Decks
-category: deck-type-page
 author: Creative
+category: deck-type-page
 date: 2018-01-24
 comments: false
 description: In depth information about Stall decks.

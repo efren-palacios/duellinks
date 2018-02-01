@@ -12,5 +12,4 @@ id: jaden-yuki
 hide: true
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}

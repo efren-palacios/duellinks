@@ -1,13 +1,11 @@
 ---
 layout: blog
-title: Stream
-permalink: /stream/
+title: Videos on Demand
+permalink: /videos-on-demand/
 hide: true
 ---
 
-<div class="text-center text-white text-center" style="margin-bottom: 1rem;">
-    <h1>Videos on Demand</h1>
-</div>
+{% include heading.html title=page.title %}
 
 <h3>Twitch</h3>
 <div id="vods" class="row card-collection"></div>

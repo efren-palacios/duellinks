@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Toon Barrel Dragon
-category: deck-type-page
 author: unpreceden7ed
+category: deck-type-page
 date: 2017-09-30
 comments: false
 description: In depth information about Toon Barrel Dragon decks.

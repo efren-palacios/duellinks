@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Red-Eyes Slash Dragon
-category: deck-type-page
+title: Elemental Heroes
 author: pll
-date: 2018-01-24
+category: deck-type-page
+date: 2018-01-10
 comments: false
-description: In depth information about Red-Eyes Slash Dragon.
-deck-type: slash-dragon
-permalink: /tier-list/slash-dragon/
+description: In depth information about Elemental Hero decks.
+deck-type: elemental-heroes
+permalink: /tier-list/elemental-heroes/
 ---
 
 {% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}

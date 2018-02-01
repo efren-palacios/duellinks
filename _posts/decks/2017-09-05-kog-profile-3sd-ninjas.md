@@ -1,10 +1,10 @@
 ---
 layout: blog
 title: KoG Report Ninjas
+author: Kazin_X
 meta: KoG Profile 3-Star Demotion Ninjas
 categories: decks
 image: https://i.imgur.com/DutHpHC.png
-author: Kazin_X
 date: 2017-9-5 23:56:00 -0600
 comments: true
 ---

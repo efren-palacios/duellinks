@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "SUBMIT YOUR DECK"
+title: Submit Your Deck
+author: Creative
 category: other
 image: https://i.imgur.com/AJBBqGQ.png
-author: Creative
 date: 2017-11-12 18:05:00 +0200
 comments: false
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS

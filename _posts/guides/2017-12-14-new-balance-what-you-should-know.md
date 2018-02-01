@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: New Balance - What you should know
-category: useful-guide
 author: pll
+category: guide
 image: /img/guides/new-balance-report/thumbnail.png
 date: 2017-12-14
 comments: false
@@ -12,7 +12,7 @@ deck-type: balance skill
 permalink: /guides/new-balance-what-you-should-know/
 ---
 
-# New Balance - What you should know
+{% include heading.html title=page.title author=page.author %}
 
 ### Introduction
 

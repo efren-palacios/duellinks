@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Winged Dragon of Ra
-category: deck-type-page
 author: unpreceden7ed
+category: deck-type-page
 date: 2017-12-28
 comments: false
 description: In depth information about Winged Dragon of Ra decks.

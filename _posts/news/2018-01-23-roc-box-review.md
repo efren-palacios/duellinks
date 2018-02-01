@@ -11,12 +11,11 @@ keywords: news
 permalink: /guides/roc-box-review
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
 ![ROC](https://i.imgur.com/KCl1rqR.png)
 
-Full card list link [link](https:lol.com)
+Full card list [here](https:lol.com)
 
 ### Quick Box review provided by [Top Player Council](https://duellinksmeta.netlify.com/top-player-council/)
 
@@ -27,7 +26,7 @@ Full card list link [link](https:lol.com)
 
 [gallery h1](https://i.imgur.com/8ASPjit.png, https://i.imgur.com/rl8z0WY.png, https://i.imgur.com/ppvJQtQ.png, https://i.imgur.com/fAwmFC8.png)
 
-## New Deck Types:
+### New Deck Types:
 
 | TPC member | Review |
 | :------- | :---- |
@@ -42,7 +41,7 @@ Full card list link [link](https:lol.com)
 
 [gallery h1](https://i.imgur.com/DyJ9W5X.png, https://i.imgur.com/ppvJQtQ.png)
 
-## Needed:
+### Needed:
 
 | TPC member | Review |
 | :------- | :---- |
@@ -57,7 +56,7 @@ Full card list link [link](https:lol.com)
 
 [gallery h1](https://i.imgur.com/8ASPjit.png, https://i.imgur.com/rl8z0WY.png, https://i.imgur.com/ppvJQtQ.png, https://i.imgur.com/fAwmFC8.png)
 
-## Maybe
+### Maybe
 
 | TPC member | Review |
 | :------- | :---- |
@@ -72,7 +71,7 @@ Full card list link [link](https:lol.com)
 
 [gallery h1](https://i.imgur.com/zOiYinI.png, https://i.imgur.com/DyJ9W5X.png)
 
-## Future Potential
+### Future Potential
 
 | TPC member | Review |
 | [UnGatoPardo](https://duellinksmeta.netlify.com/authors/ungatopardo.html) | Void Trap Hole will see play as more archetypes revolving summoning big monsters such as Dakini see play. Until then, this card might just be a side deck tech.|

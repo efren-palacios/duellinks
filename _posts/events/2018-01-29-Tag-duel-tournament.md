@@ -9,12 +9,10 @@ pinned: false
 comments: true
 description: New tag Duel tournament is live.
 keywords: news, upcoming updates, KC Cup, nerf, konami
-permalink: /events/Tag-duel-tournament
+permalink: /events/tag-duel-tournament/
 ---
 
-# {{page.title}}
-## by {{page.author}}
-
+{% include heading.html title=page.title author=page.author %}
 
 ### Last Updated: (January 29 2018) 
 **Master Difficulty is now available to play**

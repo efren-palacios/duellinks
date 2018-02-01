@@ -1,9 +1,9 @@
 ---
 layout: blog
 title: Van'Dalgyon the Dark Dragon Lord
+author: Dkayed
 meta: Youtube Video
 categories: entertainment
-author: Dkayed
 image: https://i.imgur.com/2alM5kb.png
 comments: true
 ---

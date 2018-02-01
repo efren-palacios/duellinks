@@ -12,8 +12,7 @@ keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
 permalink: /guides/gladiator-beasts-guide-by-raytee/
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
 ### Introduction / Achievements / Optimized Deck
 

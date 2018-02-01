@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Meta Championship Series #4 Report"
+title: "Meta Championship Series #4"
 author: TOASTYKILLA
 image: /img/news/meta-championship-series-4-report/thumbnail.png
 category: news
@@ -9,13 +9,12 @@ pinned: false
 comments: false
 description: "Here is the in-depth report about the Meta Championship Series #4."
 keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
-permalink: /news/meta-championship-series-4-report/
+permalink: /meta-championship-series-4/
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
-![Meta Championship Series #4](/img/news/meta-championship-series-4-report/MCS4.png)
+![](/img/news/meta-championship-series-4-report/MCS4.png)
 
 ### Top 8 Players / Decklists- Prize support: $3,476
 Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.

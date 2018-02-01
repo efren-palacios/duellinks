@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Gladiator Beasts
-category: deck-type-page
 author: Dkayed
+category: deck-type-page
 date: 2017-11-06
 comments: false
 description: A quick introduction to the gladiator beasts deck type. Learn how to play gladiator beasts in no time.

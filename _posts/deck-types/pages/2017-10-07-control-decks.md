@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Control Decks
-category: deck-type-page
 author: Creative
+category: deck-type-page
 date: 2017-10-07
 comments: false
 description: In depth information about Control Decks decks.
