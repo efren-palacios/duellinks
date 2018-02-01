@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: In Game Update & Upcoming Changes - Feburary
-author: Spooncats
+author: Jonesy9027
 image: /img/logos/newsblank.png
 category: news
 date: 2018-02-01
