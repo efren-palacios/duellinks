@@ -16,6 +16,7 @@ pinned: true
 
 {% include heading.html title=page.title author=page.author %}
 
+[w75]
 ![](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=1000&height=400)
 
 ### Top 16 Players / Decklists - Prize Support: $4,188
@@ -30,6 +31,7 @@ pinned: true
 
 ### TOP 16 BREAKDOWN
 
+[w75]
 ![](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=900&height=400)
 
 Credit to Reddit user: ArmoredKappa

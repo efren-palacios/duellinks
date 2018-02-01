@@ -113,13 +113,63 @@ ul
   letter-spacing: 0.1px;
 }
 
-p img
-{
-  margin: auto;
-  display: block;
+p img, li img{
+  width: 50%;
   max-width: 100%;
+  margin: auto;
+  padding-bottom: 10px;
+  display: block;
 }
 
+.img-w-100{
+  img{
+    width: 100%;
+  }
+}
+
+.img-w-75{
+  img{
+    width: 75%;
+  }
+}
+
+.img-w-50{
+  img{
+    width: 50%;
+  }
+}
+
+.img-w-25{
+  img{
+    width: 25%;
+  }
+}
+
+@media only screen and (max-aspect-ratio: 13/9) {
+  .img-w-100{
+    img{
+      width: 100%;
+    }
+  }
+
+  .img-w-75{
+    img{
+      width: 100%;
+    }
+  }
+
+  .img-w-50{
+    img{
+      width: 100%;
+    }
+  }
+
+  .img-w-25{
+    img{
+      width: 100%;
+    }
+  }
+}
 a
 {
   color: $active;
