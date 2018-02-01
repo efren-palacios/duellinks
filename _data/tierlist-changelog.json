@@ -6,11 +6,11 @@
     },
     "tier-changes": 
     [
-        { "type": "ananta", "from": 3, "to": "nothng", "date": 2018-01-14 },
-        { "type": "gladiator-beasts", "from": 2, "to": 1, "date": 2017-11-23 },
-        { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-01-23 },
-        { "type": "dark-world", "from": "3", "to": "nothing", "date": 2018-01-21 },
-        { "type": "dark-world", "from": "nothing", "to": 3, "date": 2018-01-21 },
+        { "type": "snipe-hunter-volcanics", "from": "nothing", "to": 3, "date": 2018-01-31 },
+        { "type": "stall-decks", "from": "nothing", "to": 3, "date": 2018-01-31 },
+        { "type": "dinos", "from": "nothing", "to": 3, "date": 2018-01-31 },
+        { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-01-31 },
+        { "type": "gladiator-beasts", "from": 2, "to": 1, "date": 2018-01-31 },
         { "type": "cyber-angels", "from": 1, "to": 3, "date": 2018-01-23 },
         { "type": "ancient-gears", "from": 2, "to": 3, "date": 2018-01-21 },
         { "type": "dinos-control", "from": 3, "to": "nothing", "date": 2018-01-21 },

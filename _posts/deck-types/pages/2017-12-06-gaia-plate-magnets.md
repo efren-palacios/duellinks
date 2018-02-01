@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Magnet Warriors
+title: Gaia Plate Magnets 
 author: pll
 category: deck-type-page
 date: 2017-12-06
 comments: false
-description: In depth information about Magnet Warriors decks.
-deck-type: magnet-warriors
-permalink: /tier-list/magnet-warriors/ 
+description: In depth information about Gaia Plate Magnet decks.
+deck-type: gaia-plate-magnets
+permalink: /tier-list/gaia-plate-magnets/ 
 ---
 
 {% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
