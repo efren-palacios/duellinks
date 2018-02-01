@@ -8,7 +8,7 @@ date: 2017-12-15 01:32:00 -0600
 comments: true
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: mcs, mcs3, mcs 3, meta championship, meta championship series, meta championship 3, meta championship series 3, mcs decks, mcs3 decks
-permalink: /meta-championship-series-3/
+permalink: /mcs/meta-championship-series-3/
 ---
 
 {% include heading.html title=page.title author=page.author %}

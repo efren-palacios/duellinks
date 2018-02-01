@@ -9,7 +9,7 @@ pinned: false
 comments: false
 description: "Here is the in-depth report about the Meta Championship Series #4."
 keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
-permalink: /meta-championship-series-4/
+permalink: /mcs/meta-championship-series-4/
 ---
 
 {% include heading.html title=page.title author=page.author %}
