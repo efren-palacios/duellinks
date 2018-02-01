@@ -18,7 +18,7 @@ permalink: /meta-weekly-2/
 
 ![Content Only](/img/logos/meta-weekly.png)
 
-### Tournament 2 META LADDER 
+### Tournament 3 META LADDER 
 
 #### The Meta Weekly is one of Dkayed's new Tournament's that is held 4-5 times a month, once a week.
 
@@ -34,21 +34,21 @@ permalink: /meta-weekly-2/
 
 ----------
 
-## Meta Weekly #2 
+## Meta Weekly #3
 
-### Top 4 Players /  Decklist's- Prize Pool : $400
+### Top 4 Players /  Decklist's- Prize Pool : $224
 
 ### Top 4 Decklist's of the tournament 
 
 ##
 
-![Content Only](https://i.imgur.com/fVOHn97.png)
+![Content Only](https://i.imgur.com/TEZzXdB.png)
 
-![Content Only](https://i.imgur.com/nnnp7sa.png)
+![Content Only](https://i.imgur.com/Kz3r2G8.png)
 
-![Content only](https://i.imgur.com/62X35aF.png)
+![Content Only](https://i.imgur.com/01Oby7m.png)
 
-![Content Only](https://i.imgur.com/qIvrELU.png)
+![Content Only](https://i.imgur.com/UEt3VCG.png)
 
 
 ----------
