@@ -9,16 +9,14 @@ comments: false
 description: 
 keywords: event, in-depth event
 permalink: /events/zane-roaming-event-by-perune/
-hide: true
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
 ### Last updated: January 09, 2018
 
 ### Event Info
-Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you.       Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
+Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you. Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
 
 ### Event Rewards
 

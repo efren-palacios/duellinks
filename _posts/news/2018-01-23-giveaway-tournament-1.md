@@ -11,10 +11,9 @@ keywords: news
 permalink: /guides/giveaway-tournament-1/
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title %}
 
-![Content Only](https://d33wubrfki0l68.cloudfront.net/80aaea09caafabd67113c1bf347b975ee629e1d0/0e583/img/logos/mcs_logo.png)
+![](https://d33wubrfki0l68.cloudfront.net/80aaea09caafabd67113c1bf347b975ee629e1d0/0e583/img/logos/mcs_logo.png)
 
 ### Top 4 Players / Decklists- Prize support: $
 

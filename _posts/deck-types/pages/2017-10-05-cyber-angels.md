@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Cyber Angels
-category: deck-type-page
 author: Creative
+category: deck-type-page
 date: 2017-10-05
 comments: false
 description: In depth information about Cyber Angel decks.

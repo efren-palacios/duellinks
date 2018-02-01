@@ -1,0 +1,9 @@
+<div class="section header center">
+    <h1>{{include.title | upcase}}</h1>
+    {% if include.author != null and include.author != "" %}
+        <h2>by {{include.author}}</h2>
+    {% endif %}
+    {% if include.description != null and include.description != "" %}
+        <p>{{include.description}}</p>
+    {% endif %}
+</div>

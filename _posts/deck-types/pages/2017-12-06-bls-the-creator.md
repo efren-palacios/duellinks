@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: BLS The Creator
-category: deck-type-page
 author: pll
+category: deck-type-page
 date: 2017-12-06
 comments: false
 description: In depth information about BLS The Creator decks.

@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Hazy Flame BR
-category: deck-type-page
+title: Hazy Flame
 author: Creative
+category: deck-type-page
 date: 2017-10-07
 comments: false
 description: A quick introduction to the hazy flame deck type. Learn how to play hazy flame in no time.

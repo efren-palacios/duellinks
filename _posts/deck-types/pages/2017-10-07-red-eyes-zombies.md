@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Red-Eyes Zombies
-category: deck-type-page
 author: Creative
+category: deck-type-page
 date: 2017-10-07
 comments: false
 description: A quick introduction to the Red-Eyes Zombies deck type. Learn how to play Red-Eyes Zombies in no time.

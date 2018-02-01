@@ -12,7 +12,7 @@ permalink: /top-player-council/
 hide: true
 ---
 
-# {{page.title}}
+{% include heading.html title=page.title %}
 
 ### Current Members - Season 1 (January - March 2018)
 

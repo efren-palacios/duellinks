@@ -12,8 +12,7 @@ keywords: news, upcoming updates, KC Cup, nerf, konami
 permalink: /news/in-game-update-&-upcoming-changes-december-2017
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
 ### Updates
 With the recent update on December 7th, Konami released a vault of new information to its Duel Links player base. I'm going to break it down to give the community what they need to know.

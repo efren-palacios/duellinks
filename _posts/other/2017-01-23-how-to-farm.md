@@ -12,9 +12,7 @@ keywords: guide, in-depth guide
 permalink: /how-to-farm-all-characters/
 ---
 
-<div class="section center">
-    <h2>How to farm all characters</h2>
-</div>
+{% include heading.html title=page.title %}
 
 <div class="tab-content">
     <div class="tab-pane fade show active">
