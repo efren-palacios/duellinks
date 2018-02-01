@@ -35,13 +35,13 @@ In addition to the skill rebalance, additional cards were added to the limited l
 1. Implemented on January 24th, Woodland Sprite was limited to one.
 2. Implemented on February 5th, Golden Bamboo was limited to one. 
 
-[gallery h1](https://i.imgur.com/PuHVdBY.png, https://i.imgur.com/7eG5035.png?width=1000&height=400)
+[gallery h1](https://i.imgur.com/PuHVdBY.png, https://i.imgur.com/7eG5035.png)
 
 
 #### New Character at the Gate
 Yugi Muto now appears at the gate! Complete the character unlock challenges to unlock the former event exclusive character.
 
-![Yugi_Gate](https://i.imgur.com/NC6HIyD.png)
+![Yugi_Gate](https://i.imgur.com/NC6HIyD.png?width=1000&height=400)
 
 #### Card Trader Inventory Updated
 * Konami has added {That Grass Looks Greener}, {Aromage Bergamot}, and {Vivid Knight} to the Card Trader! Find out more information [here](https://duellinksmeta.netlify.com/news/card-trader-inventorty-updated)
