@@ -7,7 +7,6 @@
 {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   width: 450px;
 
@@ -21,6 +20,12 @@
   {
     margin-bottom: 1rem;
     color: $active;
+    text-align: center;
+
+    .main
+    {
+      margin-right: 5px;
+    }
   }
 }
 
@@ -62,6 +67,31 @@
   justify-content: flex-start;
   padding: 0.5rem;
   width: 100%;
+}
+
+.markdown-item
+{
+
+  box-sizing: border-box;
+  margin: 0.5rem;
+
+  img.dcards
+  {
+    width: 70px;
+    height: 102px;
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    cursor: pointer;
+  }
+
+  p
+  {
+    display: flex;
+    align-content: center;
+    border: 1px solid blue;
+    height: 100%;
+    width: 56px;
+  }
 }
 
 .item
@@ -206,5 +236,25 @@
 @media screen and (max-width: 400px) {
   #deck {
     width: 276px; 
+  }
+}
+
+// Landscape
+@media only screen and (min-aspect-ratio: 13/9) {
+  .card-deck-markdown{
+    width: 51%;
+    margin: auto;
+  }
+}
+
+// Portrait
+@media only screen and (max-aspect-ratio: 13/9) {
+  .markdown-item{
+    margin: 0.25rem;
+
+    img.dcards{
+      width: 52px;
+      height: 76px;
+    }
   }
 }

@@ -1,3 +1,11 @@
+.btn
+{
+    &.btn-full
+    {
+        width: 100%;
+    }
+}
+
 .decktype-filter
 {
       width: calc(100% + 24px);
@@ -52,6 +60,15 @@
                 left: -9px;
                 top: -18px;
                 height: 200%;
+                z-index: -1;
+                clip: rect(0px, 53px, 70px, 0px);
+            }
+			
+			> .character-farm-card {
+                position: absolute;
+                left: -5px;
+                top: -10px;
+                height: 150%;
                 z-index: -1;
                 clip: rect(0px, 53px, 70px, 0px);
             }

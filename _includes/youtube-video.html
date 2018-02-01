@@ -1,0 +1,5 @@
+{% assign videoId = include.url | getYoutubeId %}
+
+<div class="video-wrapper">
+    <iframe class="youtube-video" src="https://www.youtube.com/embed/{{videoId}}?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>

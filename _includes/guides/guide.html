@@ -1,16 +1,71 @@
 <div class="decktype-guide">
-    <div class="header">
-        <h2>{{guide.title}}</h2>
+    <div class="section header">
+        <h2>INTRODUCTION TO {{guide.deck-type | upcase }}</h2>
         {% if guide.created-by != null %}
-            by {{guide.created-by}}
+            <h4>by {{guide.created-by}}</h4>
         {% endif %}
     </div>
 
-    {% if guide.image != null%}
+    <div class="section">
+        <h3>Last Updated</h3>
+        <p>{{guide.modified-on}} by 
+        {% if guide.profile != null and guide.profile != "" %}
+            <a href="/authors/{{guide.profile}}/">{{guide.modified-by}}</a>
+        {% else %}
+            {{guide.modified-by}}
+        {% endif %}</p>
+    </div>
+
+    {% if guide.image != null %}
         <img class="splash" src="/img/guides/{{guide.image}}">
     {% endif %}
     
     {% for section in guide.sections %}
         {% include guides/section.html section=section level=1 %}
     {% endfor %}
+
+    {% if guide.guides != null and guide.guides.size != 0 %}
+        <div class="section">
+            <h3>Guides</h3>
+            <div class="row card-collection">
+                {% for deckTypeGuide in site.categories.deck-type-guide %}
+                    {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
+                    {% if guide.guides contains link %}
+                        <div class="col-sm-6 col-12 card-deck">
+                            <div class="card">
+                                <div class="zoom">
+                                    <a href="{{deckTypeGuide.url}}"> 
+                                        <img src="{{deckTypeGuide.image}}" class="card-img-top lazyload" />
+                                    </a>
+                                </div>
+                                <div class="card-block text-white">
+                                    <a href="{{deckTypeGuide.url}}">
+                                        <h4 class="card-title">{{deckTypeGuide.title}}</h4>
+                                    </a>
+                                    <div class="text-white">
+                                        <small class="text-muted">Last Updated: {{ deckTypeGuide.date | timeago }}
+                                            {% if deckTypeGuide.author == 'Dkayed' %}
+                                            By <b><a class="text-danger" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% else %}
+                                            By <b><a class="text-warning" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% endif %}
+                                        </small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    {% endif %}
+
+    {% if guide.videos != null and guide.videos.size != 0 %}
+        <div class="section">
+            <h3>Videos (todo: layout like /stream)</h3>
+            <ul>
+                {% for video in guide.videos %}
+                    <li><a href="{{video}}">{{video}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
 </div>

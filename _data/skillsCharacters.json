@@ -63,6 +63,13 @@
     "character": "Joey Wheeler"
   },
   {
+    "name": "Fields of the Warriors",
+    "description": "Begin Duel with the Field Spell 'Sogen' activated.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Joey Wheeler"
+  },
+  {
     "name": "Aroma Strategy",
     "description": "You can see the card at the top of your deck even before drawing it.",
     "how": "Level 4",
@@ -70,7 +77,7 @@
     "character": "Mai Valentine"
   },
   {
-    "name": "Harpie's Last Will",
+    "name": "Harpies' Last Will",
     "description": "6 'Harpie' cards in your Graveyard are banished, and 1 'Harpie's Feather Duster' card is added to your hand from outside your Deck.",
     "how": "Drop",
     "exclusive": true,
@@ -84,7 +91,7 @@
     "character": "Mai Valentine"
   },
   {
-    "name": "Harpie's Hunting Ground",
+    "name": "Harpies' Hunting Ground",
     "description": "Begin the Duel with the Field Spell Harpies' Hunting Ground on the top of your deck.",
     "how": "Drop",
     "exclusive": true,

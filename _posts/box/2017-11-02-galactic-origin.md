@@ -1,13 +1,15 @@
 ---
 layout: blog
 title: Box - Galactic Origin
+author: Dkayed
 meta: New Box
 categories: box
 image: https://i.imgur.com/qFL4ijU.jpg
-author: Dkayed
 date: 2017-11-02 10:45:00 -0600
 comments: true
 ---
+
+{% include heading.html title=page.title %}
 
 {% include oneimage.html image="https://i.imgur.com/qFL4ijU.jpg" %}
 

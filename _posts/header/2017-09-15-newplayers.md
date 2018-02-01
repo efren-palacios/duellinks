@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: NEW PLAYERS
+title: New Players
 author: Dkayed
 image: /img/home/new-players-3.png
 category: header
@@ -12,7 +12,8 @@ permalink: /new-players/
 order: 6
 ---
 
-## {{page.title}}
+{% include heading.html title=page.title %}
+
 <p>
     He went such dare good mr fact. The small own seven saved man age no offer. Suspicion did mrs nor furniture smallness. Scale whole downs often leave not eat. An expression reasonably cultivated indulgence mr he surrounded instrument. Gentleman eat and consisted are pronounce distrusts.
 </p> 

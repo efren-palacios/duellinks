@@ -1,27 +1,31 @@
 ---
 layout: blog
-title: "SUBMIT YOUR DECK"
-category: other
-hide: true
-image: https://i.imgur.com/AJBBqGQ.png
+title: Submit Your Deck
 author: Creative
+category: other
+image: https://i.imgur.com/AJBBqGQ.png
 date: 2017-11-12 18:05:00 +0200
 comments: false
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: submit your deck, deck submission, showcase deck, upload deck, deck
 permalink: /submit-your-deck/
+hide: true
 ---
+
+<div id="season-end" class="hidden" data-date="{{site.season-end}}"></div>
 
 <div class="section">
     <h2>SUBMIT YOUR DECK</h2>
-    <p>lorem ipsum dolar sit amet</p>
+    <p>This page is meant for our discord members who have reached King of Games in the current season and who want to showcase the deck that they reached it with. We display these KoG decks on our <a href="{{site.url}}/top-decks/">top decks</a> page as an informative overview and guideline of what kind of decks are being used to reach KoG with.</p>
+    <p id="kog-status"></p>
+    {% if site.url contains "localhost" %}
+        <a id="discord-login-button" class="btn btn-info" role="button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=http%3A%2F%2Flocalhost%3A4000%2Fsubmit-your-deck%2F&response_type=token&scope=identify">Log in</a>
+    {% else %}
+        <a id="discord-login-button" class="btn btn-info" role="button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify">Log in</a>
+    {% endif %}
 </div>
 
 <div class="section">
-    <div class="discord-login-content">
-        <span class="discord-conn-info" id="kog-status">Getting discord information...</span>
-        <a id="discord-login-button" href="https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=https%3A%2F%2Fduellinksmeta.netlify.com%2Fsubmit-your-deck%2F&response_type=token&scope=identify" class="btn btn-info" role="button">Login to discord</a>
-    </div>
     <form class="deck-submission hidden" id="deck-sub-form" method="post" action="https://api.staticman.net/v2/entry/orctamer/duellinks/master">
         <div class="row">
             <div class="col-sm-5 left-side">
@@ -35,9 +39,11 @@ permalink: /submit-your-deck/
                         <option value=""></option>
                         {% assign tiers = site.data.tierlist %}
                         {% for tier in tiers %}
-                            {% for type in tier.types %}
-                                <option value="{{type.id}}">{{type.display}}</option>
-                            {% endfor %}
+                            {% if tier.category != "Archive" %}
+                                {% for type in tier.types %}
+                                    <option value="{{type.id}}">{{type.display}}</option>
+                                {% endfor %}
+                            {% endif %}
                         {% endfor %}
                     </select>
                 </div>
@@ -48,7 +54,7 @@ permalink: /submit-your-deck/
                 <div class="form-group">
                     <label>Search a card</label>
                     <input type="text" class="form-control" data-bind="textInput: searchTerm">
-                    <div id="deck">
+                    <div id="deck" class="card-search">
                         <div id="cards" data-bind="foreach: filteredCards">
                             <div class="item" data-bind="attr: {'data-name': name}">
                                 <a><img class="dcards" data-bind="attr: { src: $root.GetCardUrl(name) }" alt=""></a> 

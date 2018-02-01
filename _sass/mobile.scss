@@ -1,34 +1,3 @@
-@media only screen and (max-width: 768px)
-{
-  .cardname
-  {
-    text-align: center;
-    font-size: 1.5em;
-  }
-
-  .hero
-  {
-    margin-top: 50px;
-    position: static;
-  } 
-  
-  .rarity
-  {
-    height: 2rem;
-  }
-
-  .col-12.card-deck.header
-  {
-    max-width: 50%;
-  }
-  
-  .card-img-top
-  {
-    max-height: 100px;
-    min-height: 100px;
-  }
-}
-
 /*extra small - max width */
 @media (max-width: 767px)
 {
@@ -73,33 +42,40 @@
   .banner-lg { width:468px; height:60px; }
 }
 
+/* OUR CUSTOM MEDIA QUERIES */
+
 @media only screen and (max-width: 767px)
 {
-  .navbar
-  {
-    .navbar-nav {
-      li.nav-item > a.nav-link
-      {
-        padding-top: 6px;
-      }
+  body { font-size: 16px; }
+  h1 { font-size: 36px; letter-spacing: 0.5px; }
+  h2 { font-size: 28px; letter-spacing: 0.3px; }
+  h3 { font-size: 24px; letter-spacing: normal; }
+  h4 { font-size: 21px; }
+  h5 { font-size: 19px; }
+  h6 { font-size: 17px; }
   
-      li.nav-item:last-child
-      {
-        margin-bottom: 6px;
-      }
-    }
+  .cardname { text-align: center; font-size: 1.5em; }
+  .hero { margin-top: 50px; position: static; }
+  .rarity { height: 2rem; }
+  .col-12.card-deck.header { max-width: 50%; }
+  .card-img-top { max-height: 100px; min-height: 100px; } 
+}
 
-    .navbar-brand 
-    {
-      margin-right: auto!important;
-      margin-left: auto!important;
-    }
-  }
+@media only screen and (max-width: 583px)
+{
+  .page-group-small   { display: flex; justify-content: center; }
+  .page-group-default { display: none; }
+}
+
+@media only screen and (min-width: 583px)
+{
+  .page-group-small   { display: none; }
+  .page-group-default { display: inline-flex; }
 }
 
 @media only screen and (max-width: 575px)
 {
-  body { font-size: 16px; }
+  body { font-size: 15px; }
 
   .decktype-filter .btn-wrapper
   {
@@ -107,15 +83,8 @@
 
     .btn-decktype
     {
-      > .decktype-display
-      {
-        font-size: 17px;
-      }
-
-      > .decktype-count
-      {
-        font-size: 18px;
-      }
+      > .decktype-display { font-size: 17px; }
+      > .decktype-count   { font-size: 18px; }
     }
   }
 }
@@ -135,23 +104,33 @@
   
       .btn-decktype 
       {
-        > .decktype-display
-        {
-          font-size: 15px;
-        }
-
-        > .decktype-count
-        {
-          font-size: 16px;
-        }
+        > .decktype-display { font-size: 15px; }
+        > .decktype-count   { font-size: 16px; }
       }
+    }
+  }
+
+  .pagination
+  {
+    .page-item .page-link { padding-top: 3px; min-width: 33px; }
+
+    &.previous .page-item .page-link,
+    &.next .page-item .page-link
+    {
+      padding-top: 7px;
     }
   }
 }
 
 @media only screen and (max-width: 430px)
 {
-  body { font-size: 15px; }
+  body { font-size: 14px; }
+  h1 { font-size: 28px; letter-spacing: normal; }
+  h2 { font-size: 25px; letter-spacing: normal; }
+  h3 { font-size: 22px; }
+  h4 { font-size: 20px; }
+  h5 { font-size: 18px; }
+  h6 { font-size: 16px; }
 
   .decktype-filter
   {
@@ -164,33 +143,42 @@
       padding-left: 7px;
       margin-bottom: 12px;
 
-      > .decktype-new
-      {
-        width: 30px;
-      }
+      > .decktype-new { width: 30px; }
 
       .btn-decktype 
       {
         height: 38px;
 
-        > .decktype-card
-        {
-          height: 204%;
-          clip: rect(0px, 46px, 70px, 0px);
-        }
-
-        > .decktype-display
-        {
-          font-size: 12px;
-          padding-left: 40px;
-        }
-
-        > .decktype-count
-        {
-          font-size: 15px;
-          margin-bottom: -2px;
-        }
+        > .decktype-card { height: 204%; clip: rect(0px, 46px, 70px, 0px); }
+        > .decktype-display { font-size: 12px; padding-left: 40px; }
+        > .decktype-count { font-size: 15px; margin-bottom: -2px; }
       }
+    }
+  }
+
+  .pagination
+  {
+    margin-left: 0;
+    margin-right: 0;
+
+    &.pages
+    {
+      width: 100%;
+      justify-content: center;
+    }
+
+    &.previous
+    {
+      width: 50%;
+      justify-content: flex-end;
+      padding-right: 8px;
+    }
+
+    &.next
+    {
+      float: left;
+      width: 50%;
+      padding-left: 8px;
     }
   }
 }
@@ -199,33 +187,14 @@
 {
   .decktype-filter .btn-wrapper
   {
-    > .decktype-new
-    {
-      width: 25px;
-    }
+    > .decktype-new { width: 25px; }
 
     .btn-decktype 
     {
       line-height: 15px;
 
-      > .decktype-display
-      {
-        padding-left: 38px;
-        letter-spacing: 0px;
-      }
-
-      > .decktype-count
-      {
-        font-size: 14px;
-      }
+      > .decktype-display { padding-left: 38px; letter-spacing: 0px; }
+      > .decktype-count   { font-size: 14px; }
     }
-  }
-}
-
-@media only screen and (min-width: 767px)
-{
-  .navbar-collapse
-  {
-    flex-basis: inherit;
   }
 }

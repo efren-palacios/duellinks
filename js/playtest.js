@@ -1,5 +1,11 @@
 $('#play').click(function() {
-  $('#playtest').show()
+  $('#playtest').show({
+    complete: function() {
+      // Note: Some skills require card position movement, thus
+      // they need access to coordinates after the page has rendered     
+      handleSkill(Phase.STANDBY);
+    }
+  });
 })
 
 $(function() {
@@ -117,6 +123,7 @@ function importDeck(deck) {
   shuffleDeck(decklist)
   $('#hand').empty();
   handleSkill(Phase.DRAW); 
+  handleSkill(Phase.STANDBY); 
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(deck)
   }
@@ -131,7 +138,7 @@ $(function() {
   refreshDeck(currentDeck);
   shuffleDeck(decklist);
   $('#hand').empty();
-  handleSkill(Phase.DRAW);  
+  handleSkill(Phase.DRAW); 
 })
 
 /*
@@ -147,6 +154,11 @@ Phase.DRAW = "Draw Phase"
 Phase.STANDBY = "Standby Phase"
 Phase.MAIN = "Main Phase"
 
+// Note: The id is high to accommodate the number of cards in a deck
+// It must be a number for the 'snappedEvent' function  
+let Skill = {}
+Skill.DEFAULT_ID = "99"
+
 function handleSkill(phase) {
   switch(phase) {
     case Phase.DRAW: 
@@ -160,15 +172,67 @@ function handleSkill(phase) {
           }
 
           break;
+        case "Duel, standby!":
+          for (var i = 0; i < 5; i++) {
+            dealHand(randomCard());
+          }   
+          
+          break;
         default: 
           for (var i = 0; i < 4; i++) {
             dealHand(randomCard());
           }
       }
       break;
+    case Phase.STANDBY:
+      switch(playtest.skill) {
+        case "Straight to the Grave":  
+          addCardToField(Skill.DEFAULT_ID, "Wasteland", 0);          
+          break;
+        case "Middle Age Mechs":
+          addCardToField(Skill.DEFAULT_ID, "Ancient Gear Castle", 7);          
+          break;
+        case "Dinosaur Kingdom":
+          addCardToField(Skill.DEFAULT_ID, "Jurassic World", 0);          
+          break;  
+        case "Fields of the Warriors":
+          addCardToField(Skill.DEFAULT_ID, "Sogen", 0);          
+          break;  
+      }
+      break;
     default:
-      console.error("The following phase has not been defined: " + phase)
-  }
+      console.error("The following phase has not been defined: " + phase) 
+  }  
+}
+
+function addCardToField(id, cardName, position) {
+  // Create the div and temporarily add it to the hand slot
+  $('#hand').append(`<div id="cardId${id}" class="testcard-slot-row"><div class="hand cardMain${id}"><img id="${id}" src="https://yugiohprices.com/api/card_image/${cardName}" /></div>`)
+
+  // Make the card draggable
+  let nameDom = ('.cardMain' + id);
+  $(nameDom).css('border', 'none');
+  $(nameDom).draggable({
+    snap: '.testcard-slot',
+    snapMode: 'inner',
+    snapTolerance: '22',
+    stack: '.hand',
+    stop: function() {
+      snappedEvent($(this), false, snappedToDeck);
+    },
+    create: function() {
+      addHand(cardName, id); 
+
+      // Update the location of the card, as needed
+      var cardslotPosition = $($('.testcard-slot')[position]).offset();
+      $(nameDom).offset(cardslotPosition);
+      
+      // Manually update the hand, as the offset isn't equal to dragging
+      let cardIdInHand = getCardPositionInArray(hand, Number(id));
+      hand[cardIdInHand].moved = true;
+      refreshHand();  
+    }
+  }); 
 }
 
 $(document).on("click", ".hand img", function() {
@@ -208,6 +272,7 @@ $('#new').click(function() {
   $('.tokencopy').remove();
   $('#hand').empty();
   handleSkill(Phase.DRAW);
+  handleSkill(Phase.STANDBY); 
   if ($('#deckmenu').dialog('isOpen')) {
     openDeck(currentDeck)
   }
@@ -347,31 +412,59 @@ function shuffleDeck(a) {
 }
 
 function snappedEvent(cardDOM, extra, event) {
-  var draggable = cardDOM.data("ui-draggable");
-  $.each(draggable.snapElements, function(index, element) {
-    if (element.snapping) {
-      var snapped = draggable.snapElements;
+  // Shift the hand, if necessary
+  let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
+  hand[cardIdInHand].moved = true;
+  refreshHand();
 
-      var snappedTo = $.map(snapped, function(element) {
-        return element.snapping ? element.item : null;
-      });
+  // Get the center point of the dragged card
+  var cardCenter = getCenterPoint(cardDOM);
 
-      let snapToId = (extra == true) ? 'playerextradeck' : 'playerdeck';
-
-      let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
-      hand[cardIdInHand].moved = true;
-
-      refreshHand();
-
-      $.each(snappedTo, function(idx, item) {
-        if ($(item).children().first().attr('id') == snapToId) {
-          event(cardDOM, extra);
-        }
-      });
-
+  // Get the player and extra deck card slot elements 
+  var cardSlotElements = $(".testcard-slot");
+  var playerDeckElem;
+  var extraDeckElem;
+  $.each(cardSlotElements, function(index, element) {
+    if($(element).children().first().attr('id') == "playerdeck") {
+      playerDeckElem = element;
+    }      
+    if($(element).children().first().attr('id') == "playerextradeck") {
+      extraDeckElem = element;
+    }
+    if(playerDeckElem && extraDeckElem) {
       return false;
     }
-  });
+  });  
+
+  // Determine if the card's center point is within the player deck area 
+  // (with a 10px buffer for margins)
+  var playerdeckCenter = getCenterPoint($(playerDeckElem));
+  var playerdeckLowerHeight = playerdeckCenter.y - ($(playerDeckElem).height()/2) - 10;
+  var playerdeckUpperHeight = playerdeckCenter.y + ($(playerDeckElem).height()/2) + 10;
+  var playerdeckLowerWidth = playerdeckCenter.x - ($(playerDeckElem).width()/2) - 10;
+  var playerdeckUpperWidth = playerdeckCenter.x + ($(playerDeckElem).width()/2) + 10;
+  var playerdeckCenterInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
+  var playerdeckCenterInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
+
+  // Determine if the card's center point is within the extra deck area 
+  // (with a 10px buffer for margins)
+  var extradeckCenter = getCenterPoint($(extraDeckElem));
+  var extradeckLowerHeight = extradeckCenter.y - ($(extraDeckElem).height()/2) - 10;
+  var extradeckUpperHeight = extradeckCenter.y + ($(extraDeckElem).height()/2) + 10;
+  var extradeckLowerWidth = extradeckCenter.x - ($(extraDeckElem).width()/2) - 10;
+  var extradeckUpperWidth = extradeckCenter.x + ($(extraDeckElem).width()/2) + 10;
+  var extradeckCenterInHeight = (extradeckLowerHeight <= cardCenter.y) && (cardCenter.y <= extradeckUpperHeight);
+  var extradeckCenterInWidth = (extradeckLowerWidth <= cardCenter.x) && (cardCenter.x <= extradeckUpperWidth);
+
+  // Add the card to the player deck, if needed
+  if((playerdeckCenterInHeight && playerdeckCenterInWidth) && !extra ) {
+    event(cardDOM, extra);    
+  } 
+
+  // Add the card to the extra deck, if needed
+  if((extradeckCenterInHeight && extradeckCenterInWidth) && extra) {
+    event(cardDOM, extra);
+  }
 }
 
 function snappedToDeck(cardDOM, extra){
@@ -390,6 +483,23 @@ function snappedToDeck(cardDOM, extra){
 
   return false;
 }
+
+function getCenterPoint(div) {
+  var offset = div.offset();
+  var height = div.height();
+  var width = div.width();
+  
+  var x = 0;
+  var y = 0;
+  
+  x = offset.left + (width / 2);
+  y = offset.top + (height / 2);
+
+  var center = {};
+  center.x = x;
+  center.y = y;
+  return center;  
+}  
 
 function refreshHand(){
   for(i in hand){

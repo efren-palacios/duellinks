@@ -86,6 +86,20 @@ function GetAllSkills()
     $("#skill").easyAutocomplete(options);
 }
 
+function MakeCardsClickable()
+{
+    $(".deck-submission").on("click", ".card-search .item", function()
+    {
+        AddCardToUserDeck($(this).data("name"));
+    });
+
+    $(".deck-submission").on("click", "#deck-container .item", function()
+    {
+        RemoveCardFromUserDeck($(this).data("name"), $(this).data("number"));
+    });
+}
+
+//todo: make it so we dont have to call this each time the search results change
 function MakeCardsDraggable()
 {
     $(".item").draggable({helper: "clone", zIndex: 10000});
@@ -105,18 +119,11 @@ function MakeBoxesDroppable()
             var self = ui;
             ui.helper.off('mouseup').on('mouseup', function ()
             {
+                
                 var name = $(ui.draggable).data("name");
                 var number = $(ui.draggable).data("number");
 
-                DeckSubmissionViewModel.selectedMainCards.remove(function(card)
-                {
-                    return card.name == name && card.number === number;
-                });
-
-                DeckSubmissionViewModel.selectedExtraCards.remove(function(card)
-                {
-                    return card.name == name && card.number === number;
-                });
+                RemoveCardFromUserDeck(name, number);
             });
         }
     });
@@ -128,7 +135,44 @@ function AddCardToUserDeck(name)
     
     if(nextNumber <= 3)
     {
-        $.getJSON("https://www.ygohub.com/api/card_info?name=" + encodeURIComponent(name), function(data)
+        $.ajax(
+        {
+            type: 'GET',
+            url: "https://www.ygohub.com/api/card_info?name=" + encodeURIComponent(name),
+            success: function (result)
+            {
+                var data = $.parseJSON(result);
+
+                if(data.status === "success" && (!MainDeckIsFull() || !ExtraDeckIsFull()))
+                {
+                    var card = 
+                    {
+                        name: name,
+                        type: GetTypeId(data.card.type),
+                        attack: parseInt(data.card.attack),
+                        isNormal: $.inArray("Effect", data.card.monster_types) < 0,
+                        number: nextNumber
+                    }
+
+                    if(!data.card.is_extra_deck && !MainDeckIsFull())
+                    {
+                        DeckSubmissionViewModel.selectedMainCards.push(card);
+                    }
+                    else if(data.card.is_extra_deck && !ExtraDeckIsFull())
+                    {
+                        DeckSubmissionViewModel.selectedExtraCards.push(card);
+                    }
+
+                    MakeCardsDraggable();
+                }
+            },
+            error: function ()
+            {
+                
+            }
+        });
+
+        /*$.getJSON("https://www.ygohub.com/api/card_info?name=" + encodeURIComponent(name), function(data)
         {
             if(data.status === "success" && (!MainDeckIsFull() || !ExtraDeckIsFull()))
             {
@@ -141,19 +185,32 @@ function AddCardToUserDeck(name)
                     number: nextNumber
                 }
 
-                if(!data.card.is_extra_deck && !MainDeckIsFull())
+                if(!data.card.is_extra_deck && !MainDeckIsFull() && GetNextNumber(name) <= 3)
                 {
                     DeckSubmissionViewModel.selectedMainCards.push(card);
                 }
-                else if(data.card.is_extra_deck && !ExtraDeckIsFull())
+                else if(data.card.is_extra_deck && !ExtraDeckIsFull() && GetNextNumber(name) <= 3)
                 {
                     DeckSubmissionViewModel.selectedExtraCards.push(card);
                 }
 
                 MakeCardsDraggable();
             }
-        });
+        });*/
     }
+}
+
+function RemoveCardFromUserDeck(name, number)
+{
+    DeckSubmissionViewModel.selectedMainCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
+
+    DeckSubmissionViewModel.selectedExtraCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
 }
 
 function GetNextNumber(name)
@@ -237,6 +294,8 @@ function GetTypeName(typeId)
 
 function BindFormEvents()
 {
+    MakeCardsClickable();
+
     $("#SubmitDeck").click(function()
     {
         $("form.deck-submission").submit();

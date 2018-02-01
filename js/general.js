@@ -2,6 +2,10 @@ $(document).ready(function()
 {
     ExecuteOnReadyFunctions();
     BindPageEvents();
+
+    $('.carousel').carousel({
+        interval: false
+    })
 });
 
 function ExecuteOnReadyFunctions()
@@ -13,6 +17,7 @@ function BindPageEvents()
 {
     BindTabsToUrlHash();
     BindCollapsableTables();
+    BindSeasonArchiveSelection();
 }
 
 function ReadUrlHashFragment()
@@ -45,5 +50,15 @@ function BindCollapsableTables()
         {
             $(elem).toggleClass("collapsed");
         });
+    });
+}
+
+function BindSeasonArchiveSelection()
+{
+    $("#SeasonArchiveLink").attr("href", "/top-decks/" + $("#SeasonArchiveSelection option").eq(0).val());
+
+    $("#SeasonArchiveSelection").change(function(event)
+    {
+        $("#SeasonArchiveLink").attr("href", "/top-decks/" + $(event.target).val());
     });
 }

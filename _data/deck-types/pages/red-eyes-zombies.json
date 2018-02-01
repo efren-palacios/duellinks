@@ -1,0 +1,125 @@
+{
+    "deck-type": "Red-Eyes Zombies",
+    "created-by": "Insano - Red Eyes Expert",
+    "modified-by": "Insano - Red Eyes Expert",
+    "modified-on": "January 21st, 2018",
+    "profile": "insano",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Red-eyes Zombie Dragon is the most versitile deck in the meta and one of the most powerful decks in the short history of Yu-Gi-Oh Duel Links. This deck is based on an engine powered by the multiple effects of it's boss monster, Red-Eyes Zombie Dragon and it's most imperative zombie monster, Gozuki. This is a very explosive otk deck that uses the best combo card in the game, Red-Eyes insight and the trap card, red-eyes spirit to flood the field with powerful 2400 atk/ 2000def monsters. This deck has much room for techs and powerful staple cards suck as enemy controller which helps it counter any weakness it may have."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Below you can find popular choices among REZ players."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Beatdown",
+                        "main":
+                        [
+                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
+                            { "name": "Gozuki", "amount": "3" },
+                            { "name": "Red-Eyes Wyvern", "amount": "1" },
+                            { "name": "Samurai Skull", "amount": "2" },
+                            { "name": "Bacon Saver", "amount": "1" },
+                            { "name": "Red-Eyes Insight", "amount": "2" },
+                            { "name": "Storm", "amount": "2" },
+                            { "name": "Super Rush Headlong", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Red-Eyes Spirit", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
+                            { "name": "Gozuki", "amount": "2" },
+                            { "name": "Bacon Saver", "amount": "2" },
+                            { "name": "Samurai Skull", "amount": "1" },
+                            { "name": "Red-Eyes Insight", "amount": "2" },
+                            { "name": "Red-Eyes Spirit", "amount": "2" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These are the cards you shouldn't play the deck without."
+                },
+                {
+                    "paragraph": "For every {Gozuki} you're missing, replace with {Samurai Skull}"
+                }           
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy controller" },
+                            { "name": "Mirror Wall" },
+                            { "name": "Super Rush Headlong" },
+                            { "name": "Curse of Anubis" },
+                            { "name": "Windstorm of Etaqua" },
+                            { "name": "Wall of Disruption" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
+                }   
+            ]
+        },
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                
+            ]
+        }
+    ]
+}

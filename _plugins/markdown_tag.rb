@@ -18,6 +18,7 @@ module Jekyll
             markedText = Array.new
             customTagsIndex = Array.new
             customTagsName = Array.new
+			customTagData = Array.new
             decks = Array.new
 
             lastTagOpen = -1
@@ -43,8 +44,26 @@ module Jekyll
                         if(currChar == "}")
                             markedText.push(tagContent)
                         elsif(currChar == "]")
-                            customTagsIndex.push(i + 1)
+                            customTagsIndex.push(i)
                             customTagsName.push(tagContent)
+							
+							startContent = -1
+							addedData = false
+							for j in i...content.length
+								currLocalChar = content[j].chr
+								if(currLocalChar == "(")
+									startContent = j
+								elsif(currLocalChar == ")" && startContent > 0)
+									tagData = content[startContent + 1, j - startContent - 1]
+									customTagData.push(tagData)
+									addedData = true
+									break
+								end
+							end
+							
+							if addedData == false
+								customTagData.push("")
+							end
                         end
                     end
 
@@ -55,53 +74,75 @@ module Jekyll
             skillsJsonFile = File.read('_data/skills.json')
             skillsJson = JSON.parse(skillsJsonFile)
 
-            for i in 0...customTagsIndex.size
+			galleryCount = 0
+            for i in (0...customTagsIndex.size).to_a.reverse
                 startI = customTagsIndex[i]
                 tag = customTagsName[i]
+				tagData = customTagData[i]
 
-                startContent = -1
-                for j in startI...content.length
-                    currChar = content[j].chr
-                    if(currChar == "(")
-                        startContent = j
-                    elsif(currChar == ")" && startContent > 0)
-                        tagContent = content[startContent + 1, j - startContent - 1]
+                if(tag.include? "gallery")	
+					imageLinks = tagData.split(',')
 
-                        if(tag == "gallery")
-                            imageLinks = tagContent.split(',')
-                            
-                            galleryHtml = '
-                            <div id="imageGallery" class="carousel slide" data-ride="carousel">
-                                <ol class="carousel-indicators">'
+					carouselSize = ""
+					if(tag.include? "1/3")
+						carouselSize = "carousel-size-1-3"
+					elsif(tag.include? "2/3")
+						carouselSize = "carousel-size-2-3"
+					else
+						carouselSize = "carousel-size-3-3"
+					end
 
-                            for k in 0...imageLinks.length
-                                galleryHtml += '<li data-target="#imageGallery" data-slide-to="' + k.to_s + '">';
-                            end
+					carouselImageHeight = ""
+					if(tag.include? "h3")
+						carouselImageHeight = "carousel-image-size-h3"
+					elsif(tag.include? "h2")
+						carouselImageHeight = "carousel-image-size-h2"
+					else
+						carouselImageHeight = "carousel-image-size-h1"
+					end
 
-                            galleryHtml += '</ol>
-                                <div class="carousel-inner">'
+galleryHtml = '
+<div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
+	<div class="carousel-inner">
+		<div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>'
 
-                            for k in 0...imageLinks.length
-                                galleryHtml += '<div class="item"><img src="' + imageLinks[k] + '"></div>';
-                            end
+for k in 1...imageLinks.length
+	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
+	';
+end
 
-                            galleryHtml += '</div>
-                                <a class="left carousel-control" href="#imageGallery" data-slide="prev">
-                                    <span class="glyphicon glyphicon-chevron-left"></span>
-                                    <span class="sr-only">Previous</span>
-                                </a>
-                                <a class="right carousel-control" href="#imageGallery" data-slide="next">
-                                    <span class="glyphicon glyphicon-chevron-right"></span>
-                                    <span class="sr-only">Next</span>
-                                </a>
-                                </div>'
+galleryHtml += '</div>
+	<a class="carousel-control-prev" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="prev">
+		<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="carousel-control-next" href="#imageGallery' + galleryCount.to_s + '" role="button" data-slide="next">
+		<span class="carousel-control-next-icon" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>'
 
-                            content.gsub! '[' + tag + '](' + tagContent + ')', galleryHtml
-                        end
+					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
+					galleryCount = galleryCount + 1
+				
+                elsif(tag.include? "deck")
+                    cardNames = tagData.split(',')
 
-                        startContent = -1
-                        break
+                    deckContainer = '<div id="deck-container" class="ui-droppable card-deck-markdown">
+                        <div id="deck">
+                            <div id="cards">'
+
+                    for card in cardNames
+                        deckContainer += '<div class="markdown-item">
+                            <a><img class="dcards" alt="" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '"></a>
+                        </div>'
                     end
+
+                    deckContainer += '</div>
+                    </div>
+                    </div>'
+
+                    content.sub!('[' + tag + '](' + tagData + ')', deckContainer)
                 end
             end
 

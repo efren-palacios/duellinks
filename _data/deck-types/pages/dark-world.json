@@ -1,0 +1,117 @@
+{
+    "deck-type": "Dark World",
+    "created-by": "GiaJoestar - Fiend Queen",
+    "modified-by": "GiaJoestar - Fiend Queen",
+    "modified-on": "January 21st, 2018",
+    "profile": "giajoestar",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Dark Worlds is an archtype that mainly focuses on discarding monsters out of your hand to gain their effects. Almost all Dark World monsters have an effect when you discard them with many monsters gaining a second effect if discarded by your opponents effect. Dark World can be played as an explosive OTK deck or a control based deck with the addition of {Dark Necrofear} and other cards.."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Below you can find popular choices among Dark World players."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Duel, standby!",
+                        "main":
+                        [
+                            { "name": "Reign-Beaux, Overlord of Dark World", "amount": "3" },
+                            { "name": "Ceruli, Guru of Dark World", "amount": "3" },
+                            { "name": "Snoww, Unlight of Dark World", "amount": "3" },
+                            { "name": "Broww, Huntsman of Dark World", "amount": "3" },
+                            { "name": "Trance Archfiend", "amount": "3" },
+                            { "name": "Dark World Dealings", "amount": "3" },
+                            { "name": "Dark World Lightning", "amount": "2" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Snoww, Unlight of Dark World", "amount": "3" },
+                            { "name": "Dark World Dealings", "amount": "3" },
+                            { "name": "Trance Archfiend", "amount": "1" },
+                            { "name": "Dark World Lightning", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These are the cards you shouldn't play the deck without."
+                },
+                {
+                    "paragraph": "The more of these cards the better. {Snoww, Unlight of Dark World] and {Dark World Dealings} are important to keep maxxed. E#verything else you can play with."
+                }           
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Dark World Lightning" },
+                            { "name": "Dark Necrofear" },
+                            { "name": "Dark Smog" },
+                            { "name": "Sphere Kuriboh" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- You can set your own monsters or spell and traps and destroy them with {Dark World Lightning} to get your combos started."
+                }   
+            ]
+        },
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                
+            ]
+        }
+    ]
+}

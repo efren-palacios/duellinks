@@ -1,0 +1,146 @@
+{
+    "deck-type": "Hazy Flame",
+    "created-by": "Superforms",
+    "modified-by": "Superforms",
+    "modified-on": "January 21st, 2018",
+    "profile": "Superforms",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Hazy Flame decks are strong for a few reasons:  The main monster, {Hazy Flame Sphynx}, can constantly bring out new monsters to keep your front-row strong;  all Hazy Flame monsters are immune from your opponent's targeted effects ( {Enemy Controller}, {Gladiator Beast Murmillo}, {Massivemorph}, etc);  the synergy of single-tribute monsters with {Soul Exchange} means that the deck can thrive against slower decks that do not special summon; and the front-row reinforcements provided by Sphynx work in perfect tandem with the trap {Beast Rising} to produce untargetable monsters with huge attack."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Aroma Strategy",
+                        "main":
+                        [
+                            { "name": "Flame Tiger", "amount": "1" },
+                            { "name": "Caninetaur", "amount": "2" },
+                            { "name": "Hazy Flame Sphynx", "amount": "3" },
+                            { "name": "Hazy Flame Cerbereus", "amount": "3" },
+                            { "name": "Soul Exchange", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Floodgate Trap Hole", "amount": "3" },
+                            { "name": "Beast Rising", "amount": "3" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Hazy Flame Sphynx", "amount": "3" },
+                            { "name": "Hazy Flame Cerbereus", "amount": "2" },
+                            { "name": "Caninetaur", "amount": "1" },
+                            { "name": "Flame Tiger", "amount": "1" },
+                            { "name": "Soul Exchange", "amount": "2" },
+                            { "name": "Beast Rising", "amount": "2" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These cards make up the main engine of the archtype."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Hazy Glory", "amount": "1" },
+                            { "name": "Super Rush Headlong", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "1" },
+                            { "name": "Mirror Wall", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Forbidden Chalice", "amount": "1" },
+                            { "name": "Sergeant Electro", "amount": "1" },
+                            { "name": "Fire Formation - Gyokkou", "amount": "1" },
+                            { "name": "Xing Zhen Hu", "amount": "1" },
+                            { "name": "Cosmic Cyclone", "amount": "1" },
+                            { "name": "Mausoleum of the Emperor", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions in a Hazy Flame deck."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "• When summoning Cerbereus, it will first ask you if you want to summon without tributing (unless Glory is active, in which case it will ask you to use Glory's effect first). If you want to tribute (with Soul Exchange or otherwise), press No to this first prompt and then Yes to the second. Basically, pay attention when summoning Cerbereus."
+                },
+                {
+                     "paragraph": "• Attack replay cannot occur in the Damage Step. Suppose you have 2x Hazy Flame Sphynx on the field in defense position (after a Windstorm) and Beast Rising set. Your opponent summons an Ancient Gear Knight and sits at 2100 ATK (thanks to Ancient Gear Castle), able to swing over either one of your Sphynxs. When he attacks, if you use Beast Rising before the Damage Step, he will have the opportunity to choose the non-banished monster as the new attack target. However, if you wait until the Damage Step to banish the attack target, your opponent will not be able to choose the remaining monster as the new target and your boosted Hazy Flame Sphynx will be safe."
+                },
+                {
+                    "paragraph": "• Watch for delays after you're prompted about Beast Rising's Damage Step activation to check your opponent's back-row for Mirror Walls."
+                },
+                {
+                    "paragraph": "• Beast Rising's effect can be used immediately when activated. Hazy Glory's second effect must be activated on a chain separate from its activation."
+                },
+                {
+                   "paragraph": "• In any match-up against other Beast- or Beast-Warrior-type monsters (Laquari in Gladiators, Yaksha in Phoenix, etc), you can steal your opponent's monster with Enemy Controller, swing into something, and then use Beast Rising to banish that monster for your own ATK boost. This is devastating to both Gladiator and Phoenix decks, as the former wants to tag out with that monster and the second relies on Yaksha's destruction."
+                },
+                {
+                   "paragraph": "• In general, do not overcommit to the field; an extra Hazy in hand while you have an established field presence is a nice safety option in case of something like Lava Golem or Wall of Disruption. Try to avoid going all-in on plays that are not required and would cause you to lose if disrupted. Remember: Sphynx plus Beast Rising is not an auto-win. You still have to finish the duel after that. Don't tunnel-vision into that combo too readily."
+                }           
+            ]
+        },    
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                "the-hazy-guide-october-edition"
+            ]
+        }
+    ]
+}

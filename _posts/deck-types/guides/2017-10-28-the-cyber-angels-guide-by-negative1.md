@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: The Cyber Angels Guide
-category: deck-type-guide
 author: Negative1
+category: deck-type-guide
 image: /img/guides/the-cyber-angels-guide-by-negative1/thumbnail.png
 date: 2017-12-11
 comments: false
@@ -12,8 +12,7 @@ deck-type: cyber-angels
 permalink: /guides/the-cyber-angels-guide-by-negative1/
 ---
 
-# The Cyber Angels Guide
-## by Negative1
+{% include heading.html title=page.title author=page.author %}
 
 ### **Table of Contents**
 

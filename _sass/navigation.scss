@@ -18,6 +18,9 @@
   {
     cursor: pointer;
     min-height: 48px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
   }
 
   .navbar-brand 
@@ -33,13 +36,20 @@
   .navbar-nav
   {
     text-align: center;   
+
+    .nav-item .nav-link
+    {
+      font-family: "Alegreya-Medium";
+    }
   }
 
-  .container {
+  .container
+  {
     margin-top: 0px;
     margin-bottom: 0px;
 
-    .navbar-items {
+    .navbar-items
+    {
       display: flex;
     }
   }
@@ -77,7 +87,7 @@ li.nav-item > a.nav-link:focus
     margin-right: 0px;
   }
 
-  > .page-item
+  .page-item
   {
     display: inline;
 
@@ -115,12 +125,58 @@ li.nav-item > a.nav-link:focus
         font-size: 15px;
       }
     }
+  }
 
-    &.previous .page-link,
-    &.next .page-link
+  &.previous { float: left; }
+  &.next { float: right; }
+
+  &.previous .page-item .page-link,
+  &.next .page-item .page-link
+  {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+// Adjust the navbar at a custom width for word spacing
+@media only screen and (max-width: 887px)
+{
+  .navbar-expand-md .navbar-toggler {
+    display: block;  
+  } 
+  .navbar
+  {
+    .navbar-nav
     {
-      padding-top: 10px;
-      padding-bottom: 10px;
+      li.nav-item > a.nav-link { padding-top: 6px; }
+      li.nav-item:last-child { margin-bottom: 6px; }
     }
+
+    .navbar-brand  { margin-right: auto !important; margin-left: auto !important; }
+  }
+  .navbar-expand-md>.container {
+    flex-wrap: wrap;
+  }
+  .navbar-expand-md .navbar-nav {
+    flex-direction: column;
+  }
+  .navbar-expand-md .navbar-collapse.collapse {
+    display: none !important;
+  }
+  .navbar-expand-md .navbar-collapse.collapse.show {
+    display: block !important;
+  }
+  .navbar-expand-md .navbar-collapse.collapsing {
+    display: block !important;
+  }
+  .navbar-expand-md>.container {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+@media only screen and (min-width: 887px)
+{
+  .navbar-collapse {
+    flex-basis: inherit;
   }
 }

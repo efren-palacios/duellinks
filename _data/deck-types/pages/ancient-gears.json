@@ -1,0 +1,145 @@
+{
+    "deck-type": "Ancient Gears",
+    "created-by": "MrHadouken",
+    "modified-by": "MrHadouken",
+    "modified-on": "January 23st, 2018",
+    "profile": "MrHadouken",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Ancient Gear is an archetype that consists of mostly EARTH Machine-Type monsters that usually share a common effect: 'If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.' They can Tribute Summon {Ancient Gear Golem} either through normal means or by the effect of {Ancient Gear Castle}."
+                },   
+                {
+                    "paragraph": "The focus of an Ancient Gear Deck is to set up field control with monsters that are quite safe from backrow and using backrow of your own. What makes Ancient Gears so good is how the monsters deal with Backrow in a way; Ancient Gear monsters are safe from cards like Wall of Disruption, while Sergeant Electro locks down or forces sub-optimal activation of the opponent’s cards. All this while you focus your own backrow to have control over you opponent’s frontrow."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Middle Age Mechs",
+                        "main":
+                        [
+                            { "name": "Ancient Gear Golem", "amount": "2" },
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Ancient Gear Knight", "amount": "3" },
+                            { "name": "Heavy Knight of the Flame", "amount": "1" },
+                            { "name": "Sergeant Electro", "amount": "3" },
+                            { "name": "Super Rush Headlong", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Floodgate Trap Hole", "amount": "3" },
+                            { "name": "Mirror Wall", "amount": "1" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Ancient Gear Golem", "amount": "2" },
+                            { "name": "Ancient Gear Knight", "amount": "3" },
+                            { "name": "Sergeant Electro", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "The small core means every other card in the Deck is interchangeable, and the choices and ratios of such will totally depend on the Meta.."
+                },   
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Sphere Kuriboh", "amount": "2" },
+                            { "name": "Heavy Knight of the Flame", "amount": "2" },
+                            { "name": "Ninja Grandmaster Sasuke", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Super Rush Headlong", "amount": "2" },
+                            { "name": "Floodgate Trap Hole", "amount": "3" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },                                                        
+                            { "name": "Pulse Mines", "amount": "2" },
+                            { "name": "Mirror Wall", "amount": "2" }, 
+                            { "name": "Xing Zhen Hu", "amount": "2" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All these cards can be used in optimal Ancient Gear Builds. You can exclude them from your build, I’ll only provide the MAXIMUM amount of copies you could run, the minimum being 0."
+                },
+                {
+                    "paragraph": "REMEMBER that this Deck doesn’t search or draw outside of the Draw Phase, so making every card matter is important. Try to keep a balanced Ratio of Monster:Spell/Trap in around 10:10 or 9:11 respectively. (Do not count {Sphere Kuriboh} as a monster when thinking about these ratios)"
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- If “Sergeant Electro” is already on the field, remember to use its effect as the first thing you do every Main Phase."
+                },   
+                {
+                    "paragraph": "- Do not rush in to Summon “Ancient Gear Golem” if you have other options available. Remember it doesn’t protect itself."
+                },
+                {
+                    "paragraph": "- If your opponent has something set and it doesn’t prompt any delay when you Summoned a monster, performed any other action during the Main Phase, and went to the Battle Phase, its most likely {Wall of Disruption} or {Draining Shield}. This means an Ancient Gear monster is safe to attack."
+                },
+                {
+                    "paragraph": "- Always go into the Battle Phase, even when you don’t plan to attack. This can bait the activation of the opponent’s backrow."
+                },   
+                {
+                    "paragraph": "- Don’t make big pushes unless you are safe about it. Ancient Gears lack recovery ability."
+                },   
+                {
+                    "paragraph": "- Ancient Gears are all about adapting. This page is focused on a competitive environment, but the Ranked ladder might be reflected differently."
+                }     
+            ]
+        },    
+        {
+            "title": "Guides",
+            "level": 1,
+            "guides": 
+            [
+                
+            ]
+        }
+    ]
+}

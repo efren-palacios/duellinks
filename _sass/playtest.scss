@@ -28,13 +28,13 @@
   margin: 1rem;
 }
 
-#playerdeck, #deckmenu img {
-    cursor: pointer;
-  }
+#playerdeck {
+  cursor: pointer;
+}
 
-  #playerextradeck img {
-    cursor: pointer;
-  }
+#playerextradeck {
+  cursor: pointer;
+}
   
   #hand {
    flex-wrap: wrap;
@@ -63,6 +63,19 @@
     text-align: center;
     input {
         margin: 1rem 0;
+        margin-right: 10px;       
+    } 
+
+    input:last-child {
+        margin-right: 0px;
+    }
+
+    #export {
+      margin-right: 0px;  
+    }
+
+    .btn-outline-primary:focus {
+      box-shadow: none;
     }
   }
 
@@ -107,7 +120,7 @@
       }
     }
 
-    .stats
+    .actions
     {
       .tools
       {
@@ -123,11 +136,15 @@
           cursor: pointer;
           z-index: 99;
         }
-      }
+      }     
     }
   }
   
   #results {
     position: relative;
     left: 25px;
+}
+
+.btn-outline-primary:hover {
+  cursor: pointer;
 }

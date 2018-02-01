@@ -1,116 +1,164 @@
-<div id="season-identifier" class="hidden" data-season="{{include.season}}"></div>
+<div id="TopDecks">
+    <div id="season-identifier" class="hidden" data-season="{{include.season}}"></div>
 
-<div class="section">
-    <h2>TOP DECKS</h2>
-    <p>Looking for the latest top tier decks? This is the place to be! This section features decks from players who reached King of Games with them in the current season. We constantly keep this section up-to-date with new and strong decks. Want your deck featured in this list? Become a member of our <a href="{{site.url}}/discord/">discord</a> and send your deck to us! We reset this list every season to make sure we provide you with the current best of the best.</p>
-</div>
+    {% assign split = include.season | split: '-' %}
+    {% assign month = site.data.months | where: "id", split[1] %}
 
-<ul class="nav nav-tabs" role="tablist">
-    <li class="nav-item">
-        <a class="nav-link active" id="filters-tab" data-toggle="tab" href="#filters" role="tab" aria-controls="filters" aria-selected="true">Filters</a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab" aria-controls="stats" aria-selected="false">Stats</a>
-    </li>
-</ul>
-<div class="tab-content">
-    <div class="tab-pane fade show active" id="filters" role="tabpanel" aria-labelledby="filters-tab">
-        <div class="section">
-            <h4>FILTER BY TYPE</h4>
-            <div class="decktype-filter row" data-bind="foreach: deckTypes">
-                <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
-                    <img class="decktype-new" data-bind="css: { hidden: $root.deckTypeHasNewDecks($data) == false }" src="/img/assets/new.png" />
-                    <div class="btn-decktype" data-bind="css: { active: $root.activeDeckType() === $rawData }, click: $root.filterByType">
-                        <img  class="decktype-card" data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + card }" />
-                        <span class="decktype-display" data-bind="text: display"></span>
-                        <span class="decktype-count" data-bind="text: count"></span>
+    <div class="section">
+        <h2>TOP DECKS - {{ month[0].name | capitalize }} {{ split[0] }}</h2>
+        <p>Here you can find the latest King of Games decks, the highest PvP ranking in Yugioh Duel Links. Do you have a King of Games Decklist you'd like to see up here on the site? Submit it HERE with proof and it will be featured on our website!</p>
+    </div>
+
+    <div class="section">
+        <p>Check out the top decks from the Meta Weekly tournaments <a href="/meta-weekly-1/"></a>!One <a href="/meta-weekly-2/"></a>!</p>
+    </div>
+
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="filters-tab" data-toggle="tab" href="#filters" role="tab" aria-controls="filters" aria-selected="true">Filters</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="stats-tab" data-toggle="tab" href="#stats" role="tab" aria-controls="stats" aria-selected="false">Stats</a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade show active" id="filters" role="tabpanel" aria-labelledby="filters-tab">
+            <div class="section">
+                <h4>FILTER BY TYPE</h4>
+                <div class="decktype-filter row" data-bind="foreach: deckTypes()">
+                    <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
+                        <img class="decktype-new" data-bind="css: { hidden: $root.deckTypeHasNewDecks($data) == false }" src="/img/assets/new.png" />
+                        <div class="btn-decktype" data-bind="css: { active: $root.activeDeckType() === $rawData }, click: $root.filterByType">
+                            <img  class="decktype-card" data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + card }" />
+                            <span class="decktype-display" data-bind="text: display"></span>
+                            <span class="decktype-count" data-bind="text: count"></span>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="section" id="SkillSelection" data-bind="css: { hidden: $root.filteredSkills().length == 0}">
-            <h4>REFINE BY SKILL</h4>
-            <div class="skill-filter row" data-bind="foreach: filteredSkills">
-                <div class="btn-wrapper col-sm-4 col-md-3 col-lg-2">
-                    <span class="decktype-display" data-bind="text: $rawData, css: { active: $root.activeSkill() === $rawData }, click: $root.filterByTypeAndSkill"></span>
+            <div class="section" id="SkillSelection" data-bind="css: { hidden: $root.filteredSkills().length == 0}">
+                <h4>REFINE BY SKILL</h4>
+                <div class="skill-filter row" data-bind="foreach: filteredSkills">
+                    <div class="btn-wrapper col-sm-4 col-md-3 col-lg-2">
+                        <span class="decktype-display" data-bind="text: $rawData, css: { active: $root.activeSkill() === $rawData }, click: $root.filterByTypeAndSkill"></span>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="section">
-            <table id="TopDecksTable" class="hover">
-                <thead>
-                    <tr>
-                        <th class="thumb-col"></th>
-                        <th class="name">Deck Name</th>
-                        <th class="skill">Skill</th>
-                        <th class="author">Author</th>
-                        <th class="added">Added</th>
-                    </tr>
-                </thead>
-                <tbody data-bind="foreach: pagedDecks">
-                    <tr>
-                        <td class="thumb-col">
-                            <a data-bind="attr: { href: ' ' + url }">
-                                <div class="thumbnail">
-                                    <img data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + front }" class="portrait" />  
-                                </div>
-                            </a>
-                        </td>
-                        <td class="name"><a data-bind="attr: { href: ' ' + url }, text: name"></a></td>
-                        <td><a data-bind="attr: { href: ' ' + url }, text: skill" ></a></td>
-                        <td><a data-bind="attr: { href: ' ' + url }, text: author"></a></td>
-                        <td class="added"><a data-bind="attr: { href: ' ' + url }, text: created"></a></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="section" data-bind="css: { hidden: $root.pages().length <= 1 }">
-            <nav>
-                <ul class="pagination" data-bind="css: { disabled: $root.currentPage() == 1 }">
-                    <li class="page-item previous" data-bind="click: selectFirstPage">
-                        <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
-                    </li>
-                    <li class="page-item previous" data-bind="click: function () { $root.selectPreviousPage($data) }">
-                        <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
-                    </li>
-                </ul>
-                <ul class="pagination pages" data-bind="foreach: $root.pages">
-                    <li class="page-item" data-bind="click: function () { $root.selectPage($data) }, css: { active: $root.currentPage() === $rawData }">
-                        <a class="page-link" data-bind="text: $rawData"></a>
-                    </li>
-                </ul>
-                <ul class="pagination" data-bind="css: { disabled: $root.currentPage() == $root.pages()[$root.pages().length - 1] }">
-                    <li class="page-item next" data-bind="click: function () { $root.selectNextPage($data) }">
-                        <a class="page-link" aria-label="Next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
-                    </li>
-                    <li class="page-item next" data-bind="click: selectLastPage">
-                        <a class="page-link" aria-label="Next"><span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </div>
-    <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
-        <div class="section">
-            <h5>SKILLS</h5>
-            <div id="stats-skills" data-bind="foreach: { data: $root.deckTypes, afterRender: bindCollapsable }">
-                <table class="collapsable stats top-decks-stats">
+            <div class="section">
+                <table id="TopDecksTable" class="hover">
                     <thead>
                         <tr>
-                            <th data-bind="text: display"    class="display"></th>
-                            <th data-bind="text: count"      class="count"></th>
-                            <th data-bind="text: percentage" class="percentage"></th>
+                            <th class="thumb-col"></th>
+                            <th class="name">Deck Name</th>
+                            <th class="skill">Skill</th>
+                            <th class="author">Author</th>
+                            <th class="added">Added</th>
                         </tr>
                     </thead>
-                    <tbody data-bind="foreach: skills">
+                    <tbody data-bind="foreach: pagedDecks">
                         <tr>
-                            <td data-bind="text: display"    class="display"></td>
-                            <td data-bind="text: count"      class="count"></td>
-                            <td data-bind="text: percentage" class="percentage"></td>
+                            <td class="thumb-col">
+                                <a data-bind="attr: { href: ' ' + url }">
+                                    <div class="thumbnail">
+                                        <img data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + front }" class="portrait" />  
+                                    </div>
+                                </a>
+                            </td>
+                            <td class="name"><a data-bind="attr: { href: ' ' + url }, text: name"></a></td>
+                            <td><a data-bind="attr: { href: ' ' + url }, text: skill" ></a></td>
+                            <td><a data-bind="attr: { href: ' ' + url }, text: author"></a></td>
+                            <td class="added"><a data-bind="attr: { href: ' ' + url }, text: created"></a></td>
                         </tr>
                     </tbody>
                 </table>
             </div>
+            <div class="section page-group-default" data-bind="css: { hidden: $root.pages().length <= 1 }">
+                <nav>
+                    <ul class="pagination pages" data-bind="foreach: $root.pages">
+                        <li class="page-item" data-bind="click: function () { $root.selectPage($data) }, css: { active: $root.currentPage() === $rawData }">
+                            <a class="page-link" data-bind="text: $rawData"></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination previous" data-bind="css: { disabled: $root.currentPage() == 1 }">
+                        <li class="page-item" data-bind="click: selectFirstPage">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: function () { $root.selectPreviousPage($data) }">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination next" data-bind="css: { disabled: $root.currentPage() == $root.pages()[$root.pages().length - 1] }">
+                        <li class="page-item" data-bind="click: function () { $root.selectNextPage($data) }">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: selectLastPage">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="section page-group-small" data-bind="css: { hidden: $root.pagesSmall().length <= 1 }">
+                <nav>
+                    <ul class="pagination pages" data-bind="foreach: $root.pagesSmall">
+                        <li class="page-item" data-bind="click: function () { $root.selectPage($data) }, css: { active: $root.currentPage() === $rawData }">
+                            <a class="page-link" data-bind="text: $rawData"></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination previous" data-bind="css: { disabled: $root.currentPage() == 1 }">
+                        <li class="page-item" data-bind="click: selectFirstPage">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-double-left" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: function () { $root.selectPreviousPage($data) }">
+                            <a class="page-link" aria-label="Previous"><span class="fa fa-angle-left" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                    <ul class="pagination next" data-bind="css: { disabled: $root.currentPage() == $root.pagesSmall()[$root.pagesSmall().length - 1] }">
+                        <li class="page-item" data-bind="click: function () { $root.selectNextPage($data) }">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-right" aria-hidden="true"></span></a>
+                        </li>
+                        <li class="page-item" data-bind="click: selectLastPage">
+                            <a class="page-link" aria-label="Next"><span class="fa fa-angle-double-right" aria-hidden="true"></span></a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="stats" role="tabpanel" aria-labelledby="stats-tab">
+            <div class="section">
+                <div class="stats-header">
+                    <h5>SKILLS</h5>
+                    <div class="stats-actions">
+                        <span id="collapse-all">collapse all</span>
+                        <span id="expand-all" class="hidden">expand all</span>
+                    </div>
+                </div>
+                <div id="stats-skills" data-bind="foreach: { data: $root.deckTypes(), afterRender: bindCollapsable }">
+                    <table class="collapsable stats top-decks-stats">
+                        <thead>
+                            <tr>
+                                <th data-bind="text: display"    class="display"></th>
+                                <th data-bind="text: count"      class="count"></th>
+                                <th data-bind="text: percentage" class="percentage"></th>
+                            </tr>
+                        </thead>
+                        <tbody data-bind="foreach: skills">
+                            <tr>
+                                <td data-bind="text: display"    class="display"></td>
+                                <td data-bind="text: count"      class="count"></td>
+                                <td data-bind="text: percentage" class="percentage"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
+{% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+{% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
+{% assign current-season = currentYear | append: '-' | append: currentMonth %}
+
+{% if include.season != current-season %}
+    {% include top-decks-season-archive.html season=include.season %}
+{% endif %}

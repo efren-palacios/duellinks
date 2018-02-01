@@ -9,19 +9,14 @@ comments: false
 description: 
 keywords: event, in-depth event
 permalink: /events/zane-roaming-event-by-perune/
-hide: false
 ---
 
-# {{page.title}}
-## by {{page.author}}
+{% include heading.html title=page.title author=page.author %}
 
-### - Zane Truesdale Event ( Last Updated: 01/09/2018) 
-
-
-
+### Last updated: January 09, 2018
 
 ### Event Info
-####  Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you.       Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
+Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you. Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
 
 ### Event Rewards
 
@@ -57,9 +52,12 @@ How To Play: Ideal starting hand: Sanctuary or spirit barrier +lvl 4 cloudian tu
 
 <a href="https://imgur.com/fOXxzrf"><img src="https://i.imgur.com/fOXxzrf.png" title="source: imgur.com" /></a>
 
+
 #### Unhappy Girl Ra Balance Zane Farm By: Pelat
 How To Play: UG + Barrier, attack his monster, FTH his Daedalus, gain LP with Ladybug, summon Ra last turn (it will be over 13000 minimun if you played correctly).  Always remember to not clock up your monster zone due to the fact that rai-mei could search both UG and Ladybug (usually summon the third UG once you have 3 ladybug in hand).  Cloudian doesn't lock opponent but it's a #4/5 UG for consistency.
-<a href="https://imgur.com/V362LYT"><img src="https://i.imgur.com/V362LYT.jpg" title="source: imgur.com" /></a>
+
+[deck](The Winged Dragon of Ra, The Unhappy Girl, The Unhappy Girl, The Unhappy Girl, A Cat of Ill Omen, A Cat of Ill Omen, Golden Ladybug, Golden Ladybug, Golden Ladybug, Cloudian - Turbulence, Cloudian - Turbulence, Rai-Mei, Rai-Mei, Rai-Mei, Floodgate Trap Hole, Floodgate Trap Hole, Floodgate Trap Hole, Spirit Barrier, Spirit Barrier, Spirit Barrier)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEzNTEwNjAwNTQsMzc2MTgwMywtMjA5Nz
 I4ODE0NCwxMjg0NzQ0NzY5LC0xNTcyNjMwMjQ2LDE5NjIxNDE3
