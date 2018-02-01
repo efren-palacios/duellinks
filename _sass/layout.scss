@@ -122,19 +122,27 @@ p img, li img{
 }
 
 .img-w-100{
-  width: 100%;
+  > * {
+    width: 100%;
+  }
 }
 
 .img-w-100{
-  width: 75%;
+  > * {
+    width: 75%;
+  }
 }
 
 .img-w-100{
-  width: 50%;
+  > * {
+    width: 50%;
+  }
 }
 
 .img-w-100{
-  width: 25%;
+  > * {
+    width: 25%;
+  }
 }
 
 @media only screen and (max-aspect-ratio: 13/9) {
@@ -143,19 +151,27 @@ p img, li img{
   }
 
   .img-w-100{
-    width: 100%;
+    > * {
+      width: 100%;
+    }
   }
 
   .img-w-75{
-    width: 100%;
+    > * {
+      width: 100%;
+    }
   }
 
   .img-w-50{
-    width: 100%;
+    > * {
+      width: 100%;
+    }
   }
 
   .img-w-25{
-    width: 100%;
+    > * {
+      width: 100%;
+    }
   }
 }
 a
