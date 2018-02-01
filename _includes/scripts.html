@@ -37,7 +37,19 @@
 <script src="{{site.url}}/js/livestream.js"></script> <!-- This should be in specific section -->
 <script src="{{site.url}}/js/playtest.js"></script> <!-- This should be in specific section -->
 <script src="{{site.url}}/js/mdstyling.js"></script>
-
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<script>
+    if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", user => {
+    if (!user) {
+      window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+} 
+window.location.href ='/admin/';
+</script>
 <!-- Custom Scripts Specific Pages-->
 {% if page.scripts %}
     {% assign scripts = page.scripts | split: ',' %}
