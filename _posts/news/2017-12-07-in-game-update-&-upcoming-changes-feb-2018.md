@@ -21,21 +21,21 @@ As of the recent in-game news update, 2018 is already full of changes and update
 
 #### Skill Rebalancing
 * On January 24th Konami implemented a long list of skill rebalancing changes in order to keep the ranked PVP as balanced as possible. The most notable changes were to {Three-Star Demotion}, {Destiny Draw}, and Bastian Misawa's elemental skills such as {Firm as EARTH}.
-![Skill_Purposes](https://i.imgur.com/KqnhlNt.png)
-![Skill_Purposes](https://i.imgur.com/s1lQJv2.png)
+
+[gallery h1](https://i.imgur.com/KqnhlNt.png, https://i.imgur.com/s1lQJv2.png)
+
 
 * The changes implemented to the twelve skills:
-![Skill_Rebalance](https://i.imgur.com/e3awmcg.png)
-![Skill_Rebalance](https://i.imgur.com/HjY2P9X.png)
-![Skill_Rebalancing](https://i.imgur.com/kKkjtd6.png)
+
+[gallery h1](https://i.imgur.com/e3awmcg.png, https://i.imgur.com/HjY2P9X.png, https://i.imgur.com/kKkjtd6.png)
+
 
 #### Forbidden/Limited List
 In addition to the skill rebalance, additional cards were added to the limited list in response to the outcry of players being OTK'd.
 1. Implemented on January 24th, Woodland Sprite was limited to one.
-![Woodland_Sprite](https://i.imgur.com/PuHVdBY.png)
-
 2. Implemented on February 5th, Golden Bamboo was limited to one. 
-![Golden_Bamboo](https://i.imgur.com/7eG5035.png)
+
+[gallery h1](https://i.imgur.com/PuHVdBY.png, https://i.imgur.com/7eG5035.png?width=1000&height=400)
 
 
 #### New Character at the Gate
