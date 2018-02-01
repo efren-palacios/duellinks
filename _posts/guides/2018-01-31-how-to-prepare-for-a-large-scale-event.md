@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Preparing For A Large Scale Event
-author: pll
+author: Brianhayward88
 category: guide
 image: /img/guides/duellinks.png
 date: 2018-01-31
