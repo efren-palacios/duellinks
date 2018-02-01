@@ -40,7 +40,7 @@ permalink: /meta-weekly-2/
 
 ### Top 4 Decklist's of the tournament 
 
-##
+#    
 
 ![Content Only](https://i.imgur.com/R0zxqAJ.png)
 
