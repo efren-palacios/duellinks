@@ -36,5 +36,5 @@ Kaiba Corp invites you to join in the Tag Duel Tournament where you and a partne
 | {Maximum Six} | Complete round 3 on **Normal** or rolled from card lottery|
 | {Triamid Pulse} | Complete round 3 on **Hard** or rolled from card lottery|
 | {Unity} | Complete round 3 on **Master** or rolled from card lottery|
-| {Zombrya The Dark} | Rolled from card lottery |
+| {Zombyra The Dark} | Rolled from card lottery |
 | {Lightning Blade} | Rolled from card lottery |
