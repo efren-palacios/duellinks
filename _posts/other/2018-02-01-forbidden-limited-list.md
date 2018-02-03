@@ -7,6 +7,7 @@ comments: false
 date: 2018-2-01 09:39:00 -0600
 description: This page contains the current and upcoming status of the Forbidden/Limited list
 permalink: /forbidden-limited-list/
+hide: true
 ---
 
 {% include heading.html title=page.title description=page.description %}
