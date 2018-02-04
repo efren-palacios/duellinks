@@ -33,7 +33,7 @@ permalink: /tournaments/meta-weekly/5/
 
 ----------
 
-### Meta Weekly #5
+### Meta Weekly #5   01/31/2018
 
 #### Top 5 Players /  Decklist's- Prize Pool : $242
 

@@ -33,7 +33,7 @@ permalink: /tournaments/meta-weekly/3/
 
 ----------
 
-### Meta Weekly #3
+### Meta Weekly #3  01/16/2018
 
 #### Top 4 Players /  Decklist's- Prize Pool : $224
 
