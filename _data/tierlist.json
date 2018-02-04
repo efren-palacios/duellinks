@@ -28,7 +28,7 @@
             { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
-            { "id": "snipe-hunter-volcanics",   "display": "Snipe Hunter/Volcanics", "card": "Snipe Hunter"}                
+            { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" }                
         ]
     },
     {
