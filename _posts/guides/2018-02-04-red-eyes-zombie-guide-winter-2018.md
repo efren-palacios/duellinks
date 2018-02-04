@@ -9,6 +9,7 @@ comments: false
 description: A complete guide about Red Eyes Zombies in Winter 2018
 keywords: guide, rez, new
 deck-type: red-eyes-zombies
+hide: true 
 permalink: /guides/red-eyes-zombie-guide-winter-2018/
 ---
 
