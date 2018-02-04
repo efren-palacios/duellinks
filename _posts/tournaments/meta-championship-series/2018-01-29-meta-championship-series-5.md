@@ -2,23 +2,26 @@
 layout: blog
 title: "Meta Championship Series #5 Report"
 author: TOASTYKILLA
+category: tournament
+tournament: Meta Championship Series
+number: 5
 image: /img/logos/mcs5report.png
-category: news
 date: 2018-01-29
+comments: true
+description: The Meta Championship Series 5 tournament report. Check the prize winners and their decks here.
+keywords: mcs, mcs3, mcs 5, meta championship, meta championship series, meta championship 5, meta championship series 5, mcs decks, mcs3 decks
+permalink: /tournaments/meta-championship-series/5/
 pinned: true
-comments: false
-description: "Here is the in-depth report about the Meta Championship Series #5."
-keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
-permalink: /mcs/meta-championship-series-5/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
+[w75]
 ![](https://media.discordapp.net/attachments/380762490931249172/407748286175379476/MCS5_Event_Report_Thumbnail.png?width=1000&height=400)
 
 ### Top 16 Players / Decklists - Prize Support: $4,188
 
-#### January 27th 1pm EST / 6pm GMT . 7 Rounds Day 1. Top 32 move on to Day 2. 
+#### January 27th 1pm EST / 6pm GMT . 7 Rounds Day 1. Top 32 move on to Day 5. 
 
 #### Format: 314 players. SWISS. 1 deck, with 5 card Side-Deck.
 
@@ -28,6 +31,7 @@ permalink: /mcs/meta-championship-series-5/
 
 ### TOP 16 BREAKDOWN
 
+[w75]
 ![](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=900&height=400)
 
 Credit to Reddit user: ArmoredKappa

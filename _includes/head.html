@@ -15,6 +15,10 @@
         <meta name="keywords" content="duel links, duel links meta, yugioh duel links, tier list, top decks, guide, tournament">
     {% endif %}
 
+    {% if page.url == "/" || page.url =="/admin/" %}
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {% endif %}
+
     <link rel="icon" sizes="192x192" href="{{site.url}}/img/logos/favicon.png">  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css">   
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:800" >     

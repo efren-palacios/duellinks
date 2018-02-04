@@ -1,15 +1,16 @@
 ---
 layout: blog
-title: "Meta Championship Series #4"
+title: "Meta Championship Series #4 Report"
 author: TOASTYKILLA
+category: tournament
+tournament: Meta Championship Series
+number: 4
 image: /img/news/meta-championship-series-4-report/thumbnail.png
-category: news
 date: 2017-12-10
-pinned: false
-comments: false
-description: "Here is the in-depth report about the Meta Championship Series #4."
-keywords: news, mcs, meta championship series, mcs top decks, tournament, pvp
-permalink: /mcs/meta-championship-series-4/
+comments: true
+description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
+keywords: mcs, mcs 2, meta championship series, meta championship series 2, meta championship series winners, meta championship series decks, tournament
+permalink: /tournaments/meta-championship-series/4/
 ---
 
 {% include heading.html title=page.title author=page.author %}

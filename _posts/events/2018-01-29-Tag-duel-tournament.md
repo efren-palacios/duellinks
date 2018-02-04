@@ -17,7 +17,7 @@ permalink: /events/tag-duel-tournament/
 ### Last Updated: (January 29 2018) 
 **Master Difficulty is now available to play**
 
-[gallery h3](https://imgur.com/2POgHwA.png, https://imgur.com/uDxXZI6.png, https://i.imgur.com/3hyERps.png, https://i.imgur.com/kSnlQOy.png, https://i.imgur.com/tQG5i9V.png, https://i.imgur.com/C2NrjOq.png, https://i.imgur.com/G5pqBT1.png, https://i.imgur.com/1yyXp5N.png, https://i.imgur.com/kiwJ1Ye.png, https://i.imgur.com/YBFcOPm.png)
+[gallery h3](https://imgur.com/2POgHwA.png, https://imgur.com/uDxXZI6.png, https://i.imgur.com/3hyERps.png, https://i.imgur.com/kSnlQOy.png, https://i.imgur.com/tQG5i9V.png, https://i.imgur.com/C2NrjOq.png, https://i.imgur.com/G5pqBT1.png, https://i.imgur.com/1yyXp5N.png, https://i.imgur.com/kiwJ1Ye.png, https://i.imgur.com/YBFcOPm.png) 
 
 
 ### Event Info
@@ -36,5 +36,5 @@ Kaiba Corp invites you to join in the Tag Duel Tournament where you and a partne
 | {Maximum Six} | Complete round 3 on **Normal** or rolled from card lottery|
 | {Triamid Pulse} | Complete round 3 on **Hard** or rolled from card lottery|
 | {Unity} | Complete round 3 on **Master** or rolled from card lottery|
-| {Zombrya The Dark} | Rolled from card lottery |
+| {Zombyra The Dark} | Rolled from card lottery |
 | {Lightning Blade} | Rolled from card lottery |

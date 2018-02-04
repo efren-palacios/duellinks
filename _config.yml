@@ -10,6 +10,8 @@ collections:
     permalink: /:collection/:name
   decklists:
     output: true
+  admin:
+    output: true
 gems:
   - jekyll-timeago
   - jekyll-angular

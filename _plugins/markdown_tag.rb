@@ -169,6 +169,10 @@ galleryHtml += '</div>
 
             content.gsub! '[content-only]', '{:.content-only}'
             content.gsub! '[table-of-contents]', '{:.table-of-contents}'
+            content.gsub! '[w100]', '{:.img-w-100}'
+            content.gsub! '[w75]', '{:.img-w-75}'
+            content.gsub! '[w50]', '{:.img-w-50}'
+            content.gsub! '[w25]', '{:.img-w-25}'
 
             # Call the standard Markdown converter
             site = Jekyll::Site.new(@config)

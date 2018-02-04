@@ -19,17 +19,19 @@
             <h4 class="card-title text-white">{{page.title}}</h4>
           </a>
           <div class="text-white">
-            {% if page.url == "tierlist" %}
+            {% if page.url == "/tier-list/" %}
               {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
               {% assign firstDate = changelog[0].date %}
               {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-              {% assign formattedPageDate = page.date | date: "%Y-%m-%d" %}
-              {% if fomattedFirstDate > formattedPageDate %}
+              {% assign forbidden-changelog = site.data.forbidden-limited-changelog | sort: 'date' | reverse %}
+              {% assign firstForbiddenDate = forbidden-changelog[0].date %}
+              {% assign fomattedFirstForbiddenDate = firstForbiddenDate | date: "%Y-%m-%d" %}
+              {% if fomattedFirstDate > fomattedFirstForbiddenDate %}
                 <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
               {% else %}
-                <small class="text-muted">Last Updated: {{ formattedPageDate | timeago }}</small> 
+                <small class="text-muted">Last Updated: {{ fomattedFirstForbiddenDate | timeago }}</small> 
               {% endif %}
-            {% elsif page.title == "NEW EVENT" %}
+            {% elsif page.url == "/events/" %}
               {% for event in site.categories.event limit:1 %}
                 <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}
