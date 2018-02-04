@@ -112,14 +112,10 @@
                     "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
                 }   
             ]
-        },
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                "rez-guide-by-insano"  
-            ]
         }
+    ],
+    "guides": 
+    [
+        "rez-guide-by-insano"
     ]
 }
