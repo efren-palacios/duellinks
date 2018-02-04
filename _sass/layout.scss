@@ -618,16 +618,28 @@ strong
   }
 }
 
+.carousel-indicators{
+  bottom: -50px;
+}
+
+.carousel-indicators li{
+  width: 30px;
+  height: 30px;
+}
+
 .carousel-size-1-3{
   width: 33%;
+  margin-bottom: 40px;
 }
 
 .carousel-size-2-3{
   width: 66%;
+  margin-bottom: 40px;
 }
 
 .carousel-size-3-3{
   width: 100%;
+  margin-bottom: 40px;
 }
 
 .carousel-image-size-h3{
@@ -672,6 +684,16 @@ strong
   .carousel-image-size-h1{
     height: 15rem;
   }
+}
+
+.active img{
+	-webkit-filter: brightness(1.5);
+	filter: brightness(1.5);
+}
+
+.carousel-miniature{
+  width: 40px;
+  height: 40px;
 }
 
 .video-wrapper
