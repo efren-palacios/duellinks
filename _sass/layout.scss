@@ -686,9 +686,11 @@ strong
   }
 }
 
-.active img{
-	-webkit-filter: brightness(1.5);
-	filter: brightness(1.5);
+.carousel-indicators{
+	.active img{
+		-webkit-filter: brightness(1.5);
+		filter: brightness(1.5);
+	}
 }
 
 .carousel-miniature{
