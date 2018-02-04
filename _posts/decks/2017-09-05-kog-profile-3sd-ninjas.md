@@ -7,6 +7,7 @@ categories: decks
 image: https://i.imgur.com/DutHpHC.png
 date: 2017-9-5 23:56:00 -0600
 comments: true
+permalink: /kog-profile-3sdninjas/
 ---
 
 {:.title}
