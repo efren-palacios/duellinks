@@ -19,13 +19,11 @@ permalink: /events/duelist-challenges-event
 ![](https://i.imgur.com/4iOBasT.jpg)
 
 ### New special Duelist Challenges have been released!
-[gallery] (https://i.imgur.com/YUCR7mN.jpg, https://i.imgur.com/VUErp0q.jpg, https://i.imgur.com/9M5shP7.jpg)
+[gallery](https://i.imgur.com/YUCR7mN.jpg, https://i.imgur.com/VUErp0q.jpg, https://i.imgur.com/9M5shP7.jpg)
 
 ### Rewards
-{
-	“name”: “Dark Hunter”,
-	“rarity”: “R”
-}
+
+{Dark Hunter}  - Rare
 
 **Dark Hunter** is an obtainable card from the 4th duelist challenge (unlocked Feb 1, 23:00 CST)
 In addition, players will be able to obtain a **second copy** of {Gravekeeper's Vassal} from day 2 (unlocked Jan 30, 23:00 CST)
