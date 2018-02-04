@@ -11,7 +11,7 @@ comments: true
 description: The Meta Championship Series 5 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs3, mcs 5, meta championship, meta championship series, meta championship 5, meta championship series 5, mcs decks, mcs3 decks
 permalink: /tournaments/meta-championship-series/5/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

@@ -103,8 +103,26 @@ module Jekyll
 
 galleryHtml = '
 <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="0" class="active">
+            <img src="' + imageLinks[0].strip + '" class="carousel-miniature" />
+        </li>
+        '
+
+
+for k in 1...imageLinks.length
+    galleryHtml += '<li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '">
+            <img src="' + imageLinks[k].strip + '" class="carousel-miniature" />
+        </li>
+	';
+end
+
+
+galleryHtml += '
+    </ol>
 	<div class="carousel-inner">
-		<div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>'
+		<div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
+        '
 
 for k in 1...imageLinks.length
 	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
@@ -125,7 +143,7 @@ galleryHtml += '</div>
 					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
 					galleryCount = galleryCount + 1
 				
-                elsif(tag.include? "deck")
+                elsif(tag == "deck")
                     cardNames = tagData.split(',')
 
                     deckContainer = '<div id="deck-container" class="ui-droppable card-deck-markdown">
