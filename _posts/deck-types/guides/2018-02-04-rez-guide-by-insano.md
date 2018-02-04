@@ -14,7 +14,6 @@ permalink: /guides/rez-guide-by-insano/
 
 {% include heading.html title=page.title author=page.author %}
 
-
 [w50]
 ![](https://vignette.wikia.nocookie.net/yugioh/images/6/68/RedEyesZombieDragon-TF04-JP-VG.jpg/revision/latest?cb=20121004223833)
 
@@ -28,7 +27,7 @@ permalink: /guides/rez-guide-by-insano/
 * [The REZD Player’s Toolbox](#the-rezd-player’s-toolbox)
 * [Tech Options](#tech-options)
 * [Matchups](#matchups)
-    *  [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
+    * [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
     * [The Ancient Gear Matchup](#the-ancient-gear-matchup)
     * [The Cyber Angels / Saffira Matchup](#the-cyber-angels--saffira-matchup)
     * [The Hazy Flame Sphynx Matchup](#the-hazy-flame-sphynx-matchup)

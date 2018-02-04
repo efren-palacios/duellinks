@@ -2,13 +2,13 @@
 layout: blog
 title: Red Eyes Zombies Guide - Winter 2018
 author: Insano
-category: guide
+category: deck-type-guide
+deck-type: red-eyes-zombies
 image: /img/guides/red-eyes-zombie-guide-winter-2018/thumbnail.png
 date: 2018-02-04
 comments: false
 description: A complete guide about Red Eyes Zombies in Winter 2018
 keywords: guide, rez, new
-deck-type: red-eyes-zombies
 hide: true 
 permalink: /guides/red-eyes-zombie-guide-winter-2018/
 ---
@@ -27,7 +27,7 @@ permalink: /guides/red-eyes-zombie-guide-winter-2018/
 * [The REZD Player’s Toolbox](#the-rezd-player’s-toolbox)
 * [Tech Options](#tech-options)
 * [Matchups](#matchups)
-    *  [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
+    * [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
     * [The Ancient Gear Matchup](#the-ancient-gear-matchup)
     * [The Cyber Angels / Saffira Matchup](#the-cyber-angels--saffira-matchup)
     * [The Hazy Flame Sphynx Matchup](#the-hazy-flame-sphynx-matchup)

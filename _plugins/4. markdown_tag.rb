@@ -3,7 +3,7 @@ require 'json'
 
 module Jekyll
     class CardNameConverter < Converter
-        safe :false
+        safe false
         priority :high
 
         def matches(ext)
@@ -144,21 +144,27 @@ galleryHtml += '</div>
 					galleryCount = galleryCount + 1
 				
                 elsif(tag == "deck")
+
                     cardNames = tagData.split(',')
 
-                    deckContainer = '<div id="deck-container" class="ui-droppable card-deck-markdown">
-                        <div id="deck">
-                            <div id="cards">'
+                    deckContainer =
+                        '<div class="flex-container">
+                            <div class="deck-container left">
+                                <div id="deck">
+                                    <div id="cards">'
 
                     for card in cardNames
-                        deckContainer += '<div class="markdown-item">
-                            <a><img class="dcards" alt="" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '"></a>
-                        </div>'
+                        deckContainer +=
+                                        '<div class="item">
+                                            <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '" alt=""></a>
+                                        </div>'
                     end
 
-                    deckContainer += '</div>
-                    </div>
-                    </div>'
+                    deckContainer +=
+                                    '</div>
+                                </div>
+                            </div>
+                        </div>'
 
                     content.sub!('[' + tag + '](' + tagData + ')', deckContainer)
                 end

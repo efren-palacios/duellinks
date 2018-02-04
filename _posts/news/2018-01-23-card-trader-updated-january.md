@@ -8,13 +8,10 @@ date: 2018-01-31
 comments: true
 description: 
 keywords: news
-permalink: /news/Card-Trader-Inventorty-Updated
+permalink: /news/card-trader-inventorty-updated
 ---
 
-# {{page.title}}
-## by {{page.author}} 
-
-----
+{% include heading.html title=page.title author=page.author %}
 
 ![Card Trader1](https://media.discordapp.net/attachments/358808598811377675/408063440524148736/ctjan29.jpg?width=1215&height=427)
 
