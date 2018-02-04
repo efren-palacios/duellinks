@@ -143,14 +143,31 @@ galleryHtml += '</div>
 					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
 					galleryCount = galleryCount + 1
 				
-                elsif(tag == "deck")
+                elsif(tag.start_with?('deck'))
+                    if(tag.start_with? "deck:")
+                        skillName = tag.split(':')[1];
+                    else
+                        skillName = ""
+                    end
 
-                    cardNames = tagData.split(',')
+                    cardNames = tagData.split(';')
 
                     deckContainer =
                         '<div class="flex-container">
                             <div class="deck-container left">
-                                <div id="deck">
+                            '
+
+                    if(skillName != "")
+                        deckContainer +=
+                        '<div class="skill">
+                            <img class="main" src="/img/assets/skill.png" alt="skill">
+                            <span class="card-hover" name="skillPopup">' + skillName.strip + '</span><span class="mobile"></span>
+                        </div>
+                        '
+                    end
+
+                    deckContainer +=
+                        '       <div id="deck">
                                     <div id="cards">'
 
                     for card in cardNames
