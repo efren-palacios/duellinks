@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Weevil Banner](/img/events/weevil)
+![Weevil Banner](/img/events/weevil.png)
 
 ### General Information
 * Weevil Underwood requires **Green** keys to duel at the gate
