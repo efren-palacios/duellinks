@@ -16,7 +16,7 @@ permalink: /events/chazz-a-thon-feb/
 
 ### Last Updated: (February 5 2018) 
 
-[gallery](https://imgur.com/nGgumxC, https://imgur.com/rZp5t0C, https://imgur.com/dB1QOTd, https://imgur.com/kWWNTaG, https://imgur.com/woSnf4L, https://imgur.com/vJOFWG3)
+[gallery](https://i.imgur.com/nGgumxC.png, https://i.imgur.com/rZp5t0C.png, https://i.imgur.com/dB1QOTd.png, https://i.imgur.com/kWWNTaG.png, https://i.imgur.com/woSnf4L.png, https://i.imgur.com/vJOFWG3.png)
 
 ### Event Info
 Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  Defeat Serious Chazz in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels. 
