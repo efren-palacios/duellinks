@@ -4,7 +4,7 @@ title: Chazz-a-thon!
 author: Perune
 image: /img/events/chazz.jpg
 category: event
-date: 2018-01-29
+date: 2018-02-05
 pinned: false
 comments: true
 description: chazz-a-thon
