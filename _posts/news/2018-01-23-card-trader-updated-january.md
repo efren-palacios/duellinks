@@ -19,7 +19,8 @@ permalink: /news/card-trader-inventorty-updated
 
 The Card Trader's inventory has been updated with some new additions to his card pool.
 
-[deck](That Grass Looks Greener, Aromage Bergamot, Vivid Knight)
+
+[deck](That Grass Looks Greener; Aromage Bergamot; Vivid Knight)
 
 
 ### Top Player Council Opinions
