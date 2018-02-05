@@ -145,7 +145,7 @@ galleryHtml += '</div>
 				
                 elsif(tag.start_with?('deck'))
                     if(tag.start_with? "deck:")
-                        skillName = tag.split(':')[1];
+                        skillName = tag.split(':', 2)[1];
                     else
                         skillName = ""
                     end
