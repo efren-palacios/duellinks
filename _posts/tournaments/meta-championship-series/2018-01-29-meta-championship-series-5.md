@@ -29,7 +29,7 @@ pinned: false
 
 ---------- 
 
-### TOP 16 BREAKDOWN
+### TOP 32 BREAKDOWN
 
 [w75]
 ![](https://media.discordapp.net/attachments/388780826596343814/407563057565270030/v53JacW.jpg?width=900&height=400)
@@ -56,10 +56,9 @@ Credit to Reddit user: ArmoredKappa
 
 ----------
 
-### Top 8 DeckList Winner's
+### Top 16 DeckList Winner's
 
 #### 1st Place- Whilipino: $1,675
-##### YCS Anaheim 2016 Winner 
 
 [content-only]
 Main Deck | Side Deck
@@ -198,6 +197,7 @@ Main Deck| Side Deck
 
 ----------
 ###  16th Place- Elvisbeback $52
+##### YCS Anaheim 2016 Winner 
 
 [content-only]
 Main Deck| Side Deck
