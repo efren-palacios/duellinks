@@ -45,7 +45,7 @@ hide: true
 ### Farm Decks
 ***Skill-less level 40 farm - created by Justin Taylor (last updated: 12/02/2017)***
 
-[deck] (Mystical Beast of Serket; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Curse of Anubis; Windstorm of Etaqua; Blue-Eyes Ultimate Dragon)
+[deck](Mystical Beast of Serket; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Curse of Anubis; Windstorm of Etaqua; Blue-Eyes Ultimate Dragon)
 
 * The deck is more consistent with Draw sense: light, Holy guard, Restart, or Balance.
 
@@ -90,9 +90,9 @@ hide: true
 	* more than **1500** defense (1500 is ok but your beater may lose to {Shield & Sword})
 	* **Dark, Wind, or Light** Attribute (to avoid the effect of {Alligator Sword Dragon}
 	
-[deck] (Opticlops, Exarion Universe, Skilled Dark Magician, X-Head Cannon, Dark Blade, Dark Blade the Captain of the Evil World, Zure, Knight of Dark World) 
+[deck](Opticlops, Exarion Universe, Skilled Dark Magician, X-Head Cannon, Dark Blade, Dark Blade the Captain of the Evil World, Zure, Knight of Dark World) 
 * Blue-Eyes can be replaced with {Master of Oz}, {Arkana Knight Joker}, {Meteor B. Dragon}, or {B. Skull Dragon}.
 
 ### Level 40 Decklist
 
-[deck] (Time Wizard; Time Wizard; Flame Manipulator; Flame Manipulator; Masaki the Legendary Swordsman; Masaki the Legendary Swordsman; Battle Steer; Battle Steer; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Baby Dragon; Baby Dragon; Polymerization; Polymerization; Graceful Dice; Graceful Dice; Shield & Sword; Legendary Sword; Legendary Sword; Flame Swordsman; Thousand Dragon)
+[deck](Time Wizard; Time Wizard; Flame Manipulator; Flame Manipulator; Masaki the Legendary Swordsman; Masaki the Legendary Swordsman; Battle Steer; Battle Steer; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Baby Dragon; Baby Dragon; Polymerization; Polymerization; Graceful Dice; Graceful Dice; Shield & Sword; Legendary Sword; Legendary Sword; Flame Swordsman; Thousand Dragon)
