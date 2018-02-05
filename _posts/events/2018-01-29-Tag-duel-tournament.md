@@ -10,6 +10,7 @@ comments: true
 description: New tag Duel tournament is live.
 keywords: news, upcoming updates, KC Cup, nerf, konami
 permalink: /events/tag-duel-tournament/
+hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}

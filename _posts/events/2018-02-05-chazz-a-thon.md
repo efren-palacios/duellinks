@@ -2,7 +2,7 @@
 layout: blog
 title: Chazz-a-thon!
 author: Perune
-image: /img/logos/tagduel.jpg
+image: /img/events/chazz.jpg
 category: event
 date: 2018-01-29
 pinned: false
