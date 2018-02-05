@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Red-Eyes Zombies Guide
+title: Red-Eyes Zombies Guide - February 2018
 author: Insano
 category: deck-type-guide
 deck-type: red-eyes-zombies
@@ -27,7 +27,7 @@ permalink: /guides/rez-guide-by-insano/
 * [The REZD Player’s Toolbox](#the-rezd-player’s-toolbox)
 * [Tech Options](#tech-options)
 * [Matchups](#matchups)
-    * [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
+    *  [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
     * [The Ancient Gear Matchup](#the-ancient-gear-matchup)
     * [The Cyber Angels / Saffira Matchup](#the-cyber-angels--saffira-matchup)
     * [The Hazy Flame Sphynx Matchup](#the-hazy-flame-sphynx-matchup)
@@ -52,29 +52,32 @@ This is a guide for both new and more experienced REZ players collaboratively wr
 ### Abbreviations
 
 Decks:
-AG: Ancient Gears
-CA: Cyber Angels
-Cancer: Stall, Mill or Burn decks in general
-GB: Gladiator Beast
-REZ: Red-Eyes Zombies
-Hazy: Hazy Flame Sphynx
+
+AG: Ancient Gears  
+CA: Cyber Angels  
+Cancer: Stall, Mill or Burn decks in general  
+GB: Gladiator Beast  
+REZ: Red-Eyes Zombies  
+Hazy: Hazy Flame Sphynx  
+
 
 Skills:
 TTTB: {The Tie That Binds}
 
 Cards:
-AMA: {Anti-Magic Arrows}
-Anubis: {Curse of Anubis}
-Econ: {Enemy Controller}
-FGTH or Floodgate: {Floodgate Trap Hole}
-MW: {Mirror Wall}
-REZ or REZD: {Red-Eyes Zombie Dragon}
-Saffira: {Saffira, Queen of Dragons}
-Snipe: {Sniper Hunter}
-Spirit: {Red-Eyes Spirit}
-SRH: {Super Rush Headlong}
-Windstorm: {Windstorm of Etaqua}
-XZH: {Xing Zhen Hu}
+
+AMA: {Anti-Magic Arrows}  
+Anubis: {Curse of Anubis}  
+Econ: {Enemy Controller}  
+FGTH or Floodgate: {Floodgate Trap Hole}  
+MW: {Mirror Wall}  
+REZ or REZD: {Red-Eyes Zombie Dragon}  
+Saffira: {Saffira, Queen of Dragons}  
+Snipe: {Sniper Hunter}  
+Spirit: {Red-Eyes Spirit}  
+SRH: {Super Rush Headlong}  
+Windstorm: {Windstorm of Etaqua}  
+XZH: {Xing Zhen Hu}  
 
 ### Core Engine Cards
 
@@ -108,7 +111,7 @@ Gozuki has two crucial effects:
 
 2) Special summon zombie from hand when Gozuki is sent to the graveyard by banishing a zombie from the graveyard other than Gozuki, once per turn. 
 
-The first effect is important as you can send rez to the Graveyard if you only have spirit in hand/set (a trap which summons red eyes from Graveyard) in order to summon REZ next turn. Gozuki can also send a Zombie to the Graveyard such as {Samurai Skull} or {Bacon Saver}. 
+The first effect is important as you can send REZ to the Graveyard if you only have spirit in hand/set (a trap which summons red eyes from Graveyard) in order to summon REZ next turn. Gozuki can also send a Zombie to the Graveyard such as {Samurai Skull} or {Bacon Saver}. 
 
 Gozuki can send another Gozuki from Deck to the Graveyard and banish a non-Gozuki Zombie, triggering Gozuki's second effect, which allows Special Summoning REZ or another Zombie from the hand. This is an important swarming effect, which is crucial in REZ's deck. This effect can be pulled off in one turn if you send REZ to Graveyard using {Red-Eyes Insight} then banish REZ to summon REZ from hand using Gozuki’s effect, all in one turn even if you didn’t have any Zombie fodder before.
 
@@ -143,9 +146,9 @@ Wyvern has become quite popular recently. Most decks play 1 wyvern with 2 REZ, w
 This is probably the best Skill for the current meta because there are so many decks that are popular and powerful. Being able to use a {Storm} in conjunction with your set Spirit and other cards, to clear all three backrow at once is very useful in this meta, and very powerful vs our toughest match up, Gladiator Beasts. You will not have the advantage in the REZ mirror match however, but with Side decking you can over come
 that.
 
-**{The Tie that Binds}:** great skill for the rez mirror and vs other decks as well your monster gains 100 ATK times the amount of monsters on the field.
+**{The Tie that Binds}:** great skill for the REZ mirror and vs other decks as well your monster gains 100 ATK times the amount of monsters on the field.
 
-**{Beatdown}:** ah old reliable, the original dominant skill for rez decks. Your field increases by the number of level 5 or higher monsters on your field times 300. No longer optimal now that CA is less popular in the current meta but that can change in the near future.
+**{Beatdown}:** ah old reliable, the original dominant skill for REZ decks. Your field increases by the number of level 5 or higher monsters on your field times 300. No longer optimal now that CA is less popular in the current meta but that can change in the near future.
 
 ---
 
@@ -161,7 +164,7 @@ With the Side Deck format being so popular in recent and future tournaments, let
 
 - **{Anti-Magic Arrows}**: can be used at the start of the Battle Phase, no traps or spells can be used or chained after this card is used, is very useful as a win-more card, helps clear monsters of the board without worrying about backrow.
 
-- **{Storm}**: the key to any rez deck in my opinion, if you aren’t using this in your Main Deck be sure to put it in your side.
+- **{Storm}**: the key to any REZ deck in my opinion, if you aren’t using this in your Main Deck be sure to put it in your side.
 
 - **{Super-Rush Headlong}**: great to counter GBs and Hazy as well as a strong all around card, especially when opponents think they are playing around MW and they switch your gozuki or samurai into def mode.
 
@@ -225,6 +228,8 @@ With the Side Deck format being so popular in recent and future tournaments, let
 
 ### Matchups
 
+---
+
 #### The Gladiator Beasts Matchup
 
 Dominant Skills: {Balance}, {Mind Scan} and {Shadow Game}
@@ -253,8 +258,8 @@ skill and have three REZ on the board which is a rare occurrence. Our best optio
 
 1. Win the duel before they have the chance to get their boss out. This is not easy because all AG decks run two AG Golem and they have a Skill in which they start with AG Castle, this card gains a counter every time a monster is summoned, once it has two counters they can use it to bring out AG golem without tributing. If you can try and get this off the field ASAP using either {Storm}, {Cosmic Cyclone} or {Double Cyclone}. Then clear their monsters off the board if you can or do not let them have two monster out, doing this will make the two AG Golem dead cards for your opponent.
 
-2. Use helpful techs such as curse of Anubis, SRH and econ to eliminate the AG Golem threat. 
-- Use curse of Anubis on your turn BEFORE you put your monster out, this will switch their Golem to Defense Position and make its DEF 0, now you can send out any of your REZ deck monsters to take it out, even Bacon Saver. Try to use this when the AG player has no backrow. 
+2. Use helpful techs such as Curse of Anubis, SRH and econ to eliminate the AG Golem threat. 
+- Use Curse of Anubis on your turn BEFORE you put your monster out, this will switch their Golem to Defense Position and make its DEF 0, now you can send out any of your REZ deck monsters to take it out, even Bacon Saver. Try to use this when the AG player has no backrow. 
 
 - Use SRH on your turn as well because when it is not your turn, you will have to activate it before the battle phase and your opponent will just not attack and end their turn rendering your SRH useless. 
 
@@ -302,7 +307,7 @@ monsters can go to work, Storm and chain your REZ so you can destroy their backr
 
 #### The REZ Mirror Matchup
 
-Ok the REZ mirror, probably my favorite of all the matchups. It is a bit like a game of chess (unless someone hard bricks of course). It takes a bit of thinking, the win condition of this matchup is to steal your opponents REZ, once you have done that, the game is in your favor. Before you can do that you must force your opponent into burning through their resources. The best thing to do is to get them to use their Bacon Saver early, doing that sets you up for an AMA into win or Storm into win. What I always do in the Rez mirror is make sure to save all my Spell/Traps and Bacon to protect my REZ. If my opponent wants to crash or TTTB and run over my Gozuki or Samurai, I will
+Ok the REZ mirror, probably my favorite of all the matchups. It is a bit like a game of chess (unless someone hard bricks of course). It takes a bit of thinking, the win condition of this matchup is to steal your opponents REZ, once you have done that, the game is in your favor. Before you can do that you must force your opponent into burning through their resources. The best thing to do is to get them to use their Bacon Saver early, doing that sets you up for an AMA into win or Storm into win. What I always do in the REZ mirror is make sure to save all my Spell/Traps and Bacon to protect my REZ. If my opponent wants to crash or TTTB and run over my Gozuki or Samurai, I will
 let them do it, unless in 2 situations:
 
 1) they have no backrow or Bacon left and I know I can go for game next turn or 
@@ -316,7 +321,7 @@ Saving your resources for REZ is especially important if you are using {Straight
 - Opp sets 1 card to start turn, it is a Bacon. 
 - Starts by summoning a gozuki or a samurai but uses its effect to send a REZ to the grave, your opponent most likely has Bacon in their hand and are going to set a spirit. 
 - Setting up their field with all their monster with a card in hand and no backrow, they are going to use AMA. 
-- Opponent starts by summoning Gozuki and sending a Samurai Skull to the Grave, they most likely have a Rez in hand.
+- Opponent starts by summoning Gozuki and sending a Samurai Skull to the Grave, they most likely have a REZ in hand.
 
 ---
 
@@ -324,13 +329,13 @@ Saving your resources for REZ is especially important if you are using {Straight
 
 | AG | GB | CA/SF | REZ | HAZY | CANCER
 | :- | :- | :--- | :-- | :--- | :-----
-| Econ | Divine Wrath | Econ | Econ | SRH | Econ
+| Enemy Controller | Divine Wrath | Enemy Controller | Enemy Controller | SRH | Enemy Controller
 | Floodgate| AMA | Divine Wrath | Storm | Blast Held by Tribute | Storm
-| Cosmic Cyclone | Snipe | Anubis | AMA | Divine Wrath | AMA
+| Cosmic Cyclone | Snipe Hunter | Anubis | AMA | Divine Wrath | AMA
 | SRH | Windstorm | Sphere Kuriboh | Cosmic Cyclone | Anubis | Divine Wrath
 | AMA | Anubis | Mirror Wall | Anubis | Sphere Kuriboh | XZH
-| Storm | Sphere Kuriboh| Wall of Disruption | Sphere Kuriboh | Floodgate | Snipe
-| Snipe | Mirror Wall |  | Skill Sucessor | Windstorm | Card rotator
+| Storm | Sphere Kuriboh| Wall of Disruption | Sphere Kuriboh | Floodgate | Snipe Hunter
+| Snipe Hunter | Mirror Wall |  | Skill Sucessor | Windstorm | Card rotator
 | Anubis | Skill Successor |  | Mirror Wall | Lava Golem | Lava Golem
 | Sphere Kuriboh | XZH |  | Gyokkou |  | 
 |           | 4-starred Ladybug |  | Rush Reckless |  | 
@@ -345,10 +350,10 @@ Keep in mind these matchups are not limited to using these techs, this is simply
 
 ### Conclusion
 
-Rez is a very versatile deck it will always be relevant and can adapt to almost any meta.
+REZ is a very versatile deck it will always be relevant and can adapt to almost any meta.
 We both strongly suggest investing in this deck. 
 
-Another great aspect of running a REZ deck is that it is not a very hard deck to pilot and once you build your deck, you will not have to buy through all the new boxes if you do not want to, you just fish through them for tech cards to Side or to use one of in your rez build to adapt it to any new powerful decks that make their way into the meta. 
+Another great aspect of running a REZ deck is that it is not a very hard deck to pilot and once you build your deck, you will not have to buy through all the new boxes if you do not want to, you just fish through them for tech cards to Side or to use one of in your REZ build to adapt it to any new powerful decks that make their way into the meta. 
 
 I will not be adding REZ deck pictures in this guide because I encourage you to visit myself and the other REZ experts (DrBluePepper and Kaito) in #rez-tips. We post many different successful REZ builds in that channel.
 
@@ -368,5 +373,4 @@ I would like to thank Whybona and JayDizzle for always helping me test deck buil
 
 I would like to thank Vincenity for being my oldest friend in the DL community, not only did he bring me here but myself and Vince spent countless hours testing and helping each other get better.
 
-Finally, I'd like to thank Dkayed for creating and cultivating this fantastic competitive
-community.
+Finally, I'd like to thank Dkayed for creating and cultivating this fantastic competitive community.
