@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Mako Banner](upload image to here)
+![Mako Banner](/img/events/mako.jpg)
 
 ### General Information
 * Mako Tsunami requires **Blue** keys to duel at the gate
@@ -84,7 +84,7 @@ hide: true
 
 ***Level 30 Generic Cerberus Farm - created by Jadehex***
 
-[deck:Draw sense: LIGHT](Mythical Beast Cerberus Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
+[deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
 
 * **7100 Base DA**
 * Skill  can be swapped for Draw Sense: Low Level
