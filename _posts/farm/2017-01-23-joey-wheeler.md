@@ -90,7 +90,7 @@ hide: true
 	* more than **1500** defense (1500 is ok but your beater may lose to {Shield & Sword})
 	* **Dark, Wind, or Light** Attribute (to avoid the effect of {Alligator Sword Dragon}
 	
-[deck](Opticlops, Exarion Universe, Skilled Dark Magician, X-Head Cannon, Dark Blade, Dark Blade the Captain of the Evil World, Zure, Knight of Dark World) 
+[deck](Opticlops; Exarion Universe; Skilled Dark Magician; X-Head Cannon; Dark Blade; Dark Blade the Captain of the Evil World; Zure, Knight of Dark World) 
 * Blue-Eyes can be replaced with {Master of Oz}, {Arkana Knight Joker}, {Meteor B. Dragon}, or {B. Skull Dragon}.
 
 ### Level 40 Decklist
