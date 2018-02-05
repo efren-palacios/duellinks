@@ -83,6 +83,13 @@ XZH: {Xing Zhen Hu}
 
 [deck](Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Bacon Saver; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Spirit; Red-Eyes Spirit)
 
+* 2-3 [Red-Eyes Zombie Dragon]
+* 2-3 [Gozuki]
+* 2-3 [Samurai Skull]
+* 2 [Red-Eyes Spirit]
+* 2-3 [Red-Eyes Insight]
+* 0-1 [Red-Eyes Wyvern]
+
 **{Bacon Saver}:** never play more than one because its skill is once per duel.
  
 [deck](Bacon Saver)
