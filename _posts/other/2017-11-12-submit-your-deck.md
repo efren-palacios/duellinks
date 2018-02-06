@@ -9,6 +9,7 @@ comments: false
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: submit your deck, deck submission, showcase deck, upload deck, deck
 permalink: /submit-your-deck/
+sitemap: false
 hide: true
 ---
 
