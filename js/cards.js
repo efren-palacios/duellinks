@@ -45,6 +45,7 @@ function enableMoreArticles() {
             $(currentArticle).show('slow');
         } 
         else {
+            $('#moreArticles').attr('disabled', true);
             break;
         }
     }
