@@ -33,7 +33,7 @@ Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  De
 
 ### Event Strategy
 
-[deck:Restart](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Buster Blader; Goddess with the Third Eye; Gravekeeper's Vassal; Dark Magician; Dark Magician; Dark Magician; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Emblem of Dragon Destroyer; Pot of Benevolence; Pot of Benevolence; Secret Pass to the Treasures))
+[deck:Restart](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Buster Blader; Goddess with the Third Eye; Gravekeeper's Vassal; Dark Magician; Dark Magician; Dark Magician; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Emblem of Dragon Destroyer; Pot of Benevolence; Pot of Benevolence; Secret Pass to the Treasures)
 
 
 
