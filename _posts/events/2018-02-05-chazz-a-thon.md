@@ -35,6 +35,10 @@ Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  De
 
 [deck:Restart](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Buster Blader; Goddess with the Third Eye; Gravekeeper's Vassal; Dark Magician; Dark Magician; Dark Magician; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Emblem of Dragon Destroyer; Pot of Benevolence; Pot of Benevolence; Secret Pass to the Treasures))
 
-Fuse Dark Paladin as soon as possible and use his effect to negate {Lightning Vortex} and {Level Up} and you just continue to deck out using {King of the Swamp} to thin your deck and {Pot of Benevolence} for the 8000 DA score.
+
+
+|     |
+| :------- |
+| Fuse Dark Paladin as soon as possible and use his effect to negate {Lightning Vortex} and {Level Up} and you just continue to deck out using {King of the Swamp} to thin your deck and {Pot of Benevolence} for the 8000 DA score. | 
 
 **There is a chance that Chazz will clog your field with {Give and Take} so it is wise to save a tribute summon just to play around this**
