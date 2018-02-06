@@ -16,47 +16,6 @@ permalink: /news/in-game-update-&-upcoming-changes-feb-2018
 ## by {{page.author}}
 
 
-### Updates
-As of the recent in-game news update, 2018 is already full of changes and updates. I'm going to break it down to give the community a snapshot of what they need to know.
-
-#### Skill Rebalancing
-* On January 24th Konami implemented a long list of skill rebalancing changes in order to keep the ranked PVP as balanced as possible. The most notable changes were to {Three-Star Demotion}, {Destiny Draw}, and Bastian Misawa's elemental skills such as {Firm as EARTH}.
-
-[gallery h1](https://i.imgur.com/KqnhlNt.png, https://i.imgur.com/s1lQJv2.png)
-
-
-* The changes implemented to the twelve skills:
-
-[gallery h1](https://i.imgur.com/e3awmcg.png, https://i.imgur.com/HjY2P9X.png, https://i.imgur.com/kKkjtd6.png)
-
-
-#### Forbidden/Limited List
-In addition to the skill rebalance, additional cards were added to the limited list in response to the outcry of players being OTK'd.
-1. Implemented on January 24th, Woodland Sprite was limited to one.
-2. Implemented on February 5th, Golden Bamboo was limited to one. 
-
-[gallery h1](https://i.imgur.com/PuHVdBY.png, https://i.imgur.com/7eG5035.png)
-
-
-#### New Character at the Gate
-Yugi Muto now appears at the gate! Complete the character unlock challenges to unlock the former event exclusive character.
-
-![Yugi_Gate](https://i.imgur.com/NC6HIyD.png?width=1000&height=400)
-
-#### Card Trader Inventory Updated
-* Konami has added {That Grass Looks Greener}, {Aromage Bergamot}, and {Vivid Knight} to the Card Trader! Find out more information [here](https://duellinksmeta.netlify.com/news/card-trader-inventorty-updated)
-
-![Card_Trader](https://i.imgur.com/rBeGuDV.png)
-
-#### Duelist Challenges Returns!
-* Back by popular demand! Complete the duelist challenges to obtain exclusive rewards such as {Gravekeeper's Vassal} and {Dark Hunter}.![Duelist_Challenge](https://i.imgur.com/4aaLCYj.png)
-![Duelist Challenge](https://i.imgur.com/MvhrgF8.png)
-
-#### Ranked Improvements Incoming!
-* Your survey responses have been read and actions have been announced. Konami has released a list of planned Ranked PVP changes to be implemented in February and March. The most prominent are countermeasures to stop cheating and a patch to stop the auto-loss that many players experienced in the last KC Cup.
-![PVP_Updates](https://i.imgur.com/xvNRpak.png)
-![PVP_Updates](https://i.imgur.com/7w8HnQO.png)
-
 #### Teaser Updates!
 * On January 29th, Konami released their list of upcoming events. Included are the KC Cup announcement, the Chazz-a-thon, the return of Dr. Vellian Crowler, a teaser for a new Legendary Character, and much more!
 ![Upcoming](https://i.imgur.com/43tELd0.png)
