@@ -36,11 +36,10 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            
-            { "id": "dark-world",               "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },        
+                  
             { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
             { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
-            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"}
+            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
         ] 
     },
     {
@@ -48,8 +47,10 @@
         "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
         "types":
         [
-            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" },            
-            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },            
+            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
+            { "id": "dark-world",               "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },             
+            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },   
+            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
             { "id": "gaia-plate-magnets",       "display": "Gaia Plate Magnets",    "card": "Gaia Plate the Earth Giant" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
@@ -80,7 +81,6 @@
         [              
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
-            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",            "display": "Trap Monsters",         "card": "Tiki Soul" },
