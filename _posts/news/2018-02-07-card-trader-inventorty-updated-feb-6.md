@@ -2,8 +2,9 @@
 layout: blog
 title: Card Trader Inventorty Updated! February 6th
 author: Freeskadoodle
-image: /img/logos/card-trader.jpg
+image: /img/logos/card-trader2.jpg
 category: news
+date: 2018-02-07
 date: 2018-02-07
 comments: true
 description: 
