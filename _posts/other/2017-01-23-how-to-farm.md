@@ -18,7 +18,7 @@ permalink: /how-to-farm-all-characters/
     <div class="tab-pane fade show active">
         <div class="section"> 
 			<h4>Duel Monster characters</h4>
-            <div class="decktype-filter row">
+            <div class="row button-row">
                 {% for farm in site.categories.farm %}
 					{% assign season = farm.season | downcase %}
 					{% if season == 'dm' %}
@@ -34,7 +34,7 @@ permalink: /how-to-farm-all-characters/
         </div>
 		<div class="section"> 
 			<h4>GX characters</h4>
-            <div class="decktype-filter row">
+            <div class="row button-row">
                 {% for farm in site.categories.farm %}
 					{% assign season = farm.season | downcase %}
 					{% if season == 'gx' %}
