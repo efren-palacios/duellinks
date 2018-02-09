@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /submit-your-deck/
 
 Sitemap: https://www.duellinksmeta.com/sitemap.xml
