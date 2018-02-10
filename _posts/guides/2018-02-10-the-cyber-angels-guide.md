@@ -161,7 +161,9 @@ Tech cards are an important part of every deck. However, it is important to know
 
 Econ has historically been the poster child of countering CA. With little to no backrow, CA is susceptible to econ take plays as well as losing Dakini if she uses her effect. While I believe Floodgate is presently the most effective card against CA, econ is still the strongest tech in the mirror match.
 
-**Tech / Can replace:** [deck](Senju of the Thousand Hands; Cyber Petit Angel)
+**Tech / Can replace:**
+
+[deck](Senju of the Thousand Hands; Cyber Petit Angel)
 
 ---
 
@@ -223,7 +225,9 @@ Chalice has not seen much use, but I believe that it may become a tech to handle
 
 Skelengel is a Free to Play substitute for other searchers but has no real place in an optimal build for CA. For a while it was considered for CA, and even found use in Bamboo CA, but spending a Normal Summon on Skelengel is a dangerous game. You only want to see Skelengel early and it doesn’t allow you to choose what you get from the deck.
 
-**Can replace:** [deck](Senju of The Thousand Hands; Cyber Petit Angel)
+**Can replace:**
+
+[deck](Senju of The Thousand Hands; Cyber Petit Angel)
 
 ---
 
