@@ -29,6 +29,6 @@ Files for what appear to be the new cards from the upcoming *Dr. Crowler's Trick
 
 *note: the grey card is {Biofalcon}*
 
-In addition, players will be able to obtain **up to 3 copies** of {Ancient Gear Castle}, previously only obtainable as a level up reward
+In addition, players will be able to obtain **up to 3 copies** of {Ancient Gear Castle} and {Ancient Gear Golem}, previously only obtainable as level up rewards
 
 *Keep in mind that much of the datamined information is speculation, and remains unconfirmed until officially announced by Konami.*
