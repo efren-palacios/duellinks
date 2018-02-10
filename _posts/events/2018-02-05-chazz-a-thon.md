@@ -46,7 +46,7 @@ Fuse Dark Paladin as soon as possible and use his effect to negate {Lightning Vo
 
 **There is a chance that Chazz will clog your field with {Give and Take} so it is wise to save a tribute summon just to play around this**
 
-[deck:Restart](Winged Dragon of Ra; Golden Ladybug;  Golden Ladybug; Golden Ladybug; Cosmic Compass; Creature Seizure; Double Summon; Defense Draw; Defense Draw; Wall of Disruption; Wall of Disruption; Good Goblin House Keeping; Good Goblin House Keeping; Good Goblin House Keeping; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph; Aegis of Gaia)
+[deck:Restart](Winged Dragon of Ra; Golden Ladybug;  Golden Ladybug; Golden Ladybug; Cosmic Compass; Creature Seizure; Double Summon; Defense Draw; Defense Draw; Wall of Disruption; Wall of Disruption; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph; Aegis of Gaia)
 
 (Credit to シドゾーマ for the decklist on Youtube and Aeroxas for the English guide)
 
