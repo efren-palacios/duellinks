@@ -31,7 +31,7 @@ module Jekyll
 
               FileUtils.rm 'deck.html', :force => true 
 
-              deck_page = File.new('deck.html', 'w')
+              deck_page = File.new('deck.html', 'w+')
               
               deck_page.puts("---")
               deck_page.puts("layout: blog")

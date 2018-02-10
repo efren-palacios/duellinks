@@ -104,6 +104,12 @@
   
       .btn-decktype 
       {
+        &.btn-small
+        {
+          > .decktype-display { font-size: 14px; }
+          > .decktype-count   { font-size: 16px; }
+        }
+
         > .decktype-display { font-size: 15px; }
         > .decktype-count   { font-size: 16px; }
       }
@@ -148,6 +154,16 @@
       .btn-decktype 
       {
         height: 38px;
+        line-height: 15px;
+
+        &.btn-small
+        {
+          height: 22px;
+          line-height: 10px;
+
+          > .decktype-display { font-size: 13px; }
+          > .decktype-count   { font-size: 15px; margin-bottom: 0px; }
+        }
 
         > .decktype-card { height: 204%; clip: rect(0px, 46px, 70px, 0px); }
         > .decktype-display { font-size: 12px; padding-left: 40px; }
@@ -191,7 +207,11 @@
 
     .btn-decktype 
     {
-      line-height: 15px;
+        &.btn-small
+        {
+          > .decktype-display { font-size: 12px; }
+          > .decktype-count   { font-size: 14px; }
+        }
 
       > .decktype-display { padding-left: 38px; letter-spacing: 0px; }
       > .decktype-count   { font-size: 14px; }

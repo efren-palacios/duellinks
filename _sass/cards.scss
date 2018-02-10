@@ -229,6 +229,14 @@
   box-shadow: none;
 }
 
+.articleButton:disabled {
+  cursor: default;   
+}
+
+.articleButton:disabled:hover {
+  background-color: #007bff;
+}
+
 .articleButtonColumn {
   padding-left: 10px;
   padding-right: 10px;
