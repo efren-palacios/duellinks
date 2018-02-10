@@ -1,9 +1,9 @@
 {
     "deck-type": "Snipe Hunter",
-    "created-by": "",
-    "modified-by": "",
+    "created-by": "Tutpup",
+    "modified-by": "Tutpup",
     "modified-on": "February 9th, 2018",
-    "profile": "",
+    "profile": "Tutpup",
     "sections":
     [
         {
@@ -12,8 +12,11 @@
             "blocks":
             [
                 {
-                    "paragraph": "Volcanics is an archetype which focuses on constant monster removal through the use of {Blaze Accelerator} and {Tri-Blaze Accelerator}. It uses {Volcanic Rocket} to search for these cards, {Volcanic Shell} as discard fodder and {Royal Firestorm Guards} in order to recycle the Volcanic Shells and out resource the opponent. It is played as a control based deck which slowly grinds out the opponent's monsters and attacks the opponent directly when the field is cleared, slowly chipping away at their life points."
+                    "paragraph": "Snipe Hunter is a control deck that evolved/share a lot of similarities with Wallet Control and Volcanics. The goal of the deck is to achieve complete board control through the aid of Snipe Hunter, Sergeant Electro, and Blaze Accelerator (if you run the Volcanic Shell version)."
                 }   
+                {
+                    "paragraph": "The biggest difference between Snipe Hunter and Wallet Control/Volcanics is that Snipe Hunter fills the role of Sergeant Electro and Blaze Accelerator, as well as other key cards in Wallet Control/Volcanics, with the small price of a 33% chance to fail."
+                } 
             ]
         },
         {
@@ -27,25 +30,21 @@
                 { 
                     "deck":
                     {
-                        "skill": "Duel, Standby!",
+                        "skill": "Switcheroo",
                         "main":
                         [
                             { "name": "Volcanic Rocket", "amount": "3" },
                             { "name": "Volcanic Shell", "amount": "3" },
-                            { "name": "Royal Firestorm Guards", "amount": "3" },
-                            { "name": "Goka, the Pyre of Malice", "amount": "1" },
-                            { "name": "Floodgate Trap Hole", "amount": "3" },
-                            { "name": "Hallowed Life Barrier", "amount": "2" },
-                            { "name": "Curse of Anubis", "amount": "1" },
-                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Snipe Hunter", "amount": "3" },
+                            { "name": "Sergeant Electro", "amount": "3" },
                             { "name": "Blaze Accelerator", "amount": "1" },
-                            { "name": "Tri-Blaze Accelerator", "amount": "1" },
-                            { "name": "Ultimate Providence", "amount": "1" }
+                            { "name": "Floodgate Trap Hole", "amount": "2" },
+                            { "name": "Mirror Wall", "amount": "3" }
                         ]                
                     }
                 },
                 {
-                    "paragraph": "Decklist by Whybona."
+                    "paragraph": "Decklist by Tutpup. Between Floodgate and Econ it makes the CA matchup better than the version I ran in MCS, but it has less general protection. However, the Enemy Controllers deals with majority of the tier 1-3 decks as well as the Sphere Kuriboh/Curse of Anubis that I ran before does."
                 }           
             ]
         },
@@ -59,19 +58,18 @@
                     {
                         "main":
                         [
-                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Snipe Hunter", "amount": "2" },
                             { "name": "Volcanic Shell", "amount": "3" },
-                            { "name": "Royal Firestorm Guards", "amount": "2" },
-                            { "name": "Blaze Accelerator", "amount": "1" }
+                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Sergeant Electro", "amount": "3" },
+                            { "name": "Blaze Accelerator", "amount": "1" },
+                            { "name": "Mirror Wall", "amount": "2" }
                         ]
                     }            
                 },
                 {
-                    "paragraph": "The key to the playstyle is conserving your life points, don't overuse your resources to protect your monsters if you will be losing a small amount of life points and can destroy your opponent's monster on your turn. Don't over commit to the field since your front row can get clogged very quickly so it is best to keep just 1-2 monsters on the board at a time so that you can always summon a Royal Firestorm Guards."
-                },   
-                {
-                    "paragraph": "Always keep on eye on the number of pyro monsters you have in your graveyard to think about how you can get your Royal Firestorm Guards live and preferably get 5 in the grave so that you can leave a Volcanic Shell in there and then add it to your hand off the effect again, meaning you don't have to rely on drawing it again to keep the removal cycle going."
-                }            
+                    "paragraph": ""
+                }      
             ]
         },
         {
@@ -84,18 +82,13 @@
                     {
                         "main":
                         [
-                            { "name": "Goka, the Pyre of Malice", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "1" },
                             { "name": "Curse of Anubis", "amount": "1" },
-                            { "name": "Windstorm of Etaqua", "amount": "1" },
-                            { "name": "Soul Transition", "amount": "1" },
-                            { "name": "Wall of Disruption", "amount": "1" },
-                            { "name": "Hallowed Life Barrier", "amount": "1" },
-                            { "name": "Brushfire Knight", "amount": "1" },
-                            { "name": "Divine Wrath", "amount": "1" },                                                         
-                            { "name": "Ultimate Providence", "amount": "1" }
+                            { "name": "The Regulation of Tribe", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" }
                         ]
-                    }       
+                    }        
                 },
                 {
                     "paragraph": "All of these cards are optional but excellent additions."
@@ -111,13 +104,13 @@
             "blocks":
             [
                 {
-                    "paragraph": "- Remember that you can set shells if you lack other monsters; if your opponent destroys it then you will still be able to use its effect."
+                    "paragraph": "- Snipe Hunter isn't 'meant' to win the dice roll as often as it's 'meant' to force chainable backrow such as Enemy Controller and Red-eyes Spirit."
                 },   
                 {
-                    "paragraph": "- When using firestorm guards to shuffle pyro monsters back into your deck, leaving at least 1 shell in the graveyard is a good play as it will allow you to activate its effect and thin."
+                    "paragraph": "- You can use the combination of Volcanic Shell + Switcheroo to go +1."
                 },
                 {
-                    "paragraph": "- Volcanic's hardest matchups are REZ and Hazy. However, this deck has a wide variety of tech options that can make at least 1 of the two matchups favorable, but leaves the other difficult. Choose your tech cards to best counter the deck that you believe will be the most common, and use your side deck (if you have one) to cover the other."
+                    "paragraph": "- Generally you want to keep Snipe Hunter in hand until you have some sort of board control with either backrow and/or Electro."
                 }   
             ]
         }
