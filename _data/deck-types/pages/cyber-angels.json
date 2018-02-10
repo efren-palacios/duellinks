@@ -30,7 +30,7 @@
                         "skill": "Balance",
                         "main":
                         [
-                            { "name": "Sapphira, Queen of Dragons", "amount": "3" },
+                            { "name": "Saffira, Queen of Dragons", "amount": "3" },
                             { "name": "Cyber Angel Dakini", "amount": "1" },
                             { "name": "Cyber Angel Idaten", "amount": "1" },
                             { "name": "Cyber Angel Benten", "amount": "3" },
@@ -58,7 +58,7 @@
                     {
                         "main":
                         [
-                            { "name": "Sapphira, Queen of Dragons", "amount": "2" },
+                            { "name": "Saffira, Queen of Dragons", "amount": "2" },
                             { "name": "Cyber Angel Dakini", "amount": "1" },
                             { "name": "Cyber Angel Benten", "amount": "3" },
                             { "name": "Senju of the Thousand Hands", "amount": "2" },
@@ -94,7 +94,7 @@
                             { "name": "Curse of Anubis", "amount": "1" },
                             { "name": "Lyla, Lightsworn Sorceress", "amount": "1" },
                             { "name": "Fenghuang", "amount": "1" },
-                            { "name": "Green Kappa", "amount": "1" },
+                            { "name": "Greenkappa", "amount": "1" },
                             { "name": "Cosmic Cyclone", "amount": "1" },
                             { "name": "Double Cyclone", "amount": "1" },
                             { "name": "Fire Formation - Gyokkou", "amount": "1" }
