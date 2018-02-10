@@ -627,6 +627,18 @@ strong
   height: 30px;
 }
 
+.carousel-h1{
+  height: 20rem;
+}
+
+.carousel-h2{
+  height: 30rem;
+}
+
+.carousel-h3{
+  height: 40rem;
+}
+
 .carousel-size-1-3{
   width: 33%;
   margin-bottom: 40px;
@@ -643,19 +655,19 @@ strong
 }
 
 .carousel-image-size-h3{
-  height: 40rem;
+  max-height: 40rem;
   max-width: 100%;
   margin: auto;
 }
 
 .carousel-image-size-h2{
-  height: 30rem;
+  max-height: 30rem;
   max-width: 100%;
   margin: auto;
 }
 
 .carousel-image-size-h1{
-  height: 20rem;
+  max-height: 20rem;
   max-width: 100%;
   margin: auto;
 }
@@ -696,6 +708,7 @@ strong
 .carousel-miniature{
   width: 40px;
   height: 40px;
+  object-fit: cover;
 }
 
 .video-wrapper
@@ -713,4 +726,10 @@ strong
     width: 100%;
     height: 100%;
   }
+}
+
+.youtube-player{
+  width: 640px;
+  height: 400px;
+  border: 0;
 }

@@ -372,7 +372,7 @@
   },
   {
     "name": "Mind Scan",
-    "description": "If your Life Points are 3000 or more, you can see the cards Set in your opponent's field.",
+    "description": "From the third turn and onward, you can see the opponent's set cards as long as your Life Points are 3000 or higher.",
     "how": "Level 13",
     "exclusive": true,
     "character": "Maximillion Pegasus"
@@ -449,7 +449,7 @@
   },
   {
     "name": "Restart",
-    "description": "Can be used after starting hand is distributed. Shuffle all the cards from your hand into the Deck. Then draw the starting hand again",
+    "description": "Can be used after starting hand is distributed. Shuffle all the cards from your hand into the Deck. Then draw the starting hand again.",
     "how": "Level 13",
     "exclusive": false,
     "character": "Paradox Brothers"
@@ -463,7 +463,7 @@
   },
   {
     "name": "Three-Star Demotion",
-    "description": "Can be used by paying 3000 Life Points. Until the End Phase, reduce the Level of all monsters in your hand by 3. This skill can only be used once per turn.",
+    "description": "Can be used when your Life Points are 1000 or below. Until the End Phase, reduce the Levels of all monsters in your hand by 3. This skill can be used on 'Suijin', 'Kazejin' and 'Sanga of the Thunder' regardless of your remaining Life Points. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Paradox Brothers"
@@ -624,7 +624,7 @@
   },
   {
     "name": "Miracle Fusion Time!",
-    "description": "Can be used if your Life Points drop below 500. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used if your Life Points drop below 1000. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Jaden Yuki"
@@ -701,42 +701,42 @@
   },
   {
     "name": "Silent as WATER",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Bastion Misawa"
   },
   {
     "name": "Quick as the WIND",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 13",
     "exclusive": true,
     "character": "Bastion Misawa"
   },
   {
     "name": "Mighty as FIRE",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 20",
     "exclusive": true,
     "character": "Bastion Misawa"
   },
   {
     "name": "Firm as the EARTH",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion Misawa"
   },
   {
     "name": "Radiating LIGHT",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion Misawa"
   },
   {
     "name": "DARK as Night",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
     "how": "Drop",
     "exclusive": true,
     "character": "Bastion Misawa"
@@ -764,7 +764,7 @@
   },
   {
     "name": "Middle Age Mechs",
-    "description": "Begin Duel with the Continuous Spell 'Ancient Gear Castle' activated.",
+    "description": "Activate the Continuous Spell 'Ancient Gear Castle' at the beggining of your first turn.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Vellian Crowler"
