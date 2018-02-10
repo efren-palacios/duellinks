@@ -126,13 +126,15 @@ $(function()
         })
 
         $('.qtip').remove();
-        $(".fancybox").fancybox();
+        $(".fancybox").fancybox({
+            selector: '.fancybox'
+        });
     }
 });
 
 $(window).on("resize", function()
 {
-    is_mobile = $(".stats").css("display") == "none";
+    is_mobile = $(".mobile").css("display") == "none";
     if (is_mobile == true)
     {
         $(".item a").each(function(index)
@@ -152,6 +154,8 @@ $(window).on("resize", function()
             $(this).replaceWith($('<a class="fancybox" href="' + imgSrc + '">' + $(this).text() + '</a>'))
         })
         
-        $(".fancybox").fancybox();
+        $(".fancybox").fancybox({
+            selector: '.fancybox'
+        });
     }
 });
