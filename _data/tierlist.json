@@ -52,7 +52,7 @@
             { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },   
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
-            { "id": "gaia-plate-magnets",       "display": "Gaia Plate Magnets",    "card": "Gaia Plate the Earth Giant" },
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
@@ -79,7 +79,6 @@
         "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
         [              
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
             { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
