@@ -123,16 +123,16 @@
                 },
                 {
                     "paragraph": "- {Magician's Rod} 's secondary effect that adds itself back from the GY to your hand does come in handy sometimes, especially if you have a floodgated monster that you don't mind tributing. It's search is powerful, and you have to be aware of what you have left to search in your deck. Remember, you must activate a spell/trap in your opponent's turn, so think carefully whether or not having the searcher is worth it."
-                }
-            ]
-        },
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                
+                }           
             ]
         }
+    ],
+    "guides": 
+    [
+        ""
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=8ulM3ZDfQnw"
     ]
 }

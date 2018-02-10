@@ -116,16 +116,16 @@
             [
                 {
                     "paragraph": ""
-                }       
-            ]
-        },    
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                
+                }           
             ]
         }
+    ],
+    "guides": 
+    [
+        ""
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=wu9OQY6uaSs"
     ]
 }

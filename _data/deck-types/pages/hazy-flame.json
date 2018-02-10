@@ -133,14 +133,14 @@
                    "paragraph": "• In general, do not overcommit to the field; an extra Hazy in hand while you have an established field presence is a nice safety option in case of something like Lava Golem or Wall of Disruption. Try to avoid going all-in on plays that are not required and would cause you to lose if disrupted. Remember: Sphynx plus Beast Rising is not an auto-win. You still have to finish the duel after that. Don't tunnel-vision into that combo too readily."
                 }           
             ]
-        },    
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                "the-hazy-guide-october-edition"
-            ]
         }
+    ],
+    "guides": 
+    [
+        "the-hazy-guide-october-edition"
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=Jlp0b1mOEf4"
     ]
 }
