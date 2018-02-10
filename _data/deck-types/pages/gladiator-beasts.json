@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": "Gladiator Beast is a toolbox deck that requires a monster to attack or survive an attack in order to be returned to the deck for another Gladiator monster. These monsters have various effects between destroying monsters or spell and trap cards, gaining attack or attacking twice. The deck focuses on heavy backrow and trap cards and is more of a control deck."
                 }   
             ]
         },
@@ -22,7 +22,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": "The deck below is a Meta Championship series top 4 deck by Super Vegito."
                 },
                 { 
                     "deck":
@@ -30,19 +30,22 @@
                         "skill": "Mind Scan",
                         "main":
                         [
-                            { "name": "Gladiator Beast Bestiari", "amount": "3" },
-                            { "name": "Gladiator Beast Darius", "amount": "3" },
-                            { "name": "Gladiator Beast Equeste", "amount": "3" },
-                            { "name": "Gladiator Beast Hoplomus", "amount": "1" },
-                            { "name": "Dark Hole", "amount": "3" },
-                            { "name": "Forbidden Lance", "amount": "2" },
-                            { "name": "Pot of Duality", "amount": "3" },
-                            { "name": "Soul Taker", "amount": "2" }
+                            { "name": "Gladiator Beast Laquari", "amount": "3" },
+                            { "name": "Gladiator Beast Bestiari", "amount": "2" },
+                            { "name": "Gladiator Beast Murmillo", "amount": "2" },
+                            { "name": "Gladiator Beast Dimacari", "amount": "1" },
+                            { "name": "Super Rush Headlong", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Floodgate Traphole", "amount": "3" },
+                            { "name": "Impenetrable Attack", "amount": "2" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "2" }
                         ]                
                     }
                 },
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": ""
                 }           
             ]
         },
@@ -56,21 +59,24 @@
                     {
                         "main":
                         [
-                            { "name": "Thunder King Rai-Oh" },
-                            { "name": "Gladiator Beast Murmillo" },
-                            { "name": "Gladiator Beast Laquari" },
-                            { "name": "Gladiator Beast Hoplomus" },
-                            { "name": "Enemy Controller" },
-                            { "name": "Mirror Wall" },
-                            { "name": "Beast Rising" }
+                            { "name": "Gladiator Beast Laquari", "amount": "3" },
+                            { "name": "Gladiator Beast Bestiari", "amount": "2" },
+                            { "name": "Gladiator Beast Murmillo", "amount": "2" },
+                            { "name": "Gladiator Beast Dimacari", "amount": "1" },
+                            { "name": "Gladiator Beast Heraklinos" },
+                            { "name": "Gladiator Beast Nerokius" },
+                            { "name": "Gladiator Beast Essedarii" },
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Floodgate Traphole", "amount": "2" },
+                            { "name": "Impenetrable Attack", "amount": "1" }
                         ]
                     }            
                 },
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": "These are the stable cards for Gladiator Beasts."
                 },
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": ""
                 }           
             ]
         },
@@ -84,15 +90,17 @@
                     {
                         "main":
                         [
-                            { "name": "Floodgate Trap Hole" }
+                            { "name": "Sphere Kuriboh" },
+                            { "name": "Half Shut" },
+                            { "name": "Forbidden Chalice" }
                         ]
                     }       
                 },
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": "These are helpful techs."
                 },
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": ""
                 }           
             ]
         },
@@ -102,7 +110,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                    "paragraph": ""
                 }   
             ]
         }
