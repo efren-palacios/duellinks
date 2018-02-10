@@ -247,7 +247,9 @@ Electro struggles to find a place in CA. Electro is a relatively weak monster th
 
 SK used to be a semi-common tech in CA, but as time has passed people have realized that SK is not very effective. This is mostly because econ does SK’s job and is far more versatile. Running 1 is fine, but running 2 may be a tad much. Don’t run 2 SK just because of its secondary effect. Relinquished was able to run SK because they are both level 1 and it was a free summon at no cost. CA can run SK, but all of the core monsters in CA are of even level, so using SK second effect of banishing from the grave won’t get used unless you are able to get both SK into play (your hand or graveyard).
 
-**Tech / Can replace:** [deck](Senju of the Thousand Hands, Cyber Petit Angel)
+**Tech / Can replace:**
+
+[deck](Senju of the Thousand Hands, Cyber Petit Angel)
 
 ##### **“Spell Counters”**
 
