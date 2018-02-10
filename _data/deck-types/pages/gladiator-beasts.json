@@ -63,12 +63,20 @@
                             { "name": "Gladiator Beast Bestiari", "amount": "2" },
                             { "name": "Gladiator Beast Murmillo", "amount": "2" },
                             { "name": "Gladiator Beast Dimacari", "amount": "1" },
-                            { "name": "Gladiator Beast Heraklinos" },
-                            { "name": "Gladiator Beast Nerokius" },
-                            { "name": "Gladiator Beast Essedarii" },
                             { "name": "Enemy Controller", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "2" },
                             { "name": "Impenetrable Attack", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Gladiator Beast Heraklinos" },
+                            { "name": "Gladiator Beast Nerokius" },
+                            { "name": "Gladiator Beast Essedarii" }
                         ]
                     }            
                 },
