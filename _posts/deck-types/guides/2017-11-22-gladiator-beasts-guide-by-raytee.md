@@ -14,6 +14,9 @@ permalink: /guides/gladiator-beasts-guide-by-raytee/
 
 {% include heading.html title=page.title author=page.author %}
 
+
+##### Last Updated: 02/10/2018
+
 ### Introduction / Achievements / Optimized Deck
 
 Hello, my name is Raytee. Maybe some people will know me from my **Youtube Channel** “Raytee Gaming”.
