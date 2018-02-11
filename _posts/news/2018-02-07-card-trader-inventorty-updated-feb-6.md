@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Card Trader Inventorty Updated! February 6th
+title: Card Trader Inventory Updated! February 6th
 author: Freeskadoodle
 image: /img/logos/card-trader2.jpg
 category: news
@@ -9,7 +9,7 @@ date: 2018-02-07
 comments: true
 description: 
 keywords: news
-permalink: /news/card-trader-inventorty-updated-feb-6
+permalink: /news/card-trader-inventory-updated-feb-6
 ---
 
 {% include heading.html title=page.title author=page.author %}

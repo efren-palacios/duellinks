@@ -25,7 +25,7 @@ Files for what appear to be the new cards from the upcoming *Dr. Crowler's Trick
 
 **New** obtainable drop rewards found:
 
-[deck](Ultimate Ancient Gear Golem; Biofalcon; Break! Draw!]
+[deck](Ultimate Ancient Gear Golem; Biofalcon; Break! Draw!)
 
 *note: the grey card is {Biofalcon}*
 

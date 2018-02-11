@@ -14,8 +14,6 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
 
 {% include heading.html title=page.title author=page.author %}
 
-##### Last Updated: 11/02/2018
-
 ### **Table of Contents**
 
 * **[Overview](#overview)**
@@ -38,9 +36,9 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
 * **[Combos and Plays](#combos-and-plays)**
 * **[The Matchups](#the-matchups)**
     * [The Mirror](#the-mirror)
-    * [CA vs Red-Eyes Zombies - Even or CA Favor](#ca-vs-red-eyes-zombies--even-or-ca-favor)
-    * [CA vs Gladiator Beasts - GB Favor](#ca-vs-gladiator-beasts--gb-favor)
-    * [CA vs Hazy - CA Favor](#ca-vs-hazy--ca-favor)
+    * [CA vs Red-Eyes Zombies | Even or CA Favor](#ca-vs-red-eyes-zombies--even-or-ca-favor)
+    * [CA vs Gladiator Beasts | GB Favor](#ca-vs-gladiator-beasts--gb-favor)
+    * [CA vs Hazy | CA Favor](#ca-vs-hazy--ca-favor)
 * **[Frequently Asked Questions](#frequently-asked-questions)**
 * **[Special Thanks](#special-thanks)**
 
@@ -142,11 +140,13 @@ Notable placings:
 
 #### The Core Cards
 
-###### **Cards Necessary in Every Competitive Cyber Angels Deck**
+**Cards Necessary in Every Competitive Cyber Angels Deck**
 
 ##### Ritual Monsters
 
 [deck](Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Idaten; Cyber Angel Benten)
+
+---
 
 ##### Saffira, Queen of Dragons
 AKA Saffira  
@@ -278,7 +278,9 @@ With MAR semi limited, Sprite can be used as a replacement ritual spell. You do 
 
 #### Notably Ommited Cards
 
-###### **Cards That Have Been Improperly Deemed Core**
+**Cards That Have Been Improperly Deemed Core**
+
+---
 
 ##### Vennu, Bright Bird of Divinity
 AKA Vennu  
@@ -295,6 +297,8 @@ Vennu is a boss monster that sees use as a substitute for Saffira. Vennu has the
 ##### Sonic Bird
 AKA Bird  
 Role: Search Ritual Spells
+
+[deck](Sonic Bird)
 
 Since the birth of CA, Sonic Bird has always struggled to find its place among the other searchers. Myself and a number of other CA players agree that **Sonic Bird is no longer a core card in the Cyber Angels lineup**. This is not to dismiss the possibility that Sonic Bird may later increase in value or even see play, but rather that CA has a number of alternatives that render Sonic Bird a tech rather than a necessity.
 
