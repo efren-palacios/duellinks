@@ -39,7 +39,7 @@
                             { "name": "Wall of Disruption", "amount": "3" },
                             { "name": "Windstorm of Etaqua", "amount": "1" },
                             { "name": "Curse of Anubis", "amount": "1" },
-                            { "name": "Massive Morph", "amount": "3" }
+                            { "name": "Massivemorph", "amount": "3" }
                         ]                
                     }
                 },
@@ -66,7 +66,7 @@
                             { "name": "Wall of Disruption", "amount": "1" },
                             { "name": "Windstorm of Etaqua", "amount": "1" },
                             { "name": "Curse of Anubis", "amount": "1" },
-                            { "name": "Massive Morph", "amount": "3" }
+                            { "name": "Massivemorph", "amount": "3" }
                         ]
                     }            
                 },
@@ -86,7 +86,7 @@
                         "main":
                         [
                             { "name": "Sphere Kuriboh", "amount": "1" },
-                            { "name": "Four Star Ladybug of Doom", "amount": "1" },
+                            { "name": "4-Starred Ladybug of Doom", "amount": "1" },
                             { "name": "Golden Ladybug", "amount": "1" },
                             { "name": "Divine Wrath", "amount": "1" },     
                             { "name": "Draining Shield", "amount": "1" },                                                      

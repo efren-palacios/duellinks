@@ -33,7 +33,7 @@
                         "skill": "Duel, Standby!",
                         "main":
                         [
-                            { "name": "Lava Golemn", "amount": "2" },
+                            { "name": "Lava Golem", "amount": "2" },
                             { "name": "Sphere Kuriboh", "amount": "2" },
                             { "name": "Skystarray", "amount": "1" },
                             { "name": "Inaba White Rabbit", "amount": "2" },
@@ -63,7 +63,7 @@
                     {
                         "main":
                         [
-                            { "name": "Lava Golemn", "amount": "2" },
+                            { "name": "Lava Golem", "amount": "2" },
                             { "name": "Skystarray", "amount": "1" },
                             { "name": "Inaba White Rabbit", "amount": "2" },
                             { "name": "Burning Land", "amount": "1" },
