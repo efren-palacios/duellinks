@@ -31,12 +31,12 @@
                         "main":
                         [
                             { "name": "Evil Dragon Ananta", "amount": "3" },
-                            { "name": "Lava Golemn", "amount": "1" },
+                            { "name": "Lava Golem", "amount": "1" },
                             { "name": "Sphere Kuriboh", "amount": "1" },
                             { "name": "Cobra Jar", "amount": "1" },
                             { "name": "Worm Cartaros", "amount": "3" },
                             { "name": "Worm Linx", "amount": "1" },
-                            { "name": "Superrush Headlong", "amount": "3" },
+                            { "name": "Super Rush Headlong", "amount": "3" },
                             { "name": "Floogate Trap Hole", "amount": "2" },
                             { "name": "Impenetrable Attack", "amount": "2" },
                             { "name": "Curse of Anubis", "amount": "1" },
@@ -60,11 +60,11 @@
                         "main":
                         [
                             { "name": "Evil Dragon Ananta", "amount": "2" },
-                            { "name": "Lava Golemn", "amount": "1" },
+                            { "name": "Lava Golem", "amount": "1" },
                             { "name": "Sphere Kuriboh", "amount": "1" },
                             { "name": "Worm Cartaros", "amount": "2" },
                             { "name": "Worm Linx", "amount": "1" },
-                            { "name": "Superrush Headlong", "amount": "3" },
+                            { "name": "Super Rush Headlong", "amount": "3" },
                             { "name": "Floogate Trap Hole", "amount": "2" },
                             { "name": "Impenetrable Attack", "amount": "2" },
                             { "name": "Curse of Anubis", "amount": "1" },
