@@ -28,6 +28,8 @@
               {% for event in site.categories.event limit:1 %}
                 <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}
+            {% elsif page.url == "/top-decks/" %}
+              <small class="text-muted">Last Updated: today</small> 
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}
