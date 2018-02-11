@@ -40,7 +40,7 @@ The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitc
 
 ### 1st Place Winner - 3K All Day - $100
 
-[deck:endless trap hell](man-eater bug; man-eater bug; man-eater; yomi ship; yomi ship; yomi ship; ghostrick yuki-onna; d.d. warrior; d.d. warrior; d.d. warrior; burning land; floodgate trap hole; floodgate trap hole; floodgate trap hole; divine wrath; divine wrath; wall of disruption; curse of anubis; massivemorph; massivemorph; massivemorph)
+[deck:endless trap hell](man-eater bug; man-eater bug; man-eater bug; yomi ship; yomi ship; yomi ship; ghostrick yuki-onna; d.d. warrior; d.d. warrior; d.d. warrior; burning land; floodgate trap hole; floodgate trap hole; floodgate trap hole; divine wrath; divine wrath; wall of disruption; curse of anubis; massivemorph; massivemorph; massivemorph)
 
 ----------
 
