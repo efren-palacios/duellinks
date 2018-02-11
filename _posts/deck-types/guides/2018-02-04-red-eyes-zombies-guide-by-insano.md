@@ -9,7 +9,7 @@ date: 2018-02-04
 comments: false
 description: 
 keywords: red eyes, rez, zombies, in-depth guide, core cards
-permalink: /guides/rez-guide-by-insano/
+permalink: /guides/red-eyes-zombies-guide-by-insano/
 ---
 
 {% include heading.html title=page.title author=page.author %}

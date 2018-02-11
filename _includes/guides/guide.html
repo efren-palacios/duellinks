@@ -61,12 +61,13 @@
     {% if guide.videos != null and guide.videos.size != 0 %}
         <div class="section">
             <h3>Videos</h3>
+            <div class="row">
                 {% for video in guide.videos %}
-                    <!-- https://www.youtube.com/watch?v=IJcPDbZhsfs -->
-                    {% assign videoUrl = video | split: 'watch?v=' %}
-                    {% assign videoId = videoUrl[1] %}
-                    <iframe class="youtube-player" src="https://www.youtube.com/embed/{{videoId}}"></iframe>
+                    <div class="col-12 col-md-6">
+                        {% include youtube-video.html url=video %}
+                    </div>
                 {% endfor %}
+            </div>
         </div>
     {% endif %}
 </div>
