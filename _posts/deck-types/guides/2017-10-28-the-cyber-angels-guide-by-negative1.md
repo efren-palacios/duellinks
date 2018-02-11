@@ -580,8 +580,14 @@ The Cyber Angel vs Gladiator matchup is heavily reliant on the build of the glad
 ##### **Effective Techs for the Matchup:**
 
 Techs in this matchup are used to either prevent tagouts or to deal with backrow. Most techs are present to perform one of these two tasks, thorough explanations will be reserved for special cases.
-+ **Stops tagout:** [deck](Forbidden Chalice; Enemy Controller; Bacon Saver; Curse of Anubis)   
-+ **Eliminates Backrow:** [deck](Cosmic Cyclone; Double Cyclone; Fire Formation - Gyokkou; Greenkappa; Fenghuang; Lyla, the Lightsworn Sorceress)  
++ **Stops tagout:**
+
+[deck](Forbidden Chalice; Enemy Controller; Bacon Saver; Curse of Anubis)   
+
++ **Eliminates Backrow:**
+
+[deck](Cosmic Cyclone; Double Cyclone; Fire Formation - Gyokkou; Greenkappa; Fenghuang; Lyla, the Lightsworn Sorceress)  
+
 + **{Gladiator Beast Andal}** Andal can be used if you are using a CA build that has econ. If they attack with their Gladiator, you can econ take it to tag out into your Andal. Andal is also at a good attack point value to wall out other meta Normal Summons.
 
 ---
