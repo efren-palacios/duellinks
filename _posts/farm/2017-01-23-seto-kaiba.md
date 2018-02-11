@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Kaiba Banner](/img/guides/kaiba.png)
+![Kaiba Banner](/img/events/kaiba.png)
 
 ### General Information
 * Seto Kaiba requires **white** keys to duel at the gate

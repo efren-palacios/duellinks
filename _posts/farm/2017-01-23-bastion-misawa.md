@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Bastion Misawa](/img/events/bastion.png)
+![Bastion Misawa](/img/events/baston.png)
 
 ### General Information
 *  Bastion Misawa requires **yellow** keys to duel at the gate
