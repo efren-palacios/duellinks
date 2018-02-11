@@ -85,22 +85,22 @@ module Jekyll
 
 					carouselSize = ""
 					if(tag.include? "1/3")
-						carouselSize = "carousel-size-1-3"
+						carouselSize = "carousel-size-1-3 "
 					elsif(tag.include? "2/3")
-						carouselSize = "carousel-size-2-3"
+						carouselSize = "carousel-size-2-3 "
 					else
-						carouselSize = "carousel-size-3-3"
+						carouselSize = "carousel-size-3-3 "
 					end
 
 					carouselImageHeight = ""
 					if(tag.include? "h3")
-                        carouselSize = "carousel-h3"
+                        carouselSize += "carousel-h3"
 						carouselImageHeight = "carousel-image-size-h3"
 					elsif(tag.include? "h2")
-                        carouselSize = "carousel-h2"
+                        carouselSize += "carousel-h2"
 						carouselImageHeight = "carousel-image-size-h2"
 					else
-                        carouselSize = "carousel-h1"
+                        carouselSize += "carousel-h1"
 						carouselImageHeight = "carousel-image-size-h1"
 					end
 
