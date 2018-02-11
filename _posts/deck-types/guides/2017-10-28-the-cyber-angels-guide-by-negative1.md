@@ -38,9 +38,9 @@ permalink: /guides/the-cyber-angels-guide-by-negative1/
 * **[Combos and Plays](#combos-and-plays)**
 * **[The Matchups](#the-matchups)**
     * [The Mirror](#the-mirror)
-    * [CA vs Red-Eyes Zombies | Even or CA Favor](#ca-vs-red-eyes-zombies--even-or-ca-favor)
-    * [CA vs Gladiator Beasts | GB Favor](#ca-vs-gladiator-beasts--gb-favor)
-    * [CA vs Hazy | CA Favor](#ca-vs-hazy--ca-favor)
+    * [CA vs Red-Eyes Zombies - Even or CA Favor](#ca-vs-red-eyes-zombies--even-or-ca-favor)
+    * [CA vs Gladiator Beasts - GB Favor](#ca-vs-gladiator-beasts--gb-favor)
+    * [CA vs Hazy - CA Favor](#ca-vs-hazy--ca-favor)
 * **[Frequently Asked Questions](#frequently-asked-questions)**
 * **[Special Thanks](#special-thanks)**
 
