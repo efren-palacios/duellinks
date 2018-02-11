@@ -26,7 +26,7 @@ I used the deck in the 2nd Stage as well, and it brought me to Rank 8 in Europe 
 
 #### Optimized Gladiator Beast Deck
 
-{% include deck-link.html deck="2017/11/gladiator-beasts/raytee" %}
+[deck](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Gladiator Beast Dimacari; Enemy Controller; Enemy Controller; Super Rush Headlong; Super Rush Headlong; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua)
 
 ### Staple Cards
 
