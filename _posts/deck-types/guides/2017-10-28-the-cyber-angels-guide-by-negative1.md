@@ -559,3 +559,5 @@ Everyone Active in the CA channel: You guys help keep the channel productive and
 Netdecking Reddit Plebs: For giving me all the free DP in KC Cup :D
 
 {% include decktype_decks.html decktype=page.deck-type %}
+
+
