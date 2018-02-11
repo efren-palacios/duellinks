@@ -12,8 +12,6 @@ keywords: news, upcoming updates, event
 permalink: /events/chazz-a-thon-feb/
 ---
 
-{% include heading.html title=page.title author=page.author %}
-
 ### Last Updated: (February 9 2018) 
 
 [gallery](https://imgur.com/nGgumxC, https://imgur.com/rZp5t0C, https://imgur.com/dB1QOTd, https://imgur.com/kWWNTaG, https://imgur.com/woSnf4L, https://imgur.com/vJOFWG3)
@@ -42,11 +40,11 @@ Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  De
 
 [deck:Restart](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Buster Blader; Goddess with the Third Eye; Gravekeeper's Vassal; Dark Magician;  Dark Magician; Dark Magician; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Emblem of Dragon Destroyer; Pot of Benevolence; Pot of Benevolence; Secret Pass to the Treasures)
 
-Fuse Dark Paladin as soon as possible and use his effect to negate {Lightning Vortex} and {Level Up} and you just continue to deck out using {King of the Swamp} to thin your deck and {Pot of Benevolence} for the 8000 DA score.
+Fuse Dark Paladin as soon as possible and use his effect to negate {Lightning Vortex} and {Level Up!} and you just continue to deck out using {King of the Swamp} to thin your deck and {Pot of Benevolence} for the 8000 DA score.
 
 **There is a chance that Chazz will clog your field with {Give and Take} so it is wise to save a tribute summon just to play around this**
 
-[deck:Restart](Winged Dragon of Ra; Golden Ladybug;  Golden Ladybug; Golden Ladybug; Cosmic Compass; Creature Seizure; Double Summon; Defense Draw; Defense Draw; Wall of Disruption; Wall of Disruption; Good Goblin House Keeping; Good Goblin House Keeping; Good Goblin House Keeping; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph; Aegis of Gaia)
+[deck:Restart](The Winged Dragon of Ra; Golden Ladybug;  Golden Ladybug; Golden Ladybug; Cosmic Compass; Creature Seizure; Double Summon; Defense Draw; Defense Draw; Wall of Disruption; Wall of Disruption; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph; Aegis of Gaia)
 
 (Credit to シドゾーマ for the decklist on Youtube and Aeroxas for the English guide)
 
