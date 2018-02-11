@@ -6,7 +6,7 @@ category: deck-type-page
 date: 2018-02-09
 comments: false
 description: A quick introduction to the snipe hunter deck type. Learn how to play snipe hunter in no time.
-deck-type: gladiator-beasts
+deck-type: snipe-hunter
 permalink: /tier-list/snipe-hunter/
 ---
 
