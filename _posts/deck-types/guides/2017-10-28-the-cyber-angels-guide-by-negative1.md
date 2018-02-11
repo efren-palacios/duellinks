@@ -200,6 +200,8 @@ Benten is primarily tribute fodder. Summoning her is a bad move in most cases be
 
 [deck](Senju of the Thousand Hands; Cyber Petit Angel)
 
+---
+
 ##### Senju of the Thousand Hands
 AKA Senju  
 Role: Search Ritual Monsters
@@ -279,6 +281,8 @@ With MAR semi limited, Sprite can be used as a replacement ritual spell. You do 
 #### Notably Ommited Cards
 
 **Cards That Have Been Improperly Deemed Core**
+
+[deck](Vennu, Bright Bird of Divinity; Sonic Bird)
 
 ---
 
@@ -592,7 +596,11 @@ Techs in this matchup are used to either prevent tagouts or to deal with backrow
 
 [deck](Cosmic Cyclone; Double Cyclone; Fire Formation - Gyokkou; Greenkappa; Fenghuang; Lyla, the Lightsworn Sorceress)  
 
-+ **{Gladiator Beast Andal}** Andal can be used if you are using a CA build that has econ. If they attack with their Gladiator, you can econ take it to tag out into your Andal. Andal is also at a good attack point value to wall out other meta Normal Summons.
++ **Gladiator Beast Andal**  
+
+[deck](Gladiator Beast Andal]
+
+Andal can be used if you are using a CA build that has econ. If they attack with their Gladiator, you can econ take it to tag out into your Andal. Andal is also at a good attack point value to wall out other meta Normal Summons.
 
 ---
 

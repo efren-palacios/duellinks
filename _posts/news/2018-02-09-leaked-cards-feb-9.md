@@ -8,7 +8,7 @@ date: 2018-02-09
 comments: true
 description: 
 keywords: news
-permalink: /news/ranked-duels-feb-rewards
+permalink: /news/leaked-cards-feb-9th
 ---
 
 {% include heading.html title=page.title author=page.author %}
