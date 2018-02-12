@@ -47,7 +47,7 @@ hide: true
 ---
 ***Level 40 Ra Farm - created by Justin Taylor (Last updated: 12/02/17)***
 
-[deck:Holy Guard](Mystical Beast of Serketl; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Riryoku Field; Riryoku Field; Riryoku Field; Blue-Eyes Ultimate Dragon)
+[deck:Holy Guard](Mystical Beast of Serket; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Riryoku Field; Riryoku Field; Riryoku Field; Blue-Eyes Ultimate Dragon)
 
 * **7.6k** base Duel Assessment
 
