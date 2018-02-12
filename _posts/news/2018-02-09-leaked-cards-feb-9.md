@@ -15,7 +15,7 @@ permalink: /news/leaked-cards-feb-9th
 
 ![](https://i.imgur.com/6CRrdqk.png)
 
-New files for **upcoming events and cards** have been found in game! 
+New files for **upcoming events and cards** have been found in game!  
 The drop list for Dr Vellian Crowler of the upcoming 'Dr Crowler's Tricky Tests' event has been datamined. The event is expected mid to late February.
 *Credit goes to XOF on the DuelLinksMeta discord*
 
