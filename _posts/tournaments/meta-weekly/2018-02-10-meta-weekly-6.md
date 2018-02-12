@@ -4,7 +4,7 @@ title: "Meta Weekly #6 Report"
 author: Toastykilla
 category: tournament
 tournament: Meta Weekly
-number: 5
+number: 6
 image: /img/logos/meta-weekly.png
 date: 2018-02-10
 comments: true
