@@ -4,6 +4,7 @@ author: unpreceden7ed
 category: other
 date: 2018-02-12 11:28:00 +0200
 permalink: /skill/
+sitemap: false
 hide: true
 ---
 
