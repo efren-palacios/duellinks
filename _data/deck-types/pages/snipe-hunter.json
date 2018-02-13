@@ -39,7 +39,8 @@
                             { "name": "Sergeant Electro", "amount": "3" },
                             { "name": "Blaze Accelerator", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "2" },
-                            { "name": "Mirror Wall", "amount": "3" }
+                            { "name": "Mirror Wall", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "2" }
                         ]                
                     }
                 },

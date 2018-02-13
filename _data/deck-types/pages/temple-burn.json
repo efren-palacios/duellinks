@@ -30,7 +30,7 @@
                 { 
                     "deck":
                     {
-                        "skill": "Duel, Standby!",
+                        "skill": "Parasite Infestation",
                         "main":
                         [
                             { "name": "Lava Golem", "amount": "2" },
@@ -38,7 +38,7 @@
                             { "name": "Skystarray", "amount": "1" },
                             { "name": "Inaba White Rabbit", "amount": "2" },
                             { "name": "Burning Land", "amount": "1" },
-                            { "name": "Mask of Restrict", "amount": "1" },
+                            { "name": "Mask of Accursed", "amount": "1" },
                             { "name": "Temple of the Mind's Eye", "amount": "2" },
                             { "name": "Jade Insect Whistle", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "3" },
