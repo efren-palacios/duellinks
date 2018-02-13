@@ -25,7 +25,7 @@ Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  De
 | :------- | :---- | :--- | :---- 
 | {Armed Dragon LV10} | Cumulative reward at 3160 points or a random drop from Serious Chazz  | 
 | {VWXYZ-Dragon Catapult Cannon} | Cumulative reward at 860 points or a random drop from Serious Chazz |
-|{Lancer Lindwurm} | Random drop from Serious Chazz |
+| {Lancer Lindwurm} | Random drop from Serious Chazz |
 | {Armed Dragon LV7} | Random drop from Serious Chazz |
 | {Infernal Incinerator} | Random drop from Serious Chazz and from daily rewards |
 | {Despair From The Dark} | Random drop from Serious Chazz |
