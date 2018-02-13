@@ -121,13 +121,78 @@ $(function()
 
         $(".card-hover").each(function()
         {
-            var imgSrc = $(this).attr('src')
-            $(this).replaceWith($('<a class="fancybox" href="' + imgSrc + '">' + $(this).text() + '</a>'))
+            if($(this).attr('name') == 'skillPopup') {
+                let websiteLink = location.protocol + "//" + location.hostname;
+                if(location.port){
+                    websiteLink += ":" + location.port;
+                }
+
+                $(this).replaceWith($('<a class="fancybox-skill" data-type="ajax" data-src="' + websiteLink + '/skill/' + '" href="javascript:;">' + $(this).text() + '</a>'))    
+            }
+            else {
+                var imgSrc = $(this).attr('src')
+                $(this).replaceWith($('<a class="fancybox" href="' + imgSrc + '">' + $(this).text() + '</a>'))
+            }
         })
 
+        // Set the fancybox for card images
         $('.qtip').remove();
-        $(".fancybox").fancybox({
+        $().fancybox({
             selector: '.fancybox'
+        });
+
+        // Set the fancybox for skill popups
+        $().fancybox({
+            buttons: ['close'],
+            selector: '.fancybox-skill',
+            smallBtn: false,
+            afterShow: function( instance, current ) {
+                // Obtain the skill
+                var skill = $(current.opts.$orig).html();
+
+                // Obtain the skill data
+                let websiteLink = location.protocol + "//" + location.hostname;
+                if(location.port){
+                    websiteLink += ":" + location.port;
+                }
+                axios.get(websiteLink + "/data/skillsChars.json").then( function(response) {
+                    // Slice the data
+                    let characterWhoUses = [];
+                    let exclusive = false;
+                    let desc = "No description available";
+                    let officialName = skill;
+                    for(var i = 0; i < response.data.length; i++){
+                        if(response.data[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skill.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()){
+                            officialName = response.data[i].name;
+                            desc = response.data[i].desc;
+                            exclusive = response.data[i].exclusive;
+                            characterWhoUses.push(response.data[i].character);
+
+                            if(exclusive == true) {
+                                break;
+                            }
+                        }
+                    }
+                    let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
+
+                    // Update and display the data
+                    $('#skillTitle').html(officialName);
+                    $('#skillDescription').html(desc);
+                    var exclusiveString = (exclusive == true ? 'Skill exclusive to ' + characterWhoUses[0] + '' : 'Skill can be used by different characters.');
+                    $('#skillExclusive').html(exclusiveString); 
+                    var characterString = websiteLink + "/img/characters/portrait-" + (exclusive == true ? portaitName : 'vagabond') + ".png";
+                    $('#characterImage').one("load", function() {
+                        // Style the image for large skill descriptions, then display the box
+                        var containerHeight = $('#characterImageContainer').height();
+                        var difference = Math.floor(containerHeight - 146); // Default height of all pics are 146
+                        $('#characterImage').css('padding', Math.floor(difference/2) + 'px 0px ' + Math.floor(difference/2) + 'px 0px');
+
+                        $('#defaultFancybox').remove();
+                        $('#skillFancybox').removeClass('hideSkillContainer');
+                    });
+                    $('#characterImage').attr('src', characterString);
+                });
+            }
         });
     }
 });

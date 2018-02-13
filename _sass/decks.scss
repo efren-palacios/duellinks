@@ -217,8 +217,44 @@
   min-width: 500px;
 }
 
+// Skill (Mobile)
+.skillContainer {
+  display: flex !important;
+  background-color: transparent !important;
+} 
+
+.hideSkillContainer {
+  visibility: hidden;
+}
+
+.skillTitle {
+  color: #c7c7c7;
+  margin-bottom: 32px;
+}
+
+.skillDataColumn {
+  padding: 15px 0px 15px 0px;
+}
+
+@media only screen and (max-width: 575px)
+{
+  .skillData p {
+    text-align: center;
+  }
+
+  .skillImage {
+    text-align: center;
+  }
+}
+
+/*--- Removing the fancybox content display
+as the grid from Bootstrap is needed for skill popups---*/
+.fancybox-slide::before {
+  display: none !important;  
+}
+
 // Tablet
-@media only screen and (max-width: 760px)
+@media only screen and (max-width: 767px)
 {
   .mobile
   {
