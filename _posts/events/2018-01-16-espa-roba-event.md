@@ -111,7 +111,7 @@ hide: false
 [deck:Duel, Standby!](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Gravekeeper's Vassal; Dark Magician; Dark Magician; Dark Magician; Fusion Recycling Plant; Fusion Recycling Plant; Anti-Magic Arrows; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Secret Pass to the Treasures; Mooyan Curry; Dark Paladin; Dark Paladin)
 
 **Strategy**
--  Summon {Dark Paladin} as soon as possible. Use his effect to negate Roba's {Tribute to the Doomed}
+- Summon {Dark Paladin} as soon as possible. Use his effect to negate Roba's {Tribute to the Doomed}
 - Get 2 copies of {Dark Paladin} out by the end turn
 - Use {Mooyan Curry} to heal Roba to get the 'Comeback Victory' bonus
 - Use {Fusion Recycling Plant} and {King of the Swamp} to add {Polymerization} to your hand and outdraw Roba
