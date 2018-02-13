@@ -12,6 +12,9 @@ module Jekyll
     def escape_backslashes(input)
       input.gsub(/\\/, '\\\\\\\\')
     end
+    def capitalize_all(words)
+      return words.split(' ').map(&:capitalize).join(' ')
+    end
   end
   module ApiFilter
     def name(input, name)

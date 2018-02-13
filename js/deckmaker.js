@@ -12,6 +12,7 @@ $(function()
     {
         $(function()
         {
+            let obtain
             let options =
             {
                 style: { classes: 'qtip-dark qtip-shadow rounded' },
@@ -31,19 +32,32 @@ $(function()
                         let type = $(this).attr('name')
                         if(type == "cardPopup"){
                             let name = $(this).attr('src')
-                            axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r)
+                            let cardobtain = axios.get(websiteLink+"/data/cardObtain.json").then(function(r) {
+                                let cardName = name.replace("https://yugiohprices.com/api/card_image/", "")
+                                return r.data.filter(i => i.name == cardName)[0] || 'Resource Error'
+                            })
+                            let cardinfo = axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r)
                             {
+                                return r.data
+                            })
+                            Promise.all([cardobtain, cardinfo]).then(function(r) {
                                 api.set('content.text',
-                                `<div class="preview"><img width="120px" src="${name}" /></div>
-                                    <div class="carddata"><b>${r.data.card.name}</b><br />
-                                        ${r.data.card.attribute ? "<p>Attribute: " + r.data.card.attribute : ""}
-                                        ${r.data.card.stars ? "Level: " + r.data.card.stars+"</p>"  : ""}
-                                        ${r.data.card.is_monster
-                                            ? '<p><b>[ </b>' + r.data.card.species + ' / ' + r.data.card.monster_types + '<b> ]</b></p>'
-                                            : '<p><b>[ </b>' + r.data.card.type + ' / ' + r.data.card.property +  '<b> ]</b></p>'}
-                                        <p>${r.data.card.text}</p>
-                                        <p>${r.data.card.attack ? "<b>ATK/</b>" + r.data.card.attack : ""}
-                                        ${r.data.card.defense ? "<b>DEF/</b>"+r.data.card.defense : ""}</p>
+                                `<div class="preview">
+                                    <img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />
+                                    <img width="120px" src="${name}" style="margin-bottom: 20px" />
+                                </div>
+                                    <div class="carddata"><b style="margin-bottom: .5rem;">${r[1].card.name}</b><br />
+                                        ${r[1].card.attribute ? "<p>Attribute: " + r[1].card.attribute : ""}
+                                        ${r[1].card.stars ? "Level: " + r[1].card.stars+"</p>"  : ""}
+                                        ${r[1].card.is_monster
+                                            ? '<p><b>[ </b>' + r[1].card.species + ' / ' + r[1].card.monster_types.join(' / ') + '<b> ]</b></p>'
+                                            : '<p><b>[ </b>' + r[1].card.type + ' / ' + r[1].card.property +  '<b> ]</b></p>'}
+                                        ${r[1].card.has_materials ? `<p><i>${r[1].card.materials}</i></p>` : ''}
+                                        <p>${r[1].card.text}</p>
+                                        <p>${r[1].card.attack ? "<b>ATK/ </b>" + r[1].card.attack : ""}
+                                        ${r[1].card.defense ? "<b>DEF/ </b>"+r[1].card.defense : ""}</p>
+                                        <p><u>How To Obtain</u></p>
+                                        <p style="text-transform: capitalize">${r[0].how}</p>
                                     </div>`)
                             })
                             return "Loading card...";
