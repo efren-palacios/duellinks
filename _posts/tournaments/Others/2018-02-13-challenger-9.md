@@ -6,7 +6,7 @@ category: tournament
 tournament: Meta Weekly
 number: 7
 image: /img/logos/meta-weekly.png
-date: 2018-02-13
+date: 2018-02-14
 comments: true
 description: Challenger Series 9 Tournament Repor. Check the prize winners and their decks here.
 keywords: tournament, tournament report
