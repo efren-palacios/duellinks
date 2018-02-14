@@ -4,12 +4,29 @@ $(document).ready(function()
     {
         $(this).toggleClass("active");
 
-        var category = $(this).data("filter");
-
-        $("[data-category='" + category + "']").each(function()
+        if($(".guides-filters .active[data-filter]").length == 0)
         {
-            $(this).toggleClass("hidden");
-        });
+            $("[data-category]").each(function()
+            {
+                $(this).removeClass("hidden");
+            });
+        }
+        else
+        {
+            $("[data-filter]").each(function()
+            {
+                var category = $(this).data("filter");
+                var active = $(this).hasClass("active");
+
+                $("[data-category='" + category + "']").each(function()
+                {
+                    if(active)
+                        $(this).removeClass("hidden");
+                    else
+                        $(this).addClass("hidden");
+                });
+            });
+        }
     });
 });
 
