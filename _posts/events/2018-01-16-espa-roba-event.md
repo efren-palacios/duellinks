@@ -12,15 +12,19 @@ permalink: /events/espa-roba-event-february-2018/
 hide: false
 ---
 
-{% include heading.html title=page.title author=page.author %}
+# Espa Roba Event
+## By Yami Hammy and Freeskadoodle
 
-[w75]
+[w50]
 ![Banner](https://lh3.googleusercontent.com/0Ezj7PCM_rc24KmMhcltNqD6sRiu7bmosYGVQ0_3YTwl-NCBhHpL9Muti0NmOsuiSnMoQxal8Z8)
+
+[w50]
+[gallery](https://lh3.googleusercontent.com/Al7L9XdVT3lHAq4vDNU4R_Oo7F-x-05ZjIGBz6f1dHAlhHv8Am2Z0KW-lyIy9d1bYE7eZYFWnYI, https://lh3.googleusercontent.com/NyBBI0BlBp90pueESXWAIN7_C8fLYDZSo_jB6rHdC5Ptvmi2s42vXGOeZ2Nk5RfGL_n2_Tt5HcY, https://lh3.googleusercontent.com/1-0ol8tEMMI_BSICkgTotco1Sod46hJdW6EOS8YnaCPLGUvTD59Bznl0iO135-3cC4M_hUZJ8xI, https://lh3.googleusercontent.com/FjrE1Dp06Ff8q-xUA-fyo1dGgrYkNwmLq4mTaajvowDXTJoobWWH2hz2C_Rq9yrL90HgIJSQuMk, https://lh3.googleusercontent.com/9EVGcgkDReb22Q5sWKY7SikXWgffR0DiXF-kOsaGrG_xGDKkatfBnxgcIfVgL3-4KafHaQvdZRQ, https://lh3.googleusercontent.com/btxmlrIZlZT_yYAInRDzD4VPcocXp4jIhzduM3PQWnVYamI5GslPYoCO4Je4p7muYnzbQuTd0Fw, https://lh3.googleusercontent.com/FN8yWTjY17ZofiQavl-L5j4dxjrPRUgLeOpH0bBzXg674hevTeSx_trQtgDxDv7EXYD0Ir32onc)
 
 ### Event Information 
 - Espa Roba, a Duelist who specializes in Psychic monsters, has appeared in Duel World (DM)!
-- This event lasts from February 13th to February 23rd.
-- Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World and in Ranked Duels will increase the chance of Espa Roba appearing.
+- This event lasts from February 13th to February 23rd
+- Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World and in Ranked Duels will increase the chance of Espa Roba appearing
 
 ### Drop Rewards
 
@@ -86,7 +90,7 @@ hide: false
 [deck:Restart](Summoner of Illusions; Magnetic Mosquito; Magnetic Mosquito; Magnetic Mosquito; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Anti-Magic Arrows; System Down; System Down; System Down; Array of Revealing Light; Array of Revealing Light; Array of Revealing Light; Acid Rain; Acid Rain; Acid Rain; Gift of the Martyr; Pot of Benevolence; Blue-Eyes Ultimate Dragon; Master of Oz)
 
 **Strategy**
--  Get an {Array of Revealing Light} out as soon as possible (Use the skill 'Restart' to increase your odds of opening with it)
+-  Get an {Array of Revealing Light} out as soon as possible (Use the skill {Restart} to increase your odds of opening with it)
 -  Use your machine destruction cards to stall Espa until the final turn 
 
 **Last Turn** 
@@ -130,7 +134,7 @@ hide: false
 - A second {Dark Paladin} can be changed for {Buster Blader, the Dragon Destroyer Swordsman}, however you must now include some Dragon-type monster cards in your farm deck
 - 2 copies of {Buster Blader} can be switched our for {Emblem of Dragon Destroyer} to increase draw speed
 - Overall the farm is extremely flexible, and most cards can be interchanged for other fusion support
-- The optimal skills are Duel Standby and Restart, but the deck can be run without a skill
+- The optimal skills are {Duel, Standby!} and {Restart}, but the deck can be run without a skill
 
 ---
 
@@ -140,14 +144,8 @@ hide: false
 - The chance of Espa Roba appearing is not affected by dueling in the KC Cup or at the gate 
 
 ---
-
 ### Espa Roba LV 30 Decklist
-[deck](Jinzo; The Fiend Megacyber; The Fiend Megacyber; Cyber Raider; Cyber Raider; Cyber Raider; Cyber Soldier of Darkworld; Cyber Soldier of Darkworld; Cyber Soldier of Darkworld; Guardian of the Throne Room; Guardian of the Throne Room; Guardian of the Throne Room; Jinzo - Returner; Scrap Recycler; Mind Control; Sword of Dark Destruction; Sword of Dark Destruction; Altar for Tribute; Altar for Tribute; Psychic Shockwave)
+[deck](Jinzo; The Fiend Megacyber; The Fiend Megacyber; Cyber Raider; Cyber Raider; Cyber Raider; Cyber Soldier of Darkworld; Cyber Soldier of Darkworld; Cyber Soldier of Darkworld; Guardian of the Throne Room; Guardian of the Throne Room; Guardian of the Throne Room; Jinzo - Returner; Scrap Recycler; Mind Control; Sword of Dark Destruction; Sword of Dark Destruction; Psychic Shockwave; Altar for Tribute; Altar for Tribute)
 
 ### Espa Roba LV 40 Decklist
-[deck](Jinzo; Jinzo; Jinzo; Guardian of the Throne Room; Guardian of the Throne Room; Reflect Bounder; Jinzo - Returner; Jinzo - Returner; Jinzo - Returner; Scrap Recycler; Scrap Recycler; Scrap Recycler; Amplifier; Brain Control; Gravity Blaster; Iron Call; Tribute to The Doomed; Psychic Shockwave; Pulse Mines; Pulse Mines)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjIwNjQ3MDYsMTc5OTYyMTczOCwtMT
-E5NTY1NzQ5MiwtMzcwNTk0NzI1LDIzNDM0MTk3OSwyODkwMzEw
-NF19
--->
+[deck](Jinzo; Jinzo; Jinzo; Guardian of the Throne Room; Guardian of the Throne Room; Reflect Bounder; Jinzo - Returner; Jinzo - Returner; Jinzo - Returner; Scrap Recycler; Scrap Recycler; Scrap Recycler; Amplifier; Tribute to The Doomed; Brain Control; Gravity Blaster; Iron Call; Psychic Shockwave; Pulse Mines; Pulse Mines)
