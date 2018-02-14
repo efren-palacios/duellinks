@@ -34,7 +34,7 @@ $(function()
                             let name = $(this).attr('src')
                             let cardobtain = axios.get(websiteLink+"/data/cardObtain.json").then(function(r) {
                                 let cardName = name.replace("https://yugiohprices.com/api/card_image/", "")
-                                return r.data.filter(i => i.name == cardName)[0] || 'Resource Error'
+                                return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
                             })
                             let cardinfo = axios.get("https://www.ygohub.com/api/card_info?name=" + $(this).attr("src").replace("https://yugiohprices.com/api/card_image/", "")).then(function(r)
                             {
@@ -43,7 +43,7 @@ $(function()
                             Promise.all([cardobtain, cardinfo]).then(function(r) {
                                 api.set('content.text',
                                 `<div class="preview">
-                                    <img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />
+                                    ${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />` : '<br>'}
                                     <img width="120px" src="${name}" style="margin-bottom: 20px" />
                                 </div>
                                     <div class="carddata"><b style="margin-bottom: .5rem;">${r[1].card.name}</b><br />
@@ -57,7 +57,7 @@ $(function()
                                         <p>${r[1].card.attack ? "<b>ATK/ </b>" + r[1].card.attack : ""}
                                         ${r[1].card.defense ? "<b>DEF/ </b>"+r[1].card.defense : ""}</p>
                                         <p><u>How To Obtain</u></p>
-                                        <p style="text-transform: capitalize">${r[0].how}</p>
+                                        ${ r[0].how ? `<p style="text-transform: capitalize">${r[0].how}</p>` : 'Needs to be Added'}
                                     </div>`)
                             })
                             return "Loading card...";
