@@ -29,7 +29,42 @@
                 <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}
             {% elsif page.url == "/top-decks/" %}
-              <small class="text-muted">Last Updated: today</small> 
+              {% assign years = site.data.top-decks %}
+              {% assign years_size = years | size %}
+              {% assign years_difference = years_size | minus: 2 %}
+              {% assign years_count = 0 %}
+              {% for year in years %}
+                {% if years_count == years_difference %}
+                  {% assign current_year = year %}
+                  {% break %}
+                {% else %}
+                  {% assign years_count = years_count | plus: 1 %}
+                {% endif %}
+              {% endfor %}
+              {% assign months = current_year[1] %}
+              {% for month in months %}
+                {% assign current_month = month %}  
+              {% endfor %}
+              {% assign deck_types = current_month[1] %}
+              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+              {% for deck_type in deck_types %}
+                {% for deck in deck_type[1] %}
+                  {% assign deckData = deck[1] %}
+                  {% assign deck_count = 0 %}
+                  {% for attrData in deckData %}
+                    {% if deck_count == 2 %}
+                      {% assign currentCreated = attrData[1] | date: "%Y-%m-%d" %}
+                      {% if currentCreated > lastCreated %}
+                        {% assign lastCreated = currentCreated %}
+                      {% endif %}   
+                      {% break %} 
+                    {% else %}
+                      {% assign deck_count = deck_count | plus: 1 %}
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              {% endfor %}
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small> 
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}
