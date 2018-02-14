@@ -59,9 +59,10 @@ Double Elimiation (possibly swiss in the future)
 
 #### First Place - saberdark : 65$
 
-Decklist | Side Deck
-|:----------:|:----------:|
-|[deck: Extra, Extra](Sphere Kuriboh; warm worm; warm worm; Ghostrick Yuki-onna; Golden Ladybug; Golden Ladybug; Golden Ladybug; Outstanding Dog Marron; Temple Of The Minds Eye; Temple Of The Minds Eye; Floodgate Traphole; Floodgate Traphole; Rainbow Life; Rainbow Life; Wild Tornado; Des Counterblow; Des Counterblow; curse of anubis; massivemorph; massivemorph; massivemorph)                            |[deck:](lava golem; sphere kuriboh; 4-Starred Ladybug of Doom; 4-Starred Ladybug of Doom; disappear)
+[deck:Extra, Extra](Sphere Kuriboh; warm worm; warm worm; Ghostrick Yuki-onna; Golden Ladybug; Golden Ladybug; Golden Ladybug; Outstanding Dog Marron; Temple Of The Minds Eye; Temple Of The Minds Eye; Floodgate Traphole; Floodgate Traphole; Rainbow Life; Rainbow Life; Wild Tornado; Des Counterblow; Des Counterblow; curse of anubis; massivemorph; massivemorph; massivemorph)    
+
+**Side deck:**
+[deck:](lava golem; sphere kuriboh; 4-Starred Ladybug of Doom; 4-Starred Ladybug of Doom; disappear)
 
 
 ----------
