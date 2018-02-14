@@ -17,4 +17,5 @@ gems:
   - jekyll-angular
 plugins-dir:
   - jekyll-sitemap
+include: ['.htaccess', '_headers']
 season-end: 0001-01-01T01:00:00.000
