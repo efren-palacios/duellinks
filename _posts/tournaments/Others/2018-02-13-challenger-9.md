@@ -5,7 +5,7 @@ author: ToastyKilla
 category: tournament
 tournament: Meta Weekly
 number: 7
-image: /img/logos/thumbnail.png
+image: /img/news/thumbnail.png
 date: 2018-02-14
 comments: true
 description: Challenger Series 9 Tournament Repor. Check the prize winners and their decks here.
