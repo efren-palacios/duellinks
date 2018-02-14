@@ -5,7 +5,7 @@ author: ToastyKilla
 category: tournament
 tournament: Meta Weekly
 number: 7
-image: /img/logos/meta-weekly.png
+image: /img/logos/thumbnail.png
 date: 2018-02-14
 comments: true
 description: Challenger Series 9 Tournament Repor. Check the prize winners and their decks here.
@@ -61,7 +61,7 @@ Double Elimiation (possibly swiss in the future)
 
 Decklist | Side Deck
 |:----------:|:----------:|
-|[deck:Extra, Extra](Sphere Kuriboh; warm worm; warm worm; Ghostrick Yuki-onna; Golden Ladybug; Golden Ladybug; Golden Ladybug; Outstanding Dog Marron; Temple Of The Minds Eye; Temple Of The Minds Eye; Floodgate Traphole; Floodgate Traphole; Rainbow Life; Rainbow Life; Wild Tornado; Des Counterblow; Des Counterblow; curse of anubis; massivemorph; massivemorph; massivemorph)                                   |[deck:No Skill](lava golem; sphere kuriboh; 4-Starred Ladybug of Doom; 4-Starred Ladybug of Doom; disappear)
+|[deck: Extra, Extra](Sphere Kuriboh; warm worm; warm worm; Ghostrick Yuki-onna; Golden Ladybug; Golden Ladybug; Golden Ladybug; Outstanding Dog Marron; Temple Of The Minds Eye; Temple Of The Minds Eye; Floodgate Traphole; Floodgate Traphole; Rainbow Life; Rainbow Life; Wild Tornado; Des Counterblow; Des Counterblow; curse of anubis; massivemorph; massivemorph; massivemorph)                            |[deck:](lava golem; sphere kuriboh; 4-Starred Ladybug of Doom; 4-Starred Ladybug of Doom; disappear)
 
 
 ----------
