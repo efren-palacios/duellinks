@@ -6,8 +6,8 @@ image: /img/events/espa-roba-event/thumbnail.png
 category: event
 date: 2018-02-13
 comments: false
-description: Espa Roba Event
-keywords: event, in-depth event
+description: All you need to know about Espa Roba Event, his deck, how to farm him and much more!
+keywords: event, in-depth event, Espa Roba Event, Espa Roba, farming Espa Roba, farm deck
 permalink: /events/espa-roba-event-february-2018/
 hide: false
 ---
