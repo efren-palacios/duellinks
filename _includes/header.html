@@ -32,19 +32,20 @@
               {% assign years = site.data.top-decks %}
               {% assign years_size = years | size %}
               {% assign years_count = 0 %}
+
               {% for year in years %}                
-                {% if year[0] == "pending" %}                  
-                  {% continue %}
-                {% else %}
-                  {% assign current_year = year %}  
+                {% if year[0] != "pending" %}                  
+                  {% assign months = year[1] %}  
                 {% endif %}
               {% endfor %}
-              {% assign months = current_year[1] %}
+
               {% for month in months %}
                 {% assign current_month = month %}  
               {% endfor %}
+
               {% assign deck_types = current_month[1] %}
               {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+
               {% for deck_type in deck_types %}
                 {% for deck in deck_type[1] %}
                   {% assign currentCreated = deck[1].created | date: "%Y-%m-%d" %}
