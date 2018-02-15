@@ -40,10 +40,9 @@
               {% endfor %}
 
               {% for month in months %}
-                {% assign current_month = month %}  
+                {% assign deck_types = month[1] %}  
               {% endfor %}
 
-              {% assign deck_types = current_month[1] %}
               {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
 
               {% for deck_type in deck_types %}
