@@ -34,7 +34,7 @@
               {% assign years_count = 0 %}
               {% for year in years %}                
                 {% if year[0] == "pending" %}                  
-                  {% break %}
+                  {% continue %}
                 {% else %}
                   {% assign current_year = year %}  
                 {% endif %}
