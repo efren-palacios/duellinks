@@ -28,6 +28,7 @@
             { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" }                
         ]
     },
@@ -36,9 +37,6 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-                  
-            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
-            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
         ] 
     },
@@ -49,15 +47,14 @@
         [
             { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
             { "id": "dark-world",               "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },             
-            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },   
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
-            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" }
+            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
+            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
         ] 
     },
     {
@@ -65,13 +62,7 @@
         "info": "New deck types or decks that have received new cards that change the deck.",
         "types":
         [
-            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
-            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
-            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
-            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
-            { "id": "jurrac",                   "display": "Jurrac",                "card": "Jurrac Guaiba" },
-            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
-            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
+            { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" }
         ] 
     },
     {
@@ -108,7 +99,16 @@
             { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
             { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
 			{ "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon" },
-			{ "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" }
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
+            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
+            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
+            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
+            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
+            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
+            { "id": "jurrac",                   "display": "Jurrac",                "card": "Jurrac Guaiba" },
+            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
+            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
         ]
     },
     {

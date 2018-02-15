@@ -6,6 +6,7 @@
     },
     "tier-changes": 
     [
+        { "type": "magnet-warriors", "from": "nothing", "to": 3, "date": 2018-02-16 },
         { "type": "snipe-hunter", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "stall-decks", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "dinos", "from": "nothing", "to": 3, "date": 2018-01-31 },
