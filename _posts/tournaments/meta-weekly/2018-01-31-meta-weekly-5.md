@@ -25,7 +25,7 @@ The Meta Weekly is one of Dkayed's new tournaments that is held once a week, alt
 * No side deck
 * Single elimination
 
-### How do I join?
+### How to join
 The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitch subscriber you can buy tickets on the DLM discord for $2 each. These tickets can be kept for as long as you like. Each ticket gives you one entry for any Meta Weekly tournaments.
 
 ----------

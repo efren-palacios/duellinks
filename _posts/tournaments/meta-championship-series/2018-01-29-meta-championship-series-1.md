@@ -4,13 +4,13 @@ title: "Meta Championship Series #1 Report"
 author: TOASTYKILLA
 category: tournament
 tournament: Meta Championship Series
-number: 5
+number: 1
 image: /img/logos/mcs5report.png
 date: 2017-07-22
 comments: true
 description: The Meta Championship Series 1 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs1, mcs 1, meta championship, meta championship series, meta championship 1, meta championship series 1, mcs decks, mcs3 decks
-permalink: /tournaments/meta-championship-series/5/
+permalink: /tournaments/meta-championship-series/1/
 pinned: false
 ---
 
@@ -24,11 +24,11 @@ pinned: false
 |Rank|Participant Name|Match History
 | :-------- | :-------- | :-------- |
 |1| got_sphered | W W W W W W 
-|2|Suk | W W W W L W L 
+|2| Suk | W W W W L W L 
 |3| BookWormForm | W W W L W W L
-|4|ShinySopheon |  W W W L W L
-|5 | Hooligan77 |  W W L W W L
-|6|Looler | W W L W W L
+|4| ShinySopheon |  W W W L W L
+|5| Hooligan77 |  W W L W W L
+|6| Looler | W W L W W L
 |7| 3p1cfail | L W W W W L
 |8| Tutpup | L W W W W L
 
@@ -36,7 +36,7 @@ pinned: false
 
 ### Top 8 Breakdown:
 ​
- 3 Red-Eyes Zombies
+3 Red-Eyes Zombies
 2 Zombie Gemini
 1 Red-Eyes Counter Traps
 ​1 Control Deck
@@ -44,7 +44,7 @@ pinned: false
 
 ----------
 
-## Sponsors:
+### Sponsors:
 #### Biggest Sponsor - Xnightraiderx : $150
 
 |Sponsors|Donations
@@ -53,13 +53,13 @@ pinned: false
 | Dudley | $100|
 | crazedd | $20
 | Free2Rhyme | $10
-|Hextor91 | $10
-|NerdChic | $7.35
-|Umquire | $5
-|Str8flex | $5
-|Virus | $5
-|look_at_god | $5
-|DariusBarnes | $5
+| Hextor91 | $10
+| NerdChic | $7.35
+| Umquire | $5
+| Str8flex | $5
+| Virus | $5
+| look_at_god | $5
+| DariusBarnes | $5
 
 ----------
 

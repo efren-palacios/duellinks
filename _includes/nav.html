@@ -3,48 +3,48 @@
     <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa fa-bars fa-lg" aria-hidden="true"></i>          
     </button>
-    <a class="navbar-brand ml-auto" href="{{site.url}}">
-      <img src="{{site.url}}/img/logos/dlm.png" alt="">
+    <a class="navbar-brand ml-auto" href="">
+      <img src="/img/logos/dlm.png" alt="">
     </a>
     <div class="navbar-collapse collapse mr-auto" id="navbarsExampleDefault">
       <ul class="navbar-nav">
         <li class="nav-item">
           {% if page.url contains "/tier-list/" %}
-            <a class="nav-link active" href="{{site.url}}/tier-list/">Tier List</a>
+            <a class="nav-link active" href="/tier-list/">Tier List</a>
           {% else %}
-            <a class="nav-link" href="{{site.url}}/tier-list/">Tier List</a>
+            <a class="nav-link" href="/tier-list/">Tier List</a>
           {% endif %}
         </li>
         <li class="nav-item active">
             {% if page.url contains "/top-decks/" %}
-              <a class="nav-link active" href="{{site.url}}/top-decks/">Top Decks</a>
+              <a class="nav-link active" href="/top-decks/">Top Decks</a>
             {% else %}
-              <a class="nav-link" href="{{site.url}}/top-decks/">Top Decks</a>
+              <a class="nav-link" href="/top-decks/">Top Decks</a>
             {% endif %}
         </li>
         <li class="nav-item">
-          {% if page.url contains "/mcs/" %}
-            <a class="nav-link active" href="{{site.url}}/mcs/">MCS</a>
+          {% if page.url contains "/tournaments/meta-championship-series/" %}
+            <a class="nav-link active" href="/tournaments/meta-championship-series/">MCS</a>
           {% else %}
-            <a class="nav-link" href="{{site.url}}/mcs/">MCS</a>
+            <a class="nav-link" href="/tournaments/meta-championship-series/">MCS</a>
           {% endif %}
         </li>
         <li class="nav-item active">
           {% if page.url contains "/new-players/" %}
-            <a class="nav-link active" href="{{site.url}}/guides/">Guides</a>
+            <a class="nav-link active" href="/guides/">Guides</a>
           {% else %}
-            <a class="nav-link" href="{{site.url}}/guides/">Guides</a>
+            <a class="nav-link" href="/guides/">Guides</a>
           {% endif %}
         </li>
         <li class="nav-item">
           {% if page.url contains "/discord/" %}
-            <a class="nav-link active" href="{{site.url}}/discord/">Top Players</a>
+            <a class="nav-link active" href="/discord/">Top Players</a>
           {% else %}
-            <a class="nav-link" href="{{site.url}}/discord/">Top Players</a>
+            <a class="nav-link" href="/discord/">Top Players</a>
           {% endif %}
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{site.url}}/events/">New Event</a>
+          <a class="nav-link" href="/events/">New Event</a>
         </li>
       </ul>
     </div>   
@@ -53,12 +53,12 @@
 
 <!--
   <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="{{site.url}}" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Entertainment
     </a>
     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
       {% for card in site.categories.entertainment %}
-      <a class="dropdown-item" href="{{site.url}}{{card.url}}">{{card.title}}</a>
+      <a class="dropdown-item" href="{{card.url}}">{{card.title}}</a>
       {% endfor %}
     </div>
   </li>
