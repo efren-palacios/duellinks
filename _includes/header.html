@@ -31,14 +31,12 @@
             {% elsif page.url == "/top-decks/" %}
               {% assign years = site.data.top-decks %}
               {% assign years_size = years | size %}
-              {% assign years_difference = years_size | minus: 2 %}
               {% assign years_count = 0 %}
-              {% for year in years %}
-                {% if years_count == years_difference %}
-                  {% assign current_year = year %}
+              {% for year in years %}                
+                {% if year[0] == "pending" %}                  
                   {% break %}
                 {% else %}
-                  {% assign years_count = years_count | plus: 1 %}
+                  {% assign current_year = year %}  
                 {% endif %}
               {% endfor %}
               {% assign months = current_year[1] %}
