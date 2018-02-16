@@ -31,15 +31,13 @@
             {% elsif page.url == "/top-decks/" %}
               {% assign years = site.data.top-decks | sort %}
 
-              {% for year in years %}   
-                <p style="display: none;">Year: {{ year[0] }}</p>             
+              {% for year in years %}               
                 {% if year[0] != "pending" %}                  
                   {% assign months = year[1] %}  
                 {% endif %}
               {% endfor %}
 
               {% for month in months %}
-                <p style="display: none;">Months: {{ month[0] }}</p>
                 {% assign current_month = month %}  
               {% endfor %}
 
