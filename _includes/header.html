@@ -37,7 +37,8 @@
                 {% endif %}
               {% endfor %}
 
-              {% for month in months %}
+              {% assign sorted_months = months | sort %}
+              {% for month in sorted_months %}
                 {% assign current_month = month %}  
               {% endfor %}
 
