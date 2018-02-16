@@ -658,18 +658,33 @@ strong
 .carousel-image-size-h3{
   max-height: 40rem;
   max-width: 100%;
+  position: absolute;
+  top: 0;  
+  bottom: 0;  
+  left: 0;  
+  right: 0; 
   margin: auto;
 }
 
 .carousel-image-size-h2{
   max-height: 30rem;
   max-width: 100%;
+  position: absolute;
+  top: 0;  
+  bottom: 0;  
+  left: 0;  
+  right: 0; 
   margin: auto;
 }
 
 .carousel-image-size-h1{
   max-height: 20rem;
   max-width: 100%;
+  position: absolute;
+  top: 0;  
+  bottom: 0;  
+  left: 0;  
+  right: 0; 
   margin: auto;
 }
 
@@ -687,15 +702,15 @@ strong
   }
 
   .carousel-image-size-h3{
-    height: 30rem;
+    max-height: 30rem;
   }
 
   .carousel-image-size-h2{
-    height: 22.5rem;
+    max-height: 22.5rem;
   }
 
   .carousel-image-size-h1{
-    height: 15rem;
+    max-height: 15rem;
   }
 
   .carousel-h1{

@@ -93,13 +93,17 @@ module Jekyll
 					end
 
 					carouselImageHeight = ""
+                    carosuelItemHeight = ""
 					if(tag.include? "h3")
+                        carosuelItemHeight = "carousel-h3"
                         carouselSize += "carousel-h3"
 						carouselImageHeight = "carousel-image-size-h3"
 					elsif(tag.include? "h2")
+                        carosuelItemHeight = "carousel-h2"
                         carouselSize += "carousel-h2"
 						carouselImageHeight = "carousel-image-size-h2"
 					else
+                        carosuelItemHeight = "carousel-h1"
                         carouselSize += "carousel-h1"
 						carouselImageHeight = "carousel-image-size-h1"
 					end
@@ -124,11 +128,11 @@ end
 galleryHtml += '
     </ol>
 	<div class="carousel-inner">
-		<div class="carousel-item active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
+		<div class="carousel-item ' + carosuelItemHeight + ' active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
         '
 
 for k in 1...imageLinks.length
-	galleryHtml += '    <div class="carousel-item"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
+	galleryHtml += '    <div class="carousel-item ' + carosuelItemHeight + '"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
 	';
 end
 
