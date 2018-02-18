@@ -46,7 +46,7 @@
         "types":
         [
             { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
-            { "id": "dark-world",               "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },             
+            { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
@@ -106,7 +106,7 @@
             { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
             { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
             { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
-            { "id": "jurrac",                   "display": "Jurrac",                "card": "Jurrac Guaiba" },
+            { "id": "jurracs",                  "display": "Jurracs",               "card": "Jurrac Guaiba" },
             { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
             { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
         ]
