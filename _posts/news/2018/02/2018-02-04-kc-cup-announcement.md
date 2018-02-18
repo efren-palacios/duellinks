@@ -1,23 +1,19 @@
 ---
 layout: blog
+date: 2018-02-04
 title: The February 2018 KC Cup has been announced!
 author: Spooncats
 image: /img/logos/kccup.jpg
 category: news
-date: 2018-02-04
-pinned: false
 comments: true
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
-keywords: news, upcoming updates, KC Cup, nerf, konami
-permalink: /news/kc-cup-feb-announcement
+keywords: news, upcoming updates, kc cup, nerf, konami
+permalink: /news/february-2018/kc-cup-announcement
 ---
 
+{% include heading.html title=page.title author=page.author %}
 
-# {{page.title}}
-## by {{page.author}}
 ![](https://i.imgur.com/GHpLSGZ.jpg)
-### The February 2018 KC Cup has been announced!
-
 
 ![](https://i.imgur.com/DoBQcR7.jpg)
 
@@ -26,6 +22,7 @@ permalink: /news/kc-cup-feb-announcement
 * For the November 2017 KC Cup, players raised their DLv by dueling, up to a **max level of 20**
 * Reaching stage 20 qualifies a player for **stage 2** of the KC Cup
 * **Gems, tickets, and gold** were given to players as rewards for increasing their DLv
+
 ### Stage 2
 * Stage 2 of the KC Cup follows an **ELO system**, with points gained/lost for each win or loss
 * Based on a player's **global ranking** at the end of the event, they will receive a certain amount of tickets as well as other rewards

@@ -1,15 +1,15 @@
 ---
 layout: blog
-title: That Grass Looks Greener Magnets [KoG Deck]
+date: 2018-02-05
+title: "Deck Review: That Grass Looks Greener - Magnets"
 author: boddity77
 image: /img/guides/grass.png
-category: news
-date: 2018-02-05
+category: deck-review
 pinned: false
 comments: true
-description: KOG deck report with magnets and that grass looks greener
-keywords: kog, deck, kog deck, that grass looks greener, magnet
-permalink: /decks/that-grass-looks-greener-magnets
+description: Deck review with that grass looks greener and magnets by reddit user boddity77.
+keywords: kog, deck, kog deck, deck review, that grass looks greener, magnets, boddity77
+permalink: /deck-reviews/that-grass-looks-greener-magnets-by-boddity77/
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -144,7 +144,8 @@ I really enjoyed playing with this deck. I love the seat-of-your-pants thrill of
 
 I can't say for sure about this deck's long-term viability as a contender. I want so badly to say it's the next Cyber Angels, but that's just not true. In an effort to avoid my own bias, I'll conservatively state that this should probably be treated like the Magnets of old: strong enough for a King of Games run, and maybe top 32 of a monthly tournament, but too sketchy to do much else. That doesn't mean I won't be trying to crack top 100 in the KC Cup, considering how close I was last time. I just don't know if this will be the deck that I can take there.
 
-In the end, though, this was definitely a blast, and I'll continue trying to make spicy Grass brews work going into the future, and probably writing 4,913 more words about them if it happens to work. I beat my previous record of 2,123 words on a Luck On Your Side guide, but I like writing about Yu-Gi-Oh, so feel free to keep asking questions in the comments. Thank you for reading!
-#
-*Post originally from [Reddit](https://www.reddit.com/r/DuelLinks/comments/7uz06o/grass_rocks_and_traps_kog_in_49_wins_with_that)*
-*Published by Yami Hammy*
+In the end, though, this was definitely a blast, and I'll continue trying to make spicy Grass brews work going into the future, and probably writing 4,913 more words about them if it happens to work. I beat my previous record of 2,123 words on a Luck On Your Side guide, but I like writing about Yu-Gi-Oh, so feel free to keep asking questions in the comments. Thank you for reading!  
+  
+*Post originally from [Reddit](https://www.reddit.com/r/DuelLinks/comments/7uz06o/grass_rocks_and_traps_kog_in_49_wins_with_that)*  
+*Credit towards [boddity77](https://www.reddit.com/user/boddity77)*  
+*Published by Yami Hammy*  

@@ -1,24 +1,19 @@
 ---
 layout: blog
-title: KoG Report Ninjas
-author: Kazin_X
-meta: KoG Profile 3-Star Demotion Ninjas
-categories: decks
-image: https://i.imgur.com/DutHpHC.png
 date: 2017-9-5 23:56:00 -0600
+title: "Deck Review: 3-Star Demotion Ninjas"
+author: Kazin_X
+category: deck-review
+image: https://i.imgur.com/DutHpHC.png
 comments: true
-permalink: /guides/kog-profile-3sd-ninjas
+description: Three-Star Demotion Ninjas deck review by Kazin_X.
+keywords: kog, deck, kog deck, deck review, psychics, Kazin_X
+permalink: /deck-reviews/three-star-demotion-ninjas-by-kazin_x/
 ---
 
-{:.title}
-## KoG Profile: 3-Star Demotion Ninjas
-___
-
-{:.title}
-### By Kazin_X
+{% include heading.html title=page.title author=page.author %}
 
 {% include twoimages.html image1="https://i.imgur.com/2KdAZhI.png" image2="https://i.imgur.com/NnJWka9.png"%}
-
 
 ## General Overview of Player and Deck
 					

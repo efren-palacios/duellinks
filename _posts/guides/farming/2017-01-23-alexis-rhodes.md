@@ -14,8 +14,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-# Alexis Rhodes Farm Guide
-## By Yami Hammy
 ![Alexis Rhodes](img/events/alexis.jpg)
 
 ### General Information

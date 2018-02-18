@@ -1,10 +1,11 @@
 ---
 layout: blog
+date: 2018-02-13
 title: Espa Roba Event
 author: Yami Hammy & Freeska
 image: /img/events/espa-roba-event/thumbnail.png
 category: event
-date: 2018-02-13
+ended: false
 comments: false
 description: All you need to know about Espa Roba Event, his deck, how to farm him and much more!
 keywords: event, in-depth event, Espa Roba Event, Espa Roba, farming Espa Roba, farm deck
@@ -17,7 +18,7 @@ hide: false
 ### Last Updated: 2/4/18
 
 [w50]
-![Banner](https://lh3.googleusercontent.com/0Ezj7PCM_rc24KmMhcltNqD6sRiu7bmosYGVQ0_3YTwl-NCBhHpL9Muti0NmOsuiSnMoQxal8Z8)
+![](https://lh3.googleusercontent.com/0Ezj7PCM_rc24KmMhcltNqD6sRiu7bmosYGVQ0_3YTwl-NCBhHpL9Muti0NmOsuiSnMoQxal8Z8)
 
 [gallery 2/3](https://lh3.googleusercontent.com/Al7L9XdVT3lHAq4vDNU4R_Oo7F-x-05ZjIGBz6f1dHAlhHv8Am2Z0KW-lyIy9d1bYE7eZYFWnYI, https://lh3.googleusercontent.com/NyBBI0BlBp90pueESXWAIN7_C8fLYDZSo_jB6rHdC5Ptvmi2s42vXGOeZ2Nk5RfGL_n2_Tt5HcY, https://lh3.googleusercontent.com/1-0ol8tEMMI_BSICkgTotco1Sod46hJdW6EOS8YnaCPLGUvTD59Bznl0iO135-3cC4M_hUZJ8xI, https://lh3.googleusercontent.com/FjrE1Dp06Ff8q-xUA-fyo1dGgrYkNwmLq4mTaajvowDXTJoobWWH2hz2C_Rq9yrL90HgIJSQuMk, https://lh3.googleusercontent.com/9EVGcgkDReb22Q5sWKY7SikXWgffR0DiXF-kOsaGrG_xGDKkatfBnxgcIfVgL3-4KafHaQvdZRQ, https://lh3.googleusercontent.com/btxmlrIZlZT_yYAInRDzD4VPcocXp4jIhzduM3PQWnVYamI5GslPYoCO4Je4p7muYnzbQuTd0Fw, https://lh3.googleusercontent.com/FN8yWTjY17ZofiQavl-L5j4dxjrPRUgLeOpH0bBzXg674hevTeSx_trQtgDxDv7EXYD0Ir32onc)
 

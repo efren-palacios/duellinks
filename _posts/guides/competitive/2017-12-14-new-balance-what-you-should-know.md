@@ -9,7 +9,7 @@ comments: false
 description: A write-up about the new Balance skill by pll.
 keywords: guide, balance, new, update, skill
 deck-type: balance skill
-permalink: /guides/new-balance-what-you-should-know/
+permalink: /guides/competitive/new-balance-what-you-should-know/
 ---
 
 {% include heading.html title=page.title author=page.author %}

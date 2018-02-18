@@ -1,14 +1,14 @@
 ---
 layout: blog
-title: New datamined cards Feb
+date: 2018-02-06
+title: New Datamined Cards
 author: Spooncats
 image: /img/news/datamine.png
 category: news
-date: 2018-02-06
 comments: true
-description: 
-keywords: news
-permalink: /news/new-datamined-cards-feb
+description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates.
+keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates
+permalink: /news/february-2018/new-datamined-cards
 ---
 
 {% include heading.html title=page.title author=page.author %}

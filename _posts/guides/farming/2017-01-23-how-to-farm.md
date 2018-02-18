@@ -9,7 +9,7 @@ hide: true
 date: 2018-01-23
 description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
 keywords: guide, in-depth guide
-permalink: /how-to-farm-all-characters/
+permalink: /guides/how-to-farm-all-characters/
 ---
 
 {% include heading.html title=page.title %}

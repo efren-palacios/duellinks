@@ -1,10 +1,11 @@
 ---
 layout: blog
+date: 2018-01-16
 title: Zane Roaming Event
 author: Perune
 image: /img/events/zane-roaming-event/thumbnail.png
 category: event
-date: 2018-01-16
+ended: true
 comments: false
 description: 
 keywords: event, in-depth event

@@ -1,15 +1,14 @@
 ---
 layout: blog
-title: Card Trader Inventory Updated! February 6th
+date: 2018-02-07
+title: Card Trader Inventory Updated
 author: Freeskadoodle
 image: /img/logos/card-trader2.jpg
 category: news
-date: 2018-02-07
-date: 2018-02-07
 comments: true
-description: 
-keywords: news
-permalink: /news/card-trader-inventory-updated-feb-6
+description: The Card Trader's inventory has been updated with some new additions to his card pool. Check here for an overview.
+keywords: news, card trader, card trader inventory, new cards
+permalink: /news/february-2018/card-trader-inventory-updated
 ---
 
 {% include heading.html title=page.title author=page.author %}

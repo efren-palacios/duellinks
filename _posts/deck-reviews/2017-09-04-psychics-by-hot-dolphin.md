@@ -1,20 +1,17 @@
 ---
 layout: blog
-title: Kog Report Psychics
-author: Hot Dolphin
-meta: King of Games Report Psychics
-categories: decks
-image: https://i.imgur.com/DEvkHeL.png
 date: 2017-9-5 23:56:00 -0600
+title: "Deck Review: Psychics"
+author: Hot Dolphin
+category: deck-reviews
+image: https://i.imgur.com/DEvkHeL.png
 comments: true
+description: Psychics deck review by Hot Dolphin.
+keywords: kog, deck, kog deck, deck review, psychics, Hot Dolphin
+permalink: /deck-reviews/psychics-by-hot-dolphin/
 ---
 
-{:.title}
-## KoG Report: No Mortal Can Resist - Psychics 
-___
-
-{:.title}
-### By Hot Dolphin  
+{% include heading.html title=page.title author=page.author %}
 
 {% include oneimage.html image="https://i.imgur.com/VZlis2p.png" %}
 

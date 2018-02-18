@@ -1,10 +1,11 @@
 ---
 layout: blog
+date: 2018-02-04
 title: Duelist Challenges Event!
 author: Spooncats
 image: /img/guides/duelistchallenge.png
 category: events
-date: 2018-02-04
+ended: true
 pinned: false
 comments: true
 description: New Duelist Challenge event!

@@ -1,13 +1,14 @@
 ---
 layout: blog
+date: 2018-01-29
 title: Tag Duel Tournament
 author: Perune
 image: /img/logos/tagduel.jpg
 category: event
-date: 2018-01-29
+ended: true
 pinned: false
 comments: true
-description: New tag Duel tournament is live.
+description: New Tag Duel tournament is live.
 keywords: news, upcoming updates, KC Cup, nerf, konami
 permalink: /events/tag-duel-tournament/
 hide: true
