@@ -14,16 +14,25 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#141e30">
 
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type"  content="website" />
+    <meta property="og:url"   content="{{site.url}}{{page.url}}" />
+
+    {% if page.image %}
+        <meta property="og:image" content="{{site.url}}{{page.image}}" />
+    {% endif %}
+
     {% if page.description %}
-        <meta name="description" content="{{ page.description }}">
+        <meta property="og:description" content="{{page.description}}" />
+        <meta name="description" content="{{page.description}}">
     {% endif %}
 
     {% assign default-keywords = "duel links, duel links meta, yugioh duel links" %}
 
     {% if page.keywords %}
-        <meta name="keywords" content="{{ default-keywords }}, {{ page.keywords }}">
+        <meta name="keywords" content="{{default-keywords}}, {{page.keywords}}">
     {% else %}
-        <meta name="keywords" content="{{ default-keywords }}, tier list, top decks, guides, tournaments, discord, farming">
+        <meta name="keywords" content="{{default-keywords}}, tier list, top decks, guides, tournaments, discord, farming">
     {% endif %}
 
     {% if page.url == "/" || page.url == "/admin/" %}
