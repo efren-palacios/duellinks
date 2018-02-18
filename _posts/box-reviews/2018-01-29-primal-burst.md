@@ -4,7 +4,7 @@ date: 2018-01-28
 title: "Box Review: Primal Burst"
 author: Yami Hammy
 category: box-review
-image: /img/boxes/galactic-origin/preview.jpg
+image: /img/boxes/primal-burst/preview.jpg
 comments: true
 description: Review of the primal burst box.
 keywords: box, boxset, primal burst, review
