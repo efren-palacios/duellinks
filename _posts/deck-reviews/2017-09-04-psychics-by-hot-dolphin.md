@@ -21,27 +21,25 @@ Didn't farm Super Joey, and now everyone gets to play Khaleesi while you sit and
 
 Do you feel like YOUR Duel Links Ranked Love Life doesn't have as much cuckoldry as it used to?
 
-
-## Introduction:
+### Introduction:
 
 I'm Hot Dolphin, and I hit KoG this season playing No Mortal Can Resist Psychics. I chose this deck after a series of failed attempts through Legend with a Venus deck, where I was repeatedly beat down and out-drawn by Red-Eyes variants. I decided that, since you can't even demote from Legend anyway, this was the perfect place to craft and test a deck that can respond to the ever-increasing amount of competitive decks that rely on graveyard rotation. I haphazardly threw this deck together with whatever sounded like it had synergy, queued up for ranked, and was fresh out of Legend not even twenty games later. 
 
 Due to the speed at which I was able to reach KoG, I cannot, with confidence, say that my decklist is optimal. For this reason, I will not be telling you exactly how many of exactly what card you should be running in this deck to expect success. There are multiple ways you can build this deck and succeed on the ladder, and I will cover as many as I can, so that you, the reader, may build your own deck around your own needs.
 
-
-## Overview:
+### Overview:
 
 The Psychic archetype comprises of fairly low ATK and fairly lower DEF effect monsters, who aim to control the field with an array of versatile effects at the cost of LP. Over the course of Duel Links's lifespan, Psychics have seen mild success against top decks, but have generally been sidelined in favor of more focused and consistent decks, often with stronger draw power. However, with the introduction of a searcher/swarmer in {% include cardimage.html name="Serene Psychic Witch" %}, and one of the most powerful 1-for-1 cards in the game in {% include cardimage.html name="Psychokinesis" %}, Psychics now share several of the most important strengths of any competitive deck in the Duel Links meta, and synergize with one of the most potent, underutilized anti-meta character skills in the game.
 
 
-## Character Skill:
+### Character Skill:
 
 No Mortal Can Resist - Can be used when your Life points are at least 1000 less than the opponent's. All monsters in the opponent's Graveyard changes to Skull Servants (Zombie / DARK / Level 1 / ATK: 300 / DEF: 200). This skill can only be used once per turn.
 
 The focal point of this deck. As of this writing, the current notable competitive decks in Duel Links that have interact with the monsters from the Graveyard are Red Eyes Variants, Nephthys, Frogs, Fiends, Naturia, Ninjas, and Gemini Zombie decks. These decks, combined, easily make up at least 60% of the ladder from Platinum and beyond. In a Psychic deck, most of your core cards will include some method of managing your LP to the appropriate No Mortal Can Resist threshold, allowing you to completely shut down the flow of decks that rely on Graveyard circulation. This skill can only be 
 used during your Main Phase. 
 
-## Core Cards:
+### Core Cards:
 
 I lied earlier. There are two exceptions that I can tell you exactly how many you should be running in a Psychic deck.
 
@@ -51,8 +49,7 @@ I lied earlier. There are two exceptions that I can tell you exactly how many yo
 
 Aside from these 6 cards, the best way to build a Psychic deck is entirely up to you; mix and match accordingly to what you're encountering on the ladder. Next, I will cover some of the relevant monster and back row cards that I have tested since reaching KoG.
 
-## Monster Cards:
-
+### Monster Cards:
 
 {% include cardimage.html name="Reinforced Human Psychic Borg" %} - Twice per turn, you can remove from play one Psychic monster from your graveyard to give this card 500 ATK. The combination of a searcher that can special summon this card, the low stats of Psychics, Enemy Controller, and the prevalence of Super Rush Headlong in the meta makes it very easy to fill your graveyard with Psychics, making this a very efficient and easy to summon boss monster. Borg shares an EARTH attribute with most other Duel Links Psychics, which can result in a huge loss of offensive momentum to a defensive Super Rush Headlong.
 
@@ -66,11 +63,9 @@ Mirror Walls or tank Super Rush headlong.
 
 {% include cardimage.html name="Destructotron" %} - During the End Phase, if this is the only Psychic you control: destroy it. You can pay 1000 LP to destroy one of your opponent's set spells/traps. It's effect is redundant with Psychokinesis, but cannot remove frontline. If special summoned with Serene Psychic Witch, and used in conjunction with Psychokinesis, you will be able to remove at least a third of your opponent's field, and will almost guaranteed be able to activate No Mortal Can Resist. It's fragility combined with it's high LP effect costs make it a risky, but highly rewarding choice.
 
-
 {% include cardimage.html name="Wattsychic Fighter" %} - When this card is Normal or Special Summoned: You can target 1 card in your opponent's graveyard; place it either on top or bottom of their deck. This effect can only be used once per turn. Anyone who has played against a Weevil can tell you how devastating a dead draw is. Best case scenario is, of course, to send Skull Servant, but controlling your opponent's next draw will rarely work against you. Even more fragile than Destructotron, but if Wattsychic Fighter is on the field, it's already done it's job.
 
-
-## Spell and Trap Cards:
+### Spell and Trap Cards:
 
 {% include cardimage.html name="Enemy Controller" %} - It does everything. This card defines the Duel Links meta, always has, and is only going to become more common as players collect Ranked Duel Tickets. With the increase of competitive decks that can pull out OTKs, there's rarely ever a reason NOT to run it.
 
@@ -83,8 +78,7 @@ Eliminating the League loves Psychokinesis when your LP is getting low, and has 
 
 {% include cardimage.html name="Supremacy Berry" %} - Can fit reasonably well into an Enemy Controller or Super Rush Headlong spot. At 4000 LP, acts as a ticket to No Mortal Can Resist, if you want it to. Otherwise, the extra longevity allows two uses of Destructotron, a turn of Mirror Wall, or two Psychokinesis. It's even decent fodder in a list that runs Eliminating the League. Fits well in just about any Psychic deck.
 
-​
-## Matchups:
+### Matchups:
 
 Red-eyes - It's still Red Eyes, and they're inevitably going to get one on the field. You still live and die by your backline, and their variety of attributes in their monsters means SRH will only slightly slow the beatdown. A cautious Red-Eyes player will turn ON their toggle to activated Red-Eyes Spirit before your main phase. The speed, versatility, and sheer power of Red-Eyes makes it difficult for any deck to go against, but a lack of experience against Psychics and No Mortal Can Resist can cause the Red-Eyes player to make misplays they otherwise might not. Important to note: a Psychic monster special summoned by Serene Psychic Witch cannot be targeted by Champion's Vigilance. Bait out their Red-Eyes Spirits with Psychokinesis, blow up what's left with Destructotron, and either force them to suicide into your backrow, or overwhelm them with a Borg. Hopefully, they won't draw their entire deck before you can respond.
 
@@ -113,8 +107,7 @@ MAKO - His beaters out-beat yours, he can swarm them more quickly, and he's got 
 
 MAUSOLEUM - Mausoleum players love to get out Lava Golem and take it back with Owner's Seal, into a Fenghuang the next turn. A tributed Serene Psychic Witch won't activate it's effect, so be mindful of Lava Golem. A recent, popular tech in Mausoleum is Ultimate Providence; try to bait it out whenever possible, so you don't waste valuable removal. A +2 Borg with Power Injector support gets over Invader of Darkness. If you can beef up your Borg, their only remaining win condition will be a Golden Apples play.
 
-
-## Conclusion:
+### Conclusion:
 
 Psychics can do a little bit of everything, if not as well as some of it's competitors. My hopes in writing this article is that you, the reader, will conclude that this archetype has serious merit and potential both competitively and for the ranked ladder climb, and try it out for yourselves, if you've got the cards for it lying around.
 
