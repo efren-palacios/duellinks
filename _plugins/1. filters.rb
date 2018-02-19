@@ -1,4 +1,9 @@
 module Jekyll
+  module ArrayFilter
+    def filter_posts(posts)
+      posts.find_all { |post| (post['category'] == 'deck-type-guide' or post['category'] == 'new-players' or post['category'] == 'tournament' or post['category'] == 'competitive') and (post['hide'] == false or post['hide'] == nil) }
+    end
+  end
   module DateFilter
     require 'date'
     def sort_decks(collection)
@@ -39,3 +44,4 @@ Liquid::Template.register_filter(Jekyll::DateFilter)
 Liquid::Template.register_filter(Jekyll::StringFilter)
 Liquid::Template.register_filter(Jekyll::ApiFilter)
 Liquid::Template.register_filter(Jekyll::YoutubeFilter)
+Liquid::Template.register_filter(Jekyll::ArrayFilter)

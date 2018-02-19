@@ -53,7 +53,17 @@
                   {% endif %}
                 {% endfor %}
               {% endfor %}
-              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small> 
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
+            {% elsif page.url == "/guides/" %} 
+              {% assign filteredPosts = site.posts | filter_posts %}
+              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+              {% for post in filteredPosts %}
+                {% assign formattedDate = post.date | date: "%Y-%m-%d" %}
+                {% if formattedDate > lastCreated %}
+                  {% assign lastCreated = formattedDate %}
+                {% endif %}
+              {% endfor %}
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}
