@@ -2,13 +2,13 @@
 layout: blog
 title: Preparing For A Large Scale Event
 author: Brianhayward88
-category: guide
+category: competitive
 image: /img/guides/duellinks.png
 date: 2018-01-31
 comments: false
 description: Preparing for a large scale event
 keywords: guide, new, update, info
-permalink: /guides/competitive/preparing-for-a-large-scale-event
+permalink: /guides/competitive/preparing-for-a-large-scale-event/
 ---
 
 {% include heading.html title=page.title author=page.author %}

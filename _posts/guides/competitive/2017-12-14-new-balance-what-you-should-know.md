@@ -2,7 +2,7 @@
 layout: blog
 title: New Balance - What you should know
 author: pll
-category: guide
+category: competitive
 image: /img/guides/new-balance-report/thumbnail.png
 date: 2017-12-14
 comments: false

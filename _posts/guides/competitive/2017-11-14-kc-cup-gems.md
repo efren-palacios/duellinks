@@ -6,8 +6,8 @@ category: competitive
 image: https://i.imgur.com/DutHpHC.png
 date: 2017-9-5 23:56:00 -0600
 comments: true
-hide: true 
 permalink: /guides/competitive/kc-cup-2-gem-investment-guide/
+hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
