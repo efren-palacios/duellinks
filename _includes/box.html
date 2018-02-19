@@ -5,7 +5,7 @@
 
         <div class="col-sm-2 text-center">
             <img class="rarity lazyload" src="{{site.url}}/img/assets/{{card.rarity}}.png" />
-            <img src="https://yugiohprices.com/api/card_image/{{card-data.name}}" class="img-fluid lazyload" style="margin-bottom: 1rem;" />
+            <img src='https://yugiohprices.com/api/card_image/{{card-data.name | url_encode}}' class="img-fluid lazyload" style="margin-bottom: 1rem;" />
         </div>
         <div class="col-sm-4">
             <p><b>{{card.name}}</b></p>
