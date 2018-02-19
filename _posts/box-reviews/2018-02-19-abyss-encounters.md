@@ -9,6 +9,7 @@ comments: true
 description: Review of the abyss encounters box.
 keywords: box, boxset, abyss encounters, review
 permalink: /box-reviews/abyss-encounters/
+hide: true
 ---
 
 {% include heading.html title=page.title %}
@@ -18,13 +19,12 @@ permalink: /box-reviews/abyss-encounters/
 
 {% include box.html box=site.data.box.abyss-encounters %}
 
+<!--
 ### Video Review by Dkayed
 
-## Coming Soon
+{% include youtube-video.html url='https://www.youtube.com/watch?v=tEFpdXv4PD4' %}
 
 ### Affected Deck Types
 This box affects or creates the following deck types
 
-## Coming Soon
-
-<!-- {% include deck-type-list.html deck-types='dark-worlds;lightsworn;volcanics;cloudians;six-samurais;ninjas;jurracs;gem-knights' %} -->
+{% include deck-type-list.html deck-types='dark-worlds;lightsworn;volcanics;cloudians;six-samurais;ninjas;jurracs;gem-knights' %} -->
