@@ -9,7 +9,7 @@ comments: true
 description: Review of the abyss encounters box.
 keywords: box, boxset, abyss encounters, review
 permalink: /box-reviews/abyss-encounters/
-hide: true
+hide: false
 ---
 
 {% include heading.html title=page.title %}
