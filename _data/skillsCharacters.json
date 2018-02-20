@@ -35,7 +35,7 @@
     "character": "Joey Wheeler"
   },
   {
-    "name": "Reinforcement",
+    "name": "Reinforcements",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Warrior-Type monster.",
     "how": "Level 20",
     "exclusive": false,
@@ -616,7 +616,7 @@
     "character": "Jaden Yuki"
   },
   {
-    "name": "Reinforcement",
+    "name": "Reinforcements",
     "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster.",
     "how": "Level 20",
     "exclusive": false,
@@ -658,7 +658,7 @@
     "character": "Aster Phoenix"
   },
   {
-    "name": "Reinforcement",
+    "name": "Reinforcements",
     "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster.",
     "how": "Level 20",
     "exclusive": false,

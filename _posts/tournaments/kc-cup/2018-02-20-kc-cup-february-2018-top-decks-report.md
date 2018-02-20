@@ -1,15 +1,16 @@
 ---
 layout: blog
+date: 2018-02-20
 title: "KC Cup Top Decks Report"
 author: SpoonCats
 category: tournament
 tournament: KC Cup
+number: 3
 image: /img/events/kc-cup.jpg
-date: 2018-02-20
 comments: true
-description: KC Cup Top decks report
-keywords: kc cup, top 100, tournament
-permalink: /tournaments/kc-cup-report/
+description: Stage 2 of the February 2018 KC cup has come to a close, and the results are in! Check here for the DuelLinksMeta members' standings and decks!
+keywords: tournament, kc cup, february 2018, top 100, decks
+permalink: /tournaments/kc-cup/february-2018/top-decks-report/
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -91,13 +92,13 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ***Kaki - #60 Global, #9 EU***
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Blocker; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
 
 -----
 
 ***Silver Stone - #62 Global, #10 EU***
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Blocker; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
 
 -----
 
@@ -151,7 +152,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ***PDS - #79 Global***
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Blocker; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
 
 -----
 
@@ -159,4 +160,4 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 [deck:Three-Star Demotion](Snipe Hunter; Snipe Hunter; Snipe Hunter; Volcanic Rocket; Volcanic Rocket; Volcanic Rocket; Sanga of the Thunder; Sanga of the Thunder; Volcanic Shell; Volcanic Shell; Volcanic Shell; Enemy Controller; Enemy Controller; Enemy Controller; Blaze Accelerator; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption)
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Blocker; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Beta the Electromagnet Warrior; Gamma the Magnet Warrior; Gamma the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)

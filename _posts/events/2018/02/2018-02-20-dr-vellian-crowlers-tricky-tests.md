@@ -5,12 +5,11 @@ title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
 image: /img/events/crowler.png
 category: event
-ended: true
-pinned: false
+ended: false
 comments: true
 description: chazz-a-thon
-keywords: event, crowler, dr crowler, gate event, ancient gears, ag, farm
-permalink: /events/february-2018/crowler-gate-event/
+keywords: event, crowler, dr crowler, dr vellian crowler, tricky tests, gate event, ancient gears, farm
+permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -70,8 +69,8 @@ permalink: /events/february-2018/crowler-gate-event/
 | Win 1 Duels against Dr. Vellian Crowler at Level 20 in Duel World | 10 EX Gems |
 | Win 1 Duels against Dr. Vellian Crowler at Level 30 in Duel World | 15 EX Gems |
 | Win 1 Duels against Dr. Vellian Crowler at Level 40 in Duel World | 20 EX Gems |
-| Win 15 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems 
-| Win 30 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems 
+| Win 15 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
+| Win 30 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
 | Play 20 Duels against Dr. Vellian Crowler in Duel World | 50 EX Gems |
 | Play 40 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
 
@@ -87,7 +86,7 @@ permalink: /events/february-2018/crowler-gate-event/
 
 - ---
 
-***Level 40 Farm - created by JadeHex***
+***Level 40 Farm - created by JadeHex***  
 **7,100 Base DA (Duel Assessment)**
 
 [deck](Summoner of Illusions; Magnetic Mosquito; Magnetic Mosquito; Magnetic Mosquito; Gravekeeper's Vassal; Medusa Worm; Medusa Worm; Medusa Worm; Anti-Magic Arrows; Union Attack; Union Attack; Array of Revealing Light; Array of Revealing Light; Array of Revealing Light; Acid Rain; Acid Rain; Pot of Benevolence; A Feint Plan; A Feint Plan; A Feint Plan; Blue-Eyes Ultimate Dragon; Master of Oz)
@@ -118,7 +117,7 @@ permalink: /events/february-2018/crowler-gate-event/
 
 - ---
  
-***Level 40 Farm - created by Freeska***
+***Level 40 Farm - created by Freeska***  
 **7,400 Base DA (Duel Assessment)**
 
 [deck: Destiny Draw](Catapult Turtle; Black Ptera; Black Ptera; Black Ptera; Soul Exchange; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; De-Spell; Windstorm of Etaqua)
@@ -146,10 +145,10 @@ permalink: /events/february-2018/crowler-gate-event/
 
 ---
 
-***Level 40 Farm - created by Freeska***
+***Level 40 Farm - created by Freeska***  
 **8,200 Base DA (Duel Assessment)**
 
-[deck: Duel Standby](The Winged Dragon of Ra; Cure Mermaid; Cure Mermaid; Cure Mermaid; Crystal Seer; Crystal Seer; Crystal Seer; White Magician Pikeru; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magical Mallet; Magical Mallet; Magical Mallet; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
+[deck: Duel, Standby!](The Winged Dragon of Ra; Cure Mermaid; Cure Mermaid; Cure Mermaid; Crystal Seer; Crystal Seer; Crystal Seer; White Magician Pikeru; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magical Mallet; Magical Mallet; Magical Mallet; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
 **Strategy**
 - Use {Magical Mallet} and {Crystal Seer} to get a copy of both {Spirit Barrier} and {Astral Barrier}, rendering all of Crowler's attacks useless
@@ -169,7 +168,7 @@ permalink: /events/february-2018/crowler-gate-event/
 
 - ---
 
-***Level 40 Farm - created by John Doe***
+***Level 40 Farm - created by John Doe***  
 **7,500 Base DA (Duel Assessment)**
 
 [deck: Reinforcements]( The Legendary Fisherman; Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Crystal Seer; Anti-Magic Arrows; A Legendary Ocean; A Legendary Ocean; A Legendary Ocean; Union Attack; Union Attack; Polymerization; Magical Mallet; Magical Mallet; Magical Mallet; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Twin-Headed Thunder Dragon)
