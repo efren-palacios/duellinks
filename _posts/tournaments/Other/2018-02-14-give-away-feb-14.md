@@ -5,7 +5,7 @@ author: SpoonCats
 category: tournament
 tournament: Give Away
 number: 7
-image: /img/logos/give-away.png
+image: /img/logos/give-away.jpg
 date: 2018-02-14
 comments: true
 description: The Give Away tournament report. Check the prize winners and their decks here.
