@@ -56,7 +56,7 @@ For those of us that had nothing else to do on Valentine's day, DuelLinksMeta he
 
 ***Top 8: BrownBearDL***
 
-[deck:Mind Scan](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari: Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Xing Zhen Hu; Curse of Anubis; Windstorm of Etaqua)
+[deck:Mind Scan](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Xing Zhen Hu; Curse of Anubis; Windstorm of Etaqua)
 
 ***Top 8: Looler***
 
