@@ -131,7 +131,7 @@ This is another zombie monster with 1700 attack which enables you to send a zomb
 
 **{Red-Eyes Spirit} / {Red-Eyes Insight}:** you need 2 of each ideally for a 20-card-deck.
 
-[deck](Red-Eyes Spirit, Red-Eyes Insight)
+[deck](Red-Eyes Spirit; Red-Eyes Insight)
 
 You can run 3 Insights in a 20-card-deck or 21, 22-card-decks as well. 3 Insights give you roughly 48-50% chance of starting your hand with at least one of them. 2 Insights will give you 30-33% chance to start with at least one in your starting hand. If you want to summon REZ quickly, 3 insights is Recommended. However, 2 Insights is more popular currently as the pace of the game is slower compared to the previous meta with Cyber Angels and Ninjas.
 
