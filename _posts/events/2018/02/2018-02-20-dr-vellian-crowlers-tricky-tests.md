@@ -19,8 +19,7 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 [w75]
 ![Banner](https://i.imgur.com/8puihvI.png)
 
-[gallery 2/3]
-[gallery](https://i.imgur.com/1SroQ6I.jpg, https://i.imgur.com/xQ8ckdf.jpg, https://i.imgur.com/OTSio9k.jpg, https://i.imgur.com/HGsWIGk.jpg)
+[slider](https://media.discordapp.net/attachments/349335726036353029/415263132085125130/event-details.jpg)
 
 ### Event Information 
 - Dr. Vellian Crowler, the Head Professor and Department Chair at Duel Academy is back with his Ancient Gears
