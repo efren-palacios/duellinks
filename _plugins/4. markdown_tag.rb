@@ -80,33 +80,88 @@ module Jekyll
                 tag = customTagsName[i]
 				tagData = customTagData[i]
 
-                if(tag.include? "gallery")	
-					imageLinks = tagData.split(',')
+                if(tag.start_with?('gallery'))	
+                    galleryHtml = createGallery(tag, tagData, galleryCount)
+					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
+					galleryCount = galleryCount + 1
+                elsif(tag.start_with?('deck'))
+                    deckHtml = createDeck(tag, tagData)
+                    content.sub!('[' + tag + '](' + tagData + ')', deckHtml)
+                elsif(tag.start_with?('slider'))
+                    sliderHtml = createImageSlider(tagData)
+                    content.sub!('[' + tag + '](' + tagData + ')', sliderHtml)
+                end
+            end
 
-					carouselSize = ""
-					if(tag.include? "1/3")
-						carouselSize = "carousel-size-1-3 "
-					elsif(tag.include? "2/3")
-						carouselSize = "carousel-size-2-3 "
-					else
-						carouselSize = "carousel-size-3-3 "
-					end
+            for i in 0...markedText.size
+                isSkill = false
+                skillOfficialName = markedText[i]
+                for j in 0...skillsJson.size
+                    skillJson = skillsJson[j]['name'].downcase.gsub(/\W/, '')
+                    text = markedText[i].downcase.gsub(/\W/, '')
 
-					carouselImageHeight = ""
-                    carosuelItemHeight = ""
-					if(tag.include? "h3")
-                        carosuelItemHeight = "carousel-h3"
-                        carouselSize += "carousel-h3"
-						carouselImageHeight = "carousel-image-size-h3"
-					elsif(tag.include? "h2")
-                        carosuelItemHeight = "carousel-h2"
-                        carouselSize += "carousel-h2"
-						carouselImageHeight = "carousel-image-size-h2"
-					else
-                        carosuelItemHeight = "carousel-h1"
-                        carouselSize += "carousel-h1"
-						carouselImageHeight = "carousel-image-size-h1"
-					end
+                    if skillJson == text
+                        isSkill = true
+                        skillOfficialName = skillsJson[j]['name']
+                       break
+                    end
+                end
+
+                if isSkill
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
+                else
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + markedText[i] + '">' + markedText[i] + '</span><span class="mobile"></span>'
+                end
+            end
+
+            content.gsub! '[content-only]', '{:.content-only}'
+            content.gsub! '[table-of-contents]', '{:.table-of-contents}'
+            content.gsub! '[w100]', '{:.img-w-100}'
+            content.gsub! '[w75]', '{:.img-w-75}'
+            content.gsub! '[w50]', '{:.img-w-50}'
+            content.gsub! '[w25]', '{:.img-w-25}'
+
+            # Call the standard Markdown converter
+            site = Jekyll::Site.new(@config)
+            mkconverter = site.find_converter_instance(Jekyll::Converters::Markdown)
+            mkconverter.convert(content)
+        end
+
+
+
+
+        # THESE METHODS CREATE THE HTML OF SOME MARKDOWN EXTENSIONS. THE LACK OF IDENTATIONS IS DUE
+        # THE WAY LIQUID PROCESS HTML, IF THE IDENTATION HERE DOESN'T TRANSLATE THE GENERATED CODE
+        # TO A "CORRECT" HTML IDENTATION, LIQUID TREAT IT AS A TEXT, NOT AN HTML CODE.
+
+        # CREATES THE HTML RESPONSIBLE FOR THE GALLERY FEATURE
+        def createGallery(tag, tagData, galleryCount)
+            imageLinks = tagData.split(',')
+
+            carouselSize = ""
+            if(tag.include? "1/3")
+                carouselSize = "carousel-size-1-3 "
+            elsif(tag.include? "2/3")
+                carouselSize = "carousel-size-2-3 "
+            else
+                carouselSize = "carousel-size-3-3 "
+            end
+
+            carouselImageHeight = ""
+            carosuelItemHeight = ""
+            if(tag.include? "h3")
+                carosuelItemHeight = "carousel-h3"
+                carouselSize += "carousel-h3"
+                carouselImageHeight = "carousel-image-size-h3"
+            elsif(tag.include? "h2")
+                carosuelItemHeight = "carousel-h2"
+                carouselSize += "carousel-h2"
+                carouselImageHeight = "carousel-image-size-h2"
+            else
+                carosuelItemHeight = "carousel-h1"
+                carouselSize += "carousel-h1"
+                carouselImageHeight = "carousel-image-size-h1"
+            end
 
 galleryHtml = '
 <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
@@ -147,85 +202,61 @@ galleryHtml += '</div>
 	</a>
 </div>'
 
-					content.sub!('[' + tag + '](' + tagData + ')', galleryHtml)
-					galleryCount = galleryCount + 1
-				
-                elsif(tag.start_with?('deck'))
-                    if(tag.start_with? "deck:")
-                        skillName = tag.split(':', 2)[1];
-                    else
-                        skillName = ""
-                    end
+            return galleryHtml
+        end
 
-                    cardNames = tagData.split(';')
 
-                    deckContainer =
-                        '<div class="flex-container">
-                            <div class="deck-container left">
-                            '
+        # CREATES THE HTML RESPONSIBLE FOR THE DECKLIST FEATURE
+        def createDeck(tag, tagData)
+            if(tag.start_with? "deck:")
+                skillName = tag.split(':', 2)[1];
+            else
+                skillName = ""
+            end
 
-                    if(skillName != "")
-                        deckContainer +=
-                        '<div class="skill">
-                            <img class="main" src="/img/assets/skill.png" alt="skill">
-                            <span class="card-hover" name="skillPopup">' + skillName.strip + '</span><span class="mobile"></span>
+            cardNames = tagData.split(';')
+
+            deckContainer =
+                '<div class="flex-container">
+                    <div class="deck-container left">
+                    '
+
+            if(skillName != "")
+                deckContainer +=
+                '<div class="skill">
+                    <img class="main" src="/img/assets/skill.png" alt="skill">
+                    <span class="card-hover" name="skillPopup">' + skillName.strip + '</span><span class="mobile"></span>
+                </div>
+                '
+            end
+
+            deckContainer +=
+                '       <div id="deck">
+                            <div id="cards">'
+
+            for card in cardNames
+                deckContainer +=
+                                '<div class="item">
+                                    <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '" alt=""></a>
+                                </div>'
+            end
+
+            deckContainer +=
+                            '</div>
                         </div>
-                        '
-                    end
+                    </div>
+                </div>'
 
-                    deckContainer +=
-                        '       <div id="deck">
-                                    <div id="cards">'
+            return deckContainer
+        end
 
-                    for card in cardNames
-                        deckContainer +=
-                                        '<div class="item">
-                                            <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '" alt=""></a>
-                                        </div>'
-                    end
+        # CREATES THE HTML FOR THE IMAGE SLIDER EXTENSION
+        def createImageSlider(tagData)
+            sliderHtml = '<div class="image-slider">
+                <img src="' + tagData + '">
+            </div>'
 
-                    deckContainer +=
-                                    '</div>
-                                </div>
-                            </div>
-                        </div>'
-
-                    content.sub!('[' + tag + '](' + tagData + ')', deckContainer)
-                end
-            end
-
-            for i in 0...markedText.size
-                isSkill = false
-                skillOfficialName = markedText[i]
-                for j in 0...skillsJson.size
-                    skillJson = skillsJson[j]['name'].downcase.gsub(/\W/, '')
-                    text = markedText[i].downcase.gsub(/\W/, '')
-
-                    if skillJson == text
-                        isSkill = true
-                        skillOfficialName = skillsJson[j]['name']
-                       break
-                    end
-                end
-
-                if isSkill
-                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
-                else
-                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + markedText[i] + '">' + markedText[i] + '</span><span class="mobile"></span>'
-                end
-            end
-
-            content.gsub! '[content-only]', '{:.content-only}'
-            content.gsub! '[table-of-contents]', '{:.table-of-contents}'
-            content.gsub! '[w100]', '{:.img-w-100}'
-            content.gsub! '[w75]', '{:.img-w-75}'
-            content.gsub! '[w50]', '{:.img-w-50}'
-            content.gsub! '[w25]', '{:.img-w-25}'
-
-            # Call the standard Markdown converter
-            site = Jekyll::Site.new(@config)
-            mkconverter = site.find_converter_instance(Jekyll::Converters::Markdown)
-            mkconverter.convert(content)
+            return sliderHtml
         end
     end
 end
