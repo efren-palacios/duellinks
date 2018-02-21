@@ -4,7 +4,7 @@ date: 2018-02-19
 title: "Box Review: Abyss Encounters"
 author: Effy
 category: box-review
-image: /img/boxes/abyss-encounters/banner.jpg
+image: /img/boxes/abyss-encounters/preview.jpg
 comments: true
 description: Review of the abyss encounters box.
 keywords: box, boxset, abyss encounters, review
@@ -23,8 +23,9 @@ hide: false
 ### Video Review by Dkayed
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=tEFpdXv4PD4' %}
+-->
 
 ### Affected Deck Types
 This box affects or creates the following deck types
 
-{% include deck-type-list.html deck-types='dark-worlds;lightsworn;volcanics;cloudians;six-samurais;ninjas;jurracs;gem-knights' %} -->
+{% include deck-type-list.html deck-types='archfiends;aliens;sea-stealth-attack;' %} 
