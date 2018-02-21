@@ -20,6 +20,8 @@ hide: true
 ### Event Info
 Zane Truesdale is set on a dark path to victory and only one Duelist can stop him: you. Defeat Zane Truesdale in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels.
 
+[slider](https://media.discordapp.net/attachments/349335726036353029/415263132085125130/event-details.jpg)
+
 ### Event Rewards
 
 | Card    | How to Obtain |  Recommendation
