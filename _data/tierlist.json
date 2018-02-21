@@ -63,7 +63,7 @@
         "types":
         [
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
-            { "id": "aliens",                   "display": "Alien",                 "card": "Alien Overlord" },
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
             { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }
         ] 
