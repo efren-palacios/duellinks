@@ -11,6 +11,7 @@ comments: true
 description: chazz-a-thon
 keywords: event, chazz, chazz princedale, chazz a thon, armed dragon, vwxyz dragon, farm
 permalink: /events/february-2018/chazz-a-thon/
+hide: true 
 ---
 
 ### Last Updated: (February 9 2018) 
