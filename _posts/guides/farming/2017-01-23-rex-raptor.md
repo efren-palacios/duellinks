@@ -63,7 +63,7 @@ hide: true
 ---
 ***Skill-Less Level 40 farm - created by Justin Taylor***
 
-[deck](Kaibaman Kaibaman;, Kaibaman; Blue Dragon Summoner Blue Dragon Summoner;, Blue Dragon Summoner; Kidmodo Dragon Kidmodo Dragon;, Kidmodo Dragon; Gravekeeper's Vassal; Blue-Eyes White Dragon Blue-Eyes White Dragon;, Blue-Eyes White Dragon; Fusion Gate; Wonder Wand; Wonder Wand; Wonder Wand; Union Attack; Union Attack; Secret Pass to the Treasures)
+[deck](Kaibaman Kaibaman; Kaibaman; Blue Dragon Summoner Blue Dragon Summoner; Blue Dragon Summoner; Kidmodo Dragon Kidmodo Dragon; Kidmodo Dragon; Gravekeeper's Vassal; Blue-Eyes White Dragon Blue-Eyes White Dragon; Blue-Eyes White Dragon; Fusion Gate; Wonder Wand; Wonder Wand; Wonder Wand; Union Attack; Union Attack; Secret Pass to the Treasures)
 
 * **7 .8k base DA**, for 8k needs 2 glossy cards or 1 prismatic card
 * Not as consistent as farm decks with a determined skill
@@ -80,7 +80,7 @@ hide: true
 ---
 ***Level 40 Generic Cerberus Farm - created by Jadehex***
 
-[deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku Gaia Power; Spell Power Grasp; Shard of Greed Shard of Greed;, Shard of Greed; Wonder Wand; Wonder Wand; Twister Blustering Winds Blustering Winds;, Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
+[deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku Gaia Power; Spell Power Grasp; Shard of Greed Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister Blustering Winds Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
 
 * **7100 Base DA**
 * Skill can be swapped for Draw Sense: Low Level
@@ -112,4 +112,4 @@ hide: true
 ---
 ### Level 40 Decklist
 
-[deck](Megazowler Megazowler;, Megazowler; Two-Headed King Rex Two-Headed King Rex;, Two-Headed King Rex; Crawling Dragon #2 Crawling Dragon #2;, Crawling Dragon #2; Uraby Uraby;raby;,Wasteland Wasteland;, WastelandPolymerization, Big Evolution Pill, Big Evolution Pill, Fossil Excavation, Fossil Excavation, Bracchio-raidus)
+[deck](Megazowler Megazowler; Megazowler; Two-Headed King Rex; Two-Headed King Rex; Two-Headed King Rex; Crawling Dragon #2; Crawling Dragon #2; Crawling Dragon #2; Uraby;Uraby;Uraby;Wasteland;Wasteland; Wasteland;Polymerization; Big Evolution Pill; Big Evolution Pill; Fossil Excavation; Fossil Excavation; Bracchio-raidus)

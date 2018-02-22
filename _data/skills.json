@@ -20,7 +20,7 @@
     "description": "The skill is activated randomly when your turn starts. Your Life Points does not get decreased to less than 1 until your opponent's next turn ends."
   },
   {
-    "name": "Reinforcement",
+    "name": "Reinforcements",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Warrior-Type monster."
   },
   {
@@ -336,10 +336,6 @@
     "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand."
   },
   {
-    "name": "Reinforcement",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster."
-  },
-  {
     "name": "Miracle Fusion Time!",
     "description": "Can be used if your Life Points drop below 1000. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel."
   },
@@ -358,10 +354,6 @@
   {
     "name": "Master of Fusion",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand."
-  },
-  {
-    "name": "Reinforcement",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster."
   },
   {
     "name": "Bring it!",
