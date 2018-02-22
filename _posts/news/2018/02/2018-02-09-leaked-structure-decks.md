@@ -6,9 +6,9 @@ image: /img/news/leaked-structure-decks/thumbnails.jpg
 category: news
 date: 2018-02-22
 comments: true
-description: New structure decks have just been datamined!
-keywords: news, new files, leaked structure decks, events, sneak peek, future updates, new decks
-permalink: /news/february-2018/leaked-structure-decks
+description: New structure decks have just been datamined! New Destiny Heroes and Dragons are coming in Duel Links! They should go live in March, come check the cards out!
+keywords: news, new files, leaked structure decks, events, sneak peek, future updates, new decks, destiny heroes, dragons
+permalink: /news/february-2018/leaked-structure-decks/
 ---
 
 {% include heading.html title=page.title author=page.author %}
