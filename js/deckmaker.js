@@ -14,7 +14,7 @@ $(function() {
     }
 });
 
-// Click/action handler functions
+// Action handler functions
 // =================
 $(window).on("resize", function() {
     // TODO: Add functionality to resize the shown mobile display, if needed 
