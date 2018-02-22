@@ -44,11 +44,25 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 -----
 
+***MiguelJoker - #6 Global, #1 Latin America***
+
+[deck:Three-Star Demotion](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Sanga of the Thunder; Sanga of the Thunder; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Gladiator Beast Dimacari; Enemy Controller; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption; Xing Zhen Hu; Xing Zhen Hu; Curse of Anubis; Gladiator Beast Heraklinos; Gladiator Beast Nerokius; Gladiator Beast Essedarii; Gladiator Beast Essedarii; Gladiator Beast Essedarii)
+
+[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Snipe Hunter; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Beta the Electromagnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Beta the Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption)
+
+-----
+
 ***SelectMaple - #13 Global, #1 NA***
 
 [deck:Switcheroo](Snipe Hunter; Snipe Hunter; Snipe Hunter; Volcanic Rocket; Volcanic Rocket; Volcanic Rocket; Sphere Kuriboh; Sergeant Electro; Volcanic Shell; Volcanic Shell; Volcanic Shell; Enemy Controller; Enemy Controller; Enemy Controller; Blaze Accelerator; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption; Ultimate Providence)
 
 [deck:Straight to the Grave](Gozuki; Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Bacon Saver; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Storm; Red-Eyes Spirit; Red-Eyes Spirit)
+
+-----
+
+***SaberDark - #24 Global, #3 NA***
+
+[deck:Destiny Draw](Gozuki; Gozuki; Gozuki; Red-Eyes Wyvern; Red-Eyes Wyvern; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Samurai Skull; Bacon Saver; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Mirror Wall; Mirror Wall; Wall of Disruption; Wall of Disruption; Wall of Disruption; Red-Eyes Spirit; Red-Eyes Spirit; Xing Zhen Hu; Xing Zhen Hu; Xing Zhen Hu; Curse of Anubis; Windstorm of Etaqua)
 
 -----
 
@@ -80,7 +94,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ***NeXuS i Beyond - #47 Global, #9 NA***
 
-[deck:Balance](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Cosmic Cyclone; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua; Gladiator Beast Heraklinos; Gladiator Beast Nerokius; Gladiator Beast Essedarii; Gladiator Beast Essedarii; Gladiator Beast Essedarii)
+[deck:Balance](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Cosmic Cyclone; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua; Gladiator Beast Heraklinos; Gladiator Beast Nerokius; Gladiator Beast Essedarii; Gladiator Beast Essedarii; Gladiator Beast Essedarii)
 
 -----
 
