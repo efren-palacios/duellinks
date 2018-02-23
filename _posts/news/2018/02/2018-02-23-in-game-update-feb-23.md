@@ -17,7 +17,7 @@ permalink: /news/february-2018/in-game-update-and-upcoming-changes/
 ### Updates
 As of the recent in-game news update, March is packed full of events and pending updates. There is no need to check your notifications, we have it all here!
 
-[slider](https://i.imgur.com/5WYLQP9.jpg)
+[slider](https://i.imgur.com/QePCONv.jpg)
 
 ### Structure Decks
 * Konami has announced New Structure Decks that will be added early March.
