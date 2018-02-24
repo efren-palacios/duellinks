@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In Game Update & Upcoming Changes - Feburary
+title: In Game Update & Upcoming Changes - February
 author: Yami Hammy & Jonesy9027
 image: /img/logos/newsblank.png
 category: news
