@@ -21,11 +21,11 @@ As of the recent in-game news update, March is packed full of events and pending
 
 ### Structure Decks
 * Konami has announced New Structure Decks that will be added early March.
- * Find out what is coming [here](https://dkayedmeta.netlify.com/news/february-2018/leaked-structure-decks/)!
+ * Find out what is coming [here](/news/february-2018/leaked-structure-decks/)!
  
  
 ### Final Thoughts
-March has so many new events and new Legendary Duelists. Be sure to check out the event articles [here](https://dkayedmeta.netlify.com/events/ ) as they appear to make the most out of every event!
+March has so many new events and new Legendary Duelists. Be sure to check out the event articles [here](/events/) as they appear to make the most out of every event!
 
 ---
 ##### More updates will come as they become available, keep an eye on the Duel Links Meta website to stay up to date with all important content!
