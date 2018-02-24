@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-02-20
+date: 2018-02-24
 title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
 image: /img/events/crowler.png
@@ -14,23 +14,44 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated February 19th**
+**Last updated February 24th by Yami Hammy**
 
 [w75]
 ![Banner](https://i.imgur.com/8puihvI.png)
 
-[slider](https://media.discordapp.net/attachments/349335726036353029/415263132085125130/event-details.jpg)
+[slider](https://i.imgur.com/sOr4XTq.jpg)
+
+---
+
+### Update!
+
+[w75]
+![Banner](https://i.imgur.com/WKHlXG9.jpg)
+- Until the end of the event, there is a low chance that Vellian Crowler LV 50 will appear in Duel World (GX) - duel Crowler at the gate to make LV 50 appear faster!
+- In addition, Duel Assessment points from completing 'Today's Homework' have been increased to 3,000 for each Homework
+- New event missions have also been added - get up to 100 gems!
+
+| **Mission** |  **Reward** | 
+| :----- | :----- |
+| Win 1 Duel with {Ultimate Ancient Gear Golem} in your Deck, while playing as Dr. Vellian Crowler | 10 Gems |
+| Summon {Ultimate Ancient Gear Golem} 1 time in PvP | 20 Gems |
+| Summon {Ultimate Ancient Gear Golem} 2 times in PvP | 20 Gems |
+| Summon {Ultimate Ancient Gear Golem} 3 times in PvP | 20 Gems |
+| Reduce your opponent's LP to 0 by inflicting battle damage with {Ultimate Ancient Gear Golem} | 30 Gems |
+| Win 1 Duel against Dr. Vellian Crowler at Level 50 in Duel World | 25 EX Jewels |
+
+---
 
 ### Event Information 
 - Dr. Vellian Crowler, the Head Professor and Department Chair at Duel Academy is back with his Ancient Gears
 - This event lasts from the 19th to the 27th of February
 - Duel against Legendary/Standard Duelists to collect Academy Notebooks which you can use to duel Crowler at the gate
 - You can also earn up to 50 Notebooks a day from playing 3 PVP duels
-- Obtain EX Gems by dueling Crowler to use at the Card Trader EX and add more powerful cards to your collection
+- Obtain EX Jewels by dueling Crowler to use at the Card Trader EX and add more powerful cards to your collection!
 
 ### Drop Rewards
 
-| **Card** |  **Rarity** |  **Recommendation**  | 
+| **Card** |  **Rarity** |  Recommendation  | 
 | :----- | :----- | :----- | :-----  |
 | {Ultimate Ancient Gear Golem} | UR | Mediocre |
 | {Ancient Gear Engineer} | SR | Bad |
@@ -43,8 +64,8 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 | {Break! Draw!} | R | Bad |
 | {Ancient Gear Cannon} | N | Bad |
 
-### EX Gem Rewards
-**Note: you can only obtain 1 copy of a card with EX Gems**
+### EX Jewel Rewards
+**Note:** you can only obtain 1 copy of a card with EX Jewels
 
 | **Card** |  **Rarity** |  **Recommendation**  |  **Cost** |
 | :----- | :----- | :----- | :-----  | :----- |
@@ -64,14 +85,14 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 | **Mission** |  **Reward** | 
 | :----- | :----- |
-| Win 1 Duels against Dr. Vellian Crowler at Level 10 in Duel World | 5 EX Gems |
-| Win 1 Duels against Dr. Vellian Crowler at Level 20 in Duel World | 10 EX Gems |
-| Win 1 Duels against Dr. Vellian Crowler at Level 30 in Duel World | 15 EX Gems |
-| Win 1 Duels against Dr. Vellian Crowler at Level 40 in Duel World | 20 EX Gems |
-| Win 15 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
-| Win 30 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
-| Play 20 Duels against Dr. Vellian Crowler in Duel World | 50 EX Gems |
-| Play 40 Duels against Dr. Vellian Crowler in Duel World | 25 EX Gems |
+| Win 1 Duel against Dr. Vellian Crowler at Level 10 in Duel World | 5 EX Jewels |
+| Win 1 Duel against Dr. Vellian Crowler at Level 20 in Duel World | 10 EX Jewels |
+| Win 1 Duel against Dr. Vellian Crowler at Level 30 in Duel World | 15 EX Jewels |
+| Win 1 Duel against Dr. Vellian Crowler at Level 40 in Duel World | 20 EX Jewels |
+| Win 15 Duels against Dr. Vellian Crowler in Duel World | 25 EX Jewels |
+| Win 30 Duels against Dr. Vellian Crowler in Duel World | 25 EX Jewels | 
+| Play 20 Duels against Dr. Vellian Crowler in Duel World | 50 EX Jewels |
+| Play 40 Duels against Dr. Vellian Crowler in Duel World | 25 EX Jewels |
 
 - ---
 
@@ -80,13 +101,13 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 | **Card** |  **Rarity** |  **Recommendation**  | **Note**
 | :----- | :----- | :----- | :-----  | :----- |
-| {Ancient Gear Golem} | UR | Great | This is the only way for players who played in the last event to obtain a 3rd copy
-| {Ultimate Ancient Gear Golem} | UR | Mediocre | This is a guaranteed copy you won't have to farm for
+| {Ancient Gear Golem} | UR | Great | This is the only way to obtain a 3rd copy |
+| {Ultimate Ancient Gear Golem} | UR | Mediocre | This is a guaranteed copy - one less to farm for! |
 
 - ---
 
-***Level 40 Farm - created by JadeHex***  
-**7,100 Base DA (Duel Assessment)**
+***Level 40 Farm - created by JadeHex***
+**7,500 Base DA (Duel Assessment)**
 
 [deck](Summoner of Illusions; Magnetic Mosquito; Magnetic Mosquito; Magnetic Mosquito; Gravekeeper's Vassal; Medusa Worm; Medusa Worm; Medusa Worm; Anti-Magic Arrows; Union Attack; Union Attack; Array of Revealing Light; Array of Revealing Light; Array of Revealing Light; Acid Rain; Acid Rain; Pot of Benevolence; A Feint Plan; A Feint Plan; A Feint Plan; Blue-Eyes Ultimate Dragon; Master of Oz)
 
@@ -103,7 +124,6 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - Double {Union Attack} onto {Gravekeeper's Vassal}
 - Enter Battle Phase, activate {Anti-Magic Arrows} and swing for game
 
-
 **Replacements**
 - Any consistency improving skill such as Restart or Duel Standby can be used
 - {Medusa Worm} or {Magnetic Mosquito} can be switched with {Guardian Statue}
@@ -112,12 +132,12 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - {A Feint Plan} can be replaced with {Windstorm of Etaqua} or {Curse of Anubis}
 
 **Risks**
-- This farm deck is hugely reliant on its combo pieces. Not getting {Medua Worm} or {Array of Revealing Light} in time is deadly
+- This farm deck is hugely reliant on its combo pieces. Not getting {Medusa Worm} or {Array of Revealing Light} in time is deadly
 
 - ---
  
-***Level 40 Farm - created by Freeska***  
-**7,400 Base DA (Duel Assessment)**
+***Level 40 Farm - created by Freeska***
+**7,600 Base DA (Duel Assessment)**
 
 [deck: Destiny Draw](Catapult Turtle; Black Ptera; Black Ptera; Black Ptera; Soul Exchange; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; De-Spell; Windstorm of Etaqua)
 
@@ -144,10 +164,10 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 ---
 
-***Level 40 Farm - created by Freeska***  
-**8,200 Base DA (Duel Assessment)**
+***Level 40 Farm - created by Freeska***
+**7,900 Base DA (Duel Assessment)**
 
-[deck: Duel, Standby!](The Winged Dragon of Ra; Cure Mermaid; Cure Mermaid; Cure Mermaid; Crystal Seer; Crystal Seer; Crystal Seer; White Magician Pikeru; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magical Mallet; Magical Mallet; Magical Mallet; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
+[deck: Duel Standby](The Winged Dragon of Ra; Cure Mermaid; Cure Mermaid; Cure Mermaid; Crystal Seer; Crystal Seer; Crystal Seer; White Magician Pikeru; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magical Mallet; Magical Mallet; Magical Mallet; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
 **Strategy**
 - Use {Magical Mallet} and {Crystal Seer} to get a copy of both {Spirit Barrier} and {Astral Barrier}, rendering all of Crowler's attacks useless
@@ -163,12 +183,12 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - Restart can also be used as a skill
 
 **Risks**
--Not picking up your Barrier combo is fatal
+- Not picking up your Barrier combo is fatal
 
 - ---
 
-***Level 40 Farm - created by John Doe***  
-**7,500 Base DA (Duel Assessment)**
+***Level 40 Farm***
+**7,700 Base DA (Duel Assessment)**
 
 [deck: Reinforcements]( The Legendary Fisherman; Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Crystal Seer; Anti-Magic Arrows; A Legendary Ocean; A Legendary Ocean; A Legendary Ocean; Union Attack; Union Attack; Polymerization; Magical Mallet; Magical Mallet; Magical Mallet; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Twin-Headed Thunder Dragon)
 
@@ -183,7 +203,6 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - Summon {Gravekeeper's Vassal} and use {Secret Pass to the Treasures} and double {Union Attack} on him
 - Enter Battle Phase, activate {Anti-Magic Arrows} and swing for game
 
-
 **Replacements**
 - {Crystal Seer} can be replaced with any other draw card
 - Draw Sense: Water can also be used as a skill
@@ -192,7 +211,6 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - This deck is its own worst enemy. Not drawing your specific combo pieces will lead to immediate death
 
 ---
-
 
 ### Dr. Vellian Crowler LV 40 Decklist
 [deck](Ancient Gear Golem; Ancient Gear Golem; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Box; Ancient Gear Box; Ancient Gear Beast; Ancient Gear Tank; Ancient Gear Tank; Ancient Gear Castle; Ancient Gear Castle; Ancient Gear Castle; Spell Gear; Ancient Gear Workshop; Ancient Gear Workshop; Zero Gravity; Zero Gravity)
