@@ -19,11 +19,9 @@ hide: false
 
 {% include box.html box=site.data.box.abyss-encounters %}
 
-<!--
-### Video Review by Dkayed
+### Archfiends Review by Dkayed
 
-{% include youtube-video.html url='https://www.youtube.com/watch?v=tEFpdXv4PD4' %}
--->
+{% include youtube-video.html url='https://www.youtube.com/watch?v=CyPm_JXpmo8' %}
 
 ### Affected Deck Types
 This box affects or creates the following deck types
