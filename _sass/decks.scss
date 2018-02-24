@@ -212,8 +212,8 @@
   min-width: 500px;
 }
 
-// Skill (Mobile)
-#fancyboxDiv {
+// Skill and Card Information Display (Mobile)
+.fancyboxContainer {
   background-color: transparent !important;
 }
 
@@ -249,6 +249,25 @@
 as the grid from Bootstrap is needed for skill popups---*/
 .fancybox-slide::before {
   display: none !important;  
+}
+
+#cardRarity {
+  margin-left: 69px;
+  width: 60px;
+}
+
+#cardImage {
+  width: 128px;
+  margin-bottom: 20px;
+}
+
+.cardImageContainer {
+  width: 128px;
+  margin: auto;
+}
+
+#cardName {
+  margin-bottom: .5rem;
 }
 
 // Tablet

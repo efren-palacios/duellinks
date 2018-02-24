@@ -1,6 +1,3 @@
-// Global variables
-// ================= 
-
 // Main function
 // =================
 $(function() {
@@ -15,10 +12,16 @@ $(function() {
 });
 
 // Action handler functions
-// =================
-$(window).on("resize", function() {
-    // TODO: Add functionality to resize the shown mobile display, if needed 
-});
+// ========================
+$(window).resize( updateMobileInformation );
+
+async function updateMobileInformation() {
+    // Delay the update to sync with the page load
+    await sleep(500);
+
+    resizeCardInformation();
+    resizeSkillInformation();
+};
 
 // Helper functions
 // =================
@@ -34,31 +37,31 @@ function isMobile() {
 function updatePopupsForMobile() {
     // Update every card to display an image, whether in a deck or on a guide/article page
     $(".item a").each(function() {
-        $(this).attr("href", $(this).find("img").attr("src")).addClass("fancybox");
+        $(this).attr("href", "javascript:;").addClass("fancybox-card");
+        $(this).attr("data-src", "#fancyboxCardDiv");
     });
     $(".markdown-item a").each(function() {
-        $(this).attr("href", $(this).find("img").attr("src")).addClass("fancybox");
+        $(this).attr("href", "javascript:;").addClass("fancybox-card");
+        $(this).attr("data-src", "#fancyboxCardDiv");
     });
 
     // Update instances of skills/cards to conform for the fancybox plugin 
     $(".card-hover").each(function() {
         if($(this).attr('name') == 'skillPopup') {
-            let websiteLink = location.protocol + "//" + location.hostname;
-            if(location.port){
-                websiteLink += ":" + location.port;
-            }
-
-            $(this).replaceWith($('<a class="fancybox-skill" data-src="#fancyboxDiv" href="javascript:;">' + $(this).text() + '</a>'))    
+            $(this).replaceWith($('<a class="fancybox-skill" data-src="#fancyboxSkillDiv" href="javascript:;">' + $(this).text() + '</a>'));    
         }
         else {
-            var imgSrc = $(this).attr('src')
-            $(this).replaceWith($('<a class="fancybox" href="' + imgSrc + '">' + $(this).text() + '</a>'))
+            $(this).replaceWith($('<a class="fancybox-card" data-src="#fancyboxCardDiv" href="javascript:;">' + $(this).text() + '</a>'));
         }
     })
 
     // Set the fancybox for card images
     $().fancybox({
-        selector: '.fancybox'
+        buttons: ['close'],
+        selector: '.fancybox-card',
+        smallBtn: false,
+        afterShow: obtainCardInformation,
+        afterClose: closeMobilePopup
     });
 
     // Set the fancybox for skill popups
@@ -112,19 +115,119 @@ function displaySkillInformation( response, skill, websiteLink ) {
     $('#skillExclusive').html(exclusiveString); 
     var characterString = websiteLink + "/img/characters/portrait-" + (exclusive == true ? portaitName : 'vagabond') + ".png";
     $('#characterImage').one("load", function() {
-        // Style the image for large skill descriptions, then display the box
-        var containerHeight = $('#characterImageContainer').height();
-        var difference = Math.floor(containerHeight - 146); // Default height of all pics are 146
-        $('#characterImage').css('padding', Math.floor(difference/2) + 'px 0px ' + Math.floor(difference/2) + 'px 0px');
+        resizeSkillInformation();
 
-        $('#defaultFancybox').remove();
+        $('.fancybox-loading').hide();
         $('#skillFancybox').removeClass('hideSkillContainer');
     });
     $('#characterImage').attr('src', characterString);    
 };
 
+function resizeSkillInformation() {
+    // Style the image for large skill descriptions
+    var containerHeight = $('#characterImageContainer').height();
+    var difference = Math.floor(containerHeight - 146); // Default height of all pics are 146
+    $('#characterImage').css('padding-top', Math.floor(difference/2) + 'px');
+};
+
+function obtainCardInformation( instance, current ) {
+    // Obtain the card name
+    var cardName = $(current.opts.$orig).html();
+    if(cardName.includes("<img")) {
+        cardName = $(current.opts.$orig).find('img').attr('src').replace("https://yugiohprices.com/api/card_image/", ""); 
+        while(cardName.includes('+')) {
+            cardName = cardName.replace("+", " ");
+        }
+    }
+
+    // Obtain the card data
+    let websiteLink = location.protocol + "//" + location.hostname;
+    if(location.port){
+        websiteLink += ":" + location.port;
+    }
+    let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
+        return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
+    });
+    let cardinfo = axios.get("https://www.ygohub.com/api/card_info?name=" + cardName).then(function(r) {
+        return r.data
+    });
+    Promise.all([cardobtain, cardinfo]).then(function(r) {
+        displayCardInformation( r, websiteLink, cardName );
+    });
+};
+
+function displayCardInformation( response, websiteLink, cardName ) {
+    // Update and display the data
+    if(response[0].rarity) {
+        $('#cardRarity').attr('src', websiteLink + '/img/assets/' + response[0].rarity + '.png');
+        $('#cardRarity').show();
+    } 
+    else {
+        $('#cardRarity').hide();
+    }
+    $('#cardImage').one("load", function() {
+        resizeCardInformation();
+
+        $('.fancybox-loading').hide();
+        $('#cardFancybox').removeClass('hideSkillContainer');
+    });
+    $('#cardImage').attr('src', "https://yugiohprices.com/api/card_image/" + cardName);
+    $('#cardName').html(cardName);
+    if(response[1].attribute) {
+        $('#cardAttribute').html('Attribute: ' + response[1].attribute);
+        $('#cardAttribute').show();
+    } 
+    else {
+        $('#cardAttribute').hide();
+    } 
+    if(response[1].stars) {
+        $('#cardLevel').html('Level: ' + response[1].stars);
+        $('#cardLevel').show();
+    } 
+    else {
+        $('#cardLevel').hide();
+    }
+    if(response[1].card.is_monster) {
+        $('#cardType').html('<b>[ </b>' + response[1].card.species + ' / ' + response[1].card.monster_types.join(' / ') + '<b> ]</b>');
+    }
+    else {
+        $('#cardType').html('<b>[ </b>' + response[1].card.type + ' / ' + response[1].card.property +  '<b> ]</b>');
+    }
+    if(response[1].has_materials) {
+        $('#cardMaterials').html('<i>' + response[1].card.materials + '</i>');
+        $('#cardMaterials').show();
+    } 
+    else {
+        $('#cardMaterials').hide();
+    }
+    $('#cardText').html(response[1].card.text);
+    $('#cardAttackDefense').html((response[1].card.attack ? "<b>ATK/ </b>" + response[1].card.attack : "") + " " + (response[1].card.defense ? "<b>DEF/ </b>" + response[1].card.defense : ""));
+    $('#cardObtain').html(response[0].how ? response[0].how : 'Needs to be Added');    
+};
+
+function resizeCardInformation() {
+    // Style the image for large card descriptions
+    var containerHeight = $('#cardImageColumn').height();
+    var difference = Math.floor(containerHeight - 200.5); // Default height of all pics combined are 200.5
+    if($('#cardRarity').is(':visible')) {
+        $('#cardRarity').css('padding-top', Math.floor(difference/2) + 'px');
+    }
+    else {
+        $('#cardImage').css('padding-top', Math.floor(difference/2) + 'px');
+    }
+};
+
 function closeMobilePopup() {
-    $('#fancyboxDiv').hide();
+    $('#fancyboxSkillDiv').hide();
+    $('#fancyboxCardDiv').hide();
+
+    $('.fancybox-loading').show();
+    
+    $('#skillFancybox').addClass('hideSkillContainer'); 
+    $('#cardFancybox').addClass('hideSkillContainer');
+
+    $('#cardImage').css('padding-top', '');
+    $('#cardRarity').css('padding-top', '');
 };
 
 function updatePopupsForDesktops() {
