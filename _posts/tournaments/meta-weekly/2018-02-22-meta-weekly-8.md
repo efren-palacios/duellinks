@@ -68,7 +68,7 @@ DLNoir - $49
 
 *Main deck*
 
-[deck:Restart](Evil Dragon Ananta; Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Enemy Controller; Enemy Controller; \"A\" Cell Recombination Device; \"A\" Cell Recombination Device; \"A\" Cell Recombination Device; Storm; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam)
+[deck:Restart](Evil Dragon Ananta; Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Storm; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam)
 
 *Side deck*
 
