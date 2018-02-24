@@ -48,7 +48,7 @@ function updatePopupsForMobile() {
                 websiteLink += ":" + location.port;
             }
 
-            $(this).replaceWith($('<a class="fancybox-skill" data-type="ajax" data-src="' + websiteLink + '/skill/' + '" href="javascript:;">' + $(this).text() + '</a>'))    
+            $(this).replaceWith($('<a class="fancybox-skill" data-src="#fancyboxDiv" href="javascript:;">' + $(this).text() + '</a>'))    
         }
         else {
             var imgSrc = $(this).attr('src')
@@ -66,7 +66,8 @@ function updatePopupsForMobile() {
         buttons: ['close'],
         selector: '.fancybox-skill',
         smallBtn: false,
-        afterShow: obtainSkillInformation
+        afterShow: obtainSkillInformation,
+        afterClose: closeMobilePopup
     });
 };
 
@@ -120,6 +121,10 @@ function displaySkillInformation( response, skill, websiteLink ) {
         $('#skillFancybox').removeClass('hideSkillContainer');
     });
     $('#characterImage').attr('src', characterString);    
+};
+
+function closeMobilePopup() {
+    $('#fancyboxDiv').hide();
 };
 
 function updatePopupsForDesktops() {
