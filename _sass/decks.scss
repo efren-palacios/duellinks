@@ -213,9 +213,12 @@
 }
 
 // Skill (Mobile)
+#fancyboxDiv {
+  background-color: transparent !important;
+}
+
 .skillContainer {
   display: flex !important;
-  background-color: transparent !important;
 } 
 
 .hideSkillContainer {
