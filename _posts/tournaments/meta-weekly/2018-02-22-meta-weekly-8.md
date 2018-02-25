@@ -11,7 +11,6 @@ comments: true
 description: The Meta Weekly is a casual tournament that constantly assesses the ever changing Meta. Check out the report of these Top Players, their decks, and Prizes for the week of February 22, 2018. 
 keywords: meta weekly, meta weekly 8, meta weekly 8 winners, meta weekly 8 decks, tournament, Dkayed, magnets, aliens, red-eyes, red eyes, the legendary fisherman, sea stealth attack, gaia plate, magnet warriors
 permalink: /tournaments/meta-weekly/8/
-hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -68,7 +67,7 @@ DLNoir - $49
 
 *Main deck*
 
-[deck:Restart](Evil Dragon Ananta; Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Storm; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam)
+[deck:Restart](Evil Dragon Ananta; Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Enemy Controller; Enemy Controller; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; Storm; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam)
 
 *Side deck*
 
