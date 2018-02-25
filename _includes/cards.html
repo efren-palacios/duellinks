@@ -11,7 +11,7 @@
           <div class="card">
             <div class="zoom">
               <a href="{{site.url}}{{article.url}}" class="gallerypic" title="">
-                <img src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{article.image}}" class="card-img-top lazyload" />
+                <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                 <img src="/img/assets/featured.png" class="featured-icon">
               </a>
             </div>
@@ -53,7 +53,7 @@
                 <div class="card">
                   <div class="zoom">
                       <a href={{site.url}}{{article.url}}> 
-                          <img src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{article.image}}" class="card-img-top lazyload" />
+                          <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                       </a>
                   </div>
                   <div class="card-block text-white">
