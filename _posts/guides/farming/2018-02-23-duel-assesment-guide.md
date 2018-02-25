@@ -2,7 +2,7 @@
 layout: blog
 title: Duel Assessment (DA) Score
 author: Yami Hammy
-image: /img/guides/banner3.jpg
+image: /img/guides/banner5.jpg
 category: farm
 date: 2018-02-23
 comments: true
@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Banner](/img/guides/banner3.jpg)
+![Banner](/img/guides/banner5.jpg)
 
 - After each duel you score points for each of the below criteria you fulfill!
 - You will receive 1 reward for every 1000 points - maximum 8000 DA. 
