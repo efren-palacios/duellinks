@@ -2,7 +2,7 @@
 layout: blog
 title: In Game Update & Upcoming Changes - December 7th, 2017
 author: KingParrott
-image: /img/news/in-game-update-&-upcoming-changes-december-2017/thumbnail.png
+image: /img/logos/newsblank.png
 category: news
 date: 2017-12-08
 pinned: false

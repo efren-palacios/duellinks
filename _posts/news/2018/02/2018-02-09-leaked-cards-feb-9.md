@@ -8,7 +8,7 @@ date: 2018-02-11
 comments: true
 description: TNew files for upcoming events and cards have been leaked! Check here for an overview of all the new obtainable cards.
 keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates
-permalink: /news/february-2018/leaked-cards
+permalink: /news/february-2018/leaked-cards/
 ---
 
 {% include heading.html title=page.title author=page.author %}

@@ -301,7 +301,7 @@ function BindFormEvents()
         $("form.deck-submission").submit();
     });
 
-    $("form.deck-submission").submit(function ()
+    $("form.deck-submission").submit(function()
     {
         var form = this;
     
