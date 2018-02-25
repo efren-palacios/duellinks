@@ -38,6 +38,7 @@ module Jekyll
               deck_page.puts("author: bot")
               deck_page.puts("comments: true")
               deck_page.puts("permalink: #{deck['url']}")
+              deck_page.puts("scripts: playtest.js")
               deck_page.puts("---")
               
               deck_page.puts("")
