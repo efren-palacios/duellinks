@@ -12,11 +12,19 @@
             {% endfor %}
         {% endfor %}
 
-        <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3" >
-            <a class="btn-decktype" href="/tier-list/{{tier-type.id}}">
-                <img class="decktype-card" src= "https://yugiohprices.com/api/card_image/{{tier-type.card}}"/>
-                <span class="decktype-display">{{tier-type.display}}</span>
-            </a>
+        <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
+            {% assign guide = site.data.deck-types.pages[{{tier-type.id}}] %}
+            {% if guide != null %}
+                <a class="btn-decktype" href="/tier-list/{{tier-type.id}}">
+                    <img class="decktype-card" src= "https://yugiohprices.com/api/card_image/{{tier-type.card}}"/>
+                    <span class="decktype-display">{{tier-type.display}}</span>
+                </a>
+            {% else %}
+                <div class="btn-decktype">
+                    <img class="decktype-card" src= "https://yugiohprices.com/api/card_image/{{tier-type.card}}"/>
+                    <span class="decktype-display">{{tier-type.display}}</span>
+                </div>
+            {% endif %}
         </div>
     {% endfor %}
 </div>

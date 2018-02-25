@@ -26,4 +26,4 @@ hide: false
 ### Affected Deck Types
 This box affects or creates the following deck types
 
-{% include deck-type-list.html deck-types='archfiends;aliens;sea-stealth-attack;' %} 
+{% include deck-type-list.html deck-types='archfiends;aliens;sea-stealth-attack;gishki;' %} 
