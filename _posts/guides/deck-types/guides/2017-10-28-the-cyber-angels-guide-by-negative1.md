@@ -161,7 +161,9 @@ Tech cards are an important part of every deck. However, it is important to know
 
 Econ has historically been the poster child of countering CA. With little to no backrow, CA is susceptible to econ take plays as well as losing Dakini if she uses her effect. While I believe Floodgate is presently the most effective card against CA, econ is still the strongest tech in the mirror match.
 
-**Tech / Can replace:** [deck](Senju of the Thousand Hands; Cyber Petit Angel)
+**Tech / Can replace:** 
+
+[deck](Senju of the Thousand Hands; Cyber Petit Angel)
 
 ---
 
@@ -178,7 +180,7 @@ These traps vary in use. Curse is arguably the most versatile of the four, but W
 
 ##### **“Anti Backrow” or “Backrow Hate”**
 
-[deck](Cosmic Cyclone; Fire Formation - Gyokkou; Double Cyclone; Greenkappa; Fenghuang; Lyla the Lightsworn Sorceress; Xing Zhen Hu; Anti-Magic Arrows)
+[deck](Cosmic Cyclone; Fire Formation - Gyokkou; Double Cyclone; Greenkappa; Fenghuang; Lyla, Lightsworn Sorceress; Xing Zhen Hu; Anti-Magic Arrows)
 
 The catalog of cards CA has available to deal with backrow has increased significantly since the last time I’ve updated this guide. The best options available are the first three. There are a number of other cards that have seen use, but will most likely be relegated to the side deck.
 
@@ -209,6 +211,8 @@ Floodgate is an overall good card, but lacks synergy with CA. Setting problemati
 ---
 ##### **Forbidden Chalice**
 
+[deck](Forbidden Chalice)
+
 Chalice has not seen much use, but I believe that it may become a tech to handle the mirror and to stop GB tags. It may also be useful against REZ to prevent milling, but negating a searcher’s effect or a tagout can win you games as it slows down their deck and can swing the momentum into your favor.
 
 **Tech**
@@ -223,7 +227,9 @@ Chalice has not seen much use, but I believe that it may become a tech to handle
 
 Skelengel is a Free to Play substitute for other searchers but has no real place in an optimal build for CA. For a while it was considered for CA, and even found use in Bamboo CA, but spending a Normal Summon on Skelengel is a dangerous game. You only want to see Skelengel early and it doesn’t allow you to choose what you get from the deck.
 
-**Can replace:** [deck](Senju of The Thousand Hands; Cyber Petit Angel)
+**Can replace:** 
+
+[deck](Senju of The Thousand Hands; Cyber Petit Angel)
 
 ---
 
@@ -243,7 +249,9 @@ Electro struggles to find a place in CA. Electro is a relatively weak monster th
 
 SK used to be a semi-common tech in CA, but as time has passed people have realized that SK is not very effective. This is mostly because econ does SK’s job and is far more versatile. Running 1 is fine, but running 2 may be a tad much. Don’t run 2 SK just because of its secondary effect. Relinquished was able to run SK because they are both level 1 and it was a free summon at no cost. CA can run SK, but all of the core monsters in CA are of even level, so using SK second effect of banishing from the grave won’t get used unless you are able to get both SK into play (your hand or graveyard).
 
-**Tech / Can replace:** [deck](Senju of the Thousand Hands, Cyber Petit Angel)
+**Tech / Can replace:** 
+
+[deck](Senju of the Thousand Hands; Cyber Petit Angel)
 
 ##### **“Spell Counters”**
 
@@ -389,7 +397,7 @@ This matchup is very coinflip dependent. Going first against Ninjas can sometime
 ##### **Effective Techs for the Matchup:**
 + {Forbidden Chalice}: Chalice can be used for 2 purposes: prevent a BDN banish, boost a Dakini in the Damage Step to get over a BDN. Do not activate Chalice unless you are chaining it or are in the Damage Step. If you activate Chalice without chaining, then BDN can banish itself to dodge Chalice.
 
-+ {Cosmic Cyclone}: Do not activate CC unless you are chaining it to their ninjitsu trap. If you activate without chaining, then a BDN can self banish to detach itself from a ninjitsu trap, nullifying your CC. If they activate ninjitsu art notebook, don’t immediately activate CC. If they try to activate notebook’s effect, chain CC to their discard; this will result in notebook getting banished and them forfeiting a ninja, a 2 for 1 trade.
++ {Cosmic Cyclone}: Do not activate CC unless you are chaining it to their ninjitsu trap. If you activate without chaining, then a BDN can self banish to detach itself from a ninjitsu trap, nullifying your CC. If they activate ninjitsu art notebook, don’t immediately activate CC. If they try to activate notebook’s effect, chain CC to their discard; this will result in notebook getting banished and them forfeiting a ninja, a 2 for 1 trade. 
 
 ---
 
@@ -411,7 +419,7 @@ Keep in mind that most of the techs that you would use against REZ are weak agai
 
 + {Cosmic Cyclone}: CC is the fastest option for CA; you can use it in the End Phase to snipe spirits or econs.
 
-+ {Duel, standby!}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are much more common with DS and allow CA to outpace REZ.
++ {Duel, standby!}: DS is not a tech card per se, but definitely improves the matchup. REZ is a reasonably quick deck, but when both CA and REZ get another material CA takes advantage of much more. Combos like double Dakini are much more common with DS and allow CA to outpace REZ. 
 
 ---
 
@@ -435,7 +443,7 @@ All techs in this matchup are used to prevent tagouts as that is the source of G
 + {Curse of Anubis}: stops multiple tagouts via position change
 
 ---
-
+ 
 #### CA vs Burn 40-60
 
 ##### **How to Play the Matchup:**
@@ -461,7 +469,7 @@ All techs in this matchup are used to prevent tagouts as that is the source of G
 + {Anti-Magic Arrows}: AMA trashes burn. The only reason CA shouldn’t run this card is because AMA has limited value in other matchups  when compared to econ, and is nearly useless in the CA mirror.
 
 ---
-
+
 #### CA vs Ancient Gears 60-40
 
 Of all the matchups against the current top 6 decks, CA does the best against AG. Decks that run heavy backrow tend to do well against CA, but the problem with AG is that they sacrifice one of their backrow spaces for ancient gear castle. The result is a slow backrow heavy deck that can’t run heavy backrow until late game, but AG struggles with surviving long enough to do so.
