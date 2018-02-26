@@ -1,0 +1,137 @@
+{
+    "deck-type": "Ananta",
+    "created-by": "Hextor",
+    "modified-by": "Hextor",
+    "modified-on": "February 9th, 2018",
+    "profile": "",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Ananta control is a ticking time bomb, the deck main goal is put your opponent against the wall and force him to do desperate plays to get rid of your monsters or get out resourced. If that isn't evil enough, the deck uses the skill called Shadow Game, to burn your opponent every turn for each card on his graveyard, punishing them for doing/not doing something against your deck strategy."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Shadow Game",
+                        "main":
+                        [
+                            { "name": "Evil Dragon Ananta", "amount": "3" },
+                            { "name": "Lava Golem", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Cobra Jar", "amount": "1" },
+                            { "name": "Worm Cartaros", "amount": "3" },
+                            { "name": "Worm Linx", "amount": "1" },
+                            { "name": "Super Rush Headlong", "amount": "3" },
+                            { "name": "Floodgate Trap Hole", "amount": "2" },
+                            { "name": "Impenetrable Attack", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Evil Dragon Ananta", "amount": "2" },
+                            { "name": "Lava Golem", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Worm Cartaros", "amount": "2" },
+                            { "name": "Worm Linx", "amount": "1" },
+                            { "name": "Super Rush Headlong", "amount": "3" },
+                            { "name": "Floodgate Trap Hole", "amount": "2" },
+                            { "name": "Impenetrable Attack", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                }        
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Cobra Jar", "amount": "1" },
+                            { "name": "Worm Barses", "amount": "1" },
+                            { "name": "Worm Apocalypse", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Eliminating the League", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Draining Shield", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- Worm Barses is a great addition to the deck in case you start facing a lot of decks running Floodgate Trap Hole, use his effect to flip Ananta and continue using his effect."
+                },   
+                {
+                    "paragraph": "- Use Ananta summon condition to reduce the amount of cards in your graveyard so you can take less damage from the Shadow Game skill."
+                },
+                {
+                    "paragraph": "- Don't be afraid to protect Worm Linx, his effect will allow you to keep drawing the cards you need."
+                },
+                {
+                    "paragraph": "- If your opponent tries to mill you out by not attacking Worm Linx, use Ananta effect to destroy it."
+                }    
+            ]
+        }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=1u5dIFKLV48"
+    ]
+}

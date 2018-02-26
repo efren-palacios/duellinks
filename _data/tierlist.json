@@ -28,7 +28,8 @@
             { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
-            { "id": "snipe-hunter-volcanics",   "display": "Snipe Hunter/Volcanics", "card": "Snipe Hunter"}                
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
+            { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" }                
         ]
     },
     {
@@ -36,11 +37,7 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            
-            { "id": "dark-world",               "display": "Dark World",            "card": "Reign-Beaux, Overlord of Dark World" },        
-            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
-            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
-            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"}
+            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
         ] 
     },
     {
@@ -48,15 +45,16 @@
         "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
         "types":
         [
-            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" },            
-            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },            
+            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
+            { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
+            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
-            { "id": "gaia-plate-magnets",       "display": "Gaia Plate Magnets",    "card": "Gaia Plate the Earth Giant" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
-            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" }
+            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
+            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
         ] 
     },
     {
@@ -64,13 +62,11 @@
         "info": "New deck types or decks that have received new cards that change the deck.",
         "types":
         [
-            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
-            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
-            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
-            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
-            { "id": "jurrac",                   "display": "Jurrac",                "card": "Jurrac Guaiba" },
-            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
-            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
+            { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
+            { "id": "gishki",                   "display": "Gishki",                "card": "Evigishki Levianima" }
         ] 
     },
     {
@@ -78,9 +74,7 @@
         "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
         "types":
         [              
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
-            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",            "display": "Trap Monsters",         "card": "Tiki Soul" },
@@ -101,15 +95,22 @@
             { "id": "ice-barrier",              "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
             { "id": "desert-twister",           "display": "Desert Twister",        "card": "Desert Twister" },
 			{ "id": "blue-eyes",     	        "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
-            { "id": "other",     	            "display": "Other",                 "card": "Question" },
             { "id": "handless",     	        "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
             { "id": "wetlands",     	        "display": "Wetlands",              "card": "Wetlands" },
             { "id": "harpies",                  "display": "Harpies",               "card": "Cyber Harpie Lady" },
             { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
             { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
             { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
-			{ "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon" },
-			{ "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" }
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
+            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
+            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
+            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
+            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
+            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
+            { "id": "jurracs",                  "display": "Jurracs",               "card": "Jurrac Guaiba" },
+            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
+            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
         ]
     },
     {
@@ -117,7 +118,8 @@
         "info": "Deck types that should no longer be used or displayed but are still here for legacy decks.",
         "types":
         [    
-            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" }
+            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "other",     	            "display": "Other",                 "card": "Question" }
         ]
     }
 ]

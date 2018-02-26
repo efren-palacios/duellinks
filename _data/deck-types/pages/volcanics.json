@@ -3,7 +3,7 @@
     "created-by": "Whybona",
     "modified-by": "Whybona",
     "modified-on": "January 23st, 2018",
-    "profile": "whybona",
+    "profile": "",
     "sections":
     [
         {
@@ -118,16 +118,16 @@
                 },
                 {
                     "paragraph": "- Volcanic's hardest matchups are REZ and Hazy. However, this deck has a wide variety of tech options that can make at least 1 of the two matchups favorable, but leaves the other difficult. Choose your tech cards to best counter the deck that you believe will be the most common, and use your side deck (if you have one) to cover the other."
-                }     
-            ]
-        },    
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                
+                }   
             ]
         }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=1IqO8OJm9KM"
     ]
 }

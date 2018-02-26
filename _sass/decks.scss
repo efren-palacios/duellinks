@@ -18,7 +18,8 @@
   
   .skill
   {
-    margin-bottom: 1rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
     color: $active;
     text-align: center;
 
@@ -173,11 +174,6 @@
   display: flex;
 }
 
-.preview img
-{
-  width: 120px;
-}
-
 .carddata
 {
   display: flex !important;
@@ -198,7 +194,7 @@
 
 .preview img
 {
-  margin: 1rem 1rem 1rem .5rem;
+  margin: 0 1.5rem 0 .5rem;
   width: 120px;
   display: flex;
 }
@@ -216,8 +212,66 @@
   min-width: 500px;
 }
 
+// Skill and Card Information Display (Mobile)
+.fancyboxContainer {
+  background-color: transparent !important;
+}
+
+.skillContainer {
+  display: flex !important;
+} 
+
+.hideSkillContainer {
+  visibility: hidden;
+}
+
+.skillTitle {
+  color: #c7c7c7;
+  margin-bottom: 32px;
+}
+
+.skillDataColumn {
+  padding: 15px 0px 15px 0px;
+}
+
+@media only screen and (max-width: 575px)
+{
+  .skillData p {
+    text-align: center;
+  }
+
+  .skillImage {
+    text-align: center;
+  }
+}
+
+/*--- Removing the fancybox content display
+as the grid from Bootstrap is needed for skill popups---*/
+.fancybox-slide::before {
+  display: none !important;  
+}
+
+#cardRarity {
+  margin-left: 69px;
+  width: 60px;
+}
+
+#cardImage {
+  width: 128px;
+  margin-bottom: 20px;
+}
+
+.cardImageContainer {
+  width: 128px;
+  margin: auto;
+}
+
+#cardName {
+  margin-bottom: .5rem;
+}
+
 // Tablet
-@media only screen and (max-width: 760px)
+@media only screen and (max-width: 767px)
 {
   .mobile
   {

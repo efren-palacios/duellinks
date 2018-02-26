@@ -1,12 +1,13 @@
 {
     "game-changes":
     {
-        "date": 2018-01-09,
-        "description": "Disclaimer: Any konami changes, box releases, etc. go here."
+        "date": 2018-02-05,
+        "description": "Golden Bamboo Sword was limited to 1. The tier list reflects these changes."
     },
     "tier-changes": 
     [
-        { "type": "snipe-hunter-volcanics", "from": "nothing", "to": 3, "date": 2018-01-31 },
+        { "type": "magnet-warriors", "from": "nothing", "to": 3, "date": 2018-02-15 },
+        { "type": "snipe-hunter", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "stall-decks", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "dinos", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-01-31 },

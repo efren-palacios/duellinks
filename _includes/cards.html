@@ -11,7 +11,7 @@
           <div class="card">
             <div class="zoom">
               <a href="{{site.url}}{{article.url}}" class="gallerypic" title="">
-                <img src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{article.image}}" class="card-img-top lazyload" />
+                <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                 <img src="/img/assets/featured.png" class="featured-icon">
               </a>
             </div>
@@ -45,33 +45,36 @@
       {% if article.pinned == null or article.pinned == false or pinnedPosts > 2 %}
         {% if article.hide == null or article.hide == false %}
           {% capture _ %}{% increment counter %}{% endcapture %}
-          <div class="col-sm-6 col-12 card-deck">
-            <div class="card">
-              <div class="zoom">
-                  <a href={{site.url}}{{article.url}}> 
-                      <img src="https://images.weserv.nl/?url={{article.image | replace: 'https://', ''}}&w=200&blur=5" data-src="{{article.image}}" class="card-img-top lazyload" />
-                  </a>
-              </div>
-              <div class="card-block text-white">
-                <a href={{site.url}}{{article.url}}>
-                  <h4 class="card-title">{{article.title}}</h4>
-                </a>
-                <div class="text-white">
-                        <small class="text-muted">Last Updated: {{ article.date | timeago }}
+          {% if counter > 8 %}
+            <div class="col-sm-6 col-12 card-deck hiddenCard" style="display: none;">
+          {% else %}
+            <div class="col-sm-6 col-12 card-deck">  
+          {% endif %}
+                <div class="card">
+                  <div class="zoom">
+                      <a href={{site.url}}{{article.url}}> 
+                          <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
+                      </a>
+                  </div>
+                  <div class="card-block text-white">
+                    <a href={{site.url}}{{article.url}}>
+                      <h4 class="card-title">{{article.title}}</h4>
+                    </a>
+                    <div class="text-white">
+                      <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
                         By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
                         By <b><a class="text-warning" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
                       </small>
+                    </div>
+                  </div>
                 </div>
-              </div>
-
-            </div>
-          </div>
-          {% if counter >= 8 %}
-            {% break %}
-          {% endif %}
+              </div>          
         {% endif %}
       {% endif %}  
     {% endif %}
   {% endfor %}
+  <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 articleButtonColumn">
+    <button id="moreArticles" type="button" class="btn btn-primary articleButton">More Articles</button>
+  </div>
 </div>

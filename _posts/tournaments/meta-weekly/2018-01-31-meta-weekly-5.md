@@ -17,37 +17,38 @@ permalink: /tournaments/meta-weekly/5/
 
 ![](/img/logos/meta-weekly.png)
 
-### Tournament 5 META LADDER 
+### What is Meta Weekly?
+The Meta Weekly is one of Dkayed's new tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up at the very last second!
 
-#### The Meta Weekly is one of Dkayed's new Tournament's that is held 5-5 times a month, once a week.
+### Rules
+* One deck
+* No side deck
+* Single elimination
 
-#### EVERY WEEK: Alternating between Tuesday 2pm EST and Wednesday 7pm
-
-#### EST. NO PLAYER CAP NOR REQUIREMENT. NO DEADLINE TO JOIN, EVER!
-
-#### RULES: 1 Deck. No side. Single elim.
-
-### How to Join?
-
-#### To be able to Join this small but fun Tournament, is by being a Twitch Subscriber, and buying a ticket that is purchasable on Dkayed's Discord.  (One Ticket can be purchased for $2, and be kept for as long as you like.)
+### How to join
+The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitch subscriber you can buy tickets on the DLM discord for $2 each. These tickets can be kept for as long as you like. Each ticket gives you one entry for any Meta Weekly tournaments.
 
 ----------
 
-### Meta Weekly #5
+### Meta Weekly #5 - January 31, 2018
+Total price pool: $242
 
-#### Top 5 Players /  Decklist's- Prize Pool : $242
+#### First Place
+SS SelectMaple - $114
 
-#### Top 5 Decklist's of the tournament 
+[deck:Balance](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Fire Formation - Gyokkou; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Wall of Disruption; Curse of Anubis)
 
----------- 
+#### Second Place
+Superwilly42 - $58
 
-![](https://i.imgur.com/R0zxqAJ.png)
+[deck:Restart](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Machine Angel Absolute Ritual; Enemy Controller; Enemy Controller; Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing)
 
-![](https://i.imgur.com/ZAKdfkz.png)
+#### Third/Fourth Place
+3K Flips - $35
 
-![](https://i.imgur.com/kSc1kZX.png)
+[deck:Endless Trap Hell](Man Eater Bug; Man Eater Bug; Man Eater Bug; Sphere Kuriboh; Yomi Ship; 4-Starred Ladybug of Doom; Ghostrick Yuki-onna; D.D. Warrior; D.D. Warrior; D.D. Warrior; Exploder Dragon; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Divine Wrath; Wild Tornado; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph)
 
-![](https://i.imgur.com/uY4EgX6.png)
+#### Third/Fourth Place:
+Clashbruh - $35
 
-
-----------
+[deck:Firm as the EARTH](Reinforced Human Psychic Borg; Reinforced Human Psychic Borg; Sphere Kuriboh; Power Injector; Power Injector; Destructotron; Serene Psychic Witch; Serene Psychic Witch; Serene Psychic Witch; Enemy Controller; Enemy Controller; Psychokinesis; Psychokinesis; Psychokinesis; Floodgate Trap Hole; Floodgate Trap Hole; Divine Wrath; Wall of Disruption; Xing Zhen Hu; Curse of Anubis)

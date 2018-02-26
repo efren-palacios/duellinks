@@ -1,0 +1,128 @@
+{
+    "deck-type": "Dinos",
+    "created-by": "Tekumse",
+    "modified-by": "Tekumse",
+    "modified-on": "February 9th, 2018",
+    "profile": "",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Dinos is an archtype that mainly focuses on controlling the match with backrow and creating a free path for your high attack monsters to establish board control and win."
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Dinosaur Kingdom",
+                        "main":
+                        [
+                            { "name": "Evilswarm Salamandra", "amount": "3" },
+                            { "name": "Sphere Kuriboh", "amount": "3" },
+                            { "name": "Black Brachios", "amount": "2" },
+                            { "name": "Hydrogeddon", "amount": "3" },
+                            { "name": "Cosmic Cyclone", "amount": "2" },
+                            { "name": "Fossil Dig", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "3" },
+                            { "name": "Storm", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Xing Zhen Hu", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "Decklist by Whybona."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Ewilswarm Salamandra", "amount": "1" },
+                            { "name": "Hydroggedon", "amount": "1" },
+                            { "name": "Cosmic Cyclone", "amount": "1" },
+                            { "name": "Sergeant Electro", "amount": "1" },
+                            { "name": "Fossil Dig", "amount": "1" },
+                            { "name": "Xing Zhen Hu", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                },   
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Super Rush Headlong", "amount": "1" },
+                            { "name": "Storm", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "1" },
+                            { "name": "Fire Formation - Gyokku", "amount": "1" },                                                         
+                            { "name": "Black Brachios", "amount": "1" },
+                            { "name": "Mirror Wall", "amount": "1" }, 
+                            { "name": "Metalmorph", "amount": "1" }, 
+                            { "name": "Divine Wrath", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- Keep your Backrow light only set the cards that you might need during your next opponents turn. Try to predict your opponents moves and plan a few turns ahead according to your predictions."
+                }
+            ]
+        }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=zIsEs-JJe9U"
+    ]
+}

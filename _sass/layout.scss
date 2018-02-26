@@ -114,35 +114,10 @@ ul
 }
 
 p img, li img{
-  width: 50%;
   max-width: 100%;
   margin: auto;
   padding-bottom: 10px;
   display: block;
-}
-
-.img-w-100{
-  > * {
-    width: 100%;
-  }
-}
-
-.img-w-75{
-  > * {
-    width: 75%;
-  }
-}
-
-.img-w-50{
-  > * {
-    width: 50%;
-  }
-}
-
-.img-w-25{
-  > * {
-    width: 25%;
-  }
 }
 
 @media only screen and (max-aspect-ratio: 13/9) {
@@ -516,40 +491,14 @@ h6 { font-size: 18px; }
 
 h1, h2, h3, h4, h5, h6
 {
-  margin-bottom: 0px;
+  margin-top: 15px;
+  margin-bottom: 5px;
 }
 
 strong
 {
   letter-spacing: 0.5px;
   font-family: "Alegreya-Medium" !important;
-}
-
-// MARKDOWN STUFF
-.markdown
-{
-  h1 { margin-bottom: -5px; }
-  h3 { margin-top: 25px; }
-  h6 { margin-top: 2px; }
-
-  .deck-container
-  {
-    margin: 0 auto;
-
-    &.left  { margin-left:  0px; }
-    &.right { margin-right: 0px; }
-  }
-
-  .card-hover
-  {
-    color: #2F7D9C !important;
-  }
-
-  .mdstyle-center
-  {
-    display: block;
-    text-align: center;
-  }
 }
 
 /* Easy autocomplete override */
@@ -618,87 +567,11 @@ strong
   }
 }
 
-.carousel-indicators{
-  bottom: -50px;
-}
-
-.carousel-indicators li{
-  width: 30px;
-  height: 30px;
-}
-
-.carousel-size-1-3{
-  width: 33%;
-  margin-bottom: 40px;
-}
-
-.carousel-size-2-3{
-  width: 66%;
-  margin-bottom: 40px;
-}
-
-.carousel-size-3-3{
-  width: 100%;
-  margin-bottom: 40px;
-}
-
-.carousel-image-size-h3{
-  height: 40rem;
-  max-width: 100%;
-  margin: auto;
-}
-
-.carousel-image-size-h2{
-  height: 30rem;
-  max-width: 100%;
-  margin: auto;
-}
-
-.carousel-image-size-h1{
-  height: 20rem;
-  max-width: 100%;
-  margin: auto;
-}
-
-@media only screen and (max-aspect-ratio: 13/9) {
-  .carousel-size-1-3{
-    width: 100%;
-  }
-
-  .carousel-size-2-3{
-    width: 100%;
-  }
-
-  .carousel-size-3-3{
-    width: 100%;
-  }
-
-  .carousel-image-size-h3{
-    height: 30rem;
-  }
-
-  .carousel-image-size-h2{
-    height: 22.5rem;
-  }
-
-  .carousel-image-size-h1{
-    height: 15rem;
-  }
-}
-
-.active img{
-	-webkit-filter: brightness(1.5);
-	filter: brightness(1.5);
-}
-
-.carousel-miniature{
-  width: 40px;
-  height: 40px;
-}
-
 .video-wrapper
 {
   position: relative;
+  border: 1px solid #ffffff1a;
+  margin-bottom: 30px;
 	padding-bottom: 56.25%; /* 16:9 */
 	padding-top: 25px;
 	height: 0;
@@ -711,4 +584,9 @@ strong
     width: 100%;
     height: 100%;
   }
+}
+
+.guides-filters
+{
+  margin-bottom: 10px !important;
 }

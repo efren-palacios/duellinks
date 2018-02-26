@@ -130,16 +130,16 @@
                 },   
                 {
                     "paragraph": "- Ancient Gears are all about adapting. This page is focused on a competitive environment, but the Ranked ladder might be reflected differently."
-                }     
-            ]
-        },    
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                
+                }           
             ]
         }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=4GwZP2Ak7D4"
     ]
 }

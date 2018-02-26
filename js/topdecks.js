@@ -27,8 +27,10 @@ function InitializeTopDecksViewModel()
             {
                 if(TopDecksViewModel.activeDeckType() != decktype)
                 {
-                    var newDecks = $.map($(TopDecksViewModel.deckTypes()).filter(function(){ return this.id === decktype.id}), function(value, index){ return value.decks });
-                    var newSkills = RemoveDuplicates($.map(newDecks, function(value, index){ return value.skill }));
+                    var newDeckType = $(TopDecksViewModel.deckTypes()).filter(function(){ return this.id === decktype.id});
+                    var newDecks  = $.map(newDeckType, function(value, index){ return value.decks });
+                    var newSkills = $.map(newDeckType, function(value, index){ return value.skills });
+                    //var newSkillNames = RemoveDuplicates($.map(newDecks, function(value, index){ return value.skill }));
                     
                     TopDecksViewModel.filteredSkills(newSkills);
 
@@ -58,7 +60,7 @@ function InitializeTopDecksViewModel()
             {
                 if(TopDecksViewModel.activeSkill() != skill)
                 {
-                    var newDecks = $(filteredDecksByType).filter(function(){return this.skill === skill});
+                    var newDecks = $(filteredDecksByType).filter(function(){return this.skill === skill.display});
                     
                     if(newDecks.length !== 0)
                         newDecks.sort(SortDecks);

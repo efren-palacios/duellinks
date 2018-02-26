@@ -1,22 +1,42 @@
 <head>
+
+    {% include google-analytics.html %}
+
+    {% if page.title != null and page.title != "" %}
+        {% assign title = page.title %}
+    {% else %}
+        {% assign title = "Duel Links Meta" %}
+    {% endif %}
+
     <meta charset="UTF-8">
-    <title>Duel Links Meta {{site.post.name}}</title>
+    <title>{{ title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#141e30">
 
-    {% if page.description %}
-        <meta name="description" content="{{ page.description }}">
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:type"  content="website" />
+    <meta property="og:url"   content="{{site.url}}{{page.url}}" />
+
+    {% if page.image %}
+        <meta property="og:image" content="{{site.url}}{{page.image}}" />
     {% endif %}
+
+    {% if page.description %}
+        <meta property="og:description" content="{{page.description}}" />
+        <meta name="description" content="{{page.description}}">
+    {% endif %}
+
+    {% assign default-keywords = "duel links, duel links meta, yugioh duel links" %}
 
     {% if page.keywords %}
-        <meta name="keywords" content="duel links, duel links meta, yugioh duel links, {{ page.keywords }}">
+        <meta name="keywords" content="{{default-keywords}}, {{page.keywords}}">
     {% else %}
-        <meta name="keywords" content="duel links, duel links meta, yugioh duel links, tier list, top decks, guide, tournament">
+        <meta name="keywords" content="{{default-keywords}}, tier list, top decks, guides, tournaments, discord, farming">
     {% endif %}
 
-    {% if page.url == "/" || page.url =="/admin/" %}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    {% if page.url == "/" || page.url == "/admin/" %}
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% endif %}
 
     <link rel="icon" sizes="192x192" href="{{site.url}}/img/logos/favicon.png">  

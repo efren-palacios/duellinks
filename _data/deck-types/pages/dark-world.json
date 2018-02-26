@@ -102,16 +102,16 @@
             [
                 {
                     "paragraph": "- You can set your own monsters or spell and traps and destroy them with {Dark World Lightning} to get your combos started."
-                }   
-            ]
-        },
-        {
-            "title": "Guides",
-            "level": 1,
-            "guides": 
-            [
-                
+                }           
             ]
         }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=2o4MtABiWfM"
     ]
 }

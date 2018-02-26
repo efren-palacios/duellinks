@@ -1,0 +1,138 @@
+{
+    "deck-type": "Temple Burn",
+    "created-by": "Hextor",
+    "modified-by": "Hextor",
+    "modified-on": "February 9th, 2018",
+    "profile": "",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Temple burn is a deck type that focuses on the card called Temple of the Mind's Eye and small creatures with the ability to attack directly to win games. Additional to that, the deck relies on heavy backrow protection and stall cards to control the board."
+                },
+                {
+                    "paragraph": "As plan B, the deck contains standard Burn cards like Lava Golem, Burning Land and Mask of the Accursed to help you close the games faster."
+                }      
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Parasite Infestation",
+                        "main":
+                        [
+                            { "name": "Lava Golem", "amount": "2" },
+                            { "name": "Sphere Kuriboh", "amount": "2" },
+                            { "name": "Skystarray", "amount": "1" },
+                            { "name": "Inaba White Rabbit", "amount": "2" },
+                            { "name": "Burning Land", "amount": "1" },
+                            { "name": "Mask of Accursed", "amount": "1" },
+                            { "name": "Temple of the Mind's Eye", "amount": "2" },
+                            { "name": "Jade Insect Whistle", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "3" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Massivemorph", "amount": "3" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "Standard Temple Burn list."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Lava Golem", "amount": "2" },
+                            { "name": "Skystarray", "amount": "1" },
+                            { "name": "Inaba White Rabbit", "amount": "2" },
+                            { "name": "Burning Land", "amount": "1" },
+                            { "name": "Mask of Restrict", "amount": "1" },
+                            { "name": "Temple of the Mind's Eye", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Windstorm of Etaqua", "amount": "1" },
+                            { "name": "Massivemorph", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These are the minimum requirements to start playing the deck effectively."
+                }          
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Emergency Provisions", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" },
+                            { "name": "Draining Shield", "amount": "1" },
+                            { "name": "Aegis of Gaia", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All the cards from the list will help to the deck purposes"
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- LP is a resource, don't be afraid to take some hits, you have cards to recover so it is important to administrate your resources wisely."
+                },   
+                {
+                    "paragraph": "- Cards like Burning Land are a double edge sword, don't play them immediately unless you are sure you can control the board and avoid taking hits, otherwise you will put yourself in disadvantage."
+                },
+                {
+                    "paragraph": "- Temple of the Mind's Eye can be used for offense and defense, since all the battle damage gets reduced/increased to 1000."
+                },
+                {
+                    "paragraph": "- Don't be afraid to force your opponent's backrow, cards like Inaba White Rabbit return to the hand at the end of the turn."
+                }    
+            ]
+        }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        ""
+    ]
+}

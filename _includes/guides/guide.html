@@ -60,12 +60,14 @@
 
     {% if guide.videos != null and guide.videos.size != 0 %}
         <div class="section">
-            <h3>Videos (todo: layout like /stream)</h3>
-            <ul>
+            <h3>Videos</h3>
+            <div class="row">
                 {% for video in guide.videos %}
-                    <li><a href="{{video}}">{{video}}</a></li>
+                    <div class="col-12 col-md-6">
+                        {% include youtube-video.html url=video %}
+                    </div>
                 {% endfor %}
-            </ul>
+            </div>
         </div>
     {% endif %}
 </div>

@@ -1,0 +1,402 @@
+[
+    {
+      "name": "Slate Warrior",
+      "rarity": "UR"
+    },
+    {
+      "name": "Salvage",
+      "rarity": "UR"
+    },
+    {
+      "name": "Abyss Soldier",
+      "rarity": "UR"
+    },
+    {
+      "name": "Ties of the Brethren",
+      "rarity": "UR"
+    },
+    {
+      "name": "Gishki Chain",
+      "rarity": "UR"
+    },
+    {
+      "name": "Mystic Piper",
+      "rarity": "UR"
+    },
+    {
+      "name": "Evigishki Levianima",
+      "rarity": "UR"
+    },
+    {
+      "name": "Archfiend Emperor, the First Lord of Horror",
+      "rarity": "UR"
+    },
+    {
+      "name": "The Legendary Fisherman II",
+      "rarity": "UR"
+    },
+    {
+      "name": "Water Dragon Cluster",
+      "rarity": "UR"
+    },
+    {
+      "name": "Skull Archfiend of Lightning",
+      "rarity": "SR"
+    },
+    {
+      "name": "Warrior of Atlantis",
+      "rarity": "SR"
+    },
+    {
+      "name": "Mysterious Triangle",
+      "rarity": "SR"
+    },
+    {
+      "name": "Power Breaker",
+      "rarity": "SR"
+    },
+    {
+      "name": "Axe of Fools",
+      "rarity": "SR"
+    },
+    {
+      "name": "Evigishki Mind Augus",
+      "rarity": "SR"
+    },
+    {
+      "name": "Gishki Aquamirror",
+      "rarity": "SR"
+    },
+    {
+      "name": "Archfiend Cavalry",
+      "rarity": "SR"
+    },
+    {
+      "name": "Citadel Whale",
+      "rarity": "SR"
+    },
+    {
+      "name": "Sea Stealth Attack",
+      "rarity": "SR"
+    },
+    {
+      "name": "Duoterion",
+      "rarity": "SR"
+    },
+    {
+      "name": "Call of the Archfiend",
+      "rarity": "SR"
+    },
+    {
+      "name": "Archfiend Soldier",
+      "rarity": "R"
+    },
+    {
+      "name": "Shadowknight Archfiend",
+      "rarity": "R"
+    },
+    {
+      "name": "Terrorking Archfiend",
+      "rarity": "R"
+    },
+    {
+      "name": "Pandemonium",
+      "rarity": "R"
+    },
+    {
+      "name": "Archfiend's Roar",
+      "rarity": "R"
+    },
+    {
+      "name": "Alien Warrior",
+      "rarity": "R"
+    },
+    {
+      "name": "Brainwashing Beam",
+      "rarity": "R"
+    },
+    {
+      "name": "Elemental HERO Captain Gold",
+      "rarity": "R"
+    },
+    {
+      "name": "Archfiend General",
+      "rarity": "R"
+    },
+    {
+      "name": "\"A\" Cell Breeding Device",
+      "rarity": "R"
+    },
+    {
+      "name": "Alien Shocktrooper",
+      "rarity": "R"
+    },
+    {
+      "name": "Alien Telepath",
+      "rarity": "R"
+    },
+    {
+      "name": "Alien Hypno",
+      "rarity": "R"
+    },
+    {
+      "name": "Imprisoned Queen Archfiend",
+      "rarity": "R"
+    },
+    {
+      "name": "Alien Overlord",
+      "rarity": "R"
+    },
+    {
+      "name": "Spined Gillman",
+      "rarity": "R"
+    },
+    {
+      "name": "Armed Sea Hunter",
+      "rarity": "R"
+    },
+    {
+      "name": "The Despair Uranus",
+      "rarity": "R"
+    },
+    {
+      "name": "Evigishki Tetrogre",
+      "rarity": "R"
+    },
+    {
+      "name": "Forbidden Arts of the Gishki",
+      "rarity": "R"
+    },
+    {
+      "name": "Gishki Beast",
+      "rarity": "R"
+    },
+    {
+      "name": "Damage Diet",
+      "rarity": "R"
+    },
+    {
+      "name": "Gishki Avance",
+      "rarity": "R"
+    },
+    {
+      "name": "Gishki Psychelone",
+      "rarity": "R"
+    },
+    {
+      "name": "Fishborg Planter",
+      "rarity": "R"
+    },
+    {
+      "name": "Hundred-Footed Horror",
+      "rarity": "R"
+    },
+    {
+      "name": "Mistaken Arrest",
+      "rarity": "R"
+    },
+    {
+      "name": "\"A\" Cell Recombination Device",
+      "rarity": "R"
+    },
+    {
+      "name": "Bonding - D2O",
+      "rarity": "R"
+    },
+    {
+      "name": "Desmanian Devil",
+      "rarity": "R"
+    },
+    {
+      "name": "Downbeat",
+      "rarity": "R"
+    },
+    {
+      "name": "Showdown of the Secret Sense Scroll Techniques",
+      "rarity": "R"
+    },
+    {
+      "name": "Pandemonium Watchbear",
+      "rarity": "N"
+    },
+    {
+      "name": "Vilepawn Archfiend",
+      "rarity": "N"
+    },
+    {
+      "name": "Darkbishop Archfiend",
+      "rarity": "N"
+    },
+    {
+      "name": "Desrook Archfiend",
+      "rarity": "N"
+    },
+    {
+      "name": "Infernalqueen Archfiend",
+      "rarity": "N"
+    },
+    {
+      "name": "Checkmate",
+      "rarity": "N"
+    },
+    {
+      "name": "Mokey Mokey",
+      "rarity": "N"
+    },
+    {
+      "name": "Absolute End",
+      "rarity": "N"
+    },
+    {
+      "name": "Mokey Mokey King",
+      "rarity": "N"
+    },
+    {
+      "name": "Mokey Mokey Smackdown",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Grey",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Mars",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Skull",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Hunter",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Mother",
+      "rarity": "N"
+    },
+    {
+      "name": "Cosmic Horror Gangi'el",
+      "rarity": "N"
+    },
+    {
+      "name": "Flying Saucer Muusik'i",
+      "rarity": "N"
+    },
+    {
+      "name": "Crop Circles",
+      "rarity": "N"
+    },
+    {
+      "name": "Orbital Bombardment",
+      "rarity": "N"
+    },
+    {
+      "name": "Corruption Cell \"A\"",
+      "rarity": "N"
+    },
+    {
+      "name": "\"A\" Cell Scatter Burst",
+      "rarity": "N"
+    },
+    {
+      "name": "Otherworld - The \"A\" Zone",
+      "rarity": "N"
+    },
+    {
+      "name": "\"A\" Cell Incubator",
+      "rarity": "N"
+    },
+    {
+      "name": "Golden Flying Fish",
+      "rarity": "N"
+    },
+    {
+      "name": "Alien Kid",
+      "rarity": "N"
+    },
+    {
+      "name": "Mermaid Archer",
+      "rarity": "N"
+    },
+    {
+      "name": "Mirror Ladybug",
+      "rarity": "N"
+    },
+    {
+      "name": "Gishki Vanity",
+      "rarity": "N"
+    },
+    {
+      "name": "Aquamirror Meditation",
+      "rarity": "N"
+    },
+    {
+      "name": "Gishki Reliever",
+      "rarity": "N"
+    },
+    {
+      "name": "Gishki Noellia",
+      "rarity": "N"
+    },
+    {
+      "name": "Gishki Mollusk",
+      "rarity": "N"
+    },
+    {
+      "name": "Aquamirror Illusion",
+      "rarity": "N"
+    },
+    {
+      "name": "Damage Vaccine Ω MAX",
+      "rarity": "N"
+    },
+    {
+      "name": "Underworld Egg Clutch",
+      "rarity": "N"
+    },
+    {
+      "name": "Plasma Ball",
+      "rarity": "N"
+    },
+    {
+      "name": "Fish Rain",
+      "rarity": "N"
+    },
+    {
+      "name": "Sound the Retreat!",
+      "rarity": "N"
+    },
+    {
+      "name": "Gishki Photomirror",
+      "rarity": "N"
+    },
+    {
+      "name": "Different Dimension Deepsea Trench",
+      "rarity": "N"
+    },
+    {
+      "name": "Lemuria, the Forgotten City",
+      "rarity": "N"
+    },
+    {
+      "name": "Interplanetarypurplythorny Beast",
+      "rarity": "N"
+    },
+    {
+      "name": "Terrene Toothed Tsuchinoko",
+      "rarity": "N"
+    },
+    {
+      "name": "Bonding - DHO",
+      "rarity": "N"
+    },
+    {
+      "name": "Mythical Bestiamorph",
+      "rarity": "N"
+    },
+    {
+      "name": "Oops!",
+      "rarity": "N"
+    }
+  ]

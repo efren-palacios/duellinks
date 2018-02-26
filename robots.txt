@@ -1,4 +1,7 @@
 User-agent: *
-Disallow:
+Disallow: /submit-your-deck$
+Disallow: /submit-your-deck/
+Disallow: /skill$
+Disallow: /skill/
 
-Sitemap: https://www.duellinksmeta.com/sitemap.xml
+Sitemap: https://dkayedmeta.netlify.com/sitemap.xml

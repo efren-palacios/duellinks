@@ -6,16 +6,17 @@
 
     <div class="section">
         <h2>TOP DECKS - {{ month[0].name | capitalize }} {{ split[0] }}</h2>
-        <p>Here you can find the latest King of Games decks, the highest PvP ranking in Yugioh Duel Links. Do you have a King of Games Decklist you'd like to see up here on the site? Submit it HERE with proof and it will be featured on our website!</p>
+        <p>Here you can find the latest King of Games decks, the highest PvP ranking in Yugioh Duel Links. Do you have a King of Games Decklist you'd like to see up here on the site? Submit it to duellinksmeta@gmail.com with proof and it will be featured on our website!</p>
     </div>
 
     <div class="section">
         <h4>Don't forget to check out the latest tournament decks as well!</h4>
         <ul>
             <li><a href="/tournaments/meta-championship-series/5/">META CHAMPIONSHIP SERIES #5</a></li>
+            <li><a href="/tournaments/meta-weekly/7/">META WEEKLY #7</a></li>
+            <li><a href="/tournaments/meta-weekly/6/">META WEEKLY #6</a></li>
             <li><a href="/tournaments/meta-weekly/5/">META WEEKLY #5</a></li>
             <li><a href="/tournaments/meta-weekly/4/">META WEEKLY #4</a></li>
-            <li><a href="/tournaments/meta-weekly/3/">META WEEKLY #3</a></li>
         </ul>
     </div>
 
@@ -31,27 +32,30 @@
         <div class="tab-pane fade show active" id="filters" role="tabpanel" aria-labelledby="filters-tab">
             <div class="section">
                 <h4>FILTER BY TYPE</h4>
-                <div class="decktype-filter row" data-bind="foreach: deckTypes()">
+                <div class="row button-row" data-bind="foreach: deckTypes()">
                     <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
                         <img class="decktype-new" data-bind="css: { hidden: $root.deckTypeHasNewDecks($data) == false }" src="/img/assets/new.png" />
                         <div class="btn-decktype" data-bind="css: { active: $root.activeDeckType() === $rawData }, click: $root.filterByType">
-                            <img  class="decktype-card" data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + card }" />
+                            <img  class="decktype-card"    data-bind="attr: { src: 'https://yugiohprices.com/api/card_image/' + card }" />
                             <span class="decktype-display" data-bind="text: display"></span>
-                            <span class="decktype-count" data-bind="text: count"></span>
+                            <span class="decktype-count"   data-bind="text: count"></span>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="section" id="SkillSelection" data-bind="css: { hidden: $root.filteredSkills().length == 0}">
                 <h4>REFINE BY SKILL</h4>
-                <div class="skill-filter row" data-bind="foreach: filteredSkills">
+                <div class="row button-row" data-bind="foreach: filteredSkills">
                     <div class="btn-wrapper col-sm-4 col-md-3 col-lg-2">
-                        <span class="decktype-display" data-bind="text: $rawData, css: { active: $root.activeSkill() === $rawData }, click: $root.filterByTypeAndSkill"></span>
+                        <div class="btn-decktype btn-small" data-bind="css: { active: $root.activeSkill() === $rawData }, click: $root.filterByTypeAndSkill">
+                            <span class="decktype-display"  data-bind="text: display"></span>
+                            <span class="decktype-count"    data-bind="text: count"></span>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="section">
-                <table id="TopDecksTable" class="hover">
+                <table id="TopDecksTable" class="hover row-links">
                     <thead>
                         <tr>
                             <th class="thumb-col"></th>

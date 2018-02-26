@@ -217,3 +217,29 @@
   }
 }
 /* ------------------------ */
+
+/* ------ MORE ARTICLES ------- */
+
+.articleButton {
+  width: 100%;
+  cursor: pointer;
+}
+
+.articleButton:focus {
+  box-shadow: none;
+}
+
+.articleButton:disabled {
+  cursor: default;   
+}
+
+.articleButton:disabled:hover {
+  background-color: #007bff;
+}
+
+.articleButtonColumn {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/* ------------------------ */

@@ -20,7 +20,7 @@
     "description": "The skill is activated randomly when your turn starts. Your Life Points does not get decreased to less than 1 until your opponent's next turn ends."
   },
   {
-    "name": "Reinforcement",
+    "name": "Reinforcements",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Warrior-Type monster."
   },
   {
@@ -217,7 +217,7 @@
   },
   {
     "name": "Mind Scan",
-    "description": "If your Life Points are 3000 or more, you can see the cards Set in your opponent's field."
+    "description": "From the third turn and onward, you can see the opponent's set cards as long as your Life Points are 3000 or higher."
   },
   {
     "name": "Master of Rites",
@@ -261,7 +261,7 @@
   },
   {
     "name": "Restart",
-    "description": "Can be used after starting hand is distributed. Shuffle all the cards from your hand into the Deck. Then draw the starting hand again"
+    "description": "Can be used only once after starting hands are dealt. Reveal are redraw your starting hand."
   },
   {
     "name": "Thunder, Water, and Wind",
@@ -269,7 +269,7 @@
   },
   {
     "name": "Three-Star Demotion",
-    "description": "Can be used by paying 3000 Life Points. Until the End Phase, reduce the Level of all monsters in your hand by 3. This skill can only be used once per turn."
+    "description": "Can be used when your Life Points are 1000 or below. Until the End Phase, reduce the Levels of all monsters in your hand by 3. This skill can be used on 'Suijin', 'Kazejin' and 'Sanga of the Thunder' regardless of your remaining Life Points. This skill can only be used once per Duel."
   },
   {
     "name": "Labyrinth Builder",
@@ -329,19 +329,15 @@
   },
   {
     "name": "Where the Heroes Dwell",
-    "description": "Can be used after you Life Points are 2000 or below. Play the Field Spell 'Skyscraper'. If there already is Field Spell on your side of the Field, Return it to your hand. This skill can only be used once per duel."
+    "description": "Can be used after you Life Points are 3000 or below. Play the Field Spell 'Skyscraper'. If there already is Field Spell on your side of the Field, Return it to your hand. This skill can only be used once per duel."
   },
   {
     "name": "Fusion Time!",
     "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand."
   },
   {
-    "name": "Reinforcement",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster."
-  },
-  {
     "name": "Miracle Fusion Time!",
-    "description": "Can be used if your Life Points drop below 500. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel."
+    "description": "Can be used if your Life Points drop below 1000. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "The Tie that Binds",
@@ -353,15 +349,11 @@
   },
   {
     "name": "Destiny Calling",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Dark City.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Dark City.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Master of Fusion",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand."
-  },
-  {
-    "name": "Reinforcement",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster."
   },
   {
     "name": "Bring it!",
@@ -389,27 +381,27 @@
   },
   {
     "name": "Silent as WATER",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Quick as the WIND",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Mighty as FIRE",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Firm as the EARTH",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Radiating LIGHT",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "DARK as Night",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel."
   },
   {
     "name": "Blessing of the Cyber Angel",
@@ -425,7 +417,7 @@
   },
   {
     "name": "Middle Age Mechs",
-    "description": "Begin Duel with the Continuous Spell 'Ancient Gear Castle' activated."
+    "description": "Activate the Continuous Spell 'Ancient Gear Castle' at the beggining of your first turn."
   },
   {
     "name": "Beatdown!",

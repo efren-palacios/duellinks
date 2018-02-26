@@ -33,7 +33,7 @@ permalink: /tournaments/meta-weekly/4/
 
 ----------
 
-### Meta Weekly #4
+### Meta Weekly #4   01/24/2018
 
 #### Top 4 Players /  Decklist's- Prize Pool : $200
 

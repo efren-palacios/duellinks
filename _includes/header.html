@@ -23,18 +23,47 @@
               {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
               {% assign firstDate = changelog[0].date %}
               {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-              {% assign forbidden-changelog = site.data.forbidden-limited-changelog | sort: 'date' | reverse %}
-              {% assign firstForbiddenDate = forbidden-changelog[0].date %}
-              {% assign fomattedFirstForbiddenDate = firstForbiddenDate | date: "%Y-%m-%d" %}
-              {% if fomattedFirstDate > fomattedFirstForbiddenDate %}
-                <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
-              {% else %}
-                <small class="text-muted">Last Updated: {{ fomattedFirstForbiddenDate | timeago }}</small> 
-              {% endif %}
+              <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
             {% elsif page.url == "/events/" %}
               {% for event in site.categories.event limit:1 %}
                 <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}
+            {% elsif page.url == "/top-decks/" %}
+              {% assign years = site.data.top-decks | sort %}
+
+              {% for year in years %}               
+                {% if year[0] != "pending" %}                  
+                  {% assign months = year[1] %}  
+                {% endif %}
+              {% endfor %}
+
+              {% assign sorted_months = months | sort %}
+              {% for month in sorted_months %}
+                {% assign current_month = month %}  
+              {% endfor %}
+
+              {% assign deck_types = current_month[1] %}
+              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+
+              {% for deck_type in deck_types %}
+                {% for deck in deck_type[1] %}
+                  {% assign currentCreated = deck[1].created | date: "%Y-%m-%d" %}
+                  {% if currentCreated > lastCreated %}
+                    {% assign lastCreated = currentCreated %}
+                  {% endif %}
+                {% endfor %}
+              {% endfor %}
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
+            {% elsif page.url == "/guides/" %} 
+              {% assign filteredPosts = site.posts | filter_posts %}
+              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+              {% for post in filteredPosts %}
+                {% assign formattedDate = post.date | date: "%Y-%m-%d" %}
+                {% if formattedDate > lastCreated %}
+                  {% assign lastCreated = formattedDate %}
+                {% endif %}
+              {% endfor %}
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}

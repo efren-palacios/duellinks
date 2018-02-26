@@ -1,0 +1,127 @@
+{
+    "deck-type": "Snipe Hunter",
+    "created-by": "Tutpup",
+    "modified-by": "Tutpup",
+    "modified-on": "February 9th, 2018",
+    "profile": "Tutpup",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Snipe Hunter is a control deck that evolved/share a lot of similarities with Wallet Control and Volcanics. The goal of the deck is to achieve complete board control through the aid of Snipe Hunter, Sergeant Electro, and Blaze Accelerator (if you run the Volcanic Shell version)."
+                },   
+                {
+                    "paragraph": "The biggest difference between Snipe Hunter and Wallet Control/Volcanics is that Snipe Hunter fills the role of Sergeant Electro and Blaze Accelerator, as well as other key cards in Wallet Control/Volcanics, with the small price of a 33% chance to fail."
+                } 
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Switcheroo",
+                        "main":
+                        [
+                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Volcanic Shell", "amount": "3" },
+                            { "name": "Snipe Hunter", "amount": "3" },
+                            { "name": "Sergeant Electro", "amount": "3" },
+                            { "name": "Blaze Accelerator", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "2" },
+                            { "name": "Mirror Wall", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "2" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "Decklist by Tutpup. Between Floodgate and Econ it makes the CA matchup better than the version I ran in MCS, but it has less general protection. However, the Enemy Controllers deals with majority of the tier 1-3 decks as well as the Sphere Kuriboh/Curse of Anubis that I ran before does."
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Snipe Hunter", "amount": "2" },
+                            { "name": "Volcanic Shell", "amount": "3" },
+                            { "name": "Volcanic Rocket", "amount": "3" },
+                            { "name": "Sergeant Electro", "amount": "3" },
+                            { "name": "Blaze Accelerator", "amount": "1" },
+                            { "name": "Mirror Wall", "amount": "2" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                }      
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Floodgate Trap Hole", "amount": "1" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "The Regulation of Tribe", "amount": "1" },
+                            { "name": "Sphere Kuriboh", "amount": "1" }
+                        ]
+                    }        
+                },
+                {
+                    "paragraph": "All of these cards are optional but excellent additions."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- Snipe Hunter isn't 'meant' to win the dice roll as often as it's 'meant' to force chainable backrow such as Enemy Controller and Red-eyes Spirit."
+                },   
+                {
+                    "paragraph": "- You can use the combination of Volcanic Shell + Switcheroo to go +1."
+                },
+                {
+                    "paragraph": "- Generally you want to keep Snipe Hunter in hand until you have some sort of board control with either backrow and/or Electro."
+                }   
+            ]
+        }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=GjshyQl_ElM"
+    ]
+}
