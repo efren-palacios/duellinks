@@ -1,7 +1,7 @@
 module Jekyll
   module ArrayFilter
     def filter_posts(posts)
-      posts.find_all { |post| (post['category'] == 'deck-type-guide' or post['category'] == 'new-players' or post['category'] == 'tournament' or post['category'] == 'competitive') and (post['hide'] == false or post['hide'] == nil) }
+      posts.find_all { |post| (post['category'] == 'guide' or post['category'] == 'tournament') and (post['hide'] == false or post['hide'] == nil) }
     end
   end
   module DateFilter

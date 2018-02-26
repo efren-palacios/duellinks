@@ -28,7 +28,8 @@
         <div class="section">
             <h3>Guides</h3>
             <div class="row card-collection">
-                {% for deckTypeGuide in site.categories.deck-type-guide %}
+                {% assign deckTypeGuides = site.categories.guide | where: "sub-category", "deck-type" %}
+                {% for deckTypeGuide in deckTypeGuides %}
                     {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
                     {% if guide.guides contains link %}
                         <div class="col-sm-6 col-12 card-deck">

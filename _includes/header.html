@@ -1,11 +1,11 @@
 <div class="row card-collection">
-  {% assign pages = site.categories.header | sort: "order" %}
+  {% assign pages = site.categories.page | where: "sub-category", "main" | sort: "order" %}
   {% for page in pages %}
     <div class="col-sm-4 col-12 card-deck header">
       <div class="card">
         <div class="zoom">
           <a href={{site.url}}{{page.url}}> 
-            {% if page.url == "/events/" %}
+            {% if page.url == "/events-and-farming/" %}
                 {% for event in site.categories.event limit:1 %}
                 <img src="{{event.image}}" class="card-img-top lazyload" />
               {% endfor %}
@@ -24,7 +24,7 @@
               {% assign firstDate = changelog[0].date %}
               {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
               <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
-            {% elsif page.url == "/events/" %}
+            {% elsif page.url == "/events-and-farming/" %}
               {% for event in site.categories.event limit:1 %}
                 <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}

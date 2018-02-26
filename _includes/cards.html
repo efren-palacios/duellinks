@@ -4,7 +4,7 @@
 
 <div class="row card-collection">
   {% for article in site.posts %}
-    {% if article.category != 'header' and article.category != 'deck-type-page' and article.pinned == true %}
+    {% if article.category != 'page' and article.pinned == true %}
       {% if article.hide == null or article.hide == false %}
         {% capture _ %}{% increment counter %}{% endcapture %}
         <div class="col-sm-6 col-12 card-deck">
@@ -22,7 +22,7 @@
               <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                       {% if article.author == 'Dkayed' %}
-                      By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
+                      By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %} <!-- TODO CHECK FIRST -->
                       By <b><a class="text-warning" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
                     </small>
               </div>
@@ -38,7 +38,7 @@
   {% endfor %}
 
   {% for article in site.posts %}
-    {% if article.category != 'header' and article.category != 'deck-type-page' %}
+    {% if article.category != 'page' %}
       {% if article.pinned == true %}
         {% capture _ %}{% increment pinnedPosts %}{% endcapture %}
       {% endif %}

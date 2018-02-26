@@ -30,7 +30,7 @@
           {% endif %}
         </li>
         <li class="nav-item active">
-          {% if page.url contains "/new-players/" %}
+          {% if page.url contains "/guides/" %}
             <a class="nav-link active" href="/guides/">Guides</a>
           {% else %}
             <a class="nav-link" href="/guides/">Guides</a>
@@ -44,7 +44,12 @@
           {% endif %}
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/events/">New Event</a>
+          {% if page.url contains "/farming-and-events/" %}
+            <a class="nav-link active" href="/farming-and-events/">Farming & Events</a>
+          {% else %}
+            <a class="nav-link" href="/farming-and-events/">Farming & Events</a>
+          {% endif %}
+          
         </li>
       </ul>
     </div>   
