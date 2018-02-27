@@ -5,7 +5,7 @@ title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
 image: /img/events/crowler.png
 category: event
-ended: false
+ended: true
 comments: true
 description: Dr. Vellian Crowler, the Head Professor and Department Chair at Duel Academy is back with his Ancient Gears. Solve his Tricky Tests to obtain new rewards. 
 keywords: event, crowler, dr crowler, dr vellian crowler, tricky tests, gate event, ancient gears, farm
