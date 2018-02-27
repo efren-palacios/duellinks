@@ -13,6 +13,35 @@ keywords: event, events, new event, farming, duel assessment, score, farm decks
 permalink: /farming-and-events/
 ---
 
+{% include heading.html title='Active Events' %}
+
+<div class="row card-collection">
+  {% assign active-events = site.categories.event | where: "ended", false %}
+  {% for event in active-events %}
+    {% if event.hide == null or event.hide == false %}
+    <div class="col-sm-6 col-12 card-deck">
+      <div class="card">
+        <div class="zoom">
+          <a href="{{event.url}}" class="gallerypic" title="">
+            <img src="{{event.image}}" class="card-img-top lazyload" />
+          </a>
+        </div>
+        <div class="card-block text-white">
+          <a href="{{ site.url }}{{ event.url }}">
+            <h4 class="card-title">{{event.title}}</h4>
+          </a>
+          <div class="text-white">
+            <small class="text-muted">Last Updated: {{ event.date | timeago }}
+              By <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
+            </small>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
 {% include heading.html title='Farming' %}
 
 <div class="row card-collection">
@@ -46,34 +75,6 @@ permalink: /farming-and-events/
   </div>
 </div>
 
-{% include heading.html title='Active Events' %}
-
-<div class="row card-collection">
-  {% assign active-events = site.categories.event | where: "ended", false %}
-  {% for event in active-events %}
-    {% if event.hide == null or event.hide == false %}
-    <div class="col-sm-6 col-12 card-deck">
-      <div class="card">
-        <div class="zoom">
-          <a href="{{event.url}}" class="gallerypic" title="">
-            <img src="{{event.image}}" class="card-img-top lazyload" />
-          </a>
-        </div>
-        <div class="card-block text-white">
-          <a href="{{ site.url }}{{ event.url }}">
-            <h4 class="card-title">{{event.title}}</h4>
-          </a>
-          <div class="text-white">
-            <small class="text-muted">Last Updated: {{ event.date | timeago }}
-              By <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
-            </small>
-          </div>
-        </div>
-      </div>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
 
 {% include heading.html title='Past Events' %}
 
