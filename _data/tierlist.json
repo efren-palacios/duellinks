@@ -5,7 +5,6 @@
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" } 
         ] 
     },
@@ -16,7 +15,9 @@
         "types":
         [            
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
-            { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
+            { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" }
         ]
     },
     {
@@ -25,10 +26,9 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [            
-            { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
+            { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" }                
         ]
     },
@@ -58,6 +58,7 @@
         "types":
         [              
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
+            { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
             { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
             { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
             { "id": "trap-monsters",            "display": "Trap Monsters",         "card": "Tiki Soul" },
