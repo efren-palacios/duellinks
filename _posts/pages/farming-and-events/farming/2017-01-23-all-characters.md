@@ -14,9 +14,8 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-{% assign farm-pages    = site.pages | where: "category", "guide" | where: "sub-category", "farming" %}
-{% assign farm-pages-dm = farm-pages | where: "season", "dm" %}
-{% assign farm-pages-gx = farm-pages | where: "season", "gx" %}
+{% assign farm-pages-dm = site.posts | where: "category", "farming" | where: "season", "dm" %}
+{% assign farm-pages-gx = site.posts | where: "category", "farming" | where: "season", "gx" %}
 
 <div class="tab-content">
     <div class="tab-pane fade show active">
