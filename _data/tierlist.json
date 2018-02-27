@@ -27,7 +27,7 @@
         "types":
         [            
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
-            { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" }
+            { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
             { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" }                
         ]
