@@ -41,23 +41,6 @@
         ] 
     },
     {
-        "category": "NotableKoGDecks",
-        "info": "Deck types or decks that are currently being used to achieve King of Games, but have not been proven for tier status.",
-        "types":
-        [
-            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
-            { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
-            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
-            { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
-            { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
-            { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
-            { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
-            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
-            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
-            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
-        ] 
-    },
-    {
         "category": "NewDecks",
         "info": "New deck types or decks that have received new cards that change the deck.",
         "types":
@@ -119,6 +102,16 @@
         "types":
         [    
             { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
+            { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
+            { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
+            { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
+            { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
+            { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
+            { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
+            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
+            { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
+            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
             { "id": "other",     	            "display": "Other",                 "card": "Question" }
         ]
     }
