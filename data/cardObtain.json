@@ -257,12 +257,12 @@
   {
     "name": "Aligator's Sword Dragon",
     "rarity": "R",
-    "how": "joey level 14"
+    "how": "Joey Wheeler Level 14"
   },
   {
     "name": "Alligator's Sword",
     "rarity": "R",
-    "how": "Joey Wheeler level 8"
+    "how": "Joey Wheeler Level 8"
   },
   {
     "name": "Ally of Justice Clausolas",
@@ -317,7 +317,7 @@
   {
     "name": "Alpha the Magnet Warrior",
     "rarity": "R",
-    "how": "Yugi Moto Level Up"
+    "how": "Yugi Muto Level Up"
   },
   {
     "name": "Altar For Tribute",
@@ -335,51 +335,39 @@
     "how": "Land of the Titans"
   },
   {
-    "name": "Amazoness Archer",
-    "how": "Mai Valentine level 40"
+    "name": "Amazoness Archers",
+    "rarity": "SR",
+    "how": "Ranked Duels"
   },
   {
     "name": "Amazoness Blowpiper",
-    "how": "Mai Valentine Level Up"
+    "rarity": "N",
+    "how": "Mai Valentine Level 33"
   },
   {
     "name": "Amazoness Chain Master",
     "rarity": "R",
-    "how": "mai valentine"
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Amazoness Fighter",
     "rarity": "R",
-    "how": "mai valentine"
-  },
-  {
-    "name": "Amazoness Fighting Spirit",
-    "rarity": "SR",
-    "how": "Mai Valentine level 30"
-  },
-  {
-    "name": "Amazoness Heirloon",
-    "rarity": "R",
-    "how": "Mai Valentine level 30"
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Amazoness Paladin",
-    "rarity": "SR",
-    "how": "Mai Valentine Level Up Reward"
-  },
-  {
-    "name": "Amazoness Paladin",
-    "how": "Mai Valentine level 40"
+    "rarity": "UR",
+    "how": "Mai Valentine Level 40"
   },
   {
     "name": "Amazoness Sage",
     "rarity": "SR",
-    "how": "mai valentine"
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Amazoness Shamanism",
-    "rarity": "N",
-    "how": "Mai Valentine Duel Reward"
+    "rarity": "R",
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Amazoness Swords Woman",
@@ -388,7 +376,7 @@
   {
     "name": "Amazoness Tiger",
     "rarity": "R",
-    "how": "mat level 16"
+    "how": "mLevel 16"
   },
   {
     "name": "Amazoness Trainee",
@@ -403,11 +391,11 @@
   {
     "name": "Amazoness Willpower",
     "rarity": "SR",
-    "how": "Mai Valentine"
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Amphibious Bugroth MK-3",
-    "how": "Mako Tsunami level 40"
+    "how": "Mako Tsunami Level 40"
   },
   {
     "name": "An Owl of Luck",
@@ -427,7 +415,7 @@
   {
     "name": "Ancient Elf",
     "rarity": "N",
-    "how": "tea level7"
+    "how": "Tea Gardner Level 7"
   },
   {
     "name": "Ancient Gear Beast",
@@ -502,7 +490,7 @@
   {
     "name": "Ancient Jar",
     "rarity": "N",
-    "how": "odions Starter Deck"
+    "how": "Odions Starter Deck"
   },
   {
     "name": "Ancient Leaf",
@@ -545,7 +533,7 @@
     "how": "Paradox Brothers Level Up Reward"
   },
   {
-    "name": "Anteatereatingant",
+    "name": "AnTeatereatingant",
     "rarity": "SR",
     "how": "Ranked Duel Season Reward"
   },
@@ -587,7 +575,7 @@
   {
     "name": "Aqua Chorus",
     "rarity": "R",
-    "how": "Mai Valentine"
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Aquamirror Cycle",
@@ -807,7 +795,7 @@
   {
     "name": "Baby Dragon",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Babycerasaurus",
@@ -847,7 +835,7 @@
   {
     "name": "Banner of Courage",
     "rarity": "R",
-    "how": "Yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Barkion's Bark",
@@ -872,7 +860,7 @@
   {
     "name": "Battle Ox",
     "rarity": "SR",
-    "how": "seto kaiba lv 30"
+    "how": "Seto Kaiba lv 30"
   },
   {
     "name": "Battle Steer",
@@ -881,7 +869,7 @@
   {
     "name": "Battle Warrior",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Bazoo the Soul-Eater",
@@ -911,7 +899,7 @@
   {
     "name": "Beaver Warrior",
     "rarity": "R",
-    "how": "Yugi Moto level 40"
+    "how": "Yugi Muto Level 40"
   },
   {
     "name": "Beckoning Light",
@@ -930,7 +918,7 @@
   },
   {
     "name": "Beetron",
-    "how": "Weevil Underwood level 40"
+    "how": "Weevil Underwood Level 40"
   },
   {
     "name": "Behemoth the King of All Animals",
@@ -955,12 +943,12 @@
   {
     "name": "Beta The Electromagnetic Warrior",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Beta the Magnet Warrior",
     "rarity": "R",
-    "how": "Yugi Moto Level Up"
+    "how": "Yugi Muto Level Up"
   },
   {
     "name": "Bickuribox",
@@ -975,12 +963,12 @@
   {
     "name": "Big Evolution Pill",
     "rarity": "SR",
-    "how": "Rex Raptor level 30"
+    "how": "Rex Raptor Level 30"
   },
   {
     "name": "Big Insect",
     "rarity": "N",
-    "how": "weevil level 3"
+    "how": "weevil Level 3"
   },
   {
     "name": "Big Koala",
@@ -1048,7 +1036,7 @@
   {
     "name": "Black Ptera",
     "rarity": "SR",
-    "how": "rex raptor level 30"
+    "how": "rex raptor Level 30"
   },
   {
     "name": "Black Tyranno",
@@ -1088,7 +1076,7 @@
   {
     "name": "Blast Held by a tribute",
     "rarity": "UR",
-    "how": "Ishizu Ishtar level 30"
+    "how": "Ishizu Ishtar Level 30"
   },
   {
     "name": "Blast Magician",
@@ -1102,7 +1090,7 @@
   },
   {
     "name": "Blazewing Butterfly",
-    "how": "Weevil Underwood level 40"
+    "how": "Weevil Underwood Level 40"
   },
   {
     "name": "Blazing Hiita",
@@ -1137,12 +1125,12 @@
   {
     "name": "Block Attack",
     "rarity": "R",
-    "how": "Yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Blockman",
     "rarity": "R",
-    "how": "Yugi Moto Drop Reward"
+    "how": "Yugi Muto Drop Reward"
   },
   {
     "name": "Blood Sucker",
@@ -1196,7 +1184,7 @@
   {
     "name": "Blue-Eyes White Dragon",
     "rarity": "UR",
-    "how": "seto kaibas Starter Deck"
+    "how": "Seto Kaibas Starter Deck"
   },
   {
     "name": "Blustering Winds",
@@ -1216,7 +1204,7 @@
   {
     "name": "Bombardment Beetle",
     "rarity": "R",
-    "how": "weevil at level 11"
+    "how": "weevil Level 11"
   },
   {
     "name": "Bonding - D2O",
@@ -1310,7 +1298,7 @@
   {
     "name": "Breath of Light",
     "rarity": "R",
-    "how": "tea Gardner"
+    "how": "Tea Gardner"
   },
   {
     "name": "Bright Future",
@@ -1445,7 +1433,7 @@
   {
     "name": "Burst Stream of Destruction",
     "rarity": "SR",
-    "how": "Seto Kaiba level 21"
+    "how": "Seto Kaiba Level 21"
   },
   {
     "name": "Buster Blader",
@@ -1552,7 +1540,7 @@
   {
     "name": "Card of Sanctity",
     "rarity": "SR",
-    "how": "Pegasus level 30"
+    "how": "Pegasus Level 30"
   },
   {
     "name": "Card of the Soul",
@@ -1572,7 +1560,7 @@
   {
     "name": "Cards from the Sky",
     "rarity": "R",
-    "how": "Tea level 25"
+    "how": "Tea Gardner Level 25"
   },
   {
     "name": "Cards of the Red Stone",
@@ -1586,12 +1574,12 @@
   },
   {
     "name": "Castle of Dark Illusions",
-    "how": "Odion level 40"
+    "how": "Odion Level 40"
   },
   {
     "name": "Castle Walls",
     "rarity": "R",
-    "how": "Yugi Moto Drop Reward"
+    "how": "Yugi Muto Drop Reward"
   },
   {
     "name": "Cat's Ear Tribe",
@@ -1611,7 +1599,7 @@
   {
     "name": "Celtic Guardian",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Centrifugal Field",
@@ -1741,7 +1729,7 @@
   {
     "name": "Chosen One",
     "rarity": "R",
-    "how": "Seto Kaiba level 16"
+    "how": "Seto Kaiba Level 16"
   },
   {
     "name": "Chthonian Alliance",
@@ -1831,7 +1819,7 @@
   {
     "name": "Cobra Jar",
     "rarity": "SR",
-    "how": "rex raptor level 23"
+    "how": "rex raptor Level 23"
   },
   {
     "name": "Cobraman Sakuzy",
@@ -1851,7 +1839,7 @@
   {
     "name": "Collected Power",
     "rarity": "SR",
-    "how": "Rex Raptor level 30"
+    "how": "Rex Raptor Level 30"
   },
   {
     "name": "Colosseum - Cage of the Gladiator Beasts",
@@ -1949,7 +1937,7 @@
   {
     "name": "Court of Justice",
     "rarity": "R",
-    "how": "Tea Gardner level 16"
+    "how": "Tea Gardner Level 16"
   },
   {
     "name": "Covering Fire",
@@ -2043,7 +2031,7 @@
   {
     "name": "Curse of Anubis",
     "rarity": "R",
-    "how": "odion level 21"
+    "how": "Odion Level 21"
   },
   {
     "name": "Curse of Dragon",
@@ -2053,7 +2041,7 @@
   {
     "name": "Curse of Royal",
     "rarity": "R",
-    "how": "odion level 16"
+    "how": "Odion Level 16"
   },
   {
     "name": "Cursed Bamboo Sword",
@@ -2073,7 +2061,7 @@
   {
     "name": "Curtain of the Dark Ones",
     "rarity": "N",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Cyber Angel Benten",
@@ -2192,7 +2180,7 @@
   },
   {
     "name": "D.D Warrior",
-    "how": "Seto Kaiba level 40"
+    "how": "Seto Kaiba Level 40"
   },
   {
     "name": "D.D. Crazy Beast",
@@ -2267,7 +2255,7 @@
   {
     "name": "Dark Burning Attack",
     "rarity": "SR",
-    "how": "Tea Level Up Reward"
+    "how": "Tea Gardner Level Up Reward"
   },
   {
     "name": "Dark cat with white tail",
@@ -2287,7 +2275,7 @@
   {
     "name": "Dark Coffin",
     "rarity": "R",
-    "how": "Odion level 10"
+    "how": "Odion Level 10"
   },
   {
     "name": "Dark Crusader",
@@ -2307,7 +2295,7 @@
   {
     "name": "Dark Energy",
     "rarity": "R",
-    "how": "Seto Kaiba level 11"
+    "how": "Seto Kaiba Level 11"
   },
   {
     "name": "Dark Eradicator Warlock",
@@ -2347,7 +2335,7 @@
   {
     "name": "Dark Magic Attack",
     "rarity": "SR",
-    "how": "Yami Yugi level 14"
+    "how": "Yami Yugi Level 14"
   },
   {
     "name": "Dark Magic Curtain",
@@ -2357,7 +2345,7 @@
   {
     "name": "Dark Magician",
     "rarity": "UR",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Dark Magician Girl",
@@ -2367,7 +2355,7 @@
   {
     "name": "Dark Magician Knight",
     "rarity": "R",
-    "how": "Yami yugi level 18"
+    "how": "Yami Yugi Level 18"
   },
   {
     "name": "Dark Magician of Chaos",
@@ -2422,7 +2410,7 @@
   {
     "name": "Dark Red Enchanter",
     "rarity": "SR",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Dark Ruler Ha Des",
@@ -2447,7 +2435,7 @@
   {
     "name": "Dark Witch",
     "rarity": "N",
-    "how": "Mai level 3"
+    "how": "Mai Valentine Level 3"
   },
   {
     "name": "Dark World Grimoire",
@@ -2502,7 +2490,7 @@
   {
     "name": "Deal of Phantom",
     "rarity": "R",
-    "how": "Odion level 14"
+    "how": "Odion Level 14"
   },
   {
     "name": "Decayed Commander",
@@ -2756,7 +2744,7 @@
   {
     "name": "Different Dimension Capsule",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Different Dimension Gate",
@@ -3101,7 +3089,7 @@
   {
     "name": "Droll Bird",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Drooling Lizard",
@@ -3210,7 +3198,7 @@
   {
     "name": "Elegant Egotist",
     "rarity": "R",
-    "how": "Mais Starter Deck"
+    "how": "Mai Starter Deck"
   },
   {
     "name": "Element Doom",
@@ -3333,7 +3321,7 @@
     "how": "Jaden Yuki Drop Reward"
   },
   {
-    "name": "Elemental HERO Steam Healer",
+    "name": "Elemental HERO STeam Healer",
     "rarity": "N",
     "how": "Jaden Yuki Level Reward"
   },
@@ -3455,7 +3443,7 @@
   {
     "name": "Enemy Controller",
     "rarity": "SR",
-    "how": "seto kaiba level 30"
+    "how": "Seto Kaiba Level 30"
   },
   {
     "name": "Energy-Absorbing Monolith",
@@ -3500,7 +3488,7 @@
   {
     "name": "Eternal Drought",
     "rarity": "R",
-    "how": "tea Gardner"
+    "how": "Tea Gardner"
   },
   {
     "name": "Etoile Cyber",
@@ -3645,7 +3633,7 @@
   {
     "name": "Familiar Knight",
     "rarity": "N",
-    "how": "seto kaiba level 14"
+    "how": "Seto Kaiba Level 14"
   },
   {
     "name": "Fatal Abacus",
@@ -3680,7 +3668,7 @@
   {
     "name": "Feral Imp",
     "rarity": "N",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Field Barrier",
@@ -3770,7 +3758,7 @@
   {
     "name": "Fire Sorcerer",
     "rarity": "R",
-    "how": "tea level14"
+    "how": "Tea Gardner Level 14"
   },
   {
     "name": "Firebird",
@@ -3825,7 +3813,7 @@
   {
     "name": "Flame Manipulator",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Flame Ogre",
@@ -3845,7 +3833,7 @@
   {
     "name": "Flame Swordsman",
     "rarity": "R",
-    "how": "joey level 7"
+    "how": "Joey Wheeler Level 7"
   },
   {
     "name": "Flame Tiger",
@@ -3910,7 +3898,7 @@
   {
     "name": "Follow Wind",
     "rarity": "N",
-    "how": "Mai level 14"
+    "how": "Mai Valentine Level 14"
   },
   {
     "name": "Foolish Revival",
@@ -3950,7 +3938,7 @@
   {
     "name": "Forgotten Temple of the Deep",
     "rarity": "SR",
-    "how": "Mako Tsunami level 30"
+    "how": "Mako Tsunami Level 30"
   },
   {
     "name": "Fortress Whale",
@@ -3970,7 +3958,7 @@
   {
     "name": "Fossil Excavation",
     "rarity": "SR",
-    "how": "Rex Ratpor level 25"
+    "how": "Rex Ratpor Level 25"
   },
   {
     "name": "Fragment Fusion",
@@ -3988,9 +3976,9 @@
     "how": "card trader"
   },
   {
-    "name": "Freya,Spirit of Victory",
+    "name": "Freya, Spirit of Victory",
     "rarity": "R",
-    "how": "Tea Gardner at level 14, 21"
+    "how": "Tea Gardner Level 14, 21, 33"
   },
   {
     "name": "Frontier Wiseman",
@@ -4095,7 +4083,7 @@
   {
     "name": "Gaia the Fierce Knight",
     "rarity": "R",
-    "how": "Victory against yami yugi"
+    "how": "Victory against Yami Yugi"
   },
   {
     "name": "Gale Lizard",
@@ -4105,7 +4093,7 @@
   {
     "name": "Gamma the Magnet Warrior",
     "rarity": "SR",
-    "how": "Yugi Moto Level up"
+    "how": "Yugi Muto Level up"
   },
   {
     "name": "Gamushara",
@@ -4115,7 +4103,7 @@
   {
     "name": "Gandora the Dragon of Destruction",
     "rarity": "UR",
-    "how": "Yugi Moto Event"
+    "how": "Yugi Muto Event"
   },
   {
     "name": "Garlandolf, King of Destruction",
@@ -4155,7 +4143,7 @@
   {
     "name": "Gazelle the King of Mythical Beasts",
     "rarity": "R",
-    "how": "yami yugi"
+    "how": "Yami Yugi"
   },
   {
     "name": "Gearfried the Iron Knight",
@@ -4389,7 +4377,7 @@
   {
     "name": "Giant Soldier of Steel",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Gift Exchange",
@@ -4399,7 +4387,7 @@
   {
     "name": "Gift of the Mystical Elf",
     "rarity": "N",
-    "how": "Tea level 3"
+    "how": "Tea Gardner Level 3"
   },
   {
     "name": "Gil Garth",
@@ -4563,12 +4551,12 @@
   {
     "name": "Goddess of Whim",
     "rarity": "R",
-    "how": "tea at level 25"
+    "how": "Tea Gardner Level 25"
   },
   {
     "name": "Goddess with the Third Eye",
     "rarity": "N",
-    "how": "yami yugi level 25"
+    "how": "Yami Yugi Level 25"
   },
   {
     "name": "Goe Goe the Gallant Ninja",
@@ -4633,7 +4621,7 @@
   {
     "name": "Gorgon's Eye",
     "rarity": "SR",
-    "how": "Pegasus level 30"
+    "how": "Pegasus Level 30"
   },
   {
     "name": "Gozuki",
@@ -4672,7 +4660,7 @@
   },
   {
     "name": "Grasschopper",
-    "how": "Weevil Underwood level 40"
+    "how": "Weevil Underwood Level 40"
   },
   {
     "name": "Grave Lure",
@@ -4692,7 +4680,7 @@
   {
     "name": "Gravekeeper's Assailant",
     "rarity": "R",
-    "how": "ishizu Ishtar level 21"
+    "how": "ishizu Ishtar Level 21"
   },
   {
     "name": "Gravekeeper's Cannonholder",
@@ -4702,7 +4690,7 @@
   {
     "name": "Gravekeeper's Chief",
     "rarity": "SR",
-    "how": "ishizu ishtar level 30"
+    "how": "ishizu ishtar Level 30"
   },
   {
     "name": "Gravekeeper's Curse",
@@ -4712,17 +4700,17 @@
   {
     "name": "Gravekeeper's Oracle",
     "rarity": "SR",
-    "how": "Ishizu Ishtar level 40"
+    "how": "Ishizu Ishtar Level 40"
   },
   {
     "name": "Gravekeeper's Priestess",
     "rarity": "SR",
-    "how": "Ishizu Ishtar level 23"
+    "how": "Ishizu Ishtar Level 23"
   },
   {
     "name": "Gravekeeper's Recruiter",
     "rarity": "SR",
-    "how": "Odion level 30"
+    "how": "Odion Level 30"
   },
   {
     "name": "Gravekeeper's Shaman",
@@ -4730,12 +4718,12 @@
   },
   {
     "name": "Gravekeeper's Spear Soldier",
-    "how": "Ishizu Ishtar level 40"
+    "how": "Ishizu Ishtar Level 40"
   },
   {
     "name": "Gravekeeper's Stele",
     "rarity": "SR",
-    "how": "Ishizu Ishtar level 25"
+    "how": "Ishizu Ishtar Level 25"
   },
   {
     "name": "Gravekeeper's Vassal",
@@ -4744,7 +4732,7 @@
   },
   {
     "name": "Gravekeeper's Visionary",
-    "how": "Ishizu Ishtar level 40"
+    "how": "Ishizu Ishtar Level 40"
   },
   {
     "name": "Gravelstorm",
@@ -4753,7 +4741,7 @@
   },
   {
     "name": "Graverobber",
-    "how": "Joey Wheeler Duel Reward"
+    "how": "Joey Wheeler Drop Reward"
   },
   {
     "name": "Graverobber's Retribution",
@@ -4903,7 +4891,7 @@
   {
     "name": "Gust",
     "rarity": "N",
-    "how": "Mai level 14"
+    "how": "Mai Valentine Level 14"
   },
   {
     "name": "Gust Fan",
@@ -4918,7 +4906,7 @@
   {
     "name": "Gyakutenno Megami",
     "rarity": "N",
-    "how": "Seto Kaiba level 10"
+    "how": "Seto Kaiba Level 10"
   },
   {
     "name": "Half Counter",
@@ -4968,7 +4956,7 @@
   {
     "name": "Hard-sellin' Goblin",
     "rarity": "R",
-    "how": "odion all levels"
+    "how": "Odion all levels"
   },
   {
     "name": "Harpie Dancer",
@@ -4978,37 +4966,37 @@
   {
     "name": "Harpie Girl",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Harpie Lady",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Harpie Lady 1",
     "rarity": "SR",
-    "how": "Mai Level 35"
+    "how": "Mai Valentine Level 35"
   },
   {
     "name": "Harpie Lady 2",
     "rarity": "N",
-    "how": "mai level 7"
+    "how": "Mai Valentine Level 7"
   },
   {
     "name": "Harpie Lady 3",
     "rarity": "R",
-    "how": "mai level 18"
+    "how": "Mai Valentine Level 18"
   },
   {
     "name": "Harpie Lady Phoenix Formation",
     "rarity": "SR",
-    "how": "Mai Valentine level 30"
+    "how": "Mai Valentine Level 30"
   },
   {
     "name": "Harpie Lady Sisters",
     "rarity": "UR",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Harpie's Feather Duster",
@@ -5017,7 +5005,7 @@
   {
     "name": "Harpie's pet dragon",
     "rarity": "SR",
-    "how": "Mai valentine level 30"
+    "how": "Mai Valentine Level 30"
   },
   {
     "name": "Hazy Flame Cerbereus",
@@ -5062,7 +5050,7 @@
   {
     "name": "Heart of the Underdog",
     "rarity": "SR",
-    "how": "joey level 25"
+    "how": "Joey Wheeler Level 25"
   },
   {
     "name": "Heat Wave",
@@ -5082,7 +5070,7 @@
   {
     "name": "Heavy Mech Support Platform",
     "rarity": "SR",
-    "how": "bandit kieth level 30"
+    "how": "bandit kieth Level 30"
   },
   {
     "name": "Helping Robo for Combat",
@@ -5107,7 +5095,7 @@
   {
     "name": "Hercules Beetle",
     "rarity": "N",
-    "how": "Weevil level 10"
+    "how": "Weevil Level 10"
   },
   {
     "name": "Hero Mask",
@@ -5122,7 +5110,7 @@
   {
     "name": "Hero of the East",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Hero's Rule 2",
@@ -5211,7 +5199,7 @@
   {
     "name": "Horn Imp",
     "rarity": "N",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Horus the Black Flame Dragon Lv4",
@@ -5261,7 +5249,7 @@
   {
     "name": "Hunting Instinct",
     "rarity": "SR",
-    "how": "Rex Ratpor level 30"
+    "how": "Rex Ratpor Level 30"
   },
   {
     "name": "Hurricail",
@@ -5276,7 +5264,7 @@
   {
     "name": "Hydro Pressure Cannon",
     "rarity": "R",
-    "how": "mako tsunami level 14"
+    "how": "mako tsunami Level 14"
   },
   {
     "name": "Hydrogeddon",
@@ -5366,7 +5354,7 @@
   {
     "name": "Infinite Dismissal",
     "rarity": "R",
-    "how": "Weevil level 23"
+    "how": "Weevil Level 23"
   },
   {
     "name": "Infinity Dark",
@@ -5376,7 +5364,7 @@
   {
     "name": "Insect  armor with laser cannon",
     "rarity": "SR",
-    "how": "Weevil underwood level 25"
+    "how": "Weevil underwood Level 25"
   },
   {
     "name": "Insect Imitation",
@@ -5411,7 +5399,7 @@
   {
     "name": "Interdimensional Matter Transporter",
     "rarity": "N",
-    "how": "Seto Kaiba level 18"
+    "how": "Seto Kaiba Level 18"
   },
   {
     "name": "Into the Void",
@@ -5481,7 +5469,7 @@
   {
     "name": "Jigen Bakudan",
     "rarity": "R",
-    "how": "Pegasus level 4"
+    "how": "Pegasus Level 4"
   },
   {
     "name": "Jinzo #7",
@@ -5596,7 +5584,7 @@
   {
     "name": "Karbonala Warrior",
     "rarity": "R",
-    "how": "joey level 7"
+    "how": "Joey Wheeler Level 7"
   },
   {
     "name": "Karma of the Destruction Swordsman",
@@ -5681,7 +5669,7 @@
   {
     "name": "Knight's Title",
     "rarity": "R",
-    "how": "Yami Yugi level 21"
+    "how": "Yami Yugi Level 21"
   },
   {
     "name": "Koitsu",
@@ -5711,7 +5699,7 @@
   {
     "name": "Kurama",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Labyrinth of Nightmare",
@@ -5751,7 +5739,7 @@
   {
     "name": "Lala Li-Oon",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Landoise's Luminous Moss",
@@ -5766,7 +5754,7 @@
   {
     "name": "Laser Cannon Armo",
     "rarity": "R",
-    "how": "Weevil Underwood level 11"
+    "how": "Weevil Underwood Level 11"
   },
   {
     "name": "Last Day of Witch",
@@ -5786,7 +5774,7 @@
   {
     "name": "Lava Battleguard",
     "rarity": "R",
-    "how": "Joey level 8"
+    "how": "Joey Level 8"
   },
   {
     "name": "Lava Dragon",
@@ -5831,12 +5819,12 @@
   {
     "name": "Legendary Sword",
     "rarity": "N",
-    "how": "Joey level 16"
+    "how": "Joey Level 16"
   },
   {
     "name": "Leghul",
     "rarity": "R",
-    "how": "weevil at level 7"
+    "how": "weevil Level 7"
   },
   {
     "name": "Legion the Fiend Jester",
@@ -5911,7 +5899,7 @@
   {
     "name": "Lightforce Sword",
     "rarity": "R",
-    "how": "Yami Yugi level 16"
+    "how": "Yami Yugi Level 16"
   },
   {
     "name": "Lightning Conger",
@@ -5956,7 +5944,7 @@
   {
     "name": "Lord of D.",
     "rarity": "R",
-    "how": "seto kaiba level 11"
+    "how": "Seto Kaiba Level 11"
   },
   {
     "name": "Lord Poison",
@@ -6015,7 +6003,7 @@
   },
   {
     "name": "Luster Dragon #2",
-    "how": "Seto Kaiba level 40"
+    "how": "Seto Kaiba Level 40"
   },
   {
     "name": "Lycanthrope",
@@ -6035,7 +6023,7 @@
   {
     "name": "M-Warrior #1",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "M-Warrior #2",
@@ -6105,7 +6093,7 @@
   {
     "name": "Mad Sword Beast",
     "rarity": "R",
-    "how": "rex raptor level 18"
+    "how": "rex raptor Level 18"
   },
   {
     "name": "Magic Drain",
@@ -6145,7 +6133,7 @@
   {
     "name": "Magical Blast",
     "rarity": "SR",
-    "how": "Yugi Moto level 30"
+    "how": "Yugi Muto Level 30"
   },
   {
     "name": "Magical Citadel of Endymion",
@@ -6235,7 +6223,7 @@
   {
     "name": "Magnet Reverse",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Magnetic Mosquito",
@@ -6325,7 +6313,7 @@
   {
     "name": "Manga Ryu-Ran",
     "rarity": "R",
-    "how": "Pegasus level 10"
+    "how": "Pegasus Level 10"
   },
   {
     "name": "Maniacal Servant",
@@ -6345,7 +6333,7 @@
   {
     "name": "Masaki the Legendary Swordsman",
     "rarity": "N",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Mask of Brutality",
@@ -6450,7 +6438,7 @@
   {
     "name": "Mega Thunderball",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Mega Ton Magical Cannon",
@@ -6470,7 +6458,7 @@
   {
     "name": "Megazowler",
     "rarity": "N",
-    "how": "rex raptor level 3"
+    "how": "rex raptor Level 3"
   },
   {
     "name": "Mei-Kou, Master of Barrier",
@@ -6485,7 +6473,7 @@
   {
     "name": "Mesmeric Control",
     "rarity": "R",
-    "how": "Seto Kaiba level 7"
+    "how": "Seto Kaiba Level 7"
   },
   {
     "name": "Metal Armored Bug",
@@ -6535,7 +6523,7 @@
   {
     "name": "Millennium Scorpion",
     "rarity": "SR",
-    "how": "Odion level 30"
+    "how": "Odion Level 30"
   },
   {
     "name": "Milus Radiant",
@@ -6545,7 +6533,7 @@
   {
     "name": "Mimicat",
     "rarity": "SR",
-    "how": "Pegasus level 25"
+    "how": "Pegasus Level 25"
   },
   {
     "name": "Mind Haxorz",
@@ -6570,7 +6558,7 @@
   {
     "name": "Minoan Centaur",
     "rarity": "R",
-    "how": "Yugi Moto Drop Reward"
+    "how": "Yugi Muto Drop Reward"
   },
   {
     "name": "Miracle Dig",
@@ -6780,12 +6768,12 @@
   {
     "name": "Mystic Box",
     "rarity": "SR",
-    "how": "Yami Yugi level 25"
+    "how": "Yami Yugi Level 25"
   },
   {
     "name": "Mystic Horseman",
     "rarity": "R",
-    "how": "seto kaiba all levels"
+    "how": "Seto Kaiba all levels"
   },
   {
     "name": "Mystic Piper",
@@ -6815,7 +6803,7 @@
   {
     "name": "Mystical Beast of Serket",
     "rarity": "SR",
-    "how": "odion level 25"
+    "how": "Odion Level 25"
   },
   {
     "name": "Mystical Capture Chain",
@@ -6845,7 +6833,7 @@
   {
     "name": "Mystik Wok",
     "rarity": "SR",
-    "how": "Tea Level Up Reward"
+    "how": "Tea Gardner Level 40"
   },
   {
     "name": "Mythical Beast Cerberus",
@@ -7090,7 +7078,7 @@
   {
     "name": "Null and Void",
     "rarity": "R",
-    "how": "Odion level 7"
+    "how": "Odion Level 7"
   },
   {
     "name": "Numen erat Testudo",
@@ -7110,7 +7098,7 @@
   {
     "name": "Nuvia the Wicked",
     "rarity": "R",
-    "how": "yami yugi level 10"
+    "how": "Yami Yugi Level 10"
   },
   {
     "name": "O - Oversoul",
@@ -7120,7 +7108,7 @@
   {
     "name": "Oath of Companionship",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Obedience Schooled",
@@ -7200,7 +7188,7 @@
   {
     "name": "Orca Mega-Fortress of Darkness",
     "rarity": "SR",
-    "how": "Mako Tsuanmi level 30"
+    "how": "Mako Tsuanmi Level 30"
   },
   {
     "name": "Order to Charge",
@@ -7340,7 +7328,7 @@
   {
     "name": "Parasite Paracide",
     "rarity": "R",
-    "how": "weevil at level 16"
+    "how": "weevil Level 16"
   },
   {
     "name": "Parasitic Ticky",
@@ -7370,7 +7358,7 @@
   {
     "name": "Peacock",
     "rarity": "N",
-    "how": "mais Starter Deck"
+    "how": "Mai Valentine Starter Deck"
   },
   {
     "name": "Peeking Goblin",
@@ -7395,7 +7383,7 @@
   {
     "name": "Perfectly Ultimate Great Moth",
     "rarity": "SR",
-    "how": "weevil underwood level 30"
+    "how": "weevil underwood Level 30"
   },
   {
     "name": "Performance of Sword",
@@ -7570,7 +7558,7 @@
   {
     "name": "Polymerization",
     "rarity": "SR",
-    "how": "Joey level 6"
+    "how": "Joey Level 6"
   },
   {
     "name": "Pop-Up",
@@ -7610,7 +7598,7 @@
   {
     "name": "Power of Kaishin",
     "rarity": "R",
-    "how": "Mako Tsunami level 11"
+    "how": "Mako Tsunami Level 11"
   },
   {
     "name": "Powerful Rebirth",
@@ -7659,7 +7647,7 @@
   },
   {
     "name": "Pumpking the King of Ghosts",
-    "how": "Odion level 40"
+    "how": "Odion Level 40"
   },
   {
     "name": "Pumprincess the Princess of Ghosts",
@@ -7733,7 +7721,7 @@
   {
     "name": "Rabid Horseman",
     "rarity": "R",
-    "how": "Seto Kaiba Duel Reward"
+    "how": "Seto Kaiba Drop Reward"
   },
   {
     "name": "Radiant Mirror Force",
@@ -7783,7 +7771,7 @@
   {
     "name": "Rain of Mercy",
     "rarity": "SR",
-    "how": "Yugi Moto level 30"
+    "how": "Yugi Muto Level 30"
   },
   {
     "name": "Rain Storm",
@@ -7798,7 +7786,7 @@
   {
     "name": "Raise Body Heat",
     "rarity": "R",
-    "how": "Rex raptor level 11"
+    "how": "Rex raptor Level 11"
   },
   {
     "name": "Rare Metal Dragon",
@@ -7873,7 +7861,7 @@
   {
     "name": "Red-Eyes B. Dragon",
     "rarity": "UR",
-    "how": "joeys Starter Deck"
+    "how": "Joey Wheelers Starter Deck"
   },
   {
     "name": "Red-Eyes Black Metal Dragon",
@@ -7953,7 +7941,7 @@
   {
     "name": "Relinkuriboh",
     "rarity": "N",
-    "how": "Yugi Moto Level Reward"
+    "how": "Yugi Muto Level Reward"
   },
   {
     "name": "Relinquished",
@@ -7998,7 +7986,7 @@
   {
     "name": "Return of the Doomed",
     "rarity": "SR",
-    "how": "Mako Tsunami level 30"
+    "how": "Mako Tsunami Level 30"
   },
   {
     "name": "Return Soul",
@@ -8018,7 +8006,7 @@
   {
     "name": "Reverse Trap",
     "rarity": "SR",
-    "how": "Odion level 30"
+    "how": "Odion Level 30"
   },
   {
     "name": "Revival Jam",
@@ -8072,7 +8060,7 @@
   },
   {
     "name": "Rite of Spirit",
-    "how": "Ishizu Ishtar level 40"
+    "how": "Ishizu Ishtar Level 40"
   },
   {
     "name": "Ritual Buster",
@@ -8122,7 +8110,7 @@
   {
     "name": "Rocket Warrior",
     "rarity": "N",
-    "how": "joney level 23"
+    "how": "joney Level 23"
   },
   {
     "name": "Rod of the Mind's Eye",
@@ -8137,7 +8125,7 @@
   {
     "name": "Rogue Doll",
     "rarity": "R",
-    "how": "Pegasus level 7,14,21"
+    "how": "Pegasus Level 7,14,21"
   },
   {
     "name": "Roll Out!",
@@ -8207,7 +8195,7 @@
   {
     "name": "Ryu-Kishin Powered",
     "rarity": "N",
-    "how": "seto Kaiba level 14"
+    "how": "Seto Kaiba Level 14"
   },
   {
     "name": "Sabersaurus",
@@ -8247,12 +8235,12 @@
   {
     "name": "Sage's Stone",
     "rarity": "SR",
-    "how": "tea Gardner"
+    "how": "Tea Gardner"
   },
   {
     "name": "Saggi the Dark Clown",
     "rarity": "N",
-    "how": "seto kaiba level 3"
+    "how": "Seto Kaiba Level 3"
   },
   {
     "name": "Salvage",
@@ -8365,14 +8353,14 @@
     "how": "Standard duelists"
   },
   {
-    "name": "Sea Stealth Attack",
+    "name": "Sea STealth Attack",
     "rarity": "SR",
     "how": "Abyss Encounters"
   },
   {
     "name": "Sebek's Blessing",
     "rarity": "R",
-    "how": "Ishizu Ishtar level 14"
+    "how": "Ishizu Ishtar Level 14"
   },
   {
     "name": "Second Booster",
@@ -8397,7 +8385,7 @@
   {
     "name": "Secrets of Gallant",
     "rarity": "R",
-    "how": " All legendary duelists level 30 or less"
+    "how": "All legendary duelists level 30 or less"
   },
   {
     "name": "Sectarian of Secrets",
@@ -8481,8 +8469,8 @@
   },
   {
     "name": "Shadow of Eyes",
-    "rarity": "SR",
-    "how": "Mai Valentine"
+    "rarity": "R",
+    "how": "Mai Valentine Drop Reward"
   },
   {
     "name": "Shadowslayer",
@@ -8507,7 +8495,7 @@
   {
     "name": "Shattered Axe",
     "rarity": "R",
-    "how": "Yugi Moto all levels"
+    "how": "Yugi Muto all levels"
   },
   {
     "name": "Shield & Sword",
@@ -8641,12 +8629,12 @@
   {
     "name": "Silver Bow and Arrow",
     "rarity": "R",
-    "how": "Tea level 11"
+    "how": "Tea Gardner Level 11"
   },
   {
     "name": "Silver Fang",
     "rarity": "N",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Silver Sentinel",
@@ -8746,7 +8734,7 @@
   {
     "name": "Skull Invitation",
     "rarity": "SR",
-    "how": "odion level 30"
+    "how": "Odion Level 30"
   },
   {
     "name": "Skull Knight #2",
@@ -8761,7 +8749,7 @@
   {
     "name": "Skull Mariner",
     "rarity": "R",
-    "how": "mako tsunami level 18"
+    "how": "mako tsunami Level 18"
   },
   {
     "name": "Skull Red Bird",
@@ -8926,7 +8914,7 @@
   {
     "name": "Soul of the Pure",
     "rarity": "R",
-    "how": "Tea level 7"
+    "how": "Tea Gardner Level 7"
   },
   {
     "name": "Soul Resurrection",
@@ -9151,7 +9139,7 @@
   {
     "name": "Statue of the Wicked",
     "rarity": "R",
-    "how": "Odion level 3"
+    "how": "Odion Level 3"
   },
   {
     "name": "Staunch Defender",
@@ -9176,12 +9164,12 @@
   {
     "name": "Stop Defense",
     "rarity": "R",
-    "how": "Yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Storm",
     "rarity": "R",
-    "how": "odion all levels"
+    "how": "Odion all levels"
   },
   {
     "name": "Storm Caller",
@@ -9246,7 +9234,7 @@
   {
     "name": "Sumpremacy Berry",
     "rarity": "SR",
-    "how": "tea Gardner"
+    "how": "Tea Gardner"
   },
   {
     "name": "Super Conductor Tyranno",
@@ -9306,7 +9294,7 @@
   {
     "name": "Swamp Battleguard",
     "rarity": "R",
-    "how": "Joey level 11"
+    "how": "Joey Level 11"
   },
   {
     "name": "Swarm of Crows",
@@ -9336,7 +9324,7 @@
   {
     "name": "Sword Arm of Dragon",
     "rarity": "N",
-    "how": "Rex raptor level 10"
+    "how": "Rex raptor Level 10"
   },
   {
     "name": "Sword Hunter",
@@ -9371,7 +9359,7 @@
   {
     "name": "Symbol of Friendship",
     "rarity": "R",
-    "how": "Tea level 23"
+    "how": "Tea Gardner Level 23"
   },
   {
     "name": "Symbols of Duty",
@@ -9436,7 +9424,7 @@
   {
     "name": "Temple of the Kings",
     "rarity": "SR",
-    "how": "odion level 23"
+    "how": "Odion Level 23"
   },
   {
     "name": "Temple of the Mind's Eye",
@@ -9606,7 +9594,7 @@
   {
     "name": "The Eye of Truth",
     "rarity": "R",
-    "how": "Ishizu Ishtar level 7"
+    "how": "Ishizu Ishtar Level 7"
   },
   {
     "name": "The Fiend Megacyber",
@@ -9791,7 +9779,7 @@
   {
     "name": "The Stern Mystic",
     "rarity": "R",
-    "how": "yami yugi level 11"
+    "how": "Yami Yugi Level 11"
   },
   {
     "name": "The Thing in the Crater",
@@ -9841,7 +9829,7 @@
   {
     "name": "Thousand Dragon",
     "rarity": "R",
-    "how": "joey level 21"
+    "how": "Joey Wheeler Level 21"
   },
   {
     "name": "Thousand Knives",
@@ -9931,7 +9919,7 @@
   {
     "name": "Toon Alligator",
     "rarity": "R",
-    "how": "Pegaus level 18"
+    "how": "Pegaus Level 18"
   },
   {
     "name": "Toon Buster Blader",
@@ -9959,17 +9947,17 @@
   {
     "name": "Toon Masked Sorcerer",
     "rarity": "SR",
-    "how": "Pegasus level 30"
+    "how": "Pegasus Level 30"
   },
   {
     "name": "Toon Mermaid",
     "rarity": "SR",
-    "how": "Pegasus level 30"
+    "how": "Pegasus Level 30"
   },
   {
     "name": "Toon Rollback",
     "rarity": "R",
-    "how": "Pegasus level 23"
+    "how": "Pegasus Level 23"
   },
   {
     "name": "Toon Summoned Skull",
@@ -9984,7 +9972,7 @@
   {
     "name": "Toon World",
     "rarity": "SR",
-    "how": "Pegasus level 30"
+    "how": "Pegasus Level 30"
   },
   {
     "name": "Tornado",
@@ -10009,7 +9997,7 @@
   {
     "name": "Toy Magician",
     "rarity": "SR",
-    "how": "Yugi Moto Event"
+    "how": "Yugi Muto Event"
   },
   {
     "name": "Tragedy",
@@ -10094,7 +10082,7 @@
   {
     "name": "Triangle Ecstasy Spark",
     "rarity": "N",
-    "how": "Mai level 18"
+    "how": "Mai Valentine Level 18"
   },
   {
     "name": "Tribe-Shocking Virus",
@@ -10289,7 +10277,7 @@
   {
     "name": "Ultra Evolution Pill",
     "rarity": "R",
-    "how": "Rex Raptor level 7"
+    "how": "Rex Raptor Level 7"
   },
   {
     "name": "Umbral Soul",
@@ -10299,7 +10287,7 @@
   {
     "name": "Umi",
     "rarity": "R",
-    "how": "Mako Tsunami level 3"
+    "how": "Mako Tsunami Level 3"
   },
   {
     "name": "Umiiruka",
@@ -10329,7 +10317,7 @@
   {
     "name": "Union Attack",
     "rarity": "SR",
-    "how": "Yugi Moto level 30"
+    "how": "Yugi Muto Level 30"
   },
   {
     "name": "United Front",
@@ -10353,7 +10341,7 @@
   },
   {
     "name": "Uraby",
-    "how": "Rex Raptor level 40"
+    "how": "Rex Raptor Level 40"
   },
   {
     "name": "Urgent Ritual Art",
@@ -10368,7 +10356,7 @@
   {
     "name": "Valkyrion the Magna Warrior",
     "rarity": "UR",
-    "how": "Yugi Moto level reward"
+    "how": "Yugi Muto level reward"
   },
   {
     "name": "Vampire Baby",
@@ -10438,7 +10426,7 @@
   {
     "name": "Versago the Destroyer",
     "rarity": "N",
-    "how": "seto kaiba level 25"
+    "how": "Seto Kaiba Level 25"
   },
   {
     "name": "Victory Viper XX03",
@@ -10463,7 +10451,7 @@
   {
     "name": "Violet Crystal",
     "rarity": "R",
-    "how": "Odion level 11"
+    "how": "Odion Level 11"
   },
   {
     "name": "Viser Des",
@@ -10598,7 +10586,7 @@
   {
     "name": "Water Hazard",
     "rarity": "SR",
-    "how": "Mako Tsunami level 25"
+    "how": "Mako Tsunami Level 25"
   },
   {
     "name": "Wattaildragon",
@@ -10613,7 +10601,7 @@
   {
     "name": "Wattkid",
     "rarity": "N",
-    "how": "yami yugis Starter Deck"
+    "how": "Yami Yugis Starter Deck"
   },
   {
     "name": "Wattsychic Fighter",
@@ -10707,12 +10695,12 @@
   {
     "name": "Windstorm of Etaqua",
     "rarity": "N",
-    "how": "Mai level 25"
+    "how": "Mai Valentine Level 25"
   },
   {
     "name": "Winged Dragon, Guardian of the Fortress #1",
     "rarity": "N",
-    "how": "yami yukevel 7"
+    "how": "Yami Yugi Level 7"
   },
   {
     "name": "Winged Kuriboh",
@@ -10742,7 +10730,7 @@
   {
     "name": "Witch's Apprentice",
     "rarity": "N",
-    "how": "tea at level 18"
+    "how": "Tea Gardner Level 18"
   },
   {
     "name": "Wizard Buster Destruction Sword",
