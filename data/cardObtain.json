@@ -35,6 +35,16 @@
     "how": "Ishizu Ishtar Starter Deck"
   },
   {
+    "name": "'A' Cell Breeding Device",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "'A' Cell Recombination Device",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "A Deal with Dark Ruler",
     "rarity": "N",
     "how": "Galactic Origin"
@@ -80,6 +90,11 @@
     "how": "Valkyries Rage"
   },
   {
+    "name": "Absolute End",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Absorbing Kid from the Sky",
     "rarity": "N",
     "how": "Neo-Impact"
@@ -88,6 +103,11 @@
     "name": "Abyss Flower",
     "rarity": "N",
     "how": "Standard duelists"
+  },
+  {
+    "name": "Abyss Soldier",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Abyss Warrior",
@@ -183,6 +203,56 @@
     "name": "Alchemy Cycle",
     "rarity": "N",
     "how": "Primal Burst"
+  },
+  {
+    "name": "Alien Grey",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Hunter",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Hypno",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Mars",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Mother",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Overload",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Shocktrooper",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Skull",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Telepath",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Alien Warrior",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Aligator's Sword Dragon",
@@ -540,6 +610,21 @@
     "how": "Crimson Kingdom Box"
   },
   {
+    "name": "Archfiend Cavalry",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Archfiend Emperor, the First Lord of Horror",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Archfiend General",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Archfiend Marmot of Nefariousness",
     "rarity": "N",
     "how": "Standard duelists"
@@ -548,6 +633,16 @@
     "name": "Archfiend Mirror",
     "rarity": "N",
     "how": "Ishizu Ishtar Starter Deck"
+  },
+  {
+    "name": "Archfiend Soldier",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Archfiend's Roar",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Armageddon Designator",
@@ -573,6 +668,11 @@
     "name": "Armed Ninja",
     "rarity": "R",
     "how": "All legendary duelists level 30 or less"
+  },
+  {
+    "name": "Armed Sea Hunter",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Armor Break",
@@ -673,6 +773,11 @@
     "name": "Avalanching Aussa",
     "rarity": "N",
     "how": "Ultimate Rising"
+  },
+  {
+    "name": "Axe of Fools",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Axe Raider",
@@ -1114,6 +1219,11 @@
     "how": "weevil at level 11"
   },
   {
+    "name": "Bonding - D2O",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Bonding - H2O",
     "rarity": "R",
     "how": "Bastion Misawa Drop Reward"
@@ -1177,6 +1287,11 @@
     "name": "Brain Research Lab",
     "rarity": "UR",
     "how": "Chaos Compliance"
+  },
+  {
+    "name": "Brainwashing Beam",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Branch!",
@@ -1361,6 +1476,11 @@
     "name": "Caligo Claw Crow",
     "rarity": "R",
     "how": "Valkyries Rage"
+  },
+  {
+    "name": "Call of the Archfiend",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Call of the Earthbound",
@@ -1584,6 +1704,11 @@
     "how": "Bastion Misawa Level Reward"
   },
   {
+    "name": "Checkmate",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Chimera the Flying Mythical Beast",
     "rarity": "SR",
     "how": "Yami Yugi"
@@ -1637,6 +1762,11 @@
     "name": "Chu-Ske the Mouse Fighter",
     "rarity": "N",
     "how": "Land of the Titans"
+  },
+  {
+    "name": "Citadel Whale",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Claw Reacher",
@@ -1777,6 +1907,11 @@
     "how": "Joey Wheeler Level 32"
   },
   {
+    "name": "Corruption Cell 'A'",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Cosmic Compass",
     "rarity": "N",
     "how": "Electric Overload Box"
@@ -1785,6 +1920,11 @@
     "name": "Cosmic Cyclone",
     "rarity": "UR",
     "how": "Galactic Origin"
+  },
+  {
+    "name": "Cosmic Horror Gangi'el",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Cosmo Queen",
@@ -1854,6 +1994,11 @@
     "name": "Crimson Sunbird",
     "rarity": "R",
     "how": "Ultimate Rising"
+  },
+  {
+    "name": "Crop Circles",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Cross Attack",
@@ -2075,6 +2220,11 @@
     "how": "Generation Next"
   },
   {
+    "name": "Damage Diet",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Damage Gate",
     "rarity": "SR",
     "how": "Paradox Brothers Event Drop"
@@ -2093,6 +2243,11 @@
     "name": "Dark Balter the Terrible",
     "rarity": "R",
     "how": "Flames of the Tyrant"
+  },
+  {
+    "name": "Darkbishop Archfiend",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Dark Blade",
@@ -2442,6 +2597,16 @@
     "name": "Des Kangaroo",
     "rarity": "SR",
     "how": "Chaos Compliance"
+  },
+  {
+    "name": "Desmanian Devil",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Desrook Archfiend",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Des Wombat",
@@ -2824,6 +2989,11 @@
     "how": "Chaos Compliance"
   },
   {
+    "name": "Downbeat",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Draconnection",
     "rarity": "N",
     "how": "Mokuba Kaiba Level Reward"
@@ -2959,6 +3129,11 @@
     "how": "Valkarie's Rage"
   },
   {
+    "name": "Duoterion",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Dust Barrier",
     "rarity": "R",
     "how": "Odion all levels"
@@ -3086,6 +3261,11 @@
     "name": "Elemental HERO Burstinatrix",
     "rarity": "N",
     "how": "Jaden Yuki Starter Deck"
+  },
+  {
+    "name": "Elemental HERO Captain Gold",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Elemental HERO Clayman",
@@ -3326,6 +3506,21 @@
     "name": "Etoile Cyber",
     "rarity": "N",
     "how": "Alexis Rhodes Level Reward"
+  },
+  {
+    "name": "Evigishki Levianima",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Evigishki Mind Augus",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Evigishki Tetrogre",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Evil Blast",
@@ -3613,6 +3808,11 @@
     "how": "Mako Tsunami Level Up Reward"
   },
   {
+    "name": "Fishborg Planter",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Five-Headed Dragon",
     "rarity": "UR",
     "how": "Generation Next"
@@ -3698,6 +3898,11 @@
     "how": "weevil underwood all levels"
   },
   {
+    "name": "Flying Saucer Muusik'i",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Fog Control",
     "rarity": "N",
     "how": "Primal Burst"
@@ -3711,6 +3916,11 @@
     "name": "Foolish Revival",
     "rarity": "N",
     "how": "Resonance of Contrast"
+  },
+  {
+    "name": "Forbidden Arts of the Gishki",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Forbidden Chalice",
@@ -4200,6 +4410,31 @@
     "name": "Gilford the Lightning",
     "rarity": "SR",
     "how": "Victory against Joey Wheeler"
+  },
+  {
+    "name": "Gishki Aquamirror",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Gishki Avance",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Gishki Beast",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Gishki Chain",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Gishki Psychelone",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Give and Take",
@@ -5004,6 +5239,11 @@
     "how": "Pegasus all levels"
   },
   {
+    "name": "Hundred-Footed Horror",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Hungry Burger",
     "rarity": "N",
     "how": "Standard duelists"
@@ -5094,6 +5334,11 @@
     "how": "Galactic Origin"
   },
   {
+    "name": "Imprisoned Queen Archfiend",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Inaba White Rabbit",
     "rarity": "N",
     "how": "Valkyries Rage"
@@ -5102,6 +5347,11 @@
     "name": "Infernal Flame Emperor",
     "rarity": "R",
     "how": "Flames of the Tyrant"
+  },
+  {
+    "name": "Infernalqueen Archfiend",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Inferno Hammer",
@@ -6363,6 +6613,11 @@
     "how": "Neo-Impact"
   },
   {
+    "name": "Mistaken Arrest",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Mist Archfiend",
     "rarity": "SR",
     "how": "Primal Burst"
@@ -6391,6 +6646,21 @@
     "name": "Moisture Creature",
     "rarity": "N",
     "how": "Valkyries Rage"
+  },
+  {
+    "name": "Mokey Mokey",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Mokey Mokey King",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Mokey Mokey Smackdown",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Molten Destruction",
@@ -6498,6 +6768,11 @@
     "how": "Galactic Origin"
   },
   {
+    "name": "Mysterious Triangle",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Mystery Hand",
     "rarity": "N",
     "how": "Standard duelists"
@@ -6511,6 +6786,11 @@
     "name": "Mystic Horseman",
     "rarity": "R",
     "how": "seto kaiba all levels"
+  },
+  {
+    "name": "Mystic Piper",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Mystic Plasma Zone",
@@ -6913,6 +7193,11 @@
     "how": "Valkyries Rage"
   },
   {
+    "name": "Orbital Bombardment",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Orca Mega-Fortress of Darkness",
     "rarity": "SR",
     "how": "Mako Tsuanmi level 30"
@@ -7026,6 +7311,16 @@
     "name": "Paladin of White Dragon",
     "rarity": "SR",
     "how": "Neo-Impact"
+  },
+  {
+    "name": "Pandemonium",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
+    "name": "Pandemonium Watchbear",
+    "rarity": "N",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Panzer Dragon",
@@ -7301,6 +7596,11 @@
     "name": "Pot of Generosity",
     "rarity": "N",
     "how": "standard Duelist"
+  },
+  {
+    "name": "Power Breaker",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Power Capsule",
@@ -7955,6 +8255,11 @@
     "how": "seto kaiba level 3"
   },
   {
+    "name": "Salvage",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Samsara",
     "rarity": "N",
     "how": "Ultimate Rising"
@@ -8060,6 +8365,11 @@
     "how": "Standard duelists"
   },
   {
+    "name": "Sea Stealth Attack",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Sebek's Blessing",
     "rarity": "R",
     "how": "Ishizu Ishtar level 14"
@@ -8163,6 +8473,11 @@
     "name": "Shadow Ghoul",
     "rarity": "N",
     "how": "Ultimate Rising"
+  },
+  {
+    "name": "Shadowknight Archfiend",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Shadow of Eyes",
@@ -8290,6 +8605,11 @@
     "how": "Electric Overload Box"
   },
   {
+    "name": "Showdown of the Secret Sense Scroll Techniques",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Shrine of Mist Valley",
     "rarity": "R",
     "how": "Wonder's of the Sky"
@@ -8404,6 +8724,11 @@
     "how": "Chaos Compliance"
   },
   {
+    "name": "Skull Archfiend of Lightning",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Skull Conductor",
     "rarity": "SR",
     "how": "Dawn of Destiny Mini Box"
@@ -8472,6 +8797,11 @@
     "name": "Skystarray",
     "rarity": "N",
     "how": "Chaos Compliance"
+  },
+  {
+    "name": "Slate Warrior",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Slot Machine",
@@ -8732,6 +9062,11 @@
     "name": "Spider Web",
     "rarity": "N",
     "how": "Not Confirmed"
+  },
+  {
+    "name": "Spined Gillman",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Spike Seadra",
@@ -9154,6 +9489,11 @@
     "how": "Victory against Odion"
   },
   {
+    "name": "Terrorking Archfiend",
+    "rarity": "R",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Terrorking Salmon",
     "rarity": "N",
     "how": "Duel Island Gladiator"
@@ -9232,6 +9572,11 @@
     "name": "The Dark - Hex-Sealed Fusion",
     "rarity": "SR",
     "how": "Dawn of Destiny Mini Box"
+  },
+  {
+    "name": "The Despair Uranus",
+    "rarity": "R",
+    "how": "Abyss Encounters"
   },
   {
     "name": "The Dragon's Bead",
@@ -9357,6 +9702,11 @@
     "name": "The Legendary Fisherman",
     "rarity": "UR",
     "how": "Mako Tsunami Starter Deck"
+  },
+  {
+    "name": "The Legendary Fisherman II",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "The Melting Red Shadow",
@@ -9527,6 +9877,11 @@
     "name": "Thunder Nyan Nyan",
     "rarity": "UR",
     "how": "Electric Overload Box"
+  },
+  {
+    "name": "Ties of the Brethren",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Tiger Axe",
@@ -10096,6 +10451,11 @@
     "how": "All legendary duelists level 30 or less"
   },
   {
+    "name": "Vilepawn Archfiend",
+    "rarity": "N",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Violent Rain",
     "rarity": "N",
     "how": "Bastion Misawa Starter Deck"
@@ -10206,6 +10566,11 @@
     "how": "Tea Gardner all levels"
   },
   {
+    "name": "Warrior of Atlantis",
+    "rarity": "SR",
+    "how": "Abyss Encounters"
+  },
+  {
     "name": "Warrior of Zera",
     "rarity": "R",
     "how": "bandit keith all levels"
@@ -10224,6 +10589,11 @@
     "name": "Water Dragon",
     "rarity": "UR",
     "how": "Bastion Misawa Drop Reward"
+  },
+  {
+    "name": "Water Dragon Cluster",
+    "rarity": "UR",
+    "how": "Abyss Encounters"
   },
   {
     "name": "Water Hazard",
