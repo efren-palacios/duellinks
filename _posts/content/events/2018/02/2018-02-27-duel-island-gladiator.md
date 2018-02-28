@@ -5,6 +5,7 @@ title: Duel Island Gladiator
 author: Yami Hammy
 image: /img/events/2018/02/duel-island-gladiator/banner.jpg
 category: event
+ended: false
 comments: true
 description: Duel Island Gladiator, a brand new type of event. Choose a deck to defend while you go on the offensive! Defeat defensive decks to earn rewards. 
 keywords: event, duel island, gladiator, andal, gladiator beast, phantom beast, defending, farm
