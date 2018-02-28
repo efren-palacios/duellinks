@@ -15,6 +15,11 @@
     "how": "Ultimate Rising"
   },
   {
+    "name": "7 Colored Fish",
+    "rarity": "R",
+    "how": "Duel Island Gladiator"
+  },
+  {
     "name": "7 Completed",
     "rarity": "SR",
     "how": "Bandit Keith Level Up Reward"
@@ -1511,7 +1516,7 @@
   {
     "name": "Chain Destruction",
     "rarity": "R",
-    "how": "Yami Yugi level 23"
+    "how": "Yami Yugi Level 21"
   },
   {
     "name": "Chain Healing",
@@ -2130,6 +2135,11 @@
     "how": "Odion level 10"
   },
   {
+    "name": "Dark Crusader",
+    "rarity": "SR",
+    "how": "Duel Island Gladiator"
+  },  
+  {
     "name": "Dark Dragon Ritual",
     "rarity": "N",
     "how": "Resonance of Contrast"
@@ -2747,6 +2757,11 @@
     "name": "Dokuroizo the Grim Reaper",
     "rarity": "N",
     "how": "Bonz Level Reward"
+  },
+  {
+    "name": "Dokurorider",
+    "rarity": "N",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Doma The Angel of Silence",
@@ -3883,6 +3898,11 @@
     "how": "Yugi Moto Level up"
   },
   {
+    "name": "Gamushara",
+    "rarity": "SR",
+    "how": "Duel Island Gladiator"
+  },
+  {
     "name": "Gandora the Dragon of Destruction",
     "rarity": "UR",
     "how": "Yugi Moto Event"
@@ -4349,6 +4369,11 @@
     "name": "Golden Bamboo Sword",
     "rarity": "N",
     "how": "Primal Burst"
+  },
+  {
+    "name": "Golden Homunculus",
+    "rarity": "SR",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Golden Ladybug",
@@ -7104,16 +7129,18 @@
   },
   {
     "name": "Phantom Beast Cross-Wing",
-    "how": "unobtainable"
+    "rarity": "SR",    
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Phantom Beast Rock-Lizard",
-    "how": "Yugi Moto Level 40"
+    "rarity": "UR",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Phantom Beast Wild-Horn",
     "rarity": "SR",
-    "how": "unobtainable"
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Phantom Cricket",
@@ -7352,6 +7379,11 @@
   {
     "name": "Puzzle Reborn",
     "how": "Dawn of Destiny Mini Box"
+  },
+  {
+    "name": "Pyramid Energy",
+    "rarity": "R",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Pyramid of Light",
@@ -7694,6 +7726,11 @@
     "how": "Yami Marik's Level Up Reward / Drop Reward"
   },
   {
+    "name": "Revival of Dokurorider",
+    "rarity": "SR",
+    "how": "Duel Island Gladiator"
+  },
+  {
     "name": "Rhinotaurus",
     "rarity": "R",
     "how": "Generation Next"
@@ -7876,6 +7913,11 @@
     "name": "Sabersaurus",
     "rarity": "R",
     "how": "Blades of Spirits"
+  },
+  {
+    "name": "Saber Beetle",
+    "rarity": "R",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Sacred Crane",
@@ -8577,6 +8619,11 @@
     "how": "Yami Bakura"
   },
   {
+    "name": "Space Mambo",
+    "rarity": "N",
+    "how": "Duel Island Gladiator"
+  },
+  {
     "name": "Space-Time Police",
     "rarity": "N",
     "how": "Chaos Compliance"
@@ -9107,6 +9154,11 @@
     "how": "Victory against Odion"
   },
   {
+    "name": "Terrorking Salmon",
+    "rarity": "N",
+    "how": "Duel Island Gladiator"
+  },
+  {
     "name": "Test Ape",
     "rarity": "R",
     "how": "Galactic Origin"
@@ -9380,6 +9432,11 @@
     "name": "The Spell Absorbing Life",
     "rarity": "N",
     "how": "Ultimate Rising"
+  },
+  {
+    "name": "The Statue of Easter Island",
+    "rarity": "N",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "The Stern Mystic",
@@ -9918,6 +9975,11 @@
     "name": "Union Attack",
     "rarity": "SR",
     "how": "Yugi Moto level 30"
+  },
+  {
+    "name": "United Front",
+    "rarity": "R",
+    "how": "Duel Island Gladiator"
   },
   {
     "name": "Unknown Warrior of Fiend",
