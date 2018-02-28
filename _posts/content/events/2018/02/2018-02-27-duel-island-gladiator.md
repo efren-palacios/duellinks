@@ -13,7 +13,7 @@ permalink: /events/february-2018/duel-island-gladiator/
 
 {% include heading.html title=page.title author=page.author %}
 
-[w50]
+[w75]
 ![Banner](/img/events/2018/02/duel-island-gladiator/banner.jpg)
 
 [slider](https://i.imgur.com/GPKBMhV.jpg)
