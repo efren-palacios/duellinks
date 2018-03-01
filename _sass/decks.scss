@@ -8,7 +8,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 100%;
+  width: 450px;
 
   #label
   {
@@ -28,6 +28,10 @@
       margin-right: 5px;
     }
   }
+}
+
+.deck-container.box-review {
+  width: 100%;  
 }
 
 .card-img
