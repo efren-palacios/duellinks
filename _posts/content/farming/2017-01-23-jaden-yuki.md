@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Jaden Banner](img/events/jaden.png)
+![Jaden Banner](/img/events/jaden.png)
 
 ### General Information
 * Jaden Yuki requires **red** keys to duel at the gate
