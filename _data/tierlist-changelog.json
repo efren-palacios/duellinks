@@ -7,7 +7,11 @@
     "tier-changes": 
     [
         { "type": "gladiator-beasts", "from": 1, "to": 2, "date": 2018-02-27 },
+<<<<<<< HEAD
         { "type": "ancient-gears", "from": 3, "to": "nothing", "date": 2018-01-27 },
+=======
+        { "type": "ancient-gears",  "from": 3, "to": "nothing", "date": 2018-01-27 },
+>>>>>>> 475122202e5e10f95c5e48bd353b3b6113784d99
         { "type": "magnet-warriors", "from": 3, "to": 2, "date": 2018-02-27 },
         { "type": "hazy-flame", "from": 2, "to": 3, "date": 2018-02-27 },
         { "type": "aliens", "from": "nothing", "to": 2, "date": 2018-02-27 },
