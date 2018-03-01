@@ -93,15 +93,7 @@
             { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
             { "id": "jurracs",                  "display": "Jurracs",               "card": "Jurrac Guaiba" },
             { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
-            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" }
-        ]
-    },
-    {
-        "category": "Archive",
-        "info": "Deck types that should no longer be used or displayed but are still here for legacy decks.",
-        "types":
-        [    
-            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
+            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" },
             { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
             { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
@@ -111,7 +103,15 @@
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
-            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" },
+            { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
+        ]
+    },
+    {
+        "category": "Archive",
+        "info": "Deck types that should no longer be used or displayed but are still here for legacy decks.",
+        "types":
+        [    
+            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
             { "id": "other",     	            "display": "Other",                 "card": "Question" }
         ]
     }
