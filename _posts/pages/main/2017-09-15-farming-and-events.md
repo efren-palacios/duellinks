@@ -27,7 +27,7 @@ permalink: /farming-and-events/
           </a>
         </div>
         <div class="card-block text-white">
-          <a href="{{ site.url }}{{ event.url }}">
+          <a href="{{ event.url }}">
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">
@@ -90,7 +90,7 @@ permalink: /farming-and-events/
           </a>
         </div>
         <div class="card-block text-white">
-          <a href="{{ site.url }}{{ event.url }}">
+          <a href="{{ event.url }}">
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">
