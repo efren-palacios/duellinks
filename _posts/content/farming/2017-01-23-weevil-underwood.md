@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Weevil Underwood
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-weevil-underwood.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/weevil-underwood/
 name: Weevil Underwood
 id: weevil-underwood
+image: /img/characters/portrait-weevil-underwood.png
+permalink: /farming/all-characters/weevil-underwood/
 hide: true
 ---
 

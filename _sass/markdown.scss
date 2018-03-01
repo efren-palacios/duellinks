@@ -21,9 +21,12 @@
      .card-hover {
          color: #2F7D9C !important;
     }
-     .mdstyle-center {
+     .center-md {
          display: block;
+         margin: 0 auto;
          text-align: center;
+         display: flex;
+         align-items: center;
     }
 }
  .img-w-100{
@@ -193,7 +196,7 @@
 }
  .scrollbar{
      .image-slider::-webkit-scrollbar {
-         width: 4px;
+         width: 8px;
     }
 }
  .no-select {

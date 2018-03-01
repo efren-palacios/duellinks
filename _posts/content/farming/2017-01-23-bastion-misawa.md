@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Bastion Misawa
 author: Yami Hammy
 category: farming
 season: gx
-image: /img/characters/portrait-bastion-misawa.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/bastion-misawa/
 name: Bastion Misawa
 id: bastion-misawa
+image: /img/characters/portrait-bastion-misawa.png
+permalink: /farming/all-characters/bastion-misawa/
 hide: true
 ---
 

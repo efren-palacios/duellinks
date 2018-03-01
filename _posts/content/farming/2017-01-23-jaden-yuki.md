@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Jaden Yuki
 author: Yami Hammy
 category: farming
 season: gx
-image: /img/characters/portrait-jaden-yuki.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/jaden-yuki/
 name: Jaden Yuki
 id: jaden-yuki
+image: /img/characters/portrait-jaden-yuki.png
+permalink: /farming/all-characters/jaden-yuki/
 hide: true
 ---
 

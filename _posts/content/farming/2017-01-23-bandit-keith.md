@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Bandit Keith
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-bandit-keith.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/bandit-keith/
 name: Bandit Keith
 id: bandit-keith
+image: /img/characters/portrait-bandit-keith.png
+permalink: /farming/all-characters/bandit-keith/
 hide: true
 ---
 

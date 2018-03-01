@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Alexis Rhodes
 author: Yami Hammy
 category: farming
 season: gx
-image: /img/characters/portrait-alexis-rhodes.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/alexis-rhodes/
 name: Alexis Rhodes
 id: alexis-rhodes
+image: /img/characters/portrait-alexis-rhodes.png
+permalink: /farming/all-characters/alexis-rhodes/
 hide: true
 ---
 

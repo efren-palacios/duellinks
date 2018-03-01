@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Maximillion Pegasus
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-maximillion-pegasus.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/maximillion-pegasus/
 name: Maximillion Pegasus
 id: maximillion-pegasus
+image: /img/characters/portrait-maximillion-pegasus.png
+permalink: /farming/all-characters/maximillion-pegasus/
 hide: true
 ---
 

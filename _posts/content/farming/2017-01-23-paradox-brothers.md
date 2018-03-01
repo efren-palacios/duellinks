@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Paradox Brothers
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-paradox-brothers.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/paradox-brothers/
 name: Paradox Brothers
 id: paradox-brothers
+image: /img/characters/portrait-paradox-brothers.png
+permalink: /farming/all-characters/paradox-brothers/
 hide: true
 ---
 

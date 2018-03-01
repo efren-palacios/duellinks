@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Yami Bakura
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-yami-bakura.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/yami-bakura/
 name: Yami Bakura
 id: yami-bakura
+image: /img/characters/portrait-yami-bakura.png
+permalink: /farming/all-characters/yami-bakura/
 hide: true
 ---
 
@@ -53,8 +53,7 @@ hide: true
 ---
 ***Level 40 Equip Farm - created by Jadehex***
 
-[deck:Labyrinth Builder](Gravekeeper's Vassal; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Horn of the Unicorn; Horn of the Unicorn; Horn of the Unicorn; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shield & 
-Sword; Exchange; Secret Pass to the Treasures; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed)
+[deck:Labyrinth Builder](Gravekeeper's Vassal; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Horn of the Unicorn; Horn of the Unicorn; Horn of the Unicorn; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shield & Sword; Exchange; Secret Pass to the Treasures; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed)
 
 **Strategy:**
 * Get a {Gravity Axe - Grarl} and {Horn of the Unicorn} onto {Labyrinth Wall} ASAP

@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Seto Kaiba
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-seto-kaiba.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/seto-kaiba/
 name: Seto Kaiba
 id: seto-kaiba
+image: /img/characters/portrait-seto-kaiba.png
+permalink: /farming/all-characters/seto-kaiba/
 hide: true
 ---
 

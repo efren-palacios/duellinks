@@ -1,19 +1,18 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Tea Gardner
 author: Spooncats
-season: dm
 category: farming
-image: /img/characters/portrait-tea-gardner.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/tea-gardner/
+season: dm
 name: Tea Gardner
 id: tea-gardner
+image: /img/characters/portrait-tea-gardner.png
+permalink: /farming/all-characters/tea-gardner/
 hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
 
 ![Tea Banner](/img/events/tea.png)
 
