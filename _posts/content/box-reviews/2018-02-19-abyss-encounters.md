@@ -16,7 +16,21 @@ permalink: /box-reviews/abyss-encounters/
 [w100]
 ![](/img/boxes/abyss-encounters/banner.jpg)
 
-{% include box.html box=site.data.box.abyss-encounters %}
+### Ultra Rares 
+
+{% include box.html box=site.data.box.abyss-encounters rarity="UR" %}
+
+### Super Rares
+
+{% include box.html box=site.data.box.abyss-encounters rarity="SR" %}
+
+### Rares
+
+{% include box.html box=site.data.box.abyss-encounters rarity="UR" %}
+
+### Normals
+
+{% include box.html box=site.data.box.abyss-encounters rarity="N" %}
 
 ### Archfiends Review by Dkayed
 

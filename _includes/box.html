@@ -1,19 +1,15 @@
-<div class="row">
-    {% for card in include.box %}
-
-        {% assign card-data = site.data.cardsdb[card.name] %}
-
-        <div class="col-sm-2 text-center">
-            <img class="rarity lazyload" src="{{site.url}}/img/assets/{{card.rarity}}.png" />
-            <img src='https://yugiohprices.com/api/card_image/{{card-data.name | url_encode}}' class="img-fluid lazyload" style="margin-bottom: 1rem;" />
+<div class="flex-container">
+    <div class="deck-container left">
+        <div id="deck">
+            <div id="cards">
+                {% for card in include.box %}
+                    {% if card.rarity == include.rarity %}
+                        <div class="item">
+                            <a><img class="dcards" name="cardPopup" src="https://yugiohprices.com/api/card_image/{{ card.name | url_encode }}" alt=""></a>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
         </div>
-        <div class="col-sm-4">
-            <p><b>{{card.name}}</b></p>
-            <p>{{card-data.desc}}</p>
-            {% if card-data.attribute != 0 %}
-                <p class="cardname"><b>ATK:</b> {{card-data.atk | replace: '-2', '?'}} / <b>DEF:</b> {{card-data.def | replace: '-2', '?'}}</p>
-            {% endif %}
-        </div>
-
-    {% endfor %}
+    </div>
 </div>
