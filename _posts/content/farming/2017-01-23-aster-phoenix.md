@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Aster Phoenix
 author: Yami Hammy
 category: farming
 season: gx
-image: /img/characters/portrait-aster-phoenix.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/aster-phoenix/
 name: Aster Phoenix
 id: aster-phoenix
+image: /img/characters/portrait-aster-phoenix.png
+permalink: /farming/all-characters/aster-phoenix/
 hide: true
 ---
 

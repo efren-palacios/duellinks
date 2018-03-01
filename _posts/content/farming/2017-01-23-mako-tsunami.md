@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Mako Tsunami
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-mako-tsunami.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/mako-tsunami/
 name: Mako Tsunami
 id: mako-tsunami
+image: /img/characters/portrait-mako-tsunami.png
+permalink: /farming/all-characters/mako-tsunami/
 hide: true
 ---
 

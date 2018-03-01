@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Joey Wheeler
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-joey-wheeler.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/joey-wheeler/
 name: Joey Wheeler
 id: joey-wheeler
+image: /img/characters/portrait-joey-wheeler.png
+permalink: /farming/all-characters/joey-wheeler/
 hide: true
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Mai Valentine
 author: pll
 category: farming
 season: dm
-image: /img/characters/portrait-mai-valentine.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/mai-valentine/
 name: Mai Valentine
 id: mai-valentine
+image: /img/characters/portrait-mai-valentine.png
+permalink: /farming/all-characters/mai-valentine/
 hide: true
 ---
 

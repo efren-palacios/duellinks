@@ -1,14 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm Yami Bakura
 author: Spooncats
 category: farming
 season: dm
-image: /img/characters/portrait-yami-bakura.png
-date: 2018-01-23
-permalink: /how-to-farm-all-characters/yami-bakura/
 name: Yami Bakura
 id: yami-bakura
+image: /img/characters/portrait-yami-bakura.png
+permalink: /farming/all-characters/yami-bakura/
 hide: true
 ---
 
