@@ -237,7 +237,7 @@ galleryHtml += '</div>
             for card in cardNames
                 deckContainer +=
                                 '<div class="item">
-                                    <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + card.strip + '" alt=""></a>
+                                    <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + CGI.escape(card.strip) + '" alt=""></a>
                                 </div>'
             end
 
