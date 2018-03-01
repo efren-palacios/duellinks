@@ -38,7 +38,7 @@ Celestial - $90
 
 Main Deck:
 
-[deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Enemy Controller; Enemy Controller; Enemy Controller; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam)
+[deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam)
 
 Side Deck:
 
@@ -62,14 +62,14 @@ Whoiskp - $30
 
 Main Deck:
 
-[deck:Balance](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Mysterious Triangle; Enemy Controller; Enemy Controller; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Brainwashing Beam; Brainwashing Beam)
+[deck:Balance](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Mysterious Triangle; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Brainwashing Beam; Brainwashing Beam)
 
 #### Third/Fourth Place:
 SelectMaple - $30
 
 Main Deck:
 
-[deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Super Rush Headlong; Enemy Controller; Enemy Controller; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; %22A%22 Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam; Brainwashing Beam)
+[deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Super Rush Headlong; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Brainwashing Beam; Brainwashing Beam; Brainwashing Beam)
 
 Side Deck:
 
