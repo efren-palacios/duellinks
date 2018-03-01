@@ -35,20 +35,34 @@
             <div class="col-sm-8">
               <p><b>About:</b> {{page.about}}</p>
               <p><b>Accomplishments</b> {{page.accomplishments}}</p>
-              <a href="{{page.facebook}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                <i class="fa fa-square fa-stack-2x" style="color:#3B5998;"></i>
-                <i class="fa fa-facebook  fa-stack-1x" style="color:white;"></i>
-              </a>
 
-              <a href="{{page.youtube}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                <i class="fa fa-square fa-stack-2x" style="color:#FF0000;"></i>
-                <i class="fa fa-youtube  fa-stack-1x" style="color:white;"></i>
-              </a>
+              {% if page.twitch %}
+                <a href="{{page.twitch}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                  <i class="fa fa-square fa-stack-2x" style="color:#6441A4; "></i>
+                  <i class="fa fa-twitch  fa-stack-1x" style="color:white; "></i>
+                </a>
+              {% endif %} 
 
-              <a href="{{page.twitter}}" target="_blank" class="fa-stack fa-lg fa-1x">
-                <i class="fa fa-square fa-stack-2x" style="color:#00aced;"></i>
-                <i class="fa fa-twitter  fa-stack-1x" style="color:white;"></i>
-              </a>
+              {% if page.facebook %}
+                <a href="{{page.facebook}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                  <i class="fa fa-square fa-stack-2x" style="color:#3B5998;"></i>
+                  <i class="fa fa-facebook  fa-stack-1x" style="color:white;"></i>
+                </a>
+              {% endif %}  
+
+              {% if page.youtube %}
+                <a href="{{page.youtube}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                  <i class="fa fa-square fa-stack-2x" style="color:#FF0000;"></i>
+                  <i class="fa fa-youtube  fa-stack-1x" style="color:white;"></i>
+                </a>
+              {% endif %}
+
+              {% if page.twitter %}
+                <a href="{{page.twitter}}" target="_blank" class="fa-stack fa-lg fa-1x">
+                  <i class="fa fa-square fa-stack-2x" style="color:#00aced;"></i>
+                  <i class="fa fa-twitter  fa-stack-1x" style="color:white;"></i>
+                </a>
+              {% endif %}
             </div>
           </div>
           <h1 class="text-center" style="margin: 2rem 0">Guides / Articles</h1>
