@@ -14,7 +14,7 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated February 24th by Yami Hammmy**
+**Last updated February 24th by Yami**
 
 [w75]
 ![Banner](https://i.imgur.com/8puihvI.png)

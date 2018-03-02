@@ -14,7 +14,7 @@ permalink: /events/february-2018/chazz-a-thon/
 
 {% include heading.html title=page.title author=page.author %}
 
-### Last Updated (February 9 2018) 
+### Last Updated - (February 9 2018) 
 
 [gallery](https://i.imgur.com/nGgumxC.png, https://i.imgur.com/rZp5t0C.png, https://i.imgur.com/dB1QOTd.png, https://i.imgur.com/kWWNTaG.png, https://i.imgur.com/woSnf4L.png, https://i.imgur.com/vJOFWG3.png)
 
