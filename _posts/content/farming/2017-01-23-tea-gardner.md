@@ -15,7 +15,7 @@ hide: true
 {% include heading.html title=page.title author=page.author %}
 
 
-![Tea Banner](/img/events/tea.png)
+![Tea Banner](/img/content/events/tea.png)
 
 ### General Information
 * Tea Gardener requires **Blue** keys to duel at the gate

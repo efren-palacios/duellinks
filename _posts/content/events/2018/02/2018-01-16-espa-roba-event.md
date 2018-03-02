@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-13
 title: Espa Roba Event
 author: Yami Hammy & Freeska
-image: /img/events/espa-roba-event/thumbnail.png
+image: /img/content/events/espa-roba-event/thumbnail.png
 category: event
 ended: true
 comments: true

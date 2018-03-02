@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Chazz Princeton](/img/events/chazz.jpg)
+![Chazz Princeton](/img/content/events/chazz.jpg)
 
 ### General Information
 *  Chazz Princeton requires **black** keys to duel at the gate

@@ -5,7 +5,7 @@ author: Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
-image: /img/guides/rez.jpg
+image: /img/content/guides/rez.jpg
 date: 2018-02-04
 comments: false
 description: 

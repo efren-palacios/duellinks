@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-27
 title: Duel Island Gladiator
 author: Yami Hammy
-image: /img/events/2018/02/duel-island-gladiator/banner.jpg
+image: /img/content/events/2018/02/duel-island-gladiator/banner.jpg
 category: event
 ended: false
 comments: true
@@ -15,7 +15,7 @@ permalink: /events/february-2018/duel-island-gladiator/
 {% include heading.html title=page.title author=page.author %}
 
 [w75]
-![Banner](/img/events/2018/02/duel-island-gladiator/banner.jpg)
+![Banner](/img/content/events/2018/02/duel-island-gladiator/banner.jpg)
 
 [slider](https://i.imgur.com/GPKBMhV.jpg)
 
@@ -79,4 +79,4 @@ You can obtain rewards based on the amount of Event Points you accumulate.
 | 850,000 | 30,000 Gold |
 | 900,000 | 50 Gems |
 | 950,000 | 1 UR Stone |
-| 1,000,000 | Icon ![Icon](/img/events/2018/02/duel-island-gladiator/icon.png) |
+| 1,000,000 | Icon ![Icon](/img/content/events/2018/02/duel-island-gladiator/icon.png) |

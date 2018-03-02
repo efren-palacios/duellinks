@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-06
 title: New Datamined Cards
 author: Spooncats
-image: /img/news/datamine.png
+image: /img/content/news/datamine.png
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates.

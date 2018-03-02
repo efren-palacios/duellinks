@@ -5,7 +5,7 @@ author: TOASTYKILLA
 category: tournament
 tournament: Meta Championship Series
 number: 4
-image: /img/news/meta-championship-series-4-report/thumbnail.png
+image: /img/content/news/meta-championship-series-4-report/thumbnail.png
 date: 2017-12-10
 comments: true
 description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
@@ -15,7 +15,7 @@ permalink: /tournaments/meta-championship-series/4/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/news/meta-championship-series-4-report/MCS4.png)
+![](/img/content/news/meta-championship-series-4-report/MCS4.png)
 
 ### Top 8 Players / Decklists- Prize support: $3,476
 Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.
@@ -56,7 +56,7 @@ Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.
 [content-only]
 Decklist 1 | Decklist 2
 |:----------:|:----------:|
-![](/img/news/meta-championship-series-4-report/eugen-dl1.png) | ![](/img/news/meta-championship-series-4-report/eugen-dl2.png)
+![](/img/content/news/meta-championship-series-4-report/eugen-dl1.png) | ![](/img/content/news/meta-championship-series-4-report/eugen-dl2.png)
 
 #### 2nd Place - Jason: 
 "I used ca because I thought it was just the best deck, most consistent and most powerful. I used gb because it was the strongest control deck imo with a good matchup overall with everything, it was the deck I started with the most because I could usually play every game with my balanced hands."
@@ -64,7 +64,7 @@ Decklist 1 | Decklist 2
 [content-only]
 Decklist 1 | Decklist 2
 |:----------:|:----------:|
-![](/img/news/meta-championship-series-4-report/jason-dl1.png) | ![](/img/news/meta-championship-series-4-report/jason-dl2.png)
+![](/img/content/news/meta-championship-series-4-report/jason-dl1.png) | ![](/img/content/news/meta-championship-series-4-report/jason-dl2.png)
 
 #### 3rd Place - Dellex: 
 "I used double cyber angels since the deck was the most consistent. Restart and balance made it so i nearly always opened very well. Also i have played cyber angels since release and have had the most playtesting as a result of that.  I played 1 sphere kuriboh since it gives the least amount of information to my opponent. People will often go for game with econ only to lose to the suprise sphere kuriboh. If i ran econ instead my opponent would have the option to play around it. You cannot play around the 1 sphere kuriboh since by the time you realized i played it you will have already lost to it.

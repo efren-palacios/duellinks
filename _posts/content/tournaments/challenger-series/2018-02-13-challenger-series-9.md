@@ -5,7 +5,7 @@ author: ToastyKilla
 category: tournament
 tournament: Challenger Series
 number: 9
-image: /img/news/thumbnail.png
+image: /img/content/news/thumbnail.png
 date: 2018-02-14
 comments: true
 description: Challenger Series 9 Tournament Report. Check the prize winners and their decks here.

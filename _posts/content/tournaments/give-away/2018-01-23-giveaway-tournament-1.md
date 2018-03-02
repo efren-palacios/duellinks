@@ -1,19 +1,19 @@
 ---
 layout: blog
+date: 2018-01-23
 title: Giveaway Tournament 1
 author: TOASTYKILLA
-image: /img/news/thumbnail.png
-category: news
-date: 2018-01-23
+category: tournament
+tournament: Give Away
+number: 1
+image: /img/content/tournaments/give-away/1/thumbnail.jpg
 comments: true
-description: 
-keywords: news
-permalink: /guides/giveaway-tournament-1/
+description: The Give Away tournament report. Check the prize winners and their decks here.
+keywords: tournament, give away, sub benefits
+permalink: /tournaments/give-away/1/
 ---
 
 {% include heading.html title=page.title %}
-
-![](https://d33wubrfki0l68.cloudfront.net/80aaea09caafabd67113c1bf347b975ee629e1d0/0e583/img/logos/mcs_logo.png)
 
 ### Top 4 Players / Decklists- Prize support: $
 

@@ -2,7 +2,7 @@
 layout: blog
 title: Leaked Structure Decks
 author: Yami Hammy
-image: /img/news/leaked-structure-decks/thumbnails.jpg
+image: /img/content/news/leaked-structure-decks/thumbnails.jpg
 category: news
 date: 2018-02-22
 comments: true

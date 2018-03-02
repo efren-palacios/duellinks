@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Yami Bakura](/img/events/bakura.png)
+![Yami Bakura](/img/content/events/bakura.png)
 
 ### General Information
 

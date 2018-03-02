@@ -3,7 +3,7 @@ layout: blog
 date: 2018-01-16
 title: Zane Roaming Event
 author: Perune
-image: /img/events/zane-roaming-event/thumbnail.png
+image: /img/content/events/zane-roaming-event/thumbnail.png
 category: event
 ended: true
 comments: true

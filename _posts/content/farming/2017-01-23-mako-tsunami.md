@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Mako Banner](/img/events/mako.jpg)
+![Mako Banner](/img/content/events/mako.jpg)
 
 ### General Information
 * Mako Tsunami requires **Blue** keys to duel at the gate

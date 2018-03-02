@@ -5,12 +5,12 @@ title: Give Away Tournament February 14th
 author: SpoonCats
 category: tournament
 tournament: Give Away
-number: 1
-image: /img/logos/give-away.jpg
+number: 2
+image: /img/content/tournaments/give-away/2/thumbnail.jpg
 comments: true
 description: The Give Away tournament report. Check the prize winners and their decks here.
 keywords: tournament, give away, sub benefits
-permalink: /tournaments/give-away/february-14th-2018/
+permalink: /tournaments/give-away/2/
 ---
 
 {% include heading.html title=page.title author=page.author %}

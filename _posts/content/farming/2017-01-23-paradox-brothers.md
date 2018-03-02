@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![parabros banner](/img/events/paradox.png)
+![parabros banner](/img/content/events/paradox.png)
 
 ### General Information
 * The Paradox Brothers require **green** keys to duel at the gate

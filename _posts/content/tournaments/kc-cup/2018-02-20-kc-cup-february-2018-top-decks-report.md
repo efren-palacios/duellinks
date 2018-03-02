@@ -6,7 +6,7 @@ author: SpoonCats
 category: tournament
 tournament: KC Cup
 number: 3
-image: /img/events/kc-cup.jpg
+image: /img/content/events/kc-cup.jpg
 comments: true
 description: Stage 2 of the February 2018 KC cup has come to a close, and the results are in! Check here for the DuelLinksMeta members' standings and decks!
 keywords: tournament, kc cup, february 2018, top 100, decks

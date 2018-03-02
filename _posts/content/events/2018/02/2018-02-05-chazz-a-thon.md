@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-05
 title: Chazz-a-thon!
 author: Perune
-image: /img/events/chazz.jpg
+image: /img/content/events/chazz.jpg
 category: event
 ended: true
 comments: true

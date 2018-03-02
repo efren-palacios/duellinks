@@ -5,7 +5,7 @@ author: Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
-image: /img/guides/red-eyes-zombie-guide-winter-2018/thumbnail.png
+image: /img/content/guides/red-eyes-zombie-guide-winter-2018/thumbnail.png
 date: 2018-02-04
 comments: false
 description: A complete guide about Red Eyes Zombies in Winter 2018
