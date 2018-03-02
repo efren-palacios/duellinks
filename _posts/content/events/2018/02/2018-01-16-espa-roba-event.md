@@ -14,7 +14,7 @@ permalink: /events/february-2018/espa-roba-roaming-event/
 
 {% include heading.html title=page.title author=page.author %}
 
-### Last Updated: 2/4/18
+### Last Updated - 2/4/18
 
 [w50]
 ![](https://lh3.googleusercontent.com/0Ezj7PCM_rc24KmMhcltNqD6sRiu7bmosYGVQ0_3YTwl-NCBhHpL9Muti0NmOsuiSnMoQxal8Z8)
