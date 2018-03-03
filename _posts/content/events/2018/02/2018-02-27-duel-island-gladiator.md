@@ -49,7 +49,8 @@ The following cards can be drawn from the lottery in addition to Gems, Gold and 
 
 ### Event Rewards
 You can obtain rewards based on the amount of Event Points you accumulate.
-**If you reach one million points you'll get 410 Gems, 147,800 Gold, 2 UR Stone, 4 SR Stone, 91 R Jewel and 2 Stamina Potion in total!**
+
+If you reach **one million points** you'll get **410 Gems**, **147,800 Gold**, **2 UR Stone**, **4 SR Stone**, **91 R Jewel** and **2 Stamina Potion** in total!
 
 | Points |  Reward  | 
 | -- | -- |
