@@ -37,7 +37,9 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" }
+            { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }
         ] 
     },
     {
@@ -46,8 +48,6 @@
         "types":
         [
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
             { "id": "gishki",                   "display": "Gishki",                "card": "Evigishki Levianima" }
         ] 
     },
