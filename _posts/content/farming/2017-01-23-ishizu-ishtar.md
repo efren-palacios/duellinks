@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Ishizu Banner](img/events/ishizu.png)
+![Ishizu Banner](/img/content/events/ishizu.png)
 
 ### General Information
 * Ishizu Ishtar requires **yellow** keys to duel at the gate

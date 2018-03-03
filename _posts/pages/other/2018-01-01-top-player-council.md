@@ -2,7 +2,7 @@
 layout: blog
 title: Top Player Council
 author: GiaJoestar
-image: /img/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
+image: /img/content/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
 category: page
 date: 2018-01-01
 comments: false

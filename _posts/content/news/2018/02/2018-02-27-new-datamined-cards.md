@@ -2,7 +2,7 @@
 layout: blog
 title: New Datamined Cards
 author: Spooncats
-image: /img/news/2018/02/new-datamined-cards-feb-27/banner.jpg
+image: /img/content/news/2018/02/new-datamined-cards-feb-27/banner.jpg
 category: news
 date: 2018-02-27
 pinned: false

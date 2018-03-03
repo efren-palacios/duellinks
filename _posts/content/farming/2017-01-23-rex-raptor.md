@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Rex Banner](img/events/rex.png)
+![Rex Banner](/img/content/events/rex.png)
 
 ### General Information
 * Rex Raptor requires **yellow** keys to duel at the gate

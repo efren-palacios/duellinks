@@ -27,7 +27,7 @@ permalink: /farming-and-events/
           </a>
         </div>
         <div class="card-block text-white">
-          <a href="{{ site.url }}{{ event.url }}">
+          <a href="{{ event.url }}">
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">
@@ -63,7 +63,7 @@ permalink: /farming-and-events/
     <div class="card">
       <div class="zoom">
         <a href="/farming/duel-assessment-score/" class="gallerypic" title="">
-          <img src="/img/guides/farming/farming.jpg" class="card-img-top lazyload" />
+          <img src="/img/pages/farming/duel-assesment-score/thumbnail.jpg" class="card-img-top lazyload" />
         </a>
       </div>
       <div class="card-block text-white">
@@ -90,7 +90,7 @@ permalink: /farming-and-events/
           </a>
         </div>
         <div class="card-block text-white">
-          <a href="{{ site.url }}{{ event.url }}">
+          <a href="{{ event.url }}">
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">

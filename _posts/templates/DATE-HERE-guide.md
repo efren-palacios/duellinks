@@ -2,7 +2,7 @@
 layout: blog
 title: GUIDE_TITLE
 author: GUIDE_AUTHOR
-image: /img/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
+image: /img/content/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
 category: guide
 date: 2018-01-01
 comments: true

@@ -4,7 +4,7 @@ date: 2017-11-02 10:45:00 -0600
 title: "Box Review: Galactic Origin"
 author: Dkayed
 category: box-review
-image: /img/boxes/galactic-origin/preview.jpg
+image: /img/content/box-reviews/galactic-origin/preview.jpg
 comments: true
 description: Review of the galactic origin box.
 keywords: box, boxset, galactic origin, review
@@ -14,7 +14,7 @@ permalink: /box-reviews/galactic-origin/
 {% include heading.html title=page.title %}
 
 [w100]
-![](/img/boxes/galactic-origin/banner.jpg)
+![](/img/content/box-reviews/galactic-origin/banner.jpg)
 
 {% include box.html box=site.data.box.galactic-origin %}
 

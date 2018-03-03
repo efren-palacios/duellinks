@@ -10,20 +10,20 @@
         <div class="col-sm-6 col-12 card-deck">
           <div class="card">
             <div class="zoom">
-              <a href="{{site.url}}{{article.url}}" class="gallerypic" title="">
+              <a href="{{article.url}}" class="gallerypic" title="">
                 <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                 <img src="/img/assets/featured.png" class="featured-icon">
               </a>
             </div>
             <div class="card-block text-white">
-              <a href={{site.url}}{{article.url}}>
+              <a href={{article.url}}>
                 <h4 class="card-title">{{article.title}}</h4>
               </a>
               <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                       {% if article.author == 'Dkayed' %}
-                      By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %} <!-- TODO CHECK FIRST -->
-                      By <b><a class="text-warning" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
+                      By <b><a class="text-danger" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %} <!-- TODO CHECK FIRST -->
+                      By <b><a class="text-warning" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
                     </small>
               </div>
             </div>
@@ -52,19 +52,19 @@
           {% endif %}
                 <div class="card">
                   <div class="zoom">
-                      <a href={{site.url}}{{article.url}}> 
+                      <a href={{article.url}}> 
                           <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                       </a>
                   </div>
                   <div class="card-block text-white">
-                    <a href={{site.url}}{{article.url}}>
+                    <a href={{article.url}}>
                       <h4 class="card-title">{{article.title}}</h4>
                     </a>
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                        By <b><a class="text-danger" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
-                        By <b><a class="text-warning" href={{site.url}}/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
+                        By <b><a class="text-danger" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
+                        By <b><a class="text-warning" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
                       </small>
                     </div>
                   </div>

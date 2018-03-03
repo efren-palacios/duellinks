@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Keith Banner](/img/events/keith.png)
+![Keith Banner](/img/content/events/keith.png)
 
 ### General Information
 * Bandit Keith requires **Red** keys to duel at the gate

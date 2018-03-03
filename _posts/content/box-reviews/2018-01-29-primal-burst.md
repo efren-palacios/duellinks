@@ -4,7 +4,7 @@ date: 2018-01-28
 title: "Box Review: Primal Burst"
 author: Yami Hammy
 category: box-review
-image: /img/boxes/primal-burst/preview.jpg
+image: /img/content/box-reviews/primal-burst/preview.jpg
 comments: true
 description: Review of the primal burst box.
 keywords: box, boxset, primal burst, review
@@ -14,7 +14,7 @@ permalink: /box-reviews/primal-burst/
 {% include heading.html title=page.title %}
 
 [w100]
-![](/img/boxes/primal-burst/banner.jpg)
+![](/img/content/box-reviews/primal-burst/banner.jpg)
 
 {% include box.html box=site.data.box.primal-burst %}
 

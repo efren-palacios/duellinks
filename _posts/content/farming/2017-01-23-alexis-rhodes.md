@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Alexis Rhodes](img/events/alexis.jpg)
+![Alexis Rhodes](/img/content/events/alexis.jpg)
 
 ### General Information
 * Alexis Rhodes requires **blue** keys to duel at the gate
