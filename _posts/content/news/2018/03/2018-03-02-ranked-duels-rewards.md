@@ -3,7 +3,7 @@ layout: blog
 date: 2018-03-02
 title: Ranked Duels Rewards - March 2018
 author: Freeska
-image: /img/news/2018/03/ranked-duel-rewards/thumbnail.png
+image: /img/news/2018/03/ranked-duel-rewards/thumbnail.jpg
 category: news
 comments: true
 description: The March 2018 season has started and with that comes new duel rewards. Check here for an overview of all the new obtainable cards!
@@ -69,5 +69,3 @@ Pretty much anything {Rabidragon} can do, {Blue-Eyes White Dragon} can do better
 | 70 | R |
 | 100 | UR |
 | 120 | SR (Glossy) |
-
-<!-- ![Ranked Rewards](https://i.imgur.com/MZdGY0q.jpg) -->
