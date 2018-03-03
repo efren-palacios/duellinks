@@ -4,7 +4,7 @@ title: Preparing For A Large Scale Event
 author: Brianhayward88
 category: guide
 sub-category: competitive
-image: /img/guides/duellinks.png
+image: /img/content/guides/duellinks.png
 date: 2018-01-31
 comments: false
 description: Preparing for a large scale event

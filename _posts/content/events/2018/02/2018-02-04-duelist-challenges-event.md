@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-04
 title: Duelist Challenges Event!
 author: Spooncats
-image: /img/guides/duelistchallenge.png
+image: /img/content/guides/duelistchallenge.png
 category: event
 ended: true
 comments: true

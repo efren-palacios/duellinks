@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-07
 title: Ranked Duels Rewards - February 2018
 author: brianhayward88, inzang
-image: /img/news/hexed.png
+image: /img/content/news/hexed.png
 category: news
 comments: true
 description: The february 2018 season has started and with that come new duel rewards. Check here for an overview of all the new obtainable cards.

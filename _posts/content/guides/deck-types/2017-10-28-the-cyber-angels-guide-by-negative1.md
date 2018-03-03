@@ -5,7 +5,7 @@ author: Negative1
 category: guide
 sub-category: deck-type
 deck-type: cyber-angels
-image: /img/guides/the-cyber-angels-guide-by-negative1/thumbnail.png
+image: /img/content/guides/the-cyber-angels-guide-by-negative1/thumbnail.png
 date: 2018-02-10
 comments: false
 description: In depth guide written by Negative1 talking about the cyber angels archetype.

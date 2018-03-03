@@ -1,15 +1,3 @@
-@font-face
-{
-  font-family: Alegreya-Regular;
-  src: url(/fonts/Alegreya/AlegreyaSans-Regular.ttf);
-}
-
-@font-face
-{
-  font-family: Alegreya-Medium;
-  src: url(/fonts/Alegreya/AlegreyaSans-Medium.ttf);
-}
-
 html
 {
   background-color: $main-color-light;
@@ -17,7 +5,8 @@ html
 
 body
 {
-  font-family: "Alegreya-Regular";
+  font-family: "Alegreya Sans";
+  font-weight: 400;
   font-size: 17px;
   background: $main-color-dark;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, $main-color-light, $main-color-dark);  /* Chrome 10-25, Safari 5.1-6 */
@@ -495,10 +484,15 @@ h1, h2, h3, h4, h5, h6
   margin-bottom: 5px;
 }
 
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
 strong
 {
   letter-spacing: 0.5px;
-  font-family: "Alegreya-Medium" !important;
+  font-family: "Alegreya Sans" !important;
+  font-weight: 500;
 }
 
 /* Easy autocomplete override */
@@ -589,4 +583,56 @@ strong
 .guides-filters
 {
   margin-bottom: 10px !important;
+}
+
+.soon-container
+{
+  display: flex;
+  justify-content: center;
+  height: 200px;
+
+  .soon-block
+  {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+  }
+  
+  .soon
+  {
+    .soon-placeholder
+    {
+      text-shadow: 0 0 .125em rgba(255,255,255,.5);
+      text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    .soon-label
+    {
+      text-transform: uppercase;
+      text-align: center;
+      margin-left: .5em;
+      margin-top: -1.5em;
+      font-size: .3em !important;
+    }
+
+    .soon-description
+    {
+      text-align: center;
+      font-size: 1.5rem;
+    }
+  }
+
+  .soon-event-complete
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .soon-event-info
+    {
+      text-align: center;
+    }
+  }
 }

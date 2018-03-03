@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Aster Phoenix](/img/events/aster.png)
+![Aster Phoenix](/img/content/events/aster.png)
 
 ### General Information
 *  Aster Phoenix requires **white** keys to duel at the gate

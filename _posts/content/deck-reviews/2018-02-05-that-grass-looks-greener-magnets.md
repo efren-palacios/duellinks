@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-05
 title: "Deck Review: That Grass Looks Greener - Magnets"
 author: boddity77
-image: /img/guides/grass.png
+image: /img/content/guides/grass.png
 category: deck-review
 pinned: false
 comments: true

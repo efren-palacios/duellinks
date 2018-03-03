@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Mai Banner](/img/events/mai.png)
+![Mai Banner](/img/content/events/mai.png)
 
 ### General Information
 * Mai Valentine requires **Green** keys to duel at the gate

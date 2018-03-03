@@ -62,3 +62,9 @@ function BindSeasonArchiveSelection()
         $("#SeasonArchiveLink").attr("href", "/top-decks/" + $(event.target).val());
     });
 }
+
+function EventComplete()
+{
+    $(".soon-event-countdown").addClass("hidden");
+    $(".soon-event-complete").removeClass("hidden");
+}

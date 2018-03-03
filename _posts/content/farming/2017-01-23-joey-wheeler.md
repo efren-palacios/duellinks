@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Joey Banner](/img/events/joey.jpg/)
+![Joey Banner](/img/content/events/joey.jpg/)
 
 ### General Information
 * Joey Wheeler requires **Red** keys to duel at the gate
