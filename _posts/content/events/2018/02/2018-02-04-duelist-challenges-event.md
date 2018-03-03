@@ -85,7 +85,6 @@ Solutions to challenges are listed here, but we encourage new players to try the
 ---
 
 **Challenge #5**
-
 1. Summon {Trance Archfiend} and activate its effect
 2. Discard {Snoww, Unlight of Dark World}, add {Dark World Lightning} to your hand
 3. Activate {Dark World Lightning}, destroy {Dark Coffin} and discard {Ceruli, Guru of Dark World}
@@ -96,5 +95,5 @@ Solutions to challenges are listed here, but we encourage new players to try the
 8. **Exodia OBLITERATE!**
 
 *Credit to Yami Hammy on the Discord*
-
+  
 ---
