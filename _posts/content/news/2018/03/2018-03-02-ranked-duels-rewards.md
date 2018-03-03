@@ -68,4 +68,4 @@ Pretty much anything {Rabidragon} can do, {Blue-Eyes White Dragon} can do better
 | 60 | SR |
 | 70 | R |
 | 100 | UR |
-| 120 | SR (Glossy)  |
+| 120 | SR (Glossy) |
