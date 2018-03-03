@@ -9,7 +9,7 @@ image: /img/logos/mcs5report.png
 date: 2018-01-29
 comments: true
 description: The Meta Championship Series 5 tournament report. Check the prize winners and their decks here.
-keywords: mcs, mcs3, mcs 5, meta championship, meta championship series, meta championship 5, meta championship series 5, mcs decks, mcs3 decks
+keywords: mcs, mcs 5, meta championship, meta championship series, meta championship 5, meta championship series 5, mcs decks, mcs 5 decks
 permalink: /tournaments/meta-championship-series/5/
 pinned: false
 ---

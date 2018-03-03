@@ -584,3 +584,55 @@ strong
 {
   margin-bottom: 10px !important;
 }
+
+.soon-container
+{
+  display: flex;
+  justify-content: center;
+  height: 200px;
+
+  .soon-block
+  {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+  }
+  
+  .soon
+  {
+    .soon-placeholder
+    {
+      text-shadow: 0 0 .125em rgba(255,255,255,.5);
+      text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    .soon-label
+    {
+      text-transform: uppercase;
+      text-align: center;
+      margin-left: .5em;
+      margin-top: -1.5em;
+      font-size: .3em !important;
+    }
+
+    .soon-description
+    {
+      text-align: center;
+      font-size: 1.5rem;
+    }
+  }
+
+  .soon-event-complete
+  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .soon-event-info
+    {
+      text-align: center;
+    }
+  }
+}

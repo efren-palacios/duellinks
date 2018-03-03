@@ -45,11 +45,21 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oregano:400i" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rock+Salt" >
+    <link rel="stylesheet" href="httpx://fonts.googleapis.com/css?family=Source+Sans+Pro:300" >
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.css">
     <link rel="stylesheet" href="/css/easy-autocomplete.min.css">
+    <link rel="stylesheet" href="/css/soon.min.css">
     <link rel="stylesheet" href="/css/style.css">
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>--> <!-- WHY NOT IN SCRIPTS? -->
+    
+    <!-- Custom Styles Specific Pages-->
+    {% if page.styles %}
+        {% assign styles = page.styles | split: ',' %}
+        {% for style in styles %}
+            <link rel="stylesheet" href="/css/{{style}}">
+        {% endfor%}
+    {% endif %}
+
 </head>
