@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-24
 title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
-image: /img/content/events/crowler.png
+image: \img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,20 +12,18 @@ keywords: event, crowler, dr crowler, dr vellian crowler, tricky tests, gate eve
 permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 ---
 
+[w75]
+![Banner](\img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\banner.png)
+
 {% include heading.html title=page.title author=page.author %}
 
 **Last updated February 24th by Yami Hammy**
 
-[w75]
-![Banner](https://i.imgur.com/8puihvI.png)
-
 [slider](https://i.imgur.com/sOr4XTq.jpg)
-
----
 
 ### Update!
 
-![Image](/img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/lv50-1.png)
+![Lvl50](\img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\lvl50-image.png)
 - Until the end of the event, there is a low chance that Vellian Crowler LV 50 will appear in Duel World (GX) - duel Crowler at the gate to make LV 50 appear faster!
 - In addition, Duel Assessment points from completing 'Today's Homework' have been increased to 3,000 for each Homework
 - New event missions have also been added - get up to 100 gems!
@@ -78,8 +76,6 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 | {Scroll of Bewitchment} | R | Bad | 30 |
 | {Break! Draw!} | R | Bad | 30 |
 
----
-
 ### Event Missions 
 
 | **Mission** |  **Reward** | 
@@ -93,20 +89,21 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 | Play 20 Duels against Dr. Vellian Crowler in Duel World | 50 EX Jewels |
 | Play 40 Duels against Dr. Vellian Crowler in Duel World | 25 EX Jewels |
 
-- ---
-
 ### Notable Point Rewards
-**By dueling Crowler at the gate, you will be rewarded with points which will unlock various rewards, such as Gold, Gems, Jewels, but most importantly, cards.**
+By dueling Crowler at the gate, you will be rewarded with points which will unlock various rewards, such as Gold, Gems, Jewels, but most importantly, cards.
 
 | **Card** |  **Rarity** |  **Recommendation**  | **Note**
 | :----- | :----- | :----- | :-----  | :----- |
 | {Ancient Gear Golem} | UR | Great | This is the only way to obtain a 3rd copy |
 | {Ultimate Ancient Gear Golem} | UR | Mediocre | This is a guaranteed copy - one less to farm for! |
 
-- ---
+---
 
-***Level 40 Farm - created by JadeHex***
-**7,500 Base DA (Duel Assessment)**
+### Farm Decks
+
+**Level 40 Farm - created by JadeHex**
+
+7,500 Base DA (Duel Assessment)
 
 [deck](Summoner of Illusions; Magnetic Mosquito; Magnetic Mosquito; Magnetic Mosquito; Gravekeeper's Vassal; Medusa Worm; Medusa Worm; Medusa Worm; Anti-Magic Arrows; Union Attack; Union Attack; Array of Revealing Light; Array of Revealing Light; Array of Revealing Light; Acid Rain; Acid Rain; Pot of Benevolence; A Feint Plan; A Feint Plan; A Feint Plan; Blue-Eyes Ultimate Dragon; Master of Oz)
 
@@ -133,10 +130,11 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 **Risks**
 - This farm deck is hugely reliant on its combo pieces. Not getting {Medusa Worm} or {Array of Revealing Light} in time is deadly
 
-- ---
+---
  
-***Level 40 Farm - created by Freeska***
-**7,600 Base DA (Duel Assessment)**
+**Level 40 Farm - created by Freeska**
+
+7,600 Base DA (Duel Assessment)
 
 [deck: Destiny Draw](Catapult Turtle; Black Ptera; Black Ptera; Black Ptera; Soul Exchange; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; De-Spell; Windstorm of Etaqua)
 
@@ -151,7 +149,6 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 - Activate {Soul Exchange} and select the monster you used {Massivemorph} on
 - Activate {Catapult Turtle} to tribute his own monster and inflict over 10,000 damage to him
 
-
 **Replacements**
 - Destiny Draw is irreplaceable 
 - {Good Goblin Housekeeping} and {Jar of Greed} can be replaced with {Legacy of Yata-Garasu}
@@ -163,8 +160,9 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 ---
 
-***Level 40 Farm - created by Freeska***
-**7,900 Base DA (Duel Assessment)**
+**Level 40 Farm - created by Freeska**
+
+7,900 Base DA (Duel Assessment)
 
 [deck: Duel Standby](The Winged Dragon of Ra; Cure Mermaid; Cure Mermaid; Cure Mermaid; Crystal Seer; Crystal Seer; Crystal Seer; White Magician Pikeru; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magical Mallet; Magical Mallet; Magical Mallet; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
@@ -184,10 +182,11 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 **Risks**
 - Not picking up your Barrier combo is fatal
 
-- ---
+---
 
-***Level 40 Farm***
-**7,700 Base DA (Duel Assessment)**
+**Level 40 Farm**
+
+7,700 Base DA (Duel Assessment)
 
 [deck: Reinforcements]( The Legendary Fisherman; Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Crystal Seer; Anti-Magic Arrows; A Legendary Ocean; A Legendary Ocean; A Legendary Ocean; Union Attack; Union Attack; Polymerization; Magical Mallet; Magical Mallet; Magical Mallet; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Twin-Headed Thunder Dragon)
 

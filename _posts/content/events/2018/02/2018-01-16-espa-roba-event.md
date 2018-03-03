@@ -1,9 +1,9 @@
 ---
 layout: blog
 date: 2018-02-13
-title: Espa Roba Event
+title: Espa Roba Roaming Event
 author: Yami Hammy & Freeska
-image: /img/content/events/espa-roba-event/thumbnail.png
+image: \img\content\events\2018\02\espa-roba-roaming-event\thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,14 +12,13 @@ keywords: event, espa, espa roba, farm, scrap recycler, pulse mines
 permalink: /events/february-2018/espa-roba-roaming-event/
 ---
 
+![Banner](\img\content\events\2018\02\espa-roba-roaming-event\banner.png)
+
 {% include heading.html title=page.title author=page.author %}
 
-### Last Update 2/4/18
+**Last updated February 2nd**
 
-[w50]
-![](https://lh3.googleusercontent.com/0Ezj7PCM_rc24KmMhcltNqD6sRiu7bmosYGVQ0_3YTwl-NCBhHpL9Muti0NmOsuiSnMoQxal8Z8)
-
-[gallery 2/3](https://lh3.googleusercontent.com/Al7L9XdVT3lHAq4vDNU4R_Oo7F-x-05ZjIGBz6f1dHAlhHv8Am2Z0KW-lyIy9d1bYE7eZYFWnYI, https://lh3.googleusercontent.com/NyBBI0BlBp90pueESXWAIN7_C8fLYDZSo_jB6rHdC5Ptvmi2s42vXGOeZ2Nk5RfGL_n2_Tt5HcY, https://lh3.googleusercontent.com/1-0ol8tEMMI_BSICkgTotco1Sod46hJdW6EOS8YnaCPLGUvTD59Bznl0iO135-3cC4M_hUZJ8xI, https://lh3.googleusercontent.com/FjrE1Dp06Ff8q-xUA-fyo1dGgrYkNwmLq4mTaajvowDXTJoobWWH2hz2C_Rq9yrL90HgIJSQuMk, https://lh3.googleusercontent.com/9EVGcgkDReb22Q5sWKY7SikXWgffR0DiXF-kOsaGrG_xGDKkatfBnxgcIfVgL3-4KafHaQvdZRQ, https://lh3.googleusercontent.com/btxmlrIZlZT_yYAInRDzD4VPcocXp4jIhzduM3PQWnVYamI5GslPYoCO4Je4p7muYnzbQuTd0Fw, https://lh3.googleusercontent.com/FN8yWTjY17ZofiQavl-L5j4dxjrPRUgLeOpH0bBzXg674hevTeSx_trQtgDxDv7EXYD0Ir32onc)
+[gallery](https://lh3.googleusercontent.com/Al7L9XdVT3lHAq4vDNU4R_Oo7F-x-05ZjIGBz6f1dHAlhHv8Am2Z0KW-lyIy9d1bYE7eZYFWnYI, https://lh3.googleusercontent.com/NyBBI0BlBp90pueESXWAIN7_C8fLYDZSo_jB6rHdC5Ptvmi2s42vXGOeZ2Nk5RfGL_n2_Tt5HcY, https://lh3.googleusercontent.com/1-0ol8tEMMI_BSICkgTotco1Sod46hJdW6EOS8YnaCPLGUvTD59Bznl0iO135-3cC4M_hUZJ8xI, https://lh3.googleusercontent.com/FjrE1Dp06Ff8q-xUA-fyo1dGgrYkNwmLq4mTaajvowDXTJoobWWH2hz2C_Rq9yrL90HgIJSQuMk, https://lh3.googleusercontent.com/9EVGcgkDReb22Q5sWKY7SikXWgffR0DiXF-kOsaGrG_xGDKkatfBnxgcIfVgL3-4KafHaQvdZRQ, https://lh3.googleusercontent.com/btxmlrIZlZT_yYAInRDzD4VPcocXp4jIhzduM3PQWnVYamI5GslPYoCO4Je4p7muYnzbQuTd0Fw, https://lh3.googleusercontent.com/FN8yWTjY17ZofiQavl-L5j4dxjrPRUgLeOpH0bBzXg674hevTeSx_trQtgDxDv7EXYD0Ir32onc)
 
 ### Event Information 
 - Espa Roba, a Duelist who specializes in Psychic monsters, has appeared in Duel World (DM)!
@@ -42,7 +41,6 @@ permalink: /events/february-2018/espa-roba-roaming-event/
 | {Inspection} | R | Bad |
 | {Cyber Soldier of Darkworld} | N | Bad |
 
-
 ### Event Missions 
 
 | **Mission** |  **Reward** | 
@@ -58,8 +56,9 @@ permalink: /events/february-2018/espa-roba-roaming-event/
 
 ### Farm Decks
 
-***Level 40 Farm - created by Superforms***
-> **7,700 Base DA (Duel Assessment)**
+**Level 40 Farm - created by Superforms**
+
+7,700 Base DA (Duel Assessment)
 
 [deck:Duel, Standby!](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Gravekeeper's Vassal; Cyber Petit Angel; Anti-Magic Arrows; Union Attack; Union Attack; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing; Secret Pass to the Treasures)
 
@@ -84,8 +83,9 @@ permalink: /events/february-2018/espa-roba-roaming-event/
 
 ---
 
-***Level 40 Farm - created by Aeroxas***
-> **6,900 Base DA (Duel Assessment)**
+**Level 40 Farm - created by Aeroxas**
+
+6,900 Base DA (Duel Assessment)
 
 [deck:Restart](Summoner of Illusions; Magnetic Mosquito; Magnetic Mosquito; Magnetic Mosquito; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Anti-Magic Arrows; System Down; System Down; System Down; Array of Revealing Light; Array of Revealing Light; Array of Revealing Light; Acid Rain; Acid Rain; Acid Rain; Gift of the Martyr; Pot of Benevolence; Blue-Eyes Ultimate Dragon; Master of Oz)
 
@@ -109,8 +109,9 @@ permalink: /events/february-2018/espa-roba-roaming-event/
 
 ---
  
-***Level 40 Farm - created by Kirames***
-> **8,200 Base DA (Duel Assessment)**
+**Level 40 Farm - created by Kirames**
+
+8,200 Base DA (Duel Assessment)
 
 [deck:Duel, Standby!](King of the Swamp; King of the Swamp; King of the Swamp; Buster Blader; Buster Blader; Buster Blader; Gravekeeper's Vassal; Dark Magician; Dark Magician; Dark Magician; Fusion Recycling Plant; Fusion Recycling Plant; Anti-Magic Arrows; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Secret Pass to the Treasures; Mooyan Curry; Dark Paladin; Dark Paladin)
 

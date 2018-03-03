@@ -1,9 +1,9 @@
 ---
 layout: blog
 date: 2018-02-05
-title: Chazz-a-thon!
+title: Chazz-A-Thon!
 author: Perune
-image: /img/content/events/chazz.jpg
+image: \img\content\events\2018\02\chazz-a-thon\thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,14 +12,16 @@ keywords: event, chazz, chazz princedale, chazz a thon, armed dragon, vwxyz drag
 permalink: /events/february-2018/chazz-a-thon/
 ---
 
+![banner2](\img\content\events\2018\02\chazz-a-thon\banner2.png)
+
 {% include heading.html title=page.title author=page.author %}
 
-### Last Updated - (February 9 2018) 
+**Last updated February 9th** 
 
 [gallery](https://i.imgur.com/nGgumxC.png, https://i.imgur.com/rZp5t0C.png, https://i.imgur.com/dB1QOTd.png, https://i.imgur.com/kWWNTaG.png, https://i.imgur.com/woSnf4L.png, https://i.imgur.com/vJOFWG3.png)
 
 ### Event Info
-Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  Defeat Serious Chazz in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels. 
+Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards. Defeat Serious Chazz in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels. 
 
 ### Event Rewards
 
@@ -36,7 +38,6 @@ Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards.  De
 | {Gemini Imps} | Random drop from Serious Chazz |
 | {Armed Dragon LV3} | Random drop from Serious Chazz |
 | {Chthonian Polymer} | Random Drop from Serious Chazz |
-
 
 ### Event Strategy
 
