@@ -10,7 +10,7 @@
         { "type": "ancient-gears", "from": 3, "to": "nothing", "date": 2018-01-27 },
         { "type": "magnet-warriors", "from": 3, "to": 2, "date": 2018-02-27 },
         { "type": "hazy-flame", "from": 2, "to": 3, "date": 2018-02-27 },
-        { "type": "aliens", "from": "nothing", "to": 2, "date": 2018-02-27 },
+        { "type": "aliens", "from": "nothing", "to": 1, "date": 2018-03-03 },
         { "type": "magnet-warriors", "from": "nothing", "to": 3, "date": 2018-02-15 },
         { "type": "snipe-hunter", "from": "nothing", "to": 3, "date": 2018-01-31 },
         { "type": "stall-decks", "from": "nothing", "to": 3, "date": 2018-01-31 },

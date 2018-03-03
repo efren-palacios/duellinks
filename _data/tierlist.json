@@ -5,7 +5,8 @@
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" } 
+            { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" } 
         ] 
     },
     {
@@ -15,7 +16,6 @@
         "types":
         [            
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
-            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
             { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" }
         ]

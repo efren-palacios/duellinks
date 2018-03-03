@@ -40,7 +40,7 @@ hide: true
 |--|--|--|
 | Over 3000 Damage! | 500 | Deal over 3000 LP damage in a single battle/effect  |
 | Over 5000 Damage! | 1800 | Deal over 5000 LP damage in a single battle/effect |
-| Over 9999 Damage! | 3000 | Deal over 10000 LP damage in a single battle/effect |
+| Over 9999 Damage! | 3000 | Deal over 9999 LP damage in a single battle/effect |
 | No Damage | 500 | Win a duel without receiving any battle/effect damage |
 | Victory by Effect Damage Only | 1000 | Only deal effect damage during the duel |
 | Destroy 5 Monsters | 100 | Destroy 5 of your opponents monsters |
@@ -73,11 +73,13 @@ hide: true
 | Activated Spell | 100 | Play a spell card during the duel |
 | Activated Trap | 100 | Play a trap card during the duel |
 
+**Note:** Points from DIVINE/Special/Tribute/Fusion/Ritual summonning and activating spells/traps can only be gained *once*.
+
 ---
 
 | Assessment | Points | Description |
 |--|--|--|
-| Played Glossy Card | 100 | Use a prismatic foil card |
-| Played Prismatic Card | 200 | Use a glossy foil card |
+| Played Glossy Card | 100 | Use a glossy foil card |
+| Played Prismatic Card | 200 | Use a prismatic foil card |
 
 **Note:** For every glossy/prismatic card you use the points will *stack*. So, if you use 3 prismatic and 4 glossy cards that's an extra 1,000 points!
