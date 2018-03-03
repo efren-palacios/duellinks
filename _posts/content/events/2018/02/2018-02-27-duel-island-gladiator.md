@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-02-27
+date: 2018-03-03
 title: Duel Island Gladiator
 author: Yami Hammy
 image: /img/content/events/2018/02/duel-island-gladiator/banner.jpg
@@ -14,10 +14,22 @@ permalink: /events/february-2018/duel-island-gladiator/
 
 {% include heading.html title=page.title author=page.author %}
 
-[w75]
-![Banner](/img/content/events/2018/02/duel-island-gladiator/banner.jpg)
+**Last updated March 3rd**
 
 [slider](https://i.imgur.com/GPKBMhV.jpg)
+
+### Update!
+- Intruders will now appear on the Event Map, obtain a large amount of Event Points and coins by dueling them!
+- Defeat an intruder to increase their level, which starts at 10 and goes up to 40. Obtain many rewards by defeating high level intruders.
+- Now, winning a Ranked Duel will refill 1 stamina (cannot exceed 5 total).
+
+### Intruder Lvl:40 Decklist (+15,000pt)
+[deck](Phantom Beast Rock-Lizard; Phantom Beast Rock-Lizard; Phantom Beast Thunder-Pegasus; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Caninetaur; Caninetaur; Caninetaur; Rush Recklessly; Pyramid Energy; Pyramid Energy; Wild Nature's Release; Divine Wrath; United Front; Chain Destruction; Bottomless Shifting Sand)
+
+### Intruder Lvl:30 Decklist (+7,500pt)
+[deck](Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Saber Beetle; Desertapir; 7 Colored Fish; 7 Colored Fish; 7 Colored Fish; Space Mambo; Space Mambo; Space Mambo; Wild Nature's Release; Forest; Mystical Moon; Mystical Moon; United Front; Chain Destruction)
+
+---
 
 ### Event Information & Tips
 - This is a brand new type of event whereby you duel against decks created by other Duelists all over the world!
