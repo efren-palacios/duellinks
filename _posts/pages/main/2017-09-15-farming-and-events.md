@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: https://i.imgur.com/NPQiG8p.png
+image: \img\content\events\events-and-farming.png
 category: page
 sub-category: main
 order: 5
