@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Meta Weekly #3 Report"
-author: Toastykilla
+author: TOASTYKILLA
 category: tournament
 tournament: Meta Weekly
 number: 3
