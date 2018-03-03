@@ -3,7 +3,7 @@ layout: blog
 date: 2018-03-03
 title: Duel Island Gladiator
 author: Yami Hammy
-image: /img/content/events/2018/02/duel-island-gladiator/banner.jpg
+image: /img/content/events/2018/02/duel-island-gladiator/thumbnail.jpg
 category: event
 ended: false
 comments: true
@@ -11,8 +11,9 @@ description: Duel Island Gladiator, a brand new type of event. Choose a deck to 
 keywords: event, duel island, gladiator, andal, gladiator beast, phantom beast, defending, farm
 permalink: /events/february-2018/duel-island-gladiator/
 ---
+![Header](\img\content\events\2018\02\duel-island-gladiator\event-header.png)
 
-{% include heading.html title=page.title author=page.author %}
+{% include heading.html author=page.author %}
 
 **Last updated March 3rd**
 
@@ -22,6 +23,8 @@ permalink: /events/february-2018/duel-island-gladiator/
 - Intruders will now appear on the Event Map, obtain a large amount of Event Points and coins by dueling them!
 - Defeat an intruder to increase their level, which starts at 10 and goes up to 40. Obtain many rewards by defeating high level intruders.
 - Now, winning a Ranked Duel will refill 1 stamina (cannot exceed 5 total).
+
+![Header](\img\content\events\2018\02\duel-island-gladiator\intruder-header.png)
 
 ### Intruder Lvl:40 Decklist (+15,000pt)
 [deck](Phantom Beast Rock-Lizard; Phantom Beast Rock-Lizard; Phantom Beast Thunder-Pegasus; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Caninetaur; Caninetaur; Caninetaur; Rush Recklessly; Pyramid Energy; Pyramid Energy; Wild Nature's Release; Divine Wrath; United Front; Chain Destruction; Bottomless Shifting Sand)
