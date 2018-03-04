@@ -9,12 +9,10 @@ pinned: false
 comments: true
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
 keywords: news, upcoming updates, KC Cup, nerf, konami
-permalink: /news/in-game-update-&-upcoming-changes-feb-2018
+permalink: /news/february-2018/in-game-update-and-upcoming-changes/
 ---
 
-# {{page.title}}
-## by {{page.author}}
-
+{% include heading.html title=page.title author=page.author %}
 
 #### Teaser Updates!
 * On January 29th, Konami released their list of upcoming events. Included are the KC Cup announcement, the Chazz-a-thon, the return of Dr. Vellian Crowler, a teaser for a new Legendary Character, and much more!

@@ -8,7 +8,7 @@ category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates.
 keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates
-permalink: /news/february-2018/new-datamined-cards
+permalink: /news/february-2018/new-datamined-cards/
 ---
 
 {% include heading.html title=page.title author=page.author %}

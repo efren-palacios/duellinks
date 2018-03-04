@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: \img\content\events\events-and-farming.png
+image: /img/content/events/events-and-farming.png
 category: page
 sub-category: main
 order: 5
@@ -49,7 +49,7 @@ permalink: /farming-and-events/
     <div class="card">
       <div class="zoom">
         <a href="/farming/all-characters/" class="gallerypic" title="">
-          <img src="/img/pages/farm-all-characters/thumbnail.png" class="card-img-top lazyload" />
+          <img src="/img/pages/farming/all-characters/thumbnail.png" class="card-img-top lazyload" />
         </a>
       </div>
       <div class="card-block text-white">

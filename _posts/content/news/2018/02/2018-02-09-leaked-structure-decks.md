@@ -25,6 +25,3 @@ permalink: /news/february-2018/leaked-structure-decks/
 *Expected to be released late March* 
 
 [deck](Spirit Ryu; Lighten the Load; Lancer Dragonute; Dragonic Knight; Darkblaze Dragon; Synchro Boost; Release Restraint Wave; Evilswarm Zahak; Trial and Tribulation; Castle of Dragon Souls; Reverse Glasses; Strike of the Monarchs; Arkbrave Dragon; Paladin of Felgrand; Dragon Knight of Creation)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjU4ODk5Nyw2MDYzMTE0MjBdfQ==
--->

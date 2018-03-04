@@ -8,8 +8,8 @@ date: 2018-02-27
 pinned: false
 comments: true
 description: New files for upcoming events and cards have been found! Check out the long awaited New Legendary Duelist and a sneak peek of what to expect in future updates.
-keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates, syrus, syrus truesdale, vehicroid, drilloid, destiny rulers, destiny heroes, destiny hero, 
-permalink: /news/february-2018/new-datamined-cards/2-27/
+keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates, syrus, syrus truesdale, vehicroid, drilloid, destiny rulers, destiny heroes, destiny hero
+permalink: /news/february-2018/new-datamined-cards/
 ---
 
 {% include heading.html title=page.title author=page.author %}

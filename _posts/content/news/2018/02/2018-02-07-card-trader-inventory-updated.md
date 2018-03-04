@@ -8,7 +8,7 @@ category: news
 comments: true
 description: The Card Trader's inventory has been updated with some new additions to his card pool. Check here for an overview.
 keywords: news, card trader, card trader inventory, new cards
-permalink: /news/february-2018/card-trader-inventory-updated
+permalink: /news/february-2018/card-trader-inventory-updated/
 ---
 
 {% include heading.html title=page.title author=page.author %}

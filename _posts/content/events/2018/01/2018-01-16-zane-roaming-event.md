@@ -3,7 +3,7 @@ layout: blog
 date: 2018-01-16
 title: Zane Roaming Event
 author: Perune
-image: \img\content\events\2018\01\zane-roaming-event\thumbnail.png
+image: /img/content/events/2018/01/zane-roaming-event/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,9 +12,9 @@ keywords: event, zane, zane truesdale, farm, cyber dragon, chimeratech overdrago
 permalink: /events/january-2018/zane-truesdale-roaming-event/
 ---
 
-![banner](\img\content\events\2018\01\zane-roaming-event\banner.png)
-
 {% include heading.html title=page.title author=page.author %}
+
+![banner](/img/content/events/2018/01/zane-roaming-event/banner.png)
 
 **Last updated January 9th**
 

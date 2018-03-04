@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-24
 title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
-image: \img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\thumbnail.png
+image: /img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,10 +12,10 @@ keywords: event, crowler, dr crowler, dr vellian crowler, tricky tests, gate eve
 permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 ---
 
-[w75]
-![Banner](\img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\banner.png)
+{% include heading.html title=page.title author=page.author %}
 
-{% include heading.html author=page.author %}
+[w75]
+![Banner](/img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/banner.png)
 
 **Last updated February 24th by Yami Hammy**
 
@@ -23,7 +23,7 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 
 ### Update!
 
-![Lvl50](\img\content\events\2018\02\dr-vellian-crowlers-tricky-tests\lvl50-image.png)
+![Lvl50](/img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/lvl50-image.png)
 - Until the end of the event, there is a low chance that Vellian Crowler LV 50 will appear in Duel World (GX) - duel Crowler at the gate to make LV 50 appear faster!
 - In addition, Duel Assessment points from completing 'Today's Homework' have been increased to 3,000 for each Homework
 - New event missions have also been added - get up to 100 gems!

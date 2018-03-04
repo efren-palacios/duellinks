@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-13
 title: Espa Roba Roaming Event
 author: Yami Hammy & Freeska
-image: \img\content\events\2018\02\espa-roba-roaming-event\thumbnail.png
+image: /img/content/events/2018/02/espa-roba-roaming-event/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,9 +12,9 @@ keywords: event, espa, espa roba, farm, scrap recycler, pulse mines
 permalink: /events/february-2018/espa-roba-roaming-event/
 ---
 
-![Banner](\img\content\events\2018\02\espa-roba-roaming-event\banner.png)
-
 {% include heading.html title=page.title author=page.author %}
+
+![Banner](/img/content/events/2018/02/espa-roba-roaming-event/banner.png)
 
 **Last updated February 2nd**
 

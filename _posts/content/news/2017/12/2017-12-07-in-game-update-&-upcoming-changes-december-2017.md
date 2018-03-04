@@ -9,7 +9,7 @@ pinned: false
 comments: false
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
 keywords: news, upcoming updates, KC Cup, nerf, konami
-permalink: /news/in-game-update-&-upcoming-changes-december-2017
+permalink: /news/december-2017/in-game-update-and-upcoming-changes/
 ---
 
 {% include heading.html title=page.title author=page.author %}

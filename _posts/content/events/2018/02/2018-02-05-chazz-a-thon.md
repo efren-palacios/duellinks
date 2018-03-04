@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-05
 title: Chazz-A-Thon!
 author: Perune
-image: \img\content\events\2018\02\chazz-a-thon\thumbnail.png
+image: /img/content/events/2018/02/chazz-a-thon/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,9 +12,9 @@ keywords: event, chazz, chazz princedale, chazz a thon, armed dragon, vwxyz drag
 permalink: /events/february-2018/chazz-a-thon/
 ---
 
-![banner2](\img\content\events\2018\02\chazz-a-thon\banner2.png)
-
 {% include heading.html title=page.title author=page.author %}
+
+![banner2](/img/content/events/2018/02/chazz-a-thon/banner2.png)
 
 **Last updated February 9th** 
 

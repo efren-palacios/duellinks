@@ -69,7 +69,3 @@ The most important part of the new Crowler event is obviously prismatic {Ancient
 ### Summary
 
 This datamine should leave new and old players excited alike. New players will get access to one of the most flexible and beginner-friendly decks, while old players can look forward to upgrading their Ancient Gears with new playstyles not available before. The new drop rewards are lacking, but {Ultimate Ancient Gear Golem} shows some promise.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE1MTE3ODMsMTU5MjIwMDc2OCwtMT
-QzMTg3NTIxMSw0MTAyOTM3MCw0MTAyOTM3MF19
--->

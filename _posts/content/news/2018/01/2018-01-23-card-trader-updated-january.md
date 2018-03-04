@@ -8,7 +8,7 @@ date: 2018-01-31
 comments: true
 description: 
 keywords: news
-permalink: /news/card-trader-inventorty-updated
+permalink: /news/card-trader-inventorty-updated/
 ---
 
 {% include heading.html title=page.title author=page.author %}

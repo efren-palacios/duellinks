@@ -8,7 +8,7 @@ category: news
 comments: true
 description: The february 2018 season has started and with that come new duel rewards. Check here for an overview of all the new obtainable cards.
 keywords: news, rewards, ranked duels, ranked duels rewards, february 2018
-permalink: /news/february-2018/ranked-duels-rewards
+permalink: /news/february-2018/ranked-duels-rewards/
 ---
 
 {% include heading.html title=page.title author=page.author %}

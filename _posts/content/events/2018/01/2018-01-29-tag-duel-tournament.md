@@ -3,7 +3,7 @@ layout: blog
 date: 2018-01-29
 title: Tag Duel Tournament
 author: Perune
-image: \img\content\events\2018\01\tag-duel-tournament\thumbnail.png
+image: /img/content/events/2018/01/tag-duel-tournament/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,9 +12,9 @@ keywords: event, tag duel, tag duel tournament, 2v2, brawl
 permalink: /events/january-2018/tag-duel-tournament/
 ---
 
-![banner](\img\content\events\2018\01\tag-duel-tournament\banner.png)
+{% include heading.html title=page.title author=page.author %}
 
-{% include heading.html author=page.author %}
+![banner](/img/content/events/2018/01/tag-duel-tournament/banner.png)
 
 **Last updated January 29th** 
 

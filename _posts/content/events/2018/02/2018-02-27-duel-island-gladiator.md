@@ -11,9 +11,10 @@ description: Duel Island Gladiator, a brand new type of event. Choose a deck to 
 keywords: event, duel island, gladiator, andal, gladiator beast, phantom beast, defending, farm
 permalink: /events/february-2018/duel-island-gladiator/
 ---
-![Header](\img\content\events\2018\02\duel-island-gladiator\event-header.png)
 
-{% include heading.html author=page.author %}
+{% include heading.html title=page.title author=page.author %}
+
+![Header](/img/content/events/2018/02/duel-island-gladiator/event-header.png)
 
 **Last updated March 3rd**
 
@@ -24,7 +25,7 @@ permalink: /events/february-2018/duel-island-gladiator/
 - Defeat an intruder to increase their level, which starts at 10 and goes up to 40. Obtain many rewards by defeating high level intruders.
 - Now, winning a Ranked Duel will refill 1 stamina (cannot exceed 5 total).
 
-![Header](\img\content\events\2018\02\duel-island-gladiator\intruder-header.png)
+![Header](/img/content/events/2018/02/duel-island-gladiator/intruder-header.png)
 
 ### Intruder Lvl:40 Decklist (+15,000pt)
 [deck](Phantom Beast Rock-Lizard; Phantom Beast Rock-Lizard; Phantom Beast Thunder-Pegasus; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Wild-Horn; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Phantom Beast Cross-Wing; Caninetaur; Caninetaur; Caninetaur; Rush Recklessly; Pyramid Energy; Pyramid Energy; Wild Nature's Release; Divine Wrath; United Front; Chain Destruction; Bottomless Shifting Sand)

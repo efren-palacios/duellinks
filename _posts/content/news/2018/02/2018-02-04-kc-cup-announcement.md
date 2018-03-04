@@ -8,7 +8,7 @@ category: news
 comments: true
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
 keywords: news, upcoming updates, kc cup, nerf, konami
-permalink: /news/february-2018/kc-cup-announcement
+permalink: /news/february-2018/kc-cup-announcement/
 ---
 
 {% include heading.html title=page.title author=page.author %}

@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-04
 title: Duelist Challenges
 author: Spooncats
-image: \img\content\events\2018\02\duelist-challenges\thumbnail.png
+image: /img/content/events/2018/02/duelist-challenges/thumbnail.png
 category: event
 ended: true
 comments: true
@@ -12,9 +12,9 @@ keywords: event, duelist challenges, solutions, dark hunter, gravekeeper's vassa
 permalink: /events/february-2018/duelist-challenges-event/
 ---
 
-![banner](\img\content\events\2018\02\duelist-challenges\banner.png)
+{% include heading.html title=page.title author=page.author %}
 
-{% include heading.html author=page.author %}
+![banner](/img/content/events/2018/02/duelist-challenges/banner.png)
 
 [slider](/img/content/events/2018/02/duelist-challenges/slider.jpg)
 
@@ -29,7 +29,7 @@ permalink: /events/february-2018/duelist-challenges-event/
 ### Challenge Solutions
 Solutions to challenges are listed here, but we encourage new players to try the challenges on their own, as learning how cards interact together is crucial to improving as a duelist!
 
-![image](\img\content\events\2018\02\duelist-challenges\body-image.png)
+![image](/img/content/events/2018/02/duelist-challenges/body-image.png)
 
 **Challenge #1**
 1. Activate {Minoan Centaur}'s effect
