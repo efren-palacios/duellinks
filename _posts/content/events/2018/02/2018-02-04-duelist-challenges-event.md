@@ -22,7 +22,7 @@ permalink: /events/february-2018/duelist-challenges-event/
 
 ### Rewards
 - {Dark Hunter} is an obtainable card from the challenge #4.
-- In addition, players will be able to obtain a second copy of {Gravekeeper's Vassal} - for those of you that accidently converted it!
+- In addition, players will be able to obtain a second copy of {Gravekeeper's Vassal} - for those of you who accidently converted it!
 
 **Jadehex - Farm Expert:** 'You'll never need 2 Gravekeeper's Vassal in any farm deck.'
 
