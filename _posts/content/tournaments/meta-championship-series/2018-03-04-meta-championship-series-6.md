@@ -166,22 +166,8 @@ pinned: false
 
 ---
 
-#### DuelMasterBros
+#### DuelMasterBros (Check him out on [Twitch](https://www.twitch.tv/duelmasterbros) and [YouTube](https://www.youtube.com/channel/UCZL-oSoy9yuIpfn9e0_PJKA)!)
 
 [deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Parallel Twister; Parallel Twister; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam;Bracchio-raidus; Crimson Sunbird; Rabid Horseman ;Bickuribox; Flame Swordsman)
 ***Side deck:***
 [deck](Cosmic Cyclone; Cosmic Cyclone; Anti-Magic Arrows; Super Rush Headlong; Super Rush Headlong)
-
-
-<!--
-Kami (Kamikaz22)
-
-
-[deck:Balance](Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Grey;Alien Grey;Anti-Magic Arrows;Enemy Controller;Enemy Controller;Enemy Controller;"A" Cell Recombination Device;"A" Cell Recombination Device;"A" Cell Recombination Device;Powerful Rebirth;Powerful Rebirth;Wall of Disruption;Brainwashing Beam;Brainwashing Beam;Brainwashing Beam)
-[deck](Cosmic Cyclone;Forbidden Chalice;Super Rush Headlong;Super Rush Headlong;Straight Flush)
-
-MiguelJoker (Disqualified)
-
-[deck:Mythic Depths](Gishki Chain;Gishki Chain;Abyss Soldier;Abyss Soldier;Abyss Soldier;Citadel Whale;Citadel Whale;Citadel Whale;Warrior of Atlantis;Warrior of Atlantis;Gishki Ariel;Gishki Ariel;Gishki Ariel;Gishki Beast;Cosmic Cyclone;Cosmic Cyclone;Cosmic Cyclone;Sea Stealth Attack;Sea Stealth Attack;Sea Stealth Attack;Wall of Disruption;Wall of Disruption)
-[deck](A Legendary Ocean;Enemy Controller;Enemy Controller;Enemy Controller;Wall of Disruption)
--->
