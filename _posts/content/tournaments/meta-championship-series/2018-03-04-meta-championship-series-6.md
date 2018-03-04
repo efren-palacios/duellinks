@@ -166,7 +166,7 @@ pinned: false
 
 ---
 
-#### Kami (Kamikaz22)
+#### DuelMasterBros
 
 [deck:Balance](Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Parallel Twister; Parallel Twister; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam;Bracchio-raidus; Crimson Sunbird; Rabid Horseman ;Bickuribox; Flame Swordsman)
 ***Side deck:***
@@ -174,6 +174,8 @@ pinned: false
 
 
 <!--
+Kami (Kamikaz22)
+
 
 [deck:Balance](Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Grey;Alien Grey;Anti-Magic Arrows;Enemy Controller;Enemy Controller;Enemy Controller;"A" Cell Recombination Device;"A" Cell Recombination Device;"A" Cell Recombination Device;Powerful Rebirth;Powerful Rebirth;Wall of Disruption;Brainwashing Beam;Brainwashing Beam;Brainwashing Beam)
 [deck](Cosmic Cyclone;Forbidden Chalice;Super Rush Headlong;Super Rush Headlong;Straight Flush)
