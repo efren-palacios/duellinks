@@ -5,7 +5,7 @@ title: How to Farm Ishizu Ishtar
 author: Spooncats
 category: farming
 season: dm
-name: Ishizu Ishizu
+name: Ishizu Ishtar
 id: ishizu-ishtar
 image: /img/characters/portrait-ishizu-ishtar.png
 permalink: /farming/all-characters/ishizu-ishtar/
