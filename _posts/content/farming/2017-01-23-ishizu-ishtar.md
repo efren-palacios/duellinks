@@ -27,7 +27,7 @@ hide: true
 ### Card rewards
 
 | **Card** |  **Rarity**  
-| :----- | :----- | :----- 
+| :----- | :---- | :----- 
 | {Blast Held by a Tribute} | UR
 | {Gravekeeper's Chief} | SR
 | {Gravekeeper's Priestess} | SR
