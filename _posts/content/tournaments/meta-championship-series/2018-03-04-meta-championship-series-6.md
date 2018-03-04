@@ -97,7 +97,7 @@ pinned: false
 ---
 
 #### BuiltToTilt
-[deck:Mythic Depths](Gishki Chain;Gishki Chain;Gishki Chain;Citadel Whale;Citadel Whale;Citadel Whale;Warrior of Atlantis;Hammer Shark;Hammer Shark;Hammer Shark;Beautunaful Princess;Fishborg Planter;Fishborg Planter;Fishborg Planter;A Legendary Ocean;Enemy Controller;Enemy Controller;Enemy Controller;Sea Stealth Attack;Sea Stealth Attack;Gladiator Beast Heraklinos;Gladiator Beast Nerokius;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii)
+[deck:Mythic Depths](Abyss Soldier;Abyss Soldier;Abyss Soldier;Citadel Whale;Citadel Whale;Citadel Whale;Warrior of Atlantis;Hammer Shark;Hammer Shark;Hammer Shark;Beautunaful Princess;Fishborg Planter;Fishborg Planter;Fishborg Planter;A Legendary Ocean;Enemy Controller;Enemy Controller;Enemy Controller;Sea Stealth Attack;Sea Stealth Attack;Gladiator Beast Heraklinos;Gladiator Beast Nerokius;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii)
 ***Side deck:***
 [deck](Sphere Kuriboh;Cosmic Cyclone;Cosmic Cyclone;Sea Stealth Attack;Curse of Anubis)
 
