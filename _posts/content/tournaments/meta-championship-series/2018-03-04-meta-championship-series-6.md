@@ -38,7 +38,7 @@ pinned: false
 
 ----------
 
-### Sponsors:
+### Sponsors
 #### Biggest Sponsor: JackpotBayBay - $305
 
 | Sponsors | Donations ($) |
