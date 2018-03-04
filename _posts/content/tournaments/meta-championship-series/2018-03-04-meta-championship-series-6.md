@@ -104,7 +104,7 @@ pinned: false
 ---
 
 #### Taichi
-[deck:Balance](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam;Gladiator Beast Heraklinos; Gladiator Beast Nerokius; XZ-Tank Cannon; Gladiator Beast Essedarii; Gladiator Beast Essedarii)
+[deck:Restart](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Brainwashing Beam; Brainwashing Beam;Gladiator Beast Heraklinos; Gladiator Beast Nerokius; XZ-Tank Cannon; Gladiator Beast Essedarii; Gladiator Beast Essedarii)
 ***Side deck:***
 [deck](Cosmic Cyclone; Cosmic Cyclone; Fenghuang; 4-Starred Ladybug of Doom; Crevice Into the Different Dimension)
 
