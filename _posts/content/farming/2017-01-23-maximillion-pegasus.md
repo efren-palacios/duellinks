@@ -8,6 +8,8 @@ season: dm
 name: Maximillion Pegasus
 id: maximillion-pegasus
 image: /img/characters/portrait-maximillion-pegasus.png
+description: Everything you need to know about farming Maximillion Pegasus. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Maximillion Pegasus as efficient as possible.
+keywords: farming, farm decks, card rewards, free to play, Maximillion Pegasus
 permalink: /farming/all-characters/maximillion-pegasus/
 hide: true
 ---

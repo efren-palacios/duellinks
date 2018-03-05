@@ -8,6 +8,8 @@ season: gx
 name: Jaden Yuki
 id: jaden-yuki
 image: /img/characters/portrait-jaden-yuki.png
+description: Everything you need to know about farming Jaden Yuki. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Jaden Yuki as efficient as possible.
+keywords: farming, farm decks, card rewards, free to play, Jaden Yuki
 permalink: /farming/all-characters/jaden-yuki/
 hide: true
 ---

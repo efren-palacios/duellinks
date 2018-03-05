@@ -8,13 +8,13 @@ season: dm
 name: Seto Kaiba
 id: seto-kaiba
 image: /img/characters/portrait-seto-kaiba.png
+description: Everything you need to know about farming Seto Kaiba. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Seto Kaiba as efficient as possible.
+keywords: farming, farm decks, card rewards, free to play, Seto Kaiba
 permalink: /farming/all-characters/seto-kaiba/
 hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
-![Kaiba Banner](/img/content/events/kaiba.png)
 
 ### General Information
 * Seto Kaiba requires **white** keys to duel at the gate
@@ -64,12 +64,12 @@ hide: true
 **Replacements**
 * Yaksha can be replaced with any 1650+ attack beater 
 * Anti-Magic Arrows can be replaced with {Storm}
-##
+
 ***Skill-Less Level 40 farm - created by Justin Taylor (last updated: 12/02/2017)***
 
 [deck:Labyrinth Builder](Des Kangaroo; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Big Koala; Polymerization; Gift of the Martyr; Secret Pass to the Treasures; Chivalry; Chivalry; Chivalry; Desert Sunlight; Windstorm of Etaqua; Magnet Force; Magnet Force; Magnet Force; Riryoku Field; Riryoku Field; Riryoku Field; Master of Oz)
 
-* **6.6k base DA**, not as consistent as the other version
+- **6.6k base DA** - not as consistent as the other version
 
 **Strategy**
 * Summon {Labyrinth Wall} with your skill
@@ -78,13 +78,13 @@ hide: true
 * To avoid deck out, we have {Crystal Seer}
 * Try to keep at least 1 D.D. warrior counter and 1 Econ counter on the field (unless Kaiba has used them all)
 
-**Last turn:** 
-		1. Summon {Master of Oz}
-		2. Summon {Piranha Army} 
-		3. Use {Secret Pass to the Treasures}  on Piranha
-		4. Use {Gift of the Martyr} to tribute Master of Oz and give it to Piranha
-		5. Attack directly
+**Last Turn** 
+	1. Summon {Master of Oz}
+	2. Summon {Piranha Army} 
+	3. Use {Secret Pass to the Treasures}  on Piranha
+	4. Use {Gift of the Martyr} to tribute Master of Oz and give it to Piranha
+	5. Attack directly
  
 ### Level 40 Decklist
 
-[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman Mystic Horseman; Twin-Headed Behemoth; Luster Dragon #2; Blue-Eyes White Dragon; Dark Magician; Mystical Moon; Mystical Moon; Mystical Moon; Polymerization; Polymerization; Chimera the Flying Mythical Beast; Chimera the Flying Mythical Beast)
+[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman; Mystic Horseman; Twin-Headed Behemoth; Luster Dragon #2; Blue-Eyes White Dragon; Enemy Controller; Enemy Controller; Twister; Twister; Cost Down; Cost Down)
