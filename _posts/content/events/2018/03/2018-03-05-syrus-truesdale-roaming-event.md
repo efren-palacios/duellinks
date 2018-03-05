@@ -5,7 +5,7 @@ title: Syrus Truesdale Roaming Event
 author: Yami Hammy
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.png
 category: event
-ended: true
+ended: false
 comments: true
 description: Syrus Truesdale has arrived! Here's all you need to know about the event and the best ways to farm him - get those Vehicroid cards!  
 keywords: event, syrus, syrus truesdale, farm
