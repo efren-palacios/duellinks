@@ -24,6 +24,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 - Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World will increase the chance of Syrus Truesdale appearing.
 
 ### Drop Rewards
+
 | Card | Rarity | 
 | :-- | :-- |
 | {Expressroid} | UR |
@@ -38,6 +39,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 | {Patroid} | N | 
 
 ### Event Missions 
+
 | Mission | Reward | 
 | :-- | :-- |
 | Win 1 Duel against Syrus Truesdale in Duel World | {Rescueroid} |
@@ -48,7 +50,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 | Achieve 3 No Damage wins in Duels against Syrus Truesdale using Jaden Yuki | {Supercharge} |
 
 ### Farm Decks
-We will update once we divise the best farm decks to get you the highest Duel Assessment - check back soon!!
+We will update once we divise the best farm decks to get you the highest Duel Assessment - check back soon!
 
 ### Regarding the Event
 - Syrus Truesdale will only appear in Duel World (GX) - not in DM!
