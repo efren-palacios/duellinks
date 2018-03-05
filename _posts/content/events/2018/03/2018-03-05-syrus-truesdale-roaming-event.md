@@ -58,4 +58,4 @@ We will update once we divise the best farm decks to get you the highest Duel As
 - The chance of Syrus Truesdale appearing is not affected by dueling at the gate.
 
 ### Syrus Truesdale LV 40 Decklist
-[deck](Drillroid;Drillroid;Drillroid;Steamroid;Steamroid;Steamroid;Submarineroid;Submarineroid;Submarineroid;Gyroid;Gyroid;Shield Crush;Vehicroid Connection Zone;Polymerization;Polymerization;Polymerization;Fusion Recovery;No Entry!!;Inverse Universe;Supercharge)
+[deck](Drillroid;Drillroid;Drillroid;Steamroid;Steamroid;Steamroid;Submarineroid;Submarineroid;Submarineroid;Gyroid;Gyroid;Shield Crush;Vehicroid Connection Zone;Polymerization;Polymerization;Polymerization;Fusion Recovery;No Entry!!;Inverse Universe;Supercharge;Super Vehicroid Jumbo Drill;Steam Gyroid;Steam Gyroid;Pair Cycroid)
