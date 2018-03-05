@@ -96,5 +96,5 @@ If you reach **one million points** you'll get **410 Gems**, **147,800 Gold**, *
 | 800,000 | 2 SR Stone |
 | 850,000 | 30,000 Gold |
 | 900,000 | 50 Gems |
-| 950,000 | 1 UR Stone |
+| 950,000 | 1 UR Stone  |
 | 1,000,000 | Icon ![Icon](/img/content/events/2018/02/duel-island-gladiator/icon.png) |
