@@ -85,4 +85,4 @@ hide: true
  
 ### Level 40 Decklist
 
-[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman; Mystic Horseman; Twin-Headed Behemoth; Luster Dragon #2; Blue-Eyes White Dragon; Enemy Controller; Enemy Controller; Twister; Twister; Cost Down; Cost Down]
+[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman; Mystic Horseman; Twin-Headed Behemoth; Luster Dragon #2; Blue-Eyes White Dragon; Enemy Controller; Enemy Controller; Twister; Twister; Cost Down; Cost Down)
