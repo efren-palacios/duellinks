@@ -8,7 +8,7 @@ season: dm
 name: Yami Bakura
 id: yami-bakura
 image: /img/characters/portrait-yami-bakura.png
-description: Everything you need to know about farming Yami Bakura. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Yami Bakura as efficient as possible.
+description: Everything you need to know about farming Yami Bakura. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Yami Bakura as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Yami Bakura
 permalink: /farming/all-characters/yami-bakura/
 hide: true

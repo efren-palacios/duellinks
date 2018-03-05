@@ -8,7 +8,7 @@ season: dm
 name: Rex Raptor
 id: rex-raptor
 image: /img/characters/portrait-rex-raptor.png
-description: Everything you need to know about farming Rex Raptor. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Rex Raptor as efficient as possible.
+description: Everything you need to know about farming Rex Raptor. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Rex Raptor as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Rex Raptor
 permalink: /farming/all-characters/rex-raptor/
 hide: true

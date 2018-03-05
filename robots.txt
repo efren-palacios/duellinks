@@ -1,7 +1,3 @@
 User-agent: *
-Disallow: /submit-your-deck$
-Disallow: /submit-your-deck/
-Disallow: /skill$
-Disallow: /skill/
 
 Sitemap: https://dkayedmeta.netlify.com/sitemap.xml

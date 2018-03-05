@@ -532,9 +532,10 @@ strong
 
 .stats-header
 {
-  h5
+  .stats-title
   {
     float: left;
+    margin-top: 0px;
   }
 
   .stats-actions

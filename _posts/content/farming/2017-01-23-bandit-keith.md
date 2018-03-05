@@ -8,7 +8,7 @@ season: dm
 name: Bandit Keith
 id: bandit-keith
 image: /img/characters/portrait-bandit-keith.png
-description: Everything you need to know about farming Bandit Keith. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Bandit Keith as efficient as possible.
+description: Everything you need to know about farming Bandit Keith. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Bandit Keith as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Bandit Keith
 permalink: /farming/all-characters/bandit-keith/
 hide: true

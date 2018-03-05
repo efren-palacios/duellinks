@@ -8,7 +8,7 @@ season: dm
 name: Mako Tsunami
 id: mako-tsunami
 image: /img/characters/portrait-mako-tsunami.png
-description: Everything you need to know about farming Mako Tsunami. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Mako Tsunami as efficient as possible.
+description: Everything you need to know about farming Mako Tsunami. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Mako Tsunami as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Mako Tsunami
 permalink: /farming/all-characters/mako-tsunami/
 hide: true
