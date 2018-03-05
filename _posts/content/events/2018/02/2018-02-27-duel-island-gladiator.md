@@ -16,11 +16,12 @@ permalink: /events/february-2018/duel-island-gladiator/
 
 ![Header](/img/content/events/2018/02/duel-island-gladiator/event-header.png)
 
-**Last updated March 3rd**
+**Last updated March 5th**
 
 [slider](https://i.imgur.com/GPKBMhV.jpg)
 
 ### Update!
+- The event has been extended; from 7th March to 9th March. In addition, the deadline for the lottery has also been extended to 16th March. 
 - Intruders will now appear on the Event Map, obtain a large amount of Event Points and coins by dueling them!
 - Defeat an intruder to increase their level, which starts at 10 and goes up to 40. Obtain many rewards by defeating high level intruders.
 - Now, winning a Ranked Duel will refill 1 stamina (cannot exceed 5 total).
@@ -37,7 +38,7 @@ permalink: /events/february-2018/duel-island-gladiator/
 
 ### Event Information & Tips
 - This is a brand new type of event whereby you duel against decks created by other Duelists all over the world!
-- This event lasts from February 27th to March 7th.
+- This event lasts from February 27th to March 9th.
 - Before you choose to Duel/Auto-Duel you get a sneak peak of 1 card in your opponents deck so you have a vague idea what you're going up against.
 - Save your Stamina Potions until the last couple of days to maximize the number of coins you receive.
 - Always look for opponents who are worth of 6000+ points (7000 is the maximum). Keep refreshing as dueling a low point opponent is a waste of stamina. However, even if you lose the duel, you'll still get 3000+ points from the duel.
