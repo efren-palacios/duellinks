@@ -67,7 +67,7 @@ hide: true
 
 [deck:Labyrinth Builder](Des Kangaroo; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Big Koala; Polymerization; Gift of the Martyr; Secret Pass to the Treasures; Chivalry; Chivalry; Chivalry; Desert Sunlight; Windstorm of Etaqua; Magnet Force; Magnet Force; Magnet Force; Riryoku Field; Riryoku Field; Riryoku Field; Master of Oz)
 
-* **6.6k base DA**, not as consistent as the other version
+- **6.6k base DA** - not as consistent as the other version
 
 **Strategy**
 * Summon {Labyrinth Wall} with your skill
