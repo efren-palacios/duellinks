@@ -8,7 +8,7 @@ season: dm
 name: Ishizu Ishtar
 id: ishizu-ishtar
 image: /img/characters/portrait-ishizu-ishtar.png
-description: Everything you need to know about farming Ishizu Ishtar. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Ishizu Ishtar as efficient as possible.
+description: Everything you need to know about farming Ishizu Ishtar. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Ishizu Ishtar as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Ishizu Ishtar
 permalink: /farming/all-characters/ishizu-ishtar/
 hide: true

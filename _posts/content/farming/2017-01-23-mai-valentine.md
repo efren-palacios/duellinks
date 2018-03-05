@@ -8,7 +8,7 @@ season: dm
 name: Mai Valentine
 id: mai-valentine
 image: /img/characters/portrait-mai-valentine.png
-description: Everything you need to know about farming Mai Valentine. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Mai Valentine as efficient as possible.
+description: Everything you need to know about farming Mai Valentine. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Mai Valentine as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Mai Valentine
 permalink: /farming/all-characters/mai-valentine/
 hide: true

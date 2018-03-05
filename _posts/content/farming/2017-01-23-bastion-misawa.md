@@ -8,7 +8,7 @@ season: gx
 name: Bastion Misawa
 id: bastion-misawa
 image: /img/characters/portrait-bastion-misawa.png
-description: Everything you need to know about farming Bastion Misawa. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Bastion Misawa as efficient as possible.
+description: Everything you need to know about farming Bastion Misawa. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Bastion Misawa as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Bastion Misawa
 permalink: /farming/all-characters/bastion-misawa/
 hide: true

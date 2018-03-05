@@ -8,7 +8,7 @@ season: gx
 name: Alexis Rhodes
 id: alexis-rhodes
 image: /img/characters/portrait-alexis-rhodes.png
-description: Everything you need to know about farming Alexis Rhodes. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Alexis Rhodes as efficient as possible.
+description: Everything you need to know about farming Alexis Rhodes. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Alexis Rhodes as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Alexis Rhodes
 permalink: /farming/all-characters/alexis-rhodes/
 hide: true

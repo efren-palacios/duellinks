@@ -8,7 +8,7 @@ season: dm
 name: Joey Wheeler
 id: joey-wheeler
 image: /img/characters/portrait-joey-wheeler.png
-description: Everything you need to know about farming Joey Wheeler. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Joey Wheeler as efficient as possible.
+description: Everything you need to know about farming Joey Wheeler. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Joey Wheeler as efficiently as possible.
 keywords: farming, farm decks, card rewards, free to play, Joey Wheeler
 permalink: /farming/all-characters/joey-wheeler/
 hide: true
