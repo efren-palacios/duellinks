@@ -6,7 +6,7 @@ image: /img/pages/tier-list/thumbnadsdil.png
 category: page
 comments: false
 date: 2018-01-23
-description: ADD PAGE DESCRIPTION HERE - MAX 150 CHARS
+description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
 keywords: guide, in-depth guide
 permalink: /farming/all-characters/
 hide: true
