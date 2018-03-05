@@ -64,6 +64,16 @@
                 {% endif %}
               {% endfor %}
               <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
+            {% elsif page.url == "/farming-and-events/" %}
+              {% assign filteredPosts = site.posts | where: "category", "event" %}
+              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
+              {% for post in filteredPosts %}
+                {% assign formattedDate = post.date | date: "%Y-%m-%d" %}
+                {% if formattedDate > lastCreated %}
+                  {% assign lastCreated = formattedDate %}
+                {% endif %}
+              {% endfor %}
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>  
             {% else %}
               <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}
