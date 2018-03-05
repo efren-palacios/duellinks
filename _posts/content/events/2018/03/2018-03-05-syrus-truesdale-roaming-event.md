@@ -10,7 +10,6 @@ comments: true
 description: Syrus Truesdale has arrived! Here's all you need to know about the event and the best ways to farm him - get those Vehicroid cards!  
 keywords: event, syrus, syrus truesdale, farm
 permalink: /events/march-2018/syrus-truesdale-roaming-event/
-hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -25,8 +24,9 @@ hide: true
 - Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World and in Ranked Duels will increase the chance of Syrus Truesdale appearing.
 
 ### Drop Rewards
+
 | Card | Rarity | 
-|:--|:--|
+| :-- | :-- |
 | {Expressroid} | UR |
 | {Submarineroid} | SR |
 | {Inverse Universe} | SR |
@@ -39,8 +39,9 @@ hide: true
 | {Patroid} | N | 
 
 ### Event Missions 
+
 | Mission | Reward | 
-|:--|:--|
+| :-- | :-- |
 | Win 1 Duel against Syrus Truesdale in Duel World | {Rescueroid} |
 | Win 3 Duels against Syrus Truesdale in Duel World | {Ambulance Rescueroid} |
 | Win 7 Duels against Syrus Truesdale in Duel World | {Pair Cycroid} |
