@@ -8,6 +8,8 @@ season: dm
 name: Seto Kaiba
 id: seto-kaiba
 image: /img/characters/portrait-seto-kaiba.png
+description: Everything you need to know about farming Seto Kaiba. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Seto Kaiba as efficient as possible.
+keywords: farming, farm decks, card rewards, free to play, Seto Kaiba
 permalink: /farming/all-characters/seto-kaiba/
 hide: true
 ---
