@@ -10,6 +10,7 @@ comments: true
 description: Syrus Truesdale has arrived! Here's all you need to know about the event and the best ways to farm him - get those Vehicroid cards!  
 keywords: event, syrus, syrus truesdale, farm
 permalink: /events/march-2018/syrus-truesdale-roaming-event/
+hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
