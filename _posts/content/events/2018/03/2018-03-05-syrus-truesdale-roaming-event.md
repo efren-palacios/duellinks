@@ -59,8 +59,8 @@ We will update once we divise the best farm decks to get you the highest Duel As
 
 ---
 
-### Syrus Truesdale LV 40 Decklist
+### Syrus Truesdale Lvl: 40 Decklist
 [deck](Drillroid;Drillroid;Drillroid;Steamroid;Steamroid;Steamroid;Submarineroid;Submarineroid;Submarineroid;Gyroid;Gyroid;Shield Crush;Vehicroid Connection Zone;Polymerization;Polymerization;Polymerization;Fusion Recovery;No Entry!!;Inverse Universe;Supercharge;Super Vehicroid Jumbo Drill;Steam Gyroid;Steam Gyroid;Pair Cycroid)
 
-### Syrus Truesdale LV 30 Decklist
+### Syrus Truesdale Lvl: 30 Decklist
 [deck](Ambulanceroid;Ambulanceroid;Ambulanceroid;Expressroid;Expressroid;Expressroid;Jetroid;Jetroid;Rescueroid;Rescueroid;Truckroid;Truckroid;Weapon Change;Weapon Change;Fusion Recovery;Polymerization;Polymerization;Emergency Provisions;Inverse Universe;Supercharge;Ambulance Rescueroid)
