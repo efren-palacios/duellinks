@@ -48,7 +48,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 | Achieve 3 No Damage wins in Duels against Syrus Truesdale using Jaden Yuki | {Supercharge} |
 
 ### Farm Decks
-We will update once we divise the best farm decks to get you the highest Duel Assessment - check back soon!
+We will update once we divise the best farm decks to get you the highest Duel Assessment - check back soon!!
 
 ### Regarding the Event
 - Syrus Truesdale will only appear in Duel World (GX) - not in DM!
