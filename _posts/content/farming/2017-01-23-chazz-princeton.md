@@ -8,6 +8,8 @@ season: gx
 name: Chazz Princeton
 id: chazz-princeton
 image: /img/characters/portrait-chazz-princeton.png
+description: Everything you need to know about farming Chazz Princeton. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Chazz Princeton as efficiently as possible.
+keywords: farming, farm decks, card rewards, free to play, Chazz Princeton
 permalink: /farming/all-characters/chazz-princeton/
 hide: true
 ---

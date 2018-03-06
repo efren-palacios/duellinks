@@ -8,7 +8,7 @@ category: event
 ended: true
 comments: true
 description: chazz-a-thon
-keywords: event, chazz, chazz princedale, chazz a thon, armed dragon, vwxyz dragon, farm
+keywords: event, chazz, chazz princeton, chazz a thon, armed dragon, vwxyz dragon, farm
 permalink: /events/february-2018/chazz-a-thon/
 ---
 
@@ -18,15 +18,15 @@ permalink: /events/february-2018/chazz-a-thon/
 
 **Last updated February 9th** 
 
-[gallery](https://i.imgur.com/nGgumxC.png, https://i.imgur.com/rZp5t0C.png, https://i.imgur.com/dB1QOTd.png, https://i.imgur.com/kWWNTaG.png, https://i.imgur.com/woSnf4L.png, https://i.imgur.com/vJOFWG3.png)
+[slider](/img/content/events/2018/02/chazz-a-thon/slider.jpg)
 
 ### Event Info
 Serious Chazz is here to **Chazz It Up!!!** with his new Armed Dragon Cards. Defeat Serious Chazz in Duel World (GX) to obtain exclusive Reward cards! The chance of him appearing is increased by dueling in any Duel World or Ranked Duels. 
 
 ### Event Rewards
 
-| Card    | How to Obtain |  Recommendation
-| :------- | :---- | :--- | :---- 
+| Card    | How to Obtain |
+| :------- | :---- | :--- | 
 | {Armed Dragon LV10} | Cumulative reward at 3160 points or a random drop from Serious Chazz  | 
 | {VWXYZ-Dragon Catapult Cannon} | Cumulative reward at 860 points or a random drop from Serious Chazz |
 | {Lancer Lindwurm} | Random drop from Serious Chazz |

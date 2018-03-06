@@ -8,6 +8,8 @@ season: dm
 name: Tea Gardner
 id: tea-gardner
 image: /img/characters/portrait-tea-gardner.png
+description: Everything you need to know about farming Tea Gardner. Her decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Tea Gardner as efficiently as possible.
+keywords: farming, farm decks, card rewards, free to play, Tea Gardner
 permalink: /farming/all-characters/tea-gardner/
 hide: true
 ---

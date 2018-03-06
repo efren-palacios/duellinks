@@ -8,6 +8,8 @@ season: dm
 name: Paradox Brothers
 id: paradox-brothers
 image: /img/characters/portrait-paradox-brothers.png
+description: Everything you need to know about farming Paradox Brothers. Their decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Paradox Brothers as efficiently as possible.
+keywords: farming, farm decks, card rewards, free to play, Paradox Brothers
 permalink: /farming/all-characters/paradox-brothers/
 hide: true
 ---

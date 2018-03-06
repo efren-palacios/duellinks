@@ -8,6 +8,8 @@ season: gx
 name: Aster Phoenix
 id: aster-phoenix
 image: /img/characters/portrait-aster-phoenix.png
+description: Everything you need to know about farming Aster Phoenix. His decklists, card rewards, top level farm decks with strategy information and free to play card replacements. This article will help you farm Aster Phoenix as efficiently as possible.
+keywords: farming, farm decks, card rewards, free to play, Aster Phoenix
 permalink: /farming/all-characters/aster-phoenix/
 hide: true
 ---
