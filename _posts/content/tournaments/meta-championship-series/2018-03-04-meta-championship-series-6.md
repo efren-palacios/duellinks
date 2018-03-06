@@ -28,7 +28,7 @@ pinned: false
 - Best of 3. Swiss
 - 1 Deck with a 5 card Side Deck
 
-#### Watch the Tournament Coverage:
+#### Watch the Tournament Coverage
 * [Day 1 - 8 rounds](https://www.youtube.com/watch?v=BZTFAF4ZAEs)
 * [Day 2 - top 32](https://www.youtube.com/watch?v=VmTfa25f8wo)
 * [Grand Finals - Aliens vs REZ](https://www.youtube.com/watch?v=n6-eyoxBgAc)
