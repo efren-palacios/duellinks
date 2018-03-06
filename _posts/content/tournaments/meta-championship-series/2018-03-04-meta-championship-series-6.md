@@ -69,7 +69,7 @@ pinned: false
 
 ---
 
-#### ​2nd Place - Silverstone: $774
+#### ​2nd Place - Silver Stone: $774
 [deck:Straight to the Grave](Gozuki; Gozuki; Gozuki; Red-Eyes Wyvern; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull;Bacon Saver;Cosmic Cyclone;Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Wall of Disruption;Wall of Disruption; Red-Eyes Spirit; Red-Eyes Spirit)
 ***Side deck:***
 [deck](Cosmic Cyclone;Anti-Magic Arrows;Anti-Magic Arrows;Super Rush Headlong;Foolish Return)
@@ -118,7 +118,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - RNPollo: $75
+#### 9th-16th Place - RNPollo: $75 (Check him out on [Twitch](https://www.twitch.tv/rnpollo)!)
 [deck:Straight to the Grave](Gozuki; Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Heavy Knight of the Flame; Samurai Skull; Samurai Skull; Bacon Saver; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Red-Eyes Spirit; Red-Eyes Spirit; Curse of Anubis; Gladiator Beast Heraklinos; Ojama King; Gladiator Beast Nerokius; Gladiator Beast Essedarii; Mokey Mokey King)
 ***Side deck:***
 [deck](4-Starred Ladybug of Doom; Cosmic Cyclone; Wall of Disruption; DNA Transplant; Ultimate Providence)
