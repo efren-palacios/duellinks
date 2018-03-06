@@ -1,5 +1,5 @@
 {
-    "deck-type": "",
+    "deck-type": "example-deck-type",
     "created-by": "Dkayed",
     "modified-by": "",
     "modified-on": "",
@@ -83,11 +83,11 @@
             ]
         }
     ],
-    "": 
+    "guides": 
     [
         
     ],
-    "": 
+    "videos": 
     [
     ]
 }
