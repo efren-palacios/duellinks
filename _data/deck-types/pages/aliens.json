@@ -7,8 +7,8 @@
     "sections":
     [
         {
-            "title": "Overview",
-            "level": 1,
+            "title": "",
+            "level": "",
             "blocks":
             [
                 {
@@ -17,18 +17,18 @@
             ]
         },
         {
-            "title": "Sample Deck",
-            "level": 1,
-            "blocks":
+            "": "",
+            "": "",
+            "":
             [
                 {
-                    "paragraph": ""
+                    "": ""
                 },
                 { 
-                    "deck":
+                    "":
                     {
-                        "skill": "",
-                        "main":
+                        "": "",
+                        "":
                         [
                         ]                
                     }
@@ -52,44 +52,42 @@
                     }            
                 },
                 {
-                    "paragraph": ""
+                    "": ""
                 }        
             ]
         },
         {
             "title": "",
-            "level": 1,
-            "blocks":
+            "": "",
+            "":
             [
                 {
-                    "box":
+                    "":
                     {
 
                     }       
                 },
                 {
-                    "paragraph": ""
+                    "": ""
                 },
                 {
-                    "paragraph": ""
+                    "": ""
                 }           
             ]
         },
         {
-            "title": "",
-            "level": 1,
-            "blocks":
+            "": "",
+            "":
             [
    
             ]
         }
     ],
-    "guides": 
+    "": 
     [
         
     ],
-    "videos": 
+    "": 
     [
-        ""
     ]
 }
