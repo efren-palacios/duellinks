@@ -1,18 +1,18 @@
 {
     "deck-type": "Aliens",
-    "created-by": "Hextor",
-    "modified-by": "Hextor",
-    "modified-on": "February 9th, 2018",
+    "created-by": "Dkayed",
+    "modified-by": "",
+    "modified-on": "",
     "profile": "",
     "sections":
     [
         {
-            "title": "",
-            "level": "",
-            "blocks":
+            "": "",
+            "": "",
+            "":
             [
                 {
-                    "paragraph": ""
+                    "": ""
                 }   
             ]
         },
@@ -34,19 +34,19 @@
                     }
                 },
                 {
-                    "paragraph": ""
+                    "": ""
                 }           
             ]
         },
         {
-            "title": "",
-            "level": 1,
-            "blocks":
+            "": "",
+            "": "",
+            "":
             [
                 {
-                    "box":
+                    "":
                     {
-                        "main":
+                        "":
                         [
                         ]
                     }            
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "title": "",
+            "": "",
             "": "",
             "":
             [
