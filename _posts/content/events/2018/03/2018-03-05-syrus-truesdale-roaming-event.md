@@ -25,7 +25,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 - This event lasts from March 5th to March 15th.
 - Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World will increase the chance of Syrus Truesdale appearing.
 
-### Drop Rewards
+### Drop Rewards 
 
 | Card | Rarity | 
 | :-- | :-- |
