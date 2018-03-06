@@ -19,15 +19,23 @@ pinned: false
 ![Banner](/img/logos/mcs-6-thumbnail.jpg)
 
 #### Tournament Information
-- Day 1: March 3rd 1pm EST/6pm GMT
-- Day 2: March 4th 1pm EST/6pm GMT
-- 8 rounds Day 1 - Top 32 move on to Day 2
-- $10 entry fee
+- Discord Membership: [CLICK HERE](https://discord.gg/duellinksmeta)
+- Day 1 - 8 rounds: March 3rd 1pm EST/6pm GMT
+- Day 2 - top 32: March 4th 1pm EST/6pm GMT
 
 #### Format
-- 364 Player Cap
-- Swiss Style
+- 289 Players
+- Best of 3. Swiss
 - 1 Deck with a 5 card Side Deck
+
+#### Watch the Tournament Coverage:
+[Day 1 - 8 rounds](https://www.youtube.com/watch?v=BZTFAF4ZAEs)
+[Day 2 - top 32](https://www.youtube.com/watch?v=VmTfa25f8wo)
+[Grand Finals - Aliens vs REZ](https://www.youtube.com/watch?v=n6-eyoxBgAc)
+[Top 16 deck analysis](https://www.youtube.com/watch?v=265rtRlBA9Y)
+
+#### Full Standings
+[Click here](https://smash.gg/tournament/meta-championship-series-vi-1/events/mcs-v/standings)
 
 ---
 
@@ -60,7 +68,7 @@ pinned: false
 
 ---
 
-### Top 16 Decklists (Main + Side Deck) - Prize Support: $4,670
+### Top 16 Decklists (Main + Side Deck) - Prize Support: $4,400
 
 #### 1st Place - Glading: $1,820
 [deck:Balance](Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Grey;Alien Grey;Anti-Magic Arrows;Enemy Controller;Enemy Controller;Enemy Controller;"A" Cell Recombination Device;"A" Cell Recombination Device;"A" Cell Recombination Device;Powerful Rebirth;Powerful Rebirth;Wall of Disruption;Brainwashing Beam;Brainwashing Beam;Brainwashing Beam)
