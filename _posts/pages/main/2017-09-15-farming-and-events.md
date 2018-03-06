@@ -7,7 +7,7 @@ category: page
 sub-category: main
 order: 5
 comments: false
-date: 2018-03-06 01:29:00 -0600
+date: 2018-03-05 01:29:00 -0600
 description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
 keywords: event, events, new event, farming, duel assessment, score, farm decks
 permalink: /farming-and-events/
