@@ -132,7 +132,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - MedzR: $75
+#### 9th-16th Place - MedzR: $75 (Check him out on [Twitch](https://www.twitch.tv/medzr)!)
 [deck:Balance](Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Grey;Enemy Controller;Enemy Controller;Enemy Controller;"A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device;Powerful Rebirth;Powerful Rebirth;Xing Zhen Hu;Xing Zhen Hu;Brainwashing Beam;Brainwashing Beam)
 ***Side deck:***
 [deck](Gladiator Beast Andal;Cosmic Cyclone;Super Rush Headlong;Storm;Brainwashing Beam)

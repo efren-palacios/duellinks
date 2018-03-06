@@ -3,7 +3,7 @@ layout: blog
 date: 2018-03-05
 title: Syrus Truesdale Roaming Event
 author: Yami Hammy & Freeska
-image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.png
+image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
 category: event
 ended: false
 comments: true
@@ -15,6 +15,8 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 {% include heading.html title=page.title author=page.author %}
 
 ![Banner](/img/content/events/2018/03/syrus-truesdale-roaming-event/banner.png)
+
+**Last updated March 5th - Added farm decks**
 
 [slider](/img/content/events/2018/03/syrus-truesdale-roaming-event/slider.jpg)
 
