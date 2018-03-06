@@ -29,10 +29,10 @@ pinned: false
 - 1 Deck with a 5 card Side Deck
 
 #### Watch the Tournament Coverage:
-[Day 1 - 8 rounds](https://www.youtube.com/watch?v=BZTFAF4ZAEs)
-[Day 2 - top 32](https://www.youtube.com/watch?v=VmTfa25f8wo)
-[Grand Finals - Aliens vs REZ](https://www.youtube.com/watch?v=n6-eyoxBgAc)
-[Top 16 deck analysis](https://www.youtube.com/watch?v=265rtRlBA9Y)
+* [Day 1 - 8 rounds](https://www.youtube.com/watch?v=BZTFAF4ZAEs)
+* [Day 2 - top 32](https://www.youtube.com/watch?v=VmTfa25f8wo)
+* [Grand Finals - Aliens vs REZ](https://www.youtube.com/watch?v=n6-eyoxBgAc)
+* [Top 16 deck analysis](https://www.youtube.com/watch?v=265rtRlBA9Y)
 
 #### Full Standings
 [Click here](https://smash.gg/tournament/meta-championship-series-vi-1/events/mcs-v/standings)
