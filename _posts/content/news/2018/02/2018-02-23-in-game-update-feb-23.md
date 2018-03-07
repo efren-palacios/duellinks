@@ -32,13 +32,10 @@ March has so many new events and new Legendary Duelists. Be sure to check out th
 ### February 1st Update
 #### By Jonesy9027
   
-   
 #### Teaser Updates!
 * On January 29th, Konami released their list of upcoming events. Included are the KC Cup announcement, the Chazz-a-thon, the return of Dr. Vellian Crowler, a teaser for a new Legendary Character, and much more!
-![Upcoming](https://i.imgur.com/43tELd0.png)
-![Upcoming](https://i.imgur.com/NYZT285.png)
-![Upcoming](https://i.imgur.com/TCQ6Gvs.png)
-![Upcoming](https://i.imgur.com/ojWEfGc.png)
+
+[slider](/img/content/news/2018/02/in-game-updates/slider2.jpg)
 
 #### Other News
 The current sale celebrating the release of ninth mini box *Resonance of Contrast* will be ending on February 3rd. Hurry up and take advantage of the deals below if you still need some cards from any of the boxes to complete your deck!
@@ -46,7 +43,9 @@ The current sale celebrating the release of ninth mini box *Resonance of Contras
 - Check out Konami's release of Resonance of Contrast [here](https://www.konami.com/yugioh/duel_links/en/box/resonance_of_contrast/).
 - Check out Duel Links Meta's review of the new box [here](https://www.youtube.com/watch?v=EOgZ2VpCANQ).
 - Current Sale:
-  ![Jan24-Feb3 Sale](https://i.imgur.com/dmkDE4P.png)
+
+[w50]
+![Jan24-Feb3 Sale](https://i.imgur.com/dmkDE4P.png)
 
 Konami has also updated the cards that players can receive by using their ranked rewards tickets they achieved from the 25th ranked season this February. Some intriguing new additions are the R {Dark Catapulter}, the R {Necklace of Command}, the SR {The Light-Hex-Sealed Fusion}, and the UR {Amazoness Paladin}.
 
