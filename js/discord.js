@@ -159,7 +159,7 @@ DiscordAPICall.prototype.getUserIDByAccessToken = function(callback)
 DiscordAPICall.prototype.getAllowedRolesID = function(callback)
 {
     var ref = this;
-    var roles = ['king of games', 'dkayed', 'website devs', 'content creator'];
+    var roles = [/*'king of games', */'dkayed', 'website devs', 'content creator'];
 
     $.ajax(
     {
