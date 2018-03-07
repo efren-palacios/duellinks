@@ -19,7 +19,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 [deck](Swamp Mirrorer;Divine Dragon Aquabizarre;The Dragon Dwelling in the Deep)
 
-### Top Player Council Opinions
+### Top Player Council Opinions 
 
 **[Superforms](/authors/superforms/) says:** 
 The only interesting one is {Swamp Mirrorer}, the other two are trash. 

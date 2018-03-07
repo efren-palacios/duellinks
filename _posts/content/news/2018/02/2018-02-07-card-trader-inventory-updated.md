@@ -14,7 +14,7 @@ permalink: /news/february-2018/card-trader-inventory-updated/
 {% include heading.html title=page.title %}
 
 ## February 23rd Update 
-### By Yami Hammy
+### By Yami Hammy 
 
 ![screenshot](/img/content/news/2018/02/card-trader-update/screenshot-feb-23.jpg)
 
