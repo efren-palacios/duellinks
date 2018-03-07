@@ -38,7 +38,7 @@
         "types":
         [
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
-            { "id": "fishies",                  "display": "Fishes",                "card": "Golden Flying Fish" }
+            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" }
         ] 
     },
     {
