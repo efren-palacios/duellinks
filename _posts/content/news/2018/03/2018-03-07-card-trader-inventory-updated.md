@@ -40,6 +40,6 @@ Overall {Swamp Mirrorer} feels like a nice (but slow) consistency piece in decks
 ### Summary
 
 - The sea serpent cards are bad and will likely have no place in current water builds. 
-- {Swamp Mirrorer} has potential in existing decks as well as compatibility with the [leaked Dragon structure deck](/news/february-2018/leaked-structure-decks/).
+- {Swamp Mirrorer} has potential in existing decks as well as compatibility with the [leaked Dragon structure deck](/news/february-2018/leaked-structure-decks/). 
 
 ***The Card Trader is unlocked at Stage 7 and the cards in stock rotate every 8 hours.***
