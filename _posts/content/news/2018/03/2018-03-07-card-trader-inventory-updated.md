@@ -33,7 +33,7 @@ Overall {Swamp Mirrorer} feels like a nice (but slow) consistency piece in decks
 
 ### Required Items
 
-<!--- {Swamp Mirrorer}: -->
+- {Swamp Mirrorer}: 110,000 Gold, 4 UR Jewel, 70 Stone of Trap
 - {Divine Dragon Aquabizarre}: 39,000 Gold, 5 SR Jewel, 55 Stone of Water
 - {The Dragon Dwelling in the Deep}: 15,000 Gold, 40 R Jewel, 40 Stone of Water
 

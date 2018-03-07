@@ -62,7 +62,7 @@ Basically the engine is there to gain resources fast but there's still some key 
 
 ### Required Items
 
-<!---- {Aromage Jasmine}: 6 SR Jewels, 50 Stone of -->
+- {Aromage Jasmine}: 42,000 Gold, 5 SR Jewels, 50 Stone of Light
 - {Aromage Rosemary}: 17,000 Gold, 35 R Jewel, 35 Stone of Spell 
 - {Aroma Garden}: 6,000 Gold, 2 Stone of Spell
 
