@@ -4,6 +4,14 @@ $(document).ready(function()
     {
         $(this).toggleClass("active");
 
+        var self = $(this);
+        $(".guides-filters [data-filter]").each(function() {
+            var category = $(this).data("filter");
+            if(self.data("filter") != category) {
+                $(this).removeClass("active");
+            }    
+        });
+
         if($(".guides-filters .active[data-filter]").length == 0)
         {
             $("[data-category]").each(function()
