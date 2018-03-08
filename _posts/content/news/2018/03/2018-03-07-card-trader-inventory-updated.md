@@ -13,7 +13,7 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 
 {% include heading.html title=page.title author=page.author %}
 
-![banner](/img/content/global/banner.png)
+![banner](/img/content/global/card-trader-banner.png)
 
 ![screenshot](/img/content/news/2018/03/card-trader-update/slider.jpg)
 
