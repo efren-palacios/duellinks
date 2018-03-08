@@ -90,7 +90,7 @@ function MakeCardsClickable()
 {
     $(".deck-submission").on("click", ".card-search .item", function()
     {
-        AddCardToUserDeck($(this).data("name"));
+        GetCardPropertiesAndAddToUserDeck($(this).data("name"));
     });
 
     $(".deck-submission").on("click", "#deck-container .item", function()
@@ -112,7 +112,7 @@ function MakeBoxesDroppable()
         accept: ".item",
         drop: function(event, ui)
         {
-            AddCardToUserDeck($(ui.draggable).data("name"));
+            GetCardPropertiesAndAddToUserDeck($(ui.draggable).data("name"));
         },
         out: function (event, ui)
         {
@@ -129,7 +129,7 @@ function MakeBoxesDroppable()
     });
 }
 
-function AddCardToUserDeck(name)
+function GetCardPropertiesAndAddToUserDeck(name)
 {
     var nextNumber = GetNextNumber(name);
     
@@ -143,7 +143,7 @@ function AddCardToUserDeck(name)
             {
                 var data = $.parseJSON(result);
 
-                if(data.status === "success" && (!MainDeckIsFull() || !ExtraDeckIsFull()))
+                if(data.status === "success" && CanAddCard(data.card.is_extra_deck))
                 {
                     var card = 
                     {
@@ -151,53 +151,63 @@ function AddCardToUserDeck(name)
                         type: GetTypeId(data.card.type),
                         attack: parseInt(data.card.attack),
                         isNormal: $.inArray("Effect", data.card.monster_types) < 0,
+                        isExtra: data.card.is_extra_deck,
                         number: nextNumber
                     }
 
-                    if(!data.card.is_extra_deck && !MainDeckIsFull())
+                    AddCardToUserDeck(card);
+                }
+                else if(!MainDeckIsFull())
+                {
+                    var card = 
                     {
-                        DeckSubmissionViewModel.selectedMainCards.push(card);
-                    }
-                    else if(data.card.is_extra_deck && !ExtraDeckIsFull())
-                    {
-                        DeckSubmissionViewModel.selectedExtraCards.push(card);
+                        name: name,
+                        type: 4,
+                        attack: 0,
+                        isNormal: true,
+                        isExtra: false,
+                        number: nextNumber
                     }
 
-                    MakeCardsDraggable();
+                    if (confirm("We didn't find the properties of " + name + ". This card will not be sorted correctly."))
+                    {
+                        AddCardToUserDeck(card);
+                    }
                 }
             },
             error: function ()
             {
-                
+                alert("Error: ygohub.com/api unavailable.");
             }
         });
-
-        /*$.getJSON("https://www.ygohub.com/api/card_info?name=" + encodeURIComponent(name), function(data)
-        {
-            if(data.status === "success" && (!MainDeckIsFull() || !ExtraDeckIsFull()))
-            {
-                var card = 
-                {
-                    name: name,
-                    type: GetTypeId(data.card.type),
-                    attack: parseInt(data.card.attack),
-                    isNormal: $.inArray("Effect", data.card.monster_types) < 0,
-                    number: nextNumber
-                }
-
-                if(!data.card.is_extra_deck && !MainDeckIsFull() && GetNextNumber(name) <= 3)
-                {
-                    DeckSubmissionViewModel.selectedMainCards.push(card);
-                }
-                else if(data.card.is_extra_deck && !ExtraDeckIsFull() && GetNextNumber(name) <= 3)
-                {
-                    DeckSubmissionViewModel.selectedExtraCards.push(card);
-                }
-
-                MakeCardsDraggable();
-            }
-        });*/
     }
+}
+
+function AddCardToUserDeck(card)
+{
+    if(!card.isExtra)
+    {
+        DeckSubmissionViewModel.selectedMainCards.push(card);
+    }
+    else
+    {
+        DeckSubmissionViewModel.selectedExtraCards.push(card);
+    }
+
+    MakeCardsDraggable();
+}
+
+function RemoveCardFromUserDeck(name)
+{
+    DeckSubmissionViewModel.selectedMainCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
+
+    DeckSubmissionViewModel.selectedExtraCards.remove(function(card)
+    {
+        return card.name == name && card.number === number;
+    });
 }
 
 function RemoveCardFromUserDeck(name, number)
@@ -245,6 +255,11 @@ function GetNextNumber(name)
 
         return Math.max.apply(Math, numbers) + 1;
     }
+}
+
+function CanAddCard(isExtraDeck)
+{
+    return (!isExtraDeck && !MainDeckIsFull()) || (isExtraDeck && !ExtraDeckIsFull());
 }
 
 function MainDeckIsFull()
