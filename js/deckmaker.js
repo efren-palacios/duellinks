@@ -244,41 +244,20 @@ function updatePopupsForDesktops() {
             effect: function() { $(this).fadeOut(250); },
             event: false 
         },
-        position: { 
-            my: 'center left', 
-            to: 'center right', 
-            adjust: { 
-                method: 'flip', 
-                y: -50, 
-                x: 10 
-            } 
-        },
         content: { text: obtainTextForDesktops }        
     }
 
     // Manually show/hide the popup, as the listener for qtip
     // doesn't add the card/skill listeners correctly outside a deck
     $('.dcards').on('mouseenter', function() {
-        var self = $(this);
-        var events = {
-            visible: function(event, api) {
-                tooltipVisible(event, api, self, '.dcards');
-            }
-        }
-        options.events = events;
+        options = updatePopupOptions($(this), options);
 
         var tooltips = $(this).qtip(options);
         var api = tooltips.qtip('api');
         api.show();
     });
     $('body').on('mouseenter', '.card-hover', function() {
-        var self = $(this);
-        var events = {
-            visible: function(event, api) {
-                tooltipVisible(event, api, self, '.card-hover');
-            }
-        }
-        options.events = events;
+        options = updatePopupOptions($(this), options);
 
         // Add additional needed options for card-hover elements 
         options.style.tip = false;
@@ -291,6 +270,36 @@ function updatePopupsForDesktops() {
         var api = tooltips.qtip('api');
         api.show();
     }); 
+};
+
+function updatePopupOptions(cardElem, options) {
+    var events = {
+        visible: function(event, api) {
+            tooltipVisible(event, api, cardElem, '.dcards');
+        }
+    }
+    options.events = events;
+
+    if(cardElem.offset().left > ($('body').width() / 2) ) {
+        options.position = { 
+            my: 'right center', 
+            at: 'left center',
+            adjust: {
+                x: -10
+            }
+        }
+    }  
+    else {
+        options.position = { 
+            my: 'left center', 
+            at: 'right center', 
+            adjust: { 
+                x: 10 
+            } 
+        }
+    }
+
+    return options;    
 };
 
 function obtainTextForDesktops( event, api ) {
