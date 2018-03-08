@@ -56,7 +56,7 @@ pinned: false
 | SirDillweed | 200 |
 | Moonangle | 190 |
 | Jonesy9027 | 161 |
-| IcedTeadTwitch | 145 |
+| Icedtea | 145 |
 | Chrisavz | 135 |
 | Akatsured | 110 |
 | Whilipino | 105 |
