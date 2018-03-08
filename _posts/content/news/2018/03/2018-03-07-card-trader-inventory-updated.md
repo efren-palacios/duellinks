@@ -13,6 +13,8 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 
 {% include heading.html title=page.title author=page.author %}
 
+![banner](/img/content/global/banner.png)
+
 ![screenshot](/img/content/news/2018/03/card-trader-update/slider.jpg)
 
 The Card Trader's inventory has been updated with some new additions to his card pool! 
