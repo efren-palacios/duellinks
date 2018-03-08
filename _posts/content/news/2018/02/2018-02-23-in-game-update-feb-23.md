@@ -2,7 +2,7 @@
 layout: blog
 title: In-Game Updates - February
 author: Yami Hammy & Jonesy9027
-image: /img/content/news/2018/02/in-game-updates/thumbnail.jpg
+image: /img/content/global/news-update-thumbnail.jpg
 category: news
 date: 2018-02-23
 pinned: false
