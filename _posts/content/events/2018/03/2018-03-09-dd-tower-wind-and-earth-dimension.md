@@ -16,7 +16,7 @@ permalink: /events/march-2018/dd-tower-wind-and-earth-dimension/
 
 ![banner](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/banner.png)
 
-Last updated March 9th
+Last updated March 9th by Yami Hammy
 
 [slider](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/slider.jpg)
 
