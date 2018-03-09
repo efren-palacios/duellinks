@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-03-09
-title: D.D. Tower Returns! Wind and Earth Dimension
+title: "D.D. Tower: Wind and Earth Dimension"
 author: Freeska
 image: /img/content/events/2018/03/dd-tower-wind-and-earth-dimension/thumbnail.png
 category: event
@@ -69,7 +69,7 @@ The rest of these cards currently have no competitive value.
 ![icon](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/icon.png)
 
 If you're aiming for the Karate Man icon above and are stuck on a mission, try out some of these tips:
-- {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Aged Mechs} skill can be used to inflict 1500 points of burn damage.
+- {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Age Mechs} skill can be used to inflict 1500 points of burn damage.
 - {Kickfire} along with Fire attribute monsters can also inflict up to 2000 points of burn damage.
 - Using {LP Boost α}, available on many characters, can heal your Life Points from duel to duel.
 - Chazz's {Ojama Overflow} skill, which triggers at 500 LP or below, can be used to stall many of the decks you will face, making specific objectives much easier to complete.
