@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-27
 title: Datamined Discoveries!
 author: Spooncats
-image: /img/content/news/datamine.png
+image: /img/content/news/2018/02/datamined-discoveries/thumbnail.jpg
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!
