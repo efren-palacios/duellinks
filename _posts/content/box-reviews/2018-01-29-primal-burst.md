@@ -16,7 +16,21 @@ permalink: /box-reviews/primal-burst/
 [w100]
 ![](/img/content/box-reviews/primal-burst/banner.jpg)
 
-{% include box.html box=site.data.box.primal-burst %}
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.box.primal-burst rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.box.primal-burst rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.box.primal-burst rarity="UR" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.box.primal-burst rarity="N" %}
 
 ### Video Review by Dkayed
 
