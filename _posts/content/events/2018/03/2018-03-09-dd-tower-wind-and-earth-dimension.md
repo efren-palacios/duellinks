@@ -64,7 +64,7 @@ The rest of these cards currently have no competitive value.
 
 ---
 
-### Objective Tips
+### Mission Tips
 
 ![icon](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/icon.png)
 
