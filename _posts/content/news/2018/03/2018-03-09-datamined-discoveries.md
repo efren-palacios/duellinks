@@ -21,6 +21,8 @@ With another maintenance update comes new discoveries; **a new minibox, an unloc
 
 ### New Minibox - Rampage of the Forest
 
+<br>
+
 [w50]
 ![banner](/img/content/news/2018/03/datamined-discoveries/banner-minibox.png)
 
@@ -54,12 +56,12 @@ It has been revealed that Dr Vellian Crowler will be the newest addition to the 
 <br>
 <br>
 
-New skills relating to {The Winged Dragon of Ra} have been found! This may hint that the arrival of Marik Ishhtar is not too far.
+New skills relating to {The Winged Dragon of Ra} have been found! This may hint that the arrival of Marik Ishtar is not too far.
 
 ### Miscellaneous Cards
 
 [deck](Fossil Tusker; Gigantes)
 
-These cards were also found in the datamine, however it is unknown what they are intended for, most likely NPC cards in the DD Tower event.
+These cards were also found in the datamine, however it is unknown what they are intended for, most likely NPC cards in the [DD Tower event](/events/march-2018/dd-tower-wind-and-earth-dimension/).
 
 ***Keep in mind that much of the datamined information is speculation, and remains unconfirmed until officially announced by Konami.***
