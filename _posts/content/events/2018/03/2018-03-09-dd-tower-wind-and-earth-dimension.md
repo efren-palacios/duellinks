@@ -71,7 +71,7 @@ The rest of these cards currently have no competitive value.
 If you're aiming for the 100% completion Karate Man icon above and are stuck on a mission, try out some of these tips:
 - {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Age Mechs} skill can be used to inflict 1500 points of burn damage.
 - {Kickfire} along with Fire attribute monsters can also inflict up to 2000 points of burn damage.
-- Using {LP Boost α}, available on many characters, can heal your Life Points from duel to duel.
+- Using {LP Boost α}, available on many characters, can heal your Life Points from Duel to Duel.
 - Chazz's {Ojama Overflow} skill, which triggers at 500 LP or below, can be used to stall many of the decks you will face, making specific objectives much easier to complete.
 - On the character screen before you hit 'Duel' you can click the card button to see some cards that could be used to help complete an objective.
 
@@ -103,7 +103,7 @@ th, td {
   
   <tr>
     <th rowspan="2">1F</th>
-    <td>Win a duel against Thunder Kid</td>
+    <td>Win a Duel against Thunder Kid</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ th, td {
   
    <tr>
     <th rowspan="2">2F</th>
-    <td>Win a duel against The Six Samurai - Nisashi</td>
+    <td>Win a Duel against The Six Samurai - Nisashi</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ th, td {
   
   <tr>
     <th rowspan="2">3F</th>
-    <td>Win a duel against Karate Man</td>
+    <td>Win a Duel against Karate Man</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -130,16 +130,16 @@ th, td {
   
   <tr>
     <th rowspan="2">4F</th>
-    <td>Win a duel against The Six Samurai - Yariza</td>
+    <td>Win a Duel against The Six Samurai - Yariza</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
-    <td>Successfully perform 3 Summons in one duel</td>
+    <td>Successfully perform 3 Summons in one Duel</td>
   </tr>
   
   <tr>
     <th rowspan="2">5F</th>
-    <td>Win a duel against Thunder Kid</td>
+    <td>Win a Duel against Thunder Kid</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -148,7 +148,7 @@ th, td {
   
   <tr>
     <th rowspan="2">6F</th>
-    <td>Win a duel against The Six Samurai - Nisashi</td>
+    <td>Win a Duel against The Six Samurai - Nisashi</td>
     <td rowspan="2">Put as many {Roc from the Valley of Haze} you have into a deck along with cards that allow you to draw, for example, {Jar of Greed}, {Good Goblin Housekeeping} etc so you complete the mission quicker</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ th, td {
   
   <tr>
     <th rowspan="2">7F</th>
-    <td>Win a duel against Karate Man</td>
+    <td>Win a Duel against Karate Man</td>
     <td rowspan="2">Use a deck that swarms the field like Red-Eyes, Hammer Shark, Cyber Angels etc</td>
   </tr>
   <tr>
@@ -166,7 +166,7 @@ th, td {
   
   <tr>
     <th rowspan="2">8F</th>
-    <td>Win a duel against The Six Samurai - Yariza</td>
+    <td>Win a Duel against The Six Samurai - Yariza</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -175,7 +175,7 @@ th, td {
   
   <tr>
     <th rowspan="2">9F</th>
-    <td>Win a duel against Thunder Kid</td>
+    <td>Win a Duel against Thunder Kid</td>
     <td rowspan="2">Fill you deck with your strongest 3-star monsters and Spell/Traps to support them</td>
   </tr>
   <tr>
@@ -184,16 +184,16 @@ th, td {
   
   <tr>
     <th rowspan="2">10F</th>
-    <td>Win a duel against The Six Samurai - Nisashi</td>
-    <td rowspan="2">Filter by Equip Spell in the Deck Editor - add 5 into a deck to ensure you draw it quickly and fulfill the mission</td>
+    <td>Win a Duel against The Six Samurai - Nisashi</td>
+    <td rowspan="2">Filter by Equip Spell in the Deck Editor - add 5 into a deck to ensure you draw it quickly and fulfil the mission</td>
   </tr>
   <tr>
     <td>Use an Equip Spell 1 time in one Duel</td>
   </tr>
   
   <tr>
-    <th rowspan="2">BOSS</th>
-    <td>Win a duel against Desert Twister</td>
+    <th rowspan="2">10F (BOSS)</th>
+    <td>Win a Duel against Desert Twister</td>
     <td rowspan="2">Straightforward</td>
   </tr>
   <tr>
@@ -201,6 +201,433 @@ th, td {
    
   </tr>
   
+</table>
+
+</body>
+</html>
+
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;    
+}
+
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+
+  <tr>
+    <th>Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+  
+  <tr>
+    <th rowspan="5" width="4%">11F</th>
+    <td width="48%">Win a Duel against Thunder Kid</td>
+    <td width="48%">Win a Duel against Karate Man</td>
+  </tr>
+  
+  <tr>
+    <td>Summon {Madolche Chouxvalier} 1 time in one Duel</td>
+    <td>Win a Duel through a Deck out</td>
+  </tr>
+  
+  <tr>
+    <td>Successfully perform 1 Fusion Summon in one Duel</td>
+    <td>Win with at least 2000 LP remaining </td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Make a deck with fusion monsters that only require 2 monsters to fuse, e.g. {Red-Eyes Slash Dragon}, {Master of Oz} etc. Fill the deck with their fusion requirements, {Polymerization}/{Fusion Gate}, fusion substitute monsters and as many copies of {Madolche Chouxvalier} you have</td>
+    <td>You can run a mill deck with cards like {Warm Worm}, {Hiro's Shadow Scout}, {Neo-Spacian Glow Moss} to make your opponent deck out faster alternatively stall with a high ATK monster on the field and use {Localized Tornado} when you have no cards left in your deck to prevent yourself from decking out so your opponent eventually does</td>
+  </tr>
+  
+  
+  </table>
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">12F</th>
+    <td width="48%">Win a Duel against The Six Samurai - Nisashi</td>
+    <td width="48%">Win a Duel against The Six Samurai - Yariza</td>
+  </tr>
+  
+  <tr>
+    <td>Use level 5 or higher Monster Cards 1 time in one Duel</td>
+    <td>Use a Trap Card 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Use a Spell Card 2 times in one Duel</td>
+    <td>Reduce your opponent's LP to 0 by inflicting battle damage with {Madolche Chouxvalier}</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Build your deck around summoning a level 5 or higher Ritual or Fusion monster which would generally be quicker than Tribute summoning</td>
+    <td>Only include traps that can activate without requirement, for example, {Metalmorph}, {Mirror Wall} etc. Fill your deck with as many copies of {Madolche Chouxvalier} you have and the rest with your strongest level 4 monsters, be sure to leave a spot on the field open for Madolche Chouxvalier so you can attack with it to win the Duel</td>
+  </tr>
+
+</table>
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">13F</th>
+    <td width="48%">Win a Duel against Karate Man</td>
+    <td width="48%">Win a Duel against The Six Samurai - Nisashi</td>
+  </tr>
+  
+  <tr>
+    <td>Achieve 1 win with 5 or less Cards left in your Deck</td>
+    <td>Achieve 1 win without using any Trap Cards</td>
+  </tr>
+  
+  <tr>
+    <td>Inflict 6000 or more points of damage in one Duel</td>
+    <td>Inflict 500 or more points of effect damage in one Duel</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>A Hazy Flame {Aroma Strategy} deck with {Beast Rising} would fulfil both missions fairly quickly. An {Elements Unite!} deck would also work albeit much slower</td>
+    <td>There are many cards that deal effect damage, for example {Hinotama} and {Goblin Thief}.</td>
+  </tr>
+
+</table>
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">14F</th>
+    <td width="48%">Win a Duel against The Six Samurai - Yariza</td>
+    <td width="48%">Win a Duel against Thunder Kid</td>
+  </tr>
+  
+  <tr>
+    <td>Destroy 5 monsters in one Duel</td>
+    <td>Use a Field Spell Card 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Use a Spell/Trap Card 2 times in one Duel</td>
+    <td>Inflict 2000 or more points of battle damage with a single attack</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Straightforward</td>
+    <td>Straightforward</td>
+  </tr>
+
+</table>
+
+
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">15F</th>
+    <td width="48%">Win a Duel against Karate Man</td>
+    <td width="48%">Win a Duel against The Six Samurai - Yariza</td>
+  </tr>
+  
+  <tr>
+    <td>Successfully perform 1 Tribute Summon in one Duel</td>
+    <td>Successfully perform 1 Ritual Summon in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Achieve 1 No Damage win</td>
+    <td>Use a Continuous Spell Card 1 time in one Duel  </td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Straightforward</td>
+    <td>Make a deck around 3 of the same ritual monster and 3 ritual spells. {Senju of the Thousand Hands} and {Sonic Bird} will help to draw your pieces quicker. Filter by any Continuous Spell in the Deck Editor and pick any 3/4</td>
+  </tr>
+
+</table>
+
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">16F</th>
+    <td width="48%">Win a Duel against The Six Samurai - Nisashi</td>
+    <td width="48%">Win a Duel against Thunder Kid</td>
+  </tr>
+  
+  <tr>
+    <td>Summon {Mist Valley Watcher} 1 time in one Duel</td>
+    <td>Use Continuous Trap Cards 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Successfully perform 2 Fusion Summons in one Duel</td>
+    <td>Inflict 1000 or more points of effect damage in one Duel</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Straightforward</td>
+    <td>Filter by Continuous Trap in the Deck Editor, choose any 3/4. Again, 3 copies of {Hinotama}/{Goblin  Thief} would get the job done, {Lava Golem} also works but relies on your opponent having 2 monsters to tribute </td>
+  </tr>
+
+</table>
+
+
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+ </tr>
+
+  <tr>
+    <th rowspan="5">17F</th>
+    <td width="48%">Win a Duel against The Six Samurai - Yariza</td>
+    <td width="48%">Win a Duel against The Six Samurai - Nisashi</td>
+  </tr>
+  
+  <tr>
+    <td>Recover 2000 or more LP in one Duel</td>
+    <td>Inflict 3000 or more points of battle damage with a single attack</td>
+  </tr>
+  
+  <tr>
+    <td>Win with at least 3000 LP remaining</td>
+    <td>Win the Duel within 6 turns</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Filter by Increase LP in the Deck Editor and add 3/4 cards. {Solemn Wishes}, {Golden Ladybug} and {Aegis of Gaia} are all good options</td>
+    <td>A high attack fusion monster would be enough to complete both missions at once. Alternatively, Blue-Eyes White Dragon deck with {Ancient Rules} and {Kaibaman} could also work</td>
+  </tr>
+
+</table>
+
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">18F</th>
+    <td width="48%">Win a Duel against Karate Man</td>
+    <td width="48%">Win a Duel against  Thunder Kid</td>
+  </tr>
+  
+  <tr>
+    <td>Use a Spell Card 3 times in one Duel</td>
+    <td>Use Counter Trap Cards 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Win the Duel during your opponent's turn</td>
+    <td>Use level 3 or lower Monster Cards 2 time in one Duel</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>{Lava Golem} and {Burning Land} are good options</td>
+    <td>Negating your own Spells/Traps/Effects with a Counter Trap also counts towards the mission</td>
+  </tr>
+
+</table>
+
+
+
+
+ 
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">19F</th>
+    <td width="48%">Win a Duel against The Six Samurai - Nisashi</td>
+    <td width="48%">Win a Duel against Karate Man</td>
+  </tr>
+  
+  <tr>
+    <td>Use a Spell/Trap Card 4 times in one Duel</td>
+    <td>Inflict 7000 or more points of damage in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Successfully perform 2 Ritual Summons in one Duel</td>
+    <td>Successfully perform 6 Summons in one Duel</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Straightforward</td>
+    <td>A simple way to complete the mission would be fill your deck with level 4 beaters and 3/4 two tribute monsters, keep on summoning and tributing until you reach 6 summons</td>
+  </tr>
+
+</table>
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">20F</th>
+    <td width="48%">Win a Duel against Thunder Kid</td>
+    <td width="48%">Win a Duel against The Six Samurai - Yariza</td>
+  </tr>
+  
+  <tr>
+    <td>Reduce your opponent's LP to 0 by inflicting battle damage with {Mist Valley Watcher}</td>
+    <td>Successfully perform 3 Tribute Summons in one Duel</td>
+  </tr>
+  
+  <tr>
+    <td>Achieve 1 No Damage win</td>
+    <td>Inflict 1000 or more points of effect damage in a single effect activation</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>Straightforward</td>
+    <td>{Lava Golem}, {Ancient Gear Explosive} in conjunction with {Ancient Gear Beast}/{Ancient Gear Golem}, {Ante} would all work</td>
+  </tr>
+
+</table>
+
+<table style="width:100%">
+
+ <tr>
+    <th width="4%">Floor</th>
+    <th colspan="2">Duel Missions</th>
+  </tr>
+
+  <tr>
+    <th rowspan="5">20F (BOSS)</th>
+    <td width="48%">Win a Duel against Megarock Dragon</td>
+  </tr>
+  
+  <tr>
+    <td>Achieve 1 win without using any level 3 or lower Monster Cards</td>
+  </tr>
+  
+  <tr>
+    <td>Achieve 1 win without using any level 5 or higher Monster Cards</td>
+  </tr>
+ 
+  <tr>
+       <th colspan="2">Tips</th>
+  </tr>
+  
+  <tr>
+    <td>You can win quite easily using <strong>only</strong> level 4 monsters and supporting backrow</td>
+  </tr>
+
 </table>
 
 </body>
