@@ -147,5 +147,4 @@ I can't say for sure about this deck's long-term viability as a contender. I wan
 In the end, though, this was definitely a blast, and I'll continue trying to make spicy Grass brews work going into the future, and probably writing 4,913 more words about them if it happens to work. I beat my previous record of 2,123 words on a Luck On Your Side guide, but I like writing about Yu-Gi-Oh, so feel free to keep asking questions in the comments. Thank you for reading!  
   
 *Post originally from [Reddit](https://www.reddit.com/r/DuelLinks/comments/7uz06o/grass_rocks_and_traps_kog_in_49_wins_with_that)*  
-*Credit towards [boddity77](https://www.reddit.com/user/boddity77)*  
 *Published by Yami Hammy* 
