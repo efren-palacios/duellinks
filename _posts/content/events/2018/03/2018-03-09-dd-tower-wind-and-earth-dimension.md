@@ -48,7 +48,7 @@ The cards have been unanimously categorised as bad by the competitive community.
 
 #### Normal Cards
 
-[deck](Madolche Cruffssant; Madolche Chickolates)
+[deck](Madolche Cruffssant; Madolche Chickolates )
 
 ---
 
