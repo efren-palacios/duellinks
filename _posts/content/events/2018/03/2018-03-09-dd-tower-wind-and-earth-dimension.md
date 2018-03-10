@@ -16,7 +16,7 @@ permalink: /events/march-2018/dd-tower-wind-and-earth-dimension/
 
 ![banner](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/banner.png)
 
-Last updated March 9th by Yami Hammy
+**Last Updated March 10th by Yami Hammy - Added Duel Mission Tips** 
 
 [slider](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/slider.jpg)
 
@@ -26,7 +26,7 @@ The Different Dimension Tower is back and this time the D.D. Guide will take you
 
 ### Event Information
 
-- This event lasts from the 9th to the 16th of February.
+- This event lasts from the 9th to the 16th of March.
 - Your life points carry over between duels in the event.
 - If your life points hit 0, you must wait until they recover or use a LP Potion.
 - You can obtain 3 LP Potions a day from playing Ranked Duels.
@@ -68,9 +68,140 @@ The rest of these cards currently have no competitive value.
 
 ![icon](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/icon.png)
 
-If you're aiming for the Karate Man icon above and are stuck on a mission, try out some of these tips:
+If you're aiming for the 100% completion Karate Man icon above and are stuck on a mission, try out some of these tips:
 - {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Age Mechs} skill can be used to inflict 1500 points of burn damage.
 - {Kickfire} along with Fire attribute monsters can also inflict up to 2000 points of burn damage.
 - Using {LP Boost α}, available on many characters, can heal your Life Points from duel to duel.
 - Chazz's {Ojama Overflow} skill, which triggers at 500 LP or below, can be used to stall many of the decks you will face, making specific objectives much easier to complete.
 - On the character screen before you hit 'Duel' you can click the card button to see some cards that could be used to help complete an objective.
+
+Here are some tips on how to complete the missions for each floor
+
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;    
+}
+
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+
+  <tr>
+    <th width="4%">Floor</th>
+    <th width="48%">Duel Missions</th>
+    <th width="48%">Tips</th>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">1F</th>
+    <td>Win a duel against Thunder Kid</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Win with at least 1000LP remaining</td>
+  </tr>
+  
+   <tr>
+    <th rowspan="2">2F</th>
+    <td>Win a duel against The Six Samurai - Nisashi</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Destroy 3 monsters in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">3F</th>
+    <td>Win a duel against Karate Man</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Use a Spell Card 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">4F</th>
+    <td>Win a duel against The Six Samurai - Yariza</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Successfully perform 3 Summons in one duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">5F</th>
+    <td>Win a duel against Thunder Kid</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Inflict 5000 or more points of damage in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">6F</th>
+    <td>Win a duel against The Six Samurai - Nisashi</td>
+    <td rowspan="2">Put as many {Roc from the Valley of Haze} you have into a deck along with cards that allow you to draw, for example, {Jar of Greed}, {Good Goblin Housekeeping} etc so you complete the mission quicker</td>
+  </tr>
+  <tr>
+    <td>Summon {Roc from the Valley of Haze} 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">7F</th>
+    <td>Win a duel against Karate Man</td>
+    <td rowspan="2">Use a deck that swarms the field like Red-Eyes, Hammer Shark, Cyber Angels etc</td>
+  </tr>
+  <tr>
+    <td>Win the Duel within 7 turns</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">8F</th>
+    <td>Win a duel against The Six Samurai - Yariza</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Use a Spell/Trap Card 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">9F</th>
+    <td>Win a duel against Thunder Kid</td>
+    <td rowspan="2">Fill you deck with your strongest 3-star monsters and Spell/Traps to support them</td>
+  </tr>
+  <tr>
+    <td>Achieve 1 win without using any level 4 or higher Monster Cards</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">10F</th>
+    <td>Win a duel against The Six Samurai - Nisashi</td>
+    <td rowspan="2">Filter by Equip Spell in the Deck Editor - add 5 into a deck to ensure you draw it quickly and fulfill the mission</td>
+  </tr>
+  <tr>
+    <td>Use an Equip Spell 1 time in one Duel</td>
+  </tr>
+  
+  <tr>
+    <th rowspan="2">BOSS</th>
+    <td>Win a duel against Desert Twister</td>
+    <td rowspan="2">Straightforward</td>
+  </tr>
+  <tr>
+    <td>Achieve 1 No Damage win</td>
+   
+  </tr>
+  
+</table>
+
+</body>
+</html>
