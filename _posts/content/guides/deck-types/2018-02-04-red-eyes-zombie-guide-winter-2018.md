@@ -10,7 +10,7 @@ date: 2018-02-04
 comments: false
 description: A complete guide about Red Eyes Zombies in Winter 2018
 keywords: guide, rez, new
-permalink: /guides/red-eyes-zombie-guide-winter-2018/
+permalink: /guides/deck-types/red-eyes-zombie-guide-winter-2018/
 hide: true 
 ---
 
