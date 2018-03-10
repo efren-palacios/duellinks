@@ -239,7 +239,7 @@ This is the card that makes this variant viable in the first place. Fishborg Pla
 One of the most versatile cards in the deck, this card can be Hammer Shark or Fishborg Planter, depending on your hand. It is inferior to Fishborg Planter in some situations (it doesn't combo well with Abyss Soldier, for example) but for the most part this card greatly boosts the consistency of you being able to pull off your best turn 1 play.
 
 ***1x Warrior of Atlantis***
-As mentioned in the skill section above, relying on Mythic Depths for Umi can leave you vulnerable to Cosmic Cyclone, so to offset that I opted to run a single copy of Warrior of Atlantis, along with a single copy of A Legendary Ocea. This means that even if a smart player Cosmic Cyclone's my Umi, I have a way to get my Sea Stealth Attack back online. It is worth noting that Hammer Shark + Warrior of Atlantis = exactly 4000 damage, which can be relevant sometimes.
+As mentioned in the skill section above, relying on Mythic Depths for Umi can leave you vulnerable to Cosmic Cyclone, so to offset that I opted to run a single copy of Warrior of Atlantis, along with a single copy of A Legendary Ocean. This means that even if a smart player Cosmic Cyclone's my Umi, I have a way to get my Sea Stealth Attack back online. It is worth noting that Hammer Shark + Warrior of Atlantis = exactly 4000 damage, which can be relevant sometimes.
 
 ***1x A Legendary Ocean***
 Mainly in here to counter Cosmic Cyclone, but can be useful in some niche scenarios, for example to allow you to swarm with Hammer Shark + Abyss Soldier, or to make Citadel Whale a 1 tribute monster.
