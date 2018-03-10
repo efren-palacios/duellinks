@@ -7,7 +7,7 @@ sub-category: deck-type
 date: 2018-02-21
 comments: false
 description: In depth information about Aromages.
-deck-type: destiny heroes
+deck-type: destiny-heroes
 permalink: /tier-list/destiny-heroes/
 ---
 
