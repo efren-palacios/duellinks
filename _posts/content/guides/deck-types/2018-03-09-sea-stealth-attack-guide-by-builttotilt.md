@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: Sea Stealth Attack Comprehensive Deck Guide  March 2018
+title: Sea Stealth Attack Guide - March 2018
 author: BuiltToTilt
 category: guide
 sub-category: deck-type
 deck-type: sea-stealth-attack
-image: /img/content/guides/sea-stealth-attack-guide-by-builttotilt/thumbnail.jpg
+image: /img/content/guides/sea-stealth-attack-guide-by-builttotilt/thumbnail2.jpg
 date: 2018-03-09
 comments: false
 description: 
@@ -14,11 +14,6 @@ permalink: /guides/deck-types/sea-stealth-attack-guide-by-builttotilt/
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
-[w50]
-![]()
-
----
 
 ***BuiltToTilt has always been a highly competitive player, and recently reached Top 8 at [MCS VI](/tournaments/meta-championship-series/6/) with a Sea Stealth Attack deck***
 

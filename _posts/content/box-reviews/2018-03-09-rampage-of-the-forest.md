@@ -17,22 +17,6 @@ hide: true
 <!--[w100]
 ![banner](/img/content/box-reviews/rampage-of-the-forest/banner.jpg)-->
 
-#### Ultra Rare Cards
-
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="UR" %}
-
-#### Super Rare Cards
-
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="SR" %}
-
-#### Rare Cards
-
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="R" %}
-
-#### Normal Cards
-
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="N" %}
-
 ### Top Player Council Thoughts
 
 **[Superforms](/authors/superforms/)** says: 
@@ -65,3 +49,21 @@ Old cards that synergize:
 - {Mariña, Princess of Sunflowers}: Big beater, gains advantage off of other Plants being destroyed.
 - {Lord Poison}: Grabs milled Plants back on to the field.
 - {Magical Merchant}: Obvious synergy with Sylvans.
+
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.box.rampage-of-the-forest rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.box.rampage-of-the-forest rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.box.rampage-of-the-forest rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.box.rampage-of-the-forest rarity="N" %}
