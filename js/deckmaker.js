@@ -280,7 +280,12 @@ function updatePopupOptions(cardElem, options) {
     }
     options.events = events;
 
-    if(cardElem.offset().left > ($('body').width() / 2) ) {
+    var itemOffset = cardElem.offset().left;
+    var itemWidth = cardElem.width();
+    var popupWidthAdjustment = 10; 
+    var popupWidth = 500;
+    var popupExtension = itemOffset + itemWidth + popupWidthAdjustment + popupWidth; 
+    if(popupExtension > $('body').width()) {
         options.position = { 
             my: 'right center', 
             at: 'left center',
