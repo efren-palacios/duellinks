@@ -69,3 +69,8 @@
     display: inline-flex;  
   }  
 } 
+
+@media only screen and (max-width: 420px)
+{
+  .guides-table .author { display: none }
+} 
