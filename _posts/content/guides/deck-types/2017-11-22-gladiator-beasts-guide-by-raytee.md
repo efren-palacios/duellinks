@@ -10,7 +10,7 @@ date: 2017-11-22
 comments: false
 description: 
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
-permalink: /guides/gladiator-beasts-guide-by-raytee/
+permalink: /guides/deck-types/gladiator-beasts-guide-by-raytee/
 ---
 
 {% include heading.html title=page.title author=page.author %}

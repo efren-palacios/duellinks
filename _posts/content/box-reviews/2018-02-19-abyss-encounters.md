@@ -16,19 +16,19 @@ permalink: /box-reviews/abyss-encounters/
 [w100]
 ![](/img/content/box-reviews/abyss-encounters/banner.jpg)
 
-### Ultra Rares 
+#### Ultra Rare Cards
 
 {% include box.html box=site.data.box.abyss-encounters rarity="UR" %}
 
-### Super Rares
+#### Super Rare Cards
 
 {% include box.html box=site.data.box.abyss-encounters rarity="SR" %}
 
-### Rares
+#### Rare Cards
 
-{% include box.html box=site.data.box.abyss-encounters rarity="UR" %}
+{% include box.html box=site.data.box.abyss-encounters rarity="R" %}
 
-### Normals
+#### Normal Cards
 
 {% include box.html box=site.data.box.abyss-encounters rarity="N" %}
 

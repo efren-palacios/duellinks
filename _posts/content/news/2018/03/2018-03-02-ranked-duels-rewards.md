@@ -3,7 +3,7 @@ layout: blog
 date: 2018-03-02
 title: Ranked Duels Rewards - March 2018
 author: Freeska
-image: /img/news/2018/03/ranked-duel-rewards/thumbnail.jpg
+image: /img/content/news/2018/02/ranked-duel-rewards/thumbnail.jpg
 category: news
 comments: true
 description: The March 2018 season has started and with that comes new duel rewards. Check here for an overview of all the new obtainable cards!
@@ -13,7 +13,7 @@ permalink: /news/march-2018/ranked-duels-rewards
 
 {% include heading.html title=page.title author=page.author %}
 
-[slider](https://i.imgur.com/ZPDSOL3.jpg)
+[slider](/img/content/news/2018/02/ranked-duel-rewards/slider.jpg)
 
 ### New Cards
 

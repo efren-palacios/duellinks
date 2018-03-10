@@ -1,9 +1,9 @@
 ---
 layout: blog
 date: 2018-03-07
-title: Card Trader Update (March) 
+title: Card Trader Update - March
 author: Yami Hammy
-image: /img/content/news/2018/03/card-trader-update/thumbnail.png
+image: /img/content/news/2018/03/card-trader-update/thumbnail.jpg
 category: news
 comments: true
 description: The Card Trader's inventory has been updated with some new additions to his card pool. Check here for a review by the Top Player Council!
@@ -12,6 +12,8 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+![banner](/img/content/global/card-trader-banner.png)
 
 ![screenshot](/img/content/news/2018/03/card-trader-update/slider.jpg)
 
