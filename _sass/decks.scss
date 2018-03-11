@@ -124,6 +124,14 @@
   }
 }
 
+@media screen and (max-width: 400px){
+.item
+  {
+   box-sizing: border-box;
+   margin: 0.2rem;
+  }
+}
+
 .deckinfo p
 {
   font-weight: bold;
@@ -286,14 +294,22 @@ as the grid from Bootstrap is needed for skill popups---*/
 // Phone (Vertical): Plus or Large Screen Sizes 
 @media screen and (max-width: 490px) {
   #deck {
-    width: 362px; 
+    width: 362px;
+    margin:auto; 
   }
 }
 
 // Phone (Vertical)
 @media screen and (max-width: 400px) {
   #deck {
-    width: 276px; 
+    width: 324px;
+  }
+}
+
+// Phone (Vertical even smaller)
+@media screen and (max-width: 360px) {
+  #deck {
+    width: 248px;
   }
 }
 
