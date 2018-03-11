@@ -211,4 +211,4 @@ By dueling Crowler at the gate, you will be rewarded with points which will unlo
 ---
 
 ### Dr. Vellian Crowler LV 40 Decklist
-[deck](Ancient Gear Golem; Ancient Gear Golem; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Box; Ancient Gear Box; Ancient Gear Beast; Ancient Gear Tank; Ancient Gear Tank; Ancient Gear Castle; Ancient Gear Castle; Ancient Gear Castle; Spell Gear; Ancient Gear Workshop; Ancient Gear Workshop; Zero Gravity; Zero Gravity)
+[deck](Ancient Gear Golem; Ancient Gear Golem; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Knight; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Soldier; Ancient Gear Box; Ancient Gear Box; Ancient Gear Beast; Ancient Gear Tank; Ancient Gear Tank; Ancient Gear Castle; Ancient Gear Castle; Ancient Gear Castle; Spell Gear; Ancient Gear Workshop; Zero Gravity; Zero Gravity)
