@@ -124,7 +124,8 @@
   }
 }
 
-@media screen and (max-width: 400px){
+//Spaces between cards get smaller on Mobile
+@media screen and (max-width: 490px){
 .item
   {
    box-sizing: border-box;
@@ -294,13 +295,13 @@ as the grid from Bootstrap is needed for skill popups---*/
 // Phone (Vertical): Plus or Large Screen Sizes 
 @media screen and (max-width: 490px) {
   #deck {
-    width: 362px;
-    margin:auto; 
+    width: 400px;
+    margin:auto;
   }
 }
 
 // Phone (Vertical)
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 438px) {
   #deck {
     width: 324px;
   }
