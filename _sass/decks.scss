@@ -74,6 +74,15 @@
   width: 100%;
 }
 
+//padding gets smaller on mobile
+@media screen and (max-width: 490px){
+  #cards
+  { 
+  padding: 0.1rem;
+  }
+}
+
+
 .markdown-item
 {
 
@@ -129,7 +138,7 @@
 .item
   {
    box-sizing: border-box;
-   margin: 0.2rem;
+   margin: 0.1rem;
   }
 }
 
@@ -295,22 +304,22 @@ as the grid from Bootstrap is needed for skill popups---*/
 // Phone (Vertical): Plus or Large Screen Sizes 
 @media screen and (max-width: 490px) {
   #deck {
-    width: 400px;
+    width: 372px;
     margin:auto;
   }
 }
 
 // Phone (Vertical)
-@media screen and (max-width: 438px) {
+@media screen and (max-width: 410px) {
   #deck {
-    width: 324px;
+    width: 298px;
   }
 }
 
 // Phone (Vertical even smaller)
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 336px) {
   #deck {
-    width: 248px;
+    width: 225px;
   }
 }
 
