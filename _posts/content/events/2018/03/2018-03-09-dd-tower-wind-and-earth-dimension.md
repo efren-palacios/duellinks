@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-03-09
 title: "D.D. Tower: Wind and Earth Dimension"
-author: Freeska
+author: Yami Hammy & Freeska 
 image: /img/content/events/2018/03/dd-tower-wind-and-earth-dimension/thumbnail.png
 category: event
 ended: false
@@ -16,7 +16,7 @@ permalink: /events/march-2018/dd-tower-wind-and-earth-dimension/
 
 ![banner](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/banner.png)
 
-**Last Updated March 10th by Yami Hammy - Added Duel Mission Tips** 
+**Last Updated March 12th by Yami Hammy - Added Duel Mission Tips** 
 
 [slider](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/slider.jpg)
 
@@ -69,7 +69,7 @@ The rest of these cards currently have no competitive value.
 ![icon](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/icon.png)
 
 If you're aiming for the 100% completion Karate Man icon above and are stuck on a mission, try out some of these tips:
-- {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Age Mechs} skill can be used to inflict 1500 points of burn damage.
+- {Ancient Gear Explosive} combined with {Ancient Gear Golem} and Dr. Crowler's {Middle Age Mechs} skill can be used to inflict 1500 points of effect damage.
 - {Kickfire} along with Fire attribute monsters can also inflict up to 2000 points of burn damage.
 - Using {LP Boost α}, available on many characters, can heal your Life Points from Duel to Duel.
 - Chazz's {Ojama Overflow} skill, which triggers at 500 LP or below, can be used to stall many of the decks you will face, making specific objectives much easier to complete.
@@ -632,3 +632,70 @@ th, td {
 
 </body>
 </html>
+
+
+| Floor |  | Duel Missions |  |
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Nisashi | Win a Duel against The Six Samurai - Yariza | Win a Duel against Karate Man |
+| **21F** | Use Spell/Trap Cards 5 times in one Duel | Win with at least 2000 LP remaining | Successfully perform 2 Special Summons in one Duel |
+|  | Successfully perform 3 Special Summons in one Duel | Use a Continuous Spell Card 2 times in one Duel | Destroy 5 monsters in one Duel |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Yariza | Win a Duel against Karate Man | Win a Duel against Thunder Kid |
+| **22F** | Successfully perform 4 summons in one Duel | Achieve 1 win without using any Spell Cards | Use an Equip Spell Card 2 times in one Duel |
+|  | Use a Trap Card 4 times in one Duel | Achieve 1 win without using any Trap Cards | Summon {Kunoichi} 1 time in one Duel |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Nisashi | Win a Duel against Thunder Kid | Win a Duel against Karate Man |
+| **23F** | Achieve 1 No Damage win | Successfully perform 2 Fusion Summons in one Duel | Inflict 5000 or more points of battle damage in one Duel |
+|  | Inflict 2000 or more points of battle damage in a single attack | Inflict 1500 or more points of effect damage with a single effect activation | Win with at least 4000 LP remaining |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:-:|:--:|
+|  | Win a Duel against The Six Samurai - Yariza | Win a Duel against Karate Man | Win a Duel against Thunder Kid |
+| **24F** | Achieve 1 win with 3 or less Cards left in your Deck | With the Duel within 5  turns | Inflict 2000 or more points of effect damage in one Duel |
+|  | Inflict 8000 or more points of damage in one Duel | Use a Trap Card 3 times in one Duel | Inflict 1000 or more points of effect damage with  single effect activation |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against Thunder Kid | Win a Duel against The Six Samurai - Nisashi | Win a Duel against Karate Man |
+| **25F** | Use an Equip Spell Card 3 times in one Duel | Use a Continuous Spell Card 3 times in one Duel | Use level 7 or higher Monster Cards 1 time in one Duel |
+|  | Inflict 3000 or more points of battle damage with a single attack | Use level 2 or lower Monster Cards 2 times in one Duel | Win the Duel during your opponent's turn |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against Karate Man | Win a Duel against The Six Samurai - Yariza | Win a Duel against Thunder Kid |
+| **26F** | Use a Counter Trap 2 times in one Duel | Successfully perform 3 Tribute Summons in one Duel | Inflict 3000 or more points of battle damage with a single attack |
+|  | Achieve 1 win using only EARTH Monster Cards | Use a Trap Card 4 times in one Duel | Win the Duel within 5 turns |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Nisashi | Win a Duel against The Six Samurai - Yariza | Win a Duel against Karate Man |
+| **27F** | Achieve 1 win using only WATER Monster Cards | Successfully perform 4 Summons in one Duel | Achieve 1 No Damage win |
+|  | Use a Field Spell Card 2 times in one Duel | Achieve 1 win with 3 or less Cards left in your Deck  | Use a Spell/Trap Card 6 times in one Duel |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Nisashi | Win a Duel against Thunder Kid | Win a Duel against The Six Samurai - Yariza |
+| **28F** | Win 1 Duel through a Deck out | Recover 3000 or more LP in one Duel | Inflict 1500 or more points of effect damage in one Duel |
+|  | Achieve 1 win using only DARK Monster Cards | Successfully perform 4 Special Summons in one Duel | Destroy 7 monsters in one Duel |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against Karate Man | Win a Duel against The Six Samurai - Nisashi | Win a Duel against Thunder Kid |
+| **29F** | Achieve 1 win without using any Spell/Trap Cards | Reduce your opponent's LP to 0 by inflicting battle damage with {Mist Valley Watcher} | Use level 3 or lower Monster Cards 3 times in one Duel |
+|  | Use level 7 or higher Monster Cards 2 times in one Duel | Inflict 6000 or more points of battle damage in one Duel | Recover 3000 or more LP in one Duel |
+
+| Floor |  | Duel Missions |  |  
+|:--:|:--:|:--:|:--:|
+|  | Win a Duel against The Six Samurai - Yariza | Win a Duel against The Six Samurai - Nisashi | Win a Duel against Karate Man |
+| **30F** | Successfully perform 3 Fusion Summons in one Duel | Win the Duel during your opponent's turn | Use a Spell Card 5 times in one Duel |
+|  | Successfully perform 2 Ritual Summons in one Duel | Use a Spell/Trap Card 7 times in one Duel | Use level 2 or lower Monster Cards 3 times in one Duel |
+
+| Floor | Duel Missions |
+|:--:|:--:|
+|  | Win a Duel against Desert Twister |
+| **30F (BOSS)** | Use level 5 or higher Monster Cards 2 times in one Duel |
+|  | Reduce your opponent's LP to 0 by inflicting battle damage with {Windrose the Elemental Lord} |
