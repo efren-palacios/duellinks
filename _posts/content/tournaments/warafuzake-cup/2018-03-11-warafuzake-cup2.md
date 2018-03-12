@@ -12,7 +12,6 @@ description: The Second Warafuzake Cup report. Check the prize winners and their
 keywords: duel links, competitive, tournament, warafuzake, warafuzake cup
 permalink: /tournaments/warafuzake-cup/2/
 pinned: false
-hide: True
 ---
 
 {% include heading.html title=page.title author=page.author %}
