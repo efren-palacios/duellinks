@@ -623,6 +623,11 @@ strong
       text-align: center;
       font-size: 1.5rem;
     }
+
+    .soon-text
+    {
+      font-family: "Alegreya Sans" !important;
+    }
   }
 
   .soon-event-complete
@@ -631,7 +636,7 @@ strong
     flex-direction: column;
     align-items: center;
 
-    .soon-event-info
+    .soon-event-sub-title
     {
       text-align: center;
     }
