@@ -28,7 +28,7 @@ pinned: false
 - 1 Deck with a 7 card Side Deck
 
 #### Full Standings
-[Click here](https://twitter.com/TeamWARUFUZAKE/status/972852172697223170)
+* [Click here](https://twitter.com/TeamWARUFUZAKE/status/972852172697223170)
 
 ---
 
@@ -77,16 +77,16 @@ pinned: false
 ---
 
 Keep up to date on these top-tier players:
-1. fghhyh (Check them out on [Twitter](https://twitter.com/fghhyh22)
-2. sun (Check them out on [Twitter](https://twitter.com/sunchan6969)
-3. よしｙ (Check them out on [Twitter](https://twitter.com/Yuma81564530)
-4. マロツグ (Check them out on [Twitter](https://twitter.com/marotsugu)
+1. fghhyh (Check them out on [Twitter](https://twitter.com/fghhyh22))
+2. sun (Check them out on [Twitter](https://twitter.com/sunchan6969))
+3. よしｙ (Check them out on [Twitter](https://twitter.com/Yuma81564530))
+4. マロツグ (Check them out on [Twitter](https://twitter.com/marotsugu))
 
 Original Decklist Submissions:  
-1st place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850532543901696)  
-2nd place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850629898002433)  
-3rd place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850751193071616)  
-4th place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972851011919364096)  
+* 1st place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850532543901696)  
+* 2nd place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850629898002433)  
+* 3rd place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972850751193071616)  
+* 4th place decklist: [Twitter](https://twitter.com/TeamWARUFUZAKE/status/972851011919364096)  
 
 ---
 
