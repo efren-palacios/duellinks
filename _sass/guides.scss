@@ -53,9 +53,9 @@
 
 @media only screen and (max-width: 575px)
 {
-  .guides-table .category { display: none }
+  .guides-table .author { display: none }
   .guides-table .title  { width: auto }
-  .guides-table .author { width: auto }
+  .guides-table .category { width: auto }
 
   .guide-pagination {
     display: flex; 
@@ -72,5 +72,5 @@
 
 @media only screen and (max-width: 420px)
 {
-  .guides-table .author { display: none }
+  .guides-table .category { display: none }
 } 
