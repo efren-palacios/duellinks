@@ -8,7 +8,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 450px;
+  width: 435px;
 
   #label
   {
@@ -70,16 +70,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  padding: 0.5rem;
+  padding: 0.3rem;
   width: 100%;
-}
-
-//padding gets smaller on mobile
-@media screen and (max-width: 490px){
-  #cards
-  { 
-  padding: 0.1rem;
-  }
 }
 
 
@@ -112,16 +104,39 @@
 {
 
   box-sizing: border-box;
-  margin: 0.5rem;
+  margin: 0.3rem;
 
   img.dcards
   {
-    width: 70px;
-    height: 102px;
+    width: 75px;
+    height: 109px;
     display: inline-block;
     border: 1px solid rgba(255, 255, 255, 0.4);
     cursor: pointer;
+    
+    @media screen and (max-width: 490px){
+      width: 72px;
+      height:105px;
+    }
+    
+    @media screen and (max-width: 460px){
+      width: 66px;
+      height:96px;
+    }
+
+    @media screen and (max-width: 430px){
+      width: 60px;
+      height:87px;
+    }
+    @media screen and (max-width: 400px){
+      width: 55px;
+      height:80px;
+    }
+
   }
+  
+
+
 
   p
   {
@@ -130,15 +145,6 @@
     border: 1px solid blue;
     height: 100%;
     width: 56px;
-  }
-}
-
-//Spaces between cards get smaller on Mobile
-@media screen and (max-width: 490px){
-.item
-  {
-   box-sizing: border-box;
-   margin: 0.1rem;
   }
 }
 
@@ -304,22 +310,33 @@ as the grid from Bootstrap is needed for skill popups---*/
 // Phone (Vertical): Plus or Large Screen Sizes 
 @media screen and (max-width: 490px) {
   #deck {
-    width: 372px;
+    width: 420px;
     margin:auto;
+  }
+}
+@media screen and (max-width: 460px) {
+  #deck {
+    width: 390px;
   }
 }
 
 // Phone (Vertical)
-@media screen and (max-width: 410px) {
+@media screen and (max-width: 430px) {
   #deck {
-    width: 298px;
+    width: 360px;
   }
 }
 
 // Phone (Vertical even smaller)
-@media screen and (max-width: 336px) {
+@media screen and (max-width: 400px) {
   #deck {
-    width: 225px;
+    width: 336px;
+  }
+}
+
+@media screen and (max-width: 374px) {
+  #deck {
+    width: 270px;
   }
 }
 
