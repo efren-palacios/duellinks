@@ -10,7 +10,7 @@ date: 2018-03-11
 comments: true
 description: The Second Warafuzake Cup report. Check the prize winners and their decks here.
 keywords: duel links, competitive, tournament, warafuzake, warafuzake cup
-permalink: /tournaments/warafuzake-cup/2/
+permalink: /tournaments/warafuzake-cup/2/report/
 pinned: false
 ---
 

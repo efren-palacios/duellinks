@@ -10,7 +10,7 @@ date: 2018-01-31
 comments: true
 description: The Meta Weekly NUMBER_HERE tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly NUMBER_HERE, meta weekly NUMBER_HERE winners, meta weekly NUMBER_HERE decks, tournament
-permalink: /tournaments/meta-weekly/NUMBER_HERE/
+permalink: /tournaments/meta-weekly/NUMBER_HERE/report/
 ---
 
 {% include heading.html title=page.title author=page.author %}

@@ -10,7 +10,7 @@ date: 2018-02-27
 comments: true
 description: The Meta Weekly is a casual tournament that constantly assesses the ever changing Meta. Check out the report of these Top Players, their decks, and Prizes for the week of February 27, 2018. 
 keywords: meta weekly, meta weekly 9, meta weekly 9 winners, meta weekly 9 decks, tournament, Dkayed, aliens, snipe hunter, volcanics, volcanic rocket, blaze accelerator
-permalink: /tournaments/meta-weekly/9/
+permalink: /tournaments/meta-weekly/9/report/
 ---
 
 {% include heading.html title=page.title author=page.author %}

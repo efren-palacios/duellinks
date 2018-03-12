@@ -15,11 +15,11 @@ permalink: /guides/deck-types/sea-stealth-attack-guide-by-builttotilt/
 
 {% include heading.html title=page.title author=page.author %}
 
-***BuiltToTilt has always been a highly competitive player, and recently reached Top 8 at [MCS VI](/tournaments/meta-championship-series/6/) with a Sea Stealth Attack deck***
+***BuiltToTilt has always been a highly competitive player, and recently reached Top 8 at [MCS VI](/tournaments/meta-championship-series/6/report/) with a Sea Stealth Attack deck***
 
 ### Introduction
 
-{Sea Stealth Attack} is an incredibly powerful card but surprisingly the deck did not achieve the instant success that people thought it would. Many different builds were conceived, and few saw any success on the tournament circuit on the first week of release. Nonetheless, Sea Stealth Attack was able to take multiple spots in the Top 32 of the [MCS VI](/tournaments/meta-championship-series/6/) and has since become quite a popular KoG deck in the competitive community.
+{Sea Stealth Attack} is an incredibly powerful card but surprisingly the deck did not achieve the instant success that people thought it would. Many different builds were conceived, and few saw any success on the tournament circuit on the first week of release. Nonetheless, Sea Stealth Attack was able to take multiple spots in the Top 32 of the [MCS VI](/tournaments/meta-championship-series/6/report/) and has since become quite a popular KoG deck in the competitive community.
 
 In this guide I will explain why Sea Stealth Attack is such a strong card, how you can counter it, the different ways you can build your deck around it, how I personally chose to build the deck and how the deck fares against common match ups.
 

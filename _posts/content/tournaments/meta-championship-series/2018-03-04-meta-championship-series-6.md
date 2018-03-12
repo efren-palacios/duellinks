@@ -10,7 +10,7 @@ date: 2018-03-04
 comments: true
 description: The Meta Championship Series 6 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 6, meta championship, meta championship series, meta championship 6, meta championship series 6, mcs decks, mcs 6 decks
-permalink: /tournaments/meta-championship-series/6/
+permalink: /tournaments/meta-championship-series/6/report/
 pinned: false
 ---
 

@@ -10,7 +10,7 @@ date: 2018-01-10
 comments: true
 description: The Meta Weekly 2 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 2, meta weekly 2 winners, meta weekly 2 decks, tournament
-permalink: /tournaments/meta-weekly/2/
+permalink: /tournaments/meta-weekly/2/report/
 ---
 
 {% include heading.html title=page.title author=page.author %}
