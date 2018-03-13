@@ -57,11 +57,7 @@ function BindSeasonArchiveSelection()
 {
     $("#SeasonArchiveSelection").change(function(event)
     {
-        let websiteLink = location.protocol + "//" + location.hostname;
-        if(location.port){
-            websiteLink += ":" + location.port;
-        }
-        window.location = websiteLink + "/top-decks/" + $(event.target).val();
+        window.location = "/top-decks/" + $(event.target).val();
     });
 }
 
