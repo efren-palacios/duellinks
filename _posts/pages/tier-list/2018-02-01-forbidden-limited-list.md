@@ -13,7 +13,7 @@ hide: true
 {% include heading.html title=page.title description=page.description %}
 
 #### Last Updated: February 055, 2018
-* Golden Bamboo Ssprite was added to Limited
+* Golden Bamboo Sprite was added to Limited
 
 #### FORBIDDEN
 When cards are assigned as this, you may not include any of these into your deck.
