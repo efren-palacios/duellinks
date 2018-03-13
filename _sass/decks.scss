@@ -62,7 +62,6 @@
   background-image: url("https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png");
   background-size: cover;
   cursor: default;
-  width:473px;
 }
 
 #cards
@@ -83,7 +82,10 @@
 
 }
 
-
+//deckview only shows 5 cards in a row
+.fivecards{
+  width: 473px;
+}
 
 .markdown-item
 {

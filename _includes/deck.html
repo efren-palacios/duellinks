@@ -1,5 +1,5 @@
 <div class="flex-container">
-    <div class="deck-container {{include.position}}">
+    <div class="deck-container {{include.position}} fivecards">
         {% if include.showHeader %}
             <div id="label"><b>{{deck.name | remove: '##' }}</b> by {{deck.author}} <br> <i>Added {{deck.created}}</i></div>
         {% endif %}
