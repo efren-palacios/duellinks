@@ -1,7 +1,7 @@
 ---
 layout: basicinfo
 ---
-<div class="basicinf">
+<div class="text-white">
 
 <h1>About Me</h1>
 
