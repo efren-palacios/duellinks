@@ -8,7 +8,6 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 435px;
 
   #label
   {
@@ -63,6 +62,7 @@
   background-image: url("https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png");
   background-size: cover;
   cursor: default;
+  width:473px;
 }
 
 #cards
@@ -70,9 +70,19 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  padding: 0.3rem;
+  padding: 0.5rem;
   width: 100%;
+  
+  @media screen and (max-width: 515px){
+    padding:0.3rem;
+    }
+
+  @media screen and (max-width: 350px){
+    padding:0.25rem;
+    }
+
 }
+
 
 
 .markdown-item
@@ -104,7 +114,15 @@
 {
 
   box-sizing: border-box;
-  margin: 0.3rem;
+  margin: 0.5rem;
+  
+  @media screen and (max-width: 515px){
+    margin: 0.3rem;
+    }
+
+  @media screen and (max-width: 350px){
+    margin:0.25rem;
+    }
 
   img.dcards
   {
@@ -132,7 +150,19 @@
       width: 55px;
       height:80px;
     }
+    @media screen and (max-width: 374px){
+      width: 50px;
+      height:73px;
+    }
+    @media screen and (max-width: 350px){
+      width: 46px;
+      height:67px;
+    }
 
+    @media screen and (max-width: 320px){
+      width: 44px;
+      height:64px;
+    }
   }
   
 
@@ -307,11 +337,17 @@ as the grid from Bootstrap is needed for skill popups---*/
   }
 }
 
+@media screen and (max-width: 515px) {
+  #deck {
+    width: 435px;
+    margin:auto;
+  }
+}
+
 // Phone (Vertical): Plus or Large Screen Sizes 
 @media screen and (max-width: 490px) {
   #deck {
     width: 420px;
-    margin:auto;
   }
 }
 @media screen and (max-width: 460px) {
@@ -330,13 +366,31 @@ as the grid from Bootstrap is needed for skill popups---*/
 // Phone (Vertical even smaller)
 @media screen and (max-width: 400px) {
   #deck {
-    width: 336px;
+    width: 335px;
   }
 }
 
 @media screen and (max-width: 374px) {
   #deck {
+    width: 310px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  #deck {
+    width: 280px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #deck {
     width: 270px;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  #deck {
+    width: 100%;
   }
 }
 
