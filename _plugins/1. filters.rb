@@ -3,6 +3,9 @@ module Jekyll
     def filter_posts(posts)
       posts.find_all { |post| (post['category'] == 'guide' or post['category'] == 'tournament') and (post['hide'] == false or post['hide'] == nil) }
     end
+    def sort_descending(array)
+      array.sort.reverse
+    end
   end
   module DateFilter
     require 'date'
