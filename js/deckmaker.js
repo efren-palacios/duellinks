@@ -135,7 +135,7 @@ function obtainCardInformation( instance, current ) {
     var cardName = $(current.opts.$orig).html();
     if(cardName.includes("<img")) {
         cardName = $(current.opts.$orig).find('img').attr("alt");
-        cardNamPure =decodeURIComponent(cardName);
+        cardName =decodeURIComponent(cardName);
     }
 
     // Obtain the card data
@@ -144,7 +144,7 @@ function obtainCardInformation( instance, current ) {
         websiteLink += ":" + location.port;
     }
     let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
-        return r.data.filter(i => i.name == cardNamPure)[0] || new Error('No Resource')
+        return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
     });
     let cardinfo = axios.get("https://crossorigin.me/https://yugiohprices.com/api/card_data/" + cardName).then(function(r) {
         return r.data
@@ -169,7 +169,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
         $('.fancybox-loading').hide();
         $('#cardFancybox').removeClass('hideSkillContainer');
     });
-    $('#cardImage').attr('src', "http://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=95");
+    $('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=95");
     $('#cardName').html(decodeURIComponent(cardName));
     if(response[1].data.family) {
         $('#cardAttribute').html('Attribute: ' + response[1].data.family);
@@ -323,7 +323,7 @@ function obtainTextForDesktops( event, api ) {
             api.set('content.text',
             `<div class="preview">
                 ${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />` : '<br>'}
-                <img width="120px" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=95" style="margin-bottom: 20px" />
+                <img width="120px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=95" style="margin-bottom: 20px" />
             </div>
                 <div class="carddata"><b style="margin-bottom: .5rem;">${r[1].data.name}</b><br />
                     ${r[1].data.family ? '<p> Attribute: ' + firstUpperCase(r[1].data.family) : ""}
