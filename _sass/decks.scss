@@ -8,6 +8,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  max-width: 473px;
 
   #label
   {
@@ -30,7 +31,8 @@
 }
 
 .deck-container.box-review {
-  width: 100%;  
+  width: 100%;
+  max-width: 100%;    
 }
 
 .card-img
@@ -80,11 +82,6 @@
     padding:0.25rem;
     }
 
-}
-
-//deckview only shows 5 cards in a row
-.fivecards{
-  width: 473px;
 }
 
 .markdown-item
