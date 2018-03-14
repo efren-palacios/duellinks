@@ -134,7 +134,8 @@ function obtainCardInformation( instance, current ) {
     // Obtain the card name
     var cardName = $(current.opts.$orig).html();
     if(cardName.includes("<img")) {
-        cardname = $(current.opts.$orig).find('img').attr('alt');
+        cardName = $(current.opts.$orig).find('img').attr("alt");
+        cardNamPure =decodeURIComponent(cardName);
     }
 
     // Obtain the card data
@@ -143,7 +144,7 @@ function obtainCardInformation( instance, current ) {
         websiteLink += ":" + location.port;
     }
     let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
-        return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
+        return r.data.filter(i => i.name == cardNamPure)[0] || new Error('No Resource')
     });
     let cardinfo = axios.get("https://crossorigin.me/https://yugiohprices.com/api/card_data/" + cardName).then(function(r) {
         return r.data
@@ -169,7 +170,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
         $('#cardFancybox').removeClass('hideSkillContainer');
     });
     $('#cardImage').attr('src', "http://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=95");
-    $('#cardName').html(cardName);
+    $('#cardName').html(decodeURIComponent(cardName));
     if(response[1].data.family) {
         $('#cardAttribute').html('Attribute: ' + response[1].data.family);
         $('#cardAttribute').show();
