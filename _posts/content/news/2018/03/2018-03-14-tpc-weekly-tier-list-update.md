@@ -51,5 +51,5 @@ permalink: /news/march-2018/tpc-weekly-tier-list-update/
 
 ---
 Find out more information by joining the Duel Links Meta Discord [Here](/discord/).  
-Check out Guides and King of Games Decklists for [Here](/tier-list/).  
+Check out Guides and King of Games Decklists [Here](/tier-list/).  
 Learn more about the Top Player Council members [Here](/top-player-council/).   
