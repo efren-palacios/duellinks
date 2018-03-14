@@ -8,7 +8,7 @@ deck-type: gladiator-beasts
 image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts.jpg
 date: 2018-03-14
 comments: false
-hidden: true
+hide: true
 description: An in depth guide written by Brenduke discussing the Gladiator Beast archetype.
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
 permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
