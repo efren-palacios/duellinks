@@ -11,7 +11,7 @@ comments: false
 hidden: true
 description: An in depth guide written by Brenduke discussing the Gladiator Beast archetype.
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
-permalink: /guides/deck-types/gladiator-beasts-guide-by-raytee/
+permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
 ---
 
 {% include heading.html title=page.title author=page.author %}
