@@ -5,7 +5,7 @@
                 {% for card in include.box %}
                     {% if card.rarity == include.rarity %}
                         <div class="item">
-                            <a><img class="dcards" name="cardPopup" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{card.name}}&w=140&il&q=95" alt="{{card.name}}"></a>
+                            <a><img class="dcards" name="cardPopup" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{ card.name | url_encode }}&w=140&il&q=95" alt="{{ card.name| url_encode }}"></a>
                         </div>
                     {% endif %}
                 {% endfor %}

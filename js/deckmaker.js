@@ -134,8 +134,7 @@ function obtainCardInformation( instance, current ) {
     // Obtain the card name
     var cardName = $(current.opts.$orig).html();
     if(cardName.includes("<img")) {
-        cardNameOrg = $(current.opts.$orig).find('img').attr('alt');
-        cardname=$encodeURIComponent(cardNameOrg);
+        cardname = $(current.opts.$orig).find('img').attr('alt');
     }
 
     // Obtain the card data
@@ -311,8 +310,8 @@ function obtainTextForDesktops( event, api ) {
     
     let type = $(this).attr('name');
     if(type == "cardPopup") {
-        let namepure = (this).attr('alt');
-        let name = encodeURIComponent(namepure);
+        let name = (this).attr('alt');
+        let namepure = decodeURIComponent(name);
         let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
             return r.data.filter(i => i.name == namepure)[0] || new Error('No Resource')
         });
