@@ -110,7 +110,7 @@ module Jekyll
                 if isSkill
                     content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
                 else
-                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" src="https://yugiohprices.com/api/card_image/' + markedText[i] + '">' + markedText[i] + '</span><span class="mobile"></span>'
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + markedText[i] + '" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + markedText[i] + '&w=140&il&q=95">' + markedText[i] + '</span><span class="mobile"></span>'
                 end
             end
 
@@ -237,7 +237,7 @@ galleryHtml += '</div>
             for card in cardNames
                 deckContainer +=
                                 '<div class="item">
-                                    <a><img class="dcards"  name="cardPopup" src="https://yugiohprices.com/api/card_image/' + CGI.escape(card.strip) + '" alt=""></a>
+                                    <a><img class="dcards"  name="cardPopup" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + card.strip + '&w=140&il&q=95" alt="' + card.strip + '"></a>
                                 </div>'
             end
 
