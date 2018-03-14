@@ -20,6 +20,10 @@ permalink: /guides/deck-types/red-eyes-zombies-guide-by-insano/
 
 ---
 
+**Updated 14 March 2018**
+
+---
+
 ### Table of Contents
 * [Introduction](#introduction)
 * [Abbreviations](#abbreviations)
@@ -28,11 +32,13 @@ permalink: /guides/deck-types/red-eyes-zombies-guide-by-insano/
 * [The REZD Player’s Toolbox](#the-rezd-player’s-toolbox)
 * [Tech Options](#tech-options)
 * [Matchups](#matchups)
-    *  [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
+    * [The Gladiator Beasts Matchup](#the-gladiator-beasts-matchup)
     * [The Ancient Gear Matchup](#the-ancient-gear-matchup)
     * [The Cyber Angels / Saffira Matchup](#the-cyber-angels--saffira-matchup)
     * [The Hazy Flame Sphynx Matchup](#the-hazy-flame-sphynx-matchup)
     * [The Mill / Cancer decks Matchup](#the-mill--cancer-decks-matchup)
+    * [The Aliens Matchup](#the-aliens-matchup)
+    * [The Water / Sea Stealth Attack Matchup](#the-water--sea-stealth-attack-matchup)
     * [The REZ Mirror Matchup](#the-rez-mirror-matchup)
     * [Matchup Tech Chart](#matchup-tech-chart)
 * [Conclusion](#conclusion)
@@ -310,6 +316,32 @@ The key is to not panic, get to your Insight ASAP, set up your Spirit and use yo
 
 Once you have your anti backrow, set XZH and prepare to lockdown backrow so our
 monsters can go to work, Storm and chain your REZ so you can destroy their backrow and bring out your REZ or get three monster on the field, your REZ being one, use ama and go for game.
+
+---
+
+#### The Aliens Matchup
+
+Dominant skills: {Mindscan}, {Balance} and {Restart}
+
+Ok this match in my opinion, is a lot scarier than it seems. The key in this matchup is to play passive until you have your Storm otk play setup. Now you must be very careful because if they are able to survive your Storm play and get their quick play to the graveyard, they can easily recover their board next turn. You do not have to put a monster face up right away against Aliens because they are not going to otk you in their first turn. Best case scenario is to have Insight, lv 4 monster, Econ, Storm in opening hand, you would use your Insight, set your Spirit, set your Econ, don't summon your level 4 yet. End your turn. Let them set up their field and attack you next turn you would summon your lv 4 throw bacon to the GY use Storm, Econ take their Alien bring out your Rez, swing for game. Now, that is with the ideal hand. 
+
+If you did not pull the ideal hand, which is most of the time, you want to use your Econs to steal and crash their Aliens. If they put counters on your face up monsters, you do not want to leave your monsters with counters on the on the field unless you absolutely have to. Most Alien decks backrow is going to be Powerful Rebirth and "A" Cell Recombination, some may also run Wall of Disruption. This is why Storm is so important to draw early in this matchup because it nullifies their wod and forces them to use their quick play on their own monsters. This can also be forced by storming with no monsters on the field or with your monster face-down, because they cannot put counters on FD monsters. Once again if you do not draw your otk Storm/ Econ/ Insight combo early or your Storm/ Insight combo early, you must play passive and use your Econs to get rid of your monsters with counters or Econ steal to bring out a REZ, or another monster that will allow you to force the Alien player to waste their resources to protect their life points. Chances are if you leave your monsters with counters face up on the board, you are gonna take a ton of damage or, they will get stolen by {Brainwashing Beam}, which can be nullified by Storm or Cosmic cyclone. 
+
+Above all else in this matchup your anti backrow cards and your econs are of the utmost importance.
+
+---
+
+#### The Water / Sea Stealth Attack Matchup 
+
+Dominant skills: {Balance}, {Mythic Depths}, and {Restart}
+
+Ok this is a very good deck, but with a little thinking, it can be played around pretty easily for REZ players. Like hazy, water players need a 3 card combo early in game, 5 star monster or better ( optimally {Citadel Whale}), {Sea Stealth Attack}, and field spell {Umi} or {A Legendary Ocean}. With the current optimal build for SSA decks running 3 of the whale and four star beaters that can get the whale out fast or have great effects like {Abyss Soldier}, which discards a water type and allows them to bounce any card back to your hand. Against water cards like Enemy Controller, Storm, Cosmic Cyclone and Super Rush Headlong and Anti-magic arrows will be useful to you. Using Cosmic Cyclone in their battle phase or yours can easily win you the game, the key in this Matchup is to OTK the water player before they can get their whale and another monster to protect against the otk. 
+
+If they have one monster on the field that is not the whale, you can force them to banish it by Storming and chaining your Spirit activation to it, they will either banish their one monster to protect their faceups, or they will leave it out there to protect their LP. Either way, if you have another monster to bring out along with your REZ, your are in great position to OTK. 
+
+Super Rush is a great way to deal with the whale also, I recommend using it on your turn, because on their turn they can just banish to save the whale. If you use it on your turn, if they banish, they will take a ton of LP damage or get OTK’d. If you can you want to start the duel by summoning Samurai over Gozuki, this way if they use Abyss Soldier's effect, and pop him back to your hand, it will activate Sam's effect that will thin your deck and bring out a Gozuki. Once they have out their whale and a monster on the board besides the whale, you are in a bad position but not dead in the water yet ( no pun intended). 
+
+This is where your ama or cc will help you immensely. Using Cosmic Cyclone on their field spell renders their trap useless and takes away their Umi stat boost at the same time, since most SSA players are running Mythic Depths, they tend to not run the field spell, and even if they are also running ALO, you essentially killed their whole deck by using that 1 CC on their field spell. This is why you want to main deck at least 1 cosmic cyclone. AmA is also great when they have their combo plus a monster for protection on the field because it completely ignore SSA effects and since your rez can easily get over their whale, ama can save you/ win you the matchup. 
 
 ---
 
