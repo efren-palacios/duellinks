@@ -17,7 +17,7 @@
         [              
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
             { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" }
+            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" }            
         ]
     },
     {
@@ -26,6 +26,7 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [            
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
@@ -37,8 +38,7 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
-            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" }
+            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" }            
         ] 
     },
     {

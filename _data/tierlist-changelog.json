@@ -6,6 +6,8 @@
     },
     "tier-changes": 
     [
+        { "type": "magnet-warriors", "from": 2, "to": 3, "date": 2018-03-14 },
+        { "type": "fishes", "from": "nothing", "to": 2, "date": 2018-03-14 },
         { "type": "stall-decks", "from": 3, "to": "nothing", "date": 2018-03-04 },
         { "type": "sea-stealth-attack", "from": "nothing", "to": 2, "date": 2018-03-04 },
         { "type": "cyber-angels", "from": 2, "to": 3, "date": 2018-03-04 },
