@@ -7,11 +7,12 @@
     <h4>TOP DECKS SEASON ARCHIVE</h4>
     <div class="row season-archive">
         <div class="col-8 col-sm-4 col-md-3 col-xl-2">
-            <select id="SeasonArchiveSelection" class="form-control">  
+            <select id="SeasonArchiveSelection" class="form-control"> 
+                <option value="defaultValue" selected>Select a season</option>  
                 {% assign years_sorted = years | sort_descending %}
                 {% for year in years_sorted %}
                     {% if year[0] != "pending" %}
-                        {% if year[1] %}
+                        {% if year[1] %}                            
                             {% assign months = year[1] | sort_descending %}
                             {% for month in months %}
                                 {% assign loop-season = year[0] | append: '-' | append: month[0] %}
@@ -21,9 +22,7 @@
                                 {% else %}
                                     {% capture optionValue %}{{monthName[0].name}}-{{year[0]}}{% endcapture %}
                                 {% endif %}    
-                                {% if loop-season == include.season %}
-                                    <option value="{{optionValue}}" selected>{{monthName[0].name | capitalize }} {{year[0]}}</option>                                   
-                                {% else %} 
+                                {% if loop-season != include.season %}
                                     <option value="{{optionValue}}">{{monthName[0].name | capitalize }} {{year[0]}}</option>   
                                 {% endif %}
                             {% endfor %}

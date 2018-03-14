@@ -57,7 +57,7 @@ function BindSeasonArchiveSelection()
 {
     $("#SeasonArchiveSelection").change(function(event)
     {
-        window.location = "/top-decks/" + $(event.target).val();
+        if($(event.target).val() != 'defaultValue') window.location = "/top-decks/" + $(event.target).val();
     });
 }
 
