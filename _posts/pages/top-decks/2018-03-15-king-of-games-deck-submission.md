@@ -29,6 +29,7 @@ permalink: /king-of-games-deck-submission/
         <div class="form-group">
             <label for="deck_pics">Deck</label>
             <input type="file" class="form-control-file" id="deck_pics" multiple>
+            <small id="emailHelp" class="form-text text-muted">Be sure and include your extra deck, if needed</small> 
         </div>
         <div class="form-group">
             <label for="notes">Notes</label>
