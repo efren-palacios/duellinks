@@ -198,7 +198,7 @@ Only really used with {Mind Scan} and {Mighty as Fire}. Electro offers disruptio
 * {4-Starred Ladybug of Doom}:  
 In my opinion this is the best side deck card since it is very good against the Legendary Ocean deck when combined with Impenetrable Attack, Aliens, Dinosaurs, Little City Destiny Heroes, Magnets and the mirror match. This is a side deck card since it is useless in some matchups.
 
-* {Jowels of Dark Demise}:  
+* {Jowls of Dark Demise}:  
 A very good card in the mirror. Set it and let your opponent attack into it, then you can tag out their Gladiator at the end of the battle phase. This is a huge swing play and a great side option when Gladiators are popular. 
 
 * {Heavy Knight of the Flame}:  
