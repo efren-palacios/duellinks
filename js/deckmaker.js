@@ -172,7 +172,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
     $('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=95");
     $('#cardName').html(decodeURIComponent(cardName));
     if(response[1].data.family) {
-        $('#cardAttribute').html('Attribute: ' + response[1].data.family);
+        $('#cardAttribute').html('Attribute: ' + firstUpperCase(response[1].data.family));
         $('#cardAttribute').show();
     } 
     else {
@@ -189,10 +189,20 @@ function displayCardInformation( response, websiteLink, cardName ) {
         $('#cardType').html('<b>[ </b>' + response[1].data.type + '<b> ]</b>');
     }
     else {
-        $('#cardType').html('<b>[ </b>' + response[1].data.card_type + ' / ' + response[1].data.property +  '<b> ]</b>');
+        $('#cardType').html('<b>[ </b>' + firstUpperCase(response[1].data.card_type) + ' / ' + response[1].data.property +  '<b> ]</b>');
     }
-
-    $('#cardText').html(response[1].data.text);
+    
+    if(response[1].data.type && response[1].data.type.includes("Fusion")) {
+        var cardTextArray = response[1].data.text.split('\n');
+        $('#cardMaterials').html('<i>' + cardTextArray[0] + '</i>');
+        $('#cardMaterials').show();
+        $('#cardText').html(cardTextArray[2]);
+    } 
+    else {
+        $('#cardMaterials').hide();
+        $('#cardText').html(response[1].data.text);
+    }
+    
     $('#cardAttackDefense').html((response[1].data.atk ? "<b>ATK/ </b>" + response[1].data.atk : "") + " " + (response[1].data.def ? "<b>DEF/ </b>" + response[1].data.def : ""));
     $('#cardObtain').html(response[0].how ? response[0].how : 'Needs to be Added');    
 };
@@ -298,6 +308,7 @@ function updatePopupOptions(cardElem, options) {
 
     return options;    
 };
+
 function firstUpperCase(txt){
     return txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase();
 }
@@ -320,20 +331,30 @@ function obtainTextForDesktops( event, api ) {
             return r.data
         });
         Promise.all([cardobtain, cardinfo]).then(function(r) {
+            // Determine if fusion monster materials need to be displayed
+            var cardText = r[1].data.text;
+            var cardMaterials;
+            if(r[1].data.type && r[1].data.type.includes('Fusion')) {
+                var cardTextArray = r[1].data.text.split('\n');
+                cardMaterials = cardTextArray[0];
+                cardText = cardTextArray[2];
+            }
+
             api.set('content.text',
             `<div class="preview">
                 ${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />` : '<br>'}
                 <img width="120px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=95" style="margin-bottom: 20px" />
             </div>
                 <div class="carddata"><b style="margin-bottom: .5rem;">${r[1].data.name}</b><br />
-                    ${r[1].data.family ? '<p> Attribute: ' + firstUpperCase(r[1].data.family) : ""}
-                    ${r[1].data.level ? "Level: " + r[1].data.level+"</p>"  : ""}
+                    ${r[1].data.family ? '<p> Attribute: ' + firstUpperCase(r[1].data.family) + "</p>" : ""}
+                    ${r[1].data.level ? "<p> Level: " + r[1].data.level + "</p>" : ""}
                     ${r[1].data.card_type=="monster"
                         ? '<p><b>[ </b>' + r[1].data.type + '<b> ]</b></p>'
                         : '<p><b>[ </b>' + firstUpperCase(r[1].data.card_type) + ' / ' + r[1].data.property +  '<b> ]</b></p>'}
-                    <p>${r[1].data.text}</p>
-                    <p>${r[1].data.atk ? "<b>ATK/ </b>" + r[1].data.atk : ""}
-                    ${r[1].data.def ? "<b>DEF/ </b>"+r[1].data.def : ""}</p>
+                    ${cardMaterials ? '<p><i>' + cardMaterials + '</i></p>' : ""}    
+                    <p>${cardText}</p>
+                    ${r[1].data.atk ? "<p><b>ATK/ </b>" + r[1].data.atk : ""}
+                    ${r[1].data.def ? "<b>DEF/ </b>" + r[1].data.def + '</p>' : ""}
                     <p><u>How To Obtain</u></p>
                     ${ r[0].how ? `<p style="text-transform: capitalize">${r[0].how}</p>` : 'Needs to be Added'}
                 </div>`)
