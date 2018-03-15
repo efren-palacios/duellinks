@@ -45,3 +45,32 @@
 {
   background-color: none !important;
 }
+
+.paginated 
+{
+  display: none !important;
+}
+
+@media only screen and (max-width: 575px)
+{
+  .guides-table .author { display: none }
+  .guides-table .title  { width: auto }
+  .guides-table .category { width: auto }
+
+  .guide-pagination {
+    display: flex; 
+    justify-content: center;  
+  }
+}
+
+@media only screen and (min-width: 576px)
+{
+  .guide-pagination {
+    display: inline-flex;  
+  }  
+} 
+
+@media only screen and (max-width: 420px)
+{
+  .guides-table .category { display: none }
+} 

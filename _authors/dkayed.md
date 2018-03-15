@@ -1,10 +1,9 @@
 ---
 layout: author
 title: "Dkayed"
-meta: "Owner"
 categories: authors
+role: Dkayed
 image: https://i.imgur.com/AZaNe2i.png
-author: Dkayed
 comments: true
 facebook: https://www.facebook.com/DuelLinksMeta/
 youtube: https://www.youtube.com/channel/UCz_cNcJzCy4asffzW5ERH1w
