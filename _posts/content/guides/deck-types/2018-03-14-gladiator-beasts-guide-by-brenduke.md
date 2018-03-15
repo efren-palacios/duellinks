@@ -6,9 +6,8 @@ category: guide
 sub-category: deck-type
 deck-type: gladiator-beasts
 image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts.jpg
-date: 2018-03-14
+date: 2018-03-15
 comments: false
-hide: true
 description: An in depth guide written by Brenduke discussing the Gladiator Beast archetype.
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
 permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
@@ -37,7 +36,7 @@ permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
     * [Top 5 Skills Going into Rampage of the Forest](#top-5-skills-going-into-rampage-of-the-forest)
     * [Popular Skills for Gladiator Beasts](#popular-skills-for-gladiator-beasts)
 * [Mastering the Mirror Match](#mastering-the-mirror-match)
-* [Matchup Guide for Top Decks](matchup-guide-for-top-decks)
+* [Matchup Guide for Tier Decks](matchup-guide-for-tier-decks)
     * [Aliens](#aliens)
     * [Red-Eyes Zombie Dragon](#red-eyes-zombie-dragon)
     * [Gaia Plate Magnets](#gaia-plate-magnets)
@@ -84,7 +83,7 @@ This will be a living guide which will be updated once per month to reflect new 
 
 ### Building your Gladiator Beast Deck
 
-This section will cover the relevant monsters, spells and traps the deck uses. It will not discuss in any length cards we do not often use, for example, Augustus, Secutor and Alexander will not discussed in detail.
+This section will cover the relevant monsters, spells and traps the deck uses. It will not discuss in any length cards we do not often use, for example, Augustus, Secutor and Alexander will not be discussed in detail.
 
 ### Monster Core
 You will want to run 8 monsters in your deck but you can move this to 9 if you wish for non-balance builds.
@@ -113,7 +112,7 @@ Dimacari rounds out the core monster line up and is often seen as the weakest vi
 Gladiator Beasts generally want to attack defense position monsters. Enemy Controller achieves this while also offering a lot of extra utility. Firstly, Enemy Controller can protect a monster from battle by switching the attacker to defense position which also allows us to follow this up with an attack and begin tagging out. This card is a -1 in card advantage on paper but in reality the Gladiator effects make it an even trade or a +1 if we destroy the opponent’s monster by battle. Being a quickplay spell means we use it defensively or offensively. Finally, the second effect of Enemy Controller opens up OTK plays or can be used to primitively stop effects such as {Cyber Angel Dakini}, {Snipe Hunter} and {Golden Flying Fish}. This card is also the key to winning the mirror match as we will discuss later. Being a quickplay also means we can chain it to backrow removal or pinning.
 
 {Super Rush Headlong} [Optimal Count: 2]  
-Super Rush Headlong is a card we use often despite it having little synergy with our monsters. Super Rush Headlong complements our low attack monsters and can be used offensively or defensively to destroy threats outside of battle. The card is also important in that it doesn’t target and is one of our only outs to a boosted {Hazy Flame Sphynx} or {Citadel Whale}. Being able to destroy outside of battle also allows us to remove Aliens from the board without having to worry about A-counter on our monster or getting A-counters from alien warrior. This spell is also one of the cards used to counter Gladiator Beasts. Due to turn player priority, the turn player’s Super Rush Headlong will always win. Therefore, if you are attacking a defense position monster and your opponent responds with this card you can chain your own copy which destroys your opponent’s monster while also saving your own! Like Enemy Controller, this card has all the benefits of being a quickplay spell.
+Super Rush Headlong is a card we use often despite it having little synergy with our monsters. Super Rush Headlong complements our low attack monsters and can be used offensively or defensively to destroy threats outside of battle. The card is also important in that it doesn’t target and is one of our only outs to a boosted Hazy Flame Sphynx or Citadel Whale. Being able to destroy outside of battle also allows us to remove Aliens from the board without having to worry about A-counter on our monster or getting A-counters from alien warrior. This spell is also one of the cards used to counter Gladiator Beasts. Due to turn player priority, the turn player’s Super Rush Headlong will always win. Therefore, if you are attacking a defense position monster and your opponent responds with this card you can chain your own copy which destroys your opponent’s monster while also saving your own! Like Enemy Controller, this card has all the benefits of being a quickplay spell.
 
 {Cosmic Cyclone} [Optimal Count 0-3]  
 Simple, Versatile, Effective 1 for 1 backrow removal. This is an incredibly versatile card and in the current meta (March 2018) you should be main decking this card for the ladder and side decking it for tournaments. Cosmic Cyclone can simply remove set backrow so that your Gladiators can effectively attack or can be used to remove matchup specific threats such as {A Legendary Ocean}, {Brain Washing Beam}, {Ancient Gear Castle}, {Fire Formation - Gyokkou}, {Xing Zhen Hu}, Ninjitsu traps and {Powerful Rebirth}. If you are taking a pot shot at backrow this is best used in the end phase on a card the opponent set that turn where the opponent cannot chain that set card. Also not that this card does not negate so banishing in response to {Wall of Disruption} will not stop it going through. However, you may wish to chain this to spells or traps with graveyard effects to stop those occurring, for example, {Hymn of Light}, {Machine Angel Ritual} and "A" Cell Recombination Device. This card can be used to trigger skills but can also turn off {Mind Scan}.
@@ -145,7 +144,7 @@ This card is very similar to curse of Anubis but also hits normal and gemini mon
 
 [deck](Sphere Kuriboh)
 
-{Sphere Kuriboh} [Optimal Count 0-3]
+{Sphere Kuriboh} [Optimal Count 0-3]  
 Sphere kuriboh is yet another amazing defensive option for the deck covering some of the uses which Enemy Controller and Floodgate Trap Hole offer. While this card is not as strong as the aforementioned cards it does have its merits in some metas. This card is immune to backrow removal and {Anti-Magic Arrows}, this card also does not target and is therefore a strong card. It is very strong in matchups which aim to OTK or have a lot of backrow removal like Red-Eyes Zombies, Cyber Angels, Control Decks and Dinosaurs. Unfortunately, this card can cause bricks with {Balance} but it is a very good choice for non-balance builds.
 
 ### Extra Deck
@@ -156,14 +155,13 @@ The Gladiator extra deck will not change unless new Gladiator Beast fusion monst
 {Gladiator Beast Essedarii} [Optimal Count: 3]  
 At first glance Essedarii feels weak and does not offer anything other than being a 2500 beatstick. However, he has proven himself to be a very versatile addition to the deck. For example, with two Essedarii in the extra deck you can continuously summon him by using Essedari and one other Gladiator as material preventing you from ever decking out. This is important for the burn and stall matchups we will discuss later. This also provides the deck with its second win condition in deck out which can be achieved against a surprising number of decks when we consider Floodgate Trap Hole and Wall of Disruptions effectiveness.  
 **Note**: You can fuse using face down/floodgated monsters and those effected by {Massivemorph}/Wall of Disruption/{Inverse Universe} to clear those effects from your field. 
-
-Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as {Red-Eyes Zombie Dragon}, {Sacred Phoenix of Nephthys}, {Alien Overlord} and Citadel Whale, {Legendary Fisherman II} and {Mecha Sea Dragon Peilson} (assuming you have an answer to {Sea Stealth Attack}).
+Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as {Red-Eyes Zombie Dragon}, {Sacred Phoenix of Nephthys}, {Alien Overlord}, Citadel Whale, {Legendary Fisherman II} and {Mecha Sea Dragon Peilson} (assuming you have an answer to {Sea Stealth Attack}).
 
 {Gladiator Beast Nerokius} [Optimal Count: 1]  
 Commonly referred to as Batman by the community, Nerokius is one of our two boss monsters which are very rarely summoned. Nerokius is an important card for closing out games and being able to attack into cards like Sea Stealth Attack, {Des Counterblow}, Wall of Disruption and many other non-chainable backrow. He can also present a huge brick wall to the opponent since he is very tough to take due to battle phase immunity.  
 **Tip**: Nerokius stops any card that starts a chain. Continuous effects which would cause a chain to start do not activate on attack (e.g. Des Counterblow would cause destruction, which always starts a chain) but those continuous effects which don’t cause chain still activate (e.g. {Toon Kingdom} banishing a card from the top of a deck doesn’t start a chain)  
 **Tip**: Don’t summon him into a Floodgate Trap Hole  
-**Tip**: After attack declaration, you can activate cards and your opponent cannot respond to them. For example, cosmic cyclone or e-con take cannot be responded to if it is done during the battle step after attacking with nerokius.  
+**Tip**: After attack declaration, you can activate cards and your opponent cannot respond to them. For example, Cosmic Cyclone or E-con take cannot be responded to if it is done during the battle step after attacking with Nerokius.  
 
 {Gladiator Beast Heraklinos} [Optimal Count: 1]  
 Like Neorkius, you won’t be summoning Heraklinos often but in the 5% of games you do he will win you that game. I discuss using Heraklinos in detail in the mirror match section of the guide so I won’t go into it in detail here. In long, grindy games Heraklinos can be summoned to close that game out. He is also very strong against stall and burn decks but trying to summon him is a risk due to Lava Golem. One thing Heraklinos is really good at is ending the game. E.g. if you have more cards in hand than your opponent has backrow summoning Herkalinos is probably going to secure your victory. Don’t summon Heraklinos if your behind on resources since the opponent will force negations and eventually remove him.
@@ -175,14 +173,14 @@ Like Neorkius, you won’t be summoning Heraklinos often but in the 5% of games 
 ## Optimized Tournament Main deck 
 [deck:Balance](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Enemy Controller;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Floodgate Trap Hole;Floodgate Trap Hole;Floodgate Trap Hole;Impenetrable Attack;Impenetrable Attack;Curse of Anubis;Windstorm of Etaqua)
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 <br>
 
 ## Optimized Ladder Deck
 [deck:Balance](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Cosmic Cyclone;Cosmic Cyclone;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Floodgate Trap Hole;Floodgate Trap Hole;Wall of Disruption;Wall of Disruption;Curse of Anubis;Windstorm of Etaqua)
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 ---
 
@@ -256,20 +254,20 @@ Most top players see this as an inferior version of Foolish Return and for good 
 * {Kunai With Chain}:  
 Often forgotten card but I like to compare it to Enemy Controller in that it is a versatile card which can do Sphere or E-cons defending job or be activated in the damage step to surprise the opponent. It also opens up Dimicari OTK plays. Its situational activation requirement for the defense change has kept it out of the main deck so far.
 
-* {Powerful Rebirth}: 
+* {Powerful Rebirth}:  
 A good option if facing decks with a lot of out of battle monster destruction to recover lost Gladiators. Tagging out the summoned Gladiator does clog your backrow so use with caution. 
 
-* {Regulation of Tribe}: 
+* {Regulation of Tribe}:  
 Can be used to stall for a turn after been hit by {Hey, trunade!}.
 
-* {Rebound}: 
+* {Rebound}:  
 If Hey, Trunade! Becomes a meta staple then this is the ultimate counter to it.
 
-### Rampage of the forest new card discussion
+### Rampage of the Forest New Card Discussion
 
 [deck](Gravity Lash;Hey, Trunade!;Memory Loss;Spikeshield with Chain)
 
-{Gravity Lash}  
+{Gravity Lash}:  
 This is quick play spell reminiscent of Shrink from the TCG which was often in the Gladiator Beast main deck. This card can be used in the damage step. Therefore, it can be used aggressively in such a way that Enemy Controller and Super Rush Headlong cannot since the opponent must use a resource to stop the attack before the damage step if they suspect you have this card. The only other relevant damage step effects, Mirror Wall, Chalice and {Destiny Hero - Dangerous} all offer attack reduction/increases lower to the decrease of this card. 
 
 If we examine the current metagame the only monsters which are not significantly impaired by this card is {Samurai Skull} and Hazy Flame monsters. Additionally, Sea Stealth Attack destroys before this card becomes relevant… but if we use Cosmic Cyclone it is rarely an issue. let’s take our weakest monster, Murmillo. Using Gravity Lash on the following monsters means even Murmillo can attack over them: Red-Eyes Zombie Dragon, Dakini, Valkyrion, Alien overlord, Citadel Whale, Legendary Fisherman II, {Abyss Soldier}, Saffira and Ancient Gear Golem to name but a few. 
@@ -280,34 +278,34 @@ But why would you use Gravity Lash over Super Rush Headlong? Two reasons:
 
 This card is THE BEST support Gladiator Beasts have received in months and this card will open up more aggressive builds and allow us to make better counter plays to the next new card to consider: Hey Trunade! This rare spell has the chance to become a core x3 spell and change the way we build and play Gladiators completely.
 
-{Hey, Trunade!}  
+{Hey, Trunade!}:   
 This card presents both opportunities and threats to Gladiator Beasts. Many players are acting as though this card spells the end to the Gladiator archtype but they couldn’t be more wrong. How long have we survived while Storm and Anti-Magic Arrows have been meta-relevant? This is a stronger version of these cards since it is quicker (Storm) and returns main phase one backrow (Floodgate, Curse of Anubis, E-con etc.) back to the hand before they can be used.
 
 This card will be mainly used in OTK decks and will lead to a big resurgence of Cyber Angels, improves REZD OTK plays and will be used by new OTK builds in the upcoming set (Gigaplant gemini decks specifically). If this card sees a lot of play (it will for a while) then we will need to switch to a {Restart} build utilising Spheres.  But, this card presents opportunities for us as well. Firstly, we can use the card to clear backrow like we have used Anti-Magic Arrows in the past but this card does have less synergy and secondly may lead to a reduction in backrow heavy decks and other backrow harming cards. Which are both good for us. 
 
 Would you rather have your backrow returned to your hand or pinned down or destroyed? Don’t let this card discourage you, we have been dealing with cards like this for months.
 
-{Memory Loss}  
+{Memory Loss}:  
 The closest comparison to this card which we currently have is Forbidden Chalice. At first glance this card looks amazing for our decks and had the potential to be a core card. However, upon closer inspection it only negates one activation of the effect. Therefore, cards like Snipe Hunter and Golden Flying Fish can activate their effects again. 
 
 But for cards other than this, such as Dakini, Gozuki, Samurai Skull, Alien Telepath, Alien Overlord, {Delta The Magnet Warrior}, {Beta The Electromagnet Warrior}, Volcanic Rocket and ritual searchers this card is strong if used on them on the turn they are summoned (so they cannot just switch back to attack). This card may become an important side deck card for us, but only through testing will we learn if it is better or worse than Chalice.
 
-{Spikeshield with Chain}  
+{Spikeshield with Chain}:  
 Another damage step trap with good potential. 500 attack allows our monsters to be able to hit important attack stat thresholds and can act is an Impenetrable Attack in a way since our set Gladiator’s defense will rise higher than most monsters in the meta. For example, with this card Dimacari has 3300 defense (and can threaten an OTK if tagged in), Bestiari would have 2800 defense and Laquari would have 2700 defense. Those are impressive stats to hit.  This card fits into the more aggressive playstyle that Gravity Lash encourages as well.  
 **Note**: If using in {Three star demotion} (3SD) build {Sanga of the Thunder} defense would go to 5300 and be an outright OTK to the decks which don’t have an out to set Sanga.  (3SD GB might be a good way to play the deck after the new box).
 
-## Sample Decklist for the predicted post Rampage of the Forest Meta
-[deck:Restart](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast; Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast; Dimacari;Sphere Kuriboh;Sphere Kuriboh;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Gravity Lash;Gravity Lash;Gravity Lash;Mirror Wall;Mirror Wall;Curse of Anubis)
+---
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+**Sample Decklist for the Predicted Post Rampage of the Forest Meta**
+[deck:Restart](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator Beast Dimacari;Sphere Kuriboh;Sphere Kuriboh;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Gravity Lash;Gravity Lash;Gravity Lash;Mirror Wall;Mirror Wall;Curse of Anubis)
+
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 ---
 
 ### Gladiator Beast Skills Discussion
 This guide will examine the many potential skills that Gladiator Beasts will use, highlight their advantages and disadvantages and why you might want to use that in a specific META. Gladiator Beasts are by far the most versatile deck in Duel Links because the core of the deck is small with only 7-8 monsters being mandatory. This means the deck has twelve spots for tech options which can be adapted to any Meta we are in. Gladiator’s versatility also comes from the huge number of skills which work with them. In total the main skills guide identifies and analyses 23 skills which the deck can use. Each of which will influence how the deck is built and will vary in usefulness based on the current metagame. 
-Here is the link to the main skills guide:  
-
-[Guide](<iframe src="https://drive.google.com/file/d/1DYpKiRPyDlZ7yQhlL2GiD-64JLwYT_KV/preview" width="640" height="480"></iframe>).
+View the main skills guide [Here](https://drive.google.com/file/d/1DYpKiRPyDlZ7yQhlL2GiD-64JLwYT_KV/view?usp=sharing).
 
 ### New Box New Skills? 
 The meta is beginning to fill up with graveyard effects yet again. Therefore {Shadow Game} and No Mortal can Resist have re-entered the top five skills list. Balance and Mind scan remain the dominant skills. {Endless Trap Hell} remains in the top five due to its stall power and deck out victory potential. 
@@ -315,13 +313,13 @@ The new box, Rampage of the Forest looks to further the metagames reliance on gr
 
 If Trunade sees high usage as we expect then switching to a build using Sphere Kuriboh may be recommended. In this case, Restart will replace Balance as our key consistency skill. Though we have high consistency using 8 or 9 monsters so Restart may not be needed unless you wish to dig for specific cards such as Sphere or Mirror Wall.
 
-### Top 5 skills going into Rampage of the Forest  
+### Top 5 skills Going into Rampage of the Forest  
 
 1: Restart:  
 Restart may take over Balance as the decks dominant consistency skill because Hey, Trunade! improves the consistency of OTK focused decks like Cyber Angels and Red-Eyes Zombies. Therefore, we will probably want to switch to a build utilizing multiple Sphere Kuribohs.  
 
 2: No Mortal Can Resist:  
-This skill turns all monsters in the graveyard into {Skull Servants} and can be activated every turn as long as your life points are 1000 lower than the opponents. This skill shuts down the new d-hero decks, Doom Dozer insect builds, Gigaplant gemini builds and Sylvians not to mention Red-Eyes Zombies and Magnet Warriors while also impairing Aliens, CA, Fishies and Hazy to a lesser extent. You will also be using CC to trigger the skill so you will be effective against SSA as well.  
+This skill turns all monsters in the graveyard into {Skull Servant} and can be activated every turn as long as your life points are 1000 lower than the opponents. This skill shuts down the new d-hero decks, Doom Dozer insect builds, Gigaplant gemini builds and Sylvians not to mention Red-Eyes Zombies and Magnet Warriors while also impairing Aliens, CA, Fishies and Hazy to a lesser extent. You will also be using CC to trigger the skill so you will be effective against SSA as well.  
 
 3: Balance:  
 I am not ruling our best skill out just yet. You can still use one Sphere and Mirror Walls with this skill.  
@@ -334,13 +332,15 @@ I think in the upcoming meta we will need to be more aggressive than before and 
 
 ### Popular Skills for Gladiator Beasts
 
+---
+
 ## Balance  
 Traditionally, Balance has been the most popular skill because it allows you to manipulate your opening hand to always open with one Gladiator Beast and two backrow cards. One useful tip for Balance is to play eight monsters, six spells and six traps. This way you have a guaranteed chance to draw one Gladiator, one spell and one trap. Therefore, if you run three Floodgate Trap Hole and three Wall of Disruption you have a 50% chance to draw either. Furthermore, if you play three Enemy Controller and three Super Rush Headlong you have a 50% chance to open with either. This means you will always open with a good card against Saffira Cyber Angels and one card which is good in the mirror match. The issue with Balance is that it removes Sphere Kuriboh as an option. Looking towards the future, Balance’s power will decrease as more hand traps such as effect veiler release. Balance’s future as our dominant skill may be limited by the influx of out of battle monster destruction and Trunade both of which hinder our preference to open with 1 monster 3 backrow. We will usually prefer 2 monsters 2 backrow going forward.  
 
 **Sample Decklist**
 [deck:Balance](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Gravity Lash;Gravity lash;Wall of Disruption;Wall of Disruption;Mirror Wall;Mirror Wall;Curse of Anubis;Windstorm of Etaqua)
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 ---
 
@@ -350,7 +350,7 @@ Mind scan is perhaps the second most popular skill after Balance for the archtyp
 **Sample Decklist**
 [deck:Mind Scan](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Sphere Kuriboh;Sphere Kuriboh;Enemy Controller;Enemy Controller;Enemy Controller;Gravity Lash;Gravity Lash;Floodgate Trap Hole;Floodgate Trap Hole;Mirror Wall;Mirror Wall;Curse of Anubis)
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 ---
 
@@ -360,7 +360,7 @@ NMCR is an amazing skill in the right meta-game. Discord member Xanxus made an e
 **Sample Decklist**
 [deck:No Mortal Can Resist](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator Beast Dimacari;Sphere Kuriboh;Sphere kuriboh;Cosmic Cyclone;Cosmic Cyclone;Enemy Controller;Enemy Controller;Gravity Lash;Floodgate Trap Hole;Floodgate Trap Hole;Mirror Wall;Mirror Wall;Curse of Anubis)
 
-[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
 ---
 
@@ -381,8 +381,8 @@ Generally, you want to play the mirror match passively. The first player to make
 * If two Gladiator Beast players are both experienced in the mirror match the match will often be long without many attacks occurring. As a result, Heraklinos and Nerokius plays are more common than in any other match up.
 
 * If you suspect Floodgate Trap Hole DO NOT summon Nerokius without a backup play (such as Laquari. It almost always is a bad idea to get Nerokius floodgated, but remember Nerokius has battle destruction immunity and can tag out. To win, your opponent will have to attack into Nerokius at some point. They will do this only if they think it is safe to either 
-    * a) attack then murmillo Nerokius and 
-    * b) if they have an e-con take play. 
+    * a) Attack then murmillo Nerokius and 
+    * b) If they have an e-con take play. 
 You should try and set up your own Enemy Controller or Impenetrable Attack ready for the inevitable attack into Nerokius.
 
 * If your opponent’s backrow and hand combined is less than the number of cards in your backrow and hand Herkalinos is a safe play. For example, if the opponent has 3 backrow cards and 2 in hand and you also have 3 backrow but three cards in hand Heraklinos is a strong play and can win you the mirror since he negates every backrow card (including floodgate on his own summon) and other Gladiators except Nerokius cannot take him down.
@@ -391,8 +391,8 @@ You should try and set up your own Enemy Controller or Impenetrable Attack ready
 
 * If you are in top decking mode, Essedarii is a viable play since your opponent will need a Gladiator and backrow to deal with it.
 
-**Using Enemy Controller in the Mirror**
-As long as Gladiator Beasts remain popular then three Enemy Controller is mandatory even in the Endless Trap Hell build which favors traps to spells. This card is the key to winning the mirror match. One thing we are beginning to see is the inclusion of {Gladiator Beast Andal} in side decks and on the ladder in decks such as REZD and Ancient gears. That is testament to how strong this card is.  
+**Using Enemy Controller in the Mirror**  
+As long as Gladiator Beasts remain popular then three Enemy Controller is mandatory even in the Endless Trap Hell build which favors traps to spells. This card is the key to winning the mirror match. One thing we are beginning to see is the inclusion of {Gladiator Beast Andal} in side decks and on the ladder in decks such as REZD and Ancient Gears. That is testament to how strong this card is.  
 
 Enemy controller can be used to tribute your monster to gain control of an opponent’s Gladiator which has already battled. This allows you to send your opponents monster back into their deck and special summon on from yours. This means that you have removed your opponent’s Gladiator and in most situations destroy their second Gladiator or a backrow card. This play does not generate card advantage (-1 GB, - e-con, +GB +destruction effect) but is a huge tempo swing especially if you can Murmillo a second monster.  
 
@@ -400,9 +400,9 @@ Here is the discord’s Gladiator Beast expert, Raytee’s comment on how to use
 * “With econ, you can attack their Gladiator, if they Impenetrable Attack, you then have 2 choices: 
  1. tag out your gladiator for another (like Bestiari) THEN econ take their monster to tag out their Gladiator. 
  2. If they have econ then you MUST econ after the successful attack and not attempt to tag out your gladiator. 
- Why? If they are smart and have their toggle **ON** (this is what YOU need to do if on the receiving end), when you choose to end the battle phase, they will have the chance to ECON take your monster before you are able to tag out.Econ take to tag out/fuse your opponent's gladiator is devastating no matter how you are able to pull it off.”
+Why? If they are smart and have their toggle **ON** (this is what YOU need to do if on the receiving end), when you choose to end the battle phase, they will have the chance to ECON take your monster before you are able to tag out.Econ take to tag out/fuse your opponent's gladiator is devastating no matter how you are able to pull it off.”
 
-**Using Toggle in the Mirror Match & Turn Player Priority**
+**Using Toggle in the Mirror Match & Turn Player Priority**  
 This a more advanced game play tip for the mirror match but knowing it and executing it correctly will win you matches. 
 The turn player always has card and effect activation priority. This means that in your turn, you will always have to activate backrow and Gladiator Beast effects first. However, you can “pass” turn priority to your opponent by entering or exiting a phase with toggle set to off. You can also pass priority when attacking but attacking with toggle off is a very very risky play and I wouldn’t recommend even if you are a god at using the tap option.
 The turn player also gets to decide the order effects go onto a chain (not relevant for GB) and the order in which continuous effects occur. 
@@ -420,23 +420,21 @@ When to turn toggle to “Off” during your turn
 * **IMPORTANT**: After passing priority set toggle to ON or AUTO so that you can regain priority in order to activate your own Gladiator and backrow card effects!
 * If your opponent has two Gladiators, you can toggle to off to let them tag one out and then toggle to on to regain priority.
 
-**Some Interesting Notes Regarding Toggle:**
+**Some Interesting Notes Regarding Toggle:**  
 If both players have toggle to off a yes/no screen will occur asking if you wish to tag out. This will occur in reverse summon order. If you press no here then you won’t have another chance to tag out. Therefore, if both players toggle to off the turn player MUST tag out first. Special thanks to Puzoor for helping me test this interaction.
 
-**Tech Cards for the Mirror Match**
+**Tech Cards for the Mirror Match**  
 
-[deck](Sergeant Electro;Cosmic Cyclone;Fire Formation-Gyokkou;Xing Zhen Hu;Super Rush Headlong;D.D. Warrior;Forbidden Chalice;Jowels of Dark Demise;4-Starred Ladybug of Doom;Chivalry;Retort)  
+[deck](Sergeant Electro;Cosmic Cyclone;Fire Formation - Gyokkou;Xing Zhen Hu;Super Rush Headlong;D.D. Warrior;Forbidden Chalice;Jowls of Dark Demise;4-Starred Ladybug of Doom;Chivalry;Retort)  
 
-**Mirror Match Closing Remarks**
+**Mirror Match Closing Remarks**  
 By learning and playtesting the mirror match you will gain a deep understanding of how the deck functions and will improve your general gameplay for all other matchups. For example, to do well in the mirror match you must learn how to use the toggle and how to make reads based on toggle delays which is a useful skill for any matchup you face (and any other deck you use!). You will have also learnt how to side deck well against one particular matchup which will allow you to side against other matchups more effectively.
 I enjoy the mirror match and I am happy to playtest the mirror with you. Just send me a message on discord @brenduke#0011 to arrange a time that is convenient for us both.
 
 ---
 
-### Matchup Guide for Top Decks
-This covers the tier list as defined by Duel Links Meta and the Top Player Council. If you are struggling with a deck not on ladder such as Sacred Phoenix please check out the ladder matchup guide here:  
-
-[link](https://docs.google.com/document/d/1hMahDQUcL9GRyNlrx8-Y1xJvKOTNXebLDlbRuLBKWiM/edit?usp=sharing)  
+### Matchup Guide for Tier Decks
+This covers the tier list as defined by Duel Links Meta and the Top Player Council. If you are struggling with a deck not on ladder such as Sacred Phoenix please check out the ladder matchup guide [Here](https://docs.google.com/document/d/1hMahDQUcL9GRyNlrx8-Y1xJvKOTNXebLDlbRuLBKWiM/edit?usp=sharing).  
 
 
 ### Aliens
@@ -493,7 +491,7 @@ Beatdown/TTTB, Gladiator’s Favored, Straight to the Grave, REZD Favored.
 Dominant Skills Used: {Straight to the Grave}, {Restart}  
 
 This deck has proven itself to be quite formidable and has gone from the metagames underdog to a true tier two deck. There are two main versions of the deck. Firstly a standard 20 card variant which is built for consistency and a 30 card {The Grass is Greener} version which gives up some consistency for power. The deck revolves around sending Magnet Warriors to the graveyard to provide fuel for Gaia Plate and to enable Delta’s ability to special summon Valkyrion. The deck can also very easily swarm with Powerful Rebirths and carries outs to our backrow in Anti-Magic Arrows (Restart) or Storm (SttG).  
-* The 20 card version of the deck is easier to handle for us than the 30 card version because the 20 card version does not often carry {Triamid Pulse}. 
+* The 20 card version of the deck is easier to handle for us than the 30 card version because the 20 card version does not often carry {Triamid Pulse}.  
 We have an even matchup against this deck because we carry outs to both their boss monsters in Floodgate Trap Hole, Super Rush Headlong, Murmillo and e-con take. You will want to save Floodgate Trap hole for Beta, Valkyrion and Gaia Plate. You will also want to play around allowing Delta to summon Valkyrion unless you have an answer to it. For example, you may wish to attack with a Gladiator before running over Delta with Laquari to open up and threaten the Murmillo play. Also, you may wish to avoid destroying Delta by battle if you have Floodgate Trap Hole set. Here a Murmillo on Delta would be better than running over it in battle. I find that we have favorable odds against the Restart version since Laquari can beat over monsters but the SttG version stops us doing that. Additionally, Storm is a bigger threat than Anti-Magic Arrows.  
 
 **Matchup Tips:**  
@@ -594,7 +592,7 @@ Even
 
 ---
 
-### Hazy flame
+### Hazy Flame
 Dominant skills: {Aroma Strategy}, {Beatdown}  
 
 This has traditionally been one of our hardest matchups but the way we build Gladiator Beats decks now means we have lot of answers to the deck. The Hazy Flame deck runs a series of monsters which all cannot be targeted by card effects. This means we cannot Murmillo their large monsters. The deck becomes difficult to deal with if they get {Beast Rising}. Fortunately, this trap is unsearchable and can be destroyed easily by Bestiari or Cosmic Cyclone. The way to win this match is by putting their monsters in defense, a boosted Laquari can beat over all Hazy monsters in defense position and does not care about boosted attack through Beast Rising. This can be achieved through cards such as Floodgate Trap Hole, Curse of Anubis, Windstorm of Equita, Memory Loss and Sphere Kuriboh. Unfortunately, Enemy Controller is useless in this particular matchup and should be sided out in a tournament. Super Rush Headlong also allows us to destroy Hazy monsters regardless of Beast Rising. The biggest issue with Hazy Flame Sphynx is the use of {Soul Exchange}. A newer variant of the deck uses Beatdown and Fire Fist monsters. This is an inconsistent OTK deck that works on the ladder but has had no tournament success. They are very easy to deal with unless they get very lucky with Gyokkou targets using Curse, Windstorm or Wall of Disruption. Remember, you can’t Bestiari their continuous spells if {Fire Fist Raven} is face up on the field.
@@ -665,7 +663,7 @@ Unfavorable
 ---
 
 ### Conclusion
-If you have read this guide you will now have an excellent understanding as to how to play Gladiator Beasts and you should be able to now develop your own builds, tech choices and playstyle. Gladiator Beasts are one of the most versatile decks in the metagame due to our small 7-8 card core which allows us to continuously rebuild our decks to adapt to anything Konami will throw at us for the foreseeable future. Gladiator Beasts also have excellent future potential because any new generic spell or trap release can be used and there are many more Gladiator Beast monsters yet to be released. At some point our deck will get powercrept, but when that time comes we will remain a formidable rouge deck because we can very easily transition into an anti-meta deck. We have amazing potential and the future looks brighter with the upcoming box, Rampage of the Forest, despite the general consensus that Gladiators are a dead deck due to {Hey, Trunade!}.
+If you have read this guide you will now have an excellent understanding as to how to play Gladiator Beasts and you should be able to now develop your own builds, tech choices and playstyle. Gladiator Beasts are one of the most versatile decks in the metagame due to our small 7-8 card core which allows us to continuously rebuild our decks to adapt to anything Konami will throw at us for the foreseeable future. Gladiator Beasts also have excellent future potential because any new generic spell or trap release can be used and there are many more Gladiator Beast monsters yet to be released. At some point our deck will get powercrept, but when that time comes we will remain a formidable rouge deck because we can very easily transition into an anti-meta deck. We have amazing potential and the future looks brighter with the upcoming box, Rampage of the Forest, despite the general consensus that Gladiators are a dead deck due to Hey, Trunade!.
 
 ### Thanks
 
@@ -681,6 +679,6 @@ Thank you to all the players who said gladiators were dead. You guys spur me on 
 
 Thank you to **Sanga of the Thunda for bringing them unda!** 
 
-And finally thank you to the amazing devs and content creators for helping me convert this guide into a suitable format for the website. 
+And finally thank you to the amazing Devs and Content Creators for helping me convert this guide into a suitable format for the website. 
 
 {% include decktype_decks.html decktype=page.deck-type %}
