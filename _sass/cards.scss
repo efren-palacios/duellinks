@@ -196,20 +196,6 @@
   img
   {
     position: absolute;
-    left: 50%;
-    top: 55%;
-    height: 100%;
-    width: auto;
-    -webkit-transform: translate(-50%,-45%);
-        -ms-transform: translate(-50%,-45%);
-            transform: translate(-50%,-45%);
-  }
-
-  img.portrait
-  {
-    width: 150%;
-    max-width: 150%;
-    height: auto;
   }
 
   span p
