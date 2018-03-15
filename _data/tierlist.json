@@ -74,11 +74,10 @@
         ]
     },
     {
-        "category": "Archive",
-        "info": "Deck types that should no longer be used or displayed but are still here for legacy decks.",
+        "category": "Inactive",
+        "info": "These deck types are currently inactive in play; therefore, they won't appear on the tier list, but they are still selectable through the deck submission.",
         "types":
-        [    
-            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
+        [
             { "id": "hammer-shark",             "display": "Hammer Shark",          "card": "Hammer Shark" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
@@ -114,7 +113,15 @@
             { "id": "ninja-control",            "display": "Ninja Control",         "card": "White Ninja" },
             { "id": "relinquished",             "display": "Relinquished",          "card": "Relinquished" },
             { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
-            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
+            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" }
+        ]
+    },
+    {
+        "category": "Archive",
+        "info": "Deck types that should no longer be used or displayed but are still here for legacy decks.",
+        "types":
+        [    
+            { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
             { "id": "other",     	            "display": "Other",                 "card": "Question" }
         ]
     }
