@@ -18,7 +18,7 @@ module Jekyll
         for month_key in year.keys
           month = year[month_key]
 
-          generateTopDecks(site, year_key, month_key, month)
+          generateTopDecksSeasons(site, year_key, month_key, month)
 
           for decktype_key in month.keys
             decktype = month[decktype_key]
@@ -74,20 +74,20 @@ module Jekyll
       end
     end
 
-    def generateTopDecks(site, year, month, decktypes)
+    def generateTopDecksSeasons(site, year, month, decktypes)
       
       cur_year = Date.today.year.to_s
       cur_month = Date.today.month.to_s.rjust(2, "0")
 
       unless year == cur_year && month == cur_month
-        generateTopDecksPageFiles(site, year, month, decktypes)
+        generateTopDecksSsnPageFiles(site, year, month, decktypes)
       end
 
-      generateTopDecksDataFiles(site, year, month, decktypes)
+      generateTopDecksSsnDataFiles(site, year, month, decktypes)
 
     end
 
-    def generateTopDecksPageFiles(site, year, month, decktypes)
+    def generateTopDecksSsnPageFiles(site, year, month, decktypes)
       
       monthName = Date::MONTHNAMES[month.to_i].downcase
       
@@ -111,7 +111,7 @@ module Jekyll
 
     end
 
-    def generateTopDecksDataFiles(site, year, month, decktypes)
+    def generateTopDecksSsnDataFiles(site, year, month, decktypes)
 
       file_path = site.source + "/data/top-decks/" + year + "-" + month + ".json"
       
