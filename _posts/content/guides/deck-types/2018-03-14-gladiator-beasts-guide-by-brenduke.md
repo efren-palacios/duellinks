@@ -155,7 +155,7 @@ The Gladiator extra deck will not change unless new Gladiator Beast fusion monst
 {Gladiator Beast Essedarii} [Optimal Count: 3]  
 At first glance Essedarii feels weak and does not offer anything other than being a 2500 beatstick. However, he has proven himself to be a very versatile addition to the deck. For example, with two Essedarii in the extra deck you can continuously summon him by using Essedari and one other Gladiator as material preventing you from ever decking out. This is important for the burn and stall matchups we will discuss later. This also provides the deck with its second win condition in deck out which can be achieved against a surprising number of decks when we consider Floodgate Trap Hole and Wall of Disruptions effectiveness.  
 **Note**: You can fuse using face down/floodgated monsters and those effected by {Massivemorph}/Wall of Disruption/{Inverse Universe} to clear those effects from your field. 
-Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as {Red-Eyes Zombie Dragon}, {Sacred Phoenix of Nephthys}, {Alien Overlord}, Citadel Whale, {Legendary Fisherman II} and {Mecha Sea Dragon Peilson} (assuming you have an answer to {Sea Stealth Attack}).
+Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as {Red-Eyes Zombie Dragon}, {Sacred Phoenix of Nephthys}, {Alien Overlord}, Citadel Whale, {The Legendary Fisherman II} and {Mecha Sea Dragon Plesion} (assuming you have an answer to {Sea Stealth Attack}).
 
 {Gladiator Beast Nerokius} [Optimal Count: 1]  
 Commonly referred to as Batman by the community, Nerokius is one of our two boss monsters which are very rarely summoned. Nerokius is an important card for closing out games and being able to attack into cards like Sea Stealth Attack, {Des Counterblow}, Wall of Disruption and many other non-chainable backrow. He can also present a huge brick wall to the opponent since he is very tough to take due to battle phase immunity.  
@@ -190,7 +190,7 @@ These cards are main and side deck options which work well in certain matchups. 
 ### Monsters
 
 * {D.D. Warrior}:  
-The holy guard variant of gladiator beasts will often use 2-3 D.D Warrior. This card provides the best monster removal in the game at the cost of a normal summon. It was more popular in heavy CA meta where you could crash into Dakini or {Saffira Queen of Dragons} and bypass all protection. The card can also banish {Gozuki}, Red-Eyes Zombie Dragon, {Valkyrion the Magna Warrior} and {Ancient Gear Golem} and other large threats.
+The holy guard variant of gladiator beasts will often use 2-3 D.D Warrior. This card provides the best monster removal in the game at the cost of a normal summon. It was more popular in heavy CA meta where you could crash into Dakini or {Saffira, Queen of Dragons} and bypass all protection. The card can also banish {Gozuki}, Red-Eyes Zombie Dragon, {Valkyrion the Magna Warrior} and {Ancient Gear Golem} and other large threats.
 
 * {Sergeant Electro}:  
 Only really used with {Mind Scan} and {Mighty as Fire}. Electro offers disruption by forcing early backrow plays and pinning unchainables down. Electro quickly becomes the center of attention and forces the opponent to burn resources removing him. 
@@ -222,7 +222,7 @@ An okay side deck card which prevents targeting and monster destruction.
 * {My Body as a Shield}:  
 This card stops monster destruction from any source outside of battle but comes with a heavy cost. This is good against Sea Stealth Attack, Snipe Hunter, Murmillo, {Archfiend Emperor, the First Lord of Horror} and Mysterious Triangle to name a few. Best used with LP reduction skills such as {Bandit}. Better in the side deck
 
-* {Fire Formation-Gyokkou}:  
+* {Fire Formation - Gyokkou}:  
 Very useful if you don’t have Cosmic Cyclones. It also boosts Laquari to 1900 which helps in the mirror match. Really good in conjunction with Mind Scan.
 
 * {Zombie World}:  
@@ -236,7 +236,7 @@ If Ancient Gears come back into the meta this is a good side card
 
 ### Traps
 
-* {Blast Held by Tribute}:  
+* {Blast Held by a Tribute}:  
 A nasty and brutal surprise against Hazy Flame players. This is like Acid Rain in the Ancient Gear match-up.
 
 * {Xing Zhen Hu}:  
@@ -257,7 +257,7 @@ Often forgotten card but I like to compare it to Enemy Controller in that it is 
 * {Powerful Rebirth}:  
 A good option if facing decks with a lot of out of battle monster destruction to recover lost Gladiators. Tagging out the summoned Gladiator does clog your backrow so use with caution. 
 
-* {Regulation of Tribe}:  
+* {The Regulation of Tribe}:  
 Can be used to stall for a turn after been hit by {Hey, trunade!}.
 
 * {Rebound}:  
@@ -490,14 +490,15 @@ Beatdown/TTTB, Gladiator’s Favored, Straight to the Grave, REZD Favored.
 ### Gaia Plate Magnets
 Dominant Skills Used: {Straight to the Grave}, {Restart}  
 
-This deck has proven itself to be quite formidable and has gone from the metagames underdog to a true tier two deck. There are two main versions of the deck. Firstly a standard 20 card variant which is built for consistency and a 30 card {The Grass is Greener} version which gives up some consistency for power. The deck revolves around sending Magnet Warriors to the graveyard to provide fuel for Gaia Plate and to enable Delta’s ability to special summon Valkyrion. The deck can also very easily swarm with Powerful Rebirths and carries outs to our backrow in Anti-Magic Arrows (Restart) or Storm (SttG).  
-* The 20 card version of the deck is easier to handle for us than the 30 card version because the 20 card version does not often carry {Triamid Pulse}.  
+This deck has proven itself to be quite formidable and has gone from the metagames underdog to a true tier two deck. There are two main versions of the deck. Firstly a standard 20 card variant which is built for consistency and a 30 card {The Grass Looks Greener} version which gives up some consistency for power. The deck revolves around sending Magnet Warriors to the graveyard to provide fuel for Gaia Plate and to enable Delta’s ability to special summon Valkyrion. The deck can also very easily swarm with Powerful Rebirths and carries outs to our backrow in Anti-Magic Arrows (Restart) or Storm (SttG).  
+* The 20 card version of the deck is easier to handle for us than the 30 card version because the 20 card version does not often carry {Triamid Pulse}.
+
 We have an even matchup against this deck because we carry outs to both their boss monsters in Floodgate Trap Hole, Super Rush Headlong, Murmillo and e-con take. You will want to save Floodgate Trap hole for Beta, Valkyrion and Gaia Plate. You will also want to play around allowing Delta to summon Valkyrion unless you have an answer to it. For example, you may wish to attack with a Gladiator before running over Delta with Laquari to open up and threaten the Murmillo play. Also, you may wish to avoid destroying Delta by battle if you have Floodgate Trap Hole set. Here a Murmillo on Delta would be better than running over it in battle. I find that we have favorable odds against the Restart version since Laquari can beat over monsters but the SttG version stops us doing that. Additionally, Storm is a bigger threat than Anti-Magic Arrows.  
 
 **Matchup Tips:**  
 * If you destroy Delta by battle you will not be able to respond to Valkyrions summon with backrow unless it is spell speed 3 (counter trap).
 * Do not destroy Delta while the opponent has enough Magnets in grave to summon him if you do not have an answer to Valkyrion
-* Do not waste backrow on Beta in your turn. Beta can tribute itself off as a quick effect. (e.g. do not Floodgate it off Rebirth/{Kurogane} in your turn).
+* Do not waste backrow on Beta in your turn. Beta can tribute itself off as a quick effect. (e.g. do not Floodgate it off Rebirth/{Spiritual Earth Art - Kurogane} in your turn).
 * If tagging in two Gladiators, always tag in Bestiari first so that you can respond to Powerful Rebirth with Murmillo
 * It is important to check your opponent’s graveyard in this matchup to see if a Valkyrion summon is possible and to see how much rocks they have to maintain Gaia Plate.
 * You should be trying to close this game out quickly. The longer this matchup goes on the worse it is for you. They will build up resources for a big Storm/AMA OTK play.
@@ -512,7 +513,7 @@ We have an even matchup against this deck because we carry outs to both their bo
 Floodgate Trap Hole, Murmillo, Wall of Disruption, Nerokius  
 
 **Side Deck Options:**  
-4-Starred Ladybug of Doom, {Crevice to the Different Dimension}  
+4-Starred Ladybug of Doom, {Crevice Into the Different Dimension}  
 
 **Matchup Odds:**  
 Restart: Gladiator favored, SttG/Grass:  Gladiators Unfavorable.  
@@ -595,7 +596,7 @@ Even
 ### Hazy Flame
 Dominant skills: {Aroma Strategy}, {Beatdown}  
 
-This has traditionally been one of our hardest matchups but the way we build Gladiator Beats decks now means we have lot of answers to the deck. The Hazy Flame deck runs a series of monsters which all cannot be targeted by card effects. This means we cannot Murmillo their large monsters. The deck becomes difficult to deal with if they get {Beast Rising}. Fortunately, this trap is unsearchable and can be destroyed easily by Bestiari or Cosmic Cyclone. The way to win this match is by putting their monsters in defense, a boosted Laquari can beat over all Hazy monsters in defense position and does not care about boosted attack through Beast Rising. This can be achieved through cards such as Floodgate Trap Hole, Curse of Anubis, Windstorm of Etaqua, Memory Loss and Sphere Kuriboh. Unfortunately, Enemy Controller is useless in this particular matchup and should be sided out in a tournament. Super Rush Headlong also allows us to destroy Hazy monsters regardless of Beast Rising. The biggest issue with Hazy Flame Sphynx is the use of {Soul Exchange}. A newer variant of the deck uses Beatdown and Fire Fist monsters. This is an inconsistent OTK deck that works on the ladder but has had no tournament success. They are very easy to deal with unless they get very lucky with Gyokkou targets using Curse, Windstorm or Wall of Disruption. Remember, you can’t Bestiari their continuous spells if {Fire Fist Raven} is face up on the field.
+This has traditionally been one of our hardest matchups but the way we build Gladiator Beats decks now means we have lot of answers to the deck. The Hazy Flame deck runs a series of monsters which all cannot be targeted by card effects. This means we cannot Murmillo their large monsters. The deck becomes difficult to deal with if they get {Beast Rising}. Fortunately, this trap is unsearchable and can be destroyed easily by Bestiari or Cosmic Cyclone. The way to win this match is by putting their monsters in defense, a boosted Laquari can beat over all Hazy monsters in defense position and does not care about boosted attack through Beast Rising. This can be achieved through cards such as Floodgate Trap Hole, Curse of Anubis, Windstorm of Etaqua, Memory Loss and Sphere Kuriboh. Unfortunately, Enemy Controller is useless in this particular matchup and should be sided out in a tournament. Super Rush Headlong also allows us to destroy Hazy monsters regardless of Beast Rising. The biggest issue with Hazy Flame Sphynx is the use of {Soul Exchange}. A newer variant of the deck uses Beatdown and Fire Fist monsters. This is an inconsistent OTK deck that works on the ladder but has had no tournament success. They are very easy to deal with unless they get very lucky with Gyokkou targets using Curse, Windstorm or Wall of Disruption. Remember, you can’t Bestiari their continuous spells if {Brotherhood of the Fire Fist - Raven} is face up on the field.
 I classify this matchup as even and I know that is controversial. The reason being is that it is heavily dependent upon the backrow and sides you use and amount of Soul Exchange the Hazy player uses. You can be favored or unfavored.
 
 **Matchup Tips:**  
