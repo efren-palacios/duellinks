@@ -10,7 +10,7 @@ image: /img/content/tournaments/give-away/1/thumbnail.jpg
 comments: true
 description: The Give Away tournament report. Check the prize winners and their decks here.
 keywords: tournament, give away, sub benefits
-permalink: /tournaments/give-away/1/
+permalink: /tournaments/give-away/1/report/
 ---
 
 {% include heading.html title=page.title %}

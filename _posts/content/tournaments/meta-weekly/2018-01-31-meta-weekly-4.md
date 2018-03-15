@@ -10,7 +10,7 @@ date: 2018-01-24
 comments: true
 description: The Meta Weekly 4 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 4, meta weekly 4 winners, meta weekly 4 decks, tournament
-permalink: /tournaments/meta-weekly/4/
+permalink: /tournaments/meta-weekly/4/report/
 ---
 
 {% include heading.html title=page.title author=page.author %}

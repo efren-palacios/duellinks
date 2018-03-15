@@ -10,7 +10,7 @@ date: 2017-07-22
 comments: true
 description: The Meta Championship Series 1 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs1, mcs 1, meta championship, meta championship series, meta championship 1, meta championship series 1, mcs decks, mcs3 decks
-permalink: /tournaments/meta-championship-series/1/
+permalink: /tournaments/meta-championship-series/1/report/
 pinned: false
 ---
 

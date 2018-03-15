@@ -10,7 +10,7 @@ date: 2018-02-14
 comments: true
 description: Challenger Series 9 Tournament Report. Check the prize winners and their decks here.
 keywords: tournament, tournament report
-permalink: /tournaments/challenger-series/9/
+permalink: /tournaments/challenger-series/9/report/
 hide: true
 ---
 

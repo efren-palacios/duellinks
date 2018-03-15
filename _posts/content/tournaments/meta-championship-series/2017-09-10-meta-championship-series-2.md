@@ -10,7 +10,7 @@ date: 2017-9-15 01:32:00 -0600
 comments: true
 description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 2, meta championship series, meta championship series 2, meta championship series winners, meta championship series decks, tournament
-permalink: /tournaments/meta-championship-series/2/
+permalink: /tournaments/meta-championship-series/2/report/
 ---
 
 {% include heading.html title=page.title author=page.author %} 

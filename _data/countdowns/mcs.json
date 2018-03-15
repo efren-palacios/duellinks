@@ -1,0 +1,23 @@
+{
+    "days":
+    [
+        {
+            "header": "coming to you in",
+            "start": "2018-04-07T18:00:00+00:00",
+            "duration": 8
+        },
+        {
+            "header": "day 2 starting in",
+            "start": "2018-04-08T18:00:00+00:00",
+            "duration": 8
+        }
+    ],
+    "live-title": "Event is live!",
+    "live-sub-title": "Watch the action on",
+    "ended-title": "Event has ended!",
+    "ended-sub-title": "Rewatch the action on",
+    "stream-link": "https://www.twitch.tv/DuelLinksMeta",
+    "stream-text": "twitch.tv/duellinksmeta",
+    "series-logo":  "/img/content/tournaments/meta-championship-series/7/series-logo.png",
+    "general-logo": "/img/content/tournaments/meta-championship-series/mcs-logo.png"
+}

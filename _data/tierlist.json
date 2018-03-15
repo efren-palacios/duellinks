@@ -17,7 +17,7 @@
         [              
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
             { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" }
+            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" }            
         ]
     },
     {
@@ -26,6 +26,7 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [            
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "dinos",                    "display": "Dinos",                 "card": "Destroyersaurus" },
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
@@ -37,8 +38,7 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
-            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" }
+            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" }            
         ] 
     },
     {
@@ -47,6 +47,7 @@
         "types":
         [
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
+            { "id": "sylvans",                 "display": "Sylvans",              "card": "Sylvan Komushroomo" },
             { "id": "gishki",                   "display": "Gishki",                "card": "Evigishki Levianima" }
         ] 
     },
@@ -60,46 +61,11 @@
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
             { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
-            { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
-            { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
-            { "id": "trap-monsters",            "display": "Trap Monsters",         "card": "Tiki Soul" },
-            { "id": "horus-dragon",             "display": "Horus",                 "card": "Horus the Black Flame Dragon LV6" },
-            { "id": "ninja-control",            "display": "Ninja Control",         "card": "White Ninja" },
-            { "id": "relinquished",             "display": "Relinquished",          "card": "Relinquished" },
-            { "id": "bls-the-creator",          "display": "BLS / The Creator",     "card": "Black Luster Soldier - Sacred Soldier" },
-            { "id": "dark-paladin",             "display": "Dark Paladin",          "card": "Dark Paladin" },
-            { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
-            { "id": "mausoleum",                "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
-            { "id": "monstermorph-evo",         "display": "Monstermorph-Evo",      "card": "Gandora the Dragon of Destruction" },
-            { "id": "ojamas",                   "display": "Ojamas",                "card": "Ojama King" },
-            { "id": "toon-barrel-dragon",       "display": "Toon Barrel Dragon",    "card": "Toon Barrel Dragon" },
-            { "id": "treeborn-tributes",        "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
-            { "id": "venus",                    "display": "Venus",                 "card": "The Agent of Creation - Venus" },
-            { "id": "psychics",                 "display": "Psychics",              "card": "Serene Psychic Witch" },
-            { "id": "ice-barrier",              "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
-            { "id": "desert-twister",           "display": "Desert Twister",        "card": "Desert Twister" },
-			{ "id": "blue-eyes",     	        "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
-            { "id": "handless",     	        "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
-            { "id": "wetlands",     	        "display": "Wetlands",              "card": "Wetlands" },
-            { "id": "harpies",                  "display": "Harpies",               "card": "Cyber Harpie Lady" },
-            { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
-            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
-            { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
-            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
-            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
-            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },
-            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
-            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
-            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
-            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
-            { "id": "jurracs",                  "display": "Jurracs",               "card": "Jurrac Guaiba" },
-            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
             { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" },
             { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
             { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
-            { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
@@ -114,6 +80,41 @@
         [    
             { "id": "dinos-control",            "display": "Dino Control",          "card": "Hydrogeddon" },
             { "id": "hammer-shark",             "display": "Hammer Shark",          "card": "Hammer Shark" },
+            { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
+            { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
+            { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
+            { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
+            { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
+            { "id": "jurracs",                  "display": "Jurracs",               "card": "Jurrac Guaiba" },
+            { "id": "lightsworn",               "display": "Lightsworn",            "card": "Lyla, Lightsworn Sorceress" },
+            { "id": "monstermorph-evo",         "display": "Monstermorph-Evo",      "card": "Gandora the Dragon of Destruction" },
+            { "id": "ojamas",                   "display": "Ojamas",                "card": "Ojama King" },
+            { "id": "toon-barrel-dragon",       "display": "Toon Barrel Dragon",    "card": "Toon Barrel Dragon" },
+            { "id": "bls-the-creator",          "display": "BLS / The Creator",     "card": "Black Luster Soldier - Sacred Soldier" },
+            { "id": "dark-paladin",             "display": "Dark Paladin",          "card": "Dark Paladin" },
+            { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
+            { "id": "mausoleum",                "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
+            { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
+            { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
+            { "id": "ninjas",                   "display": "Ninjas",                "card": "Black Dragon Ninja" },
+            { "id": "treeborn-tributes",        "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
+            { "id": "venus",                    "display": "Venus",                 "card": "The Agent of Creation - Venus" },
+            { "id": "psychics",                 "display": "Psychics",              "card": "Serene Psychic Witch" },
+            { "id": "ice-barrier",              "display": "Ice Barrier",           "card": "General Gantala of the Ice Barrier" },
+            { "id": "desert-twister",           "display": "Desert Twister",        "card": "Desert Twister" },
+			{ "id": "blue-eyes",     	        "display": "Blue-Eyes",             "card": "Blue-Eyes White Dragon" },
+            { "id": "handless",     	        "display": "Handless",              "card": "Swift Gaia the Fierce Knight" },
+            { "id": "wetlands",     	        "display": "Wetlands",              "card": "Wetlands" },
+            { "id": "harpies",                  "display": "Harpies",               "card": "Cyber Harpie Lady" },
+            { "id": "machine",                  "display": "Machines",              "card": "Pulse Mines" },
+            { "id": "pyrorex",                  "display": "Pyrorex",               "card": "Pyrorex the Elemental Lord" },
+            { "id": "trap-monsters",            "display": "Trap Monsters",         "card": "Tiki Soul" },
+            { "id": "horus-dragon",             "display": "Horus",                 "card": "Horus the Black Flame Dragon LV6" },
+            { "id": "ninja-control",            "display": "Ninja Control",         "card": "White Ninja" },
+            { "id": "relinquished",             "display": "Relinquished",          "card": "Relinquished" },
+            { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
+            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
             { "id": "other",     	            "display": "Other",                 "card": "Question" }
         ]
     }
