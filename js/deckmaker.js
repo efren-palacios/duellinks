@@ -146,7 +146,7 @@ function obtainCardInformation( instance, current ) {
     let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
         return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
     });
-    let cardinfo = axios.get("https://cors.io/?https://yugiohprices.com/api/card_data/" + cardName).then(function(r) {
+    let cardinfo = axios.get("https://crossorigin.me/https://yugiohprices.com/api/card_data/" + cardName).then(function(r) {
         return r.data
     });
     Promise.all([cardobtain, cardinfo]).then(function(r) {
@@ -327,7 +327,7 @@ function obtainTextForDesktops( event, api ) {
         let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
             return r.data.filter(i => i.name == namepure)[0] || new Error('No Resource')
         });
-        let cardinfo = axios.get("https://cors.io/?https://yugiohprices.com/api/card_data/" + name).then(function(r) {
+        let cardinfo = axios.get("https://crossorigin.me/https://yugiohprices.com/api/card_data/" + name).then(function(r) {
             return r.data
         });
         Promise.all([cardobtain, cardinfo]).then(function(r) {
