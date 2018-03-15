@@ -53,6 +53,7 @@ permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
 ---
 
 ### Introduction & History
+
 Gladiator Beasts have a long and rich history throughout the Yu-Gi-Oh trading card game. They were first released in Japan with the Gladiator's Assault booster pack on July 21, 2007. The Gladiators dominated the TCG throughout 2008 and were the winners of the Yu-Gi-Oh World Championship that year. Gladiator Beasts were released in Duel Links in the pack Galactic Origin and have been a common fixture on the ladder and in tournaments since. 
 
 The Gladiator Beasts use a mechanic in Yu-Gi-Oh commonly referred to as “tagging out”. This is a fan created term referring to special summoning a Gladiator Beast at the end of the battle phase from the deck by returning a Bladiator Beast that attacked or was attacked. The second mechanic that Gladiator Beast use is called Contact Fusion. This is fusion conducted by returning monsters from the field to the deck to special summon from the extra deck without using cards like {Polymerization}. The deck uses a small monster core supported by a strong suite of spells and traps which protect the Gladiators to support the tagging out mechanic, generating card advantage and removing threats from the opponent’s board. It is important to note that a Gladiator Beast cannot tag itself in, for example, you cannot tag out {Gladiator Beast Murmillo} to summon Gladiator Beast Murmillo.
@@ -60,17 +61,21 @@ The Gladiator Beasts use a mechanic in Yu-Gi-Oh commonly referred to as “taggi
 The Gladiator Beast deck is easy to use but difficult to master; this deck punishes the pilot’s mistakes and rewards optimal play. Gladiator Beasts have been an important aspect of the metagame for almost half a year, since our decks core engine is small (7-9 monsters) and can run any backrow card our builds can be incredibly versatile and adapt to anything Konami throws at us. If we can survive Abyss Encounters and come out strong, we can survive anything. The recent addition of side decking in community events improves our versatility even more so you should always be prepared to face Gladiators in a tournament. 
 
 ### About the Author
+
 Brenduke played the TCG competitively up until 2010 and achieved multiple regional tops in the UK with Gladiator Beasts. He only quit the TCG due to starting University which meant that time and money became more restricted. When Duel Links was released he was instantly hooked and has achieved King of Games six times so far, four of which were with Gladiator Beasts. He has topped multiple tournaments and popularized 3SD Gladiators. He is currently Deck Expert for Gladiator Beasts in the Duel Links Meta Discord. 
 
 Green played the TCG competitively for years. He comes up with original and creative deck ideas, completely new to the meta. He has achieved King of Games multiple times, and is currently the head coach for Creeping Death in Team Wars. He focuses heavily on deck analysis, and meta prediction to spur creativity. He has actively posted in the Gladiator Beast discord channel since its inception.
 
 ### A Guide to the Guide
 This will be a living guide which will be updated once per month to reflect new card releases and changes in the metagame. The guide has three main sections:
+
 * **Building Your Gladiator Beast Deck**   
     * In this section we discuss the cards which form the core of the deck, the spells and traps the deck can use effectively and some tech options.
-* **The Gladiator Beast skills guide**   
-    * This section discusses the top 5 skills for gladiator beasts and provides a link to the main skills guide which discusses 23 different skills we can use.
-* **The match up guide**   
+
+* **The Gladiator Beast Skills Guide**   
+    * This section discusses the top 5 skills for Gladiator Beasts and provides a link to the main skills guide which discusses 23 different skills we can use.
+
+* **The Match Up Guide**   
     * Firstly, we will discuss the mirror match in depth. This is a good place to start since it will also teach you some core mechanics of the deck. 
     * We then go onto to discuss how we fare against the Tier 1-3 decks as defined by Duel Links Meta and the Top Player Council. 
     * A separate guide discusses ladder matchups which can be found in #gladiator-tips on the DLM Discord.
@@ -78,189 +83,188 @@ This will be a living guide which will be updated once per month to reflect new 
 ---
 
 ### Building your Gladiator Beast Deck
+
 This section will cover the relevant monsters, spells and traps the deck uses. It will not discuss in any length cards we do not often use, for example, Augustus, Secutor and Alexander will not discussed in detail.
 
 ### Monster Core
 You will want to run 8 monsters in your deck but you can move this to 9 if you wish for non-balance builds.
+
 [deck](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari)
 
 
-Gladiator Beast Laquari [Optimal Count 3]
-Gladiator Beast Laquari is our highest attack monster and is key to the tagging out strategy. He is the monster you always want to draw or topdeck. Laquari’s attack has now been powercrept by cards like volcanic rocket but he remains important. Many of our spells and traps change battle positions or lower attack therefore he is important for destroying monsters through battle. His ability to tag in either bestiari or murmillo is important and makes him a toolbox in his own right. When he is tagged in his attack is boosted to 2100 allowing him to beat over unbooted hazy flame sphinx and many other relevant monsters. Finally, you need laquari to summon heraklinos, the decks boss monster which will be very relevant in some matches. You want three laquari, but you can play the deck with only two if you are free to play.
+{Gladiator Beast Laquari} [Optimal Count 3]  
+Gladiator Beast Laquari is our highest attack monster and is key to the tagging out strategy. He is the monster you always want to draw or topdeck. Laquari’s attack has now been powercrept by cards like {Volcanic Rocket} but he remains important. Many of our spells and traps change battle positions or lower attack therefore he is important for destroying monsters through battle. His ability to tag in either Bestiari or Murmillo is important and makes him a toolbox in his own right. When he is tagged in his attack is boosted to 2100 allowing him to beat over unbooted {Hazy Flame Sphynx} and many other relevant monsters. Finally, you need Laquari to summon {Gladiator Beast Heraklinos}, the decks boss monster which will be very relevant in some matches. You want three Laquari, but you can play the deck with only two if you are free to play.
 
-Gladiator Beast Bestiari [Optimal Count 2]
-Bestiari is our primary source of backrow removal and one of the key ways the deck generates advantage and drains opponent’s resources. His low attack means that you will more often than not need to protect him from battle. Since you want to tag into Bestiari it is important to run two so that you do not draw it as often as liquari or dimacari. The reason you do not want to run one is that if he was to be destroyed you lose your backrow removal and there are situations where tagging into two bestiari to clear backrow comes up. Some players argue that three bestiari without a dimacari is optimal, if you think this ask yourself the question: Would I rather draw bestiari or dimacari? 
+{Gladiator Beast Bestiari} [Optimal Count 2]  
+Bestiari is our primary source of backrow removal and one of the key ways the deck generates advantage and drains opponent’s resources. His low attack means that you will more often than not need to protect him from battle. Since you want to tag into Bestiari it is important to run two so that you do not draw it as often as Laquari or Dimacari. The reason you do not want to run one is that if he was to be destroyed you lose your backrow removal and there are situations where tagging into two Bestiari to clear backrow comes up. Some players argue that three Bestiari without a Dimacari is optimal. If you think this ask yourself the question: Would I rather draw Bestiari or Dimacari? 
 
-Gladiator Beast Murmillo [Optimal Count 1-2]
-Murmillo is our weakest monster but also one of the most important. This monster allows us to destroy any monster on the field when he is tagged in and can remove large threats like ancient gear golem, Red eyes zombie dragon and valkyrion the magna warrior. You will very often be able to tag in murmillo after destroying a monster in battle to clear two monster in a turn or retaliate to destroy a monster in your opponents turn after using impenetrable attack. Murmillo is a poor card to draw since he requires protection and often you will taking a sizeable hit to your life points to tag him out. For the exact same reasons as bestiari, we recommend using two. Although, you can drop murmillo to one if you are main decking other forms of removal such as super rush headlong or the metagame favours targeting immune monsters such as hazy flame or citadel whale.
+{Gladiator Beast Murmillo} [Optimal Count 1-2]  
+Murmillo is our weakest monster but also one of the most important. This monster allows us to destroy any monster on the field when he is tagged in and can remove large threats like {Ancient Gear Golem}, {Red-Eyes Zombie Dragon} and {Valkyrion the Magna Warrior}. You will very often be able to tag in Murmillo after destroying a monster in battle to clear two monster in a turn or retaliate to destroy a monster in your opponents turn after using {Impenetrable Attack}. Murmillo is a poor card to draw since he requires protection and often you will taking a sizeable hit to your life points to tag him out. For the exact same reasons as Bestiari, we recommend using two. Although, you can drop Murmillo to one if you are main decking other forms of removal such as {Super Rush Headlong} or the metagame favours targeting immune monsters such as the Hazy Flame Archetype or {Citadel Whale}.
 
-Gladiator beast Dimacari [optimal count 1-2]
-Dimacari rounds out the core monster line up and is often seen as the weakest viable gladiator we have but he serves an important purpose. Firstly he serves a similar function to liquari in that he is a toolbox since he tag into bestiary, murmillo and liquari. Do not ignore his tagged in effect, Dimacari puts a lot of pressure on the opponent and can close out games when the opponent is top decking. He can destroy up to two monsters per turn with cards such as windstorm of equita, curse of Anubis or super rush headlong. He also threatens a whopping 3200 damage if not dealt with. If you choose to use only one murmillo, dimacari I the best option to replace it as the 8th monster.
+{Gladiator Beast Dimacari} [optimal count 1-2]  
+Dimacari rounds out the core monster line up and is often seen as the weakest viable Gladiator we have but he serves an important purpose. Firstly he serves a similar function to Laquari in that he is a toolbox since he tags into Bestiari, Murmillo and Laquari. Do not ignore his tagged in effect, Dimacari puts a lot of pressure on the opponent and can close out games when the opponent is top decking. He can destroy up to two monsters per turn with cards such as {Windstorm of Equita}, {Curse of Anubis} or Super Rush Headlong. He also threatens a whopping 3200 damage if not dealt with. If you choose to use only one Murmillo, Dimacari is the best option to replace it as the 8th monster.
 
-2.1 Spell cards
-Note: The spells we use and optimal counts will vary significantly based on the current meta, The current guide was written for March 2018. We will go in depth on how to use these cards in the match up sections.
+### Spell cards
+**Note**: The spells we use and optimal counts will vary significantly based on the current meta, The current guide was written for March 2018. We will go in depth on how to use these cards in the match up sections.
 
-Enemy Controller
-Super Rush Headlong
-Gravity Lash
-Cosmic Cyclone
+[deck](Enemy Controller;Super Rush Headlong;Gravity Lash;Cosmic Cyclone)
 
-Enemy Controller [Optimal Count: 3]
-Gladiator Beasts generally want to attack defence position monsters. Enemy controller achieves this while also offering a lot of extra utility. Firstly, enemy controller can protect a monster from battle by switching the attacker to defence position which also allows us to follow this up with an attack and begin tagging out. This card is a -1 in card advantage on paper but in reality the gladiator effects make it an even trade or a +1 if we destroy the opponent’s monster by battle. Being a quickplay spell means we use it defensively or offensively. Finally, the second effect of enemy controller opens up OTK plays or can be used to primitively stop effects such as cyber angel dakini, snipe hunter and golden flying fish. This card is also the key to winning the mirror match as we will discuss later. Being a quickplay also means we can chain it to backrow removal or pinning.
+{Enemy Controller} [Optimal Count: 3]  
+Gladiator Beasts generally want to attack defense position monsters. Enemy Controller achieves this while also offering a lot of extra utility. Firstly, Enemy Controller can protect a monster from battle by switching the attacker to defense position which also allows us to follow this up with an attack and begin tagging out. This card is a -1 in card advantage on paper but in reality the Gladiator effects make it an even trade or a +1 if we destroy the opponent’s monster by battle. Being a quickplay spell means we use it defensively or offensively. Finally, the second effect of Enemy Controller opens up OTK plays or can be used to primitively stop effects such as {Cyber Angel Dakini}, {Snipe Hunter} and {Golden Flying Fish}. This card is also the key to winning the mirror match as we will discuss later. Being a quickplay also means we can chain it to backrow removal or pinning.
 
-Super Rush Headlong [Optimal Count: 2]
-Super rush headlong is a card we use often despite it having little synergy with our monsters. Super rush headlong complements our low attack monsters and can be used offensively or defensively to destroy threats outside of battle. The card is also important in that it doesn’t target and is one of our only outs to a boosted hazy flame sphinx or citadel whale. Being able to destroy outside of battle also allows us to remove aliens from the board without having to worry about A-counter on our monster or getting A-counters from alien warrior. This spell is also one of the cards used to counter gladiator beasts. Due to turn player priority, the turn player’s super rush headlong will always win. Therefore, if you are attacking a defence position monster and your opponent responds with this card you can chain your own copy which destroys your opponent’s monster while also saving your own! Like enemy controller, this card has all the benefits of being a quickplay spell.
+{Super Rush Headlong} [Optimal Count: 2]  
+Super Rush Headlong is a card we use often despite it having little synergy with our monsters. Super Rush Headlong complements our low attack monsters and can be used offensively or defensively to destroy threats outside of battle. The card is also important in that it doesn’t target and is one of our only outs to a boosted {Hazy Flame Sphynx} or {Citadel Whale}. Being able to destroy outside of battle also allows us to remove Aliens from the board without having to worry about A-counter on our monster or getting A-counters from alien warrior. This spell is also one of the cards used to counter Gladiator Beasts. Due to turn player priority, the turn player’s Super Rush Headlong will always win. Therefore, if you are attacking a defense position monster and your opponent responds with this card you can chain your own copy which destroys your opponent’s monster while also saving your own! Like Enemy Controller, this card has all the benefits of being a quickplay spell.
 
-Cosmic Cyclone [Optimal Count 0-3]
-Simple, versatile, effective 1 for 1 backrow removal. This is an incredibly versatile card and in the current meta (March 2018) you should be main decking this card for the ladder and side decking it for tournaments. Cosmic cyclone can simply remove set backrow so that your gladiators can effectively attack or can be used to remove matchup specific threats such as a legendary ocean, brain washing beam, ancient gear castle, goyukku, xing zen hu, ninjitsu traps and powerful rebirth. If you are taking a pot shot at backrow this is best used in the end phase on a card the opponent set that turn where the opponent cannot chain that set card. Also not that this card does not negate so banishing in response to wall of disruption will not stop it going through. However, you may wish to chain this to spells or traps with graveyard effects to stop those occurring, for example, hymm of light, cyber angel ritual and A-cell recombination device. This card can be used to trigger skills but can also turn off mind scan.
+{Cosmic Cyclone} [Optimal Count 0-3]  
+Simple, Versatile, Effective 1 for 1 backrow removal. This is an incredibly versatile card and in the current meta (March 2018) you should be main decking this card for the ladder and side decking it for tournaments. Cosmic Cyclone can simply remove set backrow so that your Gladiators can effectively attack or can be used to remove matchup specific threats such as {A Legendary Ocean}, {Brain Washing Beam}, {Ancient Gear Castle}, {Fire Formation - Gyokkou}, {Xing Zhen Hu}, Ninjitsu traps and {Powerful Rebirth}. If you are taking a pot shot at backrow this is best used in the end phase on a card the opponent set that turn where the opponent cannot chain that set card. Also not that this card does not negate so banishing in response to {Wall of Disruption} will not stop it going through. However, you may wish to chain this to spells or traps with graveyard effects to stop those occurring, for example, {Hymn of Light}, {Machine Angel Ritual} and "A" Cell Recombination Device. This card can be used to trigger skills but can also turn off {Mind Scan}.
 
-2.3 Trap cards
+### Trap cards
 Note: The traps we use and optimal counts will vary significantly based on the current meta, the current guide was written for March 2018. We will go in depth on how to use these cards in the match up sections.
-Floodgate Trap Hole
-Impenetrable Attack
-Wall of Disruption
-Mirror Wall
-Curse of Anubis
-Windstorm of Etaqua
 
-Floodgate Trap Hole [Optimal Count: 3]
-This is one of the best generic trap cards in the game and is an important trap for the gladiator beast deck. This card fulfils many jobs for the deck. Firstly, it slows down the opponent and forced them to play at your pace. Secondly, it gives us a face-down defence position monster to attack into and begin tagging. Being face down is important since it prevents the use of cards such like super rush headlong. Finally, it also shuts down monster effects. For example, you can shut down gozuki, snipe hunter, lava golem, cyber angel dakini, alien telepath, golden flying fish and abyss soldier to name but a few. It also permanently puts large monsters into defence so we can hold off a large attack until we can pop it with a murmillo tag. One thing to recognise with floodgate trap hole is that it can actually open up an alternative win condition for the deck if you are using three complemented with wall of disruption. Many decks do not run tribute monsters and you can actually go for a deck out victory against a deck like volcanic snipe hunter, aliens (if you hit overlord) and magnets. Some players prefer two and have success with two but it is my personal opinion that three is optimal since you want it turn one.
+[deck](Floodgate Trap Hole;Impenetrable Attack;Wall of Disruption;Mirror Wall;Curse of Anubis;Windstorm of Etaqua)
 
-Impenetrable Attack [Optimal Count: 0-2]
-This cards usage is heavily dependent on the meta but is something you should always consider when building your deck. Right now this card is seeing a lot of play because it allows you to be play completely passively against aliens and force them to make attacks. Setting this and a GB while using balance also allows you to bluff being an alien player where you will see many players attacking right into the trap. The key reason impenetrable attack is good right now is because super rush headlong usage is relatively high, mysterious triangle is seeing play in the battle phase and this card can stop sea stealth attacks destruction effect. This card can be used both offensively and defensively. Its second effect does not see much use but it can stop OTKs. That said, I find that if I am in a situation where I need to use the second effect I have already lost.
+{Floodgate Trap Hole} [Optimal Count: 3]  
+This is one of the best generic trap cards in the game and is an important trap for the Gladiator Beast deck. This card fulfills many jobs for the deck. Firstly, it slows down the opponent and forced them to play at your pace. Secondly, it gives us a face-down defense position monster to attack into and begin tagging. Being face down is important since it prevents the use of cards such like Super Rush Headlong. Finally, it also shuts down monster effects. For example, you can shut down {Gozuki}, Snipe Hunter, {Lava Golem}, Cyber Angel Dakini, {Alien Telepath}, Golden Flying Fish and {Abyss Soldier} to name but a few. It also permanently puts large monsters into defense so we can hold off a large attack until we can pop it with a Murmillo tag. One thing to recognize with Floodgate Trap Hole is that it can actually open up an alternative win condition for the deck if you are using three complemented with Wall of Disruption. Many decks do not run tribute monsters and you can actually go for a deck out victory against a deck like Volcanic Snipe Hunter, Aliens (if you hit Overlord) and Magnets. Some players prefer two and have success with two but it is my personal opinion that three is optimal since you want it turn one.
 
-Wall of Disruption [Optimal Count: 0-2]
-Again this card enters and falls out of the meta as if it is a cyclical card. You usually play either this card or impenetrable attack. In a meta with little backrow removal and swarming decks this card is one of the best options any deck can use. The current meta has a lot of decks which can swarm the field such as red eyes zombies, cyber angels, magnet warriors, aliens and destiny heroes. This card in conjunction with floodgate trap hole opens up the secondary win condition of decking the opponent out. In some match ups it is best to bait out a big wall of disruption play to clog the opponent’s field with 0 attack monsters and then stall out to victory. Remember, Gladiators have a natural anti-deck out option in Essedari. 
+{Impenetrable Attack} [Optimal Count: 0-2]  
+This cards usage is heavily dependent on the meta but is something you should always consider when building your deck. Right now this card is seeing a lot of play because it allows you to play completely passively against Aliens and force them to make attacks. Setting this and a GB while using {Balance} also allows you to bluff being an Alien player where you will see many players attacking right into the trap. The key reason Impenetrable Attack is good right now is because Super Rush Headlong usage is relatively high, {Mysterious Triangle} is seeing play in the battle phase and this card can stop {Sea Stealth Attack}s destruction effect. This card can be used both offensively and defensively. Its second effect does not see much use but it can stop OTKs. That said, I find that if I am in a situation where I need to use the second effect I have already lost.
 
-Mirror Wall [Optimal Count: 0-2]
-Mirror wall is a card that has fallen out of favour in recent months but I have included it as a core trap since it functions in a similar way to wall of disruption but has some notable advantages. Firstly, this card is better when the opponent only has one monster, secondly, this card can be chained to sergeant electro who is still around even if his usage has dropped recently and finally, and possibly the most important point is that mirror wall is much harder to play around compared to disruption and can be used to confuse your opponent in the toggle game. Since this sees little use it comes as a surprise to the opponent and often results in you destroying a monster by battle and their second monster or a spell or trap they set that turn. Remember to activate this in the damage step. It is also important to know when to pay to keep mirror wall active for a second turn. You will probably want to use this over disruption is using skill like no mortal can resist.
+{Wall of Disruption} [Optimal Count: 0-2]  
+Again this card enters and falls out of the meta as if it is a cyclical card. You usually play either this card or Impenetrable Attack. In a meta with little backrow removal and swarming decks this card is one of the best options any deck can use. The current meta has a lot of decks which can swarm the field such as Red-Eyes Zombies, Cyber Angels, Magnet Warriors, Aliens and Destiny Heroes. This card in conjunction with Floodgate Trap Hole opens up the secondary win condition of decking the opponent out. In some match ups it is best to bait out a big Wall of Disruption play to clog the opponent’s field with 0 attack monsters and then stall out to victory. Remember, Gladiators have a natural anti-deck out option in {Gladiator Beast Essedari}. 
 
-Curse of Anubis [Optimal Count: 1]
-This is a staple trap for the deck. Like floodgate trap hole, this achieves two things. It protects your monsters while also turning opponent’s monsters to defence which allows you to get some tagging plays off. Another big bonus this card has is that it is chainable to cards like cosmic cyclone and storm. It can also be used before the battle phase to counter a suspected anti-magic arrows play. Remember that this card only hits effect monsters so some cards are immune to it. This includes ancient gear knight, gladiator beast andal and heavy knight of flame all of which see play. This is one of the most powerful and versatile traps in the game and you should be using the one copy we have access to.
+{Mirror Wall} [Optimal Count: 0-2]  
+Mirror wall is a card that has fallen out of favor in recent months but I have included it as a core trap since it functions in a similar way to Wall of Disruption but has some notable advantages. Firstly, this card is better when the opponent only has one monster, secondly, this card can be chained to {Sergeant Electro} who is still around even if his usage has dropped recently and finally, and possibly the most important point is that Mirror Mall is much harder to play around compared to disruption and can be used to confuse your opponent in the toggle game. Since this sees little use it comes as a surprise to the opponent and often results in you destroying a monster by battle and their second monster or a spell or trap they set that turn. Remember to activate this in the damage step. It is also important to know when to pay to keep Mirror Wall active for a second turn. You will probably want to use this over disruption is using skill like {No Mortal Can Resist}.
 
-Windstorm of Etaqua [Optimal count 0-1]
+{Curse of Anubis} [Optimal Count: 1]  
+This is a staple trap for the deck. Like Floodgate Trap Hole, this achieves two things. It protects your monsters while also turning opponent’s monsters to defense which allows you to get some tagging plays off. Another big bonus this card has is that it is chainable to cards like cosmic cyclone and storm. It can also be used before the battle phase to counter a suspected anti-magic arrows play. Remember that this card only hits effect monsters so some cards are immune to it. This includes ancient gear knight, gladiator beast andal and heavy knight of flame all of which see play. This is one of the most powerful and versatile traps in the game and you should be using the one copy we have access to.
+
+{Windstorm of Etaqua} [Optimal count 0-1]  
 This card is very similar to curse of Anubis but also hits normal and gemini monsters. This card comes in and out of favour since it is easy to play around if your opponent makes the correct read. The second issue with the card over curse of Anubis is that if your opponent is playing around WoD they are also naturally playing around windstorm. That said, it remains a very powerful option for all the reasons stated above for curse of Anubis. You will usually be playing this but it can be dropped to fit in another copy of wall of disruption.
 
-2.4 Hand Traps
+### Hand Traps
 
-Sphere Kuriboh
+[deck](Sphere Kuriboh)
 
-Sphere Kuriboh [Optimal Count 0-3]
-Sphere kuriboh is yet another amazing defensive option for the deck covering some of the uses which enemy controller and floodgate trap hole offer. While this card is not as strong as the aforementioned cards it does have its merits in some metas. This card is immune to backrow removal and anti-magic arrows, this card also does not target and is therefore a strong card. It is very strong in matchups which aim to OTK or have a lot of backrow removal like red eyes zombies, cyber angels, control decks and dinosaurs. Unfortunately, this card can cause bricks with balance but it is a very good choice for non-balance builds.
+{Sphere Kuriboh} [Optimal Count 0-3]
+Sphere kuriboh is yet another amazing defensive option for the deck covering some of the uses which Enemy Controller and Floodgate Trap Hole offer. While this card is not as strong as the aforementioned cards it does have its merits in some metas. This card is immune to backrow removal and {Anti-Magic Arrows}, this card also does not target and is therefore a strong card. It is very strong in matchups which aim to OTK or have a lot of backrow removal like Red-Eyes Zombies, Cyber Angels, Control Decks and Dinosaurs. Unfortunately, this card can cause bricks with {Balance} but it is a very good choice for non-balance builds.
 
-2.5 The Extra Deck
-The Gladiator extra deck will not change unless new gladiator beast fusion monsters are released. These will come but not in the foreseeable future since they are either too strong (Gyzarus) or their fusion materials are arguably too strong (Gaiodiaz which requires Hoplomus).
+### The Extra Deck
+The Gladiator extra deck will not change unless new Gladiator Beast fusion monsters are released. These will come but not in the foreseeable future since they are either too strong (Gyzarus) or their fusion materials are arguably too strong (Gaiodiaz which requires Hoplomus).
 
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Nerokius
-Gladiator Beast Heraklinos
+[deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
 
-Gladiator Beast Essedarii [Optimal Count: 3]
-At first glance Essedarii feels weak and does not offer anything other than being a 2500 beatstick. However, he has proven himself to be a very versatile addition to the deck. For example, with two Essedarii in the extra deck you can continuously summon him by using Essedari and one other gladiator as material preventing you from ever decking out. This is important for the burn and stall matchups we will discuss later. This also provides the deck with its second win condition in deck out which can be achieved against a surprising number of decks when we consider floodgate trap hole and wall of disruptions effectiveness. Note: You can fuse using face down/floodgated monsters and those effected by massivemorph/wall of disruption/inverse universe to clear those effects from your field. 
+{Gladiator Beast Essedarii} [Optimal Count: 3]  
+At first glance Essedarii feels weak and does not offer anything other than being a 2500 beatstick. However, he has proven himself to be a very versatile addition to the deck. For example, with two Essedarii in the extra deck you can continuously summon him by using Essedari and one other Gladiator as material preventing you from ever decking out. This is important for the burn and stall matchups we will discuss later. This also provides the deck with its second win condition in deck out which can be achieved against a surprising number of decks when we consider Floodgate Trap Hole and Wall of Disruptions effectiveness.  
+**Note**: You can fuse using face down/floodgated monsters and those effected by {Massivemorph}/Wall of Disruption/{Inverse Universe} to clear those effects from your field. 
 
-Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as red eyes zombie dragon, sacred phoenix, alien overlord and citadel whale, legendary fisherman II and mecha sea dragon peilson (assuming you have an answer to sea stealth attack).
+Essedari also allows you to beat over the multitude of 2200-2400 attack monsters in the current meta such as {Red-Eyes Zombie Dragon}, {Sacred Phoenix of Nephthys}, {Alien Overlord} and Citadel Whale, {Legendary Fisherman II} and {Mecha Sea Dragon Peilson} (assuming you have an answer to {Sea Stealth Attack}).
 
-Gladiator Beast Nerokius [Optimal Count: 1]
-Commonly referred to as Batman by the community, nerokius is one of our two boss monsters which are very rarely summoned. Nerokius is an important card for closing out games and being able to attack into cards like sea stealth attack, des counterblow, wall of disruption and many other non-chainable backrow. He can also present a huge brick wall to the opponent since he is very tough to take due to battle phase immunity.
-Tip: Nerokius stops any card that starts a chain. Continuous effects which would cause a chain to start do not activate on attack (e.g. des counterblow would cause destruction, which always starts a chain) but those continuous effects which don’t cause chain still activate (e.g. toon kingdom banishing a card from the top of a deck doesn’t start a chain)
-Tip: Don’t summon him into a floodgate trap hole
-Tip: After attack declaration, you can activate cards and your opponent cannot respond to them. For example, cosmic cyclone or e-con take cannot be responded to if it is done during the battle step after attacking with nerokius.
+{Gladiator Beast Nerokius} [Optimal Count: 1]  
+Commonly referred to as Batman by the community, Nerokius is one of our two boss monsters which are very rarely summoned. Nerokius is an important card for closing out games and being able to attack into cards like Sea Stealth Attack, {Des Counterblow}, Wall of Disruption and many other non-chainable backrow. He can also present a huge brick wall to the opponent since he is very tough to take due to battle phase immunity.  
+**Tip**: Nerokius stops any card that starts a chain. Continuous effects which would cause a chain to start do not activate on attack (e.g. Des Counterblow would cause destruction, which always starts a chain) but those continuous effects which don’t cause chain still activate (e.g. {Toon Kingdom} banishing a card from the top of a deck doesn’t start a chain)  
+**Tip**: Don’t summon him into a Floodgate Trap Hole  
+**Tip**: After attack declaration, you can activate cards and your opponent cannot respond to them. For example, cosmic cyclone or e-con take cannot be responded to if it is done during the battle step after attacking with nerokius.  
 
-Gladiator Beast Heraklinos [Optimal Count: 1]
-Like Neorkius, you won’t be summoning heraklinos often but in the 5% of games you do he will win you that game. I discuss using Heraklinos in detail in the mirror match section of the guide so I won’t go into it in detail here. In long, grindy games heraklinos can be summoned to close that game out. He is also very strong against stall and burn decks but trying to summon him is a risk due to lava golem. One thing heraklinos is really good at is ending the game. E.g. if you have more cards in hand than your opponent has backrow summoning herkalinos is probably going to secure your victory. Don’t summon heraklinos if your behind on resources since the opponent will force negations and eventually remove him.
+{Gladiator Beast Heraklinos} [Optimal Count: 1]  
+Like Neorkius, you won’t be summoning Heraklinos often but in the 5% of games you do he will win you that game. I discuss using Heraklinos in detail in the mirror match section of the guide so I won’t go into it in detail here. In long, grindy games Heraklinos can be summoned to close that game out. He is also very strong against stall and burn decks but trying to summon him is a risk due to Lava Golem. One thing Heraklinos is really good at is ending the game. E.g. if you have more cards in hand than your opponent has backrow summoning Herkalinos is probably going to secure your victory. Don’t summon Heraklinos if your behind on resources since the opponent will force negations and eventually remove him.
 
-2.6 Optimised Builds
+### Optimised Builds
 
 Optimised Tournament Main deck 
-SKILL = Balance
-Gladiator Beast Laquari
-Gladiator Beast Laquari
-Gladiator Beast Laquari
-Gladiator Beast Bestiari
-Gladiator Beast Bestiari
-Gladiator Beast Murmillo
-Gladiator Beast Murmillo
-Gladiator beast Dimacari
-Enemy Controller
-Enemy Controller
-Enemy Controller
-Super Rush Headlong
-Super Rush Headlong
-Floodgate Trap Hole
-Floodgate Trap Hole
-Floodgate Trap Hole
-Impenetrable Attack
-Impenetrable Attack
-Curse of Anubis
-Windstorm of Etaqua
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Nerokius
-Gladiator Beast Heraklinos
+[deck:Balance](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Enemy Controller;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Floodgate Trap Hole;Floodgate Trap Hole;Floodgate Trap Hole;Impenetrable Attack;Impenetrable Attack;Curse of Anubis;Windstorm of Etaqua)
+
+[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+
+<br>
 
 Optimised Ladder Deck
-SKILL = Balance
-Gladiator Beast Laquari
-Gladiator Beast Laquari
-Gladiator Beast Laquari
-Gladiator Beast Bestiari
-Gladiator Beast Bestiari
-Gladiator Beast Murmillo
-Gladiator Beast Murmillo
-Gladiator beast Dimacari
-Cosmic Cyclone
-Cosmic Cyclone
-Enemy Controller
-Enemy Controller
-Super Rush Headlong
-Super Rush Headlong
-Floodgate Trap Hole
-Floodgate Trap Hole
-Wall of Disruption
-Wall of Disruption
-Curse of Anubis
-Windstorm of Etaqua
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Essedarii
-Gladiator Beast Nerokius
-Gladiator Beast Heraklinos
+[deck:Balance](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator beast Dimacari;Cosmic Cyclone;Cosmic Cyclone;Enemy Controller;Enemy Controller;Super Rush Headlong;Super Rush Headlong;Floodgate Trap Hole;Floodgate Trap Hole;Wall of Disruption;Wall of Disruption;Curse of Anubis;Windstorm of Etaqua)
 
-2.6 Tech cards
+[Extra Deck](Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Nerokius;Gladiator Beast Heraklinos)
+
+
+
+### Tech cards
 These cards are main and side deck options which work well in certain matchups. These will not be discussed in the same detail as the core cards but they will be mentioned in the matchup guides.
 
-2.6.1 Monsters
-•	D.D. Warrior: The holy guard variant of gladiator beasts will often use 2-3 D.D warrior. This card provides the best monster removal in the game at the cost of a normal summon. It was more popular in heavy CA meta where you could crash into dakini or Saffira and bypass all protection. The card can also banish gozuki, red eyes zombie dragon, valkyrion and ancient gear golem and other large threats.
-•	Sargent Electro: Only really used with mind scan and mighty as fire. Electro offers disruption by forcing early backrow plays and pinning unchainables down. Electro quickly becomes the centre of attention and forces the opponent to burn resources removing him. 
-•	Four star ladybug of doom: In my opinion this is the best side deck card since it is very good against legendary ocean deck when combined with inpenetrable attack, aliens, dinosaurs, little city destiny heroes, magnets and the mirror match. This is a side deck card since it is useless in some matchups.
-•	Jowels of dark demise: A very good card in the mirror. Set it and let your opponent attack into it, then you can tag out their gladiator at the end of the battle phase. This is a huge swing play and a great side option when gladiators are popular. 
-•	Heavy knight of flame: Similar in function to d.d. warrior but is slower to set up at the cost of having more long term utility.
-•	Lava golem: You can tribute off two monsters your opponent controls to summon this in defence position. You can then attack golem and destroy it with murmillo. Good for clearing untargetable threats such as whale and hazy. Golem + e-con take is also an OTK move against very aggressive decks which run little backrow.
+### Monsters
 
-2.6.2 Spells
-•	Anti-magic arrows: Functions in a similar way to cosmic cyclone at the moment and is a good replacement if you don’t have any. The added benefit of AMA is free tagging in the battle phase which can be devastating since bestiary cannot be chained to.
-•	Forbidden chalice: Good all round card now that we have reached an effect monster meta. The extra 400 attack can come in clutch but do not tag out if you chaliced your own monster. Also don’t expect boosted liquari to jump to 2500 it will go to 2200. 
-•	Forbidden dress: An okay side deck card which prevents targeting and monster destruction. Note: dress will not negate an effect which has already targeted. (e.g. chaining to enemy controller)
-•	My body as a shield: This card stops monster destruction from any source outside of battle but comes with a heavy cost. This is good against sea stealth attack, snipe hunter, murmillo, archfiend emperor and mysterious triangle to name a few. Best used with LP reduction skills such as bandit. Better in the side deck
-•	Fire formation Goyukku: Very useful if you don’t have cosmic cyclones. It also boosts liquari to 1900 which helps in the mirror match. Really good in conjunction with mind scan.
-•	Zombie world: Shuts down hazy flame decks and monarch decks which are both very difficult matchups. A good side option but might not be the best use of the spot.
-•	Foolish return: A good side deck card against red eyes zombies and aliens. We can force spirit/rebirth activation with bestiary and chain this from the hand to ruin their play. I personally feel disappear is better in the GB side as it is an automatic win vs stall/burn if used.
-•	Acid rain/system down: If ancient gears come back into the meta this is a good side card
-2.6.3 Traps
-•	Blast held by tribute: A nasty and brutal surprise against hazy flame players. This is like acid rain in the ancient gear match-up.
-•	Xing Zeng Hu: This trap can be devastating against other control decks, burn, aliens and the mirror. Resolving this in the end phase of your opponents turn will usually win you the match, but it is dead vs other. I like this in the main deck when using 3SD GB.
-•	Straight flush: We all say how well Glading used this in MCSVI where he sided this in his tournament winning deck. Amazing vs aliens, GB and burn who often set 3.
-•	Divine wrath/ultimate providence: These traps offer monster effect negation at the cost of a discard. This is good in the side for snipe hunter where negating its effect is an even trade. 
-•	Disappear: Most top players see this as an inferior version of foolish return and for good reason. However, I strongly feel disappear is better for gladiator beasts specifically because it gives you guaranteed win vs stall.
-•	Kunai With Chain: Often forgotten card but I like to compare it to enemy controller in that it is a versatile card which can do sphere or e-cons defending job or be activated in the damage step to surprise the opponent. It also opens up Dimicari OTK plays. Its situational activation requirement for the defence change has kept it out of the main deck so far.
-•	Powerful rebirth: A good option if facing decks with a lot of out of battle monster destruction to recover lost gladiators. Tagging out the summoned gladiator does clog your backrow so use with caution. 
-•	Regulation of tribe: can be used to stall for a turn after been hit by Hey, trunade!
-•	Rebound: If Hey, Trunade! Becomes a meta staple then this is the ultimate counter to it.
+* {D.D. Warrior}:  
+The holy guard variant of gladiator beasts will often use 2-3 D.D Warrior. This card provides the best monster removal in the game at the cost of a normal summon. It was more popular in heavy CA meta where you could crash into Dakini or {Saffira Queen of Dragons} and bypass all protection. The card can also banish {Gozuki}, Red-Eyes Zombie Dragon, {Valkyrion the Magna Warrior} and {Ancient Gear Golem} and other large threats.
 
-2.8 Rampage of the forest new card discussion
+* {Sergeant Electro}:  
+Only really used with {Mind Scan} and {Mighty as Fire}. Electro offers disruption by forcing early backrow plays and pinning unchainables down. Electro quickly becomes the center of attention and forces the opponent to burn resources removing him. 
+
+* {4-Starred Ladybug of Doom}:  
+In my opinion this is the best side deck card since it is very good against the Legendary Ocean deck when combined with Impenetrable Attack, Aliens, Dinosaurs, Little City Destiny Heroes, Magnets and the mirror match. This is a side deck card since it is useless in some matchups.
+
+* {Jowels of Dark Demise}:  
+A very good card in the mirror. Set it and let your opponent attack into it, then you can tag out their Gladiator at the end of the battle phase. This is a huge swing play and a great side option when Gladiators are popular. 
+
+* {Heavy Knight of the Flame}:  
+Similar in function to D.D. Warrior but is slower to set up at the cost of having more long term utility.
+
+* {Lava golem}:  
+You can tribute off two monsters your opponent controls to summon this in defense position. You can then attack Golem and destroy it with Murmillo. Good for clearing untargetable threats such as Whale and Hazy. Golem + E-con take is also an OTK move against very aggressive decks which run little backrow.
+
+### Spells
+
+* {Anti-Magic Arrows}:  
+Functions in a similar way to Cosmic Cyclone at the moment and is a good replacement if you don’t have any. The added benefit of AMA is free tagging in the battle phase which can be devastating since Bestiari cannot be chained to.
+
+* {Forbidden Chalice}:  
+Good all round card now that we have reached an effect monster meta. The extra 400 attack can come in clutch but do not tag out if you chaliced your own monster. Also don’t expect boosted Laquari to jump to 2500 it will go to 2200. 
+
+* {Forbidden Dress}:  
+An okay side deck card which prevents targeting and monster destruction.  
+**Note**: Dress will not negate an effect which has already targeted. (e.g. chaining to Enemy Controller)
+
+* {My Body as a Shield}:  
+This card stops monster destruction from any source outside of battle but comes with a heavy cost. This is good against Sea Stealth Attack, Snipe Hunter, Murmillo, {Archfiend Emperor, the First Lord of Horror} and Mysterious Triangle to name a few. Best used with LP reduction skills such as {Bandit}. Better in the side deck
+
+* {Fire Formation-Gyokkou}:  
+Very useful if you don’t have Cosmic Cyclones. It also boosts Laquari to 1900 which helps in the mirror match. Really good in conjunction with Mind Scan.
+
+* {Zombie World}:  
+Shuts down Hazy Flame decks and Monarch decks which are both very difficult matchups. A good side option but might not be the best use of the spot.
+
+* {Foolish Return}:  
+A good side deck card against Red-Eyes Zombies and Aliens. We can force {Red-Eyes Spirit}/{Powerful Rebirth} activation with Bestiari and chain this from the hand to ruin their play. I personally feel {Disappear} is better in the GB side as it is an automatic win vs stall/burn if used.
+
+* {Acid Rain}/{System Down}:  
+If Ancient Gears come back into the meta this is a good side card
+
+
+### Traps
+
+* {Blast Held by Tribute}:  
+A nasty and brutal surprise against Hazy Flame players. This is like Acid Rain in the Ancient Gear match-up.
+
+* {Xing Zhen Hu}:  
+This trap can be devastating against other Control Decks, Burn, Aliens and the mirror. Resolving this in the end phase of your opponents turn will usually win you the match, but it is dead vs other. I like this in the main deck when using 3SD GB.
+
+* {Straight Flush}:  
+We all saw how well Glading used this in MCS VI where he sided this in his tournament winning deck. Amazing vs Aliens, GB and Burn who often set 3.
+
+* {Divine Wrath}/{Ultimate Providence}:  
+These traps offer monster effect negation at the cost of a discard. This is good in the side for Snipe Hunter where negating its effect is an even trade. 
+
+* {Disappear}:  
+Most top players see this as an inferior version of Foolish Return and for good reason. However, I strongly feel Disappear is better for Gladiator Beasts specifically because it gives you guaranteed win vs stall.
+
+* {Kunai With Chain}:  
+Often forgotten card but I like to compare it to Enemy Controller in that it is a versatile card which can do Sphere or E-cons defending job or be activated in the damage step to surprise the opponent. It also opens up Dimicari OTK plays. Its situational activation requirement for the defense change has kept it out of the main deck so far.
+
+* {Powerful Rebirth}: 
+A good option if facing decks with a lot of out of battle monster destruction to recover lost Gladiators. Tagging out the summoned Gladiator does clog your backrow so use with caution. 
+
+* {Regulation of Tribe}: 
+Can be used to stall for a turn after been hit by {Hey, trunade!}.
+
+* {Rebound}: 
+If Hey, Trunade! Becomes a meta staple then this is the ultimate counter to it.
+
+### Rampage of the forest new card discussion
 
 Gravity Lash
 Hey, Trunade!
@@ -323,7 +327,7 @@ Gladiator Beast Heraklinos
 
 3.0 Gladiator Beast Skills Discussion
 This guide will examine the many potential skills that gladiator beasts will use, highlight their advantages and disadvantages and why you might want to use that in a specific META. Gladiator beasts are by far the most versatile deck in duel links because the core of the deck is small with only 7-8 monsters being mandatory. This means the deck has twelve spots for tech options which can be adapted to any Meta we are in. Gladiator’s versatility also comes from the huge number of skills which work with them. In total the main skills guide identifies and analyses 23 skills which the deck can use. Each of which will influence how the deck is built and will vary in usefulness based on the current metagame. 
-Here is the link to the main skills guide: https://drive.google.com/file/d/1DYpKiRPyDlZ7yQhlL2GiD-64JLwYT_KV/view.
+Here is the link to the main skills guide: [Guide](<iframe src="https://drive.google.com/file/d/1DYpKiRPyDlZ7yQhlL2GiD-64JLwYT_KV/preview" width="640" height="480"></iframe>).
 
 3.2 How might the new box, rampage of the forest effect skill choice? 
 The meta is beginning to fill up with graveyard effects yet again. Therefore shadow game and no mortal can resist have re-entered the top five skills list. Balance and Mind scan remain the dominant skills. Endless trap hell remains in the top five due to its stall power and deck out victory potential. 
@@ -653,26 +657,22 @@ Key cards: Floodgate trap hole, wall of disruption, cosmic cyclone
 Side deck options: Forbidden chalice, mechizure, my body as a shield, four star ladybug of doom.
 Matchup odds: Unfavourable.
 
-6.0 Conclusion
-If you have read this guide you will now have an excellent understanding as to how to play gladiator beasts and you should be able to now develop your own builds, tech choices and playstyle. 
-Gladiator beasts are one of the most versatile decks in the metagame due to our small 7-8 card core which allows us to continuously rebuild our decks to adapt to anything Konami will throw at us for the foreseeable future. Gladiator beasts also have excellent future potential because any new generic spell or trap release can be used and there are many more gladiator beast monsters yet to be released. 
+### Conclusion
+If you have read this guide you will now have an excellent understanding as to how to play Gladiator Beasts and you should be able to now develop your own builds, tech choices and playstyle. Gladiator Beasts are one of the most versatile decks in the metagame due to our small 7-8 card core which allows us to continuously rebuild our decks to adapt to anything Konami will throw at us for the foreseeable future. Gladiator Beasts also have excellent future potential because any new generic spell or trap release can be used and there are many more Gladiator Beast monsters yet to be released. At some point our deck will get powercrept, but when that time comes we will remain a formidable rouge deck because we can very easily transition into an anti-meta deck. We have amazing potential and the future looks brighter with the upcoming box, Rampage of the Forest, despite the general consensus that Gladiators are a dead deck due to {Hey, Trunade}.
 
-At some point our deck will get powercrept, but when that time comes we will remain a formidable rouge deck because we can very easily transition into an anti-meta deck.
-We have amazing potential and the future looks brighter with the upcoming box, rampage of the forest, despite the general consensus that gladiators are a dead deck due to trunade.
+### Thanks
 
-7.0 Thanks
-
-Firstly I would like to thank Raytee and green for their earlier gladiator beast guides which formed an important foundation for this guide and I would like to thank them both for their valued contributions to the current version of the guide.
+Firstly I would like to thank Raytee and Green for their earlier Gladiator Beast guides which formed an important foundation for this guide and I would like to thank them both for their valued contributions to the current version of the guide.
 
 Thank you to the other deck experts and guide writers for all their hard work. Reading your guides was the spark which led to writing this guide. Your advice when creating this guide was invaluable.
 
-Thank you to every active member of #gladiator-beasts for their amazing support and feedback on my previous guides. And thank you for not giving up on the deck when abyss encounters released.
+Thank you to every active member of #gladiator-beasts in the DLM server for their amazing support and feedback on my previous guides. And thank you for not giving up on the deck when Abyss Encounters was released.
 
 Thanks to Dkayed for cultivating an amazing community worth working for.
 
 Thank you to all the players who said gladiators were dead. You guys spur me on to prove you wrong with each new box release. Don’t worry, one day you will be right but that time isn’t now.
 
-Thank you to Sanga of the thunda for bringing them unda 
+Thank you to **Sanga of the Thunda for bringing them unda!** 
 
 And finally thank you to the amazing devs and content creators for helping me convert this guide into a suitable format for the website. 
 

@@ -67,6 +67,7 @@
             { "id": "elemental-heroes",         "display": "Elemental Heroes",      "card": "Elemental HERO Neos" },
             { "id": "control-decks",            "display": "Control Decks",         "card": "Sergeant Electro" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
+            { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
             { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
@@ -91,7 +92,6 @@
             { "id": "toon-barrel-dragon",       "display": "Toon Barrel Dragon",    "card": "Toon Barrel Dragon" },
             { "id": "bls-the-creator",          "display": "BLS / The Creator",     "card": "Black Luster Soldier - Sacred Soldier" },
             { "id": "dark-paladin",             "display": "Dark Paladin",          "card": "Dark Paladin" },
-            { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
             { "id": "mausoleum",                "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
             { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
             { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
