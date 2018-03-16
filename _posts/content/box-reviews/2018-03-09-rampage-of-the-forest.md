@@ -23,11 +23,14 @@ permalink: /box-reviews/rampage-of-the-forest/
 #### New Archetype -  Sylvans
 
 As a new archetype, Sylvans get a lot of attention in this box. The archetype seems to be similar to other recent decks like Gladiator Beast (GB), Bujins, and Aliens, with dedicated monsters for backrow destruction ({Gladiator Beast Bestiari}, {Bujingi Centipede}, {Alien Telepath}), cards to assist with monster removal ({Gladiator Beast Murmillo}, {Bujingi Boar}, {"A" Cell Recombination Device}), and core monsters with high ATK ({Gladiator Beast Laquari}, {Bujin Yamato}, {Alien Warrior}). 
+ 
 In Sylvans these roles are filled by {Sylvan Komushroomo} (backrow destruction with a nice DEF), {Sylvan Marshalleaf} (monster removal), and {Sylvan Flowerknight}/{Sylvan Bladefender} (beaters with good effects). 
-While GB shuffles into the deck, Bujins dump cards through {Bujin Yamato}, and Aliens use "A" counters, Sylvans get their effect by being excavated and milled (think {Magical Merchant}) and almost all of the relevant Sylvans both excavate and have effects when milled. It will be interesting to see how much control can be had over which Sylvan monsters are milled when (this is the main problem with Sylvans, especially since we are getting almost none of their spell/trap support that solves this issue), how big a concern deck-out is, and how much room the deck has for bigger “boss”-type monsters like {Gigaplant} and {Mariña, Princess of Sunflowers}. 
-{Aroma Strategy} may also be a good skill with more consistent versions of this deck, allowing you to run {Sylvan Waterslide} as well. Prior to any play-testing, Sylvans do not seem like a good deck, although {Magical Merchant} milling half the deck can blow up your opponent’s entire field, leaving them open for an OTK after you swarm off {Sylvan Peaskeeper}. Note, {That Grass Looks Greener} does not work with Sylvans.
-
-Conclusion: not (currently) interesting cards.
+While GB shuffles into the deck, Bujins dump cards through {Bujin Yamato}, and Aliens use "A" counters, Sylvans get their effect by being excavated and milled (think {Magical Merchant}) and almost all of the relevant Sylvans both excavate and have effects when milled. 
+ 
+It will be interesting to see how much control can be had over which Sylvan monsters are milled when (this is the main problem with Sylvans, especially since we are getting almost none of their spell/trap support that solves this issue), how big a concern deck-out is, and how much room the deck has for bigger “boss”-type monsters like {Gigaplant} and {Mariña, Princess of Sunflowers}. 
+{Aroma Strategy} may also be a good skill with more consistent versions of this deck, allowing you to run {Sylvan Waterslide} as well. 
+ 
+Prior to any play-testing, Sylvans do not seem like a good deck, although {Magical Merchant} milling half the deck can blow up your opponent’s entire field, leaving them open for an OTK after you swarm off {Sylvan Peaskeeper}. Note, {That Grass Looks Greener} does not work with Sylvans.
 
 #### Interesting cards
 - {Gigaplant}: {Il Blud} for Plants, better in every way (its summoned monsters don’t get destroyed when it does). Possible “boss” monster for Sylvans.

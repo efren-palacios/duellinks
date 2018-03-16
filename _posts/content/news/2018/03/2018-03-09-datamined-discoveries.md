@@ -50,18 +50,17 @@ There are also card 'shines' that has been found, however it is unclear at prese
 
 ### New Skills
 
+New skills have been found in the game files. Konami is clearly getting into the April Fools' spirit by creating a skill that starts the duel with the 'Field Spell' {Blast Held by a Tribute} which is in fact Ishizu's signature trap card!
+
 [gallery 2/3](/img/content/news/2018/03/datamined-discoveries/skill-amazoness-village.png, /img/content/news/2018/03/datamined-discoveries/skill-ishizu.png, /img/content/news/2018/03/datamined-discoveries/skill-gilford-the-lightning.png, /img/content/news/2018/03/datamined-discoveries/skill-blast-held-by-a-tribute.png, /img/content/news/2018/03/datamined-discoveries/skill-sogen.png)
 
 <br>
 <br>
 
-New skills have been found in the game files. Konami is clearly getting into the April Fools' spirit by creating a skill that starts the duel with the 'Field Spell' {Blast Held by a Tribute} which is in fact Ishizu's signature trap card!
-
 ### Deck Customization
 A feature that had been requested by players since Duel Links' inception will soon be here! Players will finally be able to choose a sleeve and gamemat for **each and every deck** - no need to visit the Card Studio everytime you want a new look.
 
 ![Image](/img/content/news/2018/03/datamined-discoveries/customization.png)
-
 
 ### Box Sale
 To celebrate 65 million downloads, Konami will be having a 3 day sale - the specifics are still a mystery!
@@ -114,12 +113,12 @@ It has been revealed that Dr Vellian Crowler will be the newest addition to the 
 
 ### New Skills
 
+New skills relating to {The Winged Dragon of Ra} have been found! This may hint that the arrival of Marik Ishtar is not too far.
+
 [gallery 2/3](/img/content/news/2018/03/datamined-discoveries/skill-blessings-of-the-sun.png, /img/content/news/2018/03/datamined-discoveries/skill-chosen-by-the-gods.png, /img/content/news/2018/03/datamined-discoveries/skill-disciples-of-the-divine.png, /img/content/news/2018/03/datamined-discoveries/skill-divine-fusion.png, /img/content/news/2018/03/datamined-discoveries/skill-power-of-the-tributed.png)
 
 <br>
 <br>
-
-New skills relating to {The Winged Dragon of Ra} have been found! This may hint that the arrival of Marik Ishtar is not too far.
 
 ### Miscellaneous Cards
 
