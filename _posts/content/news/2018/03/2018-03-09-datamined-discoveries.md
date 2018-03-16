@@ -17,7 +17,7 @@ permalink: /news/march-2018/datamined-discoveries/
 
 <br>
 
-With another maintenance update comes new discoveries; **the identity of the 'superb' duelist, new cards and new skills** have been found courtesy of XOF!
+With another maintenance update comes new discoveries; **the identity of the 'superb' duelist, new cards and new skills** have been found courtesy of XOF and YAZAN!
 
 ### 'Superb' Téa Gardner
 
