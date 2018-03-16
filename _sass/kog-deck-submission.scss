@@ -1,0 +1,44 @@
+#kog-deck-submission-form {
+    #notes {
+        min-height: 100px;
+        max-height: 300px;
+    }
+
+    textarea::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    textarea::-webkit-scrollbar-thumb {
+        border-radius: 10px;
+        background-color: $outline;
+        background-image: -webkit-linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.5) 50%, transparent)
+    }
+
+    textarea::-webkit-scrollbar-track
+    {
+        -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+        border-radius: 10px;
+        background-color: rgba(#F5F5F5, 0.1);
+    }   
+
+    button:hover 
+    {
+        cursor: pointer;
+    }
+} 
+
+.kog-proof {
+    background-color: transparent !important;
+    text-align: center !important;
+}
+
+.kog-proof-picture {
+    width: 25%;
+}
+
+@media only screen and (max-width: 768px)
+{
+    .kog-proof-picture {
+        width: 75%;
+    }
+}
