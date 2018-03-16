@@ -7,6 +7,7 @@ date: 2018-03-15
 description: This page allows users to submit their most recent King of Games deck to be displayed on the site, provided proof of obtaining the rank.
 keywords: king of games, ranked decks, top decks, top tier decks, deck submission
 permalink: /king-of-games-deck-submission/
+scripts: kog-deck-submission.js
 ---
 
 {% include heading.html title=page.title %}
@@ -17,7 +18,7 @@ permalink: /king-of-games-deck-submission/
 </div>
 
 <div class="section">
-    <form id="kog_deck_submission">
+    <form id="kog-deck-submission">
         <div class="form-group">
             <label for="author">Author</label>
             <input type="text" class="form-control" id="author">
@@ -25,6 +26,16 @@ permalink: /king-of-games-deck-submission/
         <div class="form-group">
             <label for="proof">Proof of Rank</label>
             <input type="file" class="form-control-file" id="proof" multiple>
+            <small id="emailHelp" class="form-text text-muted">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
+                <a data-src="#kog-proof-1" href="javascript:;" class="fancybox">
+                    example
+                </a>
+            ) and a screenshot of the King of Games ranking with your username (
+                <a data-src="#kog-proof-2" href="javascript:;" class="fancybox">
+                    example
+                </a>
+            )
+            </small>
         </div>
         <div class="form-group">
             <label for="deck_pics">Deck</label>
@@ -37,4 +48,12 @@ permalink: /king-of-games-deck-submission/
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
-</div>             
+</div>          
+
+<div style="display: none;" id="kog-proof-1" class="kog-proof">
+	<img src="/img/pages/top-decks/kog-submission/kog_proof_1.png" class="kog-proof-picture">
+</div>   
+
+<div style="display: none;" id="kog-proof-2" class="kog-proof">
+	<img src="/img/pages/top-decks/kog-submission/kog_proof_2.png" class="kog-proof-picture">
+</div>
