@@ -1,21 +1,20 @@
 ---
 layout: blog
-date: 2018-03-09
+date: 2018-03-16
 title: "Box Review: Rampage of the Forest"
 author: Yami Hammy
 category: box-review
 image: /img/content/box-reviews/rampage-of-the-forest/preview.png
 comments: true
-description: Review of the 'Rampage of the Forest'box. New deck types included with this box are Sylvans as well as insect and plant support.
+description: Review of the 'Rampage of the Forest' box. New deck types included with this box are Sylvans as well as insect and plant support.
 keywords: box, minibox, rampage-of-the-forest, review, sylvan, plant, insect
 permalink: /box-reviews/rampage-of-the-forest/
-hide: true
 ---
 
 {% include heading.html title=page.title %}
 
-<!--[w100]
-![banner](/img/content/box-reviews/rampage-of-the-forest/banner.jpg)-->
+[w100]
+![banner](/img/content/box-reviews/rampage-of-the-forest/banner.jpg)
 
 ### Top Player Council Thoughts
 
@@ -67,3 +66,16 @@ Old cards that synergize:
 #### Normal Cards
 
 {% include box.html box=site.data.box.rampage-of-the-forest rarity="N" %}
+
+### Sylvans: Dkayed vs Gunsblazing! 
+
+{% include youtube-video.html url='https://www.youtube.com/watch?v=ZHjgD2mxQUY' %}
+
+### Metamorphosed Insect Queen
+
+{% include youtube-video.html url='https://www.youtube.com/watch?v=VMdv6wREsEk' %}
+
+### Affected Deck Types
+This box creates the following deck types
+
+{% include deck-type-list.html deck-types='sylvans;' %} 
