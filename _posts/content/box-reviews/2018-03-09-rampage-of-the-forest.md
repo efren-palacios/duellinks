@@ -18,7 +18,7 @@ permalink: /box-reviews/rampage-of-the-forest/
 
 ### Top Player Council Thoughts
 
-**[Superforms](/authors/superforms/)** says: 
+#### **[Superforms](/authors/superforms/)** says: 
 
 #### New Archetype -  Sylvans
 

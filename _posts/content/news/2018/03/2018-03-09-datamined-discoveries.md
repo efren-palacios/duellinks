@@ -27,8 +27,6 @@ With another maintenance update comes new discoveries; **the identity of the 'su
 
 Téa will be the next roaming duelist with a deck upgrade, bringing with her a powerful counter trap Fairy deck! These could be some of the drops to look forward to (RNG willing!): 
 
-![Image](/img/content/news/2018/03/datamined-discoveries/tea-spawn.png)
-
 [deck](Meltiel, Sage of the Sky; Harvest Angel of Wisdom; Radiant Jeral; Zeradias, Herald of Heaven; Tethys, Goddess of Light; Wingweaver; Guiding Light; Photon Booster; Constellar Belt; Freya, Spirit of Victory; Tenderness)
 
 ### Top Player Council Thoughts
