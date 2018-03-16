@@ -8,6 +8,7 @@ description: This page allows users to submit their most recent King of Games de
 keywords: king of games, ranked decks, top decks, top tier decks, deck submission
 permalink: /king-of-games-deck-submission/
 scripts: kog-deck-submission.js
+hide: true
 ---
 
 {% include heading.html title=page.title %}
@@ -18,15 +19,18 @@ scripts: kog-deck-submission.js
 </div>
 
 <div class="section">
-    <form id="kog-deck-submission">
+    <form id="kog-deck-submission-form" novalidate>
         <div class="form-group">
             <label for="author">Author</label>
-            <input type="text" class="form-control" id="author">
+            <input type="text" class="form-control" id="author" required>
+            <div class="invalid-feedback">
+                Please enter an author's name  
+            </div>
         </div>
-        <div class="form-group">
-            <label for="proof">Proof of Rank</label>
-            <input type="file" class="form-control-file" id="proof" multiple>
-            <small id="emailHelp" class="form-text text-muted">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
+        <div class="custom-file">            
+            <input type="file" class="custom-file-input" id="proof" multiple>
+            <label for="proof" class="custom-file-label">Enter pictures for your proof of rank this season</label>
+            <small class="form-text text-muted">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
                 <a data-src="#kog-proof-1" href="javascript:;" class="fancybox">
                     example
                 </a>
@@ -36,11 +40,17 @@ scripts: kog-deck-submission.js
                 </a>
             )
             </small>
+            <div class="invalid-feedback">
+                Please enter both pictures of ranking proof 
+            </div>
         </div>
-        <div class="form-group">
-            <label for="deck_pics">Deck</label>
-            <input type="file" class="form-control-file" id="deck_pics" multiple>
-            <small id="emailHelp" class="form-text text-muted">Be sure and include your extra deck, if needed</small> 
+        <div class="custom-file">            
+            <input type="file" class="custom-file-input" id="deck-pics" multiple required>
+            <label for="deck-pics" class="custom-file-label">Enter picture(s) for your deck</label>
+            <small class="form-text text-muted">Be sure and include your extra deck, if needed</small>
+            <div class="invalid-feedback">
+                Please enter the picture(s) of your deck  
+            </div> 
         </div>
         <div class="form-group">
             <label for="notes">Notes</label>

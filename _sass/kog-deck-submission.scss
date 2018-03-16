@@ -1,4 +1,4 @@
-#kog-deck-submission {
+#kog-deck-submission-form {
     #notes {
         min-height: 100px;
         max-height: 300px;
@@ -20,6 +20,11 @@
         border-radius: 10px;
         background-color: rgba(#F5F5F5, 0.1);
     }   
+
+    button:hover 
+    {
+        cursor: pointer;
+    }
 } 
 
 .kog-proof {
