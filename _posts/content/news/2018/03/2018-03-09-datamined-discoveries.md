@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-03-16
+date: 2018-03-16 21:00:00
 title: Datamined Discoveries! - March
 author: Yami Hammy
 image: /img/content/news/2018/03/datamined-discoveries/thumbnail-march-16.jpg
@@ -30,6 +30,18 @@ Téa will be the next roaming duelist with a deck upgrade, bringing with her a p
 ![Image](/img/content/news/2018/03/datamined-discoveries/tea-spawn.png)
 
 [deck](Meltiel, Sage of the Sky; Harvest Angel of Wisdom; Radiant Jeral; Zeradias, Herald of Heaven; Tethys, Goddess of Light; Wingweaver; Guiding Light; Photon Booster; Constellar Belt; Freya, Spirit of Victory; Tenderness)
+
+### Top Player Council Thoughts
+
+#### **[Superforms](/authors/superforms/)** says: 
+
+Support for the Counter-Trap Fairy archetype, previously only supported by Bountiful Artemis.
+- {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter-Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a REZ, for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter-Traps.
+- {Harvest Angel of Wisdom} (SR): Slow effect, but a decent beater.
+- {Zeradias, Herald of Heaven} (SR): {Elemental HERO Captain Gold} for Counter Fairies. Searches the field spell, adding consistency, and extra copies are big beaters.
+- {Tethys, Goddess of Light} (SR): Very nice effect, drawing into fuel for the Counter-Traps. May be difficult to get out (similar to Airknight Parshath). Decent {Transmodify} target.
+- {Radiant Jeral} (SR): Decent wall and boosts your LP if discarded for a Counter-Trap cost with {The Sanctuary in the Sky} on the field. Pretty terrible relative to the other cards.
+- {Photon Booster} (R): The first thing that comes to mind is the Ra’s Disciple OTK deck, although there will likely be other uses.
 
 ### Miscellaneous Cards
 
