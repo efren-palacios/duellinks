@@ -49,6 +49,8 @@ Old cards that synergize:
 - {Lord Poison}: Grabs milled Plants back on to the field.
 - {Magical Merchant}: Obvious synergy with Sylvans.
 
+---
+
 ### Card List
 
 #### Ultra Rare Cards
@@ -67,13 +69,19 @@ Old cards that synergize:
 
 {% include box.html box=site.data.box.rampage-of-the-forest rarity="N" %}
 
+---
+
 ### Sylvans: Dkayed vs Gunsblazing! 
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=ZHjgD2mxQUY' %}
 
+---
+
 ### Metamorphosed Insect Queen
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=VMdv6wREsEk' %}
+ 
+---
 
 ### Affected Deck Types
 This box creates the following deck types
