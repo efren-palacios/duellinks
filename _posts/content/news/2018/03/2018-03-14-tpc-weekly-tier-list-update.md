@@ -3,7 +3,7 @@ layout: blog
 date: 2018-03-14
 title: TPC Weekly Tier List Update
 author: Top Player Council
-image: /img/content/news/2018/03/tpc-weekly-tier-list-update/thumbnail.png
+image: /img/content/news/2018/03/tpc-weekly-tier-list-update/tierlist1.jpg
 category: news
 comments: true
 description: Check out the Top Player Council's decisions on which decks are the best in the Meta!
