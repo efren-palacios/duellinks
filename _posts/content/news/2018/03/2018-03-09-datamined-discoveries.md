@@ -51,7 +51,7 @@ Support for the Counter-Trap Fairy archetype, previously only supported by Bount
 
 {Crystal Beast Sapphire Pegasus} and {Rare Value} were both upgraded in rarity from R to UR. Jesse Anderson will be the next obtainable duelist in late March, so it's likely these are either his drop or level up rewards! 
 
-There are also card 'shines' that has been found, however it is unclear at present what they're actually for.
+A possible new Card Trader feature has been found, 'premium' and 'shine' cards:
 
 [gallery 2/3](/img/content/news/2018/03/datamined-discoveries/card-premium.png, /img/content/news/2018/03/datamined-discoveries/card-shine.png)
 

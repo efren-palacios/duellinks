@@ -20,8 +20,6 @@ permalink: /box-reviews/rampage-of-the-forest/
 
 #### **[Superforms](/authors/superforms/)** says: 
 
-#### New Archetype -  Sylvans
-
 As a new archetype, Sylvans get a lot of attention in this box. The archetype seems to be similar to other recent decks like Gladiator Beast (GB), Bujins, and Aliens, with dedicated monsters for backrow destruction ({Gladiator Beast Bestiari}, {Bujingi Centipede}, {Alien Telepath}), cards to assist with monster removal ({Gladiator Beast Murmillo}, {Bujingi Boar}, {"A" Cell Recombination Device}), and core monsters with high ATK ({Gladiator Beast Laquari}, {Bujin Yamato}, {Alien Warrior}). 
  
 In Sylvans these roles are filled by {Sylvan Komushroomo} (backrow destruction with a nice DEF), {Sylvan Marshalleaf} (monster removal), and {Sylvan Flowerknight}/{Sylvan Bladefender} (beaters with good effects). 
