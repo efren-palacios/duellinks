@@ -35,7 +35,7 @@
                     <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
                         <img class="decktype-new" data-bind="css: { hidden: $root.deckTypeHasNewDecks($data) == false }" src="/img/assets/new.png" />
                         <div class="btn-decktype" data-bind="css: { active: $root.activeDeckType() === $rawData }, click: $root.filterByType">
-                            <img  class="decktype-card"    data-bind="attr: { src: 'https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + card + '&crop=72,72,15,30&w=100&q=100&il'}" />
+                            <img  class="decktype-card"    data-bind="attr: { src: 'https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + card + '&crop=70,70,15,30&w=100&q=100&il'}" />
                             <span class="decktype-display" data-bind="text: display"></span>
                             <span class="decktype-count"   data-bind="text: count"></span>
                         </div>
@@ -69,7 +69,7 @@
                             <td class="thumb-col">
                                 <a data-bind="attr: { href: ' ' + url }">
                                     <div class="thumbnail">
-                                        <img data-bind="attr: { src: 'https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + front +'&crop=72,72,15,30&w=100&q=100&il'}" class="portrait" />  
+                                        <img data-bind="attr: { src: 'https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + front +'&crop=70,70,15,30&w=100&q=100&il'}" class="portrait" />  
                                     </div>
                                 </a>
                             </td>
