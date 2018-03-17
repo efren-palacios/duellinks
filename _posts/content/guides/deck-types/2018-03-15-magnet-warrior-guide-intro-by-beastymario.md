@@ -5,13 +5,12 @@ author: Beastymario
 category: guide
 sub-category: deck-type
 deck-type: magnet warriors
-image: /img/content/guides/magnet-warrior-guide-by-beastymario/thumbnail.png
-date: 2018-03-15
+image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet.jpg
+date: 2018-03-16
 comments: false
-hide: true
 description: A detailed guide written by Beastymario presenting an introduction to the Magnet Warrior archetype.
 keywords: guide, magnets, magnet warrior, magnet warriors, alpha, beta, gamma, delta, valkyrionion, core cards
-permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
+permalink: /guides/deck-types/magnet-warrior-guide-intro-by-beastymario/
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -86,9 +85,10 @@ These cards can be great additions to the deck and can help functionality.
 
 
 ---
+#### Full Magnet Guide Coming to the DLM Website Soon
 
-For more information, check out the full Magnet Warrior Guide by Beastymario [Here](https://docs.google.com/document/d/1IdY7zg0ihuC5suGk62VZr-JTQFf0LqOWpkHmhIVo7vM/edit?usp=sharing).
+For more information while you wait, check out the Magnet Warrior Guide by Beastymario [Here](https://docs.google.com/document/d/1IdY7zg0ihuC5suGk62VZr-JTQFf0LqOWpkHmhIVo7vM/edit?usp=sharing).
 
-Check out the 2017 Duel Links World Champion's Magnet Warrior Video [Here](https://www.youtube.com/watch?v=Hq5bXUibFzA&t=137s).
+Also, check out the 2017 Duel Links World Champion's Magnet Warrior Video [Here](https://www.youtube.com/watch?v=Hq5bXUibFzA&t=137s).
 
 ---
