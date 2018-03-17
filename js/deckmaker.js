@@ -148,7 +148,7 @@ function obtainCardInformation( instance, current ) {
 	});
     let cardinfo=JSON.parse(sessionStorage.getItem(name));
         
-    if (!cardinfo) cardinfo = $.getJSON("http://query.yahooapis.com/v1/public/yql",
+    if (!cardinfo) cardinfo = $.getJSON("https://query.yahooapis.com/v1/public/yql",
     {
         q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + cardNameEnc + "?fmt=JSON\"",
         format: "json"
@@ -334,7 +334,7 @@ function obtainTextForDesktops( event, api ) {
 
         let cardinfo=JSON.parse(sessionStorage.getItem(name));
         
-        if (!cardinfo) cardinfo = $.getJSON("http://query.yahooapis.com/v1/public/yql",
+        if (!cardinfo) cardinfo = $.getJSON("https://query.yahooapis.com/v1/public/yql",
 		{
             q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + name + "?fmt=JSON\"",
             format: "json"
