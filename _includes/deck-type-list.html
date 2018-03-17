@@ -16,12 +16,12 @@
             {% assign guide = site.data.deck-types.pages[{{tier-type.id}}] %}
             {% if guide != null %}
                 <a class="btn-decktype" href="/tier-list/{{tier-type.id}}">
-                    <img class="decktype-card" src= "http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{tier-type.card}}&il&q=100"/>
+                    <img class="decktype-card" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{ tier-type.card | url_encode }}&crop=72,72,15,30&w=100&q=100&il"/>
                     <span class="decktype-display">{{tier-type.display}}</span>
                 </a>
             {% else %}
                 <div class="btn-decktype">
-                    <img class="decktype-card" src= "http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{tier-type.card}}&il&q=100"/>
+                    <img class="decktype-card" src="http://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{ tier-type.card | url_encode }}&crop=72,72,15,30&w=100&q=100&il"/>
                     <span class="decktype-display">{{tier-type.display}}</span>
                 </div>
             {% endif %}
