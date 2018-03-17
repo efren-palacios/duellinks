@@ -237,7 +237,10 @@
   flex-direction: column;
   justify-content: center;
   font-size: 12px;
-  padding: 1rem 0;
+  padding:0;
+  p{
+    margin-bottom:0.5rem;
+  }
 }
 
 .skilldata
@@ -249,10 +252,26 @@
   padding: 1rem 0 0 0;
 }
 
+.qtip-content{
+  padding: 12px !important;
+}
+.rarityCard{
+  width: 60px !important;
+  position: relative;
+  left: 81px;
+}
+
+.cardPicBig{
+  width: 140px;
+}
+
+.preview{
+  padding:0;
+}
+
 .preview img
 {
-  margin: 0 1.5rem 0 .5rem;
-  width: 120px;
+  margin-right: 1rem;
   display: flex;
 }
 
