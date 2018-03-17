@@ -18,8 +18,6 @@ $(window).resize( updateMobileInformation );
 async function updateMobileInformation() {
 	// Delay the update to sync with the page load
 	await sleep(500);
-	
-	resizeCardInformation();
 	resizeSkillInformation();
 };
 
@@ -206,17 +204,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
 	$('#cardObtain').html(response[0].how ? 'How to obtain: '+response[0].how : '');    
 };
 
-function resizeCardInformation() {
-	// Style the image for large card descriptions
-	var containerHeight = $('#cardImageColumn').height();
-	var difference = Math.floor(containerHeight - 200.5); // Default height of all pics combined are 200.5
-	if($('#cardRarity').is(':visible')) {
-		$('#cardRarity').css('padding-top', Math.floor(difference/2) + 'px');
-	}
-	else {
-		$('#cardImage').css('padding-top', Math.floor(difference/2) + 'px');
-	}
-};
+
 
 function closeMobilePopup() {
 	$('#fancyboxSkillDiv').hide();
