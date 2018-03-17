@@ -341,10 +341,10 @@ function obtainTextForDesktops( event, api ) {
 			
             api.set('content.text',
             `<div class="preview">
-			${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" style="margin-left: 69px;margin-top:20px;width: 60px;" />` : '<br>'}
-			<img width="120px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=100" style="margin-bottom: 20px" />
+			${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" class="rarityCard" />` : ""}
+			<img class="cardPicBig" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=100" />
             </div>
-			<div class="carddata"><b style="margin-bottom: .5rem;">${r[1].data.name}</b><br />
+			<div class="carddata"><b>${r[1].data.name}</b><br />
 			${r[1].data.family!="null" ? '<p> Attribute: <span class="capitalize-text">' + r[1].data.family + "</span></p>" : ""}
 			${r[1].data.level!="null" ? "<p> Level: " + r[1].data.level + "</p>" : ""}
 			${r[1].data.card_type=="monster"
