@@ -55,11 +55,9 @@ function BindCollapsableTables()
 
 function BindSeasonArchiveSelection()
 {
-    $("#SeasonArchiveLink").attr("href", "/top-decks/" + $("#SeasonArchiveSelection option").eq(0).val());
-
     $("#SeasonArchiveSelection").change(function(event)
     {
-        $("#SeasonArchiveLink").attr("href", "/top-decks/" + $(event.target).val());
+        if($(event.target).val() != 'defaultValue') window.location = "/top-decks/" + $(event.target).val();
     });
 }
 

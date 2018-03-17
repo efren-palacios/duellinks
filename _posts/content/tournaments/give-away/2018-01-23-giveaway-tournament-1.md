@@ -1,16 +1,16 @@
 ---
 layout: blog
 date: 2018-01-23
-title: Giveaway Tournament 1
+title: Giveaway Tournament - January 23rd
 author: TOASTYKILLA
 category: tournament
 tournament: Give Away
 number: 1
-image: /img/content/tournaments/give-away/1/thumbnail.jpg
+image: /img/content/tournaments/giveaway/thumbnail.jpg
 comments: true
 description: The Give Away tournament report. Check the prize winners and their decks here.
 keywords: tournament, give away, sub benefits
-permalink: /tournaments/give-away/1/report/
+permalink: /tournaments/giveaway/1/report/
 ---
 
 {% include heading.html title=page.title %}
@@ -23,7 +23,7 @@ permalink: /tournaments/give-away/1/report/
 
 #### 1 out of the 3 prizes = free MCS invite, lifetime discord, or 5 meta weekly tickets.
 
-#### Link to full standings: [Top 32 standings](https://smash.gg/tournament/meta-championship-series-v/events/mcs-v/standings)
+#### [Check out the top 32 standings here!](https://smash.gg/tournament/meta-championship-series-v/events/mcs-v/standings)
 
 ----------
 

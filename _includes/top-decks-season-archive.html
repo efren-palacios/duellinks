@@ -7,26 +7,29 @@
     <h4>TOP DECKS SEASON ARCHIVE</h4>
     <div class="row season-archive">
         <div class="col-8 col-sm-4 col-md-3 col-xl-2">
-            <select id="SeasonArchiveSelection" class="form-control">
-                {% for year in years reversed %}
+            <select id="SeasonArchiveSelection" class="form-control"> 
+                <option value="defaultValue" selected>Select a season</option>  
+                {% assign years_sorted = years | sort_descending %}
+                {% for year in years_sorted %}
                     {% if year[0] != "pending" %}
-                        {% for month in year[1] reversed %}
-                            {% assign loop-season = year[0] | append: '-' | append: month[0] %}
-                            {% if loop-season != include.season %}
+                        {% if year[1] %}                            
+                            {% assign months = year[1] | sort_descending %}
+                            {% for month in months %}
+                                {% assign loop-season = year[0] | append: '-' | append: month[0] %}
                                 {% assign monthName = site.data.months | where: "id", month[0] %}
                                 {% if loop-season == current-season %}
-                                    <option value="">{{monthName[0].name | capitalize }} {{year[0]}}</option>
+                                    {% assign optionValue = "" %}
                                 {% else %}
-                                    <option value="{{monthName[0].name}}-{{year[0]}}">{{monthName[0].name | capitalize }} {{year[0]}}</option>
+                                    {% capture optionValue %}{{monthName[0].name}}-{{year[0]}}{% endcapture %}
+                                {% endif %}    
+                                {% if loop-season != include.season %}
+                                    <option value="{{optionValue}}">{{monthName[0].name | capitalize }} {{year[0]}}</option>   
                                 {% endif %}
-                            {% endif %}
-                        {% endfor %}
+                            {% endfor %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
             </select>
-        </div>
-        <div class="col-4 col-sm-2 col-md-2 col-lg-1">
-            <a id="SeasonArchiveLink" class="btn btn-info btn-full" role="button">Go</a>
         </div>
     </div>
 </div>

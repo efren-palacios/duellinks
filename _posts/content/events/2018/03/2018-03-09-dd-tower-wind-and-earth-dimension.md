@@ -5,7 +5,7 @@ title: "D.D. Tower: Wind and Earth Dimension"
 author: Yami Hammy & Freeska 
 image: /img/content/events/2018/03/dd-tower-wind-and-earth-dimension/thumbnail.png
 category: event
-ended: false
+ended: true
 comments: true
 description: The D.D. Tower is back and this time the D.D. Guide will take you on a trip to the Wind and Earth Dimension. Battle through 40 floors to reach the top and obtain Windrose the Elemental Lord!
 keywords: event, dd tower, tower, earth, wind dimension, windrose

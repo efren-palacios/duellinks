@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Banner](/img/pages/farming/duel-assesment-score/thumbnail.jpg)
+![Banner](/img/pages/farming/duel-assesment-score/banner.png)
 
 - After each duel you score points for each of the below criteria you fulfill!
 - You will receive 1 reward for every 1000 points - maximum 8000 DA. 
@@ -30,7 +30,8 @@ hide: true
 | Duel Loss | 1000 | Lose a duel |
 | Deck Out Victory | 2100 | Win a duel by your opponent 'decking out'  |
 | Special Victory | 3000 | Win by {Exodia the Forbidden One} or the {Destiny Board} skill |
-| Surrender | 0 | Surrender a duel |
+
+**Note:** If you surrender you get a score of 0 - all points are disregarded! 
 
 ---
 
