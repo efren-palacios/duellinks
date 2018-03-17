@@ -19,17 +19,19 @@ hide: true
 </div>
 
 <div class="section">
-    <form id="kog-deck-submission-form" novalidate>
+    <form id="kog-deck-submission-form" novalidate action="https://formspree.io/
+duel-links-test@googlegroups.com"
+      method="POST">
         <div class="form-group">
             <label for="author">Author</label>
-            <input type="text" class="form-control" id="author" required>
+            <input type="text" class="form-control" id="author" required name="author">
             <div class="invalid-feedback">
                 Please enter an author's name  
             </div>
         </div>
-        <div class="custom-file">            
-            <input type="file" class="custom-file-input" id="proof" multiple>
-            <label for="proof" class="custom-file-label">Enter pictures for your proof of rank this season</label>
+        <div class="form-group" id="proof-form-group">            
+            <label for="proof">Ranking proof pictures</label>
+            <input type="hidden" role="uploadcare-uploader" name="proof" data-images-only="true" data-multiple="true" id="proof"/>
             <small class="form-text text-muted">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
                 <a data-src="#kog-proof-1" href="javascript:;" class="fancybox">
                     example
@@ -44,9 +46,9 @@ hide: true
                 Please enter both pictures of ranking proof 
             </div>
         </div>
-        <div class="custom-file">            
-            <input type="file" class="custom-file-input" id="deck-pics" multiple required>
-            <label for="deck-pics" class="custom-file-label">Enter picture(s) for your deck</label>
+        <div class="form-group" id="deck-form-group">            
+            <label for="deck-pics">Deck picture(s)</label>
+            <input type="hidden" role="uploadcare-uploader" name="deck-pics" data-images-only="true" data-multiple="true" id="deck-pics"/>
             <small class="form-text text-muted">Be sure and include your extra deck, if needed</small>
             <div class="invalid-feedback">
                 Please enter the picture(s) of your deck  
@@ -54,9 +56,10 @@ hide: true
         </div>
         <div class="form-group">
             <label for="notes">Notes</label>
-            <textarea class="form-control" id="notes" rows="3"></textarea>
+            <textarea class="form-control" id="notes" rows="3" name="notes"></textarea>
         </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <input type="hidden" name="_subject" id="subject"/>
+        <button type="submit" class="btn btn-primary" id="submit">Submit</button>
     </form>
 </div>          
 
