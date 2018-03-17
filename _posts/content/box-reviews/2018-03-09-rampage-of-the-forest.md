@@ -85,6 +85,6 @@ Old cards that synergize:
 ---
 
 ### Affected Deck Types
-This box creates the following deck types
+This box creates the following deck type
 
 {% include deck-type-list.html deck-types='sylvans;' %} 

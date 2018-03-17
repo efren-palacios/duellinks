@@ -13,7 +13,7 @@ permalink: /news/march-2018/datamined-discoveries/
 
 {% include heading.html title=page.title author=page.author %}
 
-### 16th March Update
+### **16th March Update**
 
 <br>
 
@@ -25,21 +25,21 @@ With another maintenance update comes new discoveries; **the identity of the 'su
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-Téa will be the next roaming duelist with a deck upgrade, bringing with her a powerful counter trap Fairy deck! These could be some of the drops to look forward to (RNG willing!): 
+Téa will be the next ['superb'](/news/february-2018/in-game-updates/) roaming duelist with a deck upgrade, bringing with her a powerful Counter Trap Fairy deck! These could be some of the drops to look forward to (RNG willing!): 
 
-[deck](Meltiel, Sage of the Sky; Harvest Angel of Wisdom; Radiant Jeral; Zeradias, Herald of Heaven; Tethys, Goddess of Light; Wingweaver; Guiding Light; Photon Booster; Constellar Belt; Freya, Spirit of Victory; Tenderness)
+[deck](Meltiel, Sage of the Sky; Harvest Angel of Wisdom; Radiant Jeral; Zeradias, Herald of Heaven; Tethys, Goddess of Light; Wingweaver; Guiding Light; Freya, Spirit of Victory; Tenderness; Photon Booster; Constellar Belt)
 
 ### Top Player Council Thoughts
 
 #### **[Superforms](/authors/superforms/)** says: 
 
-Support for the Counter-Trap Fairy archetype, previously only supported by Bountiful Artemis.
-- {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter-Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a REZ, for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter-Traps.
+These cards provide support for the Counter Trap Fairy archetype which was previously only supported by {Bountiful Artemis}.
+- {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a [REZ](/tier-list/red-eyes-zombies/), for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter Traps.
 - {Harvest Angel of Wisdom} (SR): Slow effect, but a decent beater.
-- {Zeradias, Herald of Heaven} (SR): {Elemental HERO Captain Gold} for Counter Fairies. Searches the field spell, adding consistency, and extra copies are big beaters.
-- {Tethys, Goddess of Light} (SR): Very nice effect, drawing into fuel for the Counter-Traps. May be difficult to get out (similar to Airknight Parshath). Decent {Transmodify} target.
-- {Radiant Jeral} (SR): Decent wall and boosts your LP if discarded for a Counter-Trap cost with {The Sanctuary in the Sky} on the field. Pretty terrible relative to the other cards.
-- {Photon Booster} (R): The first thing that comes to mind is the Ra’s Disciple OTK deck, although there will likely be other uses.
+- {Zeradias, Herald of Heaven} (SR): {Elemental HERO Captain Gold} for Counter Fairies. Searches the Field Spell ({The Sanctuary in the Sky}), adding consistency, and extra copies work as big beaters.
+- {Tethys, Goddess of Light} (SR): Very nice effect, drawing into fuel for the Counter Traps. May be difficult to get out (similar to {Airknight Parshath}). It's also a decent {Transmodify} target.
+- {Radiant Jeral} (SR): Decent wall and boosts your LP if discarded for a Counter Trap cost with {The Sanctuary in the Sky} on the field. However, pretty terrible relative to the other cards.
+- {Photon Booster} (R): The first thing that comes to mind is the {Ra's Disciple} OTK deck, although there will likely be other uses.
 
 ### Miscellaneous Cards
 
@@ -49,7 +49,7 @@ Support for the Counter-Trap Fairy archetype, previously only supported by Bount
 - {Divine Punishment} is likely to be an NPC only card in Téa's Lvl. 40 deck. 
 - {Super Solar Nutrient} could possibly be a new Card Trader addition given how much plant support has been released through there recently.
 
-{Crystal Beast Sapphire Pegasus} and {Rare Value} were both upgraded in rarity from R to UR. Jesse Anderson will be the next obtainable duelist in late March, so it's likely these are either his drop or level up rewards! 
+{Crystal Beast Sapphire Pegasus} and {Rare Value} were both upgraded in rarity from R to UR. Jesse Anderson will be the [next obtainable duelist](/news/february-2018/in-game-updates/) in late March, so it's likely these are either his drop or level up rewards! 
 
 A possible new Card Trader feature has been found, 'premium' and 'shine' cards:
 
@@ -60,7 +60,7 @@ A possible new Card Trader feature has been found, 'premium' and 'shine' cards:
 
 ### New Skills
 
-New skills have been found in the game files. Konami is clearly getting into the April Fools' spirit by creating a skill that starts the duel with the 'Field Spell' {Blast Held by a Tribute} which is in fact Ishizu's signature trap card!
+New skills have been found in the game files relating to {Amazoness Village}, {Gilford the Lightning} and {Sogen}. Konami is clearly getting into the April Fools' spirit by creating a skill that starts the duel with the 'Field Spell' {Blast Held by a Tribute} which is in fact Ishizu's signature Trap card!
 
 [gallery 2/3](/img/content/news/2018/03/datamined-discoveries/skill-amazoness-village.png, /img/content/news/2018/03/datamined-discoveries/skill-ishizu.png, /img/content/news/2018/03/datamined-discoveries/skill-gilford-the-lightning.png, /img/content/news/2018/03/datamined-discoveries/skill-blast-held-by-a-tribute.png, /img/content/news/2018/03/datamined-discoveries/skill-sogen.png)
 
@@ -73,7 +73,7 @@ A feature that had been requested by players since Duel Links' inception will so
 ![Image](/img/content/news/2018/03/datamined-discoveries/customization.png)
 
 ### Box Sale
-To celebrate 65 million downloads, Konami will be having a 3 day sale - the specifics are still a mystery!
+To celebrate 65 million downloads there will be a 3 day sale, but the specifics are still a mystery.
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-sale.png)
 
@@ -85,13 +85,13 @@ And lastly a new icon, perhaps summon {Hungry Burger} 100 times? Who knows!
 
 ---
 
-### 9th March Update
+### **9th March Update**
 
 <br>
 
 With another maintenance update comes new discoveries; **a new minibox, an unlockable character, and new skills** have been found courtesy of XOF!
 
-### New Minibox - Rampage of the Forest
+### [New Minibox - Rampage of the Forest](/box-reviews/rampage-of-the-forest/)
 
 <br>
 
