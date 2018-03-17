@@ -296,7 +296,7 @@
 
 .fancybox-slide > div{
   margin:0 !important;
-  padding-top: 0.5rem !important; 
+  padding-top: 1rem !important;
 }
 
 .fancybox-container{
@@ -344,17 +344,22 @@ as the grid from Bootstrap is needed for skill popups---*/
 #cardRarity {
   float: right;
   width: 60px;
+  padding-top: 0 !important;
 }
 
 #cardImage {
-  width: 140px;
+  width: 100%;
   margin-bottom: 0.5rem;
+  max-width: 200px;
+  padding-top: 0 !important;
 }
 
+
 .cardImageContainer {
-  width: 140px;
+  max-width: 200px;
   margin: auto;
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
+  width: 100%;
 }
 
 #cardName {

@@ -112,7 +112,7 @@ module Jekyll
                 if isSkill
                     content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
                 else
-                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&w=140&il&q=100">' + markedText[i] + '</span><span class="mobile"></span>'
+                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&w=200&il&q=95">' + markedText[i] + '</span><span class="mobile"></span>'
                 end
             end
 
@@ -239,7 +239,7 @@ galleryHtml += '</div>
             for card in cardNames
                 deckContainer +=
                                 '<div class="item">
-                                    <a><img class="dcards"  name="cardPopup" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(card.strip, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&w=140&il&q=100" alt="' + URI.escape(card.strip, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '"></a>
+                                    <a><img class="dcards"  name="cardPopup" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(card.strip, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&w=200&il&q=95" alt="' + URI.escape(card.strip, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '"></a>
                                 </div>'
             end
 
