@@ -220,7 +220,7 @@ function handleSkill(phase) {
 
 function addCardToField(id, cardName, position) {
   // Create the div and temporarily add it to the hand slot
-  $('#hand').append(`<div id="cardId${id}" class="testcard-slot-row"><div class="hand cardMain${id}"><img id="${id}" src="https://yugiohprices.com/api/card_image/${cardName}" /></div>`)
+  $('#hand').append(`<div id="cardId${id}" class="testcard-slot-row"><div class="hand cardMain${id}"><img id="${id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(cardName)}&w=140&il&q=100" /></div>`)
 
   // Make the card draggable
   let nameDom = ('.cardMain' + id);
@@ -313,16 +313,16 @@ function openDeck(deck, extra = false, grave = false) {
   if(grave) {
     $('#deckmenu').dialog('option', 'title', 'Card in Graveyard');
     for(i in graveyardlist) {
-      $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${graveyardlist[i].name}" width="60px" id="${graveyardlist[i].id}"/>`)
+      $('#deckmenu').append(`<img style="margin: 1px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&w=140&il&q=100" width="60px" id="${graveyardlist[i].id}"/>`)
     }
   }
   else {
     $('#deckmenu').dialog('option', 'title', 'Card in Deck');
     for (i in (extra ? extradecklist : decklist)) {
       if (extra)
-        $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${extradecklist[i].name}" width="60px" id="${extradecklist[i].id}"/>`)
+        $('#deckmenu').append(`<img style="margin: 1px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&w=140&il&q=100" width="60px" id="${extradecklist[i].id}"/>`)
       else
-        $('#deckmenu').append(`<img style="margin: 1px" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" width="60px" id="${decklist[i].id}"/>`)
+        $('#deckmenu').append(`<img style="margin: 1px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&w=140&il&q=100" width="60px" id="${decklist[i].id}"/>`)
     }
   } 
   
@@ -387,7 +387,7 @@ function dealCardFromGrave(position) {
 
   $('#graveyard > img').remove();
   if(graveyardlist.length > 0) {
-    $('#graveyard').html("<img src='https://yugiohprices.com/api/card_image/" + graveyardlist[0].name + "' />");
+    $('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(graveyardlist[0].name) + "&w=140&il&q=100' />");
   }  
 
   if(graveyardlist.length == 0) {
@@ -424,15 +424,15 @@ function summonMonsterFromExtra(i) {
 function addCardToHandDiv(i, extra, grave = false) {
   if(grave) {
     if(extra == 0)
-      $('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://yugiohprices.com/api/card_image/${graveyardlist[i].name}" /></div>`)
+      $('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&w=140&il&q=100" /></div>`)
     else if(extra == 1)
-      $('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://yugiohprices.com/api/card_image/${graveyardlist[i].name}" /></div>`)
+      $('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&w=140&il&q=100" /></div>`)
   }
   else {
     if(extra == 0)
-      $('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://yugiohprices.com/api/card_image/${decklist[i].name}" /></div>`)
+      $('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&w=140&il&q=100" /></div>`)
     else if(extra == 1)
-      $('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://yugiohprices.com/api/card_image/${extradecklist[i].name}" /></div>`)
+      $('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&w=140&il&q=100" /></div>`)
   }
 
   let cardId 
@@ -650,7 +650,7 @@ function addCardToGrave(c, extra) {
   });
 
   $('#graveyard > img').remove();
-  $('#graveyard').html("<img src='https://yugiohprices.com/api/card_image/" + hand[cardIndexInHand].name + "' />");
+  $('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(hand[cardIndexInHand].name) + "&w=140&il&q=100' />");
 }
 
 function removeCardFromHand(c) {
