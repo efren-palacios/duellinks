@@ -25,6 +25,11 @@
     {
         cursor: pointer;
     }
+
+    button:hover:disabled 
+    {
+        cursor: default;
+    }
 } 
 
 .kog-proof {
