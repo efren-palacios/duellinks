@@ -109,12 +109,10 @@ The event is expected to start mid to late February.
 
 Files for what appear to be the new cards from the upcoming *Dr. Crowler's Tricky Tests* event have been discovered!
 
-[gallery 2/3](/img/content/news/2018/02/datamined-discoveries/crowler-banner.png, /img/content/news/2018/02/datamined-discoveries/crowler-level-40-rewards.png)
+[gallery 2/3](/img/content/news/2018/02/datamined-discoveries/crowler-banner.png, /img/content/news/2018/02/datamined-discoveries/crowler-level-40-rewards.jpg)
 
 <br>
 <br>
-
-**Note:** The missing card in the image above is {Biofalcon}.
 
 **New** obtainable drop rewards found:
 
