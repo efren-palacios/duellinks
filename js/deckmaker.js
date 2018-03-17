@@ -178,14 +178,14 @@ function displayCardInformation( response, websiteLink, cardName ) {
 	});
     $('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=100");
     $('#cardName').html(decodeURIComponent(cardName));
-    if(response[1].data.family) {
+    if(response[1].data.family!="null") {
         $('#cardAttribute').html('Attribute: <span class="capitalize-text">' + response[1].data.family+'</span>');
         $('#cardAttribute').show();
 	} 
     else {
         $('#cardAttribute').hide();
 	} 
-    if(response[1].data.level) {
+    if(response[1].data.level!="null") {
         $('#cardLevel').html('Level: ' + response[1].data.level);
         $('#cardLevel').show();
 	} 
@@ -199,18 +199,10 @@ function displayCardInformation( response, websiteLink, cardName ) {
         $('#cardType').html('<b>[ </b><span class="capitalize-text">' + response[1].data.card_type + '</span> / ' + response[1].data.property +  '<b> ]</b>');
 	}
     
-    if(response[1].data.type && response[1].data.type.includes("Fusion")) {
-        var cardTextArray = response[1].data.text.split('\n');
-        $('#cardMaterials').html('<i>' + cardTextArray[0] + '</i>');
-        $('#cardMaterials').show();
-        $('#cardText').html(cardTextArray[2]);
-	} 
-    else {
-        $('#cardMaterials').hide();
-        $('#cardText').html(response[1].data.text);
-	}
-    
-    $('#cardAttackDefense').html((response[1].data.atk ? "<b>ATK/ </b>" + response[1].data.atk : "") + " " + (response[1].data.def ? "<b>DEF/ </b>" + response[1].data.def : ""));
+    $('#cardMaterials').hide();
+    $('#cardText').html(response[1].data.text);
+
+    $('#cardAttackDefense').html((response[1].data.atk!="null" ? "<b>ATK/ </b>" + response[1].data.atk : "") + " " + (response[1].data.def!="null" ? "<b>DEF/ </b>" + response[1].data.def : ""));
     $('#cardObtain').html(response[0].how ? response[0].how : 'Needs to be Added');    
 };
 
@@ -346,12 +338,6 @@ function obtainTextForDesktops( event, api ) {
         Promise.all([cardobtain, cardinfo]).then(function(r) {
             // Determine if fusion monster materials need to be displayed
             var cardText = r[1].data.text;
-            var cardMaterials;
-            if(r[1].data.type && r[1].data.type.includes('Fusion')) {
-                var cardTextArray = r[1].data.text.split('\n');
-                cardMaterials = cardTextArray[0];
-                cardText = cardTextArray[2];
-			}
 			
             api.set('content.text',
             `<div class="preview">
@@ -359,15 +345,14 @@ function obtainTextForDesktops( event, api ) {
 			<img width="120px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=140&il&q=100" style="margin-bottom: 20px" />
             </div>
 			<div class="carddata"><b style="margin-bottom: .5rem;">${r[1].data.name}</b><br />
-			${r[1].data.family ? '<p> Attribute: <span class="capitalize-text">' + r[1].data.family + "</span></p>" : ""}
-			${r[1].data.level ? "<p> Level: " + r[1].data.level + "</p>" : ""}
+			${r[1].data.family!="null" ? '<p> Attribute: <span class="capitalize-text">' + r[1].data.family + "</span></p>" : ""}
+			${r[1].data.level!="null" ? "<p> Level: " + r[1].data.level + "</p>" : ""}
 			${r[1].data.card_type=="monster"
 				? '<p><b>[ </b>' + r[1].data.type + '<b> ]</b></p>'
-			: '<p><b>[ </b><span class="capitalize-text">' + r[1].data.card_type + '</span> / ' + r[1].data.property +  '<b> ]</b></p>'}
-			${cardMaterials ? '<p><i>' + cardMaterials + '</i></p>' : ""}    
+			    : '<p><b>[ </b><span class="capitalize-text">' + r[1].data.card_type + '</span> / ' + r[1].data.property +  '<b> ]</b></p>'}  
 			<p>${cardText}</p>
-			${r[1].data.atk ? "<p><b>ATK/ </b>" + r[1].data.atk : ""}
-			${r[1].data.def ? "<b>DEF/ </b>" + r[1].data.def + '</p>' : ""}
+			${r[1].data.atk!="null" ? "<p><b>ATK/ </b>" + r[1].data.atk : ""}
+			${r[1].data.def!="null" ? "<b>DEF/ </b>" + r[1].data.def + '</p>' : ""}
 			<p><u>How To Obtain</u></p>
 			${ r[0].how ? `<p class="capitalize-text">${r[0].how}</p>` : 'Needs to be Added'}
 			</div>`)
