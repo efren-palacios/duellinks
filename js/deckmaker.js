@@ -146,15 +146,15 @@ function obtainCardInformation( instance, current ) {
     let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
         return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
 	});
-    let cardinfo=JSON.parse(sessionStorage.getItem(name));
+    let cardinfo=JSON.parse(sessionStorage.getItem(cardNameEnc));
         
     if (!cardinfo) cardinfo = $.getJSON("https://query.yahooapis.com/v1/public/yql",
     {
         q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + cardNameEnc + "?fmt=JSON\"",
         format: "json"
         }).then(function(r) {
+            sessionStorage.setItem(cardNameEnc, JSON.stringify(r.query.results.json));
             return r.query.results.json;
-            sessionStorage.setItem(name, JSON.stringify(r.query.results.json));
     });
     Promise.all([cardobtain, cardinfo]).then(function(r) {
         displayCardInformation( r, websiteLink, cardName );
@@ -171,26 +171,19 @@ function displayCardInformation( response, websiteLink, cardName ) {
         $('#cardRarity').hide();
 	}
     $('#cardImage').one("load", function() {
-        resizeCardInformation();
+        //resizeCardInformation();
 		
         $('.fancybox-loading').hide();
         $('#cardFancybox').removeClass('hideSkillContainer');
 	});
     $('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+cardName+"&w=140&il&q=100");
     $('#cardName').html(decodeURIComponent(cardName));
-    if(response[1].data.family!="null") {
-        $('#cardAttribute').html('Attribute: <span class="capitalize-text">' + response[1].data.family+'</span>');
-        $('#cardAttribute').show();
+    if(response[1].data.family!="null" && response[1].data.level!="null") {
+        $('#cardAttribLevel').html('Attribute: <span class="capitalize-text">' + response[1].data.family + ' | Level: ' + response[1].data.level + '</span>');
+        $('#cardAttribLevel').show();
 	} 
     else {
-        $('#cardAttribute').hide();
-	} 
-    if(response[1].data.level!="null") {
-        $('#cardLevel').html('Level: ' + response[1].data.level);
-        $('#cardLevel').show();
-	} 
-    else {
-        $('#cardLevel').hide();
+        $('#cardAttribLevel').hide();
 	}
     if(response[1].data.card_type=="monster") {
         $('#cardType').html('<b>[ </b><span class="capitalize-text">' + response[1].data.type + '</span><b> ]</b>');
@@ -203,7 +196,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
     $('#cardText').html(response[1].data.text);
 
     $('#cardAttackDefense').html((response[1].data.atk!="null" ? "<b>ATK/ </b>" + response[1].data.atk : "") + " " + (response[1].data.def!="null" ? "<b>DEF/ </b>" + response[1].data.def : ""));
-    $('#cardObtain').html(response[0].how ? response[0].how : 'Needs to be Added');    
+    $('#cardObtain').html(response[0].how ? 'How to obtain: '+response[0].how : 'Needs to be Added');    
 };
 
 function resizeCardInformation() {
@@ -331,8 +324,8 @@ function obtainTextForDesktops( event, api ) {
             q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + name + "?fmt=JSON\"",
             format: "json"
 			}).then(function(r) {
-                return r.query.results.json;
                 sessionStorage.setItem(name, JSON.stringify(r.query.results.json));
+                return r.query.results.json;
 		});
 		
         Promise.all([cardobtain, cardinfo]).then(function(r) {

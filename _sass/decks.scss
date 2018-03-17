@@ -288,6 +288,20 @@
   min-width: 500px;
 }
 
+.reducedmargin{
+  p{
+    margin-bottom: 0.5rem;
+  }
+}
+
+.fancybox-slide > div{
+  margin:0 !important;
+  padding-top: 0.5rem !important; 
+}
+
+.fancybox-container{
+  transition-duration: 120ms !important;
+}
 // Skill and Card Information Display (Mobile)
 .fancyboxContainer {
   background-color: transparent !important;
@@ -328,18 +342,19 @@ as the grid from Bootstrap is needed for skill popups---*/
 }
 
 #cardRarity {
-  margin-left: 69px;
+  float: right;
   width: 60px;
 }
 
 #cardImage {
-  width: 128px;
-  margin-bottom: 20px;
+  width: 140px;
+  margin-bottom: 0.5rem;
 }
 
 .cardImageContainer {
-  width: 128px;
+  width: 140px;
   margin: auto;
+  margin-top: 1.5rem;
 }
 
 #cardName {
@@ -431,3 +446,4 @@ as the grid from Bootstrap is needed for skill popups---*/
     }
   }
 }
+
