@@ -14,20 +14,8 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-### Current Members - Season 1 (January - March 2018)
+### Current Members - Season 1 
 
-* [Tutpup](/authors/tutpup) - 2nd place Worlds
-* DrBluePepper
-* Eugen Heidt - YCS Champion, Yugioh TCG
-* itsyoboyeden
-* Kaito
-* [Kayoh](/authors/kayoh)
-* [Kazin_X](/authors/kazin-x)
-* LuisGuada
-* Nix
-* ShinySopheon
-* ShootMyMantlet - 1st Place MCS #2
-* [superforms](/authors/superforms)
-* timmychiew - 1st Place Worlds
-* UnGatoPardo
-* Whybona
+|1st|2nd|3rd|
+| :-- | :-- | :-- |
+|![](https://imgur.com/5GQqWoo)|![](https://imgur.com/5GQqWoo)|![](https://imgur.com/5GQqWoo)|
