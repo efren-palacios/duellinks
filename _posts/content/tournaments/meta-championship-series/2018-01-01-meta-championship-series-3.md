@@ -30,7 +30,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 |5|Masarike|W L W W W W W W W W L
 |6|Nameless|W W W W W L L
 |7|JayDizzle|W W W W L W L
-|8|RareHunter107211|W W W W L W L
+|8|RareHunter|W W W W L W L
 
 ### TOP 8 BREAKDOWN
 
@@ -139,7 +139,7 @@ Decklist 1 | Decklist 2
 |:----------:|:----------:|
 ![](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/jaydizzle-mcs-dl1-jay-dizzle_orig.png)|![](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/jaydizzle-mcs-dl2-jay-dizzle_orig.png)
 
-#### ​7th-8th Place- RareHunter107211: $81
+#### ​7th-8th Place- RareHunter: $81
 
 [content-only]
 Decklist 1 | Decklist 2
