@@ -174,7 +174,7 @@ function displayCardInformation( response, websiteLink, cardName ) {
 		$('.fancybox-loading').hide();
 		$('#cardFancybox').removeClass('hideSkillContainer');
 	});
-	$('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+encodeURIComponent(cardName)+"&w=200&il&q=95");
+	$('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+encodeURIComponent(cardName)+"&il");
 	$('#cardName').html(cardName);
 	if(response[1].data.family!="null" && response[1].data.level!="null") {
 		$('#cardAttribLevel').html('Attribute: <span class="capitalize-text">' + response[1].data.family + ' | Level: ' + response[1].data.level + '</span>');
@@ -337,7 +337,7 @@ function obtainTextForDesktops( event, api ) {
 			api.set('content.text',
 			`<div class="preview">
 			${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" class="rarityCard" />` : ""}
-			<img class="cardPicBig" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&w=200&il&q=95" />
+			<img class="cardPicBig" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&il" />
 			</div>
 			<div class="carddata"><b>${r[1].data.name}</b><br />
 			${r[1].data.family!="null" ? '<p> Attribute: <span class="capitalize-text">' + r[1].data.family + "</span></p>" : ""}
