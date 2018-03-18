@@ -21,6 +21,14 @@
         background-color: rgba(#F5F5F5, 0.1);
     }   
 
+    textarea::-webkit-resizer
+    {
+        background-color: #0c2740;
+        border-top-width: 0px;
+        border-left-width: 0px;
+        border-radius: 10px;  
+    }
+
     button:hover 
     {
         cursor: pointer;
