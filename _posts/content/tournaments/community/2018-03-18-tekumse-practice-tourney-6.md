@@ -17,7 +17,7 @@ pinned: false
 {% include heading.html title=page.title author=page.author %}
 
 ### Tournament Information
-- This tournament was hosted by 'Tekumse - Dino Expert', be sure to join his [Discord](https://discord.gg/WvTDwu) to keep up with future tournaments and watch him stream on [Twitch](https://www.twitch.tv/tekumse_)!
+- This tournament was hosted by 'Tekumse - Dino Expert', be sure to join his [Discord](https://discord.gg/HbDFgBu) to keep up with future tournaments and watch him stream on [Twitch](https://www.twitch.tv/tekumse_)!
 - Saturday 17th March, 9am EST/2pm CET
 - No entry free
 
