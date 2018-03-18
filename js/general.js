@@ -66,3 +66,9 @@ function EventComplete()
     $(".soon-event-countdown").addClass("hidden");
     $(".soon-event-complete").removeClass("hidden");
 }
+
+//menubutton script
+function toggleChange(elem)
+        {
+            elem.classList.toggle("change");
+        }
