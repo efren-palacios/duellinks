@@ -11,6 +11,7 @@ $(document).ready(function() {
 
     setKogFormValidation();   
     initializeWidgetHandlers(); 
+    setWidgetFormatting(); 
 });
 
 function setKogFormValidation() {
@@ -35,6 +36,8 @@ function initializeWidgetHandlers() {
         else {
             proofPicsCount = info.files().length;
         }         
+
+        validateProof();
     });
 
     var deckPicsWidget = uploadcare.MultipleWidget('#deck-pics');
@@ -45,6 +48,8 @@ function initializeWidgetHandlers() {
         else {
             deckPicsCount = info.files().length;
         }    
+
+        validateDeck();
     });
 }
 
@@ -68,4 +73,9 @@ function validateDeck() {
         $('#deck-form-group .invalid-feedback').hide();
         return true; 
     }
+}
+
+function setWidgetFormatting() {
+    $('.uploadcare--widget').addClass('col-12');
+    $('.uploadcare--widget').addClass('customWidget');    
 }
