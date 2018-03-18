@@ -72,6 +72,7 @@
             { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
+            { "id": "insects",     	            "display": "Insects",               "card": "Metamorphosed Insect Queen" },
             { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
         ]
     },
