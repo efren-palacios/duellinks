@@ -64,3 +64,9 @@ pinned: false
 
 ***Side Deck:***
 [deck](Cyber Angel Benten; Senju of the Thousand Hands; Fenghuang; Hymn of Light; Machine Angel Ritual)
+
+---
+
+### The Grand Final!
+
+{% include youtube-video.html url='https://youtu.be/EOKKXB4zRT4' %}
