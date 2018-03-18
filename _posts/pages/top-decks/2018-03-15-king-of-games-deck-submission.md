@@ -29,10 +29,10 @@ duel-links-test@googlegroups.com"
                 Please enter an author's name  
             </div>
         </div>
-        <div class="form-group" id="proof-form-group">            
-            <label for="proof">Ranking proof pictures</label>
+        <div class="form-group row" id="proof-form-group">            
+            <label for="proof" class="col-12">Ranking proof pictures</label>
             <input type="hidden" role="uploadcare-uploader" name="proof" data-images-only="true" data-multiple="true" id="proof"/>
-            <small class="form-text text-muted">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
+            <small class="form-text text-muted col-12">You need to submit two forms of proof: a screenshot indicating your last win streak for the season (
                 <a data-src="#kog-proof-1" href="javascript:;" class="fancybox">
                     example
                 </a>
@@ -42,15 +42,15 @@ duel-links-test@googlegroups.com"
                 </a>
             )
             </small>
-            <div class="invalid-feedback">
+            <div class="invalid-feedback col-12">
                 Please enter both pictures of ranking proof 
             </div>
         </div>
-        <div class="form-group" id="deck-form-group">            
-            <label for="deck-pics">Deck picture(s)</label>
+        <div class="form-group row" id="deck-form-group">            
+            <label for="deck-pics" class="col-12">Deck picture(s)</label>
             <input type="hidden" role="uploadcare-uploader" name="deck-pics" data-images-only="true" data-multiple="true" id="deck-pics"/>
-            <small class="form-text text-muted">Be sure and include your extra deck, if needed</small>
-            <div class="invalid-feedback">
+            <small class="form-text text-muted col-12">Be sure and include your extra deck, if needed</small>
+            <div class="invalid-feedback col-12">
                 Please enter the picture(s) of your deck  
             </div> 
         </div>
