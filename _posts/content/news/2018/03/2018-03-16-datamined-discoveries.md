@@ -44,7 +44,7 @@ These are the upcoming drop rewards you have to look forward to (RNG willing!):
 
 Older cards that work well with these include {Bountiful Artemis} and {Cards from the Sky}. Also note that {The Sanctuary in the Sky} is an R Ticket reward from Ranked Duels, so that may be a worthwhile use for your R Tickets this season!
  
-#### On the deck as a whole
+#### The Decks 
 - Counter Fairies can be incredibly strong when (1) they open well, (2) they go first, and (3) their opponent does not have access to big Normal Summoned monsters. Combo and effect reliant decks like [Hazy Flame](/tier-list/hazy-flame/) and [Sylvans](/tier-list/sylvans/) can struggle against Fairies, while [Dinos](/tier-list/dinos/) and [Fishes](/tier-list/fishes/) should dominate them with big 4-star monsters.
 - As many of these cards do nothing without each other, {Duel, Standby!} or {Restart} seem necessary for consistency. Other skills like {Fairy’s Smile} or {Endless Trap Hell} will likely have issues with bricking.
  
