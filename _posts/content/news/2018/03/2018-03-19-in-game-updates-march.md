@@ -41,7 +41,7 @@ The Superb Legendary Duelist has been revealed it be in fact Téa, you can read 
 
 ### KC Cup
 
-It's already time for another KC Cup! So if you didn't perform as well as you wanted in the last one, or just want to continue to dominate the ladder and add more Prismatics Cards to your collection, get your deck ready and secure your invitation to your 2018 World Championship Regional Qualifier!
+It's already time for another KC Cup! So if you didn't perform as well as you wanted in the last one, or just want to continue to dominate the ladder and add more Prismatic Cards to your collection, get your deck ready and secure your invitation to your 2018 World Championship Regional Qualifier!
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-kc-cup.jpg)
 
