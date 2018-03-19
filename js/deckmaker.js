@@ -18,6 +18,7 @@ $(window).resize( updateMobileInformation );
 async function updateMobileInformation() {
 	// Delay the update to sync with the page load
 	await sleep(500);
+	
 	resizeSkillInformation();
 };
 
@@ -58,7 +59,7 @@ function updatePopupsForMobile() {
 		buttons: ['close'],
 		selector: '.fancybox-card',
 		smallBtn: false,
-		afterShow: obtainCardInformation,
+		afterShow: obtainCardInformationForMobile,
 		afterClose: closeMobilePopup
 	});
 	
@@ -128,83 +129,59 @@ function resizeSkillInformation() {
 	$('#characterImage').css('padding-top', Math.floor(difference/2) + 'px');
 };
 
-function obtainCardInformation( instance, current ) {
-	// Obtain the card name
+function obtainCardInformationForMobile( instance, current ) {
 	var cardName = $(current.opts.$orig).html();
 	if(cardName.includes("<img")) {
-		cardNameEnc = $(current.opts.$orig).find('img').attr("alt");
-		cardName =decodeURIComponent(cardNameEnc);
+		var cardNameEnc = $(current.opts.$orig).find('img').attr("alt");
+		cardName = decodeURIComponent(cardNameEnc);
 	}
 	
-	// Obtain the card data
-	let websiteLink = location.protocol + "//" + location.hostname;
-	if(location.port){
-		websiteLink += ":" + location.port;
-	}
-	let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
-		return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
-	});
-	let cardinfo=JSON.parse(sessionStorage.getItem(cardNameEnc));
-	
-	if (!cardinfo) cardinfo = $.getJSON("https://query.yahooapis.com/v1/public/yql",
-	{
-		q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + cardNameEnc + "?fmt=JSON\"",
-		format: "json"
-		}).then(function(r) {
-		sessionStorage.setItem(cardNameEnc, JSON.stringify(r.query.results.json));
-		return r.query.results.json;
-	});
-	Promise.all([cardobtain, cardinfo]).then(function(r) {
-		displayCardInformation( r, websiteLink, cardName );
-	});
+	var card = CardsAPI.search(cardName, displayCardInformationForMobile);
 };
 
-function displayCardInformation( response, websiteLink, cardName ) {
-	// Update and display the data
-	if(response[0].rarity) {
-		$('#cardRarity').attr('src', websiteLink + '/img/assets/' + response[0].rarity + '.png');
+function displayCardInformationForMobile( card ) {	
+	if(card.rarity.length > 0) {
+		$('#cardRarity').attr('src', getWebsiteLink() + '/img/assets/' + card.rarity + '.png');
 		$('#cardRarity').show();
 	} 
 	else {
 		$('#cardRarity').hide();
 	}
-	$('#cardImage').one("load", function() {
-		//resizeCardInformation();
-		
+	$('#cardImage').one("load", function() {		
 		$('.fancybox-loading').hide();
 		$('#cardFancybox').removeClass('hideSkillContainer');
 	});
-	$('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/"+encodeURIComponent(cardName)+"&il");
-	$('#cardName').html(cardName);
-	if(response[1].data.family!="null" && response[1].data.level!="null") {
-		$('#cardAttribLevel').html('Attribute: <span class="capitalize-text">' + response[1].data.family + ' | Level: ' + response[1].data.level + '</span>');
-		$('#cardAttribLevel').show();
+	$('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(card.name) + "&il");
+	$('#cardName').html(card.name);
+	if(card.attribute.length > 0) {
+		$('#cardAttribute').html('Attribute: ' + card.attribute);
+		$('#cardAttribute').show();
 	} 
 	else {
-		$('#cardAttribLevel').hide();
+		$('#cardAttribute').hide();
+	} 
+	if(card.level.length > 0) {
+		$('#cardLevel').html('Level: ' + card.level);
+		$('#cardLevel').show();
+	} 
+	else {
+		$('#cardLevel').hide();
 	}
-	if(response[1].data.type && response[1].data.type.includes("Fusion")) {
-		var cardTextArray = response[1].data.text.split('\n');
-		$('#cardMaterials').html('<i>' + cardTextArray[0] + '</i>');
+	if(card.materials.length > 0) {
+		$('#cardMaterials').html('<i>' + card.materials + '</i>');
 		$('#cardMaterials').show();
-		$('#cardText').html(cardTextArray[2]);
 	} 
 	else {
 		$('#cardMaterials').hide();
-		$('#cardText').html(response[1].data.text);
 	}
-	if(response[1].data.card_type=="monster") {
-		$('#cardType').html('<b>[ </b><span class="capitalize-text">' + response[1].data.type + '</span><b> ]</b>');
-	}
-	else {
-		$('#cardType').html('<b>[ </b><span class="capitalize-text">' + response[1].data.card_type + '</span> / ' + response[1].data.property +  '<b> ]</b>');
-	}
+	$('#cardText').html(card.description);
+	$('#cardType').html('<b>[ </b><span class="capitalize-text">' + card.type + '</span><b> ]</b>');
 	
-	$('#cardAttackDefense').html((response[1].data.atk!="null" ? "<b>ATK/ </b>" + response[1].data.atk : "") + " " + (response[1].data.def!="null" ? "<b>DEF/ </b>" + response[1].data.def : ""));
-	$('#cardObtain').html(response[0].how ? 'How to obtain: '+response[0].how : '');    
+	if(card.attack.length > 0) {
+		$('#cardAttackDefense').html("<b>ATK/ </b>" + card.attack + " " + "<b>DEF/ </b>" + card.defense);
+	}	
+	$('#cardObtain').html(card.obtain);
 };
-
-
 
 function closeMobilePopup() {
 	$('#fancyboxSkillDiv').hide();

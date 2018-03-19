@@ -66,3 +66,11 @@ function EventComplete()
     $(".soon-event-countdown").addClass("hidden");
     $(".soon-event-complete").removeClass("hidden");
 }
+
+function getWebsiteLink() {
+    var websiteLink = location.protocol + "//" + location.hostname;
+    if(location.port) {
+        websiteLink += ":" + location.port;
+    }
+    return websiteLink;
+}
