@@ -35,7 +35,7 @@ var CardsAPI = {
         Promise.all([cardobtain, cardinfo]).then(function(response) {
             var card = new Card();
 
-            card.name = response[0].name;
+            card.name = cardName;
             card.rarity = response[0].rarity ? response[0].rarity : "";
             card.attribute = response[1].data.family != 'null' ? response[1].data.family : "";
             card.level = response[1].data.level != 'null' ? response[1].data.level : "";

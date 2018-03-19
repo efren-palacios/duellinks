@@ -179,7 +179,11 @@ function displayCardInformationForMobile( card ) {
 	
 	if(card.attack.length > 0) {
 		$('#cardAttackDefense').html("<b>ATK/ </b>" + card.attack + " " + "<b>DEF/ </b>" + card.defense);
+		$('#cardAttackDefense').show();
 	}	
+	else {
+		$('#cardAttackDefense').hide();	
+	}
 	$('#cardObtain').html(card.obtain);
 };
 
@@ -273,73 +277,72 @@ function updatePopupOptions(cardElem, options) {
 	return options;    
 };
 
-function obtainTextForDesktops( event, api ) {
-	let websiteLink = location.protocol + "//" + location.hostname;
-	if(location.port){
-		websiteLink += ":" + location.port;
-	}
-	
+function obtainTextForDesktops( event, api ) {	
 	let type = $(this).attr('name');
 	if(type == "cardPopup") {
 		let name = (this).attr('alt');
-		let namepure = decodeURIComponent(name);
-		let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
-			return r.data.filter(i => i.name == namepure)[0] || new Error('No Resource')
-		});
-		//get carddata via yahoo yql from yugiohprices api
-		
-		let cardinfo=JSON.parse(sessionStorage.getItem(name));
-		
-		if (!cardinfo) cardinfo = $.getJSON("https://query.yahooapis.com/v1/public/yql",
-		{
-			q:      "select * from json where url=\"https://yugiohprices.com/api/card_data/" + name + "?fmt=JSON\"",
-			format: "json"
-			}).then(function(r) {
-			sessionStorage.setItem(name, JSON.stringify(r.query.results.json));
-			return r.query.results.json;
-		});
-		
-		Promise.all([cardobtain, cardinfo]).then(function(r) {
-			
-			// Determine if fusion monster materials need to be displayed
-			var cardText = r[1].data.text;
-			var cardMaterials;
-			if(r[1].data.type && r[1].data.type.includes('Fusion')) {
-				var cardTextArray = r[1].data.text.split('\n');
-				cardMaterials = cardTextArray[0];
-				cardText = cardTextArray[2];
-			}
-			
-			
-			api.set('content.text',
-			`<div class="preview">
-			${ r[0].rarity ? `<img src="${websiteLink}/img/assets/${r[0].rarity}.png" class="rarityCard" />` : ""}
-			<img class="cardPicBig" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${name}&il" />
-			</div>
-			<div class="carddata"><b>${r[1].data.name}</b><br />
-			${r[1].data.family!="null" ? '<p> Attribute: <span class="capitalize-text">' + r[1].data.family + "</span></p>" : ""}
-			${r[1].data.level!="null" ? "<p> Level: " + r[1].data.level + "</p>" : ""}
-			${r[1].data.card_type=="monster"
-			? '<p><b>[ </b>' + r[1].data.type + '<b> ]</b></p>'
-			: '<p><b>[ </b><span class="capitalize-text">' + r[1].data.card_type + '</span> / ' + r[1].data.property +  '<b> ]</b></p>'}  
-			${cardMaterials ? '<p><i>' + cardMaterials + '</i></p>' : ""}
-			<p>${cardText}</p>
-			${r[1].data.atk!="null" ? "<p><b>ATK/ </b>" + r[1].data.atk : ""}
-			${r[1].data.def!="null" ? "<b>DEF/ </b>" + r[1].data.def + '</p>' : ""}
-			<p><u>How To Obtain</u></p>
-			${ r[0].how ? `<p class="capitalize-text">${r[0].how}</p>` : 'Needs to be Added'}
-			</div>`)
-		});
+		let nameDecoded = decodeURIComponent(name);
+
+		CardsAPI.search(nameDecoded, displayTextForCardsOnDesktops(api));
 		return "Loading card...";
 	}
 	else if(type == "skillPopup") {
 		let name = $(this).html();
-		axios.get(websiteLink + "/data/skillsChars.json").then( function( response ) {
-			displayTextForSkillOnDesktops(response, name, api, websiteLink);
+		axios.get(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
+			displayTextForSkillOnDesktops(response, name, api, getWebsiteLink());
 		});
 		return "Loading skill...";
 	}
 };  
+ 
+function displayTextForCardsOnDesktops( api ) {
+	return function( card ) {
+		var clone = $('#desktopPopup').clone();
+
+		if(card.rarity.length > 0) {
+			clone.find('#cardDesktopRarity').attr('src', getWebsiteLink() + '/img/assets/' + card.rarity + '.png');
+			clone.find('#cardDesktopRarity').show();
+		} 
+		else {
+			clone.find('#cardDesktopRarity').hide();
+		}
+		clone.find('#cardDesktopImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(card.name) + "&il");
+		clone.find('#cardName').html(card.name);
+		if(card.attribute.length > 0) {
+			clone.find('#cardAttribute').html('Attribute: ' + card.attribute);
+			clone.find('#cardAttribute').show();
+		} 
+		else {
+			clone.find('#cardAttribute').hide();
+		} 
+		if(card.level.length > 0) {
+			clone.find('#cardLevel').html('Level: ' + card.level);
+			clone.find('#cardLevel').show();
+		} 
+		else {
+			clone.find('#cardLevel').hide();
+		}
+		if(card.materials.length > 0) {
+			clone.find('#cardMaterials').html('<i>' + card.materials + '</i>');
+			clone.find('#cardMaterials').show();
+		} 
+		else {
+			clone.find('#cardMaterials').hide();
+		}
+		clone.find('#cardText').html(card.description);
+		clone.find('#cardType').html('<b>[ </b><span class="capitalize-text">' + card.type + '</span><b> ]</b>');
+		
+		if(card.attack.length > 0) {
+			clone.find('#cardAttackDefense').html("<b>ATK/ </b>" + card.attack + " " + "<b>DEF/ </b>" + card.defense);
+		}	
+		else {
+			clone.find('#cardAttackDefense').hide();	
+		}
+		clone.find('#cardObtain').html(card.obtain);
+
+		api.set('content.text', clone.show()[0]);	
+	};
+};
 
 function displayTextForSkillOnDesktops(r, name, api, websiteLink) {
 	let characterWhoUses = [];
