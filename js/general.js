@@ -74,3 +74,8 @@ function getWebsiteLink() {
     }
     return websiteLink;
 }
+//menubutton script
+function toggleChange(elem)
+        {
+            elem.classList.toggle("change");
+        }

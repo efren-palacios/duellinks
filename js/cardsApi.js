@@ -55,7 +55,7 @@ var CardsAPI = {
             }
             card.attack = response[1].data.atk != 'null' ? response[1].data.atk : "";
             card.defense = response[1].data.def != 'null' ? response[1].data.def : "";
-            card.obtain = response[0].how;
+            card.obtain = response[0].how ? response[0].how : "Needs to be Added";
 
             callback(card);    
         });
@@ -74,7 +74,8 @@ var CardsAPI = {
  * type A card's type (i.e. 'Spell', 'Trap', "Winged Beast", etc.)
  * attack A card's attack points (only applies to monsters)
  * defense A card's defense points (only applies to monsters)
- * obtain How/where to obtain this card within the game 
+ * obtain How/where to obtain this card within the game (if not available, 
+ *        the phrase 'Needs to be Added' will be placed inside) 
  */ 
 function Card() { 
     this.name = "";

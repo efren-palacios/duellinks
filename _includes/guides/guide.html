@@ -1,74 +1,81 @@
-<div class="decktype-guide">
-    <div class="section header">
-        <h2>INTRODUCTION TO {{guide.deck-type | upcase }}</h2>
-        {% if guide.created-by != null %}
-            <h4>by {{guide.created-by}}</h4>
-        {% endif %}
-    </div>
+{% if guide != null %}
+    <div class="decktype-guide">
+        <div class="section header">
+            <h1>INTRODUCTION TO {{guide.deck-type | upcase }}</h1>
+            {% if guide.created-by != null %}
+                <h2>by {{guide.created-by}}</h2>
+            {% endif %}
+        </div>
 
-    <div class="section">
-        <h3>Last Updated</h3>
-        <p>{{guide.modified-on}} by 
-        {% if guide.profile != null and guide.profile != "" %}
-            <a href="/authors/{{guide.profile}}/">{{guide.modified-by}}</a>
-        {% else %}
-            {{guide.modified-by}}
-        {% endif %}</p>
-    </div>
-
-    {% if guide.image != null %}
-        <img class="splash" src="/img/content/guides/{{guide.image}}">
-    {% endif %}
-    
-    {% for section in guide.sections %}
-        {% include guides/section.html section=section level=1 %}
-    {% endfor %}
-
-    {% if guide.guides != null and guide.guides.size != 0 %}
         <div class="section">
-            <h3>Guides</h3>
-            <div class="row card-collection">
-                {% assign deckTypeGuides = site.categories.guide | where: "sub-category", "deck-type" %}
-                {% for deckTypeGuide in deckTypeGuides %}
-                    {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
-                    {% if guide.guides contains link %}
-                        <div class="col-sm-6 col-12 card-deck">
-                            <div class="card">
-                                <div class="zoom">
-                                    <a href="{{deckTypeGuide.url}}"> 
-                                        <img src="{{deckTypeGuide.image}}" class="card-img-top lazyload" />
-                                    </a>
-                                </div>
-                                <div class="card-block text-white">
-                                    <a href="{{deckTypeGuide.url}}">
-                                        <h4 class="card-title">{{deckTypeGuide.title}}</h4>
-                                    </a>
-                                    <div class="text-white">
-                                        <small class="text-muted">Last Updated: {{ deckTypeGuide.date | timeago }}
-                                            {% if deckTypeGuide.author == 'Dkayed' %}
-                                            By <b><a class="text-danger" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% else %}
-                                            By <b><a class="text-warning" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% endif %}
-                                        </small>
+            <h3>Last Updated</h3>
+            <p>{{guide.modified-on | date: "%B %d, %Y" }} by 
+            {% if guide.profile != null and guide.profile != "" %}
+                <a href="/authors/{{guide.profile}}/">{{guide.modified-by}}</a>
+            {% else %}
+                {{guide.modified-by}}
+            {% endif %}</p>
+        </div>
+
+        {% if guide.image != null %}
+            <img class="splash" src="/img/content/guides/{{guide.image}}">
+        {% endif %}
+        
+        {% for section in guide.sections %}
+            {% include guides/section.html section=section level=1 %}
+        {% endfor %}
+
+        {% if guide.guides != null and guide.guides.size != 0 %}
+            <div class="section">
+                <h3>Guides</h3>
+                <div class="row card-collection">
+                    {% assign deckTypeGuides = site.categories.guide | where: "sub-category", "deck-type" %}
+                    {% for deckTypeGuide in deckTypeGuides %}
+                        {% assign link = deckTypeGuide.permalink | remove: "/guides/" | remove: "/" %}
+                        {% if guide.guides contains link %}
+                            <div class="col-sm-6 col-12 card-deck">
+                                <div class="card">
+                                    <div class="zoom">
+                                        <a href="{{deckTypeGuide.url}}"> 
+                                            <img src="{{deckTypeGuide.image}}" class="card-img-top lazyload" />
+                                        </a>
+                                    </div>
+                                    <div class="card-block text-white">
+                                        <a href="{{deckTypeGuide.url}}">
+                                            <h4 class="card-title">{{deckTypeGuide.title}}</h4>
+                                        </a>
+                                        <div class="text-white">
+                                            <small class="text-muted">Last Updated: {{ deckTypeGuide.date | timeago }}
+                                                {% if deckTypeGuide.author == 'Dkayed' %}
+                                                By <b><a class="text-danger" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% else %}
+                                                By <b><a class="text-warning" href="/authors/{{deckTypeGuide.author}}">{{deckTypeGuide.author}}</a></b> {% endif %}
+                                            </small>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    {% endif %}
-                {% endfor %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
             </div>
-        </div>
-    {% endif %}
+        {% endif %}
 
-    {% if guide.videos != null and guide.videos.size != 0 %}
-        <div class="section">
-            <h3>Videos</h3>
-            <div class="row">
-                {% for video in guide.videos %}
-                    <div class="col-12 col-md-6">
-                        {% include youtube-video.html url=video %}
-                    </div>
-                {% endfor %}
+        {% if guide.videos != null and guide.videos.size != 0 %}
+            <div class="section">
+                <h3>Videos</h3>
+                <div class="row">
+                    {% for video in guide.videos %}
+                        <div class="col-12 col-md-6">
+                            {% include youtube-video.html url=video %}
+                        </div>
+                    {% endfor %}
+                </div>
             </div>
-        </div>
-    {% endif %}
+        {% endif %}
+    </div>
+{% else %}
+<div class="section header center">
+    <h1>INTRODUCTION TO {{page.title | upcase }}</h1>
+    <p>We currently do not have any information about {{page.title}}. Please check back later.</p>
 </div>
+{% endif %}
