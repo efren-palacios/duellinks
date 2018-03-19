@@ -130,7 +130,8 @@ function resizeSkillInformation() {
 
 function obtainCardInformation( instance, current ) {
 	// Obtain the card name
-	var cardName = $(current.opts.$orig).html();
+	let cardName = $(current.opts.$orig).html();
+	let cardNameEnc = encodeURIComponent(cardName);
 	if(cardName.includes("<img")) {
 		cardNameEnc = $(current.opts.$orig).find('img').attr("alt");
 		cardName =decodeURIComponent(cardNameEnc);
