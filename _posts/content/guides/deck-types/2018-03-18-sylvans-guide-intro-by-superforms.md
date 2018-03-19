@@ -29,16 +29,16 @@ The Sylvan archetype consists of monsters that excavate and mill cards from the 
 Many members in the Discord have reached KoG with Sylvans already this month. 
 {Restart} is the go-to skill with Sylvans as you want to generally restart for Mushroom, or for Rose + Hermit in specific matchups. Restarting for techs/ECon against decks like Cyber Angels is also a good option. This is a slight variation on one of the KoG decks found in the Discord:  
 
-[deck:Restart](Sylvan Guardioak; World Carrotweight Champion; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Marshalleaf; Sylvan Marshalleaf Sylvan Marshalleaf; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; Rose Lover; Rose Lover; Rose Lover; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath; Jar of Avarice)
+[deck:Restart](Sylvan Guardioak; World Carrotweight Champion; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Marshalleaf; Sylvan Marshalleaf ;Sylvan Marshalleaf; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; Rose Lover; Rose Lover; Rose Lover; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath; Jar of Avarice)
 
 ---
 
 ### Core Cards:  
  
-*  3 × {Sylvan Komushroomo} (Mushroom):  
+* 3 × {Sylvan Komushroomo} (Mushroom):  
 This is your typical turn 1 set and your biggest miller. Very valuable when milled as well, destroying any spell/trap card on the field.  
 
-*  3 × {Sylvan Marshalleaf} (Marsh):  
+* 3 × {Sylvan Marshalleaf} (Marsh):  
 A nice follow-up summon after stacking your deck (more on that with Hermitree), Marsh also likes being milled to pop a monster.  
 
 * 3 × {Sylvan Hermitree} (Hermit):  
@@ -57,32 +57,32 @@ These are all necessary to play an optimized Sylvan deck. There are other option
 ### Tech Cards:  
 A core of 15 cards leaves 5 cards to be filled, and there are number of excellent choices:  
 
-* {Sylvan Guardioak} (Guard):  
-Similar to Hermit, Guard can stack your deck (from the grave) when milled and can mill every turn when on the field. 1×.
+* 1 x {Sylvan Guardioak} (Guard):  
+Similar to Hermit, Guard can stack your deck (from the grave) when milled and can mill every turn when on the field.  
 
-* {World Carrotweight Champion} (Carrot):  
-A very easy special summon once milled, allowing you to clear a flipped Mushroom or discard a Rose in the process. Works nicely with ECon if he ends up in your hand. Inspiration for vegetable fighters across the globe. 1–2×.
+* 1 - 2 x {World Carrotweight Champion} (Carrot):  
+A very easy special summon once milled, allowing you to clear a flipped Mushroom or discard a Rose in the process. Works nicely with ECon if he ends up in your hand. Inspiration for vegetable fighters across the globe.  
 
-* {Sylvan Flowerknight}:  
-An 1800 ATK beater that acts like a baby Hermit, milling on summon only and stacking a single card. A decent choice for more monster-heavy builds. 1–2×.
+* 1 - 2 x {Sylvan Flowerknight}:  
+An 1800 ATK beater that acts like a baby Hermit, milling on summon only and stacking a single card. A decent choice for more monster-heavy builds.  
 
-* {Raging Mad Plants}:  
-Very strong late-game card, giving huge one-time ATK boosts to all your Plants. Borders on being too aggressive, but the game-ending potential is hard to ignore. 1×.
+* 1 x {Raging Mad Plants}:  
+Very strong late-game card, giving huge one-time ATK boosts to all your Plants. Borders on being too aggressive, but the game-ending potential is hard to ignore.  
 
-* {Jar of Avarice}:  
-Excellent option for recycling your Sylvans, plus gives you a free draw (which is very useful when used in combination with the next three tech options). 1–2×.
+* 1 - 2 x {Jar of Avarice}:  
+Excellent option for recycling your Sylvans, plus gives you a free draw (which is very useful when used in combination with the next three tech options).  
 
-* {Divine Wrath}:  
-Stops a large number of monsters dead in their tracks while also giving you a way to get Rose into the grave. The discard cost is almost never an issue as you accumulate resources in hand pretty easily with this deck. A great out vs things that would otherwise give the deck trouble: {Citadel Whale}, {Hazy Flame Sphynx}, {Golden Flying Fish}, {Abyss Soldier}, {Snipe Hunter}, etc. Anything that can deal with a face-down Mushroom without flipping it is a threat and Divine Wrath stops a lot of these threats. 1–3×.
+* 1 - 3 x {Divine Wrath}:  
+Stops a large number of monsters dead in their tracks while also giving you a way to get Rose into the grave. The discard cost is almost never an issue as you accumulate resources in hand pretty easily with this deck. A great out vs things that would otherwise give the deck trouble: {Citadel Whale}, {Hazy Flame Sphynx}, {Golden Flying Fish}, {Abyss Soldier}, {Snipe Hunter}, etc. Anything that can deal with a face-down Mushroom without flipping it is a threat and Divine Wrath stops a lot of these threats.  
 
-* {Dark Core}:  
-Mainly a side option against Cyber Angels as an extra way to deal with giant, protected monsters. 1–2×.
+* 1 - 2 x {Dark Core}:  
+Mainly a side option against Cyber Angels as an extra way to deal with giant, protected monsters. 
 
-* {Monster Reincarnation}:  
-Great consistency card for getting Hermit out, ideally by discarding a Rose when retrieving Hermit after it’s been milled. 1–2×.
+* 1 - 2 x {Monster Reincarnation}:  
+Great consistency card for getting Hermit out, ideally by discarding a Rose when retrieving Hermit after it’s been milled.  
 
 * {Magical Merchant}:  
-Although Merchant is probably best in a dedicated build rather than teched into a more “standard” Sylvan deck. {Ultimate Providence} is also a budget replacement for Divine Wrath and has added flexibility (although this is rarely ever needed; monster effects give Sylvans the most trouble).
+Although Merchant is probably best in a dedicated build rather than teched into a more “standard” Sylvan deck. {Ultimate Providence} is also a budget replacement for Divine Wrath and has added flexibility (although this is rarely ever needed; monster effects give Sylvans the most trouble).  
 
 ---
 
