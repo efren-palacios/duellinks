@@ -134,6 +134,15 @@
             top: -10px;
             right: 0px;
         }
+
+        > .btn-sub-text
+        {
+            display: inline-block;
+            /*text-align: center;*/
+            font-size: 14px;
+            line-height: 12px;
+            padding-top: 2px;
+        }
     }
 }
 
