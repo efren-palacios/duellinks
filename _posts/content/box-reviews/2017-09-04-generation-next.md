@@ -16,11 +16,31 @@ permalink: /box-reviews/generation-next/
 [w100]
 ![](/img/content/box-reviews/generation-next/banner.jpg)
 
-{% include box.html box=site.data.box.generation-next %}
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.box.generation-next rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.box.generation-next rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.box.generation-next rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.box.generation-next rarity="N" %}
+
+---
 
 ### Video Review by Dkayed
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=fDol-N1HFkA' %}
+
+---
 
 ### Affected Deck Types
 This box affects or creates the following deck types

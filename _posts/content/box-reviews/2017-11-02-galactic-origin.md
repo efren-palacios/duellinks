@@ -16,11 +16,31 @@ permalink: /box-reviews/galactic-origin/
 [w100]
 ![](/img/content/box-reviews/galactic-origin/banner.jpg)
 
-{% include box.html box=site.data.box.galactic-origin %}
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.box.galactic-origin rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.box.galactic-origin rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.box.galactic-origin rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.box.galactic-origin rarity="N" %}
+
+---
 
 ### Video Review by Dkayed
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=Vd-Mn9Bfe1s' %}
+
+---
 
 ### Affected Deck Types
 This box affects or creates the following deck types

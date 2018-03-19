@@ -81,4 +81,4 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 ### Affected Deck Types
 This box creates the following deck type
 
-{% include deck-type-list.html deck-types='sylvans;' %} 
+{% include deck-type-list.html deck-types='sylvans;insects' %} 

@@ -32,13 +32,19 @@ permalink: /box-reviews/abyss-encounters/
 
 {% include box.html box=site.data.box.abyss-encounters rarity="N" %}
 
+---
+
 ### Archfiends Review by Dkayed
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=CyPm_JXpmo8' %}
 
+---
+
 ### KOG Decklists from this Box
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=8oQxKnWhkvg' %}
+
+---
 
 ### Affected Deck Types
 This box affects or creates the following deck types
