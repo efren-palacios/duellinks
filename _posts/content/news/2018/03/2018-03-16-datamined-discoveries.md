@@ -56,7 +56,7 @@ This is an event worth farming; our first in a while! While Counter Fairies will
 [deck](Dragon's Mirror; Tethys, Goddess of Light; Confronting the "C"; Danipon; Super Solar Nutrient)
 
 - {Dragon's Mirror} (UR) will likely only be playable through the datamined skill from [last month's update](/news/february-2018/datamined-discoveries/#structure-decks). 
-- {Tethys, Goddess of Light} (SR) is likely an exclusive card for Téa's Lvl. 30/40 decks.
+- {Tethys, Goddess of Light} (SR) has now been revealed as a reward in the [Pick-a-Gift Campaign](/news/march-2018/in-game-updates/)!
 - {Super Solar Nutrient} (SR) could possibly be a new Card Trader addition given how much plant support has been released through it recently.
 
 {Crystal Beast Sapphire Pegasus} and {Rare Value} were both upgraded in rarity from R to UR. Jesse Anderson will be the [next obtainable duelist](/news/february-2018/in-game-updates/) in late March, so it's likely these are either his drop or level up rewards! 

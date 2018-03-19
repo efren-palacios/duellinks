@@ -17,7 +17,7 @@ permalink: /news/february-2018/in-game-updates/
 ### **23rd February Update**
 #### By Yami Hammy
 
-As of the recent in-game news update, March is packed full of events and pending updates. There is no need to check your notifications, we have it all here!
+From the recent in-game news update, March is packed full of events and pending updates. There is no need to check your notifications, we have it all here!
 
 [slider](/img/content/news/2018/02/in-game-updates/slider.jpg)
 
