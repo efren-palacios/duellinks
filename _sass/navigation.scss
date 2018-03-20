@@ -234,6 +234,7 @@ li.nav-item > a.nav-link:focus
 
 
 //adjust textsize
+
 @media only screen and (max-width: 768px){
   li.nav-item > a.nav-link {
   font-size: 17px;
@@ -292,5 +293,12 @@ li.nav-item > a.nav-link:focus
 @media (max-width: 578px)and (min-width: 562px){
   .navbar .navbar-brand > img {
     height: 32px;
+  }
+}
+
+@media (min-width: 804px){
+  .nav-link{
+    padding-left: 0.8rem !important;
+    padding-right: 0.8rem !important;
   }
 }
