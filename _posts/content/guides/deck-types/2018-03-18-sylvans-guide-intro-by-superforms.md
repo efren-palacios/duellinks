@@ -5,10 +5,9 @@ author: Superforms
 category: guide
 sub-category: deck-type
 deck-type: sylvans
-image: /img/content/guides/sylvans-guide-by-superforms/thumbnail.png
-date: 2018-03-18
+image: /img/content/guides/sylvans-guide-by-superforms/sylvans.jpg
+date: 2018-03-20
 comments: false
-hide: true
 description: A detailed guide written by Superforms presenting an introduction to the Sylvan archetype.
 keywords: guide, komushroomo, sylvans, plants, marshalleaf, hermitree, guardioak, excavate, core cards
 permalink: /guides/deck-types/sylvans-guide-intro-by-superforms/
