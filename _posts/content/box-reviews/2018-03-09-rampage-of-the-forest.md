@@ -38,7 +38,7 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 - {Cocoon of Ultra Evolution}: Bad without {Parasite Paranoid}.
 - {Doom Dozer}/{The Rock Spirit}: Easy special summons, but don’t seem like they will have any impact on a top tier deck.
 - {Memory Loss}: A weaker {Divine Wrath}, only situationally good.
-- All the R and N rarity cards. 
+- All other R and N rarity cards. 
 
 #### Old cards that synergize
 - {Rose Lover}: Is happy to get milled by Sylvans and can get big Plants out of your hand when they’re drawn instead of milled ({Sylvan Hermitree} and {Sylvan Guardioak} especially).
@@ -81,4 +81,4 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 ### Affected Deck Types
 This box creates the following deck type
 
-{% include deck-type-list.html deck-types='sylvans;' %} 
+{% include deck-type-list.html deck-types='sylvans;insects' %} 

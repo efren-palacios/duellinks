@@ -67,6 +67,6 @@ pinned: false
 
 ---
 
-### The Grand Final!
+### The Final
 
 {% include youtube-video.html url='https://youtu.be/EOKKXB4zRT4' %}

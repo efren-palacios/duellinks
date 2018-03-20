@@ -44,7 +44,7 @@ These are the upcoming drop rewards you have to look forward to (RNG willing!):
 
 Older cards that work well with these include {Bountiful Artemis} and {Cards from the Sky}. Also note that {The Sanctuary in the Sky} is an R Ticket reward from Ranked Duels, so that may be a worthwhile use for your R Tickets this season!
  
-#### On the deck as a whole
+#### The Decks 
 - Counter Fairies can be incredibly strong when (1) they open well, (2) they go first, and (3) their opponent does not have access to big Normal Summoned monsters. Combo and effect reliant decks like [Hazy Flame](/tier-list/hazy-flame/) and [Sylvans](/tier-list/sylvans/) can struggle against Fairies, while [Dinos](/tier-list/dinos/) and [Fishes](/tier-list/fishes/) should dominate them with big 4-star monsters.
 - As many of these cards do nothing without each other, {Duel, Standby!} or {Restart} seem necessary for consistency. Other skills like {Fairy’s Smile} or {Endless Trap Hell} will likely have issues with bricking.
  
@@ -56,7 +56,7 @@ This is an event worth farming; our first in a while! While Counter Fairies will
 [deck](Dragon's Mirror; Tethys, Goddess of Light; Confronting the "C"; Danipon; Super Solar Nutrient)
 
 - {Dragon's Mirror} (UR) will likely only be playable through the datamined skill from [last month's update](/news/february-2018/datamined-discoveries/#structure-decks). 
-- {Tethys, Goddess of Light} (SR) is likely an exclusive card for Téa's Lvl. 30/40 decks.
+- {Tethys, Goddess of Light} (SR) has now been revealed as a reward in the [Pick-a-Gift Campaign](/news/march-2018/in-game-updates/)!
 - {Super Solar Nutrient} (SR) could possibly be a new Card Trader addition given how much plant support has been released through it recently.
 
 {Crystal Beast Sapphire Pegasus} and {Rare Value} were both upgraded in rarity from R to UR. Jesse Anderson will be the [next obtainable duelist](/news/february-2018/in-game-updates/) in late March, so it's likely these are either his drop or level up rewards! 
