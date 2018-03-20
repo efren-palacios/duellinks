@@ -16,6 +16,7 @@ hide: true
 <div class="section header">
     <p>Have you made the King of Games rank this season and want your deck displayed on the site? Simply submit the following information below and provided proof of rank, your deck will be listed among the others this season.
     </p>
+    <p><b>Note: This deck submission is for non-Discord members only. If you are a member of the Duel Links Meta Discord, please continue using the submission process on that server in the appropriate channels.</b></p>     
 </div>
 
 <div class="section">
