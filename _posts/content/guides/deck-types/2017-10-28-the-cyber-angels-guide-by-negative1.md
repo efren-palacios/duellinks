@@ -5,10 +5,10 @@ author: Negative1
 category: guide
 sub-category: deck-type
 deck-type: cyber-angels
-image: /img/content/guides/the-cyber-angels-guide-by-negative1/thumbnail.png
+image: /img/content/guides/the-cyber-angels-guide-by-negative1/cyber-angels.jpg
 date: 2018-02-10
 comments: false
-description: In depth guide written by Negative1 talking about the cyber angels archetype.
+description: In depth guide written by Negative1 discussing the Cyber Angels archetype.
 keywords: guide, cyber angels, dakini, idaten, benten, rituals
 permalink: /guides/deck-types/the-cyber-angels-guide-by-negative1/
 ---
