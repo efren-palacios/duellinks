@@ -4,15 +4,33 @@ title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-19
+date: 2018-03-20
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too.  
-keywords: news, tea, superb, legendary duelists, upcoming updates, KC Cup, Konami 
+keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign  
 permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+### **20th March Update**
+
+Phew! Even more announcements, read away! 
+
+### Card Trader Improvements
+
+Finally our overlords at Konami have heard our pleas... The Card Trader will now stock **every card, all the time**! However, newer cards will still be rotated in and out.
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-card-trader.jpg)
+
+### Double Keys & Gold
+
+Double Gate Keys & Gold Campaign is back, don't forget to claim your Duel Orb x10 from your Gift Box!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-double.jpg)
+
+---
 
 ### **19th March Update**
 
@@ -44,6 +62,14 @@ The Superb Legendary Duelist has been revealed it be in fact Téa, you can read 
 It's already time for another KC Cup! So if you didn't perform as well as you wanted in the last one, or just want to continue to dominate the ladder and add more Prismatic Cards to your collection, get your deck ready and secure your invitation to your 2018 World Championship Regional Qualifier!
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-kc-cup.jpg)
+
+---
+
+### **14th March Update**
+
+### Sale Underway
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-sale.jpg)
 
 ---
 
