@@ -21,7 +21,7 @@ hide: true
 
 <div class="section">
     <form id="kog-deck-submission-form" novalidate action="https://formspree.io/
-duel-links-test@googlegroups.com"
+duel-links-deck-submission@googlegroups.com"
       method="POST">
         <div class="form-group">
             <label for="author">Author</label>
