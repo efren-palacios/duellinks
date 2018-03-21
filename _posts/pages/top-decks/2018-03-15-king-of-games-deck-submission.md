@@ -24,7 +24,7 @@ hide: true
 duel-links-deck-submission@googlegroups.com"
       method="POST">
         <div class="form-group">
-            <label for="author">Author</label>
+            <label for="author">Your name</label>
             <input type="text" class="form-control" id="author" required name="author">
             <div class="invalid-feedback">
                 Please enter an author's name  
