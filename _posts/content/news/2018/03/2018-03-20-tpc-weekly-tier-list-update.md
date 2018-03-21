@@ -14,15 +14,15 @@ permalink: /news/march-2018/tier-list-update-week-13/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### TIER 1:
+#### Tier 1
 * [Aliens](/tier-list/aliens/) 
-* [Red-Eyes-Zombies](/tier-list/red-eyes-zombies/) 
+* [Red-Eyes Zombies](/tier-list/red-eyes-zombies/) 
 * [Sea Stealth Attack](/tier-list/sea-stealth-attack/)
 
-#### TIER 2:
+#### Tier 2
 * [Fishes](/tier-list/fishes/) 
 
-#### TIER 3:
+#### Tier 3
 * [Cyber Angels](/tier-list/cyber-angels/) 
 * [Dinos](/tier-list/dinos/) 
 * [Gaia Plate Magnets](/tier-list/magnet-warriors/) 
@@ -30,23 +30,23 @@ permalink: /news/march-2018/tier-list-update-week-13/
 * [Gladiator Beasts](/tier-list/gladiator-beasts/)
 * [Destiny Heroes](/tier-list/destiny-heroes/) (Fusion variant)
 
-#### HIGH POTENTIAL:
+#### High Potential
 * [Sylvans](/tier-list/sylvans/) 
 
-#### DEMOTED:
+#### Demoted
 * [Snipe Hunter Control](/tier-list/snipe-hunter/)
 
 <br>
 
 ---
 
-#### NOTES by Taaha and Superforms:  
+#### Notes by [Superforms]():  
 
-* Sea Stealth Attack has been promoted to Tier 1 after continually doing extremely well in tournaments, even as the meta has adjusted around it. The most up-to-date builds use {Mythic Depths} as the sole way to get {Umi} (running no ALO) and fall back on {Abyss Soldier}’s and {Citadel Whale}’s strong effects in the event Umi is banished. A tips channel for this deck is coming soon, courtesy of BuiltToTilt.  
+* Sea Stealth Attack has been promoted to Tier 1 after continually doing extremely well in tournaments, even as the meta has adjusted around it. The most up-to-date builds use {Mythic Depths} as the sole way to get {Umi} (running no ALO) and fall back on {Abyss Soldier}’s and {Citadel Whale}’s strong effects in the event Umi is banished.
 
 * Aliens have been trending downward, although they have remained in Tier 1 this week. Their bad match-ups are getting more popular (SSA in particular) and new decks like Sylvans can give them a lot of trouble.  
 
-* Red-Eyes Zombies continues to perform like a top-tier deck, with the tournament representation and results to back up their Tier 1 standing.  
+* Red-Eyes Zombies continue to perform like a top-tier deck, with the tournament representation and results to back up their Tier 1 standing.  
 
 * Fishes remain in Tier 2, due to continued success in competitive events. In particular, Jason’s innovative strategy of smokescreen siding into Flying Fish from a semi-standard Whale deck has given Flying Fish a unique strength in side-deck formats.  
 
@@ -63,6 +63,6 @@ permalink: /news/march-2018/tier-list-update-week-13/
 * This week we have the Meta Weekly on 3/21, the Duel Links Open on 3/23, and the Duel Links Pro Tournament 15 on 3/24. Expect the results of these tournaments to have a strong effect on the tier list.  
 
 ---
-Find out more information by joining the Duel Links Meta Discord [Here](/discord/).  
-Check out Guides and King of Games Decklists [Here](/tier-list/).  
-Learn more about the Top Player Council members [Here](/top-player-council/).   
+Find out more by joining the [Duel Links Meta Discord](/discord/).  
+Be sure to check out [Guides](/guides/) and [King of Games Decklists](/top-decks/).  
+Learn more about the [Top Player Council](/top-player-council/) members.   
