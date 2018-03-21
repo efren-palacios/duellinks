@@ -5,7 +5,7 @@ category: page
 permalink: /privacy-policy/
 ---
 <div class="section text-white">
-        <h1>Privacy policy</h1>
+        <h1 class="marginBottom5px">Privacy policy</h1>
         <p>
                 This website does not share personal information with third parties nor do we store any information about your visit to this website other than to analyze and optimize your content and reading experience through the use of cookies.
                 You can turn off the use of cookies at anytime by changing your specific browser settings.
