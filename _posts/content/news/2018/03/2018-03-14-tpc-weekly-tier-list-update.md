@@ -1,13 +1,11 @@
 ---
 layout: blog
 date: 2018-03-14
-title: TPC Weekly Tier List Update
+title: Tier List Update - Week 12, 2018
 author: Top Player Council
 image: /img/content/news/2018/03/tpc-weekly-tier-list-update/tierlist1.jpg
 category: news
 sub-category: tier-list-update
-year: 2018
-week: 12
 comments: true
 description: Check out the Top Player Council's decisions on which decks are the best in the Meta!
 keywords: aliens, red-eyes zombie, rez, fishes, gladiator beasts, dinos, ssa, water, sea stealth attack, cyber angels, ca, magnets, hazy, hazy flame, destiny heroes, tier, tier 1, flying fish
