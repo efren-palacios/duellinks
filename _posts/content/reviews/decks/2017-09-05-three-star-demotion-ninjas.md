@@ -3,7 +3,8 @@ layout: blog
 date: 2017-9-5 23:56:00 -0600
 title: "Deck Review: 3-Star Demotion Ninjas"
 author: Kazin_X
-category: deck-review
+category: review
+sub-category: deck
 image: https://i.imgur.com/DutHpHC.png
 comments: true
 description: Three-Star Demotion Ninjas deck review by Kazin_X.

@@ -81,10 +81,12 @@
   {
     width: 50%;
 
+    > .btn-sub-text { font-size: 12px; }
+
     .btn-decktype
     {
-      > .decktype-display { font-size: 17px; }
-      > .decktype-count   { font-size: 18px; }
+      > .decktype-display  { font-size: 17px; }
+      > .decktype-count    { font-size: 18px; }
     }
   }
 }
@@ -101,17 +103,19 @@
       padding-right: 8px;
       padding-left: 8px;
       margin-bottom: 14px;
+
+      > .btn-sub-text { font-size: 11px; }
   
       .btn-decktype 
       {
         &.btn-small
         {
-          > .decktype-display { font-size: 14px; }
-          > .decktype-count   { font-size: 16px; }
+          > .decktype-display  { font-size: 14px; }
+          > .decktype-count    { font-size: 16px; }
         }
 
-        > .decktype-display { font-size: 15px; }
-        > .decktype-count   { font-size: 16px; }
+        > .decktype-display  { font-size: 15px; }
+        > .decktype-count    { font-size: 16px; }
       }
     }
   }
@@ -150,6 +154,7 @@
       margin-bottom: 12px;
 
       > .decktype-new { width: 30px; }
+      > .btn-sub-text { font-size: 10px; }
 
       .btn-decktype 
       {
@@ -161,13 +166,13 @@
           height: 22px;
           line-height: 10px;
 
-          > .decktype-display { font-size: 13px; }
-          > .decktype-count   { font-size: 15px; margin-bottom: 0px; }
+          > .decktype-display  { font-size: 13px; }
+          > .decktype-count    { font-size: 15px; margin-bottom: 0px; }
         }
 
-        > .decktype-card { height: 204%; clip: rect(0px, 46px, 70px, 0px); }
-        > .decktype-display { font-size: 12px; padding-left: 40px; }
-        > .decktype-count { font-size: 15px; margin-bottom: -2px; }
+        > .decktype-card     { height: 38px;}
+        > .decktype-display  { font-size: 12px; padding-left: 40px; }
+        > .decktype-count    { font-size: 15px; margin-bottom: -2px; }
       }
     }
   }
@@ -204,17 +209,18 @@
   .button-row .btn-wrapper
   {
     > .decktype-new { width: 25px; }
+    > .btn-sub-text { font-size: 8.5px; }
 
     .btn-decktype 
     {
         &.btn-small
         {
-          > .decktype-display { font-size: 12px; }
-          > .decktype-count   { font-size: 14px; }
+          > .decktype-display  { font-size: 12px; }
+          > .decktype-count    { font-size: 14px; }
         }
 
-      > .decktype-display { padding-left: 38px; letter-spacing: 0px; }
-      > .decktype-count   { font-size: 14px; }
+      > .decktype-display  { padding-left: 38px; letter-spacing: 0px; }
+      > .decktype-count    { font-size: 14px; }
     }
   }
 }

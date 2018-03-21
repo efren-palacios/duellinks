@@ -3,7 +3,8 @@ layout: blog
 date: 2018-01-23
 title: "Mini Box Review: Resonance of Contrast"
 author: GiaJoestar
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/resonance-of-contrast/preview.jpg
 comments: true
 description: Review of the resonance of contrast mini box. Review provided by the Duel Links Meta Top Player Council.

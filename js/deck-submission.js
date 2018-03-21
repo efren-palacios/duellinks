@@ -7,6 +7,8 @@ $(document).ready(function()
     MakeBoxesDroppable();
     CreateTypeEnum();
     BindFormEvents();
+
+    setDiscordAuthURL();
 });
 
 function SortDecktypes()
@@ -346,4 +348,13 @@ function BindFormEvents()
     
         return false;  
     });
+}
+
+function setDiscordAuthURL() {
+    // Set the site URL dynamically for the dev server
+    let websiteLink = location.protocol + "//" + location.hostname;
+    if(location.port){
+        websiteLink += ":" + location.port;
+    }
+    $('#discord-login-button').attr('href', 'https://discordapp.com/api/oauth2/authorize?client_id=398290865556160513&redirect_uri=' + encodeURIComponent(websiteLink) + '%2Fsubmit-your-deck%2F&response_type=token&scope=identify');
 }

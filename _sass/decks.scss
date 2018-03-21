@@ -237,7 +237,17 @@
   flex-direction: column;
   justify-content: center;
   font-size: 12px;
-  padding: 1rem 0;
+  padding: 0px 15px 0px 0px;
+  p{
+    margin-bottom:0.5rem;
+  }
+}
+
+.desktopPopupImages 
+{
+  padding-right: 0px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .skilldata
@@ -249,10 +259,26 @@
   padding: 1rem 0 0 0;
 }
 
+.qtip-content{
+  padding: 12px !important;
+}
+.rarityCard{
+  width: 60px !important;
+  position: relative;
+  left: 81px;
+}
+
+.cardPicBig{
+  width: 140px;
+}
+
+.preview{
+  padding:0;
+}
+
 .preview img
 {
-  margin: 0 1.5rem 0 .5rem;
-  width: 120px;
+  margin-right: 1rem;
   display: flex;
 }
 
@@ -269,6 +295,26 @@
   min-width: 500px;
 }
 
+.reducedmargin{
+  p{
+    margin-bottom: 0.3rem;
+  }
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.fancybox-slide > div{
+  padding-top: 1rem !important;
+  padding-bottom:0;
+  max-height: 100%;
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.fancybox-container{
+  transition-duration: 120ms !important;
+}
 // Skill and Card Information Display (Mobile)
 .fancyboxContainer {
   background-color: transparent !important;
@@ -307,20 +353,37 @@ as the grid from Bootstrap is needed for skill popups---*/
 .fancybox-slide::before {
   display: none !important;  
 }
+.fancybox-slide{
+  display: flex !important;
+  align-items: center !important;
+}
+
+#cardObtain {
+  margin-bottom: 0;
+}
 
 #cardRarity {
-  margin-left: 69px;
-  width: 60px;
+  float: right;
+  width: 70px;
+  padding-top: 0 !important;
+  position: relative;
+  left: 1px;
 }
 
 #cardImage {
-  width: 128px;
-  margin-bottom: 20px;
+  width: 100%;
+  margin-bottom: 0.5rem;
+  max-width: 250px;
+  padding-top: 0 !important;
 }
 
+
 .cardImageContainer {
-  width: 128px;
+  max-width: 250px;
   margin: auto;
+  margin-top: 0.25rem;
+  width: 100%;
+  
 }
 
 #cardName {
@@ -412,3 +475,4 @@ as the grid from Bootstrap is needed for skill popups---*/
     }
   }
 }
+

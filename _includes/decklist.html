@@ -4,9 +4,9 @@
     <div class="row">
         <div class="col-sm-2 text-center"><p><b>{{include.cardname.amount}}x {{item.name}}</b></p>
             <img
-            src="https://yugiohprices.com/api/card_image/{{cards.name}}"
-            data-src="https://yugiohprices.com/api/card_image/{{cards.name}}"
-            class="img-fluid lazyload" style="margin-bottom: 1rem;" />
+            src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{ cards.name | url_encode }}&il"
+            data-src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/{{ cards.name | url_encode }}&il"
+            class="img-fluid lazyload" style="margin-bottom: 1rem;" alt="{{ cards.name | url_encode }}"/>
        </div>
         <div class="col-sm"><p>{{cards.desc}}</p> <p class="set"><b>Set: </b>{{include.cardname.set}}</p></div>
         <div class="col-sm">{{include.cardname.why}}</div>

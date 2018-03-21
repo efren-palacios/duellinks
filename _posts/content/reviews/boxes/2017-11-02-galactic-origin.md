@@ -3,7 +3,8 @@ layout: blog
 date: 2017-11-02 10:45:00 -0600
 title: "Box Review: Galactic Origin"
 author: Dkayed
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/galactic-origin/preview.jpg
 comments: true
 description: Review of the galactic origin box.

@@ -3,7 +3,8 @@ layout: blog
 date: 2018-01-28
 title: "Box Review: Primal Burst"
 author: Yami Hammy
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/primal-burst/preview.jpg
 comments: true
 description: Review of the primal burst box.

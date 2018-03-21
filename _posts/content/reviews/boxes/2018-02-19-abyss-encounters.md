@@ -3,7 +3,8 @@ layout: blog
 date: 2018-02-19
 title: "Box Review: Abyss Encounters"
 author: Effy
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/abyss-encounters/preview.jpg
 comments: true
 description: Review of the abyss encounters box. New deck types included with this box are Archfiends, Aliens, Sea Stealth Attack and Gishki. These new deck types impact the meta quite heavily so be sure to check 'em out to stay relevant in the current meta.

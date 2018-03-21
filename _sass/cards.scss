@@ -4,7 +4,7 @@
   border-radius: 2px;
   background-color: rgba(8, 13, 120, 0.05);
   box-shadow: 0 0 2px 0 $black;
-  margin-bottom: 20px;
+  margin-bottom: 20px !important;
 }
 
 .card:after
@@ -196,20 +196,6 @@
   img
   {
     position: absolute;
-    left: 50%;
-    top: 55%;
-    height: 100%;
-    width: auto;
-    -webkit-transform: translate(-50%,-45%);
-        -ms-transform: translate(-50%,-45%);
-            transform: translate(-50%,-45%);
-  }
-
-  img.portrait
-  {
-    width: 150%;
-    max-width: 150%;
-    height: auto;
   }
 
   span p
