@@ -38,7 +38,7 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [
-            { "id": "sylvans",                 "display": "Sylvans",              "card": "Sylvan Komushroomo" },            
+            { "id": "sylvans",                 "display": "Sylvans",              "card": "Sylvan Komushroomo" }            
         ] 
     },
     {
