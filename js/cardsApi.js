@@ -1,7 +1,7 @@
 /* 
  * This API is used to access a card's data
  */ 
-var CardsAPI = { 
+function CardsAPI() { 
 
     /*
      * This function searches a given card name and returns its information
@@ -13,7 +13,7 @@ var CardsAPI = {
      * @return Card An object containing the information, if available (if not, the 
      *              object will be null)  
      */  
-    search: function(cardName, callback) {
+    this.search = function(cardName, callback) {
         let websiteLink = getWebsiteLink();
 
         let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
@@ -59,7 +59,58 @@ var CardsAPI = {
 
             callback(card);    
         });
-    }
+    },
+
+    /*
+     * This function iterates through each image on the page and updates its
+     * 'src' location depending on an array of card names that need a localized
+     * image.
+     */  
+    this.setImageFilters = function() {
+        var self = this;
+        $('img').each(function( index, element ) {
+            if($(element).attr('src') != undefined && $(element).attr('src').includes('https://images.weserv.nl/?url=yugiohprices.com/api/card_image/')) {
+                var slicedSrc = $(element).attr('src').replace("https://images.weserv.nl/?url=yugiohprices.com/api/card_image/", "").replace("&il", "");
+                var cardName = decodeURIComponent(slicedSrc);
+                var updatedURL = self.getImageURL(cardName);
+                if(updatedURL != $(element).attr('src')) {
+                    $(element).attr('src', updatedURL);
+                }
+            }
+        });
+    },
+
+    /*
+     * This function returns a URL to obtain an image from, given a 
+     * card name. 
+     * 
+     * @param cardName Name of the card
+     * 
+     * @return String URL of the for the image
+     */ 
+    this.getImageURL = function( cardName ) {
+        for(var index = 0; index < this.filters.length; index++) {
+            if(this.filters[index].name == cardName) {
+                return this.filters[index].customURL;
+            }    
+        }    
+
+        return "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(cardName) + '&il';
+    },
+
+    /*
+     * List of card image that need to be updated due to its 
+     * incorrect image from the default server 
+     * 
+     * name Name of the card
+     * customURL String representation of the URL to obtain this image from
+     */ 
+    this.filters = [
+        {
+            name: "Enchanted Javelin",
+            customURL: "/img/assets/enchantedJavelin.jpg"
+        }
+    ]
 };
 
 /*

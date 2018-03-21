@@ -136,7 +136,7 @@ function obtainCardInformationForMobile( instance, current ) {
 		cardName = decodeURIComponent(cardNameEnc);
 	}
 	
-	var card = CardsAPI.search(cardName, displayCardInformationForMobile);
+	var card = new CardsAPI().search(cardName, displayCardInformationForMobile);
 };
 
 function displayCardInformationForMobile( card ) {	
@@ -151,7 +151,7 @@ function displayCardInformationForMobile( card ) {
 		$('.fancybox-loading').hide();
 		$('#cardFancybox').removeClass('hideSkillContainer');
 	});
-	$('#cardImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(card.name) + "&il");
+	$('#cardImage').attr('src', new CardsAPI().getImageURL(card.name));
 	$('#cardName').html(card.name);
 	if(card.attribute.length > 0) {
 		$('#cardAttribute').html('Attribute: ' + card.attribute);
@@ -283,7 +283,7 @@ function obtainTextForDesktops( event, api ) {
 		let name = (this).attr('alt');
 		let nameDecoded = decodeURIComponent(name);
 
-		CardsAPI.search(nameDecoded, displayTextForCardsOnDesktops(api));
+		new CardsAPI().search(nameDecoded, displayTextForCardsOnDesktops(api));
 		return "Loading card...";
 	}
 	else if(type == "skillPopup") {
@@ -306,7 +306,7 @@ function displayTextForCardsOnDesktops( api ) {
 		else {
 			clone.find('#cardDesktopRarity').hide();
 		}
-		clone.find('#cardDesktopImage').attr('src', "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(card.name) + "&il");
+		clone.find('#cardDesktopImage').attr('src', new CardsAPI().getImageURL(card.name));
 		clone.find('#cardName').html(card.name);
 		if(card.attribute.length > 0) {
 			clone.find('#cardAttribute').html('Attribute: ' + card.attribute);

@@ -5,7 +5,9 @@ $(document).ready(function()
 
     $('.carousel').carousel({
         interval: false
-    })
+    });
+
+    setImageFilter();
 });
 
 function ExecuteOnReadyFunctions()
@@ -74,8 +76,13 @@ function getWebsiteLink() {
     }
     return websiteLink;
 }
+
 //menubutton script
 function toggleChange(elem)
-        {
-            elem.classList.toggle("change");
-        }
+{
+    elem.classList.toggle("change");
+}
+
+function setImageFilter() {
+    new CardsAPI().setImageFilters();
+}
