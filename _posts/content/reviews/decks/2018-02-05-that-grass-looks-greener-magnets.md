@@ -4,8 +4,8 @@ date: 2018-02-05
 title: "Deck Review: That Grass Looks Greener - Magnets"
 author: boddity77
 image: /img/content/guides/grass.png
-category: deck-review
-pinned: false
+category: review
+sub-category: deck
 comments: true
 description: Deck review with that grass looks greener and magnets by reddit user boddity77.
 keywords: kog, deck, kog deck, deck review, that grass looks greener, magnets, boddity77

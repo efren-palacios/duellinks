@@ -3,7 +3,8 @@ layout: blog
 date: 2017-9-5 23:56:00 -0600
 title: "Deck Review: Psychics"
 author: Hot Dolphin
-category: deck-review
+category: review
+sub-category: deck
 image: https://i.imgur.com/DEvkHeL.png
 comments: true
 description: Psychics deck review by Hot Dolphin.

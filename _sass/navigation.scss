@@ -62,10 +62,10 @@ li.nav-item > a.nav-link
   color: $text-default;
   text-transform: uppercase;
   font-size: 18px;
-  padding-top: 16px;
+  //padding-top: 16px;
   padding-bottom: 0px;
-  padding-left: 0.8rem !important;
-  padding-right: 0.8rem !important;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
 }
 
 li.nav-item > a.nav-link:hover
@@ -141,7 +141,7 @@ li.nav-item > a.nav-link:focus
 }
 
 // Adjust the navbar at a custom width for word spacing
-@media only screen and (max-width: 887px)
+@media only screen and (max-width: 500px)
 {
   .navbar-expand-md .navbar-toggler {
     display: block;  
@@ -154,7 +154,7 @@ li.nav-item > a.nav-link:focus
       li.nav-item:last-child { margin-bottom: 6px; }
     }
 
-    .navbar-brand  { margin-right: auto !important; margin-left: auto !important; }
+    /*.navbar-brand  { margin-right: auto !important; margin-left: auto !important; }*/
   }
   .navbar-expand-md>.container {
     flex-wrap: wrap;
@@ -217,4 +217,88 @@ li.nav-item > a.nav-link:focus
     -webkit-transform: translate(0px, -11px) rotate(-45deg);
     transform: translate(0px, -11px) rotate(-45deg);
     animation: delayed-fade 0.3s forwards;
+}
+
+.nav-link{
+  padding-top: 0 !important;
+}
+
+
+//fit navbar to screensize
+.navcontent{
+  margin:0 auto;
+  @media (min-width: 560px){
+    display: inline-flex;
+  }
+}
+
+
+//adjust textsize
+
+@media only screen and (max-width: 768px){
+  li.nav-item > a.nav-link {
+  font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 630px){
+  li.nav-item > a.nav-link {
+  font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 604px){
+  li.nav-item > a.nav-link {
+  font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 561px){
+  li.nav-item > a.nav-link {
+  font-size: 18px;
+  }
+  .navbar .navbar-brand{
+    display: table;
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+}
+
+
+
+
+@media (min-width: 562px){
+  .navbar-nav{
+    flex-direction: row;
+  }
+  .containernavbutton{
+    display: none;
+  }
+  .collapse{
+    display: flex!important;
+  }
+}
+
+@media (max-width: 748px){
+  li.nav-item > a.nav-link{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+  }
+
+  .navbar .navbar-brand{
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 578px)and (min-width: 562px){
+  .navbar .navbar-brand > img {
+    height: 32px;
+  }
+}
+
+@media (min-width: 804px){
+  .nav-link{
+    padding-left: 0.8rem !important;
+    padding-right: 0.8rem !important;
+  }
 }
