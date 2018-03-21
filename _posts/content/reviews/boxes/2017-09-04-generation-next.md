@@ -3,7 +3,8 @@ layout: blog
 date: 2017-09-19 10:45:00 -0600
 title: "Box Review: Generation Next"
 author: Dkayed
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/generation-next/preview.jpg
 comments: true
 description: Overview of the generation next box.
