@@ -288,11 +288,11 @@ Beta the Electromagnet Warrior is what I would consider our “bait” for those
 
 ### Cyber Angels / Saffira  
 
-Another favorable matchup. CAffira biggest weakness is that they lack backrow and they’re vulnerable to Enemy Controllers take play. Keep in mind that their only protection for there monsters come from {Hymn of Light}s and {Machine Angel Ritual} in their graveyard. So keep track of those cards before going for the big play.  
+Another favorable matchup. CAffira biggest weakness is that they lack backrow and they’re vulnerable to Enemy Controllers take play. Keep in mind that their only protection for there monsters come from {Hymn of Light} and {Machine Angel Ritual} in their graveyard. Keep track of those cards before going for the big play.  
 
 - WIN CONDITION  
 
-Us being one of the few decks that standardly run 3 Enemy Controllers, the matchup is slightly in our favor. So if a E.Con take play is open for the chance to win, take it.  One more thing to add is that they have difficulty getting over a Gaia. They would need to have a 5600 Attack monster to at least crash with Gaia and with no fear of backrow, Gaia can slowly wear them down.  
+Being one of the few decks that standardly run 3 Enemy Controllers, this matchup is slightly in our favor. If an E.Con take play is open for the chance to win, take it. One more thing to add is that they have difficulty getting over a Gaia. They would need to have a 5600 Attack monster to at least crash with Gaia and with no fear of backrow, Gaia can slowly wear them down.  
 
 * Win Rate: **70%**  
 
@@ -366,6 +366,7 @@ The thing is, summoning Valkyrion isn’t our win condition versus the Endless T
 A matchup that favors the first turn player as it’s a battle to the races on who can bring out their big monsters faster. Each player knows the explosiveness of the e. con. take play so expect a duel vs the mirror match to be fast.
 
 - WIN CONDITION  
+
 Just like any other duel, opening with your main combo is key and obviously going first heavily favors that player. One key play that can change the outcome of the game is to e.con take your opponents electromagnet warrior during their turn and activating its second effect. Your opponent won’t be able to counter the e.con take play using electromagnets effect because it is still their turn. From there, summon your big monsters as fast as you can.  
 
 * Win Rate vs Magnets (going first): **70%**  
