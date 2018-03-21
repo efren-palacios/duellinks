@@ -62,7 +62,6 @@ li.nav-item > a.nav-link
   color: $text-default;
   text-transform: uppercase;
   font-size: 18px;
-  //padding-top: 16px;
   padding-bottom: 0px;
   padding-left: 0.8rem;
   padding-right: 0.8rem;
@@ -263,8 +262,6 @@ li.nav-item > a.nav-link:focus
     margin-left: auto !important;
   }
 }
-
-
 
 
 @media (min-width: 562px){
