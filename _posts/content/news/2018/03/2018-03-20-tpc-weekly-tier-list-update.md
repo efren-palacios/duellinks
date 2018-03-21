@@ -1,17 +1,14 @@
 ---
 layout: blog
 date: 2018-03-20
-title: TPC Weekly Tier List Update
+title: Tier List Update - Week 12, 2018
 author: Top Player Council
 image: /img/content/news/2018/03/tpc-weekly-tier-list-update/tierlist1.jpg
 category: news
 sub-category: tier-list-update
-year: 2018
-week: 13
 comments: true
-hide: true
 description: Check out the Top Player Council's decisions on which decks are the best in the Meta!
-keywords: aliens, red-eyes zombie, rez, fishes, gladiator beasts, dinos, ssa, water, sea stealth attack, cyber angels, ca, magnets, hazy, hazy flame, destiny heroes, tier, tier 1, flying fish
+keywords: aliens, red-eyes zombie, rez, fishes, gladiator beasts, dinos, ssa, water, sea stealth attack, cyber angels, ca, magnets, hazy, hazy flame, destiny heroes, tier, tier 1, flying fish, sylvans
 permalink: /news/march-2018/tier-list-update-week-13/
 ---
 
@@ -20,38 +17,50 @@ permalink: /news/march-2018/tier-list-update-week-13/
 #### TIER 1:
 * [Aliens](/tier-list/aliens/) 
 * [Red-Eyes-Zombies](/tier-list/red-eyes-zombies/) 
+* [Sea Stealth Attack](/tier-list/sea-stealth-attack/)
 
 #### TIER 2:
 * [Fishes](/tier-list/fishes/) 
-* [Gladiator Beasts](/tier-list/gladiator-beasts/) 
-* [Sea Stealth Attack](/tier-list/sea-stealth-attack/) 
 
 #### TIER 3:
 * [Cyber Angels](/tier-list/cyber-angels/) 
 * [Dinos](/tier-list/dinos/) 
 * [Gaia Plate Magnets](/tier-list/magnet-warriors/) 
 * [Hazy Flame](/tier-list/hazy-flame/) 
-* [Snipe Hunter Control](/tier-list/snipe-hunter/) 
+* [Gladiator Beasts](/tier-list/gladiator-beasts/)
+* [Destiny Heroes](/tier-list/destiny-heroes/) (Fusion variant)
 
 #### HIGH POTENTIAL:
-* [Destiny Heroes](/tier-list/destiny-heroes/) 
+* [Sylvans](/tier-list/sylvans/) 
 
 #### DEMOTED:
-* [None](/tier-list/)
+* [Snipe Hunter Control](/tier-list/snipe-hunter/)
 
 <br>
 
 ---
 
-#### NOTES by Taaha:  
-* REZ and Aliens stay in Tier 1. Clear dominance and tops in all tournaments.
-* GB and SSA stay at tier 2. Few GB tops lately and constant water SSA results. Water SSA is still becoming more defined in its core as it proves itself as a top tier deck.
-* Fly Fish has been getting many results lately including first place in All Day Invitational (7 round Swiss -> Single Elim tourney) and first place in last week's Meta Weekly.
-* CA stays at Tier 3 due to significant weaknesses to the Tier 1 decks. Maybe Hey, Trunade can bring CA back to the top?
-* Dinos are still a very powerful deck on paper and have favorable matchups against many of the top tier decks. Although not many representatives of this deck, they still have a solid place in the tier list.
-* Magnets are demoted to Tier 3. The reasoning for this is that other than MiguelJoker, the deck has nearly no results in tournament. Statistics wise, the deck is the same as Dinos in results and thus it has been moved to Tier 3.
-* Hazy and Snipe Hunter Control were reevaluated this week. Hazy has had no representatives in any tournaments since MCS where two players got top 32. TPC has concluded that the deck is still powerful (although with clear weaknesses) but needs more representation in tournaments to fully evaluate. With more players getting access to Swamp Mirrorer, the deck will improve. Snipe Hunter placed 2nd in Will Cup and thus is still in Tier 3 for now. 
-* Destiny Heroes are proving to be a very powerful deck. However, their core is not defined and fully optimal decks are yet to surface. Because of this, two separate channels focusing on DHeroes were created. #dark-city-dheroes and #fusion-dheroes.
+#### NOTES by Taaha and Superforms:  
+
+* Sea Stealth Attack has been promoted to Tier 1 after continually doing extremely well in tournaments, even as the meta has adjusted around it. The most up-to-date builds use {Mythic Depths} as the sole way to get {Umi} (running no ALO) and fall back on {Abyss Soldier}’s and {Citadel Whale}’s strong effects in the event Umi is banished. A tips channel for this deck is coming soon, courtesy of BuiltToTilt.  
+
+* Aliens have been trending downward, although they have remained in Tier 1 this week. Their bad match-ups are getting more popular (SSA in particular) and new decks like Sylvans can give them a lot of trouble.  
+
+* Red-Eyes Zombies continues to perform like a top-tier deck, with the tournament representation and results to back up their Tier 1 standing.  
+
+* Fishes remain in Tier 2, due to continued success in competitive events. In particular, Jason’s innovative strategy of smokescreen siding into Flying Fish from a semi-standard Whale deck has given Flying Fish a unique strength in side-deck formats.  
+
+* Dinos, Gaia Plate Magnets, Cyber Angels, and Hazy Flame have all remained in Tier 3. Dinos, Hazy, and Magnets all placed in the top 8 in a recent 3K tournament, while Cyber Angels have a new toy in {Hey, Trunade!} and match up very well with Sylvans and SSA.  
+
+* Gladiator Beasts have been demoted to Tier 3. GB matches up poorly with SSA and can struggle with Sylvans. Their tournament representation is falling and their results are lacking.  
+
+* Destiny Heroes (Fusion variant) have been promoted to Tier 3 after numerous successful performances in various competitive events.  
+
+* Sylvans have remained in High Potential. Opinions on Sylvans were optimistic, although many members wanted them to prove themselves further in tournaments before they are placed on the tier list.  
+
+* Snipe Hunter Control has been removed from the tier list. This deck has not been seen in recent tournaments and is outclassed by a similar deck in Fishes.  
+
+* This week we have the Meta Weekly on 3/21, the Duel Links Open on 3/23, and the Duel Links Pro Tournament 15 on 3/24. Expect the results of these tournaments to have a strong effect on the tier list.  
 
 ---
 Find out more information by joining the Duel Links Meta Discord [Here](/discord/).  
