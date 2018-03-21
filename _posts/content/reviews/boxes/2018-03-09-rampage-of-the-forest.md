@@ -3,7 +3,8 @@ layout: blog
 date: 2018-03-09
 title: "Box Review: Rampage of the Forest"
 author: Yami Hammy
-category: box-review
+category: review
+sub-category: box
 image: /img/content/box-reviews/rampage-of-the-forest/preview.png
 comments: true
 description: Review of the 'Rampage of the Forest'box. New deck types included with this box are Sylvans as well as insect and plant support.
