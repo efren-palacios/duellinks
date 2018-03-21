@@ -68,7 +68,7 @@ function CardsAPI() {
      */  
     this.setImageFilters = function() {
         var self = this;
-        $('img').each(function( index, element ) {
+        $('.item img.dcards').each(function( index, element ) {
             if($(element).attr('src') != undefined && $(element).attr('src').includes('https://images.weserv.nl/?url=yugiohprices.com/api/card_image/')) {
                 var slicedSrc = $(element).attr('src').replace("https://images.weserv.nl/?url=yugiohprices.com/api/card_image/", "").replace("&il", "");
                 var cardName = decodeURIComponent(slicedSrc);
