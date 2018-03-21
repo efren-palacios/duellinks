@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Red Eyes Zombies Guide - Winter 2018
-author: Insano
+author: Cpt. Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
