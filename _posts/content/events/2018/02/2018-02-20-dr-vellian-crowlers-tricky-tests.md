@@ -3,7 +3,7 @@ layout: blog
 date: 2018-02-24
 title: Dr. Vellian Crowler's Tricky Tests
 author: Freeska
-image: /img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/thumbnail.png
+image: /img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/thumbnail.jpg
 category: event
 ended: true
 comments: true

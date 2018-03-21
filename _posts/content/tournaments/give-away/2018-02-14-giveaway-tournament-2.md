@@ -1,21 +1,19 @@
 ---
 layout: blog
 date: 2018-02-14
-title: Give Away Tournament February 14th
+title: Giveaway Tournament - February 14th
 author: SpoonCats
 category: tournament
 tournament: Give Away
 number: 2
-image: /img/content/tournaments/give-away/2/thumbnail.jpg
+image: /img/content/tournaments/giveaway/thumbnail.jpg
 comments: true
-description: The Give Away tournament report. Check the prize winners and their decks here.
-keywords: tournament, give away, sub benefits
-permalink: /tournaments/give-away/2/report/
+description: The Giveaway tournament report. Check the prize winners and their decks here!
+keywords: tournament, giveaway, sub benefits
+permalink: /tournaments/giveaway/2/report/
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
-![](https://i.imgur.com/RNWrg2E.jpg)
 
 For those of us that had nothing else to do on Valentine's day, DuelLinksMeta held a pre-KC cup Stage 2 subscriber tournament!
 
@@ -27,14 +25,14 @@ For those of us that had nothing else to do on Valentine's day, DuelLinksMeta he
 * Single elimination
 
 ### Prizes
-* 5 Meta weekly tickets *or* Lifetime discord *or* Paid MCS VII invite
+* 5 Meta weekly tickets *or* Lifetime discord *or* Paid MCS VI invite
 * **1st place**: 8 meta ladder points
 * **2nd place**: 5 meta ladder points
 * **Top 4**: 3 meta ladder points
 
 ---
 
-### Top 4 decklists
+### Top 4 Decklists
 
 #### First place: Arctica3
 

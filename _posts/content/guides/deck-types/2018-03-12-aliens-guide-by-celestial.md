@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: aliens
 image: /img/content/guides/aliens-guide-by-celestial/aliens.jpg
-date: 2018-03-12
+date: 2018-03-14
 comments: false
 description: An in depth guide written by Celestial discussing the Alien archetype.
 keywords: alien, aliens, guide, in-depth guide, core cards
@@ -93,6 +93,16 @@ What {Red-Eyes Zombie Dragon} tries to do is swarm the board with zombies and tr
  
 * **Key Cards:** Powerful rebirth to swarm the board and special summon Telepath to destroy Red-Eyes Spirit when you need, Brainwashing Beam to simply take away Red-Eyes Zombie and possibly tribute him. Alien Overlord can be huge since he can put a counters on all your opponent's monsters, putting them under kill threshold and preventing the swarm.
 
+#### **Dinos:**
+Dinos rely on beating you down with their high attack 4* monsters while pinning down your backrow leaving you helpless. What you need to do in this matchup is just get A-counters on a monster. It's that simple. If they have counters you can pop any backrow they have with Telepath or pop a Gyokkou or Xing that has your back row pinned. What tends to be tough in the Dino matchup is the pinning down of "A" Cell Recombination which is why having Alien Warrior consistently give out 2 counters when destroyed is big and also Alien Greys 1 A-counter is another way to pop a back row with Telepath if you're having trouble getting A-counters out. Keep in mind monster removal is big against Dinos because they run few monsters, Put them into a top deck situation.
+ 
+* **Key Cards:** Alien Telepath (destroy the spell or trap they used to pin yours) Alien Warrior (Consistent ways for counters incase they pin down alien recombination) Alien Grey ( One A counter is enough to activate telepaths effect if needed).
+
+#### **Fishes:**
+{Golden Flying Fish} is a card that can destroy any card on the field by tributing one fish on your field, This is the main focus of the deck which is why it has a weakness of bricking because the deck relies on one card. Notable card in the deck is {Oyster Meister}, It will special summon a token when tributed by Golden Flying Fish that can in return be another tribute fodder for Flying Fish. The way to play against this deck is be aggressive as possible and destroy backrow, you don't want a slow game to allow your opponent to draw into a Flying Fish if they didn't open up with it. Get card advantage and Econ take your opponents Flying Fish is a good play if you don't want your opponent destroying a key card on your field. Going first is the best against this deck.
+ 
+* **Key Cards:** Alien Telepath ( To destroy their back row and to stop Rebirth plays before theirs monsters in the graveyard) Enemy Controller ( To econ take a Flying Fish to stop it from destroying a key card) Powerful Rebirth (To summon a monster destroyed by Flying Fish) Alien Kid (To put counters on their special summoned monsters which includes their Powerful Rebirth monsters and any monster special summoned from {Hammer Shark} or {Beautunaful Princess}).
+
 ---
 
 ## Skill Choices  
@@ -150,6 +160,57 @@ Typically, Anti-Magic Arrows}are great for mirror matches since most games are s
 
 * Storm:  
 Storm gives you the ability to open up your backrow in case you have dead Powerful Rebirths or Brainwashing Beams, while simultaneously destroying your opponent's back row. Great for Temple Burn and other backrow heavy decks.
+
+* Snipe Hunter:  
+Snipe hunter is a great tech against cancer builds such as Mill, Stall and Temple burn. Aliens have a severe weakness to burn so being able to wipe out your opponent's field including synergy with powerful rebirth to send monsters to grave and keep in mind you won't get the A-counters by sending Recombination to graveyard by Snipe Hunter but will you will get the effect of searching an Alien your next turn by banishing.
+
+* Fenghuang:  
+Mostly used in the Alien mirror match this card will allow you to destroy their set backrow and come back to your hand during end phase that means fenghuang in most cases don't care about A-Counters. Mirror matches are very stall so this card can pop off multiple times per duel.
+
+* Mirror wall:  
+Powerful card in this meta if {Hey, Trunade!} becomes popular, it stops you from getting OTK'd from Cyber Angels or REZ and allows you to go all out on your following turn.
+
+---
+## Alien Mirror Match Overview
+
+The alien mirror has many confusing scenarios, I will explain to you how to play the mirror and what cards could give you the edge in a best of three side deck tournament format as well as helpful in-depth tips that yourself might not have noticed. In the mirror the main objective is getting your A-counters on your opponent's monsters and attacking safely with crazy stat reductions. How you want to play the mirror is passively and don't be the first to be aggressive. But that being said, in some cases you should be aggressive at the right time such as your opponent has more cards than you and in return will deck you out and also being aggressive is a good play if you have a spicy tech that your opponent isn't expecting. Why being the first to go aggressive generally hurts you is because if they Recombination your monster in your end phase in most cases they will pull off a double Telepath play to snipe two backrow by sending a Telepath to the graveyard and special summoning it from the graveyard by Powerful Rebirth and normal summoning another, This combo is deadly and you will lose card advantage while having a lame duck Alien monster on the field with 2 counters with the stat reduction of 1800 since the -300 attack for each counter and this effect stacks by each Alien monster on field , This includes your opponents Aliens as well. The key is having monsters with zero counters it's easier said than done but you're capable of doing so by using Econ take to get rid of your monster with the counters. This makes you less likely to get OTK'd and allows you to not let your opponents Telepath destroy a backrow you don't want destroyed and also not let your opponent Brainwashing Beam you or special summon an Overlord. Be prepared for a stall mate but eventually things will speed up.
+
+## Best Mirror Match Techs  
+
+Here are some techs that are the best for the mirror match and could single handedly win you the game. While some of these techs are great all around good against any deck but some are mirror match dependant.
+
+
+* Super Rush Headlong:  
+The reason why this is a good tech card since it doesn't care about your attack, you could have zero attack which likely will happen when you have counters but it'll still destroy your opponent's monster. Keep in mind Aliens have different attributes so it can be tricky if they have a 2+ monster board.
+
+* Snipe Hunter:  
+My personal favorite tech for the mirror matches because chances are you and your opponent have been setting and passing for some turns and this gives you a opportunity with Snipe to destroy their whole field since you have a full hand and go for game. Keep in mind you can special summon monsters you discarded.
+
+* Fenghuang:  
+Fenghuang will destroy your opponents set backrow and the key thing about Feng is that it comes back to your hand in end phase so counters mean nothing so they wasted an Alien Recombination if they chained it.
+
+* Crop Circles:  
+Lets you special summon another Alien monster from the deck so it's great if you want to get out a non countered monster.
+
+* Cosmic Cyclone:  
+Great all around tech card against many decks, You can banish a Recombination so they won't have a search for an Alien monster and you can chain to their Powerful Rebirth so they won't get the special summon 
+
+* Anti-Magic Arrows:  
+Anti magic gives you the ability to clear their monsters without worrying about their backrow. This card has surprise factor but its best used when you have an OTK since it doesn't destroy backrow. 
+
+* Xing zhen hu:  
+Just a simple way to lock down set cards since in the mirror you are mostly setting or you can be able to make your opponent activate cards when they dont want.
+
+
+## What Skill Is Best For The Mirror
+
+You would think i'd choose Balance or Restart but no, The best skill for the mirror is Mind Scan and here's why. Most of the time you are setting and no one is being aggressive so even if you brick it doesn't matter, You can set and wait while knowing opponents backrow and playing around them. You'll be able to hit your Xing Zhen Hu, Cosmic Cyclone and Snipe hunter on the right back row. Most mirror matches players lose because of surprise factor so having Mindscan and being prepared is huge.
+
+|  Skill:        |Positives|Negatives|
+|:-:             |:-:|:-:|
+|{Mind Scan}   | Being able to see your opponent's back row and play around it or destroy it.| If you brick and you lose more than 1k life, the skill is gone|
+|{Balance}     | You will consistently have back row to set in starting hand with one spell and trap. | Doesn't give you any advantages mid to late game and you must play a specific amount of card types in your deck for it work. |
+|{Restart}   | You can Restart to get a specific tech such as Snipe Hunter or Fenghuang if it isn't in your starting hand. | They will see a surprise tech card in your hand if your opening hand is a brick and you must Restart. |
 
 ---
 

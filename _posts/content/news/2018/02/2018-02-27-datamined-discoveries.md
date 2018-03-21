@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-27
 title: Datamined Discoveries! - February
-author: Spooncats
+author: SpoonCats & Freeska
 image: /img/content/news/2018/02/datamined-discoveries/thumbnail.jpg
 category: news
 comments: true
@@ -13,8 +13,8 @@ permalink: /news/february-2018/datamined-discoveries/
 
 {% include heading.html title=page.title %}
 
-### 27th February Update
-#### By Spooncats
+### **27th February Update**
+#### By SpoonCats
 
 <br>
 
@@ -41,11 +41,11 @@ In addition, the text for what could possibly be the new Chazz Princeton Skill w
 <br>
 <br>
 
-New assets for the upcoming Syrus Truesdale event have been found! This event is likely to be the [new legendary duelist](/news/february-2018/in-game-update-and-upcoming-changes/) that is set to appear at the beginning of March.
+New assets for the upcoming Syrus Truesdale event have been found! This event is likely to be the [new Legendary Duelist](/news/february-2018/in-game-updates/) that is set to appear at the beginning of March.
 
 ### New Cards
 
-Finally, new cards were found in the latest dataine too! You can view the album of leaked cards [here](https://imgur.com/gallery/MZ92t).
+Finally, new cards were found in the latest datamine too!
 
 #### Syrus Truesdale Cards
 
@@ -71,7 +71,7 @@ These cards were also found in the datamine, however it is unknown what they are
 
 ---
 
-### 22nd February Update
+### **22nd February Update**
 #### By Yami Hammy
 
 <br>
@@ -95,8 +95,8 @@ With another maintenance update comes new discoveries; **structure decks** have 
 
 ---
 
-### 11th February Update
-#### By Spooncats & Freeska
+### **11th February Update**
+#### By SpoonCats & Freeska
   
 <br>
 
@@ -109,12 +109,10 @@ The event is expected to start mid to late February.
 
 Files for what appear to be the new cards from the upcoming *Dr. Crowler's Tricky Tests* event have been discovered!
 
-[gallery 2/3](/img/content/news/2018/02/datamined-discoveries/crowler-banner.png, /img/content/news/2018/02/datamined-discoveries/crowler-level-40-rewards.png)
+[gallery 2/3](/img/content/news/2018/02/datamined-discoveries/crowler-banner.png, /img/content/news/2018/02/datamined-discoveries/crowler-level-40-rewards.jpg)
 
 <br>
 <br>
-
-**Note:** The missing card in the image above is {Biofalcon}.
 
 **New** obtainable drop rewards found:
 
@@ -136,14 +134,17 @@ The return of this event has some potentially important factors in the current m
 - 3 copies of {Ancient Gear Golem} will potentially be available.
 - 3 copies of {Ancient Gear Castle} will potentially be available.
 
-**[Superforms](/authors/superforms/)** says: 
+#### **[Superforms](/authors/superforms/)** says:
+
 - A third {Ancient Gear Golem} is interesting, especially now that we get more {Ancient Gear Castle}s too. Of everything coming in this new event, I think triple {Ancient Gear Golem} builds have the most potential to be good.
 Overall I'd say Ancient Gears are still a solid Tier 3 deck.
 
-**[Nix](/authors/nix/)** says:
+#### **[Nix](/authors/nix/)** says:
+
 - Ancient Gears will rise after this KC Cup, take my word for it.
 
-**Brenduke**, an Ancient Gear player who has reached Top 4 and Top 16 in 2 Meta Weeklies, says:
+#### **Brenduke**, an Ancient Gear player who has reached Top 4 and Top 16 in 2 Meta Weeklies, says:
+
 - A third {Ancient Gear Golem} opens up potential for more aggressive builds. The build could also run {Ancient Gear Beast} with {Soul Exchange} and {Fenghuang} support if {Ancient Gear Castle} is added. A third {Ancient Gear Golem} also makes {Spell Gear} (Crowler's Level 40 reward) potentially good but most likely remains a YouTube play.
 
 ### Summary
@@ -154,8 +155,8 @@ This datamine should leave new and old players excited alike. New players will g
 
 ---
 
-### 6th February Update
-#### By Spooncats
+### **6th February Update**
+#### By SpoonCats
 
 <br>  
 

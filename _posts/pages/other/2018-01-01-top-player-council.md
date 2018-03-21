@@ -14,20 +14,21 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-### Current Members - Season 1 (January - March 2018)
+### Current Members - Season 1 (Season 2 begins July 1st)
 
-* [Tutpup](/authors/tutpup) - 2nd place Worlds
-* DrBluePepper
-* Eugen Heidt - YCS Champion, Yugioh TCG
-* itsyoboyeden
-* Kaito
-* [Kayoh](/authors/kayoh)
-* [Kazin_X](/authors/kazin-x)
-* LuisGuada
-* Nix
-* ShinySopheon
-* ShootMyMantlet - 1st Place MCS #2
-* [superforms](/authors/superforms)
-* timmychiew - 1st Place Worlds
-* UnGatoPardo
-* Whybona
+|1st|2nd|3rd|4th|
+| :-- | :-- | :-- | :-- |
+|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+
+|5th|6th|7th|8th|
+| :-- | :-- | :-- | :-- |
+|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+
+|9th|10th|11th|12th|
+| :-- | :-- | :-- | :-- |
+|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+
+|13th|14th|15th|16th|
+| :-- | :-- | :-- | :-- |
+|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+

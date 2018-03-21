@@ -33,9 +33,13 @@ permalink: /box-reviews/primal-burst/
 
 {% include box.html box=site.data.box.primal-burst rarity="N" %}
 
+---
+
 ### Video Review by Dkayed
 
 {% include youtube-video.html url='https://www.youtube.com/watch?v=tEFpdXv4PD4' %}
+
+---
 
 ### Affected Deck Types
 This box affects or creates the following deck types

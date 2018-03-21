@@ -2,18 +2,19 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: /img/pages/events/thumbnail.jpg
+image: /img/pages/events/thumbnail.png
 category: page
 sub-category: main
 order: 5
 comments: false
-date: 2018-03-05 01:29:00 -0600
-description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
+date: 2018-03-17 01:29:00 -0600
+description: Check out active events and how best to farm them as well as events that have happened in the past!
 keywords: event, events, new event, farming, duel assessment, score, farm decks
 permalink: /farming-and-events/
 ---
 
 {% include heading.html title='Active Events' %}
+
 
 <div class="row card-collection">
   {% assign active-events = site.categories.event | where: "ended", false %}
@@ -31,7 +32,7 @@ permalink: /farming-and-events/
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">
-            <small class="text-muted">Last Updated: {{ event.date | timeago }}
+            <small class="text-muted">
               By <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
             </small>
           </div>
