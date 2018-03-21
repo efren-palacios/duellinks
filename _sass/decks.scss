@@ -245,7 +245,9 @@
 
 .desktopPopupImages 
 {
-  padding-right: 0px; 
+  padding-right: 0px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .skilldata
@@ -295,15 +297,19 @@
 
 .reducedmargin{
   p{
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
   }
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .fancybox-slide > div{
-  margin:0 !important;
   padding-top: 1rem !important;
   padding-bottom:0;
   max-height: 100%;
+  width: 100%;
+  max-width: 1080px;
+  margin: 0 auto;
 }
 
 .fancybox-container{
@@ -350,6 +356,10 @@ as the grid from Bootstrap is needed for skill popups---*/
 .fancybox-slide{
   display: flex !important;
   align-items: center !important;
+}
+
+#cardObtain {
+  margin-bottom: 0;
 }
 
 #cardRarity {
