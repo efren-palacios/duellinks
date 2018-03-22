@@ -1,3 +1,6 @@
+require 'liquid'
+require 'uri'
+
 module Jekyll
   module ArrayFilter
     def filter_posts(posts)
@@ -43,6 +46,14 @@ module Jekyll
     end
   end
 end
+
+module URLEncoding
+  def url_encode(url)
+    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+  end
+end
+
+Liquid::Template.register_filter(URLEncoding)
 Liquid::Template.register_filter(Jekyll::DateFilter)
 Liquid::Template.register_filter(Jekyll::StringFilter)
 Liquid::Template.register_filter(Jekyll::ApiFilter)
