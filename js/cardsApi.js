@@ -109,6 +109,10 @@ function CardsAPI() {
         {
             name: "Enchanted Javelin",
             customURL: "/img/assets/enchantedJavelin.jpg"
+        },
+        {
+            name: "Hey, Trunade!",
+            customURL: "/img/assets/heytrunade.jpg"
         }
     ]
 };
