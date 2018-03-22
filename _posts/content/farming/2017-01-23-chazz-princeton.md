@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Chazz Princeton](/img/content/events/chazz.jpg)
-
 ### General Information
 *  Chazz Princeton requires **black** keys to duel at the gate
 * Chazz Princeton will become unlockable after you reach **Stage 6** in Duel World GX
