@@ -15,7 +15,6 @@ permalink: /farming-and-events/
 
 {% include heading.html title='Active Events' %}
 
-
 <div class="row card-collection">
   {% assign active-events = site.categories.event | where: "ended", false %}
   {% for event in active-events %}
@@ -32,8 +31,8 @@ permalink: /farming-and-events/
             <h4 class="card-title">{{event.title}}</h4>
           </a>
           <div class="text-white">
-            <small class="text-muted">
-              By <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
+            <small class="text-muted">Last Updated: {{ event.date | timeago }}
+              by <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
             </small>
           </div>
         </div>
@@ -96,7 +95,7 @@ permalink: /farming-and-events/
           </a>
           <div class="text-white">
             <small class="text-muted">Last Updated: {{ event.date | timeago }}
-              By <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
+              by <b><a class="text-warning" href="/authors/{{event.author}}.html">{{event.author}}</a></b> <!-- TODO: CHECK IF AUTHOR HAS PROFILE FIRST -->
             </small>
           </div>
         </div>

@@ -60,9 +60,10 @@ permalink: /news/march-2018/tier-list-update-week-13/
 
 * Snipe Hunter Control has been removed from the tier list. This deck has not been seen in recent tournaments and is outclassed by a similar deck in Fishes.  
 
-* This week we have the Meta Weekly on 3/21, the Duel Links Open on 3/23, and the Duel Links Pro Tournament 15 on 3/24. Expect the results of these tournaments to have a strong effect on the tier list.  
+* This week we had the [Meta Weekly on 3/21](/tournaments/meta-weekly/12/report/), the Duel Links Open on 3/23, and the Duel Links Pro Tournament 15 on 3/24. Expect the results of these tournaments to have a strong effect on the tier list.  
 
 ---
+
 Find out more by joining the [Duel Links Meta Discord](/discord/).  
 Be sure to check out [Guides](/guides/) and [King of Games Decklists](/top-decks/).  
 Learn more about the [Top Player Council](/top-player-council/) members.   

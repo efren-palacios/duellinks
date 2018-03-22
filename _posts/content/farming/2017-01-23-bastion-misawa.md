@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Bastion Misawa](/img/content/events/baston.png)
-
 ### General Information
 *  Bastion Misawa requires **yellow** keys to duel at the gate
 * Bastion Misawa will become unlockable once you win 50 duels with **3 or less cards** left in your deck

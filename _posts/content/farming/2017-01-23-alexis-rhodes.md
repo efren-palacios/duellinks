@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Alexis Rhodes](/img/content/events/alexis.jpg)
-
 ### General Information
 * Alexis Rhodes requires **blue** keys to duel at the gate
 * Unlock her by reaching stage 11 in Duel World GX
@@ -52,7 +50,7 @@ hide: true
 > **7300 Base DA (Duel Assessment)**
 
 **Strategy**
-* Early game you want to use {The Golden Apples} and {Enchanting Javelin} to activate your Destiny Draw skill and stall until she summons {Cyber Angel Dakini}
+* Early game you want to use {The Golden Apples} and {Enchanted Javelin} to activate your Destiny Draw skill and stall until she summons {Cyber Angel Dakini}
 * Use whatever you can to survive except for {Kiseitai}
 * After she has summoned {Cyber Angel Dakini}, set a {Kiseitai}, {Massivemorph} the monster it latches on to (usually {Cyber Angel Dakini})
 * Only use one {Kiseitai}, save the second for after she destroys the first with the effect of {Cyber Prima}

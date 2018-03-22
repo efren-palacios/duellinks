@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Yami Bakura](/img/content/events/bakura.png)
-
 ### General Information
 
 * Yami Bakura requires **black** keys to duel at the gate
