@@ -41,4 +41,4 @@ Yours for reaching 3400 points is the prosaic {Fossil Tusker}!
 | 5200 Points | 100 Gems |
 | 5800 Points | 20000 Gold |
 
-
+---
