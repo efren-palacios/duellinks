@@ -14,7 +14,13 @@ permalink: /events/march-2018/duel-a-thon/
 
 {% include heading.html title=page.title author=page.author %}
 
+Last updated: 22nd March 
+
 [slider](/img/content/events/2018/03/duel-a-thon/slider.jpg)
+
+### Update
+- From 21st March to the end of the event, the Duel Meter bonus multipler has increased.
+- In addition, the daily Reward will be doubled!
 
 ### Event Information 
 - This event lasts from March 16th - March 26th.
@@ -25,6 +31,8 @@ permalink: /events/march-2018/duel-a-thon/
 
 Yours for reaching 3400 points is the prosaic {Fossil Tusker}!
 ![Card Image](/img/content/events/2018/03/duel-a-thon/card.png)
+
+**You can get 700+ gems in total by attaining all the Daily and Cumulative Rewards!** 
 
 ### Cumulative Rewards
 
@@ -40,5 +48,3 @@ Yours for reaching 3400 points is the prosaic {Fossil Tusker}!
 | 4600 Points | 20000 Gold |
 | 5200 Points | 100 Gems |
 | 5800 Points | 20000 Gold |
-
-
