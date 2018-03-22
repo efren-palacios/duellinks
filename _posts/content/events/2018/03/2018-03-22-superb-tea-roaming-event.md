@@ -56,9 +56,9 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 
 ---
 
-### Farm Decks 
+### Farm Deck
 
-#### Level 40 Farm - created by Jadehex
+#### Level 40 Farm - created by Jadehex (100% Winrate!)
 
 [deck:Elements Unite!](Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Caligo Claw Crow; Union Attack; Union Attack; Union Attack; Spiritualism; Shard of Greed; Shard of Greed; Shard of Greed; Secret Pass to the Treasures; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed)   
 
@@ -77,12 +77,11 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 **Replacements**
 - {Thunder Dragon}, {Shard of Greed}, {Legacy of Yata-Garasu}, {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor)
 - {Caligo Claw Crow} can be replaced for {Blustering Winds}
+- Replace {Spiritualism} and one Draw card with either {Fire Formation - Gyokkou} or {Hey, Trunade!}. Use these to clear the backrow (not Field Spell). Also, it doesn't matter if they're negated as they're 1 for 1
 
-<!--
 **Risks**
-- 
-- 
--->
+- If you follow the method above it's risk free - 100% winrate! 
+
 ---
 
 <a name="40"></a>

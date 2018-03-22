@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Pegasus Banner](/img/content/guides/pegasus.png)
-
 ### General Information
 * Maximillion Pegasus requires **white** keys to duel at the gate
 * Maximillion Pegasus appears at the gate at **stage 13**

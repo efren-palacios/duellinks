@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Ishizu Banner](/img/content/events/ishizu.png)
-
 ### General Information
 * Ishizu Ishtar requires **yellow** keys to duel at the gate
 * Ishizu Ishtar appears at the gate after **summoning LIGHT-attribute monsters** 200 times

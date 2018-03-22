@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Keith Banner](/img/content/events/keith.png)
-
 ### General Information
 * Bandit Keith requires **Red** keys to duel at the gate
 * Bandit Keith appears at the gate after **beating legendary duelists 50 times**

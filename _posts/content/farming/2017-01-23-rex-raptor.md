@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Rex Banner](/img/content/events/rex.png)
-
 ### General Information
 * Rex Raptor requires **yellow** keys to duel at the gate
 * Rex Raptor appears at the gate at **stage 20**

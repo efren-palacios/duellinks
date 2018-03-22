@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Weevil Banner](/img/content/events/weevil.png)
-
 ### General Information
 * Weevil Underwood requires **Green** keys to duel at the gate
 * Weevil Underwood appears at the gate after **beating standard duelists** 100 times

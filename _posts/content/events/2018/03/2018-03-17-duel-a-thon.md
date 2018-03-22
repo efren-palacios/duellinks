@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2000-03-16
+date: 2018-03-16
 title: Duel-A-Thon
 author: Yami Hammy
 image: /img/content/events/2018/03/duel-a-thon/thumbnail.jpg
