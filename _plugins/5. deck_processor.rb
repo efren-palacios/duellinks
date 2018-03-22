@@ -63,6 +63,7 @@ module Jekyll
             deck =
             {
               "name" => file["name"].gsub(" Decks", " Deck"),
+              "top-player-council" => file["tpc"] ? true : false,
               "author" => file["author"],
               "created" => file["date"][0..9],
               "skill" => file["skill"],
