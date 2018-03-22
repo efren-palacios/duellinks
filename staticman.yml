@@ -1,5 +1,5 @@
 allowedFields: [
-  "name",   "author", "skill",  "notes",
+  "name",   "tpc",    "author", "skill",  "notes",
   "main0",  "main1",  "main2",  "main3",
   "main4",  "main5",  "main6",  "main7",
   "main8",  "main9",  "main10", "main11",
