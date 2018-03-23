@@ -15,7 +15,9 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 
 ![banner](/img/content/global/card-trader-banner.png)
 
-## March 23rd Update
+## 23rd March Update
+
+<br>
 
 ![screenshot](/img/content/news/2018/03/card-trader-update/slider-23-03.jpg)
 
@@ -32,7 +34,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 - {Danipon} (R): Has to be destroyed by battle to activate its effect, which is unfortunate. It doesn’t have any great search targets either: {Grasschopper}, {Magical Merchant}, {Man-Eater Bug}; none of which are used in a top-tier deck.
 
 ### Required Items (will update once known)
-- {Super Solar Nutrient}:
+- {Super Solar Nutrient}: 45,000 Gold, 6 SR Jewel, 60 Stone of Spell
 - {Confronting the "C"}:
 - {Danipon}:  
 
@@ -43,7 +45,9 @@ There will be various updates to the Card Trader, read about them in our [In-Gam
 
 ---
 
-## March 7th Update 
+## 7th March Update
+
+<br>
 
 ![screenshot](/img/content/news/2018/03/card-trader-update/slider-07-03.jpg)
 

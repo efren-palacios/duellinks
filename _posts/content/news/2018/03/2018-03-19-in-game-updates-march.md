@@ -14,7 +14,9 @@ permalink: /news/march-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-### **23rd March Update**
+## 23rd March Update
+
+<br>
 
 ### Obtain Jesse Anderson
 
@@ -36,7 +38,9 @@ Here are some key points:
 
 ---
 
-### **20th March Update**
+## 20th March Update
+
+<br>
 
 Phew! Even more announcements, read away! 
 
@@ -54,7 +58,9 @@ Double Gate Keys & Gold Campaign is back, don't forget to claim your Duel Orb x1
 
 ---
 
-### **19th March Update**
+## 19th March Update
+
+<br>
 
 With the new announcements, what has been a fairly mundane month for Duel Links is going out with a bang! 
 
@@ -87,7 +93,9 @@ It's already time for another KC Cup! So if you didn't perform as well as you wa
 
 ---
 
-### **14th March Update**
+## 14th March Update
+
+<br>
 
 ### Sale Underway
 
