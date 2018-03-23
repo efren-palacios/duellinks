@@ -1,0 +1,11 @@
+---
+---
+[
+    {% assign council = site.data.top-player-council %}
+    {% for member in council %}
+    {
+        "name": "{{member[1].name | downcase}}",
+        "active": "{{member[1].active}}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]
