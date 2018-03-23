@@ -13,7 +13,7 @@
 
 {% if deckType.size > 0 %}
 <div class="section">
-    <h3>Latest top decks from {{month[0].name}}</h3>
+    <h3>Latest top decks from {{ month[0].name | capitalize }}</h3>
     <table id="TopDecksTable" class="hover row-links">
         <thead>
             <tr>
