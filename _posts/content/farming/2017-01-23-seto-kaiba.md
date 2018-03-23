@@ -43,35 +43,42 @@ hide: true
 
 
 ### Farm Decks
-***Level 40 farm guide - created by Justin Taylor (last updated: 12/02/2017)***
+
+#### Level 40 Farm - created by Justin Taylor 
+(7300 Base [Duel Assessment](/farming/duel-assessment-score/) - you can get 7800 DA if you manage to get under 1000 LP)
+Last updated: 12/02/2017
 
 [deck:Destiny Draw](Fire King Avatar Yaksha; Gravekeeper's Vassal; Supremacy Berry; Supremacy Berry; Supremacy Berry; Double Summon; Union Attack; Union Attack; Anti-Magic Arrows; Secret Pass to the Treasures; The Golden Apples; The Golden Apples; The Golden Apples; Windstorm of Etaqua; Nutrient Z; Nutrient Z; Nutrient Z; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
-* **7.3k Base DA (Duel Assessment)** can get 7800 if you manage to get under 1000 lp
+**Strategy**
 
-**Strategy:**
 * Try to only use golden apples for tokens of {Vorse Raider}, {Luster Dragon #2} and {Blue-Eyes White Dragon}
 * Kaiba doesn't attack the tokens with {D.D. Warrior}
 * Once you get a BEWD token you just need to protect your life points from his {Enemy Controller} tribute-take play
 
-**Last turn:** 
-		1. Use {Double Summon}
-		2. Summon {Gravekeeper's Vassal} + {Fire King Avatar Yaksha}
-		3. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
-		4. Activate {Anti-Magic Arrows} at the start of the Battle Phase
-		5. Attack directly 
+**Last Turn** 
+
+1. Use {Double Summon}
+2. Summon {Gravekeeper's Vassal} + {Fire King Avatar Yaksha}
+3. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
+4. Activate {Anti-Magic Arrows} at the start of the Battle Phase
+5. Attack directly 
 	
 **Replacements**
+
 * Yaksha can be replaced with any 1650+ attack beater 
 * Anti-Magic Arrows can be replaced with {Storm}
 
-***Skill-Less Level 40 farm - created by Justin Taylor (last updated: 12/02/2017)***
+---
 
-[deck:Labyrinth Builder](Des Kangaroo; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Big Koala; Polymerization; Gift of the Martyr; Secret Pass to the Treasures; Chivalry; Chivalry; Chivalry; Desert Sunlight; Windstorm of Etaqua; Magnet Force; Magnet Force; Magnet Force; Riryoku Field; Riryoku Field; Riryoku Field; Master of Oz)
+#### Skill-Less Level 40 Farm - created by Justin Taylor 
+(6600 Base [Duel Assessment](/farming/duel-assessment-score/))
+Last updated: 12/02/2017
 
-- **6.6k base DA** - not as consistent as the other version
+[deck:Labyrinth Builxder](Des Kangaroo; Crystal Seer; Crystal Seer; Crystal Seer; Piranha Army; Big Koala; Polymerization; Gift of the Martyr; Secret Pass to the Treasures; Chivalry; Chivalry; Chivalry; Desert Sunlight; Windstorm of Etaqua; Magnet Force; Magnet Force; Magnet Force; Riryoku Field; Riryoku Field; Riryoku Field; Master of Oz)
 
 **Strategy**
+
 * Summon {Labyrinth Wall} with your skill
 * To avoid Enemy Controller, we have {Riryoku Field}, {Desert Sunlight}, and {Windstorm of Etaqua}
 * To avoid D.D. Warrior, we have {Chivalry} and {Magnet Force}
@@ -79,12 +86,15 @@ hide: true
 * Try to keep at least 1 D.D. warrior counter and 1 Econ counter on the field (unless Kaiba has used them all)
 
 **Last Turn** 
-	1. Summon {Master of Oz}
-	2. Summon {Piranha Army} 
-	3. Use {Secret Pass to the Treasures}  on Piranha
-	4. Use {Gift of the Martyr} to tribute Master of Oz and give it to Piranha
-	5. Attack directly
+
+1. Summon {Master of Oz}
+2. Summon {Piranha Army} 
+3. Use {Secret Pass to the Treasures}  on Piranha
+4. Use {Gift of the Martyr} to tribute Master of Oz and give it to Piranha
+5. Attack directly
  
+---
+
 ### Level 40 Decklist
 
-[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman; Mystic Horseman; Twin-Headed Behemoth; Luster Dragon #2; Blue-Eyes White Dragon; Enemy Controller; Enemy Controller; Twister; Twister; Cost Down; Cost Down)
+[deck](Vorse Raider; Vorse Raider; Vorse Raider; Battle Ox; Battle Ox; Battle Ox; D.D. Warrior; D.D. Warrior; D.D. Warrior; Mystic Horseman; Mystic Horseman; Twin-Headed Behemoth; Luster Dragon 2; Blue-Eyes White Dragon; Enemy Controller; Enemy Controller; Twister; Twister; Cost Down; Cost Down)
