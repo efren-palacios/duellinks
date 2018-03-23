@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-03-22
-title: Superb Téa
+title: SUPERB TÉA
 author: Yami Hammy
 image: /img/content/events/2018/03/superb-tea/thumbnail.jpg
 category: event
@@ -17,6 +17,15 @@ permalink: /events/march-2018/superb-tea/
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
 **Last updated: 22nd March**
+
+### Table of Contents
+- [Event Information](#event-information)
+- [Drop Rewards ](#drop-rewards)
+- [Event Missions](#event-missions)
+- [Top Player Council Thoughts](#top-player-council-thoughts)
+- [Farm Deck](#farm-deck)
+- [Superb Téa Lvl: 40 Decklist](#40)
+- [Duel Awards](#awards)
 
 [slider](/img/content/events/2018/03/superb-tea/slider.jpg)
 
@@ -64,9 +73,8 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 
 **Strategy**
 - Summon {Gate Guardian}
-- Use your draw cards to finish the Duel quicker 
-- Only attack if {Meltiel, Sage of the Sky} is face-up 
-- Don't activate anything that can be countered - [check out her Decklist](#40)
+- If {Meltiel, Sage of the Sky} is face-up on the field **don't** activate any cards until you destroy it
+- Use your draw cards to finish the Duel quicker
 
 **Last Turn** 
 - Activate {Spiritualism} returning her Field Spell ({The Sanctuary in the Sky}) to her hand
@@ -76,8 +84,8 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 
 **Replacements**
 - {Thunder Dragon}, {Shard of Greed}, {Legacy of Yata-Garasu}, {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor)
-- {Caligo Claw Crow} can be replaced for {Blustering Winds}
-- Replace {Spiritualism} and one Draw card with either {Fire Formation - Gyokkou} or {Hey, Trunade!}. Use these to clear the backrow (not Field Spell). Also, it doesn't matter if they're negated as they're 1 for 1
+- {Caligo Claw Crow} can be replaced for {Blustering Winds} (use it on Gate Guardian)
+- Replace {Spiritualism} and one Draw card with either {Fire Formation - Gyokkou} or {Hey, Trunade!}, use them to clear the backrow (it doesn't matter if they're negated as they're 1 for 1)
 
 **Risks**
 - If you follow the method above it's risk free - 100% winrate! 
@@ -85,11 +93,23 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 ---
 
 <a name="40"></a>
+
 ### Superb Téa Lvl: 40 Decklist
 
 [deck](Meltiel, Sage of the Sky; Meltiel, Sage of the Sky; Bountiful Artemis; Bountiful Artemis; Bountiful Artemis; Harvest Angel of Wisdom; Harvest Angel of Wisdom; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Skelengel; Skelengel; Skelengel; Photon Booster; The Sanctuary in the Sky; The Sanctuary in the Sky; Magic Jammer; Divine Punishment; Divine Punishment; Trap Jammer)
 
-<!--
-### Superb Téa Lvl: 30 Decklist
-[deck]()
--->
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+ 
+Take screenshots, when the event is over the person with:
+- The 'best drop' will have their name posted here
+- Most UR/SR cards will have their name posted here
+
+Immortalised forever on DLM!
