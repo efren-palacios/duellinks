@@ -34,7 +34,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 ### Required Items (will update once known)
 - {Super Solar Nutrient}:
 - {Confronting the "C"}:
-- {Danipon}: 
+- {Danipon}:  
 
 ### Card Trader Improvements
 There will be various updates to the Card Trader, read about them in our [In-Game Updates - March](/news/march-2018/in-game-updates/#card-trader-improvements) article!
