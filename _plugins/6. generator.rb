@@ -159,6 +159,7 @@ module Jekyll
           {
             "author" => deck["author"].gsub(/\\/, '\\\\'),
             "name" => deckName.gsub(/\\/, '\\\\'),
+            "top-player-council" => deck["top-player-council"] ? true : false,
             "url" => deck["url"],
             "created" => deck["created"],
             "front" => tiertype["card"],

@@ -57,14 +57,14 @@
                     </div>
                 </div>
             </div>
-            <div class="section" id="moreFiltersContainer">
+            <div class="section" id="moreFiltersContainer" data-bind="css: { hidden: $root.filteredDecksByCouncil().length == 0}">
                 <h4>MORE FILTERS</h4>
                 <div class="row button-row">
                     <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3">
-                        <div class="btn-decktype">
+                        <div class="btn-decktype" data-bind="css: { active: $root.councilFilterActive() }, click: $root.filterByCouncil">
                             <img  class="decktype-card" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/Enemy%20Controller&crop=70,70,15,30&w=100&q=100&il" />
                             <span class="decktype-display">TOP PLAYER COUNCIL</span>
-                            <span class="decktype-count"></span>
+                            <span class="decktype-count" data-bind="text: $root.filteredDecksByCouncil().length"></span>
                         </div>
                     </div>
                 </div>

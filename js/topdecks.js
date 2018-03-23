@@ -16,12 +16,15 @@ function InitializeTopDecksViewModel()
             deckTypes: ko.observableArray(),
             filteredDecks: ko.observableArray(),
             filteredSkills: ko.observableArray(),
+            filteredDecksByCouncil: ko.observableArray(),
 
             activeDeckType: ko.observable(""),
             activeSkill: ko.observable(""),
+            councilFilterActive: ko.observable(false),
 
             defaultDecks: [],
             filteredDecksByType: [],
+            filteredDecksBeforeCouncilFilter: [],
 
             filterByType: function(decktype)
             {
@@ -42,6 +45,11 @@ function InitializeTopDecksViewModel()
                     TopDecksViewModel.activeDeckType(decktype);
                     TopDecksViewModel.activeSkill("");
 
+                    TopDecksViewModel.filteredDecksByCouncil($(filteredDecksByType).filter(function(index, element) {
+                        return element["top-player-council"] === true;
+                    }));
+                    TopDecksViewModel.councilFilterActive(false); 
+
                     ScrollTo("#SkillSelection");
                 }
                 else
@@ -51,6 +59,7 @@ function InitializeTopDecksViewModel()
                     filteredDecksByType = [];
                     TopDecksViewModel.activeDeckType("");
                     TopDecksViewModel.activeSkill("");
+                    TopDecksViewModel.filteredDecksByCouncil([]);
                 }
 
                 TopDecksViewModel.resetPagination();
@@ -67,11 +76,42 @@ function InitializeTopDecksViewModel()
                         
                     TopDecksViewModel.filteredDecks(newDecks);
                     TopDecksViewModel.activeSkill(skill);
+
+                    TopDecksViewModel.filteredDecksByCouncil($(newDecks).filter(function(index, element) {
+                        return element["top-player-council"] === true;
+                    }));
+                    TopDecksViewModel.councilFilterActive(false); 
                 }
                 else
                 {
                     TopDecksViewModel.activeSkill("");
                     TopDecksViewModel.filteredDecks(filteredDecksByType);
+
+                    TopDecksViewModel.filteredDecksByCouncil($(filteredDecksByType).filter(function(index, element) {
+                        return element["top-player-council"] === true;
+                    }));
+                }
+
+                TopDecksViewModel.resetPagination();
+            },
+
+            filterByCouncil: function() {
+                if( !TopDecksViewModel.councilFilterActive() ) {
+                    filteredDecksBeforeCouncilFilter = TopDecksViewModel.filteredDecks();
+
+                    var newDecks = $(TopDecksViewModel.filteredDecks()).filter(function(index, element) {
+                        return element["top-player-council"] === true;
+                    });
+                    newDecks.sort(SortDecks);
+                    TopDecksViewModel.filteredDecks(newDecks);
+
+                    TopDecksViewModel.councilFilterActive(true);   
+                }
+                else {
+                    TopDecksViewModel.filteredDecks(filteredDecksBeforeCouncilFilter);
+                    filteredDecksBeforeCouncilFilter = [];
+
+                    TopDecksViewModel.councilFilterActive(false);  
                 }
 
                 TopDecksViewModel.resetPagination();
