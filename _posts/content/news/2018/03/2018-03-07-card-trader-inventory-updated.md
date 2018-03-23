@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-03-23
+date: 2018-03-23 09:00:00
 title: Card Trader Update - March
 author: Yami Hammy
 image: /img/content/news/2018/03/card-trader-update/thumbnail.jpg

@@ -4,7 +4,7 @@ title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-20
+date: 2018-03-23 07:00:00
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too.  
@@ -13,6 +13,28 @@ permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+### **23rd March Update**
+
+### Obtain Jesse Anderson
+
+After a long, long time we finally get another unlockable duelist - don't spend all your level up Gems in one place!
+
+![image](/img/content/news/2018/03/in-game-updates/image-jesse.jpg)
+
+### Various Improvements
+
+Here are some key points:
+- Character selection screen revamp
+- The Vagabond improvements
+- Ability to set different accessories for each deck (you will no longer be able to set at the Card Studio)
+- Card Trader - all older cards will return 
+- Ability to report opponent and surrender during your opponent's turn
+- Increased carrying capacity of Gold and Stones 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-23-03.jpg)
+
+---
 
 ### **20th March Update**
 
