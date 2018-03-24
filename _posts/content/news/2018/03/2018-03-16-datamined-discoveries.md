@@ -13,7 +13,7 @@ permalink: /news/march-2018/datamined-discoveries/
 
 {% include heading.html title=page.title author=page.author %}
 
-### **16th March Update**
+## 16th March Update
 
 <br>
 
@@ -95,7 +95,7 @@ And lastly a new icon, perhaps summon {Hungry Burger} 100 times? Who knows!
 
 ---
 
-### **9th March Update**
+## 9th March Update
 
 <br>
 

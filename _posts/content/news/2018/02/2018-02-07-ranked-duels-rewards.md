@@ -2,22 +2,20 @@
 layout: blog
 date: 2018-02-07
 title: Ranked Duels Rewards - February 2018
-author: brianhayward88, inzang
+author: Brianhayward88, Inzang
 image: /img/content/news/hexed.png
 category: news
 comments: true
-description: The february 2018 season has started and with that come new duel rewards. Check here for an overview of all the new obtainable cards.
+description: The February 2018 season has started and with that come new duel rewards. Check here for an overview of all the new obtainable cards.
 keywords: news, rewards, ranked duels, ranked duels rewards, february 2018
 permalink: /news/february-2018/ranked-duels-rewards/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-![](https://cdn.discordapp.com/attachments/408795629050003477/410909126651019274/ranked_duels_feb.png)
+### New Cards
 
 ![](https://cdn.discordapp.com/attachments/408795629050003477/410908639885393931/List_of_Cards.PNG)
-
-### New Cards
 
 #### The Light - Hex-Sealed Fusion
 Evaluation - Potential
