@@ -625,7 +625,7 @@ function getCardPositionInArray(arr, cardId) {
 function addCardToDeck(c) {
   let cardIndexInHand = getCardPositionInArray(hand, c);
 
-  decklist.push({
+  decklist.unshift({
     id: hand[cardIndexInHand].id,
     name: hand[cardIndexInHand].name
   });
