@@ -35,8 +35,8 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Required Items (will update once known)
 - {Super Solar Nutrient}: 45,000 Gold, 6 SR Jewel, 60 Stone of Spell
-- {Confronting the "C"}:
-- {Danipon}:  
+- {Confronting the "C"}: 40,000 Gold, 5 SR Jewel, 50 Stone of Earth
+- {Danipon}: 16,000 Gold, 30 R Jewel, 30 Stone of Earth 
 
 ### Card Trader Improvements
 There will be various updates to the Card Trader, read about them in our [In-Game Updates - March](/news/march-2018/in-game-updates/#card-trader-improvements) article!
