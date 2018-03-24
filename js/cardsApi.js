@@ -14,10 +14,8 @@ function CardsAPI() {
      *              object will be null)  
      */  
     this.search = function(cardName, callback) {
-        let websiteLink = getWebsiteLink();
-
-        let cardobtain = axios.get(websiteLink + "/data/cardObtain.json").then(function(r) {
-            return r.data.filter(i => i.name == cardName)[0] || new Error('No Resource')
+        let cardobtain = $.getJSON("/data/cardObtain.json").then(function(r) {
+            return r.filter(card => card.name == cardName)[0] || new Error('No Resource')
         });
         let cardinfo = JSON.parse(sessionStorage.getItem(cardName));
         

@@ -19,19 +19,19 @@ permalink: /box-reviews/primal-burst/
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.primal-burst rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.primal-burst rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.primal-burst rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.primal-burst rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.primal-burst rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.primal-burst rarity="UR" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.primal-burst rarity="N" %}
+{% include box.html box=site.data.card-locations.box.primal-burst rarity="N" %}
 
 ---
 

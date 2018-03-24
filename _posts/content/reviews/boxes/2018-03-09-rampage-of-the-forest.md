@@ -51,19 +51,19 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="R" %}
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="R" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.rampage-of-the-forest rarity="N" %}
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="N" %}
 
 ---
 

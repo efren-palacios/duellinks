@@ -82,19 +82,19 @@ permalink: /box-reviews/resonance-of-contrast/
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.resonance-of-contrast rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.resonance-of-contrast rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.resonance-of-contrast rarity="R" %}
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="R" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.resonance-of-contrast rarity="N" %}
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="N" %}
 
 ---
 
