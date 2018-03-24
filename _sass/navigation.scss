@@ -36,7 +36,8 @@
 
   .navbar-nav
   {
-    text-align: center;   
+    text-align: center;
+    margin-top: 13px;   
 
     .nav-item .nav-link
     {
@@ -63,8 +64,8 @@ li.nav-item > a.nav-link
   text-transform: uppercase;
   font-size: 18px;
   padding-bottom: 0px;
-  padding-left: 0.8rem;
-  padding-right: 0.8rem;
+  padding-left: 0.8rem !important;
+  padding-right: 0.8rem !important;
 }
 
 li.nav-item > a.nav-link:hover
@@ -139,49 +140,9 @@ li.nav-item > a.nav-link:focus
   }
 }
 
-// Adjust the navbar at a custom width for word spacing
-@media only screen and (max-width: 500px)
-{
-  .navbar-expand-md .navbar-toggler {
-    display: block;  
-  } 
-  .navbar
-  {
-    .navbar-nav
-    {
-      li.nav-item > a.nav-link { padding-top: 6px; }
-      li.nav-item:last-child { margin-bottom: 6px; }
-    }
 
-    /*.navbar-brand  { margin-right: auto !important; margin-left: auto !important; }*/
-  }
-  .navbar-expand-md>.container {
-    flex-wrap: wrap;
-  }
-  .navbar-expand-md .navbar-nav {
-    flex-direction: column;
-  }
-  .navbar-expand-md .navbar-collapse.collapse {
-    display: none !important;
-  }
-  .navbar-expand-md .navbar-collapse.collapse.show {
-    display: block !important;
-  }
-  .navbar-expand-md .navbar-collapse.collapsing {
-    display: block !important;
-  }
-  .navbar-expand-md>.container {
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-@media only screen and (min-width: 887px)
-{
-  .navbar-collapse {
-    flex-basis: inherit;
-  }
-}
 
+//menubutton
 @keyframes delayed-fade
 {
   55%  { opacity: 1; }
@@ -223,36 +184,68 @@ li.nav-item > a.nav-link:focus
 }
 
 
-//fit navbar to screensize
-.navcontent{
-  margin:0 auto;
-  @media (min-width: 560px){
-    display: inline-flex;
+//adjust textsize/spacing for mobile
+
+@media only screen and (min-width: 805px)
+{
+  .navbar-collapse {
+    flex-basis: inherit;
   }
 }
 
 
-//adjust textsize
-
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 804px)and (min-width:771px){
+  .navbar-brand{
+    margin-right: 0.8rem !important;
+  }
   li.nav-item > a.nav-link {
-  font-size: 17px;
+  padding-left: 0.6rem !important;
+  padding-right: 0.6rem !important;
   }
 }
 
-@media only screen and (max-width: 630px){
+
+@media only screen and (max-width: 770px)and (min-width:703px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
+  li.nav-item > a.nav-link {
+  font-size: 18px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  
+}
+
+@media only screen and (max-width: 702px) and (min-width:655px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
   li.nav-item > a.nav-link {
   font-size: 16px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  .navbar-nav{
+    margin-top: 10px !important;
   }
 }
 
-@media only screen and (max-width: 604px){
+@media only screen and (max-width: 654px) and (min-width:621px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
   li.nav-item > a.nav-link {
   font-size: 15px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  .navbar-nav{
+    margin-top: 10px !important;
   }
 }
 
-@media only screen and (max-width: 561px){
+@media only screen and (max-width: 620px){
   li.nav-item > a.nav-link {
   font-size: 18px;
   }
@@ -261,10 +254,13 @@ li.nav-item > a.nav-link:focus
     margin-right: auto !important;
     margin-left: auto !important;
   }
+  .navbar-nav{
+    margin-top: 10px !important;
+  }
 }
 
 
-@media (min-width: 562px){
+@media (min-width: 621px){
   .navbar-nav{
     flex-direction: row;
   }
@@ -276,26 +272,9 @@ li.nav-item > a.nav-link:focus
   }
 }
 
-@media (max-width: 748px){
-  li.nav-item > a.nav-link{
-    padding-left: 5px !important;
-    padding-right: 5px !important;
-  }
-
-  .navbar .navbar-brand{
-    margin-right: 0;
-  }
-}
-
-@media (max-width: 578px)and (min-width: 562px){
-  .navbar .navbar-brand > img {
-    height: 32px;
-  }
-}
-
-@media (min-width: 804px){
-  .nav-link{
-    padding-left: 0.8rem !important;
-    padding-right: 0.8rem !important;
+.navcontent{
+  margin:0 auto;
+  @media (min-width: 621px){
+    display: inline-flex;
   }
 }
