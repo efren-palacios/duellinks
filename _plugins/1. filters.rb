@@ -9,6 +9,33 @@ module Jekyll
     def sort_descending(array)
       array.sort.reverse
     end
+    def filter_card_locations(locations)
+      cards = []
+      locations.each do |locationName, locationData|
+        splitName = locationName.split('-')
+        combinedLocationName1 = ""
+        splitNameCount = 1
+        splitName.each do |subSplitName|
+          combinedLocationName1 += subSplitName.capitalize
+          splitNameCount += 1
+          if (splitNameCount <= splitName.length)
+            combinedLocationName1 += " "
+          end
+        end
+        locationData.each do |subLocationName, subLocationData|
+          splitSubName = subLocationName.split('-')
+          combinedLocationName2 = ""
+          splitSubName.each do |coSubSplitName|
+            combinedLocationName2 += coSubSplitName.capitalize + " "
+          end  
+          subLocationData.each do |card|
+            card_hash = { 'name' => card["name"].gsub(/"/, "'"), 'rarity' => card["rarity"], 'obtain' => combinedLocationName2 + combinedLocationName1 }
+            cards.push(card_hash)
+          end 
+        end
+      end
+      return cards
+    end
   end
   module DateFilter
     require 'date'
