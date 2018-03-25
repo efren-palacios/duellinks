@@ -2,7 +2,7 @@
     "deck-type": "Hazy Flame",
     "created-by": "Superforms",
     "modified-by": "Superforms",
-    "modified-on": "2018-01-21",
+    "modified-on": "2018-03-24",
     "profile": "Superforms",
     "sections":
     [
@@ -12,8 +12,11 @@
             "blocks":
             [
                 {
-                    "paragraph": "Hazy Flame decks are strong for a few reasons:  The main monster, {Hazy Flame Sphynx}, can constantly bring out new monsters to keep your front-row strong;  all Hazy Flame monsters are immune from your opponent's targeted effects ( {Enemy Controller}, {Gladiator Beast Murmillo}, {Massivemorph}, etc);  the synergy of single-tribute monsters with {Soul Exchange} means that the deck can thrive against slower decks that do not special summon; and the front-row reinforcements provided by Sphynx work in perfect tandem with the trap {Beast Rising} to produce untargetable monsters with huge attack."
-                }   
+                    "paragraph": "Hazy Flame decks are strong for a few reasons: The main monster, Hazy Flame Sphynx, can constantly bring out new monsters to keep your front-row strong; all Hazy Flame monsters are immune from your opponent's targeted effects (Enemy Controller, Gladiator Beast Murmillo, Sylvan Marshalleaf, Massivemorph, etc); the synergy of single-tribute monsters with Soul Exchange means that the deck can thrive against slower decks that do not special summon; and the front-row reinforcements provided by Sphynx work in perfect tandem with the trap Beast Rising to produce untargetable monsters with huge attack."
+                },
+                {
+                    "paragraph": "This page is for Hazy decks using Aroma Strategy, since this is the most competitively viable way to play the deck. Alternate builds using Beatdown are very popular on the ladder and are discussed in more detail on the Discord."
+                }     
             ]
         },
         {
@@ -31,18 +34,19 @@
                         "main":
                         [
                             { "name": "Flame Tiger", "amount": "1" },
+                            { "name": "Dynatherium", "amount": "1" },
                             { "name": "Caninetaur", "amount": "2" },
                             { "name": "Hazy Flame Sphynx", "amount": "3" },
                             { "name": "Hazy Flame Cerbereus", "amount": "3" },
                             { "name": "Soul Exchange", "amount": "3" },
-                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "1" },
                             { "name": "Floodgate Trap Hole", "amount": "3" },
                             { "name": "Beast Rising", "amount": "3" }
                         ]                
                     }
                 },
                 {
-                    "paragraph": ""
+                    "paragraph": "MCS VI Top 16 deck from 2much420"
                 }           
             ]
         },
@@ -92,12 +96,10 @@
                             { "name": "Floodgate Trap Hole", "amount": "1" },
                             { "name": "Mirror Wall", "amount": "1" },
                             { "name": "Wall of Disruption", "amount": "1" },
-                            { "name": "Forbidden Chalice", "amount": "1" },
-                            { "name": "Sergeant Electro", "amount": "1" },
-                            { "name": "Fire Formation - Gyokkou", "amount": "1" },
+                            { "name": "Swamp Mirrorer", "amount": "1" },
                             { "name": "Xing Zhen Hu", "amount": "1" },
                             { "name": "Cosmic Cyclone", "amount": "1" },
-                            { "name": "Mausoleum of the Emperor", "amount": "1" }
+                            { "name": "Dynatherium", "amount": "1" }
                         ]
                     }       
                 },
