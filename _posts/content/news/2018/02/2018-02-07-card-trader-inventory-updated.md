@@ -15,8 +15,8 @@ permalink: /news/february-2018/card-trader-inventory-updated/
 
 ![banner](/img/content/global/card-trader-banner.png)
 
-## February 23rd Update 
-### By Yami Hammy 
+## 23rd February Update 
+#### By Yami Hammy 
 
 ![screenshot](/img/content/news/2018/02/card-trader-update/screenshot-feb-23.jpg)
 
@@ -45,8 +45,8 @@ These new cards have potential in existing decks, but there's nothing game chang
 
 ---
 
-## February 7th Update 
-### By Freeska
+## 7th February Update 
+#### By Freeska
 
 ![screenshot](/img/content/news/2018/02/card-trader-update/screenshot-feb-07.jpg)
 

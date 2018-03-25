@@ -2,7 +2,7 @@
     "deck-type": "Red-Eyes Zombies",
     "created-by": "Insano - Red Eyes Expert",
     "modified-by": "Insano - Red Eyes Expert",
-    "modified-on": "2018-01-21",
+    "modified-on": "2018-03-24",
     "profile": "insano",
     "sections":
     [
@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Red-eyes Zombie Dragon is the most versitile deck in the meta and one of the most powerful decks in the short history of Yu-Gi-Oh Duel Links. This deck is based on an engine powered by the multiple effects of it's boss monster, Red-Eyes Zombie Dragon and it's most imperative zombie monster, Gozuki. This is a very explosive otk deck that uses the best combo card in the game, Red-Eyes insight and the trap card, red-eyes spirit to flood the field with powerful 2400 atk/ 2000def monsters. This deck has much room for techs and powerful staple cards suck as enemy controller which helps it counter any weakness it may have."
+                    "paragraph": "Rez is a tier 1 deck because it is the most versitile deck in the game since the day it came out. Rez can keep it's core cards and adapt to the meta as the meta evolves each month. The decks main engine revloves around gozuki, the most important card of the deck next to red-eyes Zombie. The deck can be played two ways, as an agressive otk deck, or an semi agressive control deck depending on the techs you run in the deck. For example a rez deck that has only anti back row and 3 Econs besides it's core cards, is built for otk, the Rez decks that run wall of disruption, mirror walls, snipe Hunter and other techs, run more like a control deck. Both versions of this deck dominate in competitive Tournaments as well as the latter on DL pvp. The biggest draw back of this deck is it's ability to start you off with completely unplayable hands, this doesn't happen too often but happens often enough to make us Rez players pull the hair out of our heads.."
                 }   
             ]
         },
@@ -32,15 +32,14 @@
                         [
                             { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
                             { "name": "Gozuki", "amount": "3" },
-                            { "name": "Red-Eyes Wyvern", "amount": "1" },
                             { "name": "Samurai Skull", "amount": "2" },
                             { "name": "Bacon Saver", "amount": "1" },
                             { "name": "Red-Eyes Insight", "amount": "2" },
+                            { "name": "Cosmic Cyclone", "amount": "1" },
                             { "name": "Storm", "amount": "2" },
-                            { "name": "Super Rush Headlong", "amount": "2" },
-                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Enemy Controller", "amount": "3" },
                             { "name": "Red-Eyes Spirit", "amount": "2" },
-                            { "name": "Curse of Anubis", "amount": "1" }
+                            { "name": "Wall of Disruption", "amount": "2" }
                         ]                
                     }
                 },
@@ -110,13 +109,22 @@
             [
                 {
                     "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
-                }   
+                },
+                {
+                    "paragraph": "- In the mirror, save your Bacon Saver, protection, and other protective backrow to protect your Red-Eyes Zombie unless you absolutely have to use it to save your level 4s."
+                },
+                {
+                    "paragraph": "- Always Cosmic Cyclone the Umi/ Legendary Ocean field spell during your turn or on their battle phase so they cannot just put another on out their and Cosmic Cyclone the field spell over the trap because the trap is dead without umi and also clogs their backrow."
+                },
+                {
+                    "paragraph": "- Against aliens set monsters with wod so they cannot put counters on your faceups, and they will always flood the field with aliens so wod is your best friend in this match up, if they do get those counters on your mons, econ take their aliens to throw away your monster with the counters."
+                }
             ]
         }
     ],
     "guides": 
     [
-        "red-eyes-zombies-guide-by-insano"
+        "/guides/deck-types/red-eyes-zombies-guide-by-insano/"
     ],
     "videos": 
     [

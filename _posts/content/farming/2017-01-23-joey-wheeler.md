@@ -45,48 +45,54 @@ hide: true
 
 
 ### Farm Decks
-***Skill-less level 40 farm - created by Justin Taylor (last updated: 12/02/2017)***
+
+#### Skill-less level 40 farm - created by Justin Taylor (last updated: 12/02/2017
 
 [deck](Mystical Beast of Serket; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Curse of Anubis; Windstorm of Etaqua; Blue-Eyes Ultimate Dragon)
 
-* The deck is more consistent with Draw sense: light, Holy guard, Restart, or Balance.
+**Strategy**
 
-**Strategy:**
 *  Get{The Unhappy Girl} and {Spirit Barrier} on the field as soon as possible
 * Use {Rai-Mei} to search the deck for Unhappy Girl
 * only keep 2 Unhappy Girls on the field, don't summon the 3rd
 * Attack opponent's monsters with Unhappy Girl to lock them down and prevent them from attacking
 
-**Last turn:** 
-		1. Before last turn, tribute 1 Unhappy girl to summon {Mystical Beast of Serket} (make sure {Temple of the Kings} is on the field)
-		2. Use Serket's effect to summon {Blue-Eyes Ultimate Dragon}
-		3. Summon {Gravekeeper's Vassal}
-		4. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
-		6. Attack directly for 9999+ damage
+**Last Turn**
+
+1. Before last turn, tribute 1 Unhappy girl to summon {Mystical Beast of Serket} (make sure {Temple of the Kings} is on the field)
+2. Use Serket's effect to summon {Blue-Eyes Ultimate Dragon}
+3. Summon {Gravekeeper's Vassal}
+4. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
+6. Attack directly for 9999+ damage
 	
 **Replacements:**
 * Blue-eyes can be replaced with {Master of Oz}
+* The deck is more consistent with {Draw sense: Light}, {Holy Guard}, {Restart}, or {Balance}.
 
-***Skill-Less Level 30 turbo farm - created by Jadehex (last updated: 12/02/2017)***
+---
+
+#### Skill-Less Level 30 turbo farm - created by Jadehex (last updated: 12/02/2017
 
 [deck](Red-Eyes Wyvern; Red-Eyes Wyvern; Mystical Beast of Serket; Homunculus the Alchemic Being; Homunculus the Alchemic Being; Homunculus the Alchemic Being; Gravekeeper's Vassal; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Blue-Eyes Ultimate Dragon)
 
-* The deck is more consistent with Draw sense: Light, Draw sense: Wind, Restart, Balance, or LP boost Alpha
-
 **Strategy**
+
 * Summon Homunculus or Wyvern as soon as possible
 * Use Temple of the Kings' effect to draw through your deck with your card draw traps
 * Attack Joey's defense position monsters 
 * Joey can kill one of your beater monsters with {Block Attack} and {Alligator Sword Dragon} , if he does, summon another as soon as possible.
 * Keep one field spot open for Vassal
 
-**Last turn:** 
-		1. Make sure your field has {Mystical Beast of Serket} and one beater summoned
-		2. Tribute Serket and Temple of the Kings for {Blue-Eyes Ultimate Dragon}
-		3. Summon {Gravekeeper's Vassal}
-		4. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
-		5. Attack directly for 9999+ damage
-**Replacements:**
+**Last Turn** 
+
+1. Make sure your field has {Mystical Beast of Serket} and one beater summoned
+2. Tribute Serket and Temple of the Kings for {Blue-Eyes Ultimate Dragon}
+3. Summon {Gravekeeper's Vassal}
+4. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
+5. Attack directly for 9999+ damage
+
+**Replacements**
+
 * Beater monsters must fulfill the following requirements (monsters fulfilling these requirements shown below):
 	* more than **1700** attack
 	* more than **1500** defense (1500 is ok but your beater may lose to {Shield & Sword})
@@ -94,6 +100,8 @@ hide: true
 	
 [deck](Opticlops; Exarion Universe; Skilled Dark Magician; X-Head Cannon; Dark Blade; Dark Blade the Captain of the Evil World; Zure, Knight of Dark World) 
 * Blue-Eyes can be replaced with {Master of Oz}, {Arkana Knight Joker}, {Meteor B. Dragon}, or {B. Skull Dragon}.
+
+---
 
 ### Level 40 Decklist
 

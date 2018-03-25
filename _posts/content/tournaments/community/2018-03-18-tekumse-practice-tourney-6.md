@@ -3,12 +3,12 @@ layout: blog
 title: "Tekumse's Practice Tourney #6 Report"
 author: Yami Hammy
 category: tournament
-tournament: "Tekumse's Practice Tourney #6"
+tournament: "Tekumse's Practice Tourney"
 number: 6
 image: /img/logos/generic-tournament.jpg
 date: 2018-03-18
 comments: true
-description: This is the report for the sixth Practice Tourney hosted by Tekumse, check out the top 4 players and their decks here.
+description: This is the report for the sixth Practice Tourney hosted by Tekumse, check out the top 4 players and their decks here!
 keywords: duel links, competitive, tournament, community, 
 permalink: /tournaments/community/tekumse-practice-tourney/6/report/
 pinned: false
@@ -32,6 +32,8 @@ pinned: false
 
 ---
 
+### Top 4 Decklists (Main + Side Deck)
+
 #### 1st Place - AimerG
 
 [deck:Mythic Depths](Hammer Shark; Hammer Shark; Hammer Shark; Needle Sunfish; Beautunaful Princess; Oyster Meister; Oyster Meister; Oyster Meister; Golden Flying Fish; Golden Flying Fish; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Enemy Controller; Fish Depth Charge; Mirror Wall; Mirror Wall; Powerful Rebirth)
@@ -50,7 +52,7 @@ pinned: false
 
 --- 
 
-#### 3rd/4th Place - Celestial0
+#### 3rd-4th Place - Celestial0
 [deck:Restart](Sphere Kuriboh; Sphere Kuriboh; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
 
 ***Side Deck:***
@@ -58,7 +60,7 @@ pinned: false
 
 ---
 
-#### 3rd/4th Place - Milliardosama
+#### 3rd-4th Place - Milliardosama
 
 [deck:Duel, standby!](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Hey, Trunade!; Hey, Trunade!; Hey, Trunade!; Machine Angel Absolute Ritual; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Sprite's Blessing; Sprite's Blessing; Sprite's Blessing)
 

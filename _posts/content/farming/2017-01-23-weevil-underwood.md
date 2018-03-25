@@ -16,8 +16,6 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Weevil Banner](/img/content/events/weevil.png)
-
 ### General Information
 * Weevil Underwood requires **Green** keys to duel at the gate
 * Weevil Underwood appears at the gate after **beating standard duelists** 100 times
@@ -44,49 +42,52 @@ hide: true
 | {Gokibore} | N
 
 ### Farm Decks
-***Level 40 farm - created by Justin Taylor***
+
+#### Level 40 farm - created by Justin Taylor
+(8000 Base [Duel Assessment](/farming/duel-assessment-score/) - just keep destroying his monsters with {Gate Guardian} to achieve the 'Destroy 5/7/10' monsters achievement)
 
 [deck:Elements Unite!](Blue Dragon Summoner; Blue Dragon Summoner; Blue Dragon Summoner; Gravekeeper's Vassal; Neo the Magic Swordsman; Rogue Doll; Rogue Doll; Rogue Doll; Wonder Wand; Wonder Wand; Wonder Wand; Double Summon; Union Attack; Union Attack; Secret Pass to the Treasures; Common Charity; Common Charity; Common Charity; Jar of Greed; Jar of Greed)
 
-
-* **8k DA (Duel Assessment)** just keep destroying their monsters with {Gate Guardian} to achieve the "destroy 5/7/10" monsters achievement
-* **Skill:** Elements Unite! (Paradox Brothers)
-
-**Last turn:** 
-		1. Use {Double Summon}
-		2. Summon {Gravekeeper's Vassal} + another monster
-		3. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
-		4. Attack directly for 9999+ damage
+**Last Turn** 
+		
+1. Use {Double Summon}
+2. Summon {Gravekeeper's Vassal} + another monster
+3. Use {Secret Pass to the Treasures} and both {Union Attack} on Vassal 
+4. Attack directly for 9999+ damage
 	
 **Replacements**
+
 * If you only have 1 Union Attack replace the 2nd with {Spell Reclamation}
 * For non Union Attack version, swap vassal + UAs and double summon for {Piranha Army}, {Riryoku} and {Gift of the Martyr}
 
-***Skill-Less Level 40 farm - created by Justin Taylor***
+---
+
+#### Skill-Less Level 40 farm - created by Justin Taylor
+(7800 Base [Duel Assessment](/farming/duel-assessment-score/))
 
 [deck](Kaibaman; Kaibaman; Kaibaman; Blue Dragon Summoner; Blue Dragon Summoner; Blue Dragon Summoner; Kidmodo Dragon; Kidmodo Dragon; Kidmodo Dragon; Gravekeeper's Vassal; Blue-Eyes White Dragon; Blue-Eyes White Dragon; Blue-Eyes White Dragon; Fusion Gate; Wonder Wand; Wonder Wand; Wonder Wand; Union Attack; Union Attack; Secret Pass to the Treasures)
 
-* **7 .8k base DA**, for 8k needs 2 glossy cards or 1 prismatic card
-* Not as consistent as farm decks with a determined skill
+**Last Turn**
 
-**Last turn:** 
-		1. Have {Blue-eyes Ultimate Dragon} on the field
-		2. Summon Gravekeeper's Vassal 
-		3. Use Secret Pass to the Treasures and both Union Attack on Vassal 
-		4. Attack directly for 9999+ damage
+1. Have {Blue-eyes Ultimate Dragon} on the field
+2. Summon Gravekeeper's Vassal 
+3. Use Secret Pass to the Treasures and both Union Attack on Vassal 
+4. Attack directly for 9999+ damage
  
 **Replacements**
+
 * You can Swap 1 Union Attack for 1 Spell Reclamation
 * For non Union Attack version, use piranha + martyr + riryoku instead of Vassal and UAs
 
-***Level 30/40 Generic Cerberus Farm - created by Jadehex***
+---
+
+#### Level 30/40 Generic Cerberus Farm - created by Jadehex
+(7100 Base [Duel Assessment](/farming/duel-assessment-score/))
 
 [deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
 
-* **7100 Base DA**
-* Skill can be swapped for Draw Sense: Low Level
+**Strategy**
 
-**Strategy:**
 * Take 1500 Damage To Proc Draw Sense: LIGHT to draw Mythical Beast Cerberus.
 * Summon {Mythical Beast Cerberus} and activate enough spells to reach a "Safe Point" (Enough attack not to be destroyed by opponent's monsters)
 * Keep activating spells until you draw the last card of your deck.
@@ -98,10 +99,20 @@ hide: true
 	*	1x {Twister}
 	*	1x {Pot of Benevolence}
 	
-**Last turn:** 
-		1. On Your Last Turn, use {Stop Defense} and {Riryoku} on one of your opponents Monsters.
-		2. Dump all of your spells in hand (Don't Forget to Hit 100LP)
-		3. Finally, Attack his ATK Position Monster with Cerberus and claim Victory.
+**Last Turn**
+
+1. On Your Last Turn, use {Stop Defense} and {Riryoku} on one of your opponents Monsters.
+2. Dump all of your spells in hand (Don't Forget to Hit 100LP)
+3. Finally, Attack his ATK Position Monster with Cerberus and claim Victory.
+
+**Replacements**
+
+* Skill can be swapped for {Draw Sense: Low Level}.
+* Aside From Cerberus, the **ENTIRE DECK** is essentially replaceable with **any spells**.
+* You need to have either Stop Defense or {Shooting Star Bow Ceal}.
+* As Long as you can still deal over 9999 Damage the rest of the deck can be pretty much any spell.
+
+---
 
 ### Level 40 Decklist
 

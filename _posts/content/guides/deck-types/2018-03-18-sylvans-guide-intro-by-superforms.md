@@ -16,23 +16,23 @@ permalink: /guides/deck-types/sylvans-guide-intro-by-superforms/
 {% include heading.html title=page.title author=page.author %}
 
 
-### Overview:
+### Overview
 
-With Aliens in Abyss Encounters, Konami introduced — for the first time since Naturias — a relatively self-contained, powerful, F2P-friendly deck. In Rampage of the Forest they have graciously continued this trend, giving us Sylvans, another self-contained archetype that relies on no expensive backrow and has strong potential to hit the tier list.  
+With Aliens in [Abyss Encounters](/box-reviews/abyss-encounters/), Konami introduced - for the first time since Naturias - a relatively self-contained, powerful, F2P-friendly deck. In [Rampage of the Forest](/box-reviews/rampage-of-the-forest/) they have graciously continued this trend, giving us Sylvans, another self-contained archetype that relies on no expensive backrow and has strong potential to hit the tier list.  
 
 The Sylvan archetype consists of monsters that excavate and mill cards from the deck. These monsters also have effects when milled, ranging from spot removal, to rearranging the top cards of the deck, to special summoning from the graveyard. Because multiple monsters can be milled at a time by certain Sylvans, the deck is capable of wiping opponents’ fields while swarming in the process. This makes it a threat against a number of top-tier decks, especially those currently in Tier 1 (REZ and Aliens). But despite their strength, Sylvans do have a few significant weaknesses as well.
 	
 ---
 
-#### Sample Deck:  
+#### Sample Deck
 Many members in the Discord have reached KoG with Sylvans already this month. 
-{Restart} is the go-to skill with Sylvans as you want to generally restart for Mushroom, or for Rose + Hermit in specific matchups. Restarting for techs/ECon against decks like Cyber Angels is also a good option. This is a slight variation on one of the KoG decks found in the Discord:  
+{Restart} is the go-to skill with Sylvans as you want to generally Restart for Mushroom, or for Rose + Hermit in specific matchups. Restarting for techs/ECon against decks like Cyber Angels is also a good option. This is a slight variation on one of the KoG decks found in the Discord:  
 
 [deck:Restart](Sylvan Guardioak; World Carrotweight Champion; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Marshalleaf; Sylvan Marshalleaf ;Sylvan Marshalleaf; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; Rose Lover; Rose Lover; Rose Lover; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath; Jar of Avarice)
 
 ---
 
-### Core Cards:  
+### Core Cards 
  
 * 3 × {Sylvan Komushroomo} (Mushroom):  
 This is your typical turn 1 set and your biggest miller. Very valuable when milled as well, destroying any spell/trap card on the field.  
@@ -40,48 +40,50 @@ This is your typical turn 1 set and your biggest miller. Very valuable when mill
 * 3 × {Sylvan Marshalleaf} (Marsh):  
 A nice follow-up summon after stacking your deck (more on that with Hermitree), Marsh also likes being milled to pop a monster.  
 
-* 3 × {Sylvan Hermitree} (Hermit):  
+* 2 × {Sylvan Hermitree} (Hermit):  
 The main boss monster, Hermit mills one every turn (adding resources to your hand in the process) and stacks your deck when milled. This second effect of Hermit is so valuable to the consistency of the deck, allowing you to control what you draw into vs what you mill. A strong turn 3 play (after setting Mushroom turn 1) is to flip up Mushroom, mill a Hermit, stack a Mushroom/Marsh on top of the deck, and the summon Marsh to mill what you stacked.
 
 * 3 × {Rose Lover} (Rose):  
 Serving a simple role in the deck, Rose makes it easy to get Hermitree out. Rose is also great discard fodder for certain tech cards like Divine Wrath or Dark Core.
 
-* 3 × {Enemy Controller} (ECon):  
+* 1 x {Sylvan Guardioak}: (Guard)   
+Similar to Hermit, Guard can stack your deck (from the grave) when milled and can mill every turn when on the field. Although its stack effect is only a single card, milling Guard and Hermit at the same time allows you to push that stacked card deeper into your deck (with Hermit's effect) if you don't want to draw it next turn.
+
+* 1 x {World Carrotweight Champion} (Carrot):  
+A very easy special summon once milled, allowing you to clear a flipped Mushroom or discard a Rose in the process. Works nicely with ECon if he ends up in your hand. Inspiration for vegetable fighters across the globe! 
+
+* 2 × {Enemy Controller} (ECon):  
 A staple for as long as Duel Links has been out, ECon is especially good with Sylvans. It allows you to push for game after clearing backrow with Mushroom or to put Rose into the grave to quickly get out a Hermit. Very versatile card when the tribute-take effect is useful and it is quite often a great option when running Sylvans.  
 
-These are all necessary to play an optimized Sylvan deck. There are other options for building Sylvans, like with {Magical Merchant} and {Raging Mad Plants} as a quick OTK deck; these will likely not be as good once the meta adjusts to the presence of Sylvans.
+These are all highly recommended to play an optimized Sylvan deck, although it is important to keep in mind that the core may evolve slightly as the deck continues to be explored. There are also other options for building Sylvans, like with {Magical Merchant} and {Raging Mad Plants} as a quick OTK deck; these will likely not be as good once the meta adjusts to the presence of Sylvans.
 
 ---
 
-### Tech Cards:  
-A core of 15 cards leaves 5 cards to be filled, and there are number of excellent choices:  
+### Tech Cards 
 
-* 1 x {Sylvan Guardioak} (Guard):  
-Similar to Hermit, Guard can stack your deck (from the grave) when milled and can mill every turn when on the field.  
+A core of 15 cards leaves 5 cards to be filled, and there are number of excellent choices. Beyond additional copies of the core cards (like a third ECon or second and third Guardioak) we also have: 
 
-* 1 - 2 x {World Carrotweight Champion} (Carrot):  
-A very easy special summon once milled, allowing you to clear a flipped Mushroom or discard a Rose in the process. Works nicely with ECon if he ends up in your hand. Inspiration for vegetable fighters across the globe.  
-
-* 1 - 2 x {Sylvan Flowerknight}:  
+* {Sylvan Flowerknight}:  
 An 1800 ATK beater that acts like a baby Hermit, milling on summon only and stacking a single card. A decent choice for more monster-heavy builds.  
 
-* 1 x {Raging Mad Plants}:  
+* {Raging Mad Plants}:  
 Very strong late-game card, giving huge one-time ATK boosts to all your Plants. Borders on being too aggressive, but the game-ending potential is hard to ignore.  
 
-* 1 - 2 x {Jar of Avarice}:  
+* {Jar of Avarice}:  
 Excellent option for recycling your Sylvans, plus gives you a free draw (which is very useful when used in combination with the next three tech options).  
 
-* 1 - 3 x {Divine Wrath}:  
-Stops a large number of monsters dead in their tracks while also giving you a way to get Rose into the grave. The discard cost is almost never an issue as you accumulate resources in hand pretty easily with this deck. A great out vs things that would otherwise give the deck trouble: {Citadel Whale}, {Hazy Flame Sphynx}, {Golden Flying Fish}, {Abyss Soldier}, {Snipe Hunter}, etc. Anything that can deal with a face-down Mushroom without flipping it is a threat and Divine Wrath stops a lot of these threats.  
+* {Divine Wrath}:  
+Stops a large number of monsters dead in their tracks while also giving you a way to get Rose into the grave. The discard cost is almost never an issue as you accumulate resources in hand pretty easily with this deck. A great out vs things that would otherwise give the deck trouble: {Citadel Whale}, {Hazy Flame Sphynx}, {Golden Flying Fish}, {Abyss Soldier}, {Snipe Hunter}, etc. Anything that can deal with a face-down Mushroom without flipping it is a threat and Divine Wrath stops a lot of these threats.
+{Ultimate Providence} is also a budget replacement and has added flexibility (although this is rarely ever needed since monster effects give Sylvans the most trouble).    
 
-* 1 - 2 x {Dark Core}:  
+* {Dark Core}:  
 Mainly a side option against Cyber Angels as an extra way to deal with giant, protected monsters. 
 
-* 1 - 2 x {Monster Reincarnation}:  
+* {Monster Reincarnation}:    
 Great consistency card for getting Hermit out, ideally by discarding a Rose when retrieving Hermit after it’s been milled.  
 
 * {Magical Merchant}:  
-Although Merchant is probably best in a dedicated build rather than teched into a more “standard” Sylvan deck. {Ultimate Providence} is also a budget replacement for Divine Wrath and has added flexibility (although this is rarely ever needed; monster effects give Sylvans the most trouble).  
+Although Merchant is probably best in a dedicated build rather than teched into a more “standard” Sylvan deck.
 
 ---
 
@@ -131,11 +133,17 @@ Using Wrath on a Mushroom is devastating and gives the Sylvan player very few fo
 * {Tribute to the Doomed}:  
 Spot removal of face-down monsters.
 
-* {Different Dimension Ground}:  
+* {Dark World Lightning}:   
+More spot removal of face-down monsters.
+
+* {Different Dimension Ground}:   
 A one-turn stop to all milling activity.
 
 * {Forbidden Graveyard}:  
 A one-turn stop to graveyard effects.
+
+* {Showdown of the Secret Sense Scroll Techniques}:    
+Stops one-time grave effects to slow down Sylvans, but not as devastating as the above options.
 
 * {Armed Sea Hunter}:  
 Only really good in Water decks (which already deal with Sylvans well), Sea Hunter can freely swing into every set monster the Sylvan player throws out.
@@ -145,21 +153,20 @@ Only really good in Water decks (which already deal with Sylvans well), Sea Hunt
 ### Videos & Replays
 Some sample replays against top decks:
 
-* Replay #1 — [REZ](https://streamable.com/thg6p):  
+* [Replay #1 - REZ](https://streamable.com/thg6p):     
 Our opponent opens {Bacon Saver} which is unfortunate, but a Gozuki/Skull wouldn’t have made much of a difference. Divine Wrath helps against the random {D.D. Warrior} and from there the REZ player has no chance.  
 
-* Replay #2 — [Aliens](https://streamable.com/1k2cg):  
+* [Replay #2 - Aliens](https://streamable.com/1k2cg):  
 Hermit’s effect lets us stack a Rose to be milled by Marsh (for Oak) and then we get a great mill from Oak to finish the game.
 
-* Replay #3 — [Cyber Angels](https://streamable.com/ey4d0):  
+* [Replay #3 - Cyber Angels](https://streamable.com/ey4d0):  
 This is against a very sacky (double Dakini + {Hey, Trunade!}) Cyber Angel build and you can see how easily a single Wrath disrupts his entire duel. The boosted {Cyber Angel Benten} is a threat until we luckily mill double Marsh (at which point our opponent doesn’t bother using the grave protection) and stack a Hermit for the final turn.
 
-* Replay #4 — [Flying Fish](https://streamable.com/tmvvy):  
+* [Replay #4 - Flying Fish](https://streamable.com/tmvvy):  
 Although the Fish player gets to go first, we open with a Divine Wrath that ends the duel by itself. And even if our opponent had drawn more backrow, it wouldn’t have mattered since we had so much momentum after our mill on turn 4.
 
+Finally, although this video shows off the {Magical Merchant} build, it is another good introduction into the play style of the archetype.
 
----
+<br>
 
-Finally, although this video shows off the Magical Merchant build, it is another good introduction into the play style of the archetype:
-
-* Check out Dkayed vs Guns [Here](https://youtu.be/ZHjgD2mxQUY).
+{% include youtube-video.html url='https://youtu.be/ZHjgD2mxQUY' %}
