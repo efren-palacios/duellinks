@@ -5,7 +5,7 @@ author: Cpt. Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
-image: /img/content/guides/red-eyes-zombie-guide-winter-2018/red-eyes-zombie.jpg
+image: /img/content/guides/red-eyes-zombie-guide-winter-2018/red-eyes-zombies.jpg
 date: 2018-02-04
 comments: false
 description: 
