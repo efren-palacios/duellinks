@@ -133,7 +133,7 @@ function importDeck(deck) {
 	$('#hand').empty();
 	handleSkill(Phase.DRAW); 
 	handleSkill(Phase.STANDBY); 
-currentDeck = deck
+	currentDeck = deck
 }
 
 /*
@@ -144,9 +144,17 @@ $(function() {
 	refreshDeck(currentDeck);
 	shuffleDeck(decklist);
 	$('#hand').empty();
-	handleSkill(Phase.DRAW); 
+	handleSkill(Phase.DRAW);
+	showExtraDeck();
 })
 
+function showExtraDeck(){
+	if(extradecklist.length==0){
+		$('#playerextradeck').hide();
+		}else{
+		$('#playerextradeck').show();
+	}
+}
 /*
 	* The object 'Phase' represents the time in which a skill needs to occur.
 	* 
@@ -339,388 +347,394 @@ function openDeck(deck, extra = false, grave = false) {
 			of: '#playtest'
 		}
 	})
-	}
+}
+
+function randomCard() {
+	return Math.floor(Math.random() * decklist.length)
+}
+
+function dealHand(i) {
+	addCardToHandDiv(i, 0);
 	
-	function randomCard() {
-		return Math.floor(Math.random() * decklist.length)
-	}
+	addHand(decklist[i].name, decklist[i].id)
 	
-	function dealHand(i) {
-		addCardToHandDiv(i, 0);
-		
-		addHand(decklist[i].name, decklist[i].id)
-		
-		removeCard(i)
-	}
+	removeCard(i)
+}
+
+function dealCard(i) {
+	if (decklist == 0) return;
 	
-	function dealCard(i) {
-		if (decklist == 0) return;
-		
-		addCardToHandDiv(i, 0);
-		
-		addHand(decklist[i].name, decklist[i].id)
-		
-		removeCard(i)
-		
-		if ($('#deckmenu').dialog('isOpen')) {
-			if (decklist == 0) {
-				$('#deckmenu').dialog("close")
-			}
-			openDeck(currentDeck)
-		}
-	}
+	addCardToHandDiv(i, 0);
 	
-	function dealCardFromGrave(position) {
-		addCardToHandDiv(position, graveyardlist[position].extra, true);
-		
-		addHand(graveyardlist[position].name, handCountId);
-		
-		handCountId++;
-		
-		graveyardlist.splice(position, 1);
-		
-		$('#graveyard > img').remove();
-		if(graveyardlist.length > 0) {
-			$('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(graveyardlist[0].name).replace("'", "%27") + "&il' />");
-		}  
-		
-		if(graveyardlist.length == 0) {
-			$('#deckmenu').dialog("close");    
-		}
-		openDeck(currentDeck, false, true);
-	}
+	addHand(decklist[i].name, decklist[i].id)
 	
-	function summonMonsterFromExtra(i) {
-		if (extradecklist > 0) return;
-		
-		$("#source").appendTo("#destination");
-		
-		addCardToHandDiv(i, 1);
-		addHand(extradecklist[i].name, extradecklist[i].id);
-		
-		var destination = $('#playerextradeck').position();
-		$('#cardId' + extradecklist[i].id).css({
-			top: destination.top,
-			left: destination.left,
-			position: 'absolute'
-		});
-		
-		var animDest = $('#center-m-z').position();
-		$('#cardId' + extradecklist[i].id).animate({
-			top: animDest.top - 20,
-			left: animDest.left
-		}, 500);
-		
-		removeCardFromExtra(i);
-		removeCard(i)
-	}
+	removeCard(i)
 	
-	function addCardToHandDiv(i, extra, grave = false) {
-		if(grave) {
-			if(extra == 0)
-			$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
-			else if(extra == 1)
-			$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
+	if ($('#deckmenu').dialog('isOpen')) {
+		if (decklist == 0) {
+			$('#deckmenu').dialog("close")
 		}
-		else {
-			if(extra == 0)
-			$('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&il" /></div>`)
-			else if(extra == 1)
-			$('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&il" /></div>`)
-		}
-		
-		let cardId 
-		if(grave) {
-			cardId = handCountId;
-		}
-		else {
-			cardId = (extra == 1) ? extradecklist[i].id : decklist[i].id;
-		}
-		let nameDom = (extra == 1) ? ('.cardEx' + cardId) : ('.cardMain' + cardId);
-		
-		$(nameDom).css('border', 'none')
-		$(nameDom).draggable({
-			snap: '.testcard-slot',
-			snapMode: 'inner',
-			snapTolerance: '22',
-			stack: '.hand',
-			stop: function() {
-				snappedEvent($(this), extra, snappedToDeck);
-			}
-		});
+		openDeck(currentDeck)
 	}
+}
+
+function dealCardFromGrave(position) {
+	addCardToHandDiv(position, graveyardlist[position].extra, true);
 	
-	function addHand(i, id) {
-		hand.push({
-			id: id,
-			name: i,
-			moved: false
-		});
-	}
+	addHand(graveyardlist[position].name, handCountId);
 	
-	function shuffleDeck(a) {
-		for (let i = a.length - 1; i > 0; i--) {
-			const j = Math.floor(Math.random() * (i + 1));
-			[a[i], a[j]] = [a[j], a[i]];
-		}
-	}
+	handCountId++;
 	
-	function snappedEvent(cardDOM, extra, event) {
-		// Shift the hand, if necessary
-		let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
-		hand[cardIdInHand].moved = true;
-		refreshHand();
-		
-		// Get the center point of the dragged card
-		var cardCenter = getCenterPoint(cardDOM);
-		
-		// Get the player and extra deck card slot elements 
-		var cardSlotElements = $(".testcard-slot");
-		var playerDeckElem;
-		var extraDeckElem;
-		var graveyardElem;
-		$.each(cardSlotElements, function(index, element) {
-			if($(element).children().first().attr('id') == "playerdeck") {
-				playerDeckElem = element;
-			}      
-			if($(element).children().first().attr('id') == "playerextradeck") {
-				extraDeckElem = element;
-			}
-			if($(element).attr('id') == "graveyard") {
-				graveyardElem = element;
-			}
-			if(playerDeckElem && extraDeckElem && graveyardElem) {
-				return false;
-			}
-		});  
-		
-		// Determine if the card's center point is within the player deck area 
-		// (with a 10px buffer for margins)
-		var playerdeckCenter = getCenterPoint($(playerDeckElem));
-		var playerdeckLowerHeight = playerdeckCenter.y - ($(playerDeckElem).height()/2) - 10;
-		var playerdeckUpperHeight = playerdeckCenter.y + ($(playerDeckElem).height()/2) + 10;
-		var playerdeckLowerWidth = playerdeckCenter.x - ($(playerDeckElem).width()/2) - 10;
-		var playerdeckUpperWidth = playerdeckCenter.x + ($(playerDeckElem).width()/2) + 10;
-		var playerdeckCenterInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
-		var playerdeckCenterInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
-		
-		// Add the card to the player deck, if needed
-		if((playerdeckCenterInHeight && playerdeckCenterInWidth) && !extra ) {
-			event(cardDOM, extra, false);  
-			return;  
-		} 
-		
-		// Determine if the card's center point is within the extra deck area 
-		// (with a 10px buffer for margins)
-		var extradeckCenter = getCenterPoint($(extraDeckElem));
-		var extradeckLowerHeight = extradeckCenter.y - ($(extraDeckElem).height()/2) - 10;
-		var extradeckUpperHeight = extradeckCenter.y + ($(extraDeckElem).height()/2) + 10;
-		var extradeckLowerWidth = extradeckCenter.x - ($(extraDeckElem).width()/2) - 10;
-		var extradeckUpperWidth = extradeckCenter.x + ($(extraDeckElem).width()/2) + 10;
-		var extradeckCenterInHeight = (extradeckLowerHeight <= cardCenter.y) && (cardCenter.y <= extradeckUpperHeight);
-		var extradeckCenterInWidth = (extradeckLowerWidth <= cardCenter.x) && (cardCenter.x <= extradeckUpperWidth);
-		
-		// Add the card to the extra deck, if needed
-		if((extradeckCenterInHeight && extradeckCenterInWidth) && extra) {
-			event(cardDOM, extra, false);
-			return;  
-		}
-		
-		// Determine if the card's center point is within the graveyard deck area 
-		// (with a 10px buffer for margins)
-		var graveyardCenter = getCenterPoint($(graveyardElem));
-		var graveyardLowerHeight = graveyardCenter.y - ($(graveyardElem).height()/2) - 10;
-		var graveyardUpperHeight = graveyardCenter.y + ($(graveyardElem).height()/2) + 10;
-		var graveyardLowerWidth = graveyardCenter.x - ($(graveyardElem).width()/2) - 10;
-		var graveyardUpperWidth = graveyardCenter.x + ($(graveyardElem).width()/2) + 10;
-		var graveyardCenterInHeight = (graveyardLowerHeight <= cardCenter.y) && (cardCenter.y <= graveyardUpperHeight);
-		var graveyardCenterInWidth = (graveyardLowerWidth <= cardCenter.x) && (cardCenter.x <= graveyardUpperWidth);
-		
-		// Add the card to the graveyard, if needed
-		if(graveyardCenterInHeight && graveyardCenterInWidth) {
-			event(cardDOM, extra, true);
-			return;  
-		}
-	}
+	graveyardlist.splice(position, 1);
 	
-	function snappedToDeck(cardDOM, extra, grave){
-		let cardId = cardDOM.children().first().attr('id');
-		
-		if(grave) {
-			addCardToGrave(cardId, extra);
-		}
-		else {
-			if(extra) {
-				addCardToExtraDeck(cardId);
-			}
-			else {
-				addCardToDeck(cardId);
-			}
-		}
-		
-		removeCardFromHand(cardId);
-		
-		if($('#deckmenu').dialog('instance')) {
-			if ($('#deckmenu').dialog('isOpen')) {
-				openDeck(currentDeck, extra, grave)
-			}
-		}
-	}
-	
-	function getCenterPoint(div) {
-		var offset = div.offset();
-		var height = div.height();
-		var width = div.width();
-		
-		var x = 0;
-		var y = 0;
-		
-		x = offset.left + (width / 2);
-		y = offset.top + (height / 2);
-		
-		var center = {};
-		center.x = x;
-		center.y = y;
-		return center;  
+	$('#graveyard > img').remove();
+	if(graveyardlist.length > 0) {
+		$('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(graveyardlist[0].name).replace("'", "%27") + "&il' />");
 	}  
 	
-	function refreshHand(){
-		for(i in hand){
-			if(Boolean(hand[i].moved)){
-				let pos = $('#cardId' + hand[i].id).position();
-				$('#hand').append($('#cardId' + hand[i].id));
-				$('#cardId' + hand[i].id).css({
-					top: pos.top,
-					left: pos.left,
-					position: 'absolute'
-				});
-			}
-		}
+	if(graveyardlist.length == 0) {
+		$('#deckmenu').dialog("close");    
+	}
+	openDeck(currentDeck, false, true);
+}
+
+function summonMonsterFromExtra(i) {
+	if (extradecklist > 0) return;
+	
+	$("#source").appendTo("#destination");
+	
+	addCardToHandDiv(i, 1);
+	addHand(extradecklist[i].name, extradecklist[i].id);
+	
+	var destination = $('#playerextradeck').position();
+	$('#cardId' + extradecklist[i].id).css({
+		top: destination.top,
+		left: destination.left,
+		position: 'absolute'
+	});
+	
+	var animDest = $('#center-m-z').position();
+	$('#cardId' + extradecklist[i].id).animate({
+		top: animDest.top - 20,
+		left: animDest.left
+	}, 500);
+	
+	removeCardFromExtra(i);
+	if(extradecklist.length>0){
+		openDeck(currentDeck,true);
+		}else{
+		$('#deckmenu').dialog('close');
+	}
+	showExtraDeck();
+}
+
+function addCardToHandDiv(i, extra, grave = false) {
+	if(grave) {
+		if(extra == 0)
+		$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
+		else if(extra == 1)
+		$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
+	}
+	else {
+		if(extra == 0)
+		$('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&il" /></div>`)
+		else if(extra == 1)
+		$('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&il" /></div>`)
 	}
 	
-	function removeCard(c) {
-		decklist.splice(c, 1)
+	let cardId 
+	if(grave) {
+		cardId = handCountId;
 	}
-	
-	function removeCardFromExtra(c) {
-		extradecklist.splice(c, 1)
+	else {
+		cardId = (extra == 1) ? extradecklist[i].id : decklist[i].id;
 	}
+	let nameDom = (extra == 1) ? ('.cardEx' + cardId) : ('.cardMain' + cardId);
 	
-	function getCardPositionInArray(arr, cardId) {
-		let index = -1;
-		
-		arr.forEach(function(element, i) {
-			if (element.id == cardId) index = i;
-		});
-		
-		return index;
-	}
-	
-	function addCardToDeck(c) {
-		let cardIndexInHand = getCardPositionInArray(hand, c);
-		
-		decklist.unshift({
-			id: hand[cardIndexInHand].id,
-			name: hand[cardIndexInHand].name
-		});
-	}
-	
-	function addCardToExtraDeck(c) {
-		let cardIndexInHand = getCardPositionInArray(hand, c);
-		
-		extradecklist.push({
-			id: hand[cardIndexInHand].id,
-			name: hand[cardIndexInHand].name
-		});
-	}
-	
-	function addCardToGrave(c, extra) {
-		let cardIndexInHand = getCardPositionInArray(hand, c);
-		
-		graveyardlist.unshift({
-			id: hand[cardIndexInHand].id,
-			name: hand[cardIndexInHand].name,
-			extra: extra
-		});
-		
-		$('#graveyard > img').remove();
-		$('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(hand[cardIndexInHand].name).replace("'", "%27") + "&il' />");
-	}
-	
-	function removeCardFromHand(c) {
-		let cardIndexInHand = getCardPositionInArray(hand, c);
-		
-		$('#hand').find('#cardId' + c).remove();
-		
-		hand.splice(cardIndexInHand, 1)
-	}
-	
-	function refreshDeck(deck) {
-		if (deck.length > 0) {
-			decklist = []
-			extradecklist = []
-			hand = []
-			graveyardlist = []
-			
-			// Clear the image from the graveyard, if needed
-			$('#graveyard > img').remove();
-		}
-		
-		let id = 0;
-		
-		for (let i in deck) {
-			for (let j = 0; j < Number(deck[i].amount); j++) {
-				if (deck[i].deck == 0) {
-					decklist.push({
-						id: id,
-						name: deck[i].name
-					})
-					} else if (deck[i].deck == 1) {
-					extradecklist.push({
-						id: id,
-						name: deck[i].name
-					})
-				}
-				
-				id++;
-			}
-		}
-		
-		shuffleDeck(decklist)
-		
-		$(function() {
-			$('#deckcount span').text(decklist.length)
-		})
-	}
-	
-	$('.token').draggable({
-		helper: 'clone',
+	$(nameDom).css('border', 'none')
+	$(nameDom).draggable({
 		snap: '.testcard-slot',
-		snapMode: 'center',
+		snapMode: 'inner',
 		snapTolerance: '22',
-		stack: '.hand'
+		stack: '.hand',
+		stop: function() {
+			snappedEvent($(this), extra, snappedToDeck);
+		}
 	});
-	$('.token').bind('dragstop', function(event, ui) {
-		$(this).after($(ui.helper).clone().draggable().addClass('tokencopy'));
+}
+
+function addHand(i, id) {
+	hand.push({
+		id: id,
+		name: i,
+		moved: false
+	});
+}
+
+function shuffleDeck(a) {
+	for (let i = a.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		[a[i], a[j]] = [a[j], a[i]];
+	}
+}
+
+function snappedEvent(cardDOM, extra, event) {
+	// Shift the hand, if necessary
+	let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
+	hand[cardIdInHand].moved = true;
+	refreshHand();
+	
+	// Get the center point of the dragged card
+	var cardCenter = getCenterPoint(cardDOM);
+	
+	// Get the player and extra deck card slot elements 
+	var cardSlotElements = $(".testcard-slot");
+	var playerDeckElem;
+	var extraDeckElem;
+	var graveyardElem;
+	$.each(cardSlotElements, function(index, element) {
+		if($(element).children().first().attr('id') == "playerdeck") {
+			playerDeckElem = element;
+		}      
+		if($(element).children().first().attr('id') == "playerextradeck") {
+			extraDeckElem = element;
+		}
+		if($(element).attr('id') == "graveyard") {
+			graveyardElem = element;
+		}
+		if(playerDeckElem && extraDeckElem && graveyardElem) {
+			return false;
+		}
+	});  
+	
+	// Determine if the card's center point is within the player deck area 
+	// (with a 10px buffer for margins)
+	var playerdeckCenter = getCenterPoint($(playerDeckElem));
+	var playerdeckLowerHeight = playerdeckCenter.y - ($(playerDeckElem).height()/2) - 10;
+	var playerdeckUpperHeight = playerdeckCenter.y + ($(playerDeckElem).height()/2) + 10;
+	var playerdeckLowerWidth = playerdeckCenter.x - ($(playerDeckElem).width()/2) - 10;
+	var playerdeckUpperWidth = playerdeckCenter.x + ($(playerDeckElem).width()/2) + 10;
+	var playerdeckCenterInHeight = (playerdeckLowerHeight <= cardCenter.y) && (cardCenter.y <= playerdeckUpperHeight);
+	var playerdeckCenterInWidth = (playerdeckLowerWidth <= cardCenter.x) && (cardCenter.x <= playerdeckUpperWidth);
+	
+	// Add the card to the player deck, if needed
+	if((playerdeckCenterInHeight && playerdeckCenterInWidth) && !extra ) {
+		event(cardDOM, extra, false);  
+		return;  
+	} 
+	
+	// Determine if the card's center point is within the extra deck area 
+	// (with a 10px buffer for margins)
+	var extradeckCenter = getCenterPoint($(extraDeckElem));
+	var extradeckLowerHeight = extradeckCenter.y - ($(extraDeckElem).height()/2) - 10;
+	var extradeckUpperHeight = extradeckCenter.y + ($(extraDeckElem).height()/2) + 10;
+	var extradeckLowerWidth = extradeckCenter.x - ($(extraDeckElem).width()/2) - 10;
+	var extradeckUpperWidth = extradeckCenter.x + ($(extraDeckElem).width()/2) + 10;
+	var extradeckCenterInHeight = (extradeckLowerHeight <= cardCenter.y) && (cardCenter.y <= extradeckUpperHeight);
+	var extradeckCenterInWidth = (extradeckLowerWidth <= cardCenter.x) && (cardCenter.x <= extradeckUpperWidth);
+	
+	// Add the card to the extra deck, if needed
+	if((extradeckCenterInHeight && extradeckCenterInWidth) && extra) {
+		event(cardDOM, extra, false);
+		return;  
+	}
+	
+	// Determine if the card's center point is within the graveyard deck area 
+	// (with a 10px buffer for margins)
+	var graveyardCenter = getCenterPoint($(graveyardElem));
+	var graveyardLowerHeight = graveyardCenter.y - ($(graveyardElem).height()/2) - 10;
+	var graveyardUpperHeight = graveyardCenter.y + ($(graveyardElem).height()/2) + 10;
+	var graveyardLowerWidth = graveyardCenter.x - ($(graveyardElem).width()/2) - 10;
+	var graveyardUpperWidth = graveyardCenter.x + ($(graveyardElem).width()/2) + 10;
+	var graveyardCenterInHeight = (graveyardLowerHeight <= cardCenter.y) && (cardCenter.y <= graveyardUpperHeight);
+	var graveyardCenterInWidth = (graveyardLowerWidth <= cardCenter.x) && (cardCenter.x <= graveyardUpperWidth);
+	
+	// Add the card to the graveyard, if needed
+	if(graveyardCenterInHeight && graveyardCenterInWidth) {
+		event(cardDOM, extra, true);
+		return;  
+	}
+}
+
+function snappedToDeck(cardDOM, extra, grave){
+	let cardId = cardDOM.children().first().attr('id');
+	
+	if(grave) {
+		addCardToGrave(cardId, extra);
+	}
+	else {
+		if(extra) {
+			addCardToExtraDeck(cardId);
+		}
+		else {
+			addCardToDeck(cardId);
+		}
+	}
+	
+	removeCardFromHand(cardId);
+	
+	if($('#deckmenu').dialog('instance')) {
+		if ($('#deckmenu').dialog('isOpen')) {
+			openDeck(currentDeck, extra, grave)
+		}
+	}
+}
+
+function getCenterPoint(div) {
+	var offset = div.offset();
+	var height = div.height();
+	var width = div.width();
+	
+	var x = 0;
+	var y = 0;
+	
+	x = offset.left + (width / 2);
+	y = offset.top + (height / 2);
+	
+	var center = {};
+	center.x = x;
+	center.y = y;
+	return center;  
+}  
+
+function refreshHand(){
+	for(i in hand){
+		if(Boolean(hand[i].moved)){
+			let pos = $('#cardId' + hand[i].id).position();
+			$('#hand').append($('#cardId' + hand[i].id));
+			$('#cardId' + hand[i].id).css({
+				top: pos.top,
+				left: pos.left,
+				position: 'absolute'
+			});
+		}
+	}
+}
+
+function removeCard(c) {
+	decklist.splice(c, 1)
+}
+
+function removeCardFromExtra(c) {
+	extradecklist.splice(c, 1)
+}
+
+function getCardPositionInArray(arr, cardId) {
+	let index = -1;
+	
+	arr.forEach(function(element, i) {
+		if (element.id == cardId) index = i;
 	});
 	
-	$('.dice').click(function() {
-		let die = []
-		die[0] = 'https://i.imgur.com/kp4VvpW.png'
-		die[1] = 'https://i.imgur.com/zsG76hB.png'
-		die[2] = 'https://i.imgur.com/3LJiXtf.png'
-		die[3] = 'https://i.imgur.com/Ngbnkkv.png'
-		die[4] = 'https://i.imgur.com/lwEpMt6.png'
-		die[5] = 'https://i.imgur.com/4TZwH9q.png'
-		let output
-		let faceValue = Math.floor(Math.random() * 6);
-		$('#results').hide().html(`<img width="60px" src=${die[faceValue]} />`).fadeIn()
-	})
+	return index;
+}
+
+function addCardToDeck(c) {
+	let cardIndexInHand = getCardPositionInArray(hand, c);
 	
-	$('.coin').click(function() {
-		return (Math.floor(Math.random() * 2) == 0) ? $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/1AJdr5l.png"/>`).fadeIn() : $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/N2dFEVu.png"/>`).fadeIn();
-	})
+	decklist.unshift({
+		id: hand[cardIndexInHand].id,
+		name: hand[cardIndexInHand].name
+	});
+}
+
+function addCardToExtraDeck(c) {
+	let cardIndexInHand = getCardPositionInArray(hand, c);
 	
-	$(document).on("click", ".tokencopy", function() {
-		$(this).remove();
-	})	
+	extradecklist.push({
+		id: hand[cardIndexInHand].id,
+		name: hand[cardIndexInHand].name
+	});
+	showExtraDeck();
+}
+
+function addCardToGrave(c, extra) {
+	let cardIndexInHand = getCardPositionInArray(hand, c);
+	
+	graveyardlist.unshift({
+		id: hand[cardIndexInHand].id,
+		name: hand[cardIndexInHand].name,
+		extra: extra
+	});
+	
+	$('#graveyard > img').remove();
+	$('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(hand[cardIndexInHand].name).replace("'", "%27") + "&il' />");
+}
+
+function removeCardFromHand(c) {
+	let cardIndexInHand = getCardPositionInArray(hand, c);
+	
+	$('#hand').find('#cardId' + c).remove();
+	
+	hand.splice(cardIndexInHand, 1)
+}
+
+function refreshDeck(deck) {
+	if (deck.length > 0) {
+		decklist = []
+		extradecklist = []
+		hand = []
+		graveyardlist = []
+		
+		// Clear the image from the graveyard, if needed
+		$('#graveyard > img').remove();
+	}
+	
+	let id = 0;
+	
+	for (let i in deck) {
+		for (let j = 0; j < Number(deck[i].amount); j++) {
+			if (deck[i].deck == 0) {
+				decklist.push({
+					id: id,
+					name: deck[i].name
+				})
+				} else if (deck[i].deck == 1) {
+				extradecklist.push({
+					id: id,
+					name: deck[i].name
+				})
+			}
+			
+			id++;
+		}
+	}
+	
+	shuffleDeck(decklist)
+	
+	$(function() {
+		$('#deckcount span').text(decklist.length)
+	})
+}
+
+$('.token').draggable({
+	helper: 'clone',
+	snap: '.testcard-slot',
+	snapMode: 'center',
+	snapTolerance: '22',
+	stack: '.hand'
+});
+$('.token').bind('dragstop', function(event, ui) {
+	$(this).after($(ui.helper).clone().draggable().addClass('tokencopy'));
+});
+
+$('.dice').click(function() {
+	let die = []
+	die[0] = 'https://i.imgur.com/kp4VvpW.png'
+	die[1] = 'https://i.imgur.com/zsG76hB.png'
+	die[2] = 'https://i.imgur.com/3LJiXtf.png'
+	die[3] = 'https://i.imgur.com/Ngbnkkv.png'
+	die[4] = 'https://i.imgur.com/lwEpMt6.png'
+	die[5] = 'https://i.imgur.com/4TZwH9q.png'
+	let output
+	let faceValue = Math.floor(Math.random() * 6);
+	$('#results').hide().html(`<img width="60px" src=${die[faceValue]} />`).fadeIn()
+})
+
+$('.coin').click(function() {
+	return (Math.floor(Math.random() * 2) == 0) ? $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/1AJdr5l.png"/>`).fadeIn() : $('#results').hide().html(`<img width="60px" src="https://i.imgur.com/N2dFEVu.png"/>`).fadeIn();
+})
+
+$(document).on("click", ".tokencopy", function() {
+	$(this).remove();
+})	
