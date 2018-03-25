@@ -3,7 +3,7 @@
     "created-by": "Dkayed",
     "modified-by": "Dkayed",
     "modified-on": "2018-03-24",
-    "profile": "Dkayed",
+    "profile": "",
     "sections":
     [
         {
@@ -28,7 +28,7 @@
                 { 
                     "deck":
                     {
-                        "skill": "Master of Magicians",
+                        "skill": "Mythic Depths",
                         "main":
                         [
                             { "name": "Hammer Shark", "amount": "3" },
