@@ -1,15 +1,11 @@
 $('#play').click(function() {
-	$('#playtest').show({
+	$('#playtest').toggle({
 		complete: function() {
 			// Note: Some skills require card position movement, thus
 			// they need access to coordinates after the page has rendered     
 			handleSkill(Phase.STANDBY);
 		}
 	});
-})
-
-$(function() {
-	$('#playtest').hide()
 })
 
 let decklist = []
