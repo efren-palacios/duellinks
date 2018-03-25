@@ -5,7 +5,7 @@ author: Cpt. Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
-image: /img/content/guides/red-eyes-zombie-guide-winter-2018/red-eyes-zombie.jpg
+image: /img/content/guides/red-eyes-zombie-guide-winter-2018/red-eyes-zombies.jpg
 date: 2018-02-04
 comments: false
 description: 
@@ -19,9 +19,7 @@ permalink: /guides/deck-types/red-eyes-zombies-guide-by-insano/
 ![](https://vignette.wikia.nocookie.net/yugioh/images/6/68/RedEyesZombieDragon-TF04-JP-VG.jpg/revision/latest?cb=20121004223833)
 
 ---
-
-**Updated 14 March 2018**
-
+**Updated March 14th, 2018**
 ---
 
 ### Table of Contents
