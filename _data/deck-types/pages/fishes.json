@@ -1,0 +1,127 @@
+{
+    "deck-type": "Fishes",
+    "created-by": "Dkayed",
+    "modified-by": "Dkayed",
+    "modified-on": "2018-03-24",
+    "profile": "Dkayed",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "The Fish deck type revolves around destroying your opponents cards with Golden Flying Fish to gain advantage. "
+                }
+                   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Below you can find Dkayed's King of Games Fish deck."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Master of Magicians",
+                        "main":
+                        [
+                            { "name": "Hammer Shark", "amount": "3" },
+                            { "name": "Beautunaful Princess", "amount": "1" },
+                            { "name": "Oyster Meister", "amount": "3" },
+                            { "name": "Golden Flying Fish", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "3" },
+                            { "name": "Fish Depth Charge", "amount": "1" },
+                            { "name": "Powerful Rebirth", "amount": "3" },
+                            { "name": "Wall of Disruption", "amount": "3" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Golden Flying Fish", "amount": "3" },
+                            { "name": "Oyster Meister", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy controller" },
+                            { "name": "Fish Depth Charge" },
+                            { "name": "Beautunaful Priness" },
+                            { "name": "Wall of Disruption" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        }
+    ],
+    "guides": 
+    [
+        
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=MR2XdBxh5lE&t=275s"
+    ]
+}
