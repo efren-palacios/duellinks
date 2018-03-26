@@ -51,7 +51,7 @@ As we previously discussed in our [Datamined Discoveries](/news/march-2018/datam
 
 ### Obtain Jesse Anderson
 
-After a long, long time we finally get another unlockable duelist - don't spend all your level up Gems in one place!
+After a long, long time we finally get another (new) unlockable duelist - fingers crossed for {Crystal Beast Sapphire Pegasus} as a drop reward!
 
 ![image](/img/content/news/2018/03/in-game-updates/image-jesse.jpg)
 
