@@ -24,8 +24,8 @@ Here are some key points:
 - The KC Cup is starting next week
 - Another Duel-A-Thon
 - Dr. Vellian Crowler will be the newest addition to the gate, as discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#new-gate-duelist) article!
-- Obtain Yami Marik
-- Obtain Arkana
+- Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
+- Battle City event - new skill for Yami Yugi!
 - Elegant Mai will return
 - And finally, character level cap increases - took your time Konami! 
 
