@@ -287,7 +287,6 @@
 {
   margin: 1rem 1rem 1rem .5rem;
   width: 90px;
-  display: flex;
 }
 
 .qtip-dark
@@ -396,6 +395,10 @@ as the grid from Bootstrap is needed for skill popups---*/
 
 #cardName {
   margin-bottom: .5rem;
+}
+
+#desktopPopupForSkills {
+  display: flex;
 }
 
 // Tablet
