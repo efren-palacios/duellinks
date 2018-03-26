@@ -1,6 +1,3 @@
-
-
-
 if (typeof antiabd !== 'undefined'){
 	//alert("no adblock");
     
