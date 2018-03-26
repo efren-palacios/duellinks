@@ -1,7 +1,11 @@
+// TODO: Rename this since the skill API is added? 
+
 /* 
  * This API is used to access a card's data
  */ 
 function CardsAPI() { 
+
+    // TODO: Rename this since the skill API is added? 
 
     /*
      * This function searches a given card name and returns its information
@@ -57,6 +61,41 @@ function CardsAPI() {
 
             callback(card);    
         });
+    },
+
+    /*
+     * This function is used to search for a skill, returning the findings 
+     * through a callback function. 
+     * 
+     * @param skillName - The name of the skill to be searched
+     * @param callback - The function to return the data, once searched
+     * 
+     * @return Skill - Object containing the information of the skill; if 
+     *                 not found, null is returned 
+     */ 
+    this.searchSkill = function(skillName, callback) {
+        $.getJSON(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
+            var skill = new Skill();
+            for(var i = 0; i < response.length; i++) {
+                if(response[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skillName.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()) {
+                    skill.name = response[i].name;
+                    skill.description = response[i].desc;
+                    skill.exclusive = response[i].exclusive;
+                    skill.character = response[i].character;                       
+
+                    break;
+                }
+            }
+            
+            if(skill.name.length == 0) {
+                // Skill not found, return null
+                callback(null);
+            }
+            else {
+                skill.imageURL = getWebsiteLink() + "/img/characters/portrait-" + (skill.exclusive == true ? skill.character.toLowerCase().replace(" ", "-"): 'vagabond') + ".png";
+                callback(skill);
+            }
+        });    
     },
 
     /*
@@ -141,6 +180,25 @@ function Card() {
     this.attack = "";
     this.defense = "";
     this.obtain = "";
+
+    return this;
+}
+
+/*
+ * This object contains a list of parameters for a skill
+ * 
+ * name - Name of the skill
+ * description - Description of the skill  
+ * exclusive - Whether or not this skill is exclusive to a character (true/false)
+ * character - If the skill is exclusive, then this will be the name of the that character (else, empty string) 
+ * imageURL - URL to obtain the image of the skill, depending on its exclusivity
+ */ 
+function Skill() {
+    this.name = "";
+    this.description = "";
+    this.exclusive = false;
+    this.imageURL = "";
+    this.character = "";
 
     return this;
 }
