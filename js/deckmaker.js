@@ -78,48 +78,24 @@ function obtainSkillInformation( instance, current ) {
 	var skill = $(current.opts.$orig).html();
 	
 	// Obtain the skill data
-	let websiteLink = location.protocol + "//" + location.hostname;
-	if(location.port){
-		websiteLink += ":" + location.port;
-	}
-	axios.get(websiteLink + "/data/skillsChars.json").then( function( response ) {
-		displaySkillInformation( response, skill, websiteLink );
-	});
+	new CardsAPI().searchSkill(skill, displaySkillInformation);
 };
 
-function displaySkillInformation( response, skill, websiteLink ) {
-	// Slice the data
-	let characterWhoUses = [];
-	let exclusive = false;
-	let desc = "No description available";
-	let officialName = skill;
-	for(var i = 0; i < response.data.length; i++){
-		if(response.data[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skill.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()){
-			officialName = response.data[i].name;
-			desc = response.data[i].desc;
-			exclusive = response.data[i].exclusive;
-			characterWhoUses.push(response.data[i].character);
-			
-			if(exclusive == true) {
-				break;
-			}
-		}
-	}
-	let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
-	
-	// Update and display the data
-	$('#skillTitle').html(officialName);
-	$('#skillDescription').html(desc);
-	var exclusiveString = (exclusive == true ? 'Skill exclusive to ' + characterWhoUses[0] + '' : 'Skill can be used by different characters.');
-	$('#skillExclusive').html(exclusiveString); 
-	var characterString = websiteLink + "/img/characters/portrait-" + (exclusive == true ? portaitName : 'vagabond') + ".png";
-	$('#characterImage').one("load", function() {
-		resizeSkillInformation();
+function displaySkillInformation( skill ) {	
+	if(skill) {
+		$('#skillTitle').html(skill.name);
+		$('#skillDescription').html(skill.description);
+		var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.character : 'Skill can be used by different characters.');
+		$('#skillExclusive').html(exclusiveString); 
 		
-		$('.fancybox-loading').hide();
-		$('#skillFancybox').removeClass('hideSkillContainer');
-	});
-	$('#characterImage').attr('src', characterString);    
+		$('#characterImage').one("load", function() {
+			resizeSkillInformation();
+			
+			$('.fancybox-loading').hide();
+			$('#skillFancybox').removeClass('hideSkillContainer');
+		});
+		$('#characterImage').attr('src', skill.imageURL); 
+	}   
 };
 
 function resizeSkillInformation() {
@@ -288,9 +264,8 @@ function obtainTextForDesktops( event, api ) {
 	}
 	else if(type == "skillPopup") {
 		let name = $(this).html();
-		axios.get(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
-			displayTextForSkillOnDesktops(response, name, api, getWebsiteLink());
-		});
+		new CardsAPI().searchSkill(name, displayTextForSkillOnDesktops(api));
+
 		return "Loading skill...";
 	}
 };  
@@ -344,35 +319,22 @@ function displayTextForCardsOnDesktops( api ) {
 	};
 };
 
-function displayTextForSkillOnDesktops(r, name, api, websiteLink) {
-	let characterWhoUses = [];
-	let exclusive = false;
-	let desc = "No description available";
-	let officialName = name;
+function displayTextForSkillOnDesktops( api ) {
+	return function(skill) {
+		if(skill) {
+			var clone = $('#desktopPopupForSkills').clone();
 	
-	for(var i = 0; i < r.data.length; i++) {
-		if(r.data[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()){
-			officialName = r.data[i].name;
-			desc = r.data[i].desc;
-			exclusive = r.data[i].exclusive;
-			characterWhoUses.push(r.data[i].character);
-			
-			if(exclusive == true)
-			break;
+			clone.find('#skillName').html(skill.name);
+			clone.find('#skillDescription').html(skill.description);
+	
+			var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.character : 'Skill can be used by different characters.');
+			clone.find('#skillExclusive').html(exclusiveString);
+	
+			clone.find('#previewSkillImage').attr('src', skill.imageURL);
+	
+			api.set('content.text', clone.show()[0]);
 		}
 	}
-	
-	let portaitName = characterWhoUses[0].toLowerCase().replace(" ", "-");
-	
-	api.set('content.text',
-	`<div class="previewSkill"><img src="${websiteLink}/img/characters/portrait-${exclusive == true ? portaitName : 'vagabond'}.png" /></div>
-	<div class="skilldata">
-	<b>${officialName}</b><br/>
-	<p>${desc}</p>
-	${exclusive == true
-	? '<p>Skill exclusive to ' + characterWhoUses[0] + '.</p>'
-	: '<p>Skill can be used by different characters.</p>'}
-	</div>`);
 };
 
 async function tooltipVisible( event, api, self, className ) {
