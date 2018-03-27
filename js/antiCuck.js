@@ -3,5 +3,5 @@ if (typeof antiabd !== 'undefined'){
     
 }else{
     //alert("adblock");
-    window.location = "/adblock/";
+    window.location = "/adb/";
 }
