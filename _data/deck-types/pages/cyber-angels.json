@@ -2,10 +2,20 @@
     "deck-type": "Cyber Angels",
     "created-by": "Negative1",
     "modified-by": "Negative1",
-    "modified-on": "2018-02-07",
+    "modified-on": "2018-03-27",
     "profile": "",
     "sections":
     [
+        {
+            "title": "Change Log",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "March 27th - Sample deck updated."
+                }   
+            ]
+        },
         {
             "title": "Overview",
             "level": 1,
@@ -30,16 +40,17 @@
                         "skill": "Balance",
                         "main":
                         [
-                            { "name": "Saffira, Queen of Dragons", "amount": "3" },
+                            { "name": "Saffira, Queen of Dragons", "amount": "2" },
                             { "name": "Cyber Angel Dakini", "amount": "1" },
                             { "name": "Cyber Angel Idaten", "amount": "1" },
                             { "name": "Cyber Angel Benten", "amount": "3" },
                             { "name": "Senju of the Thousand Hands", "amount": "3" },
                             { "name": "Cyber Petit Angel", "amount": "2" },
+                            { "name": "Hey, Trunade!", "amount": "3" },
                             { "name": "Machine Angel Ritual", "amount": "1" },
                             { "name": "Machine Angel Absolute Ritual", "amount": "1" },
-                            { "name": "Hymn of Light", "amount": "3" },
-                            { "name": "Sprite's Blessing", "amount": "2" }
+                            { "name": "Hymn of Light", "amount": "2" },
+                            { "name": "Sprite's Blessing", "amount": "1" }
                         ]                
                     }
                 },

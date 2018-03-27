@@ -2,7 +2,7 @@
     "deck-type": "Fishes",
     "created-by": "Dkayed",
     "modified-by": "Dkayed",
-    "modified-on": "2018-03-24",
+    "modified-on": "2018-03-27",
     "profile": "",
     "sections":
     [
@@ -23,7 +23,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Below you can find Dkayed's King of Games Fish deck."
+                    "paragraph": "Below you can find Dkayed's Fish deck."
                 },
                 { 
                     "deck":
@@ -62,7 +62,8 @@
                         [
                             { "name": "Golden Flying Fish", "amount": "3" },
                             { "name": "Oyster Meister", "amount": "3" },
-                            { "name": "Powerful Rebirth", "amount": "3" }
+                            { "name": "Beautunaful Princess", "amount": "1" },
+                            { "name": "Hammer Shark", "amount": "3" }
                         ]
                     }            
                 },
