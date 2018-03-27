@@ -35,18 +35,29 @@
         <meta name="keywords" content="{{default-keywords}}, tier list, top decks, guides, tournaments, discord, farming, events, mcs">
     {% endif %}
 
-
     <link rel="icon" sizes="192x192" href="/img/logos/favicon.png">  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.css">   
+
+    <!--Loading css asyc-->
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css"></noscript>
+    
+    <link rel="preload" href="/css/easy-autocomplete.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="/css/easy-autocomplete.min.css"></noscript>
+
+    <link rel="preload" href="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css"></noscript>
+    
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css"></noscript>
+   
+    <script src="/js/cssrelpreload.js"></script>
+    
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:800" >     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,700" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oregano:400i" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rock+Salt" >
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300" >
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.css">
-    <link rel="stylesheet" href="/css/easy-autocomplete.min.css">
     <link rel="stylesheet" href="/css/style.css">
     
     <!-- Custom Styles Specific Pages-->
