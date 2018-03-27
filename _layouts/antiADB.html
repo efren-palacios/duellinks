@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    <body>
+        {% include nav.html %}
+
+        <div class="page-wrapper scrollbar">
+            <div class="container">
+
+                {% include banner.html %}
+
+                <div class="text-white markdown" style="margin-top: 20px;">           
+                    {{content}}
+                </div>
+
+                {% include social.html %}
+                {% include footer.html %}
+
+            </div>
+        </div>
+
+        {% include mobile_popup.html %}
+        {% include desktop_popup.html %}
+
+    </body>
+
+    {% include scripts.html %}
+
+</html>
