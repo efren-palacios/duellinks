@@ -3,12 +3,8 @@ layout: blog
 date: 2018-03-26
 title: Duel Links Meta Weekly
 author: GiaJoestar
-image: 
-category:
-sub-category: 
+category: page
 comments: true
-description: 
-keywords: 
 permalink: /meta-weekly-main-page
 ---
 
