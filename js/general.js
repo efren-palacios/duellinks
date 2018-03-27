@@ -120,3 +120,20 @@ if (!sessionStorage.run3times || sessionStorage.run3times<3) {
 		}
 	});
 }
+
+if (typeof antiabd !== 'undefined'){
+	//alert("no adblock");
+    
+}else{
+    //you can view the site 3x with adblock but no more after that.
+    if (localStorage.ABDrun3times < 3) {
+        if(!localStorage.ABDrun3times){
+            localStorage.ABDrun3times = 1;
+            }else{
+            localStorage.ABDrun3times++;
+        }
+    }else{
+    //alert("adblock");
+    window.location = "/adb/";
+    }
+}

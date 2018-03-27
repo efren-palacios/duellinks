@@ -106,8 +106,11 @@ a.discord-ad-sub-banner:hover {
     z-index: 1; /* Add a z-index if needed */
     right: 20px; /* Center the snackbar */
     bottom: 10px; /* 30px from the bottom */
-    @media only screen and (max-width: 767px) {
-        display: none !important;
+    @media only screen and (max-width: 500px) {
+        right: 50%;
+        margin-right: -120px;
+        top: 85px;
+        bottom: unset;
     }
 
 }
@@ -142,6 +145,29 @@ However, delay the fade out process for 2.5 seconds */
     from {bottom: 10px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+
+@media only screen and (max-width: 500px) {
+    @-webkit-keyframes fadein {
+        from {top: 0; opacity: 0;} 
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @keyframes fadein {
+        from {top: 0; opacity: 0;}
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @-webkit-keyframes fadeout {
+        from {top: 85px; opacity: 1;} 
+        to {top: 0; opacity: 0;}
+    }
+    
+    @keyframes fadeout {
+        from {top: 85px; opacity: 1;}
+        to {top: 0; opacity: 0;}
+    }
+}
+
 
 //pulsating red dot notification
 .ring-container {
