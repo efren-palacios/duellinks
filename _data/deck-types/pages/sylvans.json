@@ -65,6 +65,9 @@
                             { "name": "Rose Lover", "amount": "3" },
                             { "name": "Sylvan Hermitree", "amount": "3" },
                             { "name": "Sylvan Flowerknight", "amount": "2" },
+                            { "name": "Sylvan Guardioak", "amount": "1" },
+                            { "name": "World Carrotweight Champion", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "2" },
                             { "name": "Sylvan Marshalleaf", "amount": "3" }
                         ]
                     }            
@@ -90,8 +93,12 @@
                     {
                         "main":
                         [
-                            { "name": "Enemy controller" },
-                            { "name": "Sylvan Guardioak", "amount": "1" },
+                            { "name": "Sylvan Flowerknight" },
+                            { "name": "Raging Mad Plants", "amount": "1" },
+                            { "name": "Jar of Avarice", "amount": "1" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Monster Reincarnation", "amount": "1" },
+                            { "name": "Magical Merchant: ", "amount": "1" },
                             { "name": "Raging Mad Plants", "amount": "1" }
                         ]
                     }       
@@ -120,7 +127,7 @@
     ],
     "guides": 
     [
-        
+        "/guides/deck-types/sylvans-guide-intro-by-superforms/"
     ],
     "videos": 
     [
