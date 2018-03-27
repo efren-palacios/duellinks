@@ -12,6 +12,8 @@ keywords:
 permalink: /meta-weekly-main-page
 ---
 
+![](https://media.discordapp.net/attachments/394309875280248832/415269703569899520/meta-weekly.png)
+
 #### Meta Weekly Tournament Reports
 
 * [Meta Weekly 12](/tournaments/meta-weekly/12/report/)
