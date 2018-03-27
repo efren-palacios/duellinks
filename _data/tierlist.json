@@ -41,20 +41,13 @@
         ] 
     },
     {
-        "category": "NewDecks",
-        "info": "New deck types or decks that have received new cards that change the deck.",
-        "types":
-        [
-            { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
-            { "id": "gishki",                   "display": "Gishki",                "card": "Evigishki Levianima" }
-        ] 
-    },
-    {
         "category": "OtherDecks",
-        "info": "These are deck types that are currently active, but are generally not skilled enough for King of Games or tier status.",
+        "info": "These are deck types that are currently active, but are generally not skilled enough to be listed on the tier list.",
         "types":
         [              
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
+            { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
+            { "id": "gishki",                   "display": "Gishki",                "card": "Evigishki Levianima" },
             { "id": "hazy-flame",               "display": "Hazy Flame",            "card": "Hazy Flame Sphynx" },
             { "id": "gladiator-beasts",         "display": "Gladiator Beasts",      "card": "Gladiator Beast Bestiari" },
             { "id": "snipe-hunter",             "display": "Snipe Hunter",          "card": "Snipe Hunter" },
@@ -62,7 +55,6 @@
             { "id": "stall-decks",     	        "display": "Stall Decks",           "card": "Floodgate Trap Hole" },
             { "id": "mill-decks",               "display": "Mill Decks",            "card": "Hiro's Shadow Scout" },
             { "id": "ancient-gears",            "display": "Ancient Gears",         "card": "Ancient Gear Golem"},
-            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" },
             { "id": "dark-magician",            "display": "Dark Magician",         "card": "Dark Magician" }, 
             { "id": "dark-worlds",              "display": "Dark Worlds",           "card": "Reign-Beaux, Overlord of Dark World" },             
             { "id": "red-eyes-slash-dragon",    "display": "Red-Eyes Slash Dragon", "card": "Red-Eyes Slash Dragon"},         
@@ -85,6 +77,7 @@
             { "id": "hammer-shark",             "display": "Hammer Shark",          "card": "Hammer Shark" },
             { "id": "genex",     		        "display": "Genex",     		    "card": "Genex Army" },
             { "id": "gemini",                   "display": "Geminis",               "card": "Supervise" },
+            { "id": "necrofear",                "display": "Necrofear",             "card": "Dark Necrofear" },
             { "id": "winged-dragon-of-ra",      "display": "Winged Dragon of Ra",   "card": "The Winged Dragon of Ra" },
             { "id": "cloudians",                "display": "Cloudians",             "card": "Cloudian - Eye of the Typhoon" },
             { "id": "gem-knights",              "display": "Gem-Knights",           "card": "Gem-Knight Emerald" },
