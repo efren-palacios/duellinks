@@ -16,8 +16,9 @@ permalink: /events/march-2018/superb-tea/
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-**Last updated: 22nd March**
+**Last updated: 27th March**
 
+- [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards ](#drop-rewards)
 - [Event Missions](#event-missions)
@@ -28,9 +29,13 @@ permalink: /events/march-2018/superb-tea/
 
 [slider](/img/content/events/2018/03/superb-tea/slider.jpg)
 
+
+### Update
+The event has been extended from 28th March and will now conclude 30th March. If you still need a playset - farm, farm, farm! 
+
 ### Event Information 
 - Téa Gardner has arrived - get your Fairy cards to strengthen your Counter Fairy Decks! 
-- This event lasts from March 22nd to March 28th.
+- This event lasts from March 22nd to March 30th.
 - Dueling against Legendary/Standard Duelists as well as the Vagabond in Duel World will increase the chance of Superb Téa appearing.
 - Superb Téa will only appear in Duel World (DM) - not in GX!
 - Superb Téa does not appear at the gate and the chance of her appearing is not affected by dueling at the gate.
