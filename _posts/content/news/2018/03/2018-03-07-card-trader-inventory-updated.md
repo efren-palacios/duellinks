@@ -33,7 +33,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 - {Confronting the "C"} (SR): The decks on the tier list that use their Extra Decks are Fusion [Destiny Heroes](/tier-list/destiny-heroes/) and [Gladiator Beasts](/guides/deck-types/gladiator-beasts-guide-by-brenduke/) which are both Tier 3. Pretty ineffective wall vs Destiny Heroes, but possibly annoying to Gladiators (being immune to {Gladiator Beast Murmillo} and walling {Gladiator Beast Essedarii}). Not a great card right now; maybe better in the future as the Extra Deck becomes more relevant.
 - {Danipon} (R): Has to be destroyed by battle to activate its effect, which is unfortunate. It doesn’t have any great search targets either: {Grasschopper}, {Magical Merchant}, {Man-Eater Bug}; none of which are used in a top-tier deck.
 
-### Required Items (will update once known)
+### Required Items
 - {Super Solar Nutrient}: 45,000 Gold, 6 SR Jewel, 60 Stone of Spell
 - {Confronting the "C"}: 40,000 Gold, 5 SR Jewel, 50 Stone of Earth
 - {Danipon}: 16,000 Gold, 30 R Jewel, 30 Stone of Earth 

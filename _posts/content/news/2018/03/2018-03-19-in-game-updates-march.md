@@ -4,15 +4,46 @@ title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-23 07:00:00
+date: 2018-03-26 07:00:00
 pinned: false
 comments: true
-description: A breakdown of newly released information and updates for you to look forward too.  
-keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign  
+description: A breakdown of newly released information and updates for you to look forward too!  
+keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign, elegant mai, marik, yami marik, arkana, duel-a-thon, level cap, crowler, dr vellian crowler,    
 permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## 26th March Update
+
+<br>
+
+### Upcoming Updates
+
+Here are some key points:
+- The KC Cup is starting next week
+- Another Duel-A-Thon
+- Dr. Vellian Crowler will be the newest addition to the gate, as discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#new-gate-duelist) article!
+- Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
+- Battle City event - new skill for Yami Yugi!
+- Elegant Mai will return
+- And finally, character level cap increases - took your time Konami! 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-upcoming-updates.jpg)
+
+### Challenge Stamps
+
+Play Ranked Duels to get 90 whole gems - don't spend them all at once! 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-ranked-stamps.jpg)
+
+### Sale Underway
+
+As we previously discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#box-sale) article, there's a sale to celebrate 65 million downloads!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-sale-26.jpg)
+
+---
 
 ## 23rd March Update
 
@@ -20,7 +51,7 @@ permalink: /news/march-2018/in-game-updates/
 
 ### Obtain Jesse Anderson
 
-After a long, long time we finally get another unlockable duelist - don't spend all your level up Gems in one place!
+After a long, long time we finally get another (new) unlockable duelist - fingers crossed for {Crystal Beast Sapphire Pegasus} as a drop reward!
 
 ![image](/img/content/news/2018/03/in-game-updates/image-jesse.jpg)
 

@@ -18,7 +18,6 @@ permalink: /events/march-2018/superb-tea/
 
 **Last updated: 22nd March**
 
-### Table of Contents
 - [Event Information](#event-information)
 - [Drop Rewards ](#drop-rewards)
 - [Event Missions](#event-missions)
@@ -111,5 +110,6 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 Take screenshots, when the event is over the person with:
 - The 'best drop' will have their name posted here
 - Most UR/SR cards will have their name posted here
+- Most Prismatic drops will have their name posted here
 
 Immortalised forever on DLM!
