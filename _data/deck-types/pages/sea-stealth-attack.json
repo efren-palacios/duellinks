@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Rez is a tier 1 deck because it is the most versitile deck in the game since the day it came out. Rez can keep it's core cards and adapt to the meta as the meta evolves each month. The decks main engine revloves around gozuki, the most important card of the deck next to red-eyes Zombie. The deck can be played two ways, as an agressive otk deck, or an semi agressive control deck depending on the techs you run in the deck. For example a rez deck that has only anti back row and 3 Econs besides it's core cards, is built for otk, the Rez decks that run wall of disruption, mirror walls, snipe Hunter and other techs, run more like a control deck. Both versions of this deck dominate in competitive Tournaments as well as the latter on DL pvp. The biggest draw back of this deck is it's ability to start you off with completely unplayable hands, this doesn't happen too often but happens often enough to make us Rez players pull the hair out of our heads.."
+                    "paragraph": "Sea Stealth Attack is an incredibly powerful card but surprisingly the deck did not achieve the instant success that people thought it would. Many different builds were conceived, and few saw any success on the tournament circuit on the first week of release. Nonetheless, Sea Stealth Attack was able to take multiple spots in the Top 32 of the MCS VI and has since become quite a popular KoG deck in the competitive community."
                 }   
             ]
         },
@@ -22,7 +22,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Below you can find popular choices among REZ players."
+                    "paragraph": ""
                 },
                 { 
                     "deck":
@@ -107,16 +107,16 @@
             "blocks":
             [
                 {
-                    "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
+                    "paragraph": "- Cards that do not destroy but remove cards from the field, such as Cosmic Cyclone and Abyss Soldier can both bypass Sea Stealth Attack’s protection and remove it from the field."
                 },
                 {
-                    "paragraph": "- In the mirror, save your Bacon Saver, protection, and other protective backrow to protect your Red-Eyes Zombie unless you absolutely have to use it to save your level 4s."
+                    "paragraph": "- As Sea Stealth Attack’s battle effect activates in the Battle Phase, it is susceptible to being countered by Anti-Magic Arrows."
                 },
                 {
-                    "paragraph": "- Always Cosmic Cyclone the Umi/ Legendary Ocean field spell during your turn or on their battle phase so they cannot just put another on out their and Cosmic Cyclone the field spell over the trap because the trap is dead without umi and also clogs their backrow."
+                    "paragraph": ""
                 },
                 {
-                    "paragraph": "- Against aliens set monsters with wod so they cannot put counters on your faceups, and they will always flood the field with aliens so wod is your best friend in this match up, if they do get those counters on your mons, econ take their aliens to throw away your monster with the counters."
+                    "paragraph": ""
                 }
             ]
         }
