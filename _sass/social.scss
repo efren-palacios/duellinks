@@ -146,6 +146,29 @@ However, delay the fade out process for 2.5 seconds */
     to {bottom: 0; opacity: 0;}
 }
 
+@media only screen and (max-width: 500px) {
+    @-webkit-keyframes fadein {
+        from {top: 0; opacity: 0;} 
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @keyframes fadein {
+        from {top: 0; opacity: 0;}
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @-webkit-keyframes fadeout {
+        from {top: 85px; opacity: 1;} 
+        to {top: 0; opacity: 0;}
+    }
+    
+    @keyframes fadeout {
+        from {top: 85px; opacity: 1;}
+        to {top: 0; opacity: 0;}
+    }
+}
+
+
 //pulsating red dot notification
 .ring-container {
     position: relative;
