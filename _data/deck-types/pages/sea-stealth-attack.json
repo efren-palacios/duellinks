@@ -33,17 +33,16 @@
                             { "name": "Gishki Chain", "amount": "2" },
                             { "name": "Abyss Soldier", "amount": "3" },
                             { "name": "Citadel Whale", "amount": "3" },
-                            { "name": "Warrior of Atlantis", "amount": "2" },
-                            { "name": "Gishki Ariel", "amount": "3" },
-                            { "name": "Gishki Beast", "amount": "1" },
-                            { "name": "Cosmic Cyclone", "amount": "3" },
-                            { "name": "Sea Stealth Attack", "amount": "3" },
-                            { "name": "Wall of Disruption", "amount": "2" }
+                            { "name": "Hammer Shark", "amount": "3" },
+                            { "name": "Fishborg Planter", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "3" },
+                            { "name": "Sea Stealth Attack", "amount": "2" },
+                            { "name": "Judgement of Anubis", "amount": "1" }
                         ]                
                     }
                 },
                 {
-                    "paragraph": "MCS VI 3rd place deck by RegTrainer1"
+                    "paragraph": "Meta Weekly 3rd place deck by Yasser"
                 }           
             ]
         },
@@ -57,9 +56,9 @@
                     {
                         "main":
                         [
-                            { "name": "Citadel Whale", "amount": "3" },
-                            { "name": "Abyss Soldier", "amount": "2" },
-                            { "name": "Sea Stealth Attack", "amount": "3" }
+                            { "name": "Citadel Whale", "amount": "2" },
+                            { "name": "Abyss Soldier", "amount": "3" },
+                            { "name": "Sea Stealth Attack", "amount": "1" }
                         ]
                     }            
                 },
