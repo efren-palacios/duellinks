@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Rez is a tier 1 deck because it is the most versitile deck in the game since the day it came out. Rez can keep it's core cards and adapt to the meta as the meta evolves each month. The decks main engine revloves around gozuki, the most important card of the deck next to red-eyes Zombie. The deck can be played two ways, as an agressive otk deck, or an semi agressive control deck depending on the techs you run in the deck. For example a rez deck that has only anti back row and 3 Econs besides it's core cards, is built for otk, the Rez decks that run wall of disruption, mirror walls, snipe Hunter and other techs, run more like a control deck. Both versions of this deck dominate in competitive Tournaments as well as the latter on DL pvp. The biggest draw back of this deck is it's ability to start you off with completely unplayable hands, this doesn't happen too often but happens often enough to make us Rez players pull the hair out of our heads.."
+                    "paragraph": ""
                 }   
             ]
         },
@@ -22,7 +22,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Below you can find popular choices among REZ players."
+                    "paragraph": "Below you can find popular choices among Destiny Hero players."
                 },
                 { 
                     "deck":
@@ -30,21 +30,34 @@
                         "skill": "Beatdown",
                         "main":
                         [
-                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
-                            { "name": "Gozuki", "amount": "3" },
-                            { "name": "Samurai Skull", "amount": "2" },
+                            { "name": "The Creator", "amount": "1" },
+                            { "name": "Black Luster Solider - Sacred Solider", "amount": "2" },
+                            { "name": "King of the Swamp", "amount": "1" },
+                            { "name": "Destiny HERO - Dasher", "amount": "1" },
+                            { "name": "The Dark - Hex Sealed Fusion", "amount": "2" },
+                            { "name": "Destiny HERO - Malicious", "amount": "1" },
+                            { "name": "Destiny HERO - Decider", "amount": "1" },
+                            { "name": "Destiny HERO - Celestial", "amount": "2" },
+                            { "name": "Vision HERO Vylon", "amount": "2" },
+                            { "name": "Destiny HERO - Dreamer", "amount": "1" },
+                            { "name": "A/D Changer", "amount": "1" },
                             { "name": "Bacon Saver", "amount": "1" },
-                            { "name": "Red-Eyes Insight", "amount": "2" },
-                            { "name": "Cosmic Cyclone", "amount": "1" },
-                            { "name": "Storm", "amount": "2" },
-                            { "name": "Enemy Controller", "amount": "3" },
-                            { "name": "Red-Eyes Spirit", "amount": "2" },
-                            { "name": "Wall of Disruption", "amount": "2" }
+                            { "name": "Hey, Trunade", "amount": "3" },
+                            { "name": "Fusion Reclycling Plant", "amount": "1" },
+                            { "name": "Polymerization", "amount": "2" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Beginning of Heaven and Earth", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "1" },
+                            { "name": "Premature Return", "amount": "2" },
+                            { "name": "Jar of Avarice", "amount": "2" },
+                            { "name": "Red-Eyes Slash Dragon", "amount": "2" },
+                            { "name": "Vision HERO Trinity", "amount": "1" },
+                            { "name": "Destiny HERO - Dangerous", "amount": "2" }
                         ]                
                     }
                 },
                 {
-                    "paragraph": ""
+                    "paragraph": "Lieral's 3rd place deck from Give Away Tournament 3"
                 }           
             ]
         },
@@ -58,12 +71,14 @@
                     {
                         "main":
                         [
-                            { "name": "Red-Eyes Zombie Dragon", "amount": "2" },
-                            { "name": "Gozuki", "amount": "2" },
-                            { "name": "Bacon Saver", "amount": "1" },
-                            { "name": "Samurai Skull", "amount": "2" },
-                            { "name": "Red-Eyes Insight", "amount": "2" },
-                            { "name": "Red-Eyes Spirit", "amount": "2" }
+                            { "name": "The Dark - Hex Sealed Fusion", "amount": "1" },
+                            { "name": "Destiny HERO - Malicious", "amount": "1" },
+                            { "name": "Destiny HERO - Decider", "amount": "1" },
+                            { "name": "Destiny HERO - Celestial", "amount": "1" },
+                            { "name": "Polymerization", "amount": "1" },
+                            { "name": "Red-Eyes Slash Dragon", "amount": "1" },
+                            { "name": "Vision HERO Trinity", "amount": "1" },
+                            { "name": "Destiny HERO - Dangerous", "amount": "1" }
                         ]
                     }            
                 },
@@ -85,12 +100,22 @@
                     {
                         "main":
                         [
-                            { "name": "Enemy controller" },
-                            { "name": "Mirror Wall" },
-                            { "name": "Super Rush Headlong" },
-                            { "name": "Curse of Anubis" },
-                            { "name": "Windstorm of Etaqua" },
-                            { "name": "Wall of Disruption" }
+                            { "name": "The Creator", "amount": "1" },
+                            { "name": "Black Luster Solider - Sacred Solider", "amount": "1" },
+                            { "name": "King of the Swamp", "amount": "1" },
+                            { "name": "Destiny HERO - Malicious", "amount": "1" },
+                            { "name": "Destiny HERO - Decider", "amount": "1" },
+                            { "name": "Destiny HERO - Celestial", "amount": "1" },
+                            { "name": "Vision HERO Vylon", "amount": "1" },
+                            { "name": "A/D Changer", "amount": "1" },
+                            { "name": "Bacon Saver", "amount": "1" },
+                            { "name": "Hey, Trunade", "amount": "1" },
+                            { "name": "Fusion Reclycling Plant", "amount": "1" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Beginning of Heaven and Earth", "amount": "1" },
+                            { "name": "Powerful Rebirth", "amount": "1" },
+                            { "name": "Premature Return", "amount": "1" },
+                            { "name": "Jar of Avarice", "amount": "1" }
                         ]
                     }       
                 },
@@ -108,16 +133,16 @@
             "blocks":
             [
                 {
-                    "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
+                    "paragraph": " "
                 },
                 {
-                    "paragraph": "- In the mirror, save your Bacon Saver, protection, and other protective backrow to protect your Red-Eyes Zombie unless you absolutely have to use it to save your level 4s."
+                    "paragraph": ""
                 },
                 {
-                    "paragraph": "- Always Cosmic Cyclone the Umi/ Legendary Ocean field spell during your turn or on their battle phase so they cannot just put another on out their and Cosmic Cyclone the field spell over the trap because the trap is dead without umi and also clogs their backrow."
+                    "paragraph": ""
                 },
                 {
-                    "paragraph": "- Against aliens set monsters with wod so they cannot put counters on your faceups, and they will always flood the field with aliens so wod is your best friend in this match up, if they do get those counters on your mons, econ take their aliens to throw away your monster with the counters."
+                    "paragraph": ""
                 }
             ]
         }
