@@ -15,7 +15,21 @@ function CardsAPI() {
      * @param callback Function to execute once the data is retrieved
      * 
      * @return Card An object containing the information, if available (if not, the 
-     *              object will be null)  
+     *              object will be null)
+     * 
+     * Card - This is object is used to store the data retrieved from a card search    
+     *  
+     * name The name of the card 
+     * rarity A card's rarity value (i.e. 'N' for Normal, 'UR' for Ultra Rare, etc.)
+     * attribute A card's attribute value (i.e. 'Wind', 'Light', etc.)
+     * level The amount of stars a card has (only applies to monster type cards)
+     * materials The monsters needed to summon this card (fusion materials)
+     * description The description of the card
+     * type A card's type (i.e. 'Spell', 'Trap', "Winged Beast", etc.)
+     * attack A card's attack points (only applies to monsters)
+     * defense A card's defense points (only applies to monsters)
+     * obtain How/where to obtain this card within the game (if not available, 
+     *        the phrase 'Needs to be Added' will be placed inside) 
      */  
     this.search = function(cardName, callback) {
         let cardobtain = $.getJSON("/data/cardObtain.json").then(function(r) {
@@ -35,7 +49,7 @@ function CardsAPI() {
         }
         
         Promise.all([cardobtain, cardinfo]).then(function(response) {
-            var card = new Card();
+            var card = new Object();
 
             card.name = cardName;
             card.rarity = response[0].rarity ? response[0].rarity : "";
@@ -48,6 +62,7 @@ function CardsAPI() {
             } 
             else {
                 card.description = response[1].data.text;
+                card.materials = "";
             }
             if(response[1].data.card_type == "monster") {
                 card.type = response[1].data.type;
@@ -72,10 +87,18 @@ function CardsAPI() {
      * 
      * @return Skill - Object containing the information of the skill; if 
      *                 not found, null is returned 
+     * 
+     * Skill - This object contains a list of parameters for a skill
+     * 
+     * name - Name of the skill
+     * description - Description of the skill  
+     * exclusive - Whether or not this skill is exclusive to a character (true/false)
+     * character - If the skill is exclusive, then this will be the name of the that character (else, empty string) 
+     * imageURL - URL to obtain the image of the skill, depending on its exclusivity
      */ 
     this.searchSkill = function(skillName, callback) {
         $.getJSON(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
-            var skill = new Skill();
+            var skill = new Object();
             for(var i = 0; i < response.length; i++) {
                 if(response[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skillName.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()) {
                     skill.name = response[i].name;
@@ -153,55 +176,3 @@ function CardsAPI() {
         }
     ]
 };
-
-/*
- * This is object is used to store the data retrieved from a card search    
- *  
- * name The name of the card 
- * rarity A card's rarity value (i.e. 'N' for Normal, 'UR' for Ultra Rare, etc.)
- * attribute A card's attribute value (i.e. 'Wind', 'Light', etc.)
- * level The amount of stars a card has (only applies to monster type cards)
- * materials The monsters needed to summon this card (fusion materials)
- * description The description of the card
- * type A card's type (i.e. 'Spell', 'Trap', "Winged Beast", etc.)
- * attack A card's attack points (only applies to monsters)
- * defense A card's defense points (only applies to monsters)
- * obtain How/where to obtain this card within the game (if not available, 
- *        the phrase 'Needs to be Added' will be placed inside) 
- */ 
-function Card() { 
-    this.name = "";
-    this.rarity = "";
-    this.attribute = "";
-    this.level = "";
-    this.materials = "";
-    this.description = "";
-    this.type = "";
-    this.attack = "";
-    this.defense = "";
-    this.obtain = "";
-
-    return this;
-}
-
-/*
- * This object contains a list of parameters for a skill
- * 
- * name - Name of the skill
- * description - Description of the skill  
- * exclusive - Whether or not this skill is exclusive to a character (true/false)
- * character - If the skill is exclusive, then this will be the name of the that character (else, empty string) 
- * imageURL - URL to obtain the image of the skill, depending on its exclusivity
- */ 
-function Skill() {
-    this.name = "";
-    this.description = "";
-    this.exclusive = false;
-    this.imageURL = "";
-    this.character = "";
-
-    return this;
-}
-
-
-
