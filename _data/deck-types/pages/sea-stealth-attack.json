@@ -2,92 +2,131 @@
     "deck-type": "Sea Stealth Attack",
     "created-by": "Dkayed",
     "modified-by": "Dkayed",
-    "modified-on": "2018-03-18",
+    "modified-on": "2018-03-26",
     "profile": "",
     "sections":
     [
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Overview",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "": ""
+                    "paragraph": "Rez is a tier 1 deck because it is the most versitile deck in the game since the day it came out. Rez can keep it's core cards and adapt to the meta as the meta evolves each month. The decks main engine revloves around gozuki, the most important card of the deck next to red-eyes Zombie. The deck can be played two ways, as an agressive otk deck, or an semi agressive control deck depending on the techs you run in the deck. For example a rez deck that has only anti back row and 3 Econs besides it's core cards, is built for otk, the Rez decks that run wall of disruption, mirror walls, snipe Hunter and other techs, run more like a control deck. Both versions of this deck dominate in competitive Tournaments as well as the latter on DL pvp. The biggest draw back of this deck is it's ability to start you off with completely unplayable hands, this doesn't happen too often but happens often enough to make us Rez players pull the hair out of our heads.."
                 }   
             ]
         },
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "": ""
+                    "paragraph": "Below you can find popular choices among REZ players."
                 },
                 { 
-                    "":
+                    "deck":
                     {
-                        "": "",
-                        "":
+                        "skill": "Mythic Depths",
+                        "main":
                         [
+                            { "name": "Gishki Chain", "amount": "2" },
+                            { "name": "Abyss Soldier", "amount": "3" },
+                            { "name": "Citadel Whale", "amount": "3" },
+                            { "name": "Warrior of Atlantis", "amount": "2" },
+                            { "name": "Gishki Ariel", "amount": "3" },
+                            { "name": "Gishki Beast", "amount": "1" },
+                            { "name": "Cosmic Cyclone", "amount": "3" },
+                            { "name": "Sea Stealth Attack", "amount": "3" },
+                            { "name": "Wall of Disruption", "amount": "2" }
                         ]                
                     }
                 },
                 {
-                    "": ""
+                    "paragraph": "MCS VI 3rd place deck by RegTrainer1"
                 }           
             ]
         },
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "":
+                    "box":
                     {
-                        "":
+                        "main":
                         [
+                            { "name": "Citadel Whale", "amount": "3" },
+                            { "name": "Abyss Soldier", "amount": "2" },
+                            { "name": "Sea Stealth Attack", "amount": "3" }
                         ]
                     }            
                 },
                 {
-                    "": ""
-                }        
-            ]
-        },
-        {
-            "": "",
-            "": "",
-            "":
-            [
-                {
-                    "":
-                    {
-
-                    }       
+                    "paragraph": "There are many different ways to play this deck. Check the guide for all the differet ways to play."
                 },
                 {
-                    "": ""
-                },
-                {
-                    "": ""
+                    "paragraph": ""
                 }           
             ]
         },
         {
-            "": "",
-            "":
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
             [
-   
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Fishborg Planter" },
+                            { "name": "Hammer Shark" },
+                            { "name": "Beautunaful Princess" },
+                            { "name": "That Grass Looks Greener" },
+                            { "name": "Windstorm of Etaqua" },
+                            { "name": "Warrior of Atlantis", "amount": "1" },
+                            { "name": "Gishki Ariel", "amount": "1" },
+                            { "name": "Gishki Beast", "amount": "1" },
+                            { "name": "Wall of Disruption" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
+                },
+                {
+                    "paragraph": "- In the mirror, save your Bacon Saver, protection, and other protective backrow to protect your Red-Eyes Zombie unless you absolutely have to use it to save your level 4s."
+                },
+                {
+                    "paragraph": "- Always Cosmic Cyclone the Umi/ Legendary Ocean field spell during your turn or on their battle phase so they cannot just put another on out their and Cosmic Cyclone the field spell over the trap because the trap is dead without umi and also clogs their backrow."
+                },
+                {
+                    "paragraph": "- Against aliens set monsters with wod so they cannot put counters on your faceups, and they will always flood the field with aliens so wod is your best friend in this match up, if they do get those counters on your mons, econ take their aliens to throw away your monster with the counters."
+                }
             ]
         }
     ],
     "guides": 
     [
-            "/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/"
+        "/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/"
     ],
     "videos": 
     [
+        "https://www.youtube.com/watch?v=DO4JvFtW0s8"
     ]
 }

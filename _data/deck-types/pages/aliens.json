@@ -2,92 +2,132 @@
     "deck-type": "Aliens",
     "created-by": "Dkayed",
     "modified-by": "Dkayed",
-    "modified-on": "2018-03-21",
+    "modified-on": "2018-03-26",
     "profile": "",
     "sections":
     [
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Overview",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "": ""
+                    "paragraph": "Aliens is a deck that uses A-Counters: These counters are used to activate card effects from monsters, traps and spells. Some Aliens are able to use A-counters to reduce enemy monsters attack and defense, and will have the text (If a monster with an A-Counter battles an Alien monster, it loses 300 ATK and DEF for each A-Counter during damage calculation only.) This effect stacks for each Alien monster on the field. Aliens have been labeled as the best F2P and new player friendly Deck in Duel Links with only one core Super Rare card. Alien decks are extremely versitile and have room for situational tech cards, making them a strong deck for experienced players as well."
                 }   
             ]
         },
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "": ""
+                    "paragraph": "Below you can find popular choices among REZ players."
                 },
                 { 
-                    "":
+                    "deck":
                     {
-                        "": "",
-                        "":
+                        "skill": "Balance",
+                        "main":
                         [
+                            { "name": "Alien Overlord", "amount": "1" },
+                            { "name": "Alien Telepath", "amount": "3" },
+                            { "name": "Alien Warrior", "amount": "3" },
+                            { "name": "Alien Grey", "amount": "1" },
+                            { "name": "'A' Cell Recombination Device", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "2" },
+                            { "name": "Brainwashing Beam", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" },
+                            { "name": "Wall of Disruption", "amount": "1" }
                         ]                
                     }
                 },
                 {
-                    "": ""
+                    "paragraph": "Meta Weekly 9 winning Alien deck."
                 }           
             ]
         },
         {
-            "": "",
-            "": "",
-            "":
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
             [
                 {
-                    "":
+                    "box":
                     {
-                        "":
+                        "main":
                         [
+                            { "name": "Alien Overlord", "amount": "1" },
+                            { "name": "Alien Telepath", "amount": "3" },
+                            { "name": "Alien Warrior", "amount": "3" },
+                            { "name": "Brainwashing Beam", "amount": "2" }
                         ]
                     }            
                 },
                 {
-                    "": ""
-                }        
-            ]
-        },
-        {
-            "": "",
-            "": "",
-            "":
-            [
-                {
-                    "":
-                    {
-
-                    }       
+                    "paragraph": "These are the cards you shouldn't play the deck without."
                 },
                 {
-                    "": ""
-                },
-                {
-                    "": ""
+                    "paragraph": ""
                 }           
             ]
         },
         {
-            "": "",
-            "":
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
             [
-   
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Powerful Rebirth" },
+                            { "name": "Enemy Controller" },
+                            { "name": "Evil Dragon Ananta" },
+                            { "name": "Cosmic Cyclone" },
+                            { "name": "Sphere Kuriboh" },
+                            { "name": "Crop circles" },
+                            { "name": "Anti-Magic Arrows" },
+                            { "name": "Mysterious Triangle" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "- Aliens A-counter -300 effect stacks, so: 2 aliens (with the text effect) = - 600 with 1 counter."
+                },
+                {
+                    "paragraph": "- Alien Shocktrooper benefits from the A-counter stat reduction as long as you have another alien on the field, but does not grant that benefit itself as it lacks the required text effect."
+                },
+                {
+                    "paragraph": "- Play “A” Cell Recombination Device on the end phase of your opponent’s turn, this way you can get the effect of adding an alien monster to your hand on your following turn."
+                },
+                {
+                    "paragraph": "- In some situations, using “A” Cell Recombination Device to lower an attacking monster’s ATK is a viable play. You lose valuable A-counters when their monster is destroyed, but destroying a monster in their battle phase can generate advantage."
+                }
             ]
         }
     ],
     "guides": 
     [
-            "/guides/deck-types/aliens-guide-by-celestial/"
+        "/guides/deck-types/aliens-guide-by-celestial/"
     ],
     "videos": 
     [
+        "https://www.youtube.com/watch?v=CS8g_jTvzK4&t=7s"
     ]
 }
