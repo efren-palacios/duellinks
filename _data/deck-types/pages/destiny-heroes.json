@@ -1,0 +1,158 @@
+{
+    "deck-type": "Red-Eyes Zombies",
+    "created-by": "Insano - Red Eyes Expert",
+    "modified-by": "Insano - Red Eyes Expert",
+    "modified-on": "2018-03-24",
+    "profile": "insano",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": ""
+                }   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Lieral's 3rd place deck from Give Away Tournament 3"
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Beatdown",
+                        "main":
+                        [
+                            { "name": "The Creator", "amount": "1" },
+                            { "name": "Black Luster Soldier - Sacred Soldier", "amount": "2" },
+                            { "name": "King of the Swamp", "amount": "1" },
+                            { "name": "Destiny HERO - Dasher", "amount": "1" },
+                            { "name": "The Dark - Hex Sealed Fusion", "amount": "2" },
+                            { "name": "Destiny HERO - Malicious", "amount": "1" },
+                            { "name": "Destiny HERO - Decider", "amount": "1" },
+                            { "name": "Destiny HERO - Celestial", "amount": "2" },
+                            { "name": "Vision HERO Vyon", "amount": "2" },
+                            { "name": "Destiny HERO - Dreamer", "amount": "1" },
+                            { "name": "A/D Changer", "amount": "1" },
+                            { "name": "Bacon Saver", "amount": "1" },
+                            { "name": "Hey, Trunade!", "amount": "3" },
+                            { "name": "Fusion Recycling Plant", "amount": "1" },
+                            { "name": "Polymerization", "amount": "2" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Beginning of Heaven and Earth", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "1" },
+                            { "name": "Premature Return", "amount": "2" },
+                            { "name": "Jar of Avarice", "amount": "2" },
+                            { "name": "Red-Eyes Slash Dragon", "amount": "2" },
+                            { "name": "Vision HERO Trinity", "amount": "1" },
+                            { "name": "Destiny HERO - Dangerous", "amount": "2" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" },
+                            { "name": "", "amount": "1" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": "These are the cards you shouldn't play the deck without."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "The Creator", "amount": "1" },
+                            { "name": "Black Luster Soldier - Sacred Soldier", "amount": "1" },
+                            { "name": "King of the Swamp", "amount": "1" },
+                            { "name": "Destiny HERO - Malicious", "amount": "1" },
+                            { "name": "Destiny HERO - Decider", "amount": "1" },
+                            { "name": "Destiny HERO - Celestial", "amount": "1" },
+                            { "name": "Vision HERO Vyon", "amount": "1" },
+                            { "name": "A/D Changer", "amount": "1" },
+                            { "name": "Bacon Saver", "amount": "1" },
+                            { "name": "Hey, Trunade!", "amount": "1" },
+                            { "name": "Fusion Reclycling Plant", "amount": "1" },
+                            { "name": "Divine Wrath", "amount": "1" },
+                            { "name": "Beginning of Heaven and Earth", "amount": "1" },
+                            { "name": "Powerful Rebirth", "amount": "1" },
+                            { "name": "Premature Return", "amount": "1" },
+                            { "name": "Jar of Avarice", "amount": "1" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "All of these cards are great additions of the deck but optional."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Extra Info",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": " "
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }
+            ]
+        }
+    ],
+    "guides": 
+    [
+        "/guides/deck-types/red-eyes-zombies-guide-by-insano/"
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=O8FvdYslIWM"
+    ]
+}

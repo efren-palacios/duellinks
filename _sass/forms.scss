@@ -7,6 +7,11 @@
     background-color: #0c2740;
 }
 
+.form-control:focus
+{
+    box-shadow: 0 0 2px 0.07rem rgba($flashy-blue, 0.40);
+}
+
 input.form-control:read-only,
 textarea.form-control:read-only
 {

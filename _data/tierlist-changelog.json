@@ -6,6 +6,12 @@
     },
     "tier-changes": 
     [
+        { "type": "gladiator-beasts", "from": 3, "to": "nothing", "date": 2018-03-26 },
+        { "type": "hazy-flame", "from": 3, "to": "nothing", "date": 2018-03-26 },
+        { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-03-26 },
+        { "type": "aliens", "from": 1, "to": 2, "date": 2018-03-26 },
+        { "type": "red-eyes-zombies", "from": 1, "to": 2, "date": 2018-03-26 },
+        { "type": "sylvans", "from": "nothing", "to": 1, "date": 2018-03-26 },
         { "type": "snipe-hunter", "from": 3, "to": "nothing", "date": 2018-03-21 },
         { "type": "gladiator-beasts", "from": 2, "to": 3, "date": 2018-03-21 },
         { "type": "sea-stealth-attack", "from": 2, "to": 1, "date": 2018-03-21 },

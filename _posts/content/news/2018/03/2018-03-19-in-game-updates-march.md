@@ -1,20 +1,92 @@
 ---
 layout: blog
-title: In-Game Updates - March
+title: In-Game Updates - April
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-20
+date: 2018-03-27
 pinned: false
 comments: true
-description: A breakdown of newly released information and updates for you to look forward too.  
-keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign  
+description: A breakdown of newly released information and updates for you to look forward too!  
+keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign, elegant mai, marik, yami marik, arkana, duel-a-thon, level cap, crowler, dr vellian crowler,    
 permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-### **20th March Update**
+## 27th March Update
+
+<br>
+
+The [Superb Téa](/events/march-2018/superb-tea/) event has been extended by 2 days, it will now end on 30th March. If you still need a playset - farm, farm, farm!
+
+### Bonus Reward Campaign
+
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 5th April. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-27.jpg)
+
+---
+
+## 26th March Update
+
+<br>
+
+### Upcoming Updates
+
+Here are some key points:
+- The KC Cup is starting next week
+- Another Duel-A-Thon
+- Dr. Vellian Crowler will be the newest addition to the gate, as discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#new-gate-duelist) article!
+- Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
+- Battle City event - new skill for Yami Yugi!
+- Elegant Mai will return
+- Unlock a new character: 'I'm ready to take on the world' - could it be Zane Truesdale!?
+- And finally, character level cap increases - took your time Konami! 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-upcoming-updates.jpg)
+
+### Challenge Stamps
+
+Play Ranked Duels to get 90 whole gems - don't spend them all at once! 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-ranked-stamps.jpg)
+
+### Sale Underway
+
+As we previously discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#box-sale) article, there's a sale to celebrate 65 million downloads!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-sale-26.jpg)
+
+---
+
+## 23rd March Update
+
+<br>
+
+### Obtain Jesse Anderson
+
+After a long, long time we finally get another (new) unlockable duelist - fingers crossed for {Crystal Beast Sapphire Pegasus} as a drop reward!
+
+![image](/img/content/news/2018/03/in-game-updates/image-jesse.jpg)
+
+### Various Improvements
+
+Here are some key points:
+- Character selection screen revamp
+- The Vagabond improvements
+- Ability to set different accessories for each deck (you will no longer be able to set at the Card Studio)
+- Card Trader - all older cards will return 
+- Ability to report opponent and surrender during your opponent's turn
+- Increased carrying capacity of Gold and Stones 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-23-03.jpg)
+
+---
+
+## 20th March Update
+
+<br>
 
 Phew! Even more announcements, read away! 
 
@@ -32,7 +104,9 @@ Double Gate Keys & Gold Campaign is back, don't forget to claim your Duel Orb x1
 
 ---
 
-### **19th March Update**
+## 19th March Update
+
+<br>
 
 With the new announcements, what has been a fairly mundane month for Duel Links is going out with a bang! 
 
@@ -65,7 +139,9 @@ It's already time for another KC Cup! So if you didn't perform as well as you wa
 
 ---
 
-### **14th March Update**
+## 14th March Update
+
+<br>
 
 ### Sale Underway
 
