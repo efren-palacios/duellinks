@@ -1,7 +1,7 @@
 {
     "deck-type": "Red-Eyes Zombies",
-    "created-by": "Insano - Red Eyes Expert",
-    "modified-by": "Insano - Red Eyes Expert",
+    "created-by": "Cpt. Insano - Red Eyes Expert",
+    "modified-by": "Cpt. Insano - Red Eyes Expert",
     "modified-on": "2018-03-24",
     "profile": "insano",
     "sections":
@@ -12,7 +12,7 @@
             "blocks":
             [
                 {
-                    "paragraph": "Rez is a tier 1 deck because it is the most versitile deck in the game since the day it came out. Rez can keep it's core cards and adapt to the meta as the meta evolves each month. The decks main engine revloves around gozuki, the most important card of the deck next to red-eyes Zombie. The deck can be played two ways, as an agressive otk deck, or an semi agressive control deck depending on the techs you run in the deck. For example a rez deck that has only anti back row and 3 Econs besides it's core cards, is built for otk, the Rez decks that run wall of disruption, mirror walls, snipe Hunter and other techs, run more like a control deck. Both versions of this deck dominate in competitive Tournaments as well as the latter on DL pvp. The biggest draw back of this deck is it's ability to start you off with completely unplayable hands, this doesn't happen too often but happens often enough to make us Rez players pull the hair out of our heads.."
+                    "paragraph": "Red-Eyes Zombies is a top tier deck because it is has been one of the most versitile decks in the game since the day it came out. Red-Eyes Zombies can keep it's core cards and tech in certain cards to adapt to the meta as it evolves. The decks main engine revloves around Gozuki, the most important card of the deck next to Red-Eyes Zombie Dragon. The deck can be played two ways: as an agressive OTK (One Turn Kill) deck or a semi-agressive control deck depending on the tech cards you run. For example, a REZ deck that has only anti-backrow, 3 Enemy Controllers and it's core cards is built for an OTK. The REZ decks that run {Wall of Disruption}, {Mirror Wall}s, {Snipe Hunter} and other techs play more like a control deck. Both versions of this deck dominate in competitive tournaments as well as the Duel Links Ranked ladder. The biggest drawback of this deck is it's ability to start you off with completely unplayable hands. This doesn't happen often but happens enough to make REZ players pull the hair out of their heads."
                 }   
             ]
         },
@@ -108,16 +108,16 @@
             "blocks":
             [
                 {
-                    "paragraph": "- To avoid a Floodgate Traphole, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
+                    "paragraph": "- To avoid a {Floodgate Trap Hole}, activate your {Red-Eyes Spirit} on chainlink 2 or higher."
                 },
                 {
-                    "paragraph": "- In the mirror, save your Bacon Saver, protection, and other protective backrow to protect your Red-Eyes Zombie unless you absolutely have to use it to save your level 4s."
+                    "paragraph": "- In the mirror match save your Bacon Saver and other protective backrow to protect your Red-Eyes Zombie Dragon unless you absolutely have to use it to save your level 4 monsters."
                 },
                 {
-                    "paragraph": "- Always Cosmic Cyclone the Umi/ Legendary Ocean field spell during your turn or on their battle phase so they cannot just put another on out their and Cosmic Cyclone the field spell over the trap because the trap is dead without umi and also clogs their backrow."
+                    "paragraph": "- Always {Cosmic Cyclone} the {Umi}/ {A Legendary Ocean} field spell during your turn or in their battle phase so they cannot put another on out. Cosmic Cyclone the field spell over the {Sea Stealth Attack} because the trap is dead without Umi and clogs their backrow."
                 },
                 {
-                    "paragraph": "- Against aliens set monsters with wod so they cannot put counters on your faceups, and they will always flood the field with aliens so wod is your best friend in this match up, if they do get those counters on your mons, econ take their aliens to throw away your monster with the counters."
+                    "paragraph": "- Against Aliens, set monsters with Wall of Disruption so they cannot put A-Counters on your faceup monsters. They will always flood the field with Aliens so Wall of Disruption is your best friend in this match up. If they get A-Counters on your monsters, ECon take their Aliens to throw away your monster with the A-Counters."
                 }
             ]
         }

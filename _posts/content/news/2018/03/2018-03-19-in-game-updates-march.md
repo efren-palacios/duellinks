@@ -4,7 +4,7 @@ title: In-Game Updates - April
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-26 07:00:00
+date: 2018-03-27
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,20 @@ permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## 27th March Update
+
+<br>
+
+The [Superb Téa](/events/march-2018/superb-tea/) event has been extended by 2 days, it will now end on 30th March. If you still need a playset - farm, farm, farm!
+
+### Bonus Reward Campaign
+
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 5th April. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-27.jpg)
+
+---
 
 ## 26th March Update
 
@@ -27,6 +41,7 @@ Here are some key points:
 - Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
 - Battle City event - new skill for Yami Yugi!
 - Elegant Mai will return
+- Unlock a new character: 'I'm ready to take on the world' - could it be Zane Truesdale!?
 - And finally, character level cap increases - took your time Konami! 
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-upcoming-updates.jpg)

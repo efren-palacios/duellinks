@@ -2,11 +2,19 @@
 layout: blog
 author: bot
 comments: true
+<<<<<<< HEAD
 permalink: /top-decks/january-2018/ancient-gears/ancient-gears-by-knightlore/
 scripts: playtest.js
 ---
 
 {% assign deck = site.data.top-decks.2018.01.ancient-gears.knightlore %}
+=======
+permalink: /top-decks/december-2017/cyber-angels/cyber-angel-by-matthewcyh/
+scripts: playtest.js
+---
+
+{% assign deck = site.data.top-decks.2017.12.cyber-angels.matthewcyh %}
+>>>>>>> bab858e82f14d535637ad420593a5948d75ea8f2
 <div class='deck-page'>
   {% include deck.html deck=deck showHeader=true showStats=true %}
   <script>var playtest = {{deck | jsonify}}</script>
