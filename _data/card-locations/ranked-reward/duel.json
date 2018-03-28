@@ -10,5 +10,9 @@
     {
         "name": "Flyfang",
         "rarity": "R"
+    },
+    {
+        "name": "Enemy Controller",
+        "rarity": "SR"
     }
 ]

@@ -29,11 +29,24 @@ function CardsAPI() {
      * attack A card's attack points (only applies to monsters)
      * defense A card's defense points (only applies to monsters)
      * obtain How/where to obtain this card within the game (if not available, 
-     *        the phrase 'Needs to be Added' will be placed inside) 
+     *        the phrase 'Needs to be Added' will be placed inside); in addition,
+     *        this value is an array, so if more than one location is available, it
+     *        will be inserted   
      */  
     this.search = function(cardName, callback) {
         let cardobtain = $.getJSON("/data/cardObtain.json").then(function(r) {
-            return r.filter(card => card.name == cardName)[0] || new Error('No Resource')
+            if(r) {
+                var filteredCards = [];
+                $(r).each(function(index, card) {
+                    if(card.name == cardName) {
+                        filteredCards.push(card);
+                    }
+                });
+                return filteredCards;
+            }
+            else {
+                return [];
+            }
         });
         let cardinfo = JSON.parse(sessionStorage.getItem(cardName));
         
@@ -52,7 +65,7 @@ function CardsAPI() {
             var card = new Object();
 
             card.name = cardName;
-            card.rarity = response[0].rarity ? response[0].rarity : "";
+            card.rarity = response[0].length > 0 ? response[0][0].rarity : "";
             card.attribute = response[1].data.family != 'null' ? response[1].data.family : "";
             card.level = response[1].data.level != 'null' ? response[1].data.level : "";
             if(response[1].data.type && response[1].data.type.includes("Fusion")) {
@@ -72,7 +85,15 @@ function CardsAPI() {
             }
             card.attack = response[1].data.atk != 'null' ? response[1].data.atk : "";
             card.defense = response[1].data.def != 'null' ? response[1].data.def : "";
-            card.obtain = response[0].how ? response[0].how : "Needs to be Added";
+            if(response[0].length > 0) {
+                card.obtain = [];
+                $(response[0]).each(function(index, obtainCard) {
+                    card.obtain.push(obtainCard.how);
+                }); 
+            }
+            else {
+                card.obtain = ["Needs to be Added"];
+            }
 
             callback(card);    
         });

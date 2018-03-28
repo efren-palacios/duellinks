@@ -401,6 +401,12 @@ as the grid from Bootstrap is needed for skill popups---*/
   display: flex;
 }
 
+#cardObtain {
+  p {
+    margin-bottom: 2px;
+  }
+}
+
 // Tablet
 @media only screen and (max-width: 767px)
 {

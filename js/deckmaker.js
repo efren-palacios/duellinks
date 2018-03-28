@@ -160,7 +160,10 @@ function displayCardInformationForMobile( card ) {
 	else {
 		$('#cardAttackDefense').hide();	
 	}
-	$('#cardObtain').html(card.obtain);
+	$('#cardObtain').empty();
+	$(card.obtain).each(function(index, how) {
+		$('#cardObtain').append('<p>' + how + '</p>');
+	});	
 };
 
 function closeMobilePopup() {
@@ -313,7 +316,9 @@ function displayTextForCardsOnDesktops( api ) {
 		else {
 			clone.find('#cardAttackDefense').hide();	
 		}
-		clone.find('#cardObtain').html(card.obtain);
+		$(card.obtain).each(function(index, how) {
+			clone.find('#cardObtain').append('<p class="capitalize-text">' + how + '</p>');
+		});	
 
 		api.set('content.text', clone.show()[0]);	
 	};
