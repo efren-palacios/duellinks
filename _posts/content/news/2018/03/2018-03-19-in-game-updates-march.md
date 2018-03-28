@@ -41,6 +41,7 @@ Here are some key points:
 - Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
 - Battle City event - new skill for Yami Yugi!
 - Elegant Mai will return
+- Unlock a new character: 'I'm ready to take on the world' - could it be Zane Truesdale!?
 - And finally, character level cap increases - took your time Konami! 
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-upcoming-updates.jpg)
