@@ -3,7 +3,7 @@ layout: author
 title: "Cpt. Insano"
 meta: "Owner"
 categories: authors
-image: https://lh3.googleusercontent.com/cttUE9BUVeEnmYS86OFgHVL-91mCNOh4ptKPwQaCO3FDPo8EVYWCVmOqTbphFJDTPyLzP3bT3U35TTrbWMLi=w1680-h944-rw
+image: /img/logos/author-logo/cpt-insano.jpg
 author: Cpt. Insano
 comments: true
 about: "Masters student, blue collar worker by day REZ maniac by night."
