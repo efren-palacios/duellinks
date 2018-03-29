@@ -1,0 +1,14 @@
+---
+layout: author
+title: "Celestial"
+meta: "Owner"
+categories: authors
+image: /img/logos/author-logo/celestial.jpg
+author: Celestial
+comments: true
+about: "Im the Alien expert of the Duel Links Meta Discord. That means a lot to me because this is my favorite archetype in Yugioh. Ive been waiting for them since I picked up Duel Links back in February 2017 by watching a Shady Penguinn video. Im 19 years old from New york. I played a fair bit of Yugioh when I was in middle school but didnt play any after until Duel Links. The Alien archetype interests me because ever since I was a kid, I have been intrigued by them in real life. Im planning to to be an astronomer. All in all im a Yugioh nerd. I'll be happy to give any advice on Duel Links or anything in general. Thanks for reading!"  
+
+accomplishments: "Im an 8 times King of Games and I got 1st place in the Meta Weekly 9."  
+
+discord: "Celestial#4770"
+---
