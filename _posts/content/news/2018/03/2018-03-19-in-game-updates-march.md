@@ -4,7 +4,7 @@ title: In-Game Updates - April
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-27
+date: 2018-03-28
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
