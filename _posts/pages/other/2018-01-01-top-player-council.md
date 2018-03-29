@@ -22,7 +22,7 @@ hide: true
 
 |5th|6th|7th|8th|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="/img/players/skillshot">](/authors/skillshot)|
+|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|![/img/players/skillshot](/authors/skillshot)|
 
 |9th|10th|11th|12th|
 | :-- | :-- | :-- | :-- |
