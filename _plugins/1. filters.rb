@@ -29,7 +29,12 @@ module Jekyll
             combinedLocationName2 += coSubSplitName.capitalize + " "
           end  
           subLocationData.each do |card|
-            card_hash = { 'name' => card["name"].gsub(/"/, "'"), 'rarity' => card["rarity"], 'obtain' => combinedLocationName2 + combinedLocationName1 }
+            if(combinedLocationName1 == "Level Up Reward")
+              obtainVal = combinedLocationName2 + combinedLocationName1 + " - " + card["level"].to_s
+            else
+              obtainVal = combinedLocationName2 + combinedLocationName1
+            end        
+            card_hash = { 'name' => card["name"].gsub(/"/, "'"), 'rarity' => card["rarity"], 'obtain' => obtainVal }
             cards.push(card_hash)
           end 
         end
