@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Gladiator Beasts Guide – March 2018
-author: Brenduke in collaboration with Green
+author: Brenduke
 category: guide
 sub-category: deck-type
 deck-type: gladiator-beasts
@@ -14,6 +14,8 @@ permalink: /guides/deck-types/gladiator-beasts-guide-by-brenduke/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+### Written in collaboration with Green
 
 ### Table of Contents
 * [Introduction & History](#introduction--history)

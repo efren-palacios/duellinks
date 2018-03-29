@@ -1,0 +1,23 @@
+---
+layout: author
+title: "Kaito"
+meta: "Owner"
+categories: authors
+image: /img/logos/author-logo/kaito.png
+author: Kaito
+comments: true
+twitter: https://twitter.com/Kait0o0
+youtube: https://www.youtube.com/channel/UC55OFEWCDjqBUmsphWglLRQ
+twitch: https://www.twitch.tv/0kaito
+discord: https://discord.gg/sQMMcDF
+
+about: "I have been playing Duel Links since its release in January 2017. I got really exited for competitive Duel Links with the World Championship qualifier.  
+
+Since then I have started streaming, organized multiple Tournaments (discord link below), won the Meta Championship Series, done well in various other tournaments and wrote 4 different Duel Links guides released on Steam, Youtube and Duel Links Meta.  
+
+I am a member of the first ever Top Player Council on Duel Links Meta and I am playing for team The Renegades right now."  
+
+accomplishments: "10x KoG, Meta Championship Series 3 Champion, Top 100 WCQ, Top 200 Global KC-Cup November, Rank 4 in Duel Links Pro Ranking & Top Player Council member"  
+
+discord: "Kaito#7017"
+---
