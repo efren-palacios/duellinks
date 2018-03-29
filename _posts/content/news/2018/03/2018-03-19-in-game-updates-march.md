@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In-Game Updates - April
+title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
