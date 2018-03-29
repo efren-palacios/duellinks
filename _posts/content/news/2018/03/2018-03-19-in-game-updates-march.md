@@ -14,6 +14,28 @@ permalink: /news/march-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+## 28th March Update
+
+<br>
+
+### Card Trader Improvements
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-card-trader-29.jpg)
+
+### PVP Duels
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-pvp-duels.jpg)
+
+### Jessie Unlock Event
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-jessie-event.jpg)
+
+### Deck Accessories
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-deck-accessories.jpg)
+
+---
+
 ## 27th March Update
 
 <br>

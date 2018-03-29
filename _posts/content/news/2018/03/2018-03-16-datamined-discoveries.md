@@ -80,7 +80,7 @@ Here's a full list of all the datamined cards with rarities:
 
 **Ultra Rare Cards**
 
-[deck](Elemental HERO Plasma Vice; Masked HERO Anki; Vision HERO Witch Raider; Karakuri Ninja mdl 339 "Sazank"; Eclipse Wyvern; Paleozoic Canadia; Amazoness Princess; Rainbow Overdragon; Rainbow Dragon; Rainbow Dark Dragon; Crystal Bond; Fires of Doomsday; Hardened Armed Dragon; Needle Ceiling; Dragon's Mirror; Dark World Dealings; Fires of Doomsday)
+[deck](Elemental HERO Plasma Vice; Masked HERO Anki; Vision HERO Witch Raider; Karakuri Ninja mdl 339 "Sazank"; Eclipse Wyvern; Paleozoic Canadia; Amazoness Princess; Rainbow Overdragon; Rainbow Dragon; Rainbow Dark Dragon; Crystal Bond; Fires of Doomsday; Hardened Armed Dragon; Needle Ceiling; Dragon's Mirror; Dark World Dealings)
 
 **Super Rare Cards**
 
