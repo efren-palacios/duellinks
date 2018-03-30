@@ -189,11 +189,11 @@ function CardsAPI() {
     this.filters = [
         {
             name: "Enchanted Javelin",
-            customURL: "/img/assets/enchantedJavelin.jpg"
+            customURL: "/img/cards/enchantedJavelin.jpg"
         },
         {
             name: "Hey, Trunade!",
-            customURL: "/img/assets/heytrunade.jpg"
+            customURL: "/img/cards/heytrunade.jpg"
         }
     ]
 };
