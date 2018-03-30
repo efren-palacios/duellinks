@@ -110,7 +110,7 @@ if (!sessionStorage.run3times || sessionStorage.run3times<3) {
 		}else{
         sessionStorage.run3times++;
 	}
-	$.getJSON("https://api.twitch.tv/kraken/streams/monstercat?client_id=ajtf58zc6vxrkaf7faohw5al9v3tua", function(channel)
+	$.getJSON("https://api.twitch.tv/kraken/streams/duellinksmeta?client_id=ajtf58zc6vxrkaf7faohw5al9v3tua", function(channel)
 	{
 		if (channel["stream"] == null)
 		{
