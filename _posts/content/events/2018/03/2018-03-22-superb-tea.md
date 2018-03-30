@@ -5,7 +5,7 @@ title: SUPERB TÉA
 author: Yami Hammy
 image: /img/content/events/2018/03/superb-tea/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Superb Téa has arrived! Here's all you need to know about the event and the best ways to farm her - get those Fairy cards!  
 keywords: event, tea, téa, superb tea, superb téa, farm
