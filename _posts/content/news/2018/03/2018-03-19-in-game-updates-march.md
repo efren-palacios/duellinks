@@ -20,19 +20,27 @@ permalink: /news/march-2018/in-game-updates/
 
 ### Card Trader Improvements
 
-[slider](/img/content/news/2018/03/in-game-updates/slider-card-trader-29.jpg)
+All cards are back at the Card Trader, finally! However, you can only buy one card from the 'Regular Inventory' (older cards) every 8 hours so choose wisely. Also, keys can now be exchanged up to ten times per colour. 
 
-### PVP Duels
+![](/img/content/news/2018/03/in-game-updates/slider-card-trader-29.jpg)
+
+### PvP Duels
+
+You can now surrender during your opponent's turn - be wary there isn't a confirmation on the surrender as I found out the hard way whilst curious! You can also report players for slow play and for using mods/hacks! 
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-pvp-duels.jpg)
 
-### Jessie Unlock Event
+### Jesse Unlock Event
+
+The Jesse Anderson unlock event is here, be sure to check out the ['Awaken! Rainbow Dragon!'](/events/march-2018/awaken-rainbow-dragon/) event article for the best farm decks and tips!
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-jessie-event.jpg)
 
 ### Deck Accessories
 
-[slider](/img/content/news/2018/03/in-game-updates/slider-deck-accessories.jpg)
+You can now set Card Sleeves and Game Mats for each and every deck - customise to your heart's content! 
+
+![](/img/content/news/2018/03/in-game-updates/slider-deck-accessories.jpg)
 
 ---
 
