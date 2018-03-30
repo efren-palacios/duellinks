@@ -15,10 +15,6 @@ permalink: /guides/deck-types/gearia-guide-intro-by-brenduke/
 
 {% include heading.html title=page.title author=page.author %}
 
-
-# Introduction to Geargia Control
-## by Brenduke
-
 [w75]
 ![](https://i.imgur.com/HDEBiwj.png)
 
