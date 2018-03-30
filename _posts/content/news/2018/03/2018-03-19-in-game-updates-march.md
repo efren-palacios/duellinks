@@ -4,7 +4,7 @@ title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-28
+date: 2018-03-30
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,18 @@ permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## 30th March Update
+
+<br>
+
+### New Chazz Skill!
+
+As we speculated in our [Datamined Discoveries](/news/february-2018/datamined-discoveries/#structure-decks) article, the new skill that begins the duel with {Dragon's Mirror} in your Deck, and {Five-Headed Dragon} in your Extra Deck does in fact belong to Chazz!
+
+![](/img/content/news/2018/03/in-game-updates/chazz-skill.jpg)
+
+---
 
 ## 28th March Update
 

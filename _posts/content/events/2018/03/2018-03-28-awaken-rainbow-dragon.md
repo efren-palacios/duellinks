@@ -16,6 +16,8 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
+**Last updated 30th March**
+
 - [Event Information](#event-information)
 - [Drop Rewards ](#drop-rewards)
 - [EX Jewel Rewards](#ex-jewel-rewards)
@@ -31,8 +33,12 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 ### Event Information 
 - Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards and unlock him as a Duelist!
 - This event lasts from March 28th to April 5th.
-- Duel against Legendary/Standard Duelists to collect 'Crystal Fruits' which you use to duel Jesse at the gate.
-- You will attain x4 Duel Assessment multipler by dueling Superb Tèa and The Vagabond, and x18 from Zane - go get that icon! 
+- Duel against Legendary/Standard Duelists and Ranked Duels to collect 'Crystal Fruits' which you use to duel Jesse at the gate.
+- You will attain a specific [Duel Assessment](/farming/duel-assessment-score/) multipler from duels: 
+    - x1 Standard Duelists
+    - x1-4 Legendary Duelists Lvl. 10-40 
+    - x4 The Vagabond
+    - x18 Zane
 - You can also earn up to 30 Crystal Fruits a day from playing 3 Ranked Duels
 - Obtain EX Jewels by dueling Jesse to use at the Card Trader EX and add more powerful cards to your collection - check out the list below!
 
@@ -136,7 +142,7 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
  
 Take screenshots (post in the Discord: #jesse-event), when the event is over the person with:
 - The 'best drop' will have their name posted here
-- Most UR/SR cards will have their name posted here
+- Highest 'Duel Energy' points will have their name posted here
 - Most Prismatic drops will have their name posted here
 
 Immortalised forever on DLM!
