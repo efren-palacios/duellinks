@@ -1,16 +1,16 @@
 ---
 layout: blog
-title: Introduction to Gearia
+title: Introduction to Geargia
 author: Brenduke
 category: guide
 sub-category: deck-type
-deck-type: gearia
+deck-type: geargia
 image: /img/content/guides/geargia-guide-intro-by-brenduke/geargia.jpg
 date: 2018-03-29
 comments: false
-description: A detailed guide written by Brenduke presenting an introduction to the Gearia archetype.
-keywords: guide, gearia, geariano, geariaccelerator, core cards
-permalink: /guides/deck-types/gearia-guide-intro-by-brenduke/
+description: A detailed guide written by Brenduke presenting an introduction to the Geargia archetype.
+keywords: guide, geargia, geargiano, gearigaccelerator, core cards
+permalink: /guides/deck-types/geargia-guide-intro-by-brenduke/
 ---
 
 {% include heading.html title=page.title author=page.author %}
