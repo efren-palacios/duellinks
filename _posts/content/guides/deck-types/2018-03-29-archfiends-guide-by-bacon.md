@@ -231,7 +231,7 @@ This is again dependent on who goes second and who draws what. Call this a coin 
 ---
 
 ### Dinosaurs  
-You’re bigger. You’re badder. You make their cards go boom. Look out for ECons, but do not be considered with things like Super Rush Headlong.  
+You’re bigger. You’re badder. You make their cards go boom. Look out for ECons, but do not be concerned with things like Super Rush Headlong.  
 
 **Matchup Odds:**  
 65-35 Our favor  
