@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: geargia
 image: /img/content/guides/geargia-guide-intro-by-brenduke/geargia.jpg
-date: 2018-03-29
+date: 2018-03-30 01:00:00
 comments: false
 description: A detailed guide written by Brenduke presenting an introduction to the Geargia archetype.
 keywords: guide, geargia, geargiano, gearigaccelerator, core cards
