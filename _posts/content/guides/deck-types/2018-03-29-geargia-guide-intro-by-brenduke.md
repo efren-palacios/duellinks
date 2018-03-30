@@ -121,5 +121,5 @@ This will become a full guide when we have the cards and know match ups, builds 
 
 ---
 
-*This guide was lovingly converted by Freeska*
+*This guide was lovingly converted by Freeska*  
 *This guide was happily updated by Jonesy9027*
