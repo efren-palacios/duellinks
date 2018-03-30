@@ -82,19 +82,19 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
 
 <br>
 
-**Decklist by Mewf**
+**Dark World Build by Mewf**
 
 [deck:Duel, standby!](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snoww, Unlight of Dark World;Snoww, Unlight of Dark World;Snoww, Unlight of Dark World;Trance Archfiend;Trance Archfiend;Ceruli, Guru of Dark World;Ceruli, Guru of Dark World;Ceruli, Guru of Dark World;Reign-Beaux, Overlord of Dark World;Reign-Beaux, Overlord of Dark World;Reign-Beaux, Overlord of Dark World;Dark World Dealings;Dark World Dealings;Dark World Dealings;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend)
 
 <br>
 
-**Decklist by Whybona**
+**LP Boost a Build by Mewf**
 
 [deck:LP Boost a](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snipe Hunter;Sphere Kuriboh;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Card of the Soul;Card of the Soul;Card of the Soul;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing)
 
 <br>
 
-**Decklist by Mewf**
+**Needlebug Nest Build by Whybona**
 
 [deck:Restart](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Lyla, Lightsworn Sorceress;Lyla, Lightsworn Sorceress;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing;Fiend Griefing;Needlebug Nest;Needlebug Nest)
 
