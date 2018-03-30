@@ -18,6 +18,7 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
 ### Table of Contents
 * [Introduction](#introduction)
 * [Current Builds](#current-builds)
+* [Optimized Decks](#optimized-decks)
 * [Deck Cores](#deck-cores)
 * [Core Cards](#core-cards)
     * [Monster Core](#monster-core)
@@ -48,6 +49,8 @@ In this guide I will go over a list of current viable Archfiend builds, their ca
 
 It should be noted that each of the 3 current main builds all focus on different plays, set-ups, and seek out different cards throughout the duel. Which build you go after is entirely dependent on your preferred playstyle and the type of deck that you value the most.  
 
+---
+
 ### Current Builds  
 
 Currently, Archfiends make the most use out of 3 builds:  
@@ -72,6 +75,32 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
     * Skill: {Restart}  
 
 <br>
+
+---
+
+### Optimized Decks  
+
+<br>
+
+**Decklist by Bacon**
+
+[deck:Duel, standby!](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snoww, Unlight of Dark World;Snoww, Unlight of Dark World;Snoww, Unlight of Dark World;Trance Archfiend;Trance Archfiend;Ceruli, Guru of Dark World;Ceruli, Guru of Dark World;Ceruli, Guru of Dark World;Reign-Beaux, Overlord of Dark World;Reign-Beaux, Overlord of Dark World;Reign-Beaux, Overlord of Dark World;Dark World Dealings;Dark World Dealings;Dark World Dealings;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend)
+
+<br>
+
+**Decklist by Whybona**
+
+[deck:LP Boost a](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snipe Hunter;Sphere Kuriboh;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Card of the Soul;Card of the Soul;Card of the Soul;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing)
+
+<br>
+
+**Decklist by Bacon**
+
+[deck:Restart](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Lyla, Lightsworn Sorceress;Lyla, Lightsworn Sorceress;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing;Fiend Griefing;Needlebug Nest;Needlebug Nest)
+
+<br>
+
+---
 
 ### Deck Cores  
 
@@ -164,6 +193,8 @@ There are currently a number of solid tech cards for the builds that can fit the
 13. {Gravity Lash} (This card is a perfect side deck choice against Cyber Angels)  
 14. {Monster Gate} (Tribute a monster to special summon a random from the deck; has the capability of tributing a Cavalry or Lyla and pulling an Emperor or Empress straight onto the field)  
 15. {Skill Successor} (The perfect mill card without losing any value in the grave)  
+
+---
 
 ### Playstyle
 
@@ -276,6 +307,6 @@ Archfiends boast 2 of the biggest bosses in the current meta and really shine ag
 
 To the following players that have stood by this archetype with me since the beginning, helped push the decks forward with the meta, and spent thousands of combined hours testing, thank you and I cannot wait to add more to this as we continue to grow.  
 
-**Nidoblast, Tekkeun, Wayne Kenoff, Race, Sektor, Davidoff, Chilah, Jan**
+**Nidoblast, Tekkeun, Wayne Kenoff, Race, Sektor, Davidoff, Chilah, Jan, Mewf**
 
 {% include decktype_decks.html decktype=page.deck-type %}
