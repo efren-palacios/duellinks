@@ -19,14 +19,14 @@ module Jekyll
           month = year[month_key]
 
           generateTopDecksSeasons(site, year_key, month_key, month)
-
+=begin
           for decktype_key in month.keys
             decktype = month[decktype_key]
             
             #generate top-decks seasonal decktype pages
 
             for deck_key in decktype.keys
-              
+
               deck = decktype[deck_key]
               deck_name = deck['name']
 
@@ -69,8 +69,10 @@ module Jekyll
               site.pages << DeckPage.new(site, site.source, '', 'deck.html')
 
               FileUtils.rm 'deck.html'
+
             end
           end
+=end
         end
       end
     end
@@ -89,7 +91,7 @@ module Jekyll
     end
 
     def generateTopDecksSsnPageFiles(site, year, month, decktypes)
-      
+     
       monthName = Date::MONTHNAMES[month.to_i].downcase
       
       unless File.exist?('season-page.html')
@@ -113,7 +115,7 @@ module Jekyll
     end
 
     def generateTopDecksSsnDataFiles(site, year, month, decktypes)
-      
+=begin   
       file_path = site.source + "/data/top-decks/" + year + "-" + month + ".json"
       
       if File.exist?(file_path)
@@ -181,7 +183,7 @@ module Jekyll
 
       new_file.puts(top_decks.to_json)
       new_file.close
-     
+=end     
     end
   end
 end
