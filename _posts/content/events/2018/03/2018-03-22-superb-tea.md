@@ -16,8 +16,9 @@ permalink: /events/march-2018/superb-tea/
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-**Last updated: 27th March**
+**Last updated: 30th March**
 
+- [Duel Awards](#awards)
 - [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards ](#drop-rewards)
@@ -25,10 +26,42 @@ permalink: /events/march-2018/superb-tea/
 - [Top Player Council Thoughts](#top-player-council-thoughts)
 - [Farm Deck](#farm-deck)
 - [Superb Téa Lvl: 40 Decklist](#40)
-- [Duel Awards](#awards)
+
+---
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+
+#### Best Drop
+
+**VoRLiN:** 'Been trying to get my last divine punishment forever...then this happens'
+
+![](/img/content/events/2018/03/superb-tea/vorlin.jpg)
+
+#### Most UR and SR Cards
+
+**thiefofhearts**
+
+![](/img/content/events/2018/03/superb-tea/thiefofhearts.jpg)
+
+#### Most Prismatic Drops 
+
+**tripsaaa:**
+
+![](/img/content/events/2018/03/superb-tea/tripsaaa.jpg)
+
+**dan_keibler:**
+
+![](/img/content/events/2018/03/superb-tea/dan_keibler.jpg)
+
+---
+
+<br>
 
 [slider](/img/content/events/2018/03/superb-tea/slider.jpg)
-
 
 ### Update
 The event has been extended from 28th March and will now conclude 30th March. If you still need a playset - farm, farm, farm! 
@@ -101,20 +134,3 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 ### Superb Téa Lvl: 40 Decklist
 
 [deck](Meltiel, Sage of the Sky; Meltiel, Sage of the Sky; Bountiful Artemis; Bountiful Artemis; Bountiful Artemis; Harvest Angel of Wisdom; Harvest Angel of Wisdom; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Skelengel; Skelengel; Skelengel; Photon Booster; The Sanctuary in the Sky; The Sanctuary in the Sky; Magic Jammer; Divine Punishment; Divine Punishment; Trap Jammer)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots, when the event is over the person with:
-- The 'best drop' will have their name posted here
-- Most UR/SR cards will have their name posted here
-- Most Prismatic drops will have their name posted here
-
-Immortalised forever on DLM!
