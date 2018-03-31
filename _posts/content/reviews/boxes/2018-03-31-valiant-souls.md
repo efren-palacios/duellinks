@@ -52,12 +52,12 @@ I strongly believe this will be a Tier 1 deck once optimized.
 - Masked/Destiny HEROes: Already being a viable deck, Destiny Heroes are getting even more support with the new cards; {Masked HERO Anki} and {Mask Change}. The 30 card deck version being able to Fusion Summon for {Destiny HERO - Dangerous} out on your first turn, you are able to OTK your opponent a lot quicker as Mask Change is a Quick-Play Spell and can be activated during the Battle Phase. Not only do these new Masked HERO cards synergize with the 30 card version, but also the Dark City version with {Destiny HERO - Drilldark}. I believe this will be a great deck to use in the upcoming KC Cup and will be a higher tier than what the deck is at now. 
 - Paleozoics: Having not just topped in tournaments, but also getting first place in 2 YCS's in the TCG, Paleozoics is another deck to look out for. Giving us {Paleozoic Canadia}, similar to {Floodgate Traphole} and {Book of Moon} (not currently in the game) and {Paleozoic Pikaia}, which is draw power, is good enough for a viable deck. Mixing these with the current {Citadel Whale} decks, allows the deck to have protection from cards like {Super Rush Headlong} as well as fuel for {Abyss Soldier}. I do not see a pure Paleozoic deck being viable but Canadia and Pikaia can be mixed with other current top tier decks or even new decks with cards we already have.
 - Dragons: As Konami has been releasing Dragon support since the launch of the game, there is no way I don't see potential in them. With the new structure deck coming out soon along with {Eclipse Wyvern} in this box, Dragons have versatility. {Arkbrave Dragon} will most likely be the main boss monster in the deck as it is able to banish face-up Spell/Trap cards on the field and can revive another Dragon monster from the grave. There could be a better version of a {Red-Eyes Slash Dragon} deck as it synergizes well with {Paladin of Felgrand} and {Dragon Knight of Creation}. Though, I believe that there will be a Dark and Light Dragon version, or [Chaos Dragons](http://yugioh.wikia.com/wiki/Chaos_Dragon), which can utilize other cards already in the game such as Darkflare Dragon and Black Luster Soldier - Envoy of the Evening Twilight.
-- Geargia: Another top deck that was in the TCG, I believe Geargias have some potential in them. As Geargias was superior in the TCG due to Exceed Monsters, we do not have the luxury of the black bordered cards yet, but that does not mean they aren't good without them. With Geargiattacker, Gearianchor, and Geargiarsenal being the main core, this control deck has both monster and backrow removal which is similar to other current decks such as [Flying Fish](/tier-list/fishes/), [Sylvans](/tier-list/sylvans/) and [Gladiator Beast](/tier-list/gladiator-beasts/). Though having slower effects than those decks do, this deck can potentially be a newer version of Statue Control, possibly adding {Desert Sunlight} to speed things up.
+- Geargia: Another top deck that was in the TCG, I believe Geargias have some potential in them. As Geargias was superior in the TCG due to Xyz Monsters, we do not have the luxury of the black bordered cards yet, but that does not mean they aren't good without them. With Geargiattacker, Gearianchor, and Geargiarsenal being the main core, this control deck has both monster and backrow removal which is similar to other current decks such as [Flying Fish](/tier-list/fishes/), [Sylvans](/tier-list/sylvans/) and [Gladiator Beast](/tier-list/gladiator-beasts/). Though having slower effects than those decks do, this deck can potentially be a newer version of Statue Control, possibly adding {Desert Sunlight} to speed things up.
  
 *Other Archetypes*
 - Karakuri: Though a great deck in the TCG, Karakuris have little support added and no Synchros in the game yet. But looking at the current cards leaked, they have some synergy with {Ninjitsu Art of Transformation} and {Ninjitsu Art of Duplication}. As {Karakuri Ninja ndl 339 "Sazank"} and {Karakuri Ninja mdl 7749 "Nanashick"} are both able to be summoned by those two cards. But with the meta having {Cosmic Cyclone} as a staple, I doubt that there will be a viable version in the meta. 
 - Fabled: Same with Karakuri as Fableds have little support and no Synchros. {The Fabled Ganashia} being one of the only ones to have Fabled signature effects of being discarded, along with {The Fabled Lurrie} which is already in the game and not being used.
-- Hieratic: Same with Karakuri and Fableds, not even support and no Exceeds/Synchros for them to be viable.
+- Hieratic: Same with Karakuri and Fableds, not even support and no Xyz/Synchros for them to be viable.
 
 **Glading** says:
 
@@ -73,9 +73,9 @@ I strongly believe this will be a Tier 1 deck once optimized.
 **Kaki** says:
 
 The set contains three new archetypes that will impact the meta
-- At first we got Geargia (https://imgur.com/occ38VT). The deck seems to be similar to Fishes with {Geargianchor} and {Geargiattacker} acting like {Golden Flying Fish} for monster and backrow destruction and {Geargiarsenal} having the same effect as {Beautunaful Princess} but you can play three of it and you can use {Powerful Rebirth} with it. 
-- Next we got an archetype that is still a top tier deck in the TCG. We get them without Frogs but Paleozoic is still a potential tier 1 deck (https://imgur.com/MoawIO9). Paleo has so much utility with the trap monsters being unaffected by monster effects and treated as normal monsters, so there should be space for some crazy ideas in the future. The best Paleozoic card is {Paleozoic Canadia}. Flipping a monster face-down is a powerful tool but the card will also be a great tech in other decks.
-- And lastly we got the new Hero support. With {Vision Hero Witch Raider} we get a powerful boss monster and a tool for backrow destruction that has great synergy with the new Paleozoic trap cards (https://imgur.com/0LwqBKX). Also the new {Masked Hero Anki} pushes their OTK potential.
+- At first we got [Geargia](https://imgur.com/occ38VT). The deck seems to be similar to Fishes with {Geargianchor} and {Geargiattacker} acting like {Golden Flying Fish} for monster and backrow destruction and {Geargiarsenal} having the same effect as {Beautunaful Princess} but you can play three of it and you can use {Powerful Rebirth} with it. 
+- Next we got an archetype that is still a top tier deck in the TCG. We get them without Frogs but [Paleozoic](https://imgur.com/MoawIO9) is still a potential tier 1 deck. Paleo has so much utility with the trap monsters being unaffected by monster effects and treated as normal monsters, so there should be space for some crazy ideas in the future. The best Paleozoic card is {Paleozoic Canadia}. Flipping a monster face-down is a powerful tool but the card will also be a great tech in other decks.
+- And lastly we got the new Hero support. With {Vision Hero Witch Raider} we get a powerful boss monster and a tool for backrow destruction that has great synergy with the new [Paleozoic trap cards](https://imgur.com/0LwqBKX). Also the new {Masked Hero Anki} pushes their OTK potential.
 
 **Whybona** says:
 
@@ -190,7 +190,7 @@ The set contains three new archetypes that will impact the meta
 
 - {Eclipse Wyvern}: a great card but we need more/better targets like {Red-Eyes Darkness Metal Dragon} or {Light and Darkness Dragon}.
 - {Parallel World Fusion}: a good card for Hero decks but we need more generic Hero fusion monsters to use it.
-- {Stygian Dirge}: a side deck card against synchro or XYZ decks, so keep it in mind.
+- {Stygian Dirge}: a side deck card against synchro or Xyz decks, so keep it in mind.
 - {The Fabled Ganashia}: Fabled is a great synchro deck but right now the only card you should keep in mind is Ganashia for Fabled Synchro in the future.
 
 **Whybona** says:
@@ -230,7 +230,7 @@ Heroes have a better fusion focus rather than {Polymerization} and with {Mask Ch
 
 **MiguelJoker** says:
 
-Geargianos will be very strong in XYZ, Karakuris are a very strong Synchro deck so its missing support and Fabled is also a potential strong Synchro deck. So I feel this box has a lot of future potential because it has many diferent archetypes. But for the actual meta I don't see any major impact card.
+Geargianos will be very strong in Xyz, Karakuris are a very strong Synchro deck so its missing support and Fabled is also a potential strong Synchro deck. So I feel this box has a lot of future potential because it has many diferent archetypes. But for the actual meta I don't see any major impact card.
 
 **Kaki** says:
 
