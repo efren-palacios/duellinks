@@ -214,3 +214,90 @@ However, delay the fade out process for 2.5 seconds */
     color: #D8D8D8;
     font-size: 17px;
 }
+
+
+
+//Dev profiles
+h6.description{
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #999;
+	border-bottom: 1px solid rgba(0, 0, 0,0.1);
+	padding-bottom: 5px;
+}
+.devprofile{
+	margin-top: 25px;
+}
+.devprofile h1{
+	font-weight: normal;
+	font-size: 20px;
+	margin:10px 0 0 0;
+}
+.devprofile h2{
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: 5px;
+}
+.devprofile .devImg-box{
+	opacity: 1;
+	display: block;
+    position: relative;
+    width: fit-content;
+}
+.devprofile .devImg-box:after{
+	content:"";
+	opacity: 0;
+	background-color: rgba(0, 0, 0, 0.75);
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+}
+.devImg-box ul{
+	position: absolute;
+	z-index: 2;
+	bottom: 50px;
+	text-align: center;
+	width: 100%;
+	padding-left: 0px;
+	height: 0px;
+	margin:0px;
+	opacity: 0;
+}
+.devprofile .devImg-box:after, .devImg-box ul, .devImg-box ul li{
+	-webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+.devImg-box ul i{
+	font-size: 20px;
+	letter-spacing: 10px;
+}
+.devImg-box ul li{
+	width: 30px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid #88C425;
+    margin: 2px;
+    padding: 5px;
+	display: inline-block;
+}
+.devImg-box a{
+	color:#fff;
+}
+.devImg-box:hover:after{
+	opacity: 1;
+}
+.devImg-box:hover ul{
+	opacity: 1;
+}
+.devImg-box ul a{
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+.devImg-box a:hover li{
+	border-color: #fff;
+	color: #88C425;
+}
