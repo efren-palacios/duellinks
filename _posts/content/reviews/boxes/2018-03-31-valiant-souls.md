@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-03-31 
-title: "Box Review: Valiant Souls"
+title: "First Impressions: Valiant Souls"
 author: Yami Hammy
 category: review
 sub-category: box
@@ -17,13 +17,33 @@ permalink: /box-reviews/valiant-souls/
 [w100]
 ![](/img/content/box-reviews/valiant-souls/banner.jpg)
 
+- [Card List](#card-list)
 - [Top Player Council Thoughts](#top-player-council-thoughts)
     - ['What are the new deck types to look out for and the best cards for those deck types?'](#q1)
     - ['Which cards do you think are absolutely needed?'](#q2)
     - ['Which cards do you think are maybe needed in some decks?'](#q3)
     - ['Which cards do you think have future potential?'](#q4)
     - ['Is there anything else you'd like to say?'](#q5)
-- [Card List](#card-list)
+
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.box.valiant-souls rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.box.valiant-souls rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.box.valiant-souls rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.box.valiant-souls rarity="N" %}
+
+---
 
 ### Top Player Council Thoughts
 
@@ -64,7 +84,7 @@ I strongly believe this will be a Tier 1 deck once optimized.
 - Geargia ({Geargiattacker}, {Geargianchor}, {Geargiarsenal}): monster and backrow removal built in the system, very flexible.
 - Paleozoic ({Paleozoic Canadia}): potential synergy with {Citadel Whale} and {That Grass Looks Greener}, playable even without Whale by teching in cards like {Order to Smash} and {Order to Charge}.
 - Mask-Destiny Hero ({Masked Hero Anki}): Anki makes OTK easy, but still lacks backrow removal. So I think it still be built into current [Destiny Hero](/tier-list/destiny-heroes/) decks.
-- Amazoness ({Amazoness Princess}, {Amazoness Onslaught}): Princess searches for Onslaught, and Onslaught can special summon other powerful Amazoness monsters. It has monster and backrow removal, not as good as Geargia, but still can at least be a high potential deck.
+- Amazoness ({Amazoness Onslaught}): Onslaught can special summon other powerful Amazoness monsters. It has monster and backrow removal, not as good as Geargia, but still can at least be a high potential deck.
 
 **MiguelJoker** says:
 
@@ -162,7 +182,7 @@ The set contains three new archetypes that will impact the meta
 
 **skillShot** says:
 
-- {Karakuri Ninja ndl 339 "Sazank"} and its archetype, {Amazoness Princess} and {Crystal Raigeki}.
+- {Karakuri Ninja ndl 339 "Sazank"} and its archetype and {Crystal Raigeki}.
 
 **Kwrowe** says:
 
@@ -239,23 +259,3 @@ Overall the set seems to be ok and I would compare it to [Generation Next](/box-
 **Machdragon** says:
 
 This is a nice set to boost existing Hero decks, but doesn’t offer much new support for other meta decks. It's not an essential set that will greatly shift the current meta.
-
----
-
-### Card List
-
-#### Ultra Rare Cards
-
-{% include box.html box=site.data.box.valiant-souls rarity="UR" %}
-
-#### Super Rare Cards
-
-{% include box.html box=site.data.box.valiant-souls rarity="SR" %}
-
-#### Rare Cards
-
-{% include box.html box=site.data.box.valiant-souls rarity="R" %}
-
-#### Normal Cards
-
-{% include box.html box=site.data.box.valiant-souls rarity="N" %}
