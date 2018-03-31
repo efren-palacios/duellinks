@@ -52,8 +52,8 @@ Once you're done you'll have to wait for April 1st 2019 to get another copy of {
 
 | Mission | Reward | 
 |--|--|
-| Win 1 Duel against Tristan Taylor at in Duel World | Card Sleeves |
-| Win 1 Duel against Tristan Taylor at in Duel World | Game Mat |
+| Win 1 Duel against Tristan Taylor in Duel World (DM) | Card Sleeves |
+| Win 5 Duels against Tristan Taylor in Duel World (DM) | Game Mat |
 
 ---
 
