@@ -50,6 +50,8 @@ permalink: /box-reviews/valiant-souls/
 <a name="q1"></a>
 #### 'What are the new deck types to look out for and the best cards for those deck types?'
 
+<br>
+
 **skillShot** says: 
 
 - Masked Heroes, with the new quick play spell card {Mask Change} will open up possibilities for HERO decks with different skills such as {Destiny Calling} or {Field of the Warriors}.
@@ -62,9 +64,10 @@ permalink: /box-reviews/valiant-souls/
 Furthermore, it can be used to facilitate OTK plays the turn it is drawn, unlike the Ninjitsu cards which require set up. Another advantage with Mask Change is its synergy with Masked Hero Anki, which allows you to search for a copy of Mask Change when it destroys a monster by battle. Being a 2800 beater, that has the ability to attack directly, it is not hard to imagine the OTK potential this card has. Other cards from the set that could be used are {Masked Hero Vapor} and {Vision HERO Witch Raider}. 
 I strongly believe this will be a Tier 1 deck once optimized. 
 - Karakuri's were a top tier deck in the TCG, but will not have the same power in Duel Links because they relied on Synchro monsters that are not currently in the game. However, they have a helpful draw card in {Karakuri Anatomy} and some good synergy with {Spike Shield with Chain}, as the monsters must change to defense after making an attack. The best cards for the deck will be {Karakuri Muso mdl 818 "Haipa"} - a 2100 beater, and {Karakuri Ninja mdl 339 "Sazank"} - a monster that has an effect similar to {Man-Eater Bug} but with a more respectable 1200 ATK/DEF. When Synchro monsters do eventually come to the game, this deck could become top tier if Karakuri receives further support.
-- Geargia were another strong archetype in the TCG, but their effects may be too slow to keep up with decks like [Sylvan's]() and [Cyber Angels](). They still have some good cards to work with. {Geargiano Mk-II} allows for swarming, {Geargiarsenal} is an effective searcher, {Geargiattacker} can be used for spell/trap destruction and {Geargianchor} monster destruction. The deck may benefit from some kind of boss monster, as none of the cards have more than 1900 ATK.
-- A deck focusing around {Vision HERO Witch Raider} may have some potential because of {Fires of Doomsday} and {Paleozoic Canadia} that allow you to special summon normal monsters when another trap is activated. These cards provide good tribute fodder. However, it remains to be seen how effective this deck could be because most decks on the [Tier List]() currently do not rely on heavy backrow, or run chainable backrow. Still, the introduction of the new set could change this.
+- Geargia were another strong archetype in the TCG, but their effects may be too slow to keep up with decks like [Sylvan's](/guides/deck-types/sylvans-guide-intro-by-superforms/) and [Cyber Angels](/guides/deck-types/the-cyber-angels-guide-by-negative1/). They still have some good cards to work with. {Geargiano Mk-II} allows for swarming, {Geargiarsenal} is an effective searcher, {Geargiattacker} can be used for spell/trap destruction and {Geargianchor} monster destruction. The deck may benefit from some kind of boss monster, as none of the cards have more than 1900 ATK.
+- A deck focusing around {Vision HERO Witch Raider} may have some potential because of {Fires of Doomsday} and {Paleozoic Canadia} that allow you to special summon normal monsters when another trap is activated. These cards provide good tribute fodder. However, it remains to be seen how effective this deck could be because most decks on the [Tier List](/tier-list/) currently do not rely on heavy backrow, or run chainable backrow. Still, the introduction of the new set could change this.
 - Fabled cards have also been released but they are unlikely to have any impact as a competitive deck.
+- I think for the Amazoness deck to be good, the recent [datamined skill](/news/march-2018/datamined-discoveries/) that starts the Duel with {Amazoness Village} would have to come out. There is a chance that the skill is just being added for a character in Battle City event in April and won't be a usable skill. Without that skill, the deck lacks a reliable search engine, something that most decks on the tier list now seem to have in one form or another.
 
 **SelectMaple** says:
 
@@ -108,9 +111,45 @@ The set contains three new archetypes that will impact the meta
 
 - Masked Heroes!: {Mask Change} gives Heroes much higher flexibility with the ability to dodge targeting effects and higher damage output.
 
+**Kayoh** says:
+
+Masked Hero
+- The new Masked Hero cards are likely to be the best cards from this box in terms of their impact on the meta. The release of the Destiny Hero Structure Deck pushed the Dark City version of this deck to a respectable 'Notable King of Game Deck' level, with cards like {Destiny HERO - Celestial}, {Destiny HERO - Drilldark} and {Destiny HERO - Dangerous} providing a solid draw engine, OTK potential and consistency, but overall still lacked in power to make the tier list. With the release of {Mask Change} and {Masked Hero Anki}, this deck definitely has the potential to hit the tier list. Mask Change is a quick-play spell that allows you to easily summon Anki from the extra deck by sending a dark Hero monster you control, which combos with all the Destiny Heros in this deck.
+Being quick-play means you're able to make an initial attack with your level 4 monsters, and are able to respond with Mask Change if your opponent plays a backrow like {Enemy Controller}/{Wall of Disruption} etc.
+The OTK potential of this deck skyrockets as you can easily get out a 2800 beater that can attack directly (though halved damage). Also, if you manage to destroy their monster with Anki, you can search another Mask Change and use it again in the same turn for another Anki. 
+- The current Tier 1 deck: [Sea Stealth Attack](/tier-list/sea-stealth-attack/), will have a bad time against this match up. {Destiny HERO - Celestial} will destroy their {Umi} on attack declaration, and then {Mask Change} activated in the Battle Step for a {Masked Hero Anki} to get over the {Citadel Whale} - insane! Expect to see it in next week's [Meta Weekly](/tournaments/meta-weekly/).
+
+Fabled
+- This archetype is interesting, works similarly to Dark Worlds as Fabled has effects that activate by discarding them. 
+Note: Fabled effects like {The Fabled Ganashia} work even with cards that need a discard cost, like {Tribute to the Doomed}, whereas Dark Worlds don't. Overall, I don't see this archetype being a threat with the current [datamined cards](/news/march-2018/datamined-discoveries/).
+- {The Fabled Ganashia}: an overall good card that can be used outside of the Fabled archetype. Can be discarded by {Snipe Hunter}, {Divine Wrath}, {Tribute to the Doomed} etc, and be special summoned from the Graveyard with 1800 attack. I can see this card being played in Snipe Hunter control decks. Also might be a useful tech in Counter Fairies.
+- {Fabled Dianaira} and {Fabled Dyf} have cool synergy. If you have Dyf on the field and discard Dianaira from your hand with a card effect, you can tribute your Dyf to special summon Dianaira. Dianaira does have a useful effect of stopping your opponent from using spells, and a strong 2800 attack.
+
+Karakuri
+- This archetype is still lacking support, and will likely become a lot better in the future (potentially with the addition of Synchros).
+Important note to players interested in playing this deck: 
+- {Karakuri Showdown Castle} is a great card to play in this deck as it acts like a permanent {Enemy Controller} (switching monsters to defence). 
+- Its secondary effect allows you to special summon level 4 or higher Karakuri monsters in your Graveyard when the field spell is destroyed, which is really good. However, you can miss timing on the secondary effect if: 
+    - You {Storm} away the field spell
+    - You activate another field spell 
+But {Double Cyclone} does not miss timing, so that's possibly a good card to use here.
+
+Hieratic
+- The only good thing about this archetype is being YouTube clickbait. But seriously, I don't see this deck being any good. Requires way too much set up. 
+
+**Whilipino** says:
+
+- (Most potential) Masked Destiny Heroes: {Mask Change} and {Masked Hero Anki}.
+- Geargia: {Geargiaarsenal}, {Geargiaattacker} and {Geargiaanchor}.
+- Karakuri: {Karakuri Muso mdl 818 "Haipa"}, {Karakuri Ninja ndl 339 "Sazank"} and {Karakuri Anatomy}.
+- Hieratic: {Hieratic Dragon of Asar} and {Hieratic Dragon of Gebeb}.
+- Odion Paleozoics: {Paleozoic Canadia}, {Paleozoic Marrella} and {Vision HERO Witch Raider}
+
 ---
 <a name="q2"></a>
 #### 'Which cards do you think are absolutely needed?'
+
+<br>
 
 **skillShot** says:
 
@@ -141,9 +180,22 @@ The set contains three new archetypes that will impact the meta
 
 - {Dark World Dealings} is a nice pick up for Dark World and [Archfiend](/tier-list/archfiends/) decks that are able to counter [Sylvans](/tier-list/sylvans/).
 
+**Kayoh** says:
+
+- {Mask Change} and {Masked Hero Anki} will greatly improve Destiny Heroes, a must for this deck for reasons stated above.
+- {Paleozoic Canadia}: I believe this may become a main card in [Sea Stealth Attack](/tier-list/sea-stealth-attack/) decks as it synergizes well with {Citadel Whale}. Good side-deck potential in other decks. Comparable to {Floodgate Trap Hole}, but you're forced to use Floodgate on a monster summon only, whereas Canadia can flip monsters face down whenever you want, like in the middle of battle, which makes it more versatile. However, opponent can flip their monsters next turn. Note: flipping your opponent's monsters face-down means they lose any attack/defence boosts, so a 3700 ATK {Cyber Angel Dakini} will lose the boost from {Cyber Angel Idaten} and return to 2700 ATK once flipped up. They also lose their Dakini's End Phase effect.
+
+**Whilipino** says:
+
+- {Paleozoic Canadia}: good generic trap with many flexible uses - stopping attacks, preventing ignition effects the turn a monster is summoned. Its effect to summon itself back from the Graveyard can be useful as a body blocker, additional tribute summon, or an additional 1200 damage to push for game.
+- {Mask Change}/{Masked Hero Anki}: these cards help push Destiny Heroes further. Mask Change allows the Hero player to push through back row with ease and provide easy OTK's with Anki. Anki's effect to search another mask change allows for easy OTK's and it's effect to attack directly can be the difference between having game and losing.
+- {Dark World Dealings}: now everyone who didn't have these before can finally play their Dark World decks.
+
 ---
 <a name="q3"></a>
 #### 'Which cards do you think are maybe needed in some decks?'
+
+<br>
 
 **skillShot** says:
 
@@ -176,9 +228,23 @@ The set contains three new archetypes that will impact the meta
 
 - {Needle Ceiling} has potential, but it is quite situational as it requires 4 monsters on the board to activate its effect.
 
+**Kayoh** says:
+
+- {Vision HERO Witch Raider}: this card caught my attention. Being able to use traps as fodder for its tribute summon makes the Witch a lot easier to get out. Clearing your opponent's entire backrow on summon is a very OP effect. However, I can't see this card fitting in any top tier decks as none are trap heavy. If [Gladiator Beasts](/guides/deck-types/gladiator-beasts-guide-by-brenduke/) were still around, I can see it being teched in/sided. If this card ever sees competitive play, I think it will mainly serve as a side deck card.
+- {Fires of Doomsday}: comparable to {Stray Lambs}. The difference is that Doomsday is a quick-play spell and are Fiends, so it could see potential play in [Archfiend](/guides/deck-types/archfiend-guide-by-bacon/) decks. Tip: you can use this card in your opponent's End Phase, so next turn you're able to use it for tributing. Whereas, Stray Lambs forces you to set. Archfiends almost hit the [Tier List](/tier-list/) before, and may have another shot if players figure out the best way to integrate Fires of Doomsday to this deck.
+
+**Whilipino** says:
+
+- {Needle Ceiling}: with the current state of the game, I don't believe this card will see any main deck play despite being a board wipe. I do believe there is potential in the side deck for this card
+- {Photon Wyvern}: if a good dragon deck comes out, this card can see some play. If not, this is a cool side deck tech since it blows up all sets (monsters, spells and traps)
+- {Abyssal Kingshark}: another option for the [Flying Fish](/tier-list/fishes/) deck to play. Maybe it can replace {Hammer Shark} in some builds.
+- {Vision HERO Witch Raider}: very cool tech in decks that play a lot of traps. May see play in side decks.
+
 ---
 <a name="q4"></a>
 #### 'Which cards do you think have future potential?' 
+
+<br>
 
 **skillShot** says:
 
@@ -224,9 +290,25 @@ The set contains three new archetypes that will impact the meta
 
 - Amazoness has potential with future support.
 
+**Kayoh** says:
+
+- {Eclipse Dragon} is a good card but lacks support. You can sleep on it now, but expect it to pop up in the future as more Dragon support is released.
+- {The Fabled Ganashia} for reasons stated above.
+- {Amazoness Onslaught} has a great special summon effect for Amazoness, the deck still needs a lot more support to become relevant though.
+
+**Whilipino** says:
+
+- {Eclipse Wyvern}: this card only gets better as more cards get added into this game. Right now, I don't believe there are enough good support cards to warrant playing this card, but keep an eye out for this card because it'll only be a matter of time before this card is broken.
+- {Fires Of Doomsday}: being able to activate this on your opponent's turn makes this card have quite a bit utility. However, I don't believe that there is a deck that really breaks this card right now. There is much potential in this card if we get better dark tribute summonable monsters. 
+- {Fusion Reserve}: it's a trap that makes you go +1 in card economy. There is potential here, but it depends on the fusion support in future releases.
+- {Fabled Soulkias}/{Fabled Ganashia}: Right now, I don't believe Fabled will be anything more than a YouTube deck, but I believe that this will be an archetype to watch out for once Konami releases Synchros into the game.
+- {Geargiaccelerator}: This card doesn't do too much at the moment, but I believe this card will only become stronger with the releases of the newer mechanics.
+
 ---
 <a name="q5"></a>
 #### 'Is there anything else you'd like to say?'
+
+<br>
 
 **skillShot** says:
 
@@ -259,3 +341,11 @@ Overall the set seems to be ok and I would compare it to [Generation Next](/box-
 **Machdragon** says:
 
 This is a nice set to boost existing Hero decks, but doesn’t offer much new support for other meta decks. It's not an essential set that will greatly shift the current meta.
+
+**Kayoh** says:
+
+Valiant Souls will definitely impact the current meta, notably with {Mask Change} and the Masked HERO cards. However, it does not greatly improve any other decks currently in the tier list, except for maybe Sea Stealth Attack Whales with {Paleozoic Canadia}. This box is definitely not a must as most of the current top decks will not change that much, so if you’re F2P, spend your gems wisely!
+
+**Whilipino** says:
+
+Overall, I don't believe this box will be as meta impacting as the last 2 boxes we've received, but there is a lot of future potential here.
