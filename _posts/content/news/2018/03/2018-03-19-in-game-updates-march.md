@@ -98,7 +98,7 @@ The [Superb Téa](/events/march-2018/superb-tea/) event has been extended by 2 d
 
 <br>
 
-### Upcoming Updates
+### Upcoming Updates (April)
 
 Here are some key points:
 - The KC Cup is starting next week
