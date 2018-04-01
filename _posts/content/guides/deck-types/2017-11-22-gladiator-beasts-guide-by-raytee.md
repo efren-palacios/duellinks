@@ -5,7 +5,7 @@ author: Raytee
 category: guide
 sub-category: deck-type
 deck-type: gladiator-beasts
-image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts.jpg
+image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts-2.jpg
 date: 2017-11-22
 comments: false
 description: 

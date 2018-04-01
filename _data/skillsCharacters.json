@@ -700,6 +700,13 @@
     "character": "Chazz Princeton"
   },
   {
+    "name": "Dragonic Fusion",
+    "description": "Begin the Duel with 'Dragon's Mirror' in your Deck, and 'Five-Headed Dragon' in your Extra Deck.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Chazz Princeton"
+  },
+  {
     "name": "Silent as WATER",
     "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
     "how": "Level 4",

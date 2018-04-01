@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates - April
+title: In-Game Updates - March
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
-date: 2018-03-27
+date: 2018-03-31
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,72 @@ permalink: /news/march-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## 31st March Update
+
+<br>
+
+### Attack of Tristan Taylor!
+
+You certainly can't mock Konami for not having a sense of humour! Be sure to check out the [event guide](/events/march-2018/attack-of-tristan-taylor/) to get the most out of this event.
+
+![](/img/content/news/2018/03/in-game-updates/tristan-taylor.jpg)
+
+### New Structure Deck - Dragonic Knights
+
+It has been over a month since we found out in our [Datamined Discoveries](/news/february-2018/datamined-discoveries/#structure-decks) article there would be a Dragon Structure Deck, we'll be posting a review of the deck shortly so stay tuned!
+
+![](/img/content/news/2018/03/in-game-updates/slider-structure-deck.jpg)
+
+---
+
+## 30th March Update
+
+<br>
+
+### New Box: Valaint Souls
+
+Be sure to check out our [First Impressions](/box-reviews/valiant-souls/) article that has a list of all the cards as well as comments by Top Player Council members!
+
+![](/img/content/news/2018/03/in-game-updates/main-box.jpg)
+
+### New Chazz Skill
+
+As we speculated in our [Datamined Discoveries](/news/february-2018/datamined-discoveries/#structure-decks) article, the new skill that begins the duel with {Dragon's Mirror} in your Deck, and {Five-Headed Dragon} in your Extra Deck does in fact belong to Chazz!
+
+![](/img/content/news/2018/03/in-game-updates/chazz-skill.jpg)
+
+---
+
+## 28th March Update
+
+<br>
+
+### Card Trader Improvements
+
+All cards are back at the Card Trader, finally! However, you can only buy one card from the 'Regular Inventory' (older cards) every 8 hours so choose wisely. Also, keys can now be exchanged up to ten times per colour. 
+
+![](/img/content/news/2018/03/in-game-updates/slider-card-trader-29.jpg)
+
+### PvP Duels
+
+You can now surrender during your opponent's turn - be wary there isn't a confirmation on the surrender as I found out the hard way whilst curious! You can also report players for slow play and for using mods/hacks! 
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-pvp-duels.jpg)
+
+### Jesse Unlock Event
+
+The Jesse Anderson unlock event is here, be sure to check out the ['Awaken! Rainbow Dragon!'](/events/march-2018/awaken-rainbow-dragon/) event article for the best farm decks and tips!
+
+[slider](/img/content/news/2018/03/in-game-updates/slider-jessie-event.jpg)
+
+### Deck Accessories
+
+You can now set Card Sleeves and Game Mats for each and every deck - customise to your heart's content! 
+
+![](/img/content/news/2018/03/in-game-updates/slider-deck-accessories.jpg)
+
+---
 
 ## 27th March Update
 
@@ -32,7 +98,7 @@ The [Superb Téa](/events/march-2018/superb-tea/) event has been extended by 2 d
 
 <br>
 
-### Upcoming Updates
+### Upcoming Updates (April)
 
 Here are some key points:
 - The KC Cup is starting next week
