@@ -16,8 +16,6 @@ hide: true
 
 ### Top Player Ladder: Jan 1st |March 31st (Season 1)
 
-Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 players after a 3 month season become the [New Top Player Council](/top-player-council/)!
-
 |Rank|Participant Name|Points|
 | :-|| :-|| :-||
 |1|Glading|50 points|
