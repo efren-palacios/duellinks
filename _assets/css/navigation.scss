@@ -1,0 +1,282 @@
+@import "variables.scss";
+
+.fa-bars
+{
+  color: $text-default;
+}
+
+.navbar
+{
+  padding: 4px;
+  border: 1px solid transparent;
+  box-shadow: 0 0 10px 0 $black;
+  background-color: $main-color-dark;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+
+  .navbar-toggler
+  {
+    cursor: pointer;
+    min-height: 48px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    outline: 0;
+  }
+
+  .navbar-brand 
+  {
+    margin-right: 1.5rem;
+
+    > img
+    {
+      height: 38px;
+    }
+  }
+
+  .navbar-nav
+  {
+    text-align: center;
+    margin-top: 12px;   
+
+    .nav-item .nav-link
+    {
+      font-family: "Alegreya Sans";
+      font-weight: 500;
+    }
+  }
+
+  .container
+  {
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    .navbar-items
+    {
+      display: flex;
+    }
+  }
+}
+
+li.nav-item > a.nav-link
+{
+  color: $text-default;
+  text-transform: uppercase;
+  font-size: 18px;
+  padding-bottom: 0px;
+  padding-left: 0.8rem !important;
+  padding-right: 0.8rem !important;
+}
+
+li.nav-item > a.nav-link:hover
+{
+  color: #78A9C1;
+}
+
+li.nav-item > a.nav-link.active,
+li.nav-item > a.nav-link:focus
+{
+  color: $active;
+}
+
+.pagination
+{
+  margin-right: 14px;
+  display: inline-flex;
+
+  &:last-child
+  {
+    margin-right: 0px;
+  }
+
+  .page-item
+  {
+    display: inline;
+
+    &.active .page-link,
+    {
+      background-color: #2F7D9C;
+      border-color: rgba(255, 255, 255, 0.08);
+
+      &:hover
+      {
+        background-color: #2F7D9C;
+      }
+    }
+
+    .page-link
+    {
+      cursor: pointer;
+      display: flex;
+      justify-content: center;
+      padding: 6px 4px;
+      font-size: 19px;
+      min-width: 37px;
+      color: $text-muted;
+      background-color: rgba(36, 59, 85, 0.4);
+      border-color: rgba(255, 255, 255, 0.08);
+
+      &:hover
+      {
+        background: rgba(255, 255, 255, 0.06);
+        color: $text-muted;
+      }
+
+      .fa
+      {
+        font-size: 15px;
+      }
+    }
+  }
+
+  &.previous { float: left; }
+  &.next { float: right; }
+
+  &.previous .page-item .page-link,
+  &.next .page-item .page-link
+  {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+
+
+//menubutton
+@keyframes delayed-fade
+{
+  55%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+.containernavbutton
+{
+    display: inline-block;
+    cursor: pointer;
+}
+
+.bar1, .bar2, .bar3
+{
+    width: 26px;
+    height: 4px;
+    background-color:#D8D8D8;
+    margin: 5px 0;
+    transition: 0.3s;
+}
+
+.change .bar1
+{
+    -webkit-transform: translate(0px, 9px) rotate(-45deg);
+    transform: translate(0px, 9px) rotate(-45deg);
+}
+
+.change .bar2 {transform: rotate(45deg)}
+
+.change .bar3
+{
+    -webkit-transform: translate(0px, -11px) rotate(-45deg);
+    transform: translate(0px, -11px) rotate(-45deg);
+    animation: delayed-fade 0.3s forwards;
+}
+
+.nav-link{
+  padding-top: 0 !important;
+}
+
+
+//adjust textsize/spacing for mobile
+
+@media only screen and (min-width: 805px)
+{
+  .navbar-collapse {
+    flex-basis: inherit;
+  }
+}
+
+
+@media only screen and (max-width: 804px)and (min-width:771px){
+  .navbar-brand{
+    margin-right: 0.8rem !important;
+  }
+  li.nav-item > a.nav-link {
+  padding-left: 0.6rem !important;
+  padding-right: 0.6rem !important;
+  }
+}
+
+
+@media only screen and (max-width: 770px)and (min-width:703px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
+  li.nav-item > a.nav-link {
+  font-size: 18px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  
+}
+
+@media only screen and (max-width: 702px) and (min-width:655px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
+  li.nav-item > a.nav-link {
+  font-size: 16px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  .navbar-nav{
+    margin-top: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 654px) and (min-width:621px){
+  .navbar-brand{
+    margin-right: 0.5rem !important;
+  }
+  li.nav-item > a.nav-link {
+  font-size: 15px;
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+  }
+  .navbar-nav{
+    margin-top: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 620px){
+  li.nav-item > a.nav-link {
+  font-size: 18px;
+  }
+  .navbar .navbar-brand{
+    display: table;
+    margin-right: auto !important;
+    margin-left: auto !important;
+  }
+  .navbar-nav{
+    margin-top: 10px !important;
+  }
+}
+
+
+@media (min-width: 621px){
+  .navbar-nav{
+    flex-direction: row;
+  }
+  .containernavbutton{
+    display: none;
+  }
+  .collapse{
+    display: flex!important;
+  }
+}
+
+.navcontent{
+  margin:0 auto;
+  @media (min-width: 621px){
+    display: inline-flex;
+  }
+}

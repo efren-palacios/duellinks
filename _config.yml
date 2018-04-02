@@ -2,8 +2,9 @@ title: Duel Links Meta
 url: https://dlmbeta.netlify.com
 disqus:
   shortname: duellinksmeta
-exclude:
-    - node_modules
+exclude: ["Gemfile",
+          "Gemfile.lock",
+          "node_modules"]
 collections:
   authors:
     output: true
@@ -13,7 +14,6 @@ collections:
 plugins:
   - jekyll-timeago
   - jekyll-angular
-plugins-dir:
   - jekyll-sitemap
 include: ['.htaccess', '_headers']
 season-end: 0001-01-01T01:00:00.000
