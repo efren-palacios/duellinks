@@ -32,7 +32,7 @@ module Jekyll
           end  
           subLocationData.each do |card|
             if(combinedLocationName1 == "Level Up Reward")
-              obtainVal = combinedLocationName2 + combinedLocationName1 + " - " + card["level"].to_s
+              obtainVal = combinedLocationName2 + combinedLocationName1.gsub('Up', card["level"].to_s)
             else
               obtainVal = combinedLocationName2 + combinedLocationName1
             end        

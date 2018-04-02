@@ -11,7 +11,7 @@ description: In depth information about Hammer Shark decks.
 permalink: /tier-list/hammer-shark/
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 

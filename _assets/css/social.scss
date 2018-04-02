@@ -1,0 +1,304 @@
+@import "variables.scss";
+.discord-ad-banner
+{
+    margin-left: 0;
+    margin-right: 0;
+    position: relative;  
+}
+
+.discord-ad-background-left {
+    z-index: 0;
+    position: absolute;
+    background-image: url('/img/dlm-ads/discord_ad.jpg');
+    top: 0;
+    right: 0;
+    left: 0;    
+    bottom: 0;  
+    opacity: 0.5;
+    background-position: 100%;
+}
+
+.discord-ad-sub-banner {
+    min-height: 300px;
+    z-index: 1;
+}
+
+.discord-ad-image {
+    width: 50%;
+}
+
+.discord-ad-kog-image {
+    margin-bottom: 16px;
+}
+
+.discord-ad-text-area {
+    text-align: center;
+}
+
+.discord-ad-text {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.discord-ad-text-kog-date {
+    margin-bottom: 0px;
+}
+
+.discord-ad-text-title {
+    font-family: 'Rock Salt';
+    margin-top: 20px; 
+}
+
+a.discord-ad-sub-banner:hover {
+    text-decoration: none;
+}
+
+// Phone (Vertical)
+@media screen and (max-width: 575px) {
+    .discord-ad-sub-banner-right {
+        display: none;
+    }     
+    .discord-ad-image {
+        width: 40%;
+    } 
+    .discord-ad-background-left {
+        background-position: left;
+    }
+}
+
+// Tablet
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    .discord-ad-sub-banner-right {
+        display: none;
+    }    
+    .discord-ad-image {
+        width: 40%;
+    }
+    .discord-ad-background-left {
+        background-position: 100%;
+        opacity: 0.3;
+    }
+    .discord-ad-text-title {
+        margin-top: 10px; 
+    }
+}
+
+// Laptop
+@media screen and (min-width: 768px) and (max-width: 992px) {   
+    .discord-ad-text-title {
+        margin-top: 30px; 
+    }
+    .discord-ad-background-left {
+        background-position: top 0px right 0px;
+    }
+}
+
+/* The snackbar */
+#snackbar {
+    visibility: hidden; /* Hidden by default. Visible on click */
+    min-width: 240px; /* Set a default minimum width */
+    background-color: #333; /* Black background color */
+    color: #fff; /* White text color */
+    text-align: center; /* Centered text */
+    border-radius: 2px; /* Rounded borders */
+    padding: 18px; /* Padding */
+    position: fixed; /* Sit on top of the screen */
+    z-index: 1; /* Add a z-index if needed */
+    right: 20px; /* Center the snackbar */
+    bottom: 10px; /* 30px from the bottom */
+    @media only screen and (max-width: 500px) {
+        right: 50%;
+        margin-right: -120px;
+        top: 85px;
+        bottom: unset;
+    }
+
+}
+
+/* Show the snackbar when clicking on a button (class added with JavaScript) */
+#snackbar.show {
+    visibility: visible; /* Show the snackbar */
+
+/* Add animation: Take 0.5 seconds to fade in and out the snackbar. 
+However, delay the fade out process for 2.5 seconds */
+    -webkit-animation: fadein 0.5s, fadeout 0.5s 6.5s;
+    animation: fadein 0.5s, fadeout 0.5s 6.5s;
+}
+
+/* Animations to fade the snackbar in and out */
+@-webkit-keyframes fadein {
+    from {bottom: 0; opacity: 0;} 
+    to {bottom: 10px; opacity: 1;}
+}
+
+@keyframes fadein {
+    from {bottom: 0; opacity: 0;}
+    to {bottom: 10px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+    from {bottom: 10px; opacity: 1;} 
+    to {bottom: 0; opacity: 0;}
+}
+
+@keyframes fadeout {
+    from {bottom: 10px; opacity: 1;}
+    to {bottom: 0; opacity: 0;}
+}
+
+@media only screen and (max-width: 500px) {
+    @-webkit-keyframes fadein {
+        from {top: 0; opacity: 0;} 
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @keyframes fadein {
+        from {top: 0; opacity: 0;}
+        to {top: 85px; opacity: 1;}
+    }
+    
+    @-webkit-keyframes fadeout {
+        from {top: 85px; opacity: 1;} 
+        to {top: 0; opacity: 0;}
+    }
+    
+    @keyframes fadeout {
+        from {top: 85px; opacity: 1;}
+        to {top: 0; opacity: 0;}
+    }
+}
+
+
+//pulsating red dot notification
+.ring-container {
+    position: relative;
+}
+
+.circle {
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+
+.ringring {
+    border: 3px solid red;
+    -webkit-border-radius: 30px;
+    border-radius: 30px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    left: 15px;
+    top: 0px;
+    -webkit-animation: pulsate 1s ease-out;
+    animation: pulsate 1s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    animation-iteration-count: infinite;
+    opacity: 0.0
+}
+@keyframes pulsate {
+    0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+    50% {opacity: 1.0;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+@-webkit-keyframes pulsate {
+    0% {-webkit-transform: scale(0.1, 0.1); opacity: 0.0;}
+    50% {opacity: 1.0;}
+    100% {-webkit-transform: scale(1.2, 1.2); opacity: 0.0;}
+}
+#liveMsg{
+    margin-left: 18px;
+    color: #D8D8D8;
+    font-size: 17px;
+}
+
+
+
+//Dev profiles
+h6.description{
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #999;
+	border-bottom: 1px solid rgba(0, 0, 0,0.1);
+	padding-bottom: 5px;
+}
+.devprofile{
+	margin-top: 25px;
+}
+.devprofile h1{
+	font-weight: normal;
+	font-size: 20px;
+	margin:10px 0 0 0;
+}
+.devprofile h2{
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: 5px;
+}
+.devprofile .devImg-box{
+	opacity: 1;
+	display: block;
+    position: relative;
+    width: fit-content;
+}
+.devprofile .devImg-box:after{
+	content:"";
+	opacity: 0;
+	background-color: rgba(0, 0, 0, 0.75);
+	position: absolute;
+	right: 0;
+	left: 0;
+	top: 0;
+	bottom: 0;
+}
+.devImg-box ul{
+	position: absolute;
+	z-index: 2;
+	bottom: 50px;
+	text-align: center;
+	width: 100%;
+	padding-left: 0px;
+	height: 0px;
+	margin:0px;
+	opacity: 0;
+}
+.devprofile .devImg-box:after, .devImg-box ul, .devImg-box ul li{
+	-webkit-transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    transition: all 0.5s ease-in-out 0s;
+}
+.devImg-box ul i{
+	font-size: 20px;
+	letter-spacing: 10px;
+}
+.devImg-box ul li{
+	width: 30px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid #88C425;
+    margin: 2px;
+    padding: 5px;
+	display: inline-block;
+}
+.devImg-box a{
+	color:#fff;
+}
+.devImg-box:hover:after{
+	opacity: 1;
+}
+.devImg-box:hover ul{
+	opacity: 1;
+}
+.devImg-box ul a{
+	-webkit-transition: all 0.3s ease-in-out 0s;
+	-moz-transition: all 0.3s ease-in-out 0s;
+	transition: all 0.3s ease-in-out 0s;
+}
+.devImg-box a:hover li{
+	border-color: #fff;
+	color: #88C425;
+}

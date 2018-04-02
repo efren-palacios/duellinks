@@ -11,7 +11,7 @@ description: In depth information about BLS The Creator decks.
 permalink: /tier-list/bls-the-creator/ 
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 

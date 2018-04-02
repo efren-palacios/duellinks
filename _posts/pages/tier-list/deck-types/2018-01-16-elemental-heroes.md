@@ -11,7 +11,7 @@ deck-type: elemental-heroes
 permalink: /tier-list/elemental-heroes/
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 

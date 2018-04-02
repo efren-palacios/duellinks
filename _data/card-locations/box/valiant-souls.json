@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Needle Ceiling",
+    "rarity": "UR"
+  },
+  {
+    "name": "Dark World Dealings",
+    "rarity": "UR"
+  },
+  {
+    "name": "Elemental HERO Plasma Vice",
+    "rarity": "UR"
+  },
+  {
+    "name": "Fires of Doomsday",
+    "rarity": "UR"
+  },
+  {
+    "name": "Hardened Armed Dragon",
+    "rarity": "UR"
+  },
+  {
+    "name": "Vision HERO Witch Raider",
+    "rarity": "UR"
+  },
+  {
+    "name": "Karakuri Ninja mdl 339 \"Sazank\"",
+    "rarity": "UR"
+  },
+  {
+    "name": "Eclipse Wyvern",
+    "rarity": "UR"
+  },
+  {
+    "name": "Masked HERO Anki",
+    "rarity": "UR"
+  },
+  {
+    "name": "Paleozoic Canadia",
+    "rarity": "UR"
+  },
+  {
+    "name": "Blast with Chain",
+    "rarity": "SR"
+  },
+  {
+    "name": "D.D.M. - Different Dimension Master",
+    "rarity": "SR"
+  },
+  {
+    "name": "Elemental HERO Bladedge",
+    "rarity": "SR"
+  },
+  {
+    "name": "Fabled Soulkius",
+    "rarity": "SR"
+  },
+  {
+    "name": "Double Cyclone",
+    "rarity": "SR"
+  },
+  {
+    "name": "Mask Change",
+    "rarity": "SR"
+  },
+  {
+    "name": "Amazoness Heirloom",
+    "rarity": "SR"
+  },
+  {
+    "name": "Karakuri Muso mdl 818 \"Haipa\"",
+    "rarity": "SR"
+  },
+  {
+    "name": "Photon Wyvern",
+    "rarity": "SR"
+  },
+  {
+    "name": "Geargiattacker",
+    "rarity": "SR"
+  },
+  {
+    "name": "Fusion Reserve",
+    "rarity": "SR"
+  },
+  {
+    "name": "Back-Up Rider",
+    "rarity": "SR"
+  },
+  {
+    "name": "Fiend Skull Dragon",
+    "rarity": "R"
+  },
+  {
+    "name": "Mad Dog of Darkness",
+    "rarity": "R"
+  },
+  {
+    "name": "Hyena",
+    "rarity": "R"
+  },
+  {
+    "name": "Elemental HERO Wildedge",
+    "rarity": "R"
+  },
+  {
+    "name": "Allure Queen LV7",
+    "rarity": "R"
+  },
+  {
+    "name": "Diabolos, King of the Abyss",
+    "rarity": "R"
+  },
+  {
+    "name": "Parallel World Fusion",
+    "rarity": "R"
+  },
+  {
+    "name": "Fabled Gallabas",
+    "rarity": "R"
+  },
+  {
+    "name": "Elemental HERO Ice Edge",
+    "rarity": "R"
+  },
+  {
+    "name": "Stygian Dirge",
+    "rarity": "R"
+  },
+  {
+    "name": "The Fabled Ganashia",
+    "rarity": "R"
+  },
+  {
+    "name": "The Fabled Kokkator",
+    "rarity": "R"
+  },
+  {
+    "name": "Fabled Dianaira",
+    "rarity": "R"
+  },
+  {
+    "name": "Amazoness Fighting Spirit",
+    "rarity": "R"
+  },
+  {
+    "name": "Masked HERO Goka",
+    "rarity": "R"
+  },
+  {
+    "name": "Masked HERO Vapor",
+    "rarity": "R"
+  },
+  {
+    "name": "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+    "rarity": "R"
+  },
+  {
+    "name": "Phoenix Beast Gairuda",
+    "rarity": "R"
+  },
+  {
+    "name": "Hieratic Dragon of Gebeb",
+    "rarity": "R"
+  },
+  {
+    "name": "Hieratic Dragon of Asar",
+    "rarity": "R"
+  },
+  {
+    "name": "Hieratic Dragon of Sutekh",
+    "rarity": "R"
+  },
+  {
+    "name": "Geargiano Mk-II",
+    "rarity": "R"
+  },
+  {
+    "name": "Geargiaccelerator",
+    "rarity": "R"
+  },
+  {
+    "name": "Armed Protector Dragon",
+    "rarity": "R"
+  },
+  {
+    "name": "Geargiano Mk-III",
+    "rarity": "R"
+  },
+  {
+    "name": "Geargiauger",
+    "rarity": "R"
+  },
+  {
+    "name": "Mask Charge",
+    "rarity": "R"
+  },
+  {
+    "name": "Kabuki Dragon",
+    "rarity": "R"
+  },
+  {
+    "name": "Geargianchor",
+    "rarity": "R"
+  },
+  {
+    "name": "Paleozoic Pikaia",
+    "rarity": "R"
+  },
+  {
+    "name": "Amazoness Baby Tiger",
+    "rarity": "R"
+  },
+  {
+    "name": "Amazoness Onslaught",
+    "rarity": "R"
+  },
+  {
+    "name": "Mysterious Puppeteer",
+    "rarity": "N"
+  },
+  {
+    "name": "Blast Juggler",
+    "rarity": "N"
+  },
+  {
+    "name": "Electric Snake",
+    "rarity": "N"
+  },
+  {
+    "name": "Lesser Fiend",
+    "rarity": "N"
+  },
+  {
+    "name": "Ryu-Kishin Clown",
+    "rarity": "N"
+  },
+  {
+    "name": "Dimension Jar",
+    "rarity": "N"
+  },
+  {
+    "name": "Arsenal Robber",
+    "rarity": "N"
+  },
+  {
+    "name": "Two Thousand Needles",
+    "rarity": "N"
+  },
+  {
+    "name": "Nubian Guard",
+    "rarity": "N"
+  },
+  {
+    "name": "Fake Hero",
+    "rarity": "N"
+  },
+  {
+    "name": "Spell Calling",
+    "rarity": "N"
+  },
+  {
+    "name": "Allure Queen LV3",
+    "rarity": "N"
+  },
+  {
+    "name": "Allure Queen LV5",
+    "rarity": "N"
+  },
+  {
+    "name": "Iris, the Earth Mother",
+    "rarity": "N"
+  },
+  {
+    "name": "Lightning Punisher",
+    "rarity": "N"
+  },
+  {
+    "name": "Queen's Bodyguard",
+    "rarity": "N"
+  },
+  {
+    "name": "Metal Shooter",
+    "rarity": "N"
+  },
+  {
+    "name": "Abyssal Kingshark",
+    "rarity": "N"
+  },
+  {
+    "name": "Tongue Twister",
+    "rarity": "N"
+  },
+  {
+    "name": "Silent Strider",
+    "rarity": "N"
+  },
+  {
+    "name": "Fabled Urustos",
+    "rarity": "N"
+  },
+  {
+    "name": "Fabled Dyf",
+    "rarity": "N"
+  },
+  {
+    "name": "Earthquake Giant",
+    "rarity": "N"
+  },
+  {
+    "name": "Karakuri Showdown Castle",
+    "rarity": "N"
+  },
+  {
+    "name": "Golden Gearbox",
+    "rarity": "N"
+  },
+  {
+    "name": "Karakuri Anatomy",
+    "rarity": "N"
+  },
+  {
+    "name": "Amazoness Scouts",
+    "rarity": "N"
+  },
+  {
+    "name": "Karakuri Gold Dust",
+    "rarity": "N"
+  },
+  {
+    "name": "Karakuri Ninja mdl 7749 \"Nanashick\"",
+    "rarity": "N"
+  },
+  {
+    "name": "Runaway Karakuri",
+    "rarity": "N"
+  },
+  {
+    "name": "Doom Donuts",
+    "rarity": "N"
+  },
+  {
+    "name": "Drill Barnacle",
+    "rarity": "N"
+  },
+  {
+    "name": "Geargiano",
+    "rarity": "N"
+  },
+  {
+    "name": "D-Boyz",
+    "rarity": "N"
+  },
+  {
+    "name": "Hieratic Seal of the Sun Dragon Overlord",
+    "rarity": "N"
+  },
+  {
+    "name": "Hieratic Seal of Supremacy",
+    "rarity": "N"
+  },
+  {
+    "name": "Hieratic Seal of the Dragon King",
+    "rarity": "N"
+  },
+  {
+    "name": "Hieratic Seal From the Ashes",
+    "rarity": "N"
+  },
+  {
+    "name": "Geargiarsenal",
+    "rarity": "N"
+  },
+  {
+    "name": "Spell Recycler",
+    "rarity": "N"
+  },
+  {
+    "name": "Humpty Grumpty",
+    "rarity": "N"
+  },
+  {
+    "name": "Face-Off",
+    "rarity": "N"
+  },
+  {
+    "name": "Paleozoic Eldonia",
+    "rarity": "N"
+  },
+  {
+    "name": "Paleozoic Marrella",
+    "rarity": "N"
+  },
+  {
+    "name": "Paleozoic Leanchoilia",
+    "rarity": "N"
+  },
+  {
+    "name": "Amazoness Spy",
+    "rarity": "N"
+  }
+]

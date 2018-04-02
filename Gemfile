@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 3.4.0'
+gem 'jekyll', '~> 3.7.3'
 
 group :jekyll_plugins do
   gem 'jekyll-timeago'
@@ -8,4 +8,4 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-#gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm' if Gem.win_platform?

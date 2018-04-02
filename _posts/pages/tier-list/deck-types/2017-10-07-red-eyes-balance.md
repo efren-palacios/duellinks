@@ -11,7 +11,7 @@ description: In depth information about Red-Eyes Balance decks.
 permalink: /tier-list/red-eyes-balance/
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 

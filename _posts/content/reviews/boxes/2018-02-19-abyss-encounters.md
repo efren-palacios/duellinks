@@ -17,6 +17,8 @@ permalink: /box-reviews/abyss-encounters/
 [w100]
 ![](/img/content/box-reviews/abyss-encounters/banner.jpg)
 
+### Card List
+
 #### Ultra Rare Cards
 
 {% include box.html box=site.data.card-locations.box.abyss-encounters rarity="UR" %}

@@ -5,7 +5,7 @@ author: Brenduke
 category: guide
 sub-category: deck-type
 deck-type: gladiator-beasts
-image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts.jpg
+image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts-1.jpg
 date: 2018-03-15
 comments: false
 description: An in depth guide written by Brenduke discussing the Gladiator Beast archetype.

@@ -1,9 +1,9 @@
 ---
 layout: blog
-date: 2018-03-16 21:00:00
+date: 2018-03-29
 title: Datamined Discoveries! - March
-author: Yami Hammy
-image: /img/content/news/2018/03/datamined-discoveries/thumbnail-march-16.jpg
+author: SpoonCats & Yami Hammy
+image: /img/content/news/2018/03/datamined-discoveries/thumbnail-march-29.jpg
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!
@@ -11,9 +11,95 @@ keywords: news, new files, leaked cards, upcoming events, sneak peek, future upd
 permalink: /news/march-2018/datamined-discoveries/
 ---
 
-{% include heading.html title=page.title author=page.author %}
+{% include heading.html title=page.title %}
+
+## 29th March Update
+#### By SpoonCats
+
+<br>
+
+With another maintenance update comes new discoveries; **upcoming events, main box, new cards and new skills** have been found courtesy of XOF, YAZAN and RoMeCAESAR!
+
+### New Event
+
+While not officially confirmed, datamined images of a playmat, card sleeves, and a banner have been found for Tristan Taylor (Hiroto Honda in the JP version), a beloved character from the original Duel Monsters anime! 
+
+To further the possibility of a Tristan event, his character textures and cut-ins have also been found in-game. 
+In fact, enough textures have been found to suggest either a comprehensive event or perhaps a very elaborate April Fool's joke!
+
+[gallery](/img/content/news/2018/03/datamined-discoveries/banner-tristan.png, /img/content/news/2018/03/datamined-discoveries/dialog-tristan.jpg, /img/content/news/2018/03/datamined-discoveries/pose-tristan.png, /img/content/news/2018/03/datamined-discoveries/pose-tristan-lose.png, /img/content/news/2018/03/datamined-discoveries/card-sleeves-tristan.png)
+
+<br>
+<br>
+
+### New Skills
+
+A whopping 16 new skills have been found in the latest datamine! Some appear to be for Syrus Truesdale, hinting at an unlock event in the future. Bare in mind that some of these skills may be NPC-only, and not available to players.
+
+[gallery](/img/content/news/2018/03/datamined-discoveries/skill-blast-held-by-a-tribute-2.png, /img/content/news/2018/03/datamined-discoveries/skill-card-of-sanctity.png, /img/content/news/2018/03/datamined-discoveries/skill-check-out-my-fusion.png, /img/content/news/2018/03/datamined-discoveries/skill-check-out-my-ride.png, /img/content/news/2018/03/datamined-discoveries/skill-come-crystal-beasts.png, /img/content/news/2018/03/datamined-discoveries/skill-crystal-combination.png, /img/content/news/2018/03/datamined-discoveries/skill-crystal-healing.png, /img/content/news/2018/03/datamined-discoveries/skill-crystal-return.png, /img/content/news/2018/03/datamined-discoveries/skill-divine-advent.png, /img/content/news/2018/03/datamined-discoveries/skill-exchange-of-the-spirit.png, /img/content/news/2018/03/datamined-discoveries/skill-fusion-recovery-machines.png, /img/content/news/2018/03/datamined-discoveries/skill-fusion-reserves-roids.png, /img/content/news/2018/03/datamined-discoveries/skill-here-i-go.png, /img/content/news/2018/03/datamined-discoveries/skill-sparkling-draw.png, /img/content/news/2018/03/datamined-discoveries/skill-training-wheels.png, /img/content/news/2018/03/datamined-discoveries/skill-transcendent-crystals.png)
+
+<br>
+<br>    
+
+### New Cards
+
+Many new cards have been found, as well as confirmation of the next Main Box: 'Valiant Souls' which is expected to be released on April 3rd - 2 days before the upcoming KC Cup!
+
+A list of the speculated SR/UR cards are below, including {Dark World Dealings} - previously only available in Selection Box Vol. 1. 
+
+Some of these cards are from the datamined [Dragon Structure Deck](/news/february-2018/datamined-discoveries), which will likely be released soon.
+
+[gallery](/img/content/news/2018/03/datamined-discoveries/preview-valiant-souls.jpg, /img/content/news/2018/03/datamined-discoveries/sale-valiant-souls.png, /img/content/news/2018/03/datamined-discoveries/structure-deck-dragonic-knights.png, /img/content/news/2018/03/datamined-discoveries/gamemat-dragonic-knights.png)
+
+<br>
+<br>
+ 
+**Valiant Souls UR Cards:**
+1. {Elemental HERO Plasma Vice}
+2. {Hardened Armed Dragon}
+3. {Eclipse Wyvern}
+4. {Vision HERO Witch Raider} (confirmed!)
+5. {Fires of Doomsday}
+6. {Masked HERO Anki}
+7. {Karakuri Ninja mdl 339 "Sazank"}
+8. {Needle Ceiling} (confirmed!)
+9. {Paleozoic Canadia}
+10. {Dark World Dealings} (confirmed!)
+
+**Valiant Souls SR Cards:**
+1. {Elemental HERO Bladedge}
+2. {Mask Change}
+3. {Karakuri Muso mdl 818 "Haipa"}
+4. {Geargiattacker}
+5. {Photon Wyvern}
+6. {Blast with Chain}
+7. {Fusion Reserve}
+8. {Fabled Soulkius}
+
+Here's a full list of all the datamined cards with rarities:
+
+**Ultra Rare Cards**
+
+[deck](Elemental HERO Plasma Vice; Masked HERO Anki; Vision HERO Witch Raider; Karakuri Ninja mdl 339 "Sazank"; Eclipse Wyvern; Paleozoic Canadia; Amazoness Princess; Rainbow Overdragon; Rainbow Dragon; Rainbow Dark Dragon; Crystal Bond; Fires of Doomsday; Hardened Armed Dragon; Needle Ceiling; Dragon's Mirror; Dark World Dealings)
+
+**Super Rare Cards**
+
+[deck](Fabled Soulkius; Elemental HERO Bladedge; Mask Change; Karakuri Muso mdl 818 "Haipa"; Geargiattacker; Arkbrave Dragon; Crystal Beast Emerald Tortoise; Crystal Promise; Crystal Raigeki; Photon Wyvern; Cyber Archfiend; Blast with Chain; Fusion Reserve)
+
+**Rare/Normal Cards**
+
+[deck](Fabled Gallabas; The Fabled Kokkator; The Fabled Ganashia; Fabled Dianaira; Fabled Dyf; Fabled Urustos; Masked HERO Goka;Masked HERO Vapor; Elemental HERO Ice Edge; Parallel World Fusion; Mask Charge; Karakuri Bushi mdl 6318 "Muzanichiha"; Karakuri Ninja mdl 7749 "Nanashick"; Karakuri Showdown Castle; Golden Gearbox; Karakuri Anatomy; Karakuri Gold Dust; Runaway Karakuri; Geargiano Mk-II; Geargiauger; Geargiano Mk-III; Geargianchor; Geargiarsenal; Hieratic Dragon of Sutekh; Hieratic Dragon of Asar; Hieratic Seal of the Dragon King; Hieratic Seal of the Sun Dragon Overlord; Hieratic Seal of Supremacy; Dragon Knight of Creation; Paladin of Felgrand; Darkblaze Dragon; Castle of Dragon Souls; Paleozoic Pikaia; Paleozoic Eldonia; Paleozoic Leanchoilia; Paleozoic Marrella; Amazoness Spy; Amazoness Baby Tiger; Amazoness Onslaught; Crystal Blessing; Ancient City - Rainbow Ruins; Advanced Dark; Rainbow Bridge; Ultimate Crystal Magic; Rainbow Path; Rainbow Gravity; Allure Queen LV7; Allure Queen LV5; Allure Queen LV3; Queen's Bodyguard; Diabolos, King of the Abyss; Lesser Fiend; Tongue Twister; Lightning Punisher; D-Boyz; Strike of the Monarchs; Silent Strider; Synchro Boost; Stygian Dirge; Kabuki Dragon; Drill Barnacle; Abyssal Kingshark; Earthquake Giant; Phoenix Beast Gairuda; Mad Dog of Darkness; Spell Recycler; Armed Protector Dragon; Blast Juggler; Doom Donuts; Ryu-Kishin Clown; Electric Snake; Two Thousand Needles; Swordsman from a Distant Land; Evilswarm Zahak; Mysterious Puppeteer; Dimension Jar; Iris, the Earth Mother; Hyena; Mid Shield Gardna; Lancer Dragonute; Metal Shooter; Nubian Guard; Fiend Skull Dragon; Face-Off; Reverse Glasses)
+
+{Swordsman from a Distant Land}, {Virus Cannon}, {Maximum Six}, {Mid Shield Gardna}, and {Cyber Archfiend} are speculated to be new Ranked Duel rewards. 
+
+Finally, a few of these new cards are from the ongoing [Jesse Anderson](/events/march-2018/awaken-rainbow-dragon/) event, and the new 'Amazoness' cards are likely from the upcoming [Elegant Mai](/news/march-2018/in-game-updates/) event.
+
+*Keep in mind that much of the datamined information is speculation, and remains unconfirmed until officially announced by Konami.*
+
+---
 
 ## 16th March Update
+#### By Yami Hammy
 
 <br>
 
@@ -96,6 +182,7 @@ And lastly a new icon, perhaps summon {Hungry Burger} 100 times? Who knows!
 ---
 
 ## 9th March Update
+#### By Yami Hammy
 
 <br>
 

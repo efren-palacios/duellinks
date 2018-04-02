@@ -456,7 +456,15 @@
     "description": "Your starting hand will include 1 Level 7 or higher DARK Spellcaster-Type monster, randomly selected from your Deck. This skill will not activate if your deck does not contain any Level 7 DARK Spellcaster-Type monsters."
   },
   {
+    "name": "Skill Not Set",
+    "description": ""
+  },
+  {
     "name": "Show of Nightmares",
     "description": "Can be activated if you have 3 or more Spell cards with different names in your Graveyard. Randomly add 1 Spell card in your graveyard to your hand. This skill can only be used once per duel."
+  },
+  {
+    "name": "Dragonic Fusion",
+    "description": "Begin the Duel with 'Dragon's Mirror' in your Deck, and 'Five-Headed Dragon' in your Extra Deck."
   }
 ]

@@ -1,0 +1,226 @@
+@import "variables.scss";
+// MARKDOWN STUFF
+.markdown {
+     h1 {
+         margin-bottom: -5px;
+    }
+     h3 {
+         margin-top: 25px;
+    }
+     h6 {
+         margin-top: 15px;
+    }
+     .deck-container {
+         margin: 0 auto;
+         &.left {
+             margin-left: 0px;
+        }
+         &.right {
+             margin-right: 0px;
+        }
+    }
+     .card-hover {
+         color: #2F7D9C !important;
+    }
+     .center-md {
+         display: block;
+         margin: 0 auto;
+         text-align: center;
+         display: flex;
+         align-items: center;
+    }
+}
+ .img-w-100{
+     > * {
+         width: 100%;
+    }
+}
+ .img-w-75{
+     > * {
+         width: 75%;
+    }
+}
+ .img-w-50{
+     > * {
+         width: 50%;
+    }
+}
+ .img-w-25{
+     > * {
+         width: 25%;
+    }
+}
+ @media only screen and (max-aspect-ratio: 13/9) {
+     .img-w-100{
+         > * {
+             width: 100%;
+        }
+    }
+     .img-w-75{
+         > * {
+             width: 100%;
+        }
+    }
+     .img-w-50{
+         > * {
+             width: 100%;
+        }
+    }
+     .img-w-25{
+         > * {
+             width: 100%;
+        }
+    }
+}
+ .carousel{
+     margin-left: auto;
+     margin-right: auto;
+     cursor: grab;
+     cursor: -moz-grab;
+     cursor: -webkit-grab;
+}
+ .carousel:active{
+     cursor: grabbing;
+     cursor: -moz-grabbing;
+     cursor: -webkit-grabbing;  
+} 
+ .carousel{
+     .carousel-indicators{
+         bottom: -50px;
+    }
+     .carousel-indicators li{
+         width: 30px;
+         height: 30px;
+    }
+     .carousel-h1{
+         height: 20rem;
+    }
+     .carousel-h2{
+         height: 30rem;
+    }
+     .carousel-h3{
+         height: 40rem;
+    }
+     .carousel-size-1-3{
+         width: 33%;
+         margin-bottom: 50px;
+    }
+     .carousel-size-2-3{
+         width: 66%;
+         margin-bottom: 50px;
+    }
+     .carousel-size-3-3{
+         width: 100%;
+         margin-bottom: 50px;
+    }
+     .carousel-image-size-h3{
+         max-height: 40rem;
+         max-width: 100%;
+         position: absolute;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         margin: auto;
+    }
+     .carousel-image-size-h2{
+         max-height: 30rem;
+         max-width: 100%;
+         position: absolute;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         margin: auto;
+    }
+     .carousel-image-size-h1{
+         max-height: 20rem;
+         max-width: 100%;
+         position: absolute;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         margin: auto;
+    }
+     .carousel-indicators{
+         .active img{
+             -webkit-filter: brightness(1.5);
+             filter: brightness(1.5);
+        }
+    }
+     .carousel-miniature{
+         width: 40px;
+         height: 40px;
+         object-fit: cover;
+    }
+}
+ @media only screen and (max-aspect-ratio: 13/9) {
+     .carousel{
+         .carousel-size-1-3{
+             width: 100%;
+        }
+         .carousel-size-2-3{
+             width: 100%;
+        }
+         .carousel-size-3-3{
+             width: 100%;
+        }
+         .carousel-image-size-h3{
+             max-height: 30rem;
+        }
+         .carousel-image-size-h2{
+             max-height: 22.5rem;
+        }
+         .carousel-image-size-h1{
+             max-height: 15rem;
+        }
+         .carousel-h1{
+             height: 15rem;
+        }
+         .carousel-h2{
+             height: 22.5rem;
+        }
+         .carousel-h3{
+             height: 30rem;
+        }
+    }
+}
+ .image-slider{
+     margin-left: auto;
+     margin-right: auto;
+     width: 380px;
+     height: 550px;
+     overflow: auto;
+     border: 1px solid #ffffff1a;
+}
+ .image-slider > img{
+     width: 100%;
+}
+ @media only screen and (max-width: 410px) {
+     .image-slider{
+         width: 100%;
+         height: 320px;
+    }
+}
+ .scrollbar{
+     .image-slider::-webkit-scrollbar {
+         width: 8px;
+    }
+}
+ .no-select {
+     -webkit-touch-callout: none;
+     -webkit-user-select: none;
+     -khtml-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+     cursor: move;
+     cursor: -moz-grab;
+     cursor: -webkit-grab;
+}
+ .no-select:active {
+     cursor: move;
+     cursor: -moz-grabbing;
+     cursor: -webkit-grabbing;
+}
