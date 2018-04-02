@@ -41,7 +41,7 @@ module Guide
                 guide_page.puts("---")
                 
                 guide_page.puts("")
-                guide_page.puts("{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}")
+                guide_page.puts("{% assign guide = site.data.deck-types.pages['#{page_key}'] %}")
                 guide_page.puts("{% include guides/guide.html guide=guide %}")
                 guide_page.puts("{% include decktype_decks.html deckType=page.deck-type %}")
                 guide_page.puts("{% include top-decks-season-archive.html %}") 

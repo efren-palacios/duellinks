@@ -21,19 +21,19 @@ permalink: /box-reviews/generation-next/
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.generation-next rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.generation-next rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.generation-next rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.generation-next rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.generation-next rarity="R" %}
+{% include box.html box=site.data.card-locations.box.generation-next rarity="R" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.generation-next rarity="N" %}
+{% include box.html box=site.data.card-locations.box.generation-next rarity="N" %}
 
 ---
 

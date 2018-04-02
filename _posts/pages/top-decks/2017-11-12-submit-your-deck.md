@@ -29,6 +29,10 @@ hide: true
                     <label for="name">Deck name</label>
                     <input type="text" class="form-control" id="name" name="fields[name]">
                 </div>
+                <div class="form-check tpc-checkbox-container">
+                    <input class="form-check-input" type="checkbox" id="tpc" name="fields[tpc]">
+                    <label class="form-check-label" for="tpc">Top Player Council</label> 
+                </div>
                 <div class="form-group">
                     <label for="deckType">Deck Type</label>
                     <select class="form-control" id="deckType" name="fields[deckType]">

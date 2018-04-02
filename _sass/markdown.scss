@@ -74,7 +74,15 @@
  .carousel{
      margin-left: auto;
      margin-right: auto;
+     cursor: grab;
+     cursor: -moz-grab;
+     cursor: -webkit-grab;
 }
+ .carousel:active{
+     cursor: grabbing;
+     cursor: -moz-grabbing;
+     cursor: -webkit-grabbing;  
+} 
  .carousel{
      .carousel-indicators{
          bottom: -50px;

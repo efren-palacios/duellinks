@@ -26,6 +26,7 @@ module Jekyll
             #generate top-decks seasonal decktype pages
 
             for deck_key in decktype.keys
+              
               deck = decktype[deck_key]
               deck_name = deck['name']
 
@@ -42,7 +43,7 @@ module Jekyll
               deck_page.puts("---")
               
               deck_page.puts("")
-              deck_page.puts("{% assign deck = site.data.top-decks.#{year_key}.#{month_key}.#{decktype_key}.#{deck_key} %}")
+              deck_page.puts("{% assign deck = site.data.top-decks['#{year_key}']['#{month_key}']['#{decktype_key}']['#{deck_key}'] %}")
               deck_page.puts("<div class='deck-page'>")
               deck_page.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
               deck_page.puts("  <script>var playtest = {{deck | jsonify}}</script>") 
@@ -112,7 +113,7 @@ module Jekyll
     end
 
     def generateTopDecksSsnDataFiles(site, year, month, decktypes)
-
+      
       file_path = site.source + "/data/top-decks/" + year + "-" + month + ".json"
       
       if File.exist?(file_path)
@@ -159,6 +160,7 @@ module Jekyll
           {
             "author" => deck["author"].gsub(/\\/, '\\\\'),
             "name" => deckName.gsub(/\\/, '\\\\'),
+            "top-player-council" => deck["top-player-council"] ? true : false,
             "url" => deck["url"],
             "created" => deck["created"],
             "front" => tiertype["card"],
@@ -179,7 +181,7 @@ module Jekyll
 
       new_file.puts(top_decks.to_json)
       new_file.close
-      
+     
     end
   end
 end
