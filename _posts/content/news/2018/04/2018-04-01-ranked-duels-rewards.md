@@ -27,11 +27,13 @@ As well as old own event rewards:
 
 *Note: Ranked Duel Tickets from seasons before April 2018 cannot be used to obtain these rewards*
 
-### Top Player Council Evaluation
+### Top Player Council Thoughts
 
 Unanimously trash! Although since no new UR cards were added, players will be able to obtain a second copy of {Dynatherium}.  
 
 ### Ranked Duels Ticket Rewards
+
+Be sure to check out [Top Decks](/top-decks/) if you need any inspiration! 
 
 | Ranked Victories | Ticket Rarity | 
 |--|--|

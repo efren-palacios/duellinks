@@ -36,9 +36,11 @@ permalink: /events/march-2018/superb-tea/
 
 ### Duel Awards - Eternal Fame Awaits!
 
+The 'Duel Awards' are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
 #### Best Drop
 
-**VoRLiN:** 'Been trying to get my last divine punishment forever...then this happens'
+**VoRLiN:** 'Been trying to get my last {Divine Punishment} forever... then this happens!'
 
 ![](/img/content/events/2018/03/superb-tea/vorlin.jpg)
 

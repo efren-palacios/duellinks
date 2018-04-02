@@ -14,5 +14,29 @@
     {
         "name": "Enemy Controller",
         "rarity": "SR"
+    },
+    {
+        "name": "Cyber Archfiend",
+        "rarity": "SR"
+    },
+    {
+        "name": "Mid Shield Gardna",
+        "rarity": "R"
+    },
+    {
+        "name": "Swordsman from a Distant Land",
+        "rarity": "N"
+    },
+    {
+        "name": "Maximum Six",
+        "rarity": "R"
+    },
+    {
+        "name": "Lightning Blade",
+        "rarity": "SR"
+    },
+    {
+        "name": "Virus Cannon",
+        "rarity": "N"
     }
-]
+] 
