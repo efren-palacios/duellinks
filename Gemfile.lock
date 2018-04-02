@@ -31,8 +31,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-angular (0.1.1)
       jekyll (>= 2)
-    jekyll-include-cache (0.1.0)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
@@ -61,7 +59,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -70,10 +67,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.7.3)
   jekyll-angular
-  jekyll-include-cache
   jekyll-sitemap
   jekyll-timeago
-  wdm
 
 BUNDLED WITH
    1.16.1

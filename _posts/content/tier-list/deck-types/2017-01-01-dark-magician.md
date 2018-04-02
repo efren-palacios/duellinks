@@ -6,20 +6,20 @@ author: Kayoh
 has-profile: true
 category: page
 sub-category: deck-type
-deck-type-id: dark-magician
+deck-type: dark-magician
 comments: false
-description: A quick introduction to the Dark Magician deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information."
+description: A quick introduction to the Dark Magician deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: dark magician, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/dark-magician/
 hide: false
 ---
 
-{% assign deck-type-name = page.deck-type-id | getDeckTypeName %}
+{% assign deck-type-name = page.deck-type | getDeckTypeName %}
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
 ### Overview
-Dark Magician is everyone's favourite and most nostalgic card from the anime! And the newest addition to Duel Links, Arkana, has made this an actual viable deck in game, placing it under Notable Kog Decks. As much as I'd hate to say it, Dark Magician is not a strong tournament deck. But it still has the power to annihilate top tier decks and it has already been proven to be a King of Games deck.
+{Dark Magician} is everyone's favourite and most nostalgic card from the anime! And the newest addition to Duel Links, Arkana, has made this an actual viable deck in game, placing it under Notable Kog Decks. As much as I'd hate to say it, Dark Magician is not a strong tournament deck. But it still has the power to annihilate top tier decks and it has already been proven to be a King of Games deck.
 
 ### Sample Deck
 
@@ -43,16 +43,18 @@ Since you're only limited to 1 {Dark Magic Attack}, {Sergeant Electro} is necess
 
 [deck](Enemy controller;Mirror Wall;Floodgate Trap Hole;Curse of Anubis;Super Rush Headlong;Wall of Disruption)
 
-All of these cards are great additions of the deck but optional.
+All of these cards are great additions to the deck but optional.
 
- ### Extra Info
+### Extra Info
 
 - If you have yet to use your {Dark Magic Curtain}, make sure to leave at least 1 Dark Magician in your deck. Remember, Jesters can grab Dark Magician from the Graveyard.
 
 - {Magician's Rod} 's secondary effect that adds itself back from the GY to your hand does come in handy sometimes, especially if you have a floodgated monster that you don't mind tributing. It's search is powerful, and you have to be aware of what you have left to search in your deck. Remember, you must activate a spell/trap in your opponent's turn, so think carefully whether or not having the searcher is worth it.
 
-{% include guides/videos.html videos='https://www.youtube.com/watch?v=8ulM3ZDfQnw' %}
+{% include guides/guides.html deckType=page.deck-type %}
+
+{% include guides/videos.html videos='8ulM3ZDfQnw' %}
 
 {% endunless %}
-{% include decktype_decks.html deckType=page.deck-type-id %}
+{% include decktype_decks.html deckType=page.deck-type %}
 {% include top-decks-season-archive.html %}

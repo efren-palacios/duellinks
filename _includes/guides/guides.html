@@ -1,0 +1,32 @@
+{% assign guides = site.posts | where: "category", "guide" | where: "sub-category", "deck-type" | where: "deck-type", {{include.deckType}} | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+
+{% if guides != null and guides.size != 0 %}
+<div class="section">
+    <h3>Guides</h3>
+    <div class="row card-collection">
+        {% for guide in guides %}
+            <div class="col-sm-6 col-12 card-deck">
+                <div class="card">
+                    <div class="zoom">
+                        <a href="{{guide.url}}"> 
+                            <img src="{{guide.image}}" class="card-img-top lazyload" />
+                        </a>
+                    </div>
+                    <div class="card-block text-white">
+                        <a href="{{guide.url}}">
+                            <h4 class="card-title">{{guide.title}}</h4>
+                        </a>
+                        <div class="text-white">
+                            <small class="text-muted">Last Updated: {{ guide.date | timeago }}
+                                {% if guide.author == 'Dkayed' %}
+                                By <b><a class="text-danger" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% else %}
+                                By <b><a class="text-warning" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% endif %}
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
