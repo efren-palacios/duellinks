@@ -23,7 +23,7 @@ New Ranked Duel Tickets rewards are now available!
 
 As well as old own event rewards:
 
-[deck](Lightning Blade; Maximum Six; Virus Cannon)
+[deck](Maximum Six; Lightning Blade; Virus Cannon)
 
 *Note: Ranked Duel Tickets from seasons before April 2018 cannot be used to obtain these rewards*
 

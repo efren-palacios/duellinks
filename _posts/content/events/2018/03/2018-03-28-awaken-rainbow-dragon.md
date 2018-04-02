@@ -16,7 +16,7 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-**Last updated 30th March**
+**Last updated April 2nd - Added more farm decks**
 
 - [Event Information](#event-information)
 - [Drop Rewards ](#drop-rewards)
@@ -25,8 +25,10 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 - [Farm Deck](#farm-decks)
     - [Level 40 Cloudian Farm - created by Jadehex](#jadehex)
     - [Level 40 Unhappy Girl Farm - created by Hi_Im_Flabber](#flabber)
+    - [Level 40 Cerberus Farm - created by Jadehex](#jadehex2)
+    - [Level 40 Labyrinth Builder Farm - created by InfiniteFlash](#infiniteflash)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
-- [Duel Awards](#awards)
+- **[Duel Awards](#awards)**
 
 [slider](/img/content/events/2018/03/awaken-rainbow-dragon/slider.jpg)
 
@@ -36,10 +38,10 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 - Duel against Legendary/Standard Duelists and Ranked Duels to collect 'Crystal Fruits' which you use to duel Jesse at the gate.
 - You will attain a specific [Duel Assessment](/farming/duel-assessment-score/) multipler from duels: 
     - x1 Standard Duelists
-    - x1-4 Legendary Duelists Lvl. 10-40 
+    - x1-4 Legendary Duelists Lvl. 10-40 respectively 
     - x4 The Vagabond
-    - x18 Zane
-- You can also earn up to 30 Crystal Fruits a day from playing 3 Ranked Duels
+    - x18 Zane Truesdale (He doesn't drop anything so there aren't any farm decks!)
+- You can also earn up to 30 Crystal Fruits a day from playing 3 Ranked Duels.
 - Obtain EX Jewels by dueling Jesse to use at the Card Trader EX and add more powerful cards to your collection - check out the list below!
 
 ### Drop Rewards 
@@ -54,8 +56,8 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 ### Event Missions 
 
-| Mission |  Reward | 
-| :----- | :----- |
+| Mission | Reward | 
+|--|--|
 | Win 1 Duel against Jesse Anderson at Level 10 in Duel World | 10 EX Jewels |
 | Win 1 Duel against Jesse Anderson at Level 20 in Duel World | 15 EX Jewels |
 | Win 1 Duel against Jesse Anderson at Level 30 in Duel World | 20 EX Jewels |
@@ -124,6 +126,60 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 
 ---
 
+<a name="jadehex2"></a>
+#### Level 40 Cerberus Farm - created by Jadehex
+
+**This is just a generic Cerberus farm decklist, you can optimize it however you want!**
+
+[deck:Draw Sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)   
+
+**Strategy**
+- Take 1500 Damage so you can activate {Draw Sense: LIGHT} to draw {Mythical Beast Cerberus}.
+- Summon Cerberus and activate enough Spells so it has ATK points higher than what Jesse can reach (3000 ATK is a safe point since {Crystal Beast Topaz Tiger} + {Crystal Release} = 2800 ATK).
+- Keep activating Spells until you draw the last card of your deck.
+- Use these cards to manage your LP so you can achieve ['LP on the Brink'](/farming/duel-assessment-score/).
+    - 2x {Hieroglyph Lithograph} or {Abyssal Designator}
+	- 2x {Mooyan Curry}
+	- 1x {Blue Medicine}
+	- 1x {Twister}
+	- 1x {Pot of Benevolence}
+
+**Last Turn**
+- Use {Stop Defense} and then {Riryoku} on one of Jesse's Monsters.
+- Activate all the Spells left in your hand but prioritize reaching 100 LP unless you don't have enough ATK points to deal 9999+ Damage.
+- Finally, attack his Attack position Monster and claim victory!
+
+**Replacements**
+- Literally none of the spells matter except {Stop Defense} and {Riryoku} as long as you can still deal 9999+ Damage.
+- {Stop Defense} can be replace by {Shooting Star Bow Ceal}, {Big Bang Shot}, {Fairy Meteor Crush} etc.
+- Skill can be swapped for {Draw Sense: Low Level}.
+
+---
+
+<a name="infiniteflash"></a>
+#### Level 40 Labyrinth Builder Farm - created by InfiniteFlash
+
+[deck:Labyrinth Builder](The Fiend Megacyber; Gravekeeper's Vassal; Planet Pathfinder; Planet Pathfinder; Planet Pathfinder; Union Attack; Union Attack; Shield & Sword; Acidic Downpour; Acidic Downpour; Acidic Downpour; Secret Pass to the Treasures; Wall of Disruption; Wall of Disruption; Wall of Disruption; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed)
+
+**Strategy**
+- Activate your skill to play {Labyrinth Wall}.
+- Idealy you want to open with at least 1 {Wall of Disruption}, 1 {Planet Pathfinder} (to search for {Acidic Downpour}), or 1 Acidic Downpour.
+- When you manage to play one of these cards against Jesse, his monsters won't be able to get over your Labyrinth Wall.  
+- Then you are free to draw into all your cards for the final turn.
+
+**Last Turn**
+1. Activate {Shield & Sword}.
+2. Switch {Labyrinth Wall} into Attack position.
+3. Special Summon {The Fiend Megacyber}.
+4. Summon {Gravekeeper's Vassal}.
+5. Target Vassal with two {Union Attack} and {Secret Pass to the Treasures}.
+6. Enter Battle Phase - attack Jesse's life points directly!
+
+**Replacements**
+- {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor), for example, {Shard of Greed}, {Legacy of Yata-Garasu} etc.
+
+---
+
 <a name="40"></a>
 
 ### Jesse Anderson Lvl: 40 Decklist
@@ -145,4 +201,4 @@ Take screenshots (post in the Discord: #jesse-event), when the event is over the
 - Highest 'Duel Energy' points will have their name posted here
 - Most Prismatic drops will have their name posted here
 
-Immortalised forever on DLM!
+Immortalised forever on Duel Link Meta!

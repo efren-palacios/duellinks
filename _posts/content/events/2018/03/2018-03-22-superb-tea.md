@@ -16,7 +16,7 @@ permalink: /events/march-2018/superb-tea/
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-**Last updated: 30th March**
+**Last updated March 30th - Added Duel Awards winners**
 
 - [Duel Awards](#awards)
 - [Update](#update)
@@ -44,7 +44,7 @@ permalink: /events/march-2018/superb-tea/
 
 #### Most UR and SR Cards
 
-**thiefofhearts**
+**thiefofhearts:**
 
 ![](/img/content/events/2018/03/superb-tea/thiefofhearts.jpg)
 

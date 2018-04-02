@@ -2,7 +2,7 @@
 layout: blog
 title: In-Game Updates - April
 author: Yami Hammy
-image: /img/content/global/news-update-thumbnail.jpg
+image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
 date: 2018-04-01
 pinned: false
