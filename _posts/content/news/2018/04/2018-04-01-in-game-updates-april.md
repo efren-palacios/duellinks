@@ -19,7 +19,7 @@ permalink: /news/april-2018/in-game-updates/
 <br>
 
 ### x1.5 EXP Campaign
-
+ 
 You'll be able to level up your characters 50% quicker for the duration of the campaign, use Duel Orbs to make Standard Duelists respawn instantly!   
 
 ![](/img/content/news/2018/04/in-game-updates/exp-campaign.jpg)

@@ -18,7 +18,7 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 **Last updated April 2nd - Jesse Lvl. 50**
 
-- [Update](#update)
+- [Update](#update) 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [EX Jewel Rewards](#ex-jewel-rewards)
