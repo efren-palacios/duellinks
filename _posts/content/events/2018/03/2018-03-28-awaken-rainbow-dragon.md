@@ -16,21 +16,29 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-**Last updated April 2nd - Added more farm decks**
+**Last updated April 2nd - Jesse Lvl. 50**
 
+- [Update](#update)
 - [Event Information](#event-information)
-- [Drop Rewards ](#drop-rewards)
+- [Drop Rewards](#drop-rewards)
 - [EX Jewel Rewards](#ex-jewel-rewards)
 - [Event Missions](#event-missions)
-- [Farm Deck](#farm-decks)
+- [Farm Decks](#farm-decks)
     - [Level 40 Cloudian Farm - created by Jadehex](#jadehex)
     - [Level 40 Unhappy Girl Farm - created by Hi_Im_Flabber](#flabber)
     - [Level 40 Cerberus Farm - created by Jadehex](#jadehex2)
     - [Level 40 Labyrinth Builder Farm - created by InfiniteFlash](#infiniteflash)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
+- [Jesse Anderson Lvl: 50 Decklist](#50)
 - **[Duel Awards](#awards)**
 
 [slider](/img/content/events/2018/03/awaken-rainbow-dragon/slider.jpg)
+
+### Update
+
+Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!
+  
+He will use {Rainbow Path} to negate your attack so substitute a non-essential card in one of the many farm decks below for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck. 
 
 ### Event Information 
 - Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards and unlock him as a Duelist!
@@ -181,10 +189,16 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 ---
 
 <a name="40"></a>
-
 ### Jesse Anderson Lvl: 40 Decklist
 
 [deck](Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Amber Mammoth; Crystal Beast Emerald Tortoise; Crystal Beast Emerald Tortoise; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Dweller in the Depths; Dweller in the Depths; Crystal Beast Amethyst Cat; Crystal Beast Cobalt Eagle; Crystal Beast Ruby Carbuncle; Crystal Promise; Crystal Release; Crystal Release; Rare Value; Rare Value; Rare Value)
+
+---
+
+<a name="50"></a>
+### Jesse Anderson Lvl: 50 Decklist
+
+[deck](Rainbow Dragon; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Amethyst Cat; Crystal Beast Ruby Carbuncle; Crystal Beast Amber Mammoth; Crystal Beast Emerald Tortoise; Crystal Beast Cobalt Eagle; Crystal Bond; Crystal Bond; Crystal Bond; Crystal Release; Crystal Release; Rare Value; Rare Value; Rare Value; Rainbow Path)
 
 ---
 
