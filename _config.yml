@@ -10,7 +10,7 @@ collections:
     permalink: /:collection/:name
   admin:
     output: true
-gems:
+plugins:
   - jekyll-timeago
   - jekyll-angular
 plugins-dir:

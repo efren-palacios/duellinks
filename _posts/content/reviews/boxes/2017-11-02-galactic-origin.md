@@ -21,19 +21,19 @@ permalink: /box-reviews/galactic-origin/
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.galactic-origin rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.galactic-origin rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.galactic-origin rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.galactic-origin rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.galactic-origin rarity="R" %}
+{% include box.html box=site.data.card-locations.box.galactic-origin rarity="R" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.galactic-origin rarity="N" %}
+{% include box.html box=site.data.card-locations.box.galactic-origin rarity="N" %}
 
 ---
 

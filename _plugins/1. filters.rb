@@ -1,3 +1,6 @@
+require 'liquid'
+require 'uri'
+
 module Jekyll
   module ArrayFilter
     def filter_posts(posts)
@@ -5,6 +8,38 @@ module Jekyll
     end
     def sort_descending(array)
       array.sort.reverse
+    end
+    def filter_card_locations(locations)
+      cards = []
+      locations.each do |locationName, locationData|
+        splitName = locationName.split('-')
+        combinedLocationName1 = ""
+        splitNameCount = 1
+        splitName.each do |subSplitName|
+          combinedLocationName1 += subSplitName.capitalize
+          splitNameCount += 1
+          if (splitNameCount <= splitName.length)
+            combinedLocationName1 += " "
+          end
+        end
+        locationData.each do |subLocationName, subLocationData|
+          splitSubName = subLocationName.split('-')
+          combinedLocationName2 = ""
+          splitSubName.each do |coSubSplitName|
+            combinedLocationName2 += coSubSplitName.capitalize + " "
+          end  
+          subLocationData.each do |card|
+            if(combinedLocationName1 == "Level Up Reward")
+              obtainVal = combinedLocationName2 + combinedLocationName1.gsub('Up', card["level"].to_s)
+            else
+              obtainVal = combinedLocationName2 + combinedLocationName1
+            end        
+            card_hash = { 'name' => card["name"].gsub(/"/, "'"), 'rarity' => card["rarity"], 'obtain' => obtainVal }
+            cards.push(card_hash)
+          end 
+        end
+      end
+      return cards
     end
   end
   module DateFilter
@@ -43,6 +78,14 @@ module Jekyll
     end
   end
 end
+
+module URLEncoding
+  def url_encode(url)
+    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+  end
+end
+
+Liquid::Template.register_filter(URLEncoding)
 Liquid::Template.register_filter(Jekyll::DateFilter)
 Liquid::Template.register_filter(Jekyll::StringFilter)
 Liquid::Template.register_filter(Jekyll::ApiFilter)

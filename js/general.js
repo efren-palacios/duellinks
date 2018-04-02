@@ -2,11 +2,11 @@ $(document).ready(function()
 {
     ExecuteOnReadyFunctions();
     BindPageEvents();
-
+	
     $('.carousel').carousel({
         interval: false
-    });
-
+	});
+	
     setImageFilter();
 });
 
@@ -30,8 +30,8 @@ function ReadUrlHashFragment()
     {
         $.when( $(".nav-tabs a[href='" + hash + "']").tab("show") ).then(function( ) { $(".page-wrapper").scrollTop(0); });
         /*$(".nav-tabs a[href='" + hash + "']").tab("show");
-        $(".page-wrapper").scrollTop(0);*/
-    } 
+		$(".page-wrapper").scrollTop(0);*/
+	} 
 }
 
 function BindTabsToUrlHash()
@@ -41,7 +41,7 @@ function BindTabsToUrlHash()
         var position = $(".page-wrapper").scrollTop();
         window.location.hash = event.target.hash;
         $(".page-wrapper").scrollTop(position);
-    });
+	});
 }
 
 function BindCollapsableTables()
@@ -51,8 +51,8 @@ function BindCollapsableTables()
         $(elem).find("thead").click(function()
         {
             $(elem).toggleClass("collapsed");
-        });
-    });
+		});
+	});
 }
 
 function BindSeasonArchiveSelection()
@@ -60,7 +60,7 @@ function BindSeasonArchiveSelection()
     $("#SeasonArchiveSelection").change(function(event)
     {
         if($(event.target).val() != 'defaultValue') window.location = "/top-decks/" + $(event.target).val();
-    });
+	});
 }
 
 function EventComplete()
@@ -73,7 +73,7 @@ function getWebsiteLink() {
     var websiteLink = location.protocol + "//" + location.hostname;
     if(location.port) {
         websiteLink += ":" + location.port;
-    }
+	}
     return websiteLink;
 }
 
@@ -85,4 +85,55 @@ function toggleChange(elem)
 
 function setImageFilter() {
     new CardsAPI().setImageFilters();
+}
+
+function twitchNotification() {
+    //test if user has already seen this here
+    
+    
+    // Get the snackbar DIV
+    var x = document.getElementById("snackbar")
+	
+    // Add the "show" class to DIV
+    x.className = "show";
+	
+    // After 3 seconds, remove the show class from DIV
+    setTimeout(function(){ x.className = x.className.replace("show", ""); }, 7000);
+}
+
+
+
+
+if (!sessionStorage.run3times || sessionStorage.run3times<3) {
+    if(!sessionStorage.run3times){
+        sessionStorage.run3times = 1;
+		}else{
+        sessionStorage.run3times++;
+	}
+	$.getJSON("https://api.twitch.tv/kraken/streams/duellinksmeta?client_id=ajtf58zc6vxrkaf7faohw5al9v3tua", function(channel)
+	{
+		if (channel["stream"] == null)
+		{
+			return;
+			} else {
+			twitchNotification();
+		}
+	});
+}
+
+if (typeof antiabd !== 'undefined'){
+	//alert("no adblock");
+    
+}else{
+    //you can view the site 3x with adblock but no more after that.
+    if (localStorage.ABDrun3times < 3) {
+        if(!localStorage.ABDrun3times){
+            localStorage.ABDrun3times = 1;
+            }else{
+            localStorage.ABDrun3times++;
+        }
+    }else{
+    //alert("adblock");
+    window.location = "/adb/";
+    }
 }

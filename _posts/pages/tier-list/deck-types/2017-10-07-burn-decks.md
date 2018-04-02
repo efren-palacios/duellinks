@@ -11,7 +11,7 @@ description: In depth information about Burn decks.
 permalink: /tier-list/burn-decks/
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 

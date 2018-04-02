@@ -29,19 +29,19 @@ permalink: /box-reviews/valiant-souls/
 
 #### Ultra Rare Cards
 
-{% include box.html box=site.data.box.valiant-souls rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.valiant-souls rarity="UR" %}
 
 #### Super Rare Cards
 
-{% include box.html box=site.data.box.valiant-souls rarity="SR" %}
+{% include box.html box=site.data.card-locations.box.valiant-souls rarity="SR" %}
 
 #### Rare Cards
 
-{% include box.html box=site.data.box.valiant-souls rarity="R" %}
+{% include box.html box=site.data.card-locations.box.valiant-souls rarity="R" %}
 
 #### Normal Cards
 
-{% include box.html box=site.data.box.valiant-souls rarity="N" %}
+{% include box.html box=site.data.card-locations.box.valiant-souls rarity="N" %}
 
 ---
 

@@ -10,7 +10,8 @@
 }
 
 #playtest{
-	position: relative;
+  position: relative;
+  display: none;
 }
 
 // Button to start playtest
@@ -41,6 +42,7 @@
    width: 600px;
    display: flex;
    align-items: center;
+   min-height: 142px;
   }
   
   .deck {
@@ -82,6 +84,7 @@
   .game-board
   {
     display: inline-block;
+    user-select: none;
   
     .testcard-slot-row
     {

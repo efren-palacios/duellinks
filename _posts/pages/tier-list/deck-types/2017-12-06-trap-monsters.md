@@ -11,7 +11,7 @@ deck-type: trap-monsters
 permalink: /tier-list/trap-monsters/ 
 ---
 
-{% assign guide = site.data.deck-types.pages[{{page.deck-type}}] %}
+{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
 {% include guides/guide.html guide=guide %}
 
