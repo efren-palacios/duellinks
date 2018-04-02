@@ -1,7 +1,9 @@
+require 'fileutils'
 require 'liquid'
 require 'uri'
 
 module Jekyll
+
   module ArrayFilter
     def filter_posts(posts)
       posts.find_all { |post| (post['category'] == 'guide' or post['category'] == 'tournament') and (post['hide'] == false or post['hide'] == nil) }
@@ -42,12 +44,14 @@ module Jekyll
       return cards
     end
   end
+
   module DateFilter
     require 'date'
     def sort_decks(collection)
       collection.sort_by{|deck| Date.parse(deck[1]["created"], '%Y-%m-%d')}.reverse
     end
   end
+
   module StringFilter
     def strip_tabs(input)
       input.gsub(/\t/, ' ')
@@ -59,11 +63,13 @@ module Jekyll
       return words.split(' ').map(&:capitalize).join(' ')
     end
   end
+
   module ApiFilter
     def name(input, name)
       input.gsub('[name]', name.gsub(' ', '_').gsub('-', '_').gsub(':', '_').gsub('#', '_').gsub('"', '_').gsub('/', '_'))
     end
   end
+
   module YoutubeFilter
     def getYoutubeId(url)
       id = ''
@@ -77,6 +83,26 @@ module Jekyll
       id
     end
   end
+
+  module ContentFilter
+    def getDeckTypeName(deckTypeId)
+      tierlistFile = File.read('_data/tierlist.json')
+      tierlist = JSON.parse(tierlistFile)
+
+      tiertype = { "display" => "", "card" => "" }
+
+      for tier in tierlist
+        for type in tier["types"]
+          if type["id"] == deckTypeId
+            tiertype = type
+          end
+        end
+      end
+
+      return tiertype["display"]
+    end
+  end
+
 end
 
 module URLEncoding
@@ -91,3 +117,4 @@ Liquid::Template.register_filter(Jekyll::StringFilter)
 Liquid::Template.register_filter(Jekyll::ApiFilter)
 Liquid::Template.register_filter(Jekyll::YoutubeFilter)
 Liquid::Template.register_filter(Jekyll::ArrayFilter)
+Liquid::Template.register_filter(Jekyll::ContentFilter)

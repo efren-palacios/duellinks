@@ -1,0 +1,12 @@
+{% assign videos = include.videos | split: ';' %}
+
+<div class="section">
+    <h3>Videos</h3>
+    <div class="row">
+        {% for video in include.videos %}
+            <div class="col-12 col-md-6">
+                {% include youtube-video.html url=video %}
+            </div>
+        {% endfor %}
+    </div>
+</div>
