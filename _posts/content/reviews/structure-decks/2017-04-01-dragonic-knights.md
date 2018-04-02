@@ -129,7 +129,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 **Xanxus** says:
 
-- Maybe {Evilswarm-Zahak} is a potential side Deck option.
+- Maybe {Evilswarm Zahak} is a potential side Deck option.
 
 **》3K《 All Day** says:
 
