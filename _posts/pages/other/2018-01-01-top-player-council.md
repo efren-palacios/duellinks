@@ -30,13 +30,8 @@ hide: true
 
 |13th: Adoboboy|14th: Whybona|15th: Machdragon|16th: AndyTsang|
 | :-- | :-- | :-- | :-- |
-||[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/andytsang)|
+|[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/andytsang)|
 
-|18th: BuilttoTilt|19th: SirDillweed|
-| :-- | :-- |
-|[<img src="https://i.imgur.com/W0jc3bE.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/Y4OHKPM.png">](/authors/sirdillweed)|
-
-
-|Mananger: Superforms|
-| :-- |
-|[<img src="https://i.imgur.com/StEcfJa.png">](/authors/superforms)|
+|18th: BuilttoTilt|19th: SirDillweed|Mananger: Superforms|
+| :-- | :-- | :-- |
+|[<img src="https://i.imgur.com/W0jc3bE.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/Y4OHKPM.png">](/authors/sirdillweed)|[<img src="https://i.imgur.com/OUO7uOm.png">](/authors/superforms)|
