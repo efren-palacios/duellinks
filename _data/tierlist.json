@@ -46,6 +46,7 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
+            { "id": "geargia",                  "display": "Geargia",               "card": "Geargiattacker" }, 
             { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },     
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "counter-fairies",          "display": "Counter Fairies",       "card": "Divine Punishment" },
