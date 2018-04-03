@@ -45,7 +45,8 @@
         "info": "These are deck types that are currently active, but are generally not skilled enough to be listed on the tier list.",
         "types":
         [         
-            { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },     
+            { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
+            { "id": "disciple-otk",             "display": "Ra's Disciple OTK",     "card": "Ra's Disciple" },     
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "counter-fairies",          "display": "Counter Fairies",       "card": "Divine Punishment" },
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
