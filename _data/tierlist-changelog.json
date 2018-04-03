@@ -1,11 +1,14 @@
 {
     "game-changes":
     {
-        "date": 2018-03-29,
-        "description": "-March 13th - Latest box released. Sylvans are the latest deck to have an impact on the meta. New big box coming April 3rd. "
+        "date": 2018-04-02,
+        "description": "-April 2nd - New box released today. The Archfiend resurgence is the latest deck to impact on the meta. "
     },
     "tier-changes": 
     [
+        { "type": "archfiends", "from": "nothing", "to": 3, "date": 2018-04-02 },
+        { "type": "dinos", "from": 3, "to": "nothing", "date": 2018-04-02 },
+        { "type": "fishes", "from": 2, "to": 3, "date": 2018-04-02 },
         { "type": "gladiator-beasts", "from": 3, "to": "nothing", "date": 2018-03-26 },
         { "type": "hazy-flame", "from": 3, "to": "nothing", "date": 2018-03-26 },
         { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-03-26 },
