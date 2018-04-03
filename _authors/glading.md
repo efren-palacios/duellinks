@@ -1,0 +1,12 @@
+---
+layout: author
+title: "Glading"
+categories: authors
+role: Glading
+image: https://i.imgur.com/wI2mmB6.jpg
+comments: true
+twitter: https://twitter.com/gladingr
+about: "I am an active Yu-Gi-Oh! Duel Links and OCG player and also a part-time writer of Yu-Gi-Oh! content."
+accomplishments: "MCS VI Champion
+OCG(China): 2017 Duel City SP03 Top 32, 2017 Kaien Cup Top 32"
+---

@@ -18,11 +18,11 @@ hide: true
 
 |1st|2nd|3rd|4th|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+|[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
 
 |5th|6th|7th|8th|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|![/img/players/skillshot](/authors/skillshot)|
+|[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|![/img/players/skillshot](/authors/skillshot)|
 
 |9th|10th|11th|12th|
 | :-- | :-- | :-- | :-- |
