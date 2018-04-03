@@ -46,7 +46,7 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
-            { "id": "disciple",                 "display": "Ra's Disciple",         "card": "Ra's Disciple" },     
+            { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },     
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "counter-fairies",          "display": "Counter Fairies",       "card": "Divine Punishment" },
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
