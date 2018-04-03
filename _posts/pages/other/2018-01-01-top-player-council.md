@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-### Current Member Profiles - Season 1 (Season 2 begins July 1st)
+### Current Member Profiles - Season 2 (Season 3 begins July 1st)
 Click each picture to read more about our Top Player Council members!
 
 |1st: Glading|2nd: Whilipino|3rd: Jason|4th: Select Maple|
