@@ -8,4 +8,4 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-gem 'wdm' if Gem.win_platform?
+#gem 'wdm' if Gem.win_platform?
