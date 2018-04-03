@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In-Game Updates - April 3rd
+title: In-Game Updates 3 - April 3rd
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
@@ -14,7 +14,7 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-## April 3rd Update
+## April 3rd Update 3
 
 <br>
 
@@ -32,7 +32,7 @@ There are multiple 'Guaranteed UR' cards in this sale so it may be worthwhile fo
 
 ---
 
-## April 2nd Update
+## April 2nd Update 2
 
 <br>
 
@@ -50,7 +50,7 @@ Jesse Lvl. 50 will now spawn in Duel World (GX) with a stronger deck in tow. Che
 
 ---
 
-## April 1st Update
+## April 1st Update 1
 
 <br>
 
