@@ -6,6 +6,9 @@
     },
     "tier-changes": 
     [
+        { "type": "archfiends", "from": "nothing", "to": 3, "date": 2018-04-02 },
+        { "type": "dinos", "from": 3, "to": "nothing", "date": 2018-04-02 },
+        { "type": "fishes", "from": 2, "to": 3, "date": 2018-04-02 },
         { "type": "gladiator-beasts", "from": 3, "to": "nothing", "date": 2018-03-26 },
         { "type": "hazy-flame", "from": 3, "to": "nothing", "date": 2018-03-26 },
         { "type": "cyber-angels", "from": 3, "to": 2, "date": 2018-03-26 },
