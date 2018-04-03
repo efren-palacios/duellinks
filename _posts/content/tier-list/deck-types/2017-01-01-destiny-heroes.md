@@ -1,8 +1,8 @@
 ---
 layout: blog
-date: 2018-03-24
+date: 2018-04-02
 title: Introduction to Destiny Heroes
-author: Insano
+author: Dkayed
 has-profile: true
 category: page
 sub-category: deck-type
