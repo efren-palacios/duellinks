@@ -7,7 +7,7 @@ image: https://i.imgur.com/TIGpAyH.png
 comments: true
 youtube: https://www.youtube.com/channel/UCz_cNcJzCy4asffzW5ERH1w
 facebook: https://www.facebook.com/HallOfGamesHalle/
-Buy your Singles from Atzenjens: https://www.cardmarket.com/de/YuGiOh/Users/AtzenJens
+Buy your Singles from Atzenjens - https://www.cardmarket.com/de/YuGiOh/Users/AtzenJens
 about: "Hi my Name is Max I am 23 Years old.
 I am from Germany.
 I play the Game since 2006.
