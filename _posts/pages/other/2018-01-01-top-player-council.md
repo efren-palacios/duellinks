@@ -14,7 +14,8 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-### Current Members - Season 1 (Season 2 begins July 1st)
+### Current Member Profiles - Season 1 (Season 2 begins July 1st)
+Click each picture to read more about our Top Player Council members!
 
 |1st: Glading|2nd: Whilipino|3rd: Jason|4th: Select Maple|
 | :-- | :-- | :-- | :-- |
@@ -32,6 +33,6 @@ hide: true
 | :-- | :-- | :-- | :-- |
 |[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/andytsang)|
 
-|18th: BuilttoTilt|19th: SirDillweed|Mananger: Superforms|
+|17th: BuilttoTilt|18th: SirDillweed|Mananger: Superforms|
 | :-- | :-- | :-- |
 |[<img src="https://i.imgur.com/W0jc3bE.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/Y4OHKPM.png">](/authors/sirdillweed)|[<img src="https://i.imgur.com/OUO7uOm.png">](/authors/superforms)|
