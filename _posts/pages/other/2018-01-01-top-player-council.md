@@ -18,11 +18,11 @@ hide: true
 
 |1st: Glading|2nd: Whilipino|3rd: Jason|4th: Select Maple|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
+|[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/whilipino)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
 
 |5th: Skillshot|6th: MiguelJoker|7th: Kwrowe|8th: Super Vegito|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/authors/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|
+|[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/kwrowe)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/authors/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|
 
 |9th: Kaki|10th: Kayoh|11th: Xaxnus|12th: 3K AllDay|
 | :-- | :-- | :-- | :-- |
@@ -30,9 +30,13 @@ hide: true
 
 |13th: Adoboboy|14th: Whybona|15th: Machdragon|16th: AndyTsang|
 | :-- | :-- | :-- | :-- |
-||[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="...">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/andytsang)|
+||[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/andytsang)|
 
 |18th: BuilttoTilt|19th: SirDillweed|
 | :-- | :-- |
-|[<img src="https://i.imgur.com/3kNpUyv.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/sirdillweed)|
+|[<img src="https://i.imgur.com/W0jc3bE.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/Y4OHKPM.png">](/authors/sirdillweed)|
 
+
+|Mananger: Superforms|
+| :-- |
+|[<img src="https://i.imgur.com/StEcfJa.png">](/authors/superforms)|
