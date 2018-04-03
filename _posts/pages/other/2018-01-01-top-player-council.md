@@ -25,7 +25,7 @@ Click each picture to read more about our Top Player Council members!
 | :-- | :-- | :-- | :-- |
 |[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/authors/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|
 
-|9th: Kaki|10th: Kayoh|11th: Xaxnus|12th: 3K AllDay|
+|9th: Kaki|10th: Kayoh|11th: Xanxus|12th: 3K AllDay|
 | :-- | :-- | :-- | :-- |
 |[<img src="https://i.imgur.com/TIGpAyH.png">](/authors/kaki)|[<img src="https://i.imgur.com/DIZAg6c.png">](/authors/kayoh)|[<img src="https://i.imgur.com/ZWK85dZ.png">](/authors/xanxus)|[<img src="https://i.imgur.com/RAVSUte.png">](/authors/3kallday)|
 
