@@ -16,19 +16,23 @@ hide: true
 
 ### Current Members - Season 1 (Season 2 begins July 1st)
 
-|1st|2nd|3rd|4th|
+|1st: Glading|2nd: Whilipino|3rd: Jason|4th: Select Maple|
 | :-- | :-- | :-- | :-- |
 |[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
 
-|5th|6th|7th|8th|
+|5th: Skillshot|6th: MiguelJoker|7th: Kwrowe|8th: Super Vegito|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|![/img/players/skillshot](/authors/skillshot)|
+|[<img src="https://i.imgur.com/bXvFu0y.png">](/authors/skillshot)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/authors/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|[<img src="https://i.imgur.com/86WzDgS.png">](/authors/supervegito)|
 
-|9th|10th|11th|12th|
+|9th: Kaki|10th: Kayoh|11th: Xaxnus|12th: 3K AllDay|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+|[<img src="https://i.imgur.com/TIGpAyH.png">](/authors/kaki)|[<img src="https://i.imgur.com/DIZAg6c.png">](/authors/kayoh)|[<img src="https://i.imgur.com/ZWK85dZ.png">](/authors/xanxus)|[<img src="https://i.imgur.com/RAVSUte.png">](/authors/3kallday)|
 
-|13th|14th|15th|16th|
+|13th: Adoboboy|14th: Whybona|15th: Machdragon|16th: AndyTsang|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/giajoestar)|
+||[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="...">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/andytsang)|
+
+|18th: BuilttoTilt|19th: SirDillweed|
+| :-- | :-- |
+|[<img src="https://i.imgur.com/3kNpUyv.png">](/authors/builttotilt)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/sirdillweed)|
 

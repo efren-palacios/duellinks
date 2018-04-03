@@ -3,7 +3,7 @@ layout: author
 title: "Xanxus"
 categories: authors
 role: Top Player Council
-image: /img/players/xanxus
+image: https://i.imgur.com/ZWK85dZ.png
 comments: true
 discord: Creeping Death Discord
 about: "Member of the greatest Duel Links team 'Creeping Death'. "

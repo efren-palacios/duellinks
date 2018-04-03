@@ -3,7 +3,7 @@ layout: author
 title: "Kayoh"
 meta: "Owner"
 categories: authors
-image: https://cdn.discordapp.com/attachments/348523873433681932/403353075064242187/3K.png
+image: https://i.imgur.com/DIZAg6c.png
 author: Kayoh
 comments: true
 twitter: https://twitter.com/Kayy0h
@@ -13,6 +13,6 @@ I'd say the main reason I stuck with this game, despite it being so fucking expe
 
 A brief Irl intro: I'm 22 years old, Canadian, and currently attending University. I'm a chill dude so feel free to ask me any Duel Links related questions via Discord. 
 I've got a vast amount of knowledge cuz I have no life playing this children's card game. "
-accomplishments: "9x KoG. Top 100 WCQ. Top 500 Nov Kc Cup. Winner of DLM's August King of the Hill."
+accomplishments: "August King of the Hill. 12x KoG. Top 100 WCQ. Top 100 NA Nov KC Cup. Rank 7 NA Feb KC Cup. Day 2 MCS V/MCS VI. "
 discord: "Kayoh#0928"
 ---
