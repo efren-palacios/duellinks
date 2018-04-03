@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title %}
 
-### Top Player Ladder: Jan 1st |March 31st (Season 1)
+### Top Player Ladder: Jan 1st - March 31st (Season 1)
 
 |Rank|Participant Name|Points|
 | :-|| :-|| :-||
