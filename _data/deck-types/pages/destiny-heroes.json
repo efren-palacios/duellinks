@@ -1,9 +1,9 @@
 {
-    "deck-type": "Red-Eyes Zombies",
-    "created-by": "Insano - Red Eyes Expert",
-    "modified-by": "Insano - Red Eyes Expert",
-    "modified-on": "2018-03-24",
-    "profile": "insano",
+    "deck-type": "Destiny Heroes",
+    "created-by": "Dkayed",
+    "modified-by": "Dkayed",
+    "modified-on": "2018-04-02",
+    "profile": "dkayed",
     "sections":
     [
         {
@@ -149,10 +149,11 @@
     ],
     "guides": 
     [
-        "/guides/deck-types/red-eyes-zombies-guide-by-insano/"
+        ""
     ],
     "videos": 
     [
-        "https://www.youtube.com/watch?v=O8FvdYslIWM"
+        "https://www.youtube.com/watch?v=p-zfj9TJslU",
+        "https://www.youtube.com/watch?v=p-zfj9TJslU&t=1s"
     ]
 }
