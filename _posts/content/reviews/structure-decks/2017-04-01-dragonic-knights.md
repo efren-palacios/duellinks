@@ -1,13 +1,13 @@
 ---
 layout: blog
 date: 2018-04-01
-title: "First Impressions: Dragonic Knights"
+title: "Review: Dragonic Knights"
 author: Yami Hammy
 category: review
 sub-category: structure deck
 image: /img/content/structure-deck-reviews/dragonic-knights/thumbnail.jpg
 comments: true
-description: Review of the Structure Deck 'Dragonic Knights'!
+description: Review by the Top Player Council of the Structure Deck Dragonic Knights!
 keywords: structure, structure deck, dragonic knights, review
 permalink: /structure-deck-reviews/dragonic-knights/
 ---
@@ -129,7 +129,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 **Xanxus** says:
 
-- Maybe {Evilswarm-Zahak} is a potential side Deck option.
+- Maybe {Evilswarm Zahak} is a potential side Deck option.
 
 **》3K《 All Day** says:
 

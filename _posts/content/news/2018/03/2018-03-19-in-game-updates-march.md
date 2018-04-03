@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In-Game Updates - March
+title: In-Game Updates - March 31st
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news

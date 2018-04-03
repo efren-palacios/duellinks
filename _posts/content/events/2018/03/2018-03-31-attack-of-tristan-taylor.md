@@ -5,7 +5,7 @@ title: Attack of Tristan Taylor!
 author: Yami Hammy
 image: /img/content/events/2018/03/attack-of-tristan-taylor/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Tristan Taylor has arrived! Here's all you need to know about the event and the best ways to farm him!
 keywords: event, tristan, tristan taylor, farm, april fools

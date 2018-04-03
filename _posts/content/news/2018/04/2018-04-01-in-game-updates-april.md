@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates - April
+title: In-Game Updates 3 - April 3rd
 author: Yami Hammy
-image: /img/content/global/news-update-thumbnail.jpg
+image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-01
+date: 2018-04-03
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,7 +14,43 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-## 1st April Update
+## April 3rd Update 3
+
+<br>
+
+### New Card BOX
+
+The new Main Box: Valiant Souls is here, give our [First Impressions](/box-reviews/valiant-souls/) article a read if you want to know all about the new cards!
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-new-box-vs.jpg)
+
+### Sale Underway
+
+There are multiple 'Guaranteed UR' cards in this sale so it may be worthwhile for some.
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-sale-vs.jpg)
+
+---
+
+## April 2nd Update 2
+
+<br>
+
+### x1.5 EXP Campaign
+ 
+You'll be able to level up your characters 50% quicker for the duration of the campaign, use Duel Orbs to make Standard Duelists respawn instantly!   
+
+![](/img/content/news/2018/04/in-game-updates/exp-campaign.jpg)
+
+### Jesse Anderson Lvl. 50
+
+Jesse Lvl. 50 will now spawn in Duel World (GX) with a stronger deck in tow. Check out our [Awaken! Rainbow Dragon!](/events/march-2018/awaken-rainbow-dragon/) event article for the best ways farm him and get your playset of Crystal Beast cards!
+
+![](/img/content/news/2018/04/in-game-updates/jesse-lvl-50.jpg)
+
+---
+
+## April 1st Update 1
 
 <br>
 
