@@ -36,9 +36,19 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 ### Update
 
-Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!
-  
-He will use {Rainbow Path} to negate your attack so substitute a non-essential card in one of the many farm decks below for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck. 
+Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!  
+ 
+He will use {Rainbow Path} to negate your attack so substitute a non-essential card in the [Cerberus Farm Deck](#jadehex2) (since Jesse appears only in Duel World (GX) you won't be able to use the skills required for the other decks) for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck. 
+ 
+New event missions have also been added - get up to 100 gems!
+
+| Mission | Reward | 
+|--|--|
+| Win 1 Duel with {Rainbow Dragon} in your Deck, while playing as Jesse Anderson | 10 Gems |
+| Summon {Rainbow Dragon} 1 time in PvP | 20 Gems |
+| Summon {Rainbow Dragon} 2 times in PvP | 20 Gems |
+| Summon {Rainbow Dragon} 3 times in PvP | 20 Gems |
+| Reduce your opponent's LP to 0 by inflicting battle damage with {Rainbow Dragon} | 30 Gems |
 
 ### Event Information 
 - Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards and unlock him as a Duelist!

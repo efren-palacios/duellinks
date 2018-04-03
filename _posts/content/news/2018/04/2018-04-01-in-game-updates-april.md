@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates - April 2nd
+title: In-Game Updates - April 3rd
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-02
+date: 2018-04-03
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,24 @@ permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## April 3rd Update
+
+<br>
+
+### New Card BOX
+
+The new Main Box: Valiant Souls is here, give our [First Impressions](/box-reviews/valiant-souls/) article a read if you want to know all about the new cards!
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-new-box-vs.jpg)
+
+### Sale Underway
+
+There are multiple 'Guaranteed UR' cards in this sale so it may be worthwhile for some.
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-sale-vs.jpg)
+
+---
 
 ## April 2nd Update
 
