@@ -18,7 +18,7 @@ hide: true
 
 |1st: Glading|2nd: Whilipino|3rd: Jason|4th: Select Maple|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/5GQqWoo.png">](/authors/whilipino)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
+|[<img src="https://i.imgur.com/wI2mmB6.jpg">](/authors/glading)|[<img src="https://i.imgur.com/3kNpUyv.png">](/authors/whilipino)|[<img src="https://i.imgur.com/pmEW8jQ.png">](/authors/jason)|[<img src="https://i.imgur.com/3xeQ4Dl.png">](/authors/selectmaple)|
 
 |5th: Skillshot|6th: MiguelJoker|7th: Kwrowe|8th: Super Vegito|
 | :-- | :-- | :-- | :-- |
