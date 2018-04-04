@@ -4,7 +4,10 @@ disqus:
   shortname: duellinksmeta
 exclude: ["Gemfile",
           "Gemfile.lock",
-          "node_modules"]
+          "node_modules",
+          ".gitignore",
+          "package.json",
+          "package-lock.json"]
 collections:
   authors:
     output: true
