@@ -19,7 +19,7 @@ paths.stylesFolderName = 'css';
 
 // Asset files locations.
 paths.sassFiles   = paths.assetsDir + paths.stylesFolderName;
-paths.jsFiles     = paths.assetsDir + paths.scriptFolderName;
+paths.jsFiles     = paths.scriptFolderName;
 paths.imageFiles  = paths.assetsDir + paths.imageFolderName;
 paths.fontFiles   = paths.assetsDir + paths.fontFolderName;
 
