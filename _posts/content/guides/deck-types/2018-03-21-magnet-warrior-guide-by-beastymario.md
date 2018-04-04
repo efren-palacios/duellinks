@@ -357,7 +357,7 @@ Not many pay attention to this but Emperor has a secondary effect that doesn’t
 
 ### Fishes  
 
-A very difficult matchups for Magnets, and better summarized as a better Wallet Control deck, Fishes has swarmed the meta with its ability to clear an entire field with the combination of {Golden Flying Fishe}s effect and {Oyster Meister}. Flying Fish can tribute one fish monster to destroy one card on the field, and when doing so by tributing an Oyster, Oyster brings out an additional fish token with its effect, allowing Flying Fish to destroy another card. With the combination of Powerful Rebirth, you can see why Flying Fish can so easily clear out a field. With the amount of protection they run, this is indeed a difficult matchup up for an aggressive deck such as ours.  
+A very difficult matchups for Magnets, and better summarized as a better Wallet Control deck, Fishes has swarmed the meta with its ability to clear an entire field with the combination of {Golden Flying Fish}es effect and {Oyster Meister}. Flying Fish can tribute one fish monster to destroy one card on the field, and when doing so by tributing an Oyster, Oyster brings out an additional fish token with its effect, allowing Flying Fish to destroy another card. With the combination of Powerful Rebirth, you can see why Flying Fish can so easily clear out a field. With the amount of protection they run, this is indeed a difficult matchup up for an aggressive deck such as ours.  
 
 - WIN CONDITION  
 
