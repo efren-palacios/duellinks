@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: paleozoic
 image: /img/content/guides/paleozoic-guide-intro-by-snyffus/paleodeck.jpg
-date: 2018-04-03 21:00:00
+date: 2018-04-04 01:00:00
 comments: false
 description: A detailed guide written by Snyffus presenting an introduction to the Paleozoic archetype.
 keywords: guide, paleozoic, canadia, pikaia, leanchoilia, core cards

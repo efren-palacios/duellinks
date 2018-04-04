@@ -13,7 +13,7 @@ permalink: /news/march-2018/datamined-discoveries/
 
 {% include heading.html title=page.title %}
 
-## 29th March Update
+## March 29th Update
 #### By SpoonCats
 
 <br>
@@ -98,7 +98,7 @@ Finally, a few of these new cards are from the ongoing [Jesse Anderson](/events/
 
 ---
 
-## 16th March Update
+## March 16th Update
 #### By Yami Hammy
 
 <br>
@@ -181,7 +181,7 @@ And lastly a new icon, perhaps summon {Hungry Burger} 100 times? Who knows!
 
 ---
 
-## 9th March Update
+## March 9th Update
 #### By Yami Hammy
 
 <br>

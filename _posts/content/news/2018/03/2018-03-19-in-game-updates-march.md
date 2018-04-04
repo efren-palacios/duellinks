@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In-Game Updates - March 31st
+title: In-Game Updates - March 31
 author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
@@ -14,7 +14,7 @@ permalink: /news/march-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-## 31st March Update
+## March 31st Update
 
 <br>
 
@@ -32,7 +32,7 @@ It has been over a month since we found out in our [Datamined Discoveries](/news
 
 ---
 
-## 30th March Update
+## March 30th Update
 
 <br>
 
@@ -50,7 +50,7 @@ As we speculated in our [Datamined Discoveries](/news/february-2018/datamined-di
 
 ---
 
-## 28th March Update
+## March 28th Update
 
 <br>
 
@@ -80,7 +80,7 @@ You can now set Card Sleeves and Game Mats for each and every deck - customise t
 
 ---
 
-## 27th March Update
+## March 27th Update
 
 <br>
 
@@ -94,7 +94,7 @@ The [Superb Téa](/events/march-2018/superb-tea/) event has been extended by 2 d
 
 ---
 
-## 26th March Update
+## March 26th Update
 
 <br>
 
@@ -126,7 +126,7 @@ As we previously discussed in our [Datamined Discoveries](/news/march-2018/datam
 
 ---
 
-## 23rd March Update
+## March 23rd Update
 
 <br>
 
@@ -150,7 +150,7 @@ Here are some key points:
 
 ---
 
-## 20th March Update
+## March 20th Update
 
 <br>
 
@@ -170,7 +170,7 @@ Double Gate Keys & Gold Campaign is back, don't forget to claim your Duel Orb x1
 
 ---
 
-## 19th March Update
+## March 19th Update
 
 <br>
 
@@ -205,7 +205,7 @@ It's already time for another KC Cup! So if you didn't perform as well as you wa
 
 ---
 
-## 14th March Update
+## March 14th Update
 
 <br>
 

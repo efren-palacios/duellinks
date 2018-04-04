@@ -1,24 +1,44 @@
 ---
 layout: blog
-title: In-Game Updates (3) - April 3rd
+title: In-Game Updates (4) - April 4
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-03
+date: 2018-04-04
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson   
+keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance   
 permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## April 4th (Update 4)
+
+<br>
+
+### [Awaken! Rainbow Dragon!](/events/march-2018/awaken-rainbow-dragon/) Survey
+
+Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of gems got you feeling down - put it in words! You can also use the survey to write non-event feedback. 
+
+![](/img/content/news/2018/04/in-game-updates/survey-awaken-rainbow-dragon.jpg)
+
+### Maintenance Notice
+
+There will be a maintenance tomorrow to conclude the [Jesse event](/events/march-2018/awaken-rainbow-dragon/) from 05:00 to 08:30 (GMT+1) - no Duel Links for over three hours! :'( 
+
+![](/img/content/news/2018/04/in-game-updates/maintenance-04.jpg)
+
+---
 
 ## April 3rd (Update 3)
 
 <br>
 
 ### KC Cup
+
+It's already time for another KC Cup! So if you didn't perform as well as you wanted in the last one, or just want to continue to dominate the ladder and add more Prismatic Cards to your collection, get your deck ready and secure your invitation to your 2018 World Championship Regional Qualifier!
 
 1st Stage of the KC Cup is starting on Thursday 5th April. Those who reached King of Games last season will automatically be entered into the 2nd Stage - rank highly for bragging rights and Prismatic cards. But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
 

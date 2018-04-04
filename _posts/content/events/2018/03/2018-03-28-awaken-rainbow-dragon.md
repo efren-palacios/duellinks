@@ -16,8 +16,9 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-**Last updated April 2nd - Jesse Lvl. 50**
+**Last updated April 4th - Event Survey**
 
+- **[Duel Awards](#awards)**
 - [Update](#update) 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -30,11 +31,27 @@ permalink: /events/march-2018/awaken-rainbow-dragon/
     - [Level 40 Labyrinth Builder Farm - created by InfiniteFlash](#infiniteflash)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
 - [Jesse Anderson Lvl: 50 Decklist](#50)
-- **[Duel Awards](#awards)**
 
-[slider](/img/content/events/2018/03/awaken-rainbow-dragon/slider.jpg)
+---
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+ 
+Take screenshots (post in the Discord: #jesse-event), when the event is over the person with:
+- The 'best drop' will have their name posted here
+- Highest 'Duel Energy' points will have their name posted here
+- Most Prismatic drops will have their name posted here
+
+Immortalised forever on Duel Link Meta!
+
+---
 
 ### Update
+
+Don't forget to fill out the [event survey](/news/april-2018/in-game-updates/) - let Konami know what's on your mind!
 
 Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!  
  
@@ -49,6 +66,10 @@ New event missions have also been added - get up to 100 gems!
 | Summon {Rainbow Dragon} 2 times in PvP | 20 Gems |
 | Summon {Rainbow Dragon} 3 times in PvP | 20 Gems |
 | Reduce your opponent's LP to 0 by inflicting battle damage with {Rainbow Dragon} | 30 Gems |
+
+---
+
+[slider](/img/content/events/2018/03/awaken-rainbow-dragon/slider.jpg)
 
 ### Event Information 
 - Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards and unlock him as a Duelist!
@@ -209,20 +230,3 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 ### Jesse Anderson Lvl: 50 Decklist
 
 [deck](Rainbow Dragon; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Amethyst Cat; Crystal Beast Ruby Carbuncle; Crystal Beast Amber Mammoth; Crystal Beast Emerald Tortoise; Crystal Beast Cobalt Eagle; Crystal Bond; Crystal Bond; Crystal Bond; Crystal Release; Crystal Release; Rare Value; Rare Value; Rare Value; Rainbow Path)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the Discord: #jesse-event), when the event is over the person with:
-- The 'best drop' will have their name posted here
-- Highest 'Duel Energy' points will have their name posted here
-- Most Prismatic drops will have their name posted here
-
-Immortalised forever on Duel Link Meta!
