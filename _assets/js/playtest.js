@@ -288,8 +288,8 @@ $('#graveyard').click(function() {
 $('#new').click(function() {
 	importDeck(currentDeck);
 	$('.tokencopy').remove();
-	//test deckmenu initializing
-	if ($('#deckmenu').length){
+
+	if ($("#deckmenu").hasClass('ui-dialog-content')) {
 		if ($('#deckmenu').dialog('isOpen')) {
 			openDeck(currentDeck)
 		}
@@ -370,11 +370,13 @@ function dealCard(i) {
 	
 	removeCard(i)
 	
-	if ($('#deckmenu').dialog('isOpen')) {
-		if (decklist == 0) {
-			$('#deckmenu').dialog("close")
+	if ($("#deckmenu").hasClass('ui-dialog-content')) {
+		if ($('#deckmenu').dialog('isOpen')) {
+			if (decklist == 0) {
+				$('#deckmenu').dialog("close")
+			}
+			openDeck(currentDeck)
 		}
-		openDeck(currentDeck)
 	}
 }
 

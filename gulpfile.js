@@ -25,9 +25,9 @@ gulp.task('build:styles', function() {
         style: 'compressed',
         trace: true,
         loadPath: [paths.sassFiles]
-    }).pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
+    }).pipe(concat('style.css'))
+        .pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
         .pipe(cleancss())
-        .pipe(concat('style.css'))
         .pipe(gulp.dest(paths.jekyllCssFiles))
         .pipe(gulp.dest(paths.siteCssFiles))
         .pipe(browserSync.stream())
