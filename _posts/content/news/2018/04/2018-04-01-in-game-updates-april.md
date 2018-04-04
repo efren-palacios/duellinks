@@ -20,7 +20,7 @@ permalink: /news/april-2018/in-game-updates/
 
 ### [Awaken! Rainbow Dragon!](/events/march-2018/awaken-rainbow-dragon/) Survey
 
-Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of gems got you feeling down - put it in words! You can also use the survey to write non-event feedback. 
+Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
 
 ![](/img/content/news/2018/04/in-game-updates/survey-awaken-rainbow-dragon.jpg)
 
@@ -38,9 +38,9 @@ There will be a maintenance tomorrow to conclude the [Jesse event](/events/march
 
 ### KC Cup
 
-It's already time for another KC Cup! So if you didn't perform as well as you wanted in the last one, or just want to continue to dominate the ladder and add more Prismatic Cards to your collection, get your deck ready and secure your invitation to your 2018 World Championship Regional Qualifier!
-
-1st Stage of the KC Cup is starting on Thursday 5th April. Those who reached King of Games last season will automatically be entered into the 2nd Stage - rank highly for bragging rights and Prismatic cards. But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
+1st Stage of the KC Cup is starting on Thursday 5th April. Those who reached [King of Games last season](/top-decks/march-2018/) will automatically be entered into the 2nd Stage - rank highly for bragging rights, Prismatic cards and an invitation to your 2018 World Championship Regional Qualifier. 
+  
+But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
 
 ![](/img/content/news/2018/04/in-game-updates/kc-cup.jpg)
 

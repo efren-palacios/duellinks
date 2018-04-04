@@ -51,13 +51,15 @@ Immortalised forever on Duel Link Meta!
 
 ### Update
 
-Don't forget to fill out the [event survey](/news/april-2018/in-game-updates/) - let Konami know what's on your mind!
+- Don't forget to fill out the [event survey](/news/april-2018/in-game-updates/) - let Konami know what's on your mind!
 
-Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!  
+![](/img/content/events/2018/03/awaken-rainbow-dragon/jesse-lvl-50.png)
+
+Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!
+   
+- He will use {Rainbow Path} to negate your attack so substitute a non-essential card in the [Cerberus Farm Deck](#jadehex2) (since Jesse appears only in Duel World (GX) you won't be able to use the skills required for the other decks) for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck.
  
-He will use {Rainbow Path} to negate your attack so substitute a non-essential card in the [Cerberus Farm Deck](#jadehex2) (since Jesse appears only in Duel World (GX) you won't be able to use the skills required for the other decks) for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck. 
- 
-New event missions have also been added - get up to 100 gems!
+New event Missions have also been added - get up to 100 Gems!
 
 | Mission | Reward | 
 |--|--|
