@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: In-Game Updates 3 - April 3rd
+title: In-Game Updates (3) - April 3rd
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
@@ -8,15 +8,21 @@ date: 2018-04-03
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, upcoming updates    
+keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson   
 permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-## April 3rd Update 3
+## April 3rd (Update 3)
 
 <br>
+
+### KC Cup
+
+1st Stage of the KC Cup is starting on Thursday 5th April. Those who reached King of Games last season will automatically be entered into the 2nd Stage - rank highly for bragging rights and Prismatic cards. But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
+
+![](/img/content/news/2018/04/in-game-updates/kc-cup.jpg)
 
 ### New Card BOX
 
@@ -32,7 +38,7 @@ There are multiple 'Guaranteed UR' cards in this sale so it may be worthwhile fo
 
 ---
 
-## April 2nd Update 2
+## April 2nd (Update 2)
 
 <br>
 
@@ -50,7 +56,7 @@ Jesse Lvl. 50 will now spawn in Duel World (GX) with a stronger deck in tow. Che
 
 ---
 
-## April 1st Update 1
+## April 1st (Update 1)
 
 <br>
 

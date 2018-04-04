@@ -169,7 +169,7 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 
 **Replacements**
 - Literally none of the spells matter except {Stop Defense} and {Riryoku} as long as you can still deal 9999+ Damage.
-- {Stop Defense} can be replace by {Shooting Star Bow Ceal}, {Big Bang Shot}, {Fairy Meteor Crush} etc.
+- {Stop Defense} can be replaced by {Shooting Star Bow - Ceal}, {Big Bang Shot}, {Fairy Meteor Crush} etc.
 - Skill can be swapped for {Draw Sense: Low Level}.
 
 ---
