@@ -147,6 +147,8 @@ The ranked ladder is basically as series of duel quizzes and decks that can answ
 
 While decks like Red-Eyes Zombies and Aliens are strong tournament options they aren't as strong as decks such as Sylvans, Cyber Angels or Sea Stealth Attack in a ladder format. This is because these decks can overwhelm the common decks without the need for tech cards, whereas aliens and Red-Eyes Zombies are very reliant on teching specific cards to win certain matchups.  
 
+---
+
 ### Recommended Decks  
 (Expect this Section to change with the Meta)  
 
