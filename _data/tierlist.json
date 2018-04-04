@@ -46,13 +46,9 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
-<<<<<<< HEAD
             { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },     
-=======
             { "id": "geargia",                  "display": "Geargia",               "card": "Geargiattacker" }, 
-            { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },     
->>>>>>> 69c67c56070be677e0c6b97a1c89f3fe6db5a5b7
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "counter-fairies",          "display": "Counter Fairies",       "card": "Divine Punishment" },
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },
