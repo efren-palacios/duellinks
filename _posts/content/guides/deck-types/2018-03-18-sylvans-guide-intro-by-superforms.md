@@ -5,7 +5,7 @@ author: Superforms
 category: guide
 sub-category: deck-type
 deck-type: sylvans
-image: /img/content/guides/sylvans-guide-by-superforms/sylvans.jpg
+image: /img/content/guides/sylvans-guide-by-superforms/sylvanguide.jpg
 date: 2018-03-20
 comments: false
 description: A detailed guide written by Superforms presenting an introduction to the Sylvan archetype.
