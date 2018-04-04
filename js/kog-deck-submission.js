@@ -1,4 +1,7 @@
 // Constants needed to upload files to the Uploadcare account
+UPLOADCARE_LOCALE = "en";
+UPLOADCARE_TABS = "file";
+UPLOADCARE_PUBLIC_KEY = "8a0cf8abdd31cb4c0348";
 
 var proofPicsCount = 0;
 var deckPicsCount = 0;
