@@ -129,7 +129,7 @@ function InitializeTopDecksViewModel()
 
                 for(var index = 0; index < TopDecksViewModel.topPlayerCouncil.length; index++) {
                     if(TopDecksViewModel.topPlayerCouncil[index].active) {
-                        if(TopDecksViewModel.topPlayerCouncil[index].name === deck.author.toLowerCase()) {
+                            if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase())) {	
                             return true;
                         }
                     }   
