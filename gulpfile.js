@@ -25,9 +25,9 @@ gulp.task('build:styles', function() {
         style: 'compressed',
         trace: true,
         loadPath: [paths.sassFiles]
-    }).pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
+    }).pipe(concat('style.css'))
+        .pipe(postcss([ autoprefixer({ browsers: ['last 2 versions'] }) ]))
         .pipe(cleancss())
-        .pipe(concat('style.css'))
         .pipe(gulp.dest(paths.jekyllCssFiles))
         .pipe(gulp.dest(paths.siteCssFiles))
         .pipe(browserSync.stream())
@@ -45,13 +45,12 @@ gulp.task('build:scripts:global', function() {
     return gulp.src([
         paths.jsFiles + '/*.js'
     ])
-        .pipe(gulp.dest(paths.jekyllJsFiles))
         .pipe(gulp.dest(paths.siteJsFiles))
         .on('error', gutil.log);
 });
 
 gulp.task('clean:scripts', function(callback) {
-    del([paths.jekyllJsFiles + '/*.js', paths.siteJsFiles + '/*.js']);
+    del([paths.siteJsFiles + '/*.js']);
     callback();
 });
 
@@ -160,7 +159,7 @@ gulp.task('serve', ['build:local'], function() {
     gulp.watch('_assets/css/**/*.scss', ['build:styles']);
 
     // Watch .js files.
-    gulp.watch('_assets/js/**/*.js', ['build:scripts:watch']);
+    gulp.watch('js/**/*.js', ['build:scripts:watch']);
 
     // Watch posts.
     gulp.watch('_posts/**/*.+(md|markdown|MD)', ['build:jekyll:watch']);
