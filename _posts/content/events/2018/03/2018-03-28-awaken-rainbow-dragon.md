@@ -10,6 +10,7 @@ comments: true
 description: Jesse Anderson has arrived! Here's all you need to know about the event and the best ways to farm him - get those Crystal Beast cards and unlock him!  
 keywords: event, jesse, jesse anderson, farm, crystal beasts, rainbow dragon
 permalink: /events/march-2018/awaken-rainbow-dragon/
+ended: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
