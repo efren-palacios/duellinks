@@ -20,11 +20,29 @@
                 <h4 class="card-title">{{article.title}}</h4>
               </a>
               <div class="text-white">
-                      <small class="text-muted">Last Updated: {{ article.date | timeago }}
-                      {% if article.author == 'Dkayed' %}
-                      By <b><a class="text-danger" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %} <!-- TODO CHECK FIRST -->
-                      By <b><a class="text-warning" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
-                    </small>
+                <small class="text-muted">Last Updated: {{ article.date | timeago }}
+                  {% if article.author == 'Dkayed' %}
+                    By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                  {% elsif article.author == 'Top Player Council' %}
+                    By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                  {% else %}
+                    {% assign council = site.data.profiles %}
+                    {% for member in council %}
+                      {% if member[1].role == "top-player-council" %}
+                        {% assign downcaseMember = member[1].name | downcase %}
+                        {% assign downcaseAuthor = article.author | downcase %}
+                        {% if downcaseMember == downcaseAuthor %}
+                          {% assign councilMember = true %}
+                          By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                        {% endif %}
+                      {% endif %}
+                    {% endfor %}
+                    {% unless councilMember %}
+                      By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                    {% endunless %}
+                    {% assign councilMember = false %}
+                  {% endif %}
+                </small>
               </div>
             </div>
 
@@ -63,8 +81,26 @@
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                        By <b><a class="text-danger" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% else %}
-                        By <b><a class="text-warning" href=/authors/{{article.author}}.html>{{article.author}}</a></b> {% endif %}
+                          By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                        {% elsif article.author == 'Top Player Council' %}
+                          By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                        {% else %}
+                          {% assign council = site.data.profiles %}
+                          {% for member in council %}
+                            {% if member[1].role == "top-player-council" %}
+                              {% assign downcaseMember = member[1].name | downcase %}
+                              {% assign downcaseAuthor = article.author | downcase %}
+                              {% if downcaseMember == downcaseAuthor %}
+                                {% assign councilMember = true %}
+                                By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                              {% endif %}
+                            {% endif %}
+                          {% endfor %}
+                          {% unless councilMember %}
+                            By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                          {% endunless %}
+                          {% assign councilMember = false %}
+                        {% endif %}
                       </small>
                     </div>
                   </div>

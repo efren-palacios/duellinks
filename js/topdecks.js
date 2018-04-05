@@ -134,13 +134,10 @@ function InitializeTopDecksViewModel()
 
                 for(var index = 0; index < TopDecksViewModel.topPlayerCouncil.length; index++)
                 {
-                    if(TopDecksViewModel.topPlayerCouncil[index].active)
+                    if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase()))
                     {
-                        if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase()))
-                        {	
-                            return true;
-                        }
-                    }   
+                        return true;
+                    }
                 }
 
                 return false;

@@ -1,11 +1,12 @@
 ---
 ---
 [
-    {% assign council = site.data.top-player-council %}
-    {% for member in council %}
+    {% assign profiles = site.data.profiles %}
+    {% for author in profiles %}
+        {% if author[1].role == 'top-player-council' %}
     {
-        "name": "{{member[1].name | downcase}}",
-        "active": {{member[1].active}}
+        "name": "{{author[1].name | downcase}}"
     }{% unless forloop.last %},{% endunless %}
+        {% endif %}
     {% endfor %}
 ]
