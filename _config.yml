@@ -6,9 +6,6 @@ exclude: ["Gemfile",
           "Gemfile.lock",
           "node_modules"]
 collections:
-  authors:
-    output: true
-    permalink: /:collection/:name
   admin:
     output: true
 plugins:

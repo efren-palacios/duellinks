@@ -128,11 +128,9 @@ function InitializeTopDecksViewModel()
                 }
 
                 for(var index = 0; index < TopDecksViewModel.topPlayerCouncil.length; index++) {
-                    if(TopDecksViewModel.topPlayerCouncil[index].active) {
-                        if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase())) {
-                            return true;
-                        }
-                    }   
+                    if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase())) {
+                        return true;
+                    }
                 }
 
                 return false;
