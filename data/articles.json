@@ -1,0 +1,19 @@
+---
+---
+[
+    {% for article in site.posts %}
+        {% if article.category != 'page' %}
+            {% if article.pinned == null or article.pinned == false %}
+                {% if article.hide == null or article.hide == false %}
+    {
+        "url": "{{ article.url }}",
+        "image": "{{ article.image }}",
+        "title": "{{ article.title }}",
+        "date": "{{ article.date }}",
+        "author": "{{ article.author }}"
+    }{% unless forloop.last %},{% endunless %}    
+                {% endif %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}    
+]

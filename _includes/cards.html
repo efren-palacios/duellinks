@@ -2,7 +2,7 @@
   <h2>LATEST ARTICLES</h2>
 </div>
 
-<div class="row card-collection">
+<div class="row card-collection" id="articleCardCollection">
   {% for article in site.posts %}
     {% if article.category != 'page' and article.pinned == true %}
       {% if article.hide == null or article.hide == false %}
@@ -63,12 +63,11 @@
       {% if article.pinned == null or article.pinned == false or pinnedPosts > 2 %}
         {% if article.hide == null or article.hide == false %}
           {% capture _ %}{% increment counter %}{% endcapture %}
-          {% if counter > 8 %}
+          {% if counter > 12 %}  
+            {% comment %} Don't load any additional cards, to save on load time {% endcomment %}
+          {% elsif counter > 8 %}
             <div class="col-sm-6 col-12 card-deck hiddenCard" style="display: none;">
-          {% else %}
-            <div class="col-sm-6 col-12 card-deck">  
-          {% endif %}
-                <div class="card">
+              <div class="card">
                   <div class="zoom">
                       <a href={{article.url}}> 
                           <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
@@ -104,12 +103,55 @@
                       </small>
                     </div>
                   </div>
-                </div>
-              </div>          
+              </div>  
+            </div>
+          {% else %}
+            <div class="col-sm-6 col-12 card-deck">  
+              <div class="card">
+                  <div class="zoom">
+                      <a href={{article.url}}> 
+                          <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
+                      </a>
+                  </div>
+                  <div class="card-block text-white">
+                    <a href={{article.url}}>
+                      <h4 class="card-title">{{article.title}}</h4>
+                    </a>
+                    <div class="text-white">
+                      <small class="text-muted">Last Updated: {{ article.date | timeago }}
+                        {% if article.author == 'Dkayed' %}
+                          By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                        {% elsif article.author == 'Top Player Council' %}
+                          By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                        {% else %}
+                          {% assign council = site.data.profiles %}
+                          {% for member in council %}
+                            {% if member[1].role == "top-player-council" %}
+                              {% assign downcaseMember = member[1].name | downcase %}
+                              {% assign downcaseAuthor = article.author | downcase %}
+                              {% if downcaseMember == downcaseAuthor %}
+                                {% assign councilMember = true %}
+                                By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                              {% endif %}
+                            {% endif %}
+                          {% endfor %}
+                          {% unless councilMember %}
+                            By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                          {% endunless %}
+                          {% assign councilMember = false %}
+                        {% endif %}
+                      </small>
+                    </div>
+                  </div>
+              </div>  
+            </div>
+          {% endif %}        
         {% endif %}
       {% endif %}  
     {% endif %}
-  {% endfor %}
+  {% endfor %}  
+</div>
+<div class="row card-collection" id="moreArticlesContainer">
   <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 articleButtonColumn">
     <button id="moreArticles" type="button" class="btn btn-primary articleButton">More Articles</button>
   </div>
