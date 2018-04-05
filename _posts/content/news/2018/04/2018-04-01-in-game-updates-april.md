@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (4) - April 4
+title: In-Game Updates (5) - April 5
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-04
+date: 2018-04-05
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,22 @@ permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## April 5th (Update 5)
+
+<br>
+
+### The KC Cup has begun!
+
+50 Gems a day for 3 KC Cup Duels - a pretty good deal! 
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-05-kc-cup.jpg)
+
+You are able to change your country/region only **once** so if it's incorrect be sure to do it. 
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-05-country.jpg)
+
+---
 
 ## April 4th (Update 4)
 
