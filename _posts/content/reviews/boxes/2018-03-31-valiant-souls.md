@@ -99,7 +99,7 @@ I only tested Paleo and Geargia.
 **MiguelJoker - 6th Global** says:
 - [Geargias](/guides/deck-types/geargia-guide-intro-by-brenduke/) are High Potential for me, because the builds aren't at their best yet - I agree with Willipino.
 - Negative points:
-    - Can't recover from a big field destruction play, if u cant fix your field fast you will likely lose.
+    - Can't recover from a big field destruction play, if you can't fix your field fast you will likely lose.
     - With decks like [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) you must start first otherwise you will likely lose.
 - Positive points:
     - Destruction effect doesn't target.
@@ -110,7 +110,7 @@ I only tested Paleo and Geargia.
         
 - Dragons are High Potential for me. I still believe this deck didn't found its best build or playstyle so I think it deserves a shot.
 - Positive points:
-    - {Arkbrave Dragon}, its a perfect monster vs {Citadel Whale} decks, and also [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) because it will bring a monster back.
+    - {Arkbrave Dragon}, it's a perfect monster vs {Citadel Whale} decks, and also [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) because it will bring a monster back.
     - {Red-Eyes Slash Dragon} is too strong at the moment against all target effects and also people are not running {Floodgate Trap Hole} and {Wall of Disruption}.
     - Against Sylvans you will negate the last card on chain but still you can bring him back pretty easy.
 - Negative points:
