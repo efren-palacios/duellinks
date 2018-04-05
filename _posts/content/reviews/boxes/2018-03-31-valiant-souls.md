@@ -1,7 +1,7 @@
 ---
 layout: blog
-date: 2018-03-31 
-title: "First Impressions: Valiant Souls"
+date: 2018-04-05
+title: "Post-Release Review: Valiant Souls"
 author: Yami Hammy
 category: review
 sub-category: box
@@ -18,7 +18,8 @@ permalink: /box-reviews/valiant-souls/
 ![](/img/content/box-reviews/valiant-souls/banner.jpg)
 
 - [Card List](#card-list)
-- [Top Player Council Thoughts](#top-player-council-thoughts)
+- [Top Player Council - Post Release Updates](#tpc)
+- [Top Player Council Thoughts: First Impressions](#tpc2)
     - ['What are the new deck types to look out for and the best cards for those deck types?'](#q1)
     - ['Which cards do you think are absolutely needed?'](#q2)
     - ['Which cards do you think are maybe needed in some decks?'](#q3)
@@ -45,7 +46,106 @@ permalink: /box-reviews/valiant-souls/
 
 ---
 
-### Top Player Council Thoughts
+<a name="tpc"></a>
+### Top Player Council - Post Release Updates
+
+**Machdragon** says:
+- I was right about Amazoness. The new Amazoness Trap ({Amazoness Onslaught}) is decent, but still requires more impactful monsters to put it on the radar. 
+- {Mask Change} definitely feels like it has Tier 1 potential. Mask Change, {Forbidden Chalice}, {Enemy Controller} and {Powerful Rebirth} combo very well with {Storm}. Can be explosive as [Red-Eyes Zombie](/guides/deck-types/red-eyes-zombies-guide-by-insano/) while playing a consistency skill or [Destiny Hero Dark City](/guides/deck-types/dark-city-destiny-hero-guide-by-brenduke/) with multiple {Cosmic Cyclone}. 
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) still feels a bit too slow and fragile if the engine is not backed up by many traps. {Balance} or {Restart} may improve consistency of opening hands.
+
+**SelectMaple** says:
+- I was about wrong Dragons becoming a potential deck in the meta. Even though with Konami adding more Dragon support into the game, Dragons still don't have enough for them to be a competitive deck. 
+- As for [Geargias](/guides/deck-types/geargia-guide-intro-by-brenduke/), I definitely do see potential in them. Though, while testing the deck, as Jason says below, the deck is missing something. Though, this may be because not many Control Decks are viable in the meta, due to other faster decks like [Cyber Angels](/guides/deck-types/the-cyber-angels-guide-by-negative1/) and [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/).
+- Amazoness do have potential, especially with the new trap card, {Amazoness Onslaught}. But this deck feels like a slower and less consistent version of [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/).
+
+**Glading** says:
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) can be put in Tier 2 right now, it can smash every other decks by its devastating monster and backrow removal effects.
+- Masked Hero is also a pretty good control decks if you run [Destiny Heroes Dark City](/guides/deck-types/dark-city-destiny-hero-guide-by-brenduke/), it is Tier 3 deck for now.
+- Amazoness is still missing other cards' support, we need to wait until the [Elegant Mai](/news/april-2018/in-game-updates/) event comes round.
+- Paleozoic still need more testings. I tried a {That Grass Looks Greener}-{Citadel Whale} version, but Whale itself is no longer dominating in this meta, so at least it's a High Potential deck.
+
+**Whilipino** says:
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) have a little bit more potential than I thought they would. Feels like it has pretty good match ups with a lot of the meta decks, but it feels very fragile and the recovery game is near non-existent. The deck also feels impossible to win with in certain match ups if you're going second (and this is something you can't control). Though, the deck is very powerful when it gets rolling because a bunch of non-targeting destruction is pretty good. 
+- Dragons are garbage as of right now. There needs to be better dragons in this game because the ones out right now aren't good enough. 
+- {Mask Change} has a lot of potential and probably pushes the [Destiny Hero](/tier-list/destiny-heroes/) deck to at least Tier 2 when people completely refine the deck.
+
+**kwrowe** says:
+- Yeah [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) have much more potential than I thought. They have a good matchup against [Aliens](/guides/deck-types/aliens-guide-by-celestial/) and an okay one against [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/). Only issue as Whilipino said is that they kinda rely on going first in certain games (Sylvans). I still don't think the deck will be anywhere near Tier 1 but Tier 2/3 is probable.
+
+**Whybona - 2nd EU** says:
+- Masked Heroes are just as strong as I expected them to be and although the deck is still being optimised, in the current meta generic heavy backrow has faded out slightly, meaning the deck easily has the potential to be at least a Tier 2 deck. 
+- I don’t think that {Paleozoic Canadia} + {Vision HERO Witch Raider} has enough variety in its win cons to be competitive and the {Fires of Doomsday} and {Treeborn Frog} decks are now missing tribute monsters which are strong enough to match this tribute support. - I do still think that [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) has potential but the deck feels sluggish in this meta and all the out of battle removal right now can really hurt it, despite that I do think it could hit Tier 3 if a build is found which is faster and more consistent. 
+- Dragons and Amazoness also still feel like they’re missing enough support cards to be relevant.
+
+**》3K《 All Day** says:
+- {Mask Change} in my opinion has huge potential in todays meta bringing an almost {Three-Star Demotion} Ninja like feeling with them. I can easily see them hitting Tier 2, with even the possibility of Tier 1. 
+- {Paleozoic Canadia} + {Vision HERO Witch Raider} seemed really good on paper but from what I constantly keep seeing is bricks, heart of the card top deck attempts and about 50/50 wins and losses. This stays right where it is right now. 
+- I haven't tried [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) yet personally but from what I'm seeing its bringing a new form of "Statue Control" type aspect back to the game, which was one of my favorite decks. But like "Statue Control" now, it just still might be too slow. I think this deck goes to High Potential, but not a Tier just yet.
+
+**AndyTsang** says:
+- [Geargias](/guides/deck-types/geargia-guide-intro-by-brenduke/): good utility archetype. A little slow but not damning. Machines are probably the most double edged typing in the game, with support like {Pulse Mines} and hate like {Acid Rain}.
+- Heroes: {Mask Change} is remniscient of {Black Dragon Ninja}, but the Hero cards as a whole lack the removal cards that Ninjas had (looking at you, {Elemental HERO Stratos}).
+
+**Super vegito** says:
+- So far Masked Heroes have proved to be very explosive, taking advantage of the few backrow heavy decks in the current meta. I can see them being Tier 2.
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) are still too slow in my opinion, even though access to {Pulse Mines} and {Ties of Brethren} could help their cause. It should be moved to High Potential for now.
+
+**Kaki** says:
+I only tested Paleo and Geargia.
+- Pure Paleo is not good they need a Trap card for Spell/Trap removal like {Paleozoic Olenoides} or {Dust Tornado} right now it is just a YouTube deck.
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) is as I expected a good deck they are Tier 3 for me right now I really like {Ties of Brethren} and {Pulse Mines} maybe the deck can reach Tier 2 in future.
+
+**MiguelJoker - 6th Global** says:
+- [Geargias](/guides/deck-types/geargia-guide-intro-by-brenduke/) are High Potential for me, because the builds aren't at their best yet - I agree with Willipino.
+- Negative points:
+    - Can't recover from a big field destruction play, if u cant fix your field fast you will likely lose.
+    - With decks like [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) you must start first otherwise you will likely lose.
+- Positive points:
+    - Destruction effect doesn't target.
+    - If you start first with an hand like {Ties of Brethren}, 1 Monster, protection you will likely win.
+    - It has Monster/Spell removal.
+    - {Pulse Mines} is one of the best trap cards in the meta right now.
+      
+        
+- Dragons are High Potential for me. I still believe this deck didn't found its best build or playstyle so I think it deserves a shot.
+- Positive points:
+    - {Arkbrave Dragon}, its a perfect monster vs {Citadel Whale} decks, and also [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) because it will bring a monster back.
+    - {Red-Eyes Slash Dragon} is too strong at the moment against all target effects and also people are not running {Floodgate Trap Hole} and {Wall of Disruption}.
+    - Against Sylvans you will negate the last card on chain but still you can bring him back pretty easy.
+- Negative points:
+    - If you start first you have a big disadvantage in this deck.
+    - Not consistent enough presently.
+    - Lacks monster removal effects.
+   
+      
+- Masked Heros are probably Tier 2.
+- Positive points:
+    - A fast deck, with draw power and OTK potential.
+    - You have many places for tech cards.
+    - It's a super consistent deck.
+- Negative points:
+    - It doesn't have monster removal cards.
+    - A big {Hazy Flame Sphynx}/{Cyber Angel Dakini} will be a big problem for this deck.
+    - Most people are running {Forbidden Chalice} over {Enemy Controller}.
+   
+I didn't test other decks as I'm too busy at the moment, I wont even have time for [MCS](/tournaments/meta-championship-series/) or KC Cup I believe.
+
+**Kayoh - 7th NA** says:
+- Masked Heros are Tier 2 potential just like everyone predicted with a consistent and huge OTK potential. They are basically Ninjas 2.0 with a decent draw engine and it has a lot of room for techs like [Red-Eyes Zombie](/guides/deck-types/red-eyes-zombies-guide-by-insano/), so it will be able to adapt with the meta. I think playing them with {Restart} and/or {Vision HERO Vyon} may be better than {Destiny Calling}. 
+- [Geargias](/guides/deck-types/geargia-guide-intro-by-brenduke/) are High Potential. Needs at least 2 turns to set up and are highly dependent on backrow support like {Pulse Mines} so they can get out multiple monsters on the field. But if the opponent allows them to set up, they're screwed (that pun was totally not intended).
+- I tested a lot with Amazoness already. I love the deck, but I don't think it's ready to hit the [Tier List](/tier-list/)/High Potential. It's too reliant on {Amazoness Onslaught}. If it gets {Cosmic Cyclone}'d you lose (and Cosmic Cyclone is still common, I got hit by it a few times on the ladder too). It's not like [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) where you still have a chance even after you lose your {Umi}. A perfect hand is probably Onslaught with 3 Monsters - your opponent will have a really hard time dealing with that. 
+- Dragons: I love {Red-Eyes Slash Dragon} so I was probably a bit bias earlier when I said this deck had potential on the Tier List with the new Dragon support. I know Boa is playing a lot with this deck and trying to figure out the best way to play it. For right now it just lacks consistency, and like Miguel said, starting first is a huge disadvantage. I don't see it being Tier 3 right now, so I won't bother placing it in High Potential.
+
+**AdoboBoy - 5th NA** says:
+- [Geargia](/guides/deck-types/geargia-guide-intro-by-brenduke/) are either High Potential or possibly Tier 3. They are a bit slow, but can easily dominate certain matchups if you get off {Ties of Brethren} and have protection, like {Pulse Mines}. Though if they ever become really popular, they are easily countered by {Acid Rain} just like [Ancient Gears](/ancient-gears/) was. No one has found the right build yet.
+- Masked Heroes are a possible Tier 2 deck. It is a very fast deck and has plenty of OTK potential, and a good draw engine. Struggles to deal with some big monsters like {Saffira, Queen of Dragons} boosted by {Cyber Angel Idaten} for example.
+- Dragons are a Youtube deck at best. I honestly think Dragons are garbage.
+
+---
+
+<a name="tpc2"></a>
+### Top Player Council - First Impressions
 
 <a name="q1"></a>
 #### 'What are the new deck types to look out for and the best cards for those deck types?'
