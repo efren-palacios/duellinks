@@ -17,7 +17,7 @@ ended: true
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-**Last updated April 4th - Event Survey**
+**Last updated April 6th - Added Duel Awards winners**
 
 - **[Duel Awards](#awards)**
 - [Update](#update) 
@@ -40,13 +40,20 @@ ended: true
 ![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
 
 ### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the Discord: #jesse-event), when the event is over the person with:
-- The 'best drop' will have their name posted here
-- Highest 'Duel Energy' points will have their name posted here
-- Most Prismatic drops will have their name posted here
 
-Immortalised forever on Duel Link Meta!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Best Drop - **Giggleplex**
+
+![](/img/content/events/2018/03/awaken-rainbow-dragon/giggleplex.jpg)
+
+#### Highest Duel Energy - **AwesomeTed**
+
+![](/img/content/events/2018/03/awaken-rainbow-dragon/awesome-ted.jpg)
+
+#### Most Prismatic Drops - **wowerer**
+
+![](/img/content/events/2018/03/awaken-rainbow-dragon/wowerer-temp.png)
 
 ---
 
@@ -135,7 +142,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 - Enter Battle Phase and swing for victory!
 
 **Replacements**
-- {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor), for example, {Shard of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Summoner of Illusions} or {Dimensionhole} last
+- {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Shard of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Summoner of Illusions} or {Dimensionhole} last
 
 **Risks**
 - Technically {Crystal Beast Amethyst Cat} gets through {The Sanctuary in the Sky} but it shouldn't be a common issue
@@ -151,7 +158,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 **Strategy**
 - Lock down Jesse's monsters with {The Unhappy Girl} 
 - Only summon two The Unhappy Girl as you need one free zone for {Gravekeeper's Vassal}
-- Attack his monsters with The Unhappy Girl to 'lock' them down so they can't attack (you take no battle damage with {Holy Guard})
+- Attack his monsters with The Unhappy Girl to "lock" them down so they can't attack (you take no battle damage with {Holy Guard})
 - Before the last turn, ensure {Temple of the Kings} is on the field and tribute summon {Mystical Beast of Serket} - tribute both to special summon {Blue-Eyes Ultimate Dragon}
 - Use your draw cards to finish the Duel quicker
 
@@ -163,7 +170,7 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 - Enter Battle Phase and swing for victory!
 
 **Replacements**
-- {Good Goblin Housekeeping} and {Shard of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor), for example, {Jar of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Temple of the Kings} or {Mystical Beast of Serket} last
+- {Good Goblin Housekeeping} and {Shard of Greed} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Temple of the Kings} or {Mystical Beast of Serket} last
 - {Crystal Seer} can be replaced by {Skelengel}, {Dekoichi the Battlechanted Locomotive}, {Dark Mimic LV1} etc
 
 ---
@@ -179,7 +186,7 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 - Take 1500 Damage so you can activate {Draw Sense: LIGHT} to draw {Mythical Beast Cerberus}.
 - Summon Cerberus and activate enough Spells so it has ATK points higher than what Jesse can reach (3000 ATK is a safe point since {Crystal Beast Topaz Tiger} + {Crystal Release} = 2800 ATK).
 - Keep activating Spells until you draw the last card of your deck.
-- Use these cards to manage your LP so you can achieve ['LP on the Brink'](/farming/duel-assessment-score/).
+- Use these cards to manage your LP so you can achieve ["LP on the Brink"](/farming/duel-assessment-score/).
     - 2x {Hieroglyph Lithograph} or {Abyssal Designator}
 	- 2x {Mooyan Curry}
 	- 1x {Blue Medicine}

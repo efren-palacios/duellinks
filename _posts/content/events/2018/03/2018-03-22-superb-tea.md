@@ -36,27 +36,24 @@ permalink: /events/march-2018/superb-tea/
 
 ### Duel Awards - Eternal Fame Awaits!
 
-The 'Duel Awards' are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
 
-#### Best Drop
-
-**VoRLiN:** 'Been trying to get my last {Divine Punishment} forever... then this happens!'
+#### Best Drop - **VoRLiN** 
+"Been trying to get my last {Divine Punishment} forever... then this happens!"
 
 ![](/img/content/events/2018/03/superb-tea/vorlin.jpg)
 
-#### Most UR and SR Cards
-
-**thiefofhearts:**
+#### Most UR and SR Cards - **thiefofhearts**
 
 ![](/img/content/events/2018/03/superb-tea/thiefofhearts.jpg)
 
 #### Most Prismatic Drops 
 
-**tripsaaa:**
+**tripsaaa**
 
 ![](/img/content/events/2018/03/superb-tea/tripsaaa.jpg)
 
-**dan_keibler:**
+**dan_keibler**
 
 ![](/img/content/events/2018/03/superb-tea/dan_keibler.jpg)
 
@@ -88,7 +85,7 @@ The event has been extended from 28th March and will now conclude 30th March. If
 | Win 3 Duels against Superb Téa in Duel World | {Harvest Angel of Wisdom} |
 | Win 7 Duels against Superb Téa in Duel World | {Zeradias, Herald of Heaven} |
 | Play 15 Duels against Superb Téa in Duel World | {Meltiel, Sage of the Sky} |
-| Win 3 Duels against Superb Téa using Yami Yugi | Icon: 'Téa's Specialty Burger' ![Icon](/img/content/news/2018/03/datamined-discoveries/icon.png) |
+| Win 3 Duels against Superb Téa using Yami Yugi | Icon: "Téa's Specialty Burger" ![Icon](/img/content/news/2018/03/datamined-discoveries/icon.png) |
 
 ### Top Player Council Thoughts
 
@@ -123,7 +120,7 @@ Older cards that work well with these include {Bountiful Artemis} and {Cards fro
 - Enter Battle Phase and swing for victory!
 
 **Replacements**
-- {Thunder Dragon}, {Shard of Greed}, {Legacy of Yata-Garasu}, {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by 'Drawing' in the Card Editor)
+- {Thunder Dragon}, {Shard of Greed}, {Legacy of Yata-Garasu}, {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by "Drawing" in the Card Editor)
 - {Caligo Claw Crow} can be replaced for {Blustering Winds} (use it on Gate Guardian)
 - Replace {Spiritualism} and one Draw card with either {Fire Formation - Gyokkou} or {Hey, Trunade!}, use them to clear the backrow (it doesn't matter if they're negated as they're 1 for 1)
 
