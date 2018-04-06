@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (5) - April 5
+title: In-Game Updates (6) - April 6
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-05
+date: 2018-04-06
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,18 @@ permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+## April 6th (Update 6)
+
+<br>
+
+### Duel-A-Thon
+
+As we wrote in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article there will be a Duel-A-Thon starting next week - read the datamine article to find out the featured reward! 
+
+![](/img/content/news/2018/04/in-game-updates/06-duel-a-thon.jpg)
+
+---
 
 ## April 5th (Update 5)
 
