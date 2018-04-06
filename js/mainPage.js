@@ -19,8 +19,9 @@ function enableMoreArticles() {
     displayArticles();    
 }
 
-function loadHiddenArticles() {    
-    for(var index = articlesLoaded; index < (index + 4); index++ ) {
+function loadHiddenArticles() {        
+    var articleLimit = articlesLoaded + 4; 
+    for(var index = articlesLoaded; index < articleLimit; index++) {
         if(articlesLoaded < articles.length) {
             var clone = $('#articleCard').clone();
             var currentArticle = articles[index];
@@ -52,7 +53,8 @@ function loadHiddenArticles() {
                 }
             }
 
-            $('#articleCardCollection').append(clone);
+            $(clone).removeAttr('id');
+            $('.articleButtonColumn').before(clone);
             articlesLoaded++;
         }
         else {
@@ -76,6 +78,9 @@ function displayArticles() {
             $('#moreArticles').attr('disabled', true);
             break;
         }        
+    }
+    if(articlesDisplayed == articles.length) {
+        $('#moreArticles').attr('disabled', true);    
     }
 }
 
