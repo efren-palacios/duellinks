@@ -13,12 +13,25 @@ permalink: /news/april-2018/datamined-discoveries/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 5th Update](#50)
+    - [New Cards](#51)
+    - [Top Player Council Thoughts](#52)
+        - [Spell Strider (UR)](#521)
+        - [Intrigue Shield (SR)](#522)
+        - [That Wacky Alchemy! (SR)](#523)
+        - [Dr. Frankenderp (R)](#524)
+    - [KC Cup Celebration Sale](#53)
+
+---
+
+<a name="50"></a>
 ## April 5th Update
 
 <br>
 
 With another maintenance update comes new discoveries; albeit a small datamine this time **new cards and a sale** has been found courtesy of the illustrious XOF! 
 
+<a name="51"></a>
 ### New Cards
 
 [deck](Spell Strider; Dr. Frankenderp; Intrigue Shield; That Wacky Alchemy!)
@@ -27,8 +40,10 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 [slider](/img/content/news/2018/04/datamined-discoveries/slider-05-duel-a-thon.jpg)
 
+<a name="52"></a>
 ### [Top Player Council](/top-player-council/) Thoughts
 
+<a name="521"></a>
 #### {Spell Strider} (UR)
 
 **[Superforms](/authors/superforms/)** says:
@@ -54,6 +69,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 ---
 
+<a name="522"></a>
 #### {Intrigue Shield} (SR)
 
 **[Superforms](/authors/superforms/)** says:
@@ -76,9 +92,11 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 **MiguelJoker** says:
 - Really good card in some decks, for example, {Hieratic Dragon of Nuit} which Special Summons a Normal Dragon when targeted by a  Spell, Trap or card effect.
+- It also works well with {Cocoon of Ultra Evolution}.
 
 ---
 
+<a name="523"></a>
 #### {That Wacky Alchemy!} (SR)
 
 **[Superforms](/authors/superforms/)** says:
@@ -96,8 +114,12 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 **[Machdragon](/authors/Machdragon/)** says:
 - Pretty good card, provides much needed 1 for 1 Monster removal for the game and can be activated after the resolution of an opponent’s spell card. Many powerful spell cards such as {Enemy Controller} exist in the current meta so this may see play in Side Decks.
 
+**MiguelJoker** says:
+- It's a card with potential. If we get any Tier 1 decks like Masked Heroes that use {Mask Change} you'll be able to destroy a Monster on the field which ain't bad. But as I said for this card to be in the Main Deck we need Destiny Heroes Mask Change to be a Top Tier deck, but perhaps it's a solid choice for a Side Deck card. 
+
 ---
 
+<a name="524"></a>
 #### {Dr. Frankenderp} (R)
 
 **[Superforms](/authors/superforms/)** says:
@@ -123,6 +145,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 ---
 
+<a name="53"></a>
 ### KC Cup Celebration Sale
 
 Will they be bringing back the ultimate deal: 3 cards + 1 UR for $0.99 - let's keep our fingers crossed!
