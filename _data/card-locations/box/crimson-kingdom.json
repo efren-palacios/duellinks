@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Knight of the Red Lotus",
+        "rarity": "UR"
+    },
+    {
+        "name": "Vampire Lord",
+        "rarity": "UR"
+    },
+    {
+        "name": "Gozuki",
+        "rarity": "UR"
+    },
+    {
+        "name": "Brohunder",
+        "rarity": "UR"
+    },
+    {
+        "name": "Reinforced Human Psychic Borg",
+        "rarity": "UR"
+    },
+    {
+        "name": "Red-Eyes Wyvern",
+        "rarity": "UR"
+    },
+    {
+        "name": "Blazing Inpachi",
+        "rarity": "UR"
+    },
+    {
+        "name": "Buster Blader, the Dragon Destroyer Swordsman",
+        "rarity": "UR"
+    },
+    {
+        "name": "Dark Paladin",
+        "rarity": "UR"
+    },
+    {
+        "name": "Soul Resurrection",
+        "rarity": "UR"
+    },
+    {
+        "name": "Buster Blader, the Dragon Destroyer Swordsman",
+        "rarity": "SR"
+    },
+    {
+        "name": "Endymion, the Master Magician",
+        "rarity": "SR"
+    },
+    {
+        "name": "Red-Eyes Zombie Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Goka, the Pyre of Malice",
+        "rarity": "SR"
+    },
+    {
+        "name": "Dark General Freed",
+        "rarity": "SR"
+    },
+    {
+        "name": "Freed the Matchless General",
+        "rarity": "SR"
+    },
+    {
+        "name": "Speed Bird",
+        "rarity": "SR"
+    },
+    {
+        "name": "Feast of the Wild LV5",
+        "rarity": "SR"
+    },
+    {
+        "name": "Magical Citadel of Endymion",
+        "rarity": "SR"
+    },
+    {
+        "name": "Divine Sword - Phoenix Blade",
+        "rarity": "SR"
+    },
+    {
+        "name": "The Warrior Returning Alive",
+        "rarity": "SR"
+    },
+    {
+        "name": "Inspiration",
+        "rarity": "SR"
+    },
+    {
+        "name": "Bonfire Colossus",
+        "rarity": "R"
+    },
+    {
+        "name": "Vampire Genesis",
+        "rarity": "R"
+    },
+    {
+        "name": "Ancient Crimson Ape",
+        "rarity": "R"
+    },
+    {
+        "name": "Buster Blader",
+        "rarity": "R"
+    },
+    {
+        "name": "Psychic Emperor",
+        "rarity": "R"
+    },
+    {
+        "name": "Tenmataitei",
+        "rarity": "R"
+    },
+    {
+        "name": "Disenchanter",
+        "rarity": "R"
+    },
+    {
+        "name": "Magical Marionette",
+        "rarity": "R"
+    },
+    {
+        "name": "Knight Day Grepher",
+        "rarity": "R"
+    },
+    {
+        "name": "Sishunder",
+        "rarity": "R"
+    },
+    {
+        "name": "Silver Sentinel",
+        "rarity": "R"
+    },
+    {
+        "name": "Lightray Grepher",
+        "rarity": "R"
+    },
+    {
+        "name": "Maiden of Macabre",
+        "rarity": "R"
+    },
+    {
+        "name": "Mormolith",
+        "rarity": "R"
+    },
+    {
+        "name": "Blast Magician",
+        "rarity": "R"
+    },
+    {
+        "name": "Dekoichi the Battlechanted Locomotive",
+        "rarity": "R"
+    },
+    {
+        "name": "Fear from the Dark",
+        "rarity": "R"
+    },
+    {
+        "name": "Wattsychic Fighter",
+        "rarity": "R"
+    },
+    {
+        "name": "Silent Insect",
+        "rarity": "R"
+    },
+    {
+        "name": "Sasuke Samurai #2",
+        "rarity": "R"
+    },
+    {
+        "name": "Great Angus",
+        "rarity": "R"
+    },
+    {
+        "name": "Cards of the Red Stone",
+        "rarity": "R"
+    },
+    {
+        "name": "Attack the Moon!",
+        "rarity": "R"
+    },
+    {
+        "name": "Psi-Station",
+        "rarity": "R"
+    },
+    {
+        "name": "Emblem of Dragon Destroyer",
+        "rarity": "R"
+    },
+    {
+        "name": "The A. Forces",
+        "rarity": "R"
+    },
+    {
+        "name": "Ultimate Providence",
+        "rarity": "R"
+    },
+    {
+        "name": "Spiritual Light Art - Hijiri",
+        "rarity": "R"
+    },
+    {
+        "name": "Brain Hazard",
+        "rarity": "R"
+    },
+    {
+        "name": "Chivalry",
+        "rarity": "R"
+    },
+    {
+        "name": "Ritual Sealing",
+        "rarity": "R"
+    },
+    {
+        "name": "Pitch-Black Power Stone",
+        "rarity": "R"
+    },
+    {
+        "name": "Black Tyranno",
+        "rarity": "N"
+    },
+    {
+        "name": "Chachaka Archer",
+        "rarity": "N"
+    },
+    {
+        "name": "Final Psychic Ogre",
+        "rarity": "N"
+    },
+    {
+        "name": "Robot Buster Destruction Sword",
+        "rarity": "N"
+    },
+    {
+        "name": "Mahunder",
+        "rarity": "N"
+    },
+    {
+        "name": "Pahunder",
+        "rarity": "N"
+    },
+    {
+        "name": "Delta Tri",
+        "rarity": "N"
+    },
+    {
+        "name": "Field-Commander Rahz",
+        "rarity": "N"
+    },
+    {
+        "name": "Blood Sucker",
+        "rarity": "N"
+    },
+    {
+        "name": "Armor Exe",
+        "rarity": "N"
+    },
+    {
+        "name": "Wizard Buster Destruction Sword",
+        "rarity": "N"
+    },
+    {
+        "name": "Trigon",
+        "rarity": "N"
+    },
+    {
+        "name": "Elephant Statue of Disaster",
+        "rarity": "N"
+    },
+    {
+        "name": "Elephant Statue of Blessing",
+        "rarity": "N"
+    },
+    {
+        "name": "Cobraman Sakuzy",
+        "rarity": "N"
+    },
+    {
+        "name": "Mushroom Man #2",
+        "rarity": "N"
+    },
+    {
+        "name": "Flamvell Dragnov",
+        "rarity": "N"
+    },
+    {
+        "name": "Magical Plant Mandragola",
+        "rarity": "N"
+    },
+    {
+        "name": "Woodborg Inpachi",
+        "rarity": "N"
+    },
+    {
+        "name": "Kabazauls",
+        "rarity": "N"
+    },
+    {
+        "name": "Bokoichi the Freightening Car",
+        "rarity": "N"
+    },
+    {
+        "name": "Karma of the Destruction Swordsman",
+        "rarity": "N"
+    },
+    {
+        "name": "Gift Exchange",
+        "rarity": "N"
+    },
+    {
+        "name": "Dragon Laser",
+        "rarity": "N"
+    },
+    {
+        "name": "Attack Pheromones",
+        "rarity": "N"
+    },
+    {
+        "name": "Arcane Barrier",
+        "rarity": "N"
+    },
+    {
+        "name": "Demise of the Land",
+        "rarity": "N"
+    },
+    {
+        "name": "Acidic Downpour",
+        "rarity": "N"
+    },
+    {
+        "name": "Counter Cleaner",
+        "rarity": "N"
+    },
+    {
+        "name": "Canyon",
+        "rarity": "N"
+    },
+    {
+        "name": "Mega Ton Magical Cannon",
+        "rarity": "N"
+    },
+    {
+        "name": "Spellbook Organization",
+        "rarity": "N"
+    },
+    {
+        "name": "Magnet Force",
+        "rarity": "N"
+    },
+    {
+        "name": "Exchange of Night and Day",
+        "rarity": "N"
+    },
+    {
+        "name": "Bright Future",
+        "rarity": "N"
+    },
+    {
+        "name": "Assault Spirits",
+        "rarity": "N"
+    },
+    {
+        "name": "Ritual Buster",
+        "rarity": "N"
+    },
+    {
+        "name": "Shining Silver Force",
+        "rarity": "N"
+    },
+    {
+        "name": "Give and Take",
+        "rarity": "N"
+    },
+    {
+        "name": "Psychic Rejuvenation",
+        "rarity": "N"
+    },
+    {
+        "name": "Counter Counter",
+        "rarity": "N"
+    },
+    {
+        "name": "Spell Vanishing",
+        "rarity": "N"
+    },
+    {
+        "name": "Anti-Spell",
+        "rarity": "N"
+    },
+    {
+        "name": "Miracle Restoring",
+        "rarity": "N"
+    },
+    {
+        "name": "Exhausting Spell",
+        "rarity": "N"
+    },
+    {
+        "name": "Tutan Mask",
+        "rarity": "N"
+    }
+]

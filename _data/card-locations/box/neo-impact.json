@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Garlandolf, King of Destruction",
+        "rarity": "UR"
+    },
+    {
+        "name": "Divine Grace - Northwemko",
+        "rarity": "UR"
+    },
+    {
+        "name": "Double Coston",
+        "rarity": "UR"
+    },
+    {
+        "name": "Kaiser Sea Horse",
+        "rarity": "UR"
+    },
+    {
+        "name": "Senju of the Thousand Hands",
+        "rarity": "UR"
+    },
+    {
+        "name": "Meteor B. Dragon",
+        "rarity": "UR"
+    },
+    {
+        "name": "Half Shut",
+        "rarity": "UR"
+    },
+    {
+        "name": "Stamping Destruction",
+        "rarity": "UR"
+    },
+    {
+        "name": "Black Pendant",
+        "rarity": "UR"
+    },
+    {
+        "name": "Mirror Wall",
+        "rarity": "UR"
+    },
+    {
+        "name": "Paladin of White Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Leotaur",
+        "rarity": "SR"
+    },
+    {
+        "name": "Djinn Prognosticator of Rituals",
+        "rarity": "SR"
+    },
+    {
+        "name": "Dweller in the Depths",
+        "rarity": "SR"
+    },
+    {
+        "name": "Twin-Headed Behemoth",
+        "rarity": "SR"
+    },
+    {
+        "name": "Sasuke Samurai",
+        "rarity": "SR"
+    },
+    {
+        "name": "Djinn Disserere of Rituals",
+        "rarity": "SR"
+    },
+    {
+        "name": "Jerry Beans Man",
+        "rarity": "SR"
+    },
+    {
+        "name": "Gravity Axe - Grarl",
+        "rarity": "SR"
+    },
+    {
+        "name": "Shooting Star Bow - Ceal",
+        "rarity": "SR"
+    },
+    {
+        "name": "Regretful Rebirth",
+        "rarity": "SR"
+    },
+    {
+        "name": "Magician's Circle",
+        "rarity": "SR"
+    },
+    {
+        "name": "Lycanthrope",
+        "rarity": "R"
+    },
+    {
+        "name": "Cú Chulainn the Awakened",
+        "rarity": "R"
+    },
+    {
+        "name": "Elemental Mistress Doriado",
+        "rarity": "R"
+    },
+    {
+        "name": "Dragon Seeker",
+        "rarity": "R"
+    },
+    {
+        "name": "Machine King",
+        "rarity": "R"
+    },
+    {
+        "name": "Guardian Grarl",
+        "rarity": "R"
+    },
+    {
+        "name": "Ancient Dragon",
+        "rarity": "R"
+    },
+    {
+        "name": "Vylon Charger",
+        "rarity": "R"
+    },
+    {
+        "name": "Naturia Strawberry",
+        "rarity": "R"
+    },
+    {
+        "name": "Naturia Dragonfly",
+        "rarity": "R"
+    },
+    {
+        "name": "Ally of Justice Garadholg",
+        "rarity": "R"
+    },
+    {
+        "name": "Shadowslayer",
+        "rarity": "R"
+    },
+    {
+        "name": "Element Valkyrie",
+        "rarity": "R"
+    },
+    {
+        "name": "Element Saurus",
+        "rarity": "R"
+    },
+    {
+        "name": "Element Dragon",
+        "rarity": "R"
+    },
+    {
+        "name": "Guardian Ceal",
+        "rarity": "R"
+    },
+    {
+        "name": "Machine King Prototype",
+        "rarity": "R"
+    },
+    {
+        "name": "D.D. Crazy Beast",
+        "rarity": "R"
+    },
+    {
+        "name": "Gray Wing",
+        "rarity": "R"
+    },
+    {
+        "name": "Ally of Justice Clausolas",
+        "rarity": "R"
+    },
+    {
+        "name": "Sprite's Blessing",
+        "rarity": "R"
+    },
+    {
+        "name": "Release Restraint Wave",
+        "rarity": "R"
+    },
+    {
+        "name": "Ritual Weapon",
+        "rarity": "R"
+    },
+    {
+        "name": "Fusion Weapon",
+        "rarity": "R"
+    },
+    {
+        "name": "Two-Man Cell Battle",
+        "rarity": "R"
+    },
+    {
+        "name": "Fairy of the Spring",
+        "rarity": "R"
+    },
+    {
+        "name": "Cry Havoc!",
+        "rarity": "R"
+    },
+    {
+        "name": "Common Charity",
+        "rarity": "R"
+    },
+    {
+        "name": "Des Counterblow",
+        "rarity": "R"
+    },
+    {
+        "name": "Desert Sunlight",
+        "rarity": "R"
+    },
+    {
+        "name": "Beckoning Light",
+        "rarity": "R"
+    },
+    {
+        "name": "Micro Ray",
+        "rarity": "R"
+    },
+    {
+        "name": "Radiant Spirit",
+        "rarity": "N"
+    },
+    {
+        "name": "Umbral Soul",
+        "rarity": "N"
+    },
+    {
+        "name": "Destruction Cyclone",
+        "rarity": "N"
+    },
+    {
+        "name": "Raging Earth",
+        "rarity": "N"
+    },
+    {
+        "name": "Fairy King Truesdale",
+        "rarity": "N"
+    },
+    {
+        "name": "Rai-Jin",
+        "rarity": "N"
+    },
+    {
+        "name": "Man-Thro' Tro'",
+        "rarity": "N"
+    },
+    {
+        "name": "Absorbing Kid from the Sky",
+        "rarity": "N"
+    },
+    {
+        "name": "Coach Goblin",
+        "rarity": "N"
+    },
+    {
+        "name": "Rai-Mei",
+        "rarity": "N"
+    },
+    {
+        "name": "Emissary of the Oasis",
+        "rarity": "N"
+    },
+    {
+        "name": "Arcane Archer of the Forest",
+        "rarity": "N"
+    },
+    {
+        "name": "The Kick Man",
+        "rarity": "N"
+    },
+    {
+        "name": "Anti-Aircraft Flower",
+        "rarity": "N"
+    },
+    {
+        "name": "Chopman the Desperate Outlaw",
+        "rarity": "N"
+    },
+    {
+        "name": "Servant of Catabolism",
+        "rarity": "N"
+    },
+    {
+        "name": "Woodland Sprite",
+        "rarity": "N"
+    },
+    {
+        "name": "Patrol Robo",
+        "rarity": "N"
+    },
+    {
+        "name": "Phantom Cricket",
+        "rarity": "N"
+    },
+    {
+        "name": "Pixie Knight",
+        "rarity": "N"
+    },
+    {
+        "name": "Scanner",
+        "rarity": "N"
+    },
+    {
+        "name": "Watapon",
+        "rarity": "N"
+    },
+    {
+        "name": "Magical Merchant",
+        "rarity": "N"
+    },
+    {
+        "name": "Milus Radiant",
+        "rarity": "N"
+    },
+    {
+        "name": "Meteor Dragon",
+        "rarity": "N"
+    },
+    {
+        "name": "Ritual of Destruction",
+        "rarity": "N"
+    },
+    {
+        "name": "Ritual of Grace",
+        "rarity": "N"
+    },
+    {
+        "name": "The Beginning of the End",
+        "rarity": "N"
+    },
+    {
+        "name": "Emblem of the Awakening",
+        "rarity": "N"
+    },
+    {
+        "name": "Synthesis Spell",
+        "rarity": "N"
+    },
+    {
+        "name": "Doriado's Blessing",
+        "rarity": "N"
+    },
+    {
+        "name": "Chaos End",
+        "rarity": "N"
+    },
+    {
+        "name": "White Dragon Ritual",
+        "rarity": "N"
+    },
+    {
+        "name": "Buster Rancher",
+        "rarity": "N"
+    },
+    {
+        "name": "The Puppet Magic of Dark Ruler",
+        "rarity": "N"
+    },
+    {
+        "name": "Gravedigger Ghoul",
+        "rarity": "N"
+    },
+    {
+        "name": "Painful Escape",
+        "rarity": "N"
+    },
+    {
+        "name": "High Tide on Fire Island",
+        "rarity": "N"
+    },
+    {
+        "name": "Kickfire",
+        "rarity": "N"
+    },
+    {
+        "name": "Treaty on Uniform Nomenclature",
+        "rarity": "N"
+    },
+    {
+        "name": "A Major Upset",
+        "rarity": "N"
+    },
+    {
+        "name": "Bamboo Scrap",
+        "rarity": "N"
+    },
+    {
+        "name": "Fuh-Rin-Ka-Zan",
+        "rarity": "N"
+    },
+    {
+        "name": "Ray of Hope",
+        "rarity": "N"
+    },
+    {
+        "name": "Altar for Tribute",
+        "rarity": "N"
+    },
+    {
+        "name": "Soul Demolition",
+        "rarity": "N"
+    }
+]

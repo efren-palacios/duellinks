@@ -1,0 +1,58 @@
+[
+    { 
+		"name": "Destiny HERO - Dogma", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Polymerization", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny HERO - Celestial", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destiny HERO - Drilldark", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Vision HERO Vyon", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "D Cubed", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destiny HERO - Dark Angel", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destiny HERO - Dreamer", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Vision HERO Trinity", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destiny HERO - Dangerous", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Cyclone Blade", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "D - Fortune", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "D-Fusion", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Darklight", 
+		"rarity": "R" 
+    }
+]

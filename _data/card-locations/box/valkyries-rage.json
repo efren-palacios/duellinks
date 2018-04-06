@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Sky Scourge Enrise",
+        "rarity": "UR"
+    },
+    {
+        "name": "B.E.S. Big Core",
+        "rarity": "UR"
+    },
+    {
+        "name": "The Fiend Megacyber",
+        "rarity": "UR"
+    },
+    {
+        "name": "Dimensional Alchemist",
+        "rarity": "UR"
+    },
+    {
+        "name": "Asura Priest",
+        "rarity": "UR"
+    },
+    {
+        "name": "Dunames Dark Witch",
+        "rarity": "UR"
+    },
+    {
+        "name": "Soul Exchange",
+        "rarity": "UR"
+    },
+    {
+        "name": "Nobleman of Extermination",
+        "rarity": "UR"
+    },
+    {
+        "name": "Escape from the Dark Dimension",
+        "rarity": "UR"
+    },
+    {
+        "name": "Divine Wrath",
+        "rarity": "UR"
+    },
+    {
+        "name": "White-Horned Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Susa Soldier",
+        "rarity": "SR"
+    },
+    {
+        "name": "Cyber Raider",
+        "rarity": "SR"
+    },
+    {
+        "name": "Pumprincess the Princess of Ghosts",
+        "rarity": "SR"
+    },
+    {
+        "name": "Wrecker Panda",
+        "rarity": "SR"
+    },
+    {
+        "name": "Shinobird Power Spot",
+        "rarity": "SR"
+    },
+    {
+        "name": "Creeping Darkness",
+        "rarity": "SR"
+    },
+    {
+        "name": "Mirror of Yata",
+        "rarity": "SR"
+    },
+    {
+        "name": "Burning Land",
+        "rarity": "SR"
+    },
+    {
+        "name": "Wild Tornado",
+        "rarity": "SR"
+    },
+    {
+        "name": "Xing Zhen Hu",
+        "rarity": "SR"
+    },
+    {
+        "name": "Adhesion Trap Hole",
+        "rarity": "SR"
+    },
+    {
+        "name": "Zera the Mant",
+        "rarity": "R"
+    },
+    {
+        "name": "Angel O7",
+        "rarity": "R"
+    },
+    {
+        "name": "Akz, the Pumer",
+        "rarity": "R"
+    },
+    {
+        "name": "Penumbral Soldier Lady",
+        "rarity": "R"
+    },
+    {
+        "name": "Ghost Knight of Jackal",
+        "rarity": "R"
+    },
+    {
+        "name": "Teva",
+        "rarity": "R"
+    },
+    {
+        "name": "Mefist the Infernal General",
+        "rarity": "R"
+    },
+    {
+        "name": "Luminous Soldier",
+        "rarity": "R"
+    },
+    {
+        "name": "Shinobird Crane",
+        "rarity": "R"
+    },
+    {
+        "name": "Shinobird Crow",
+        "rarity": "R"
+    },
+    {
+        "name": "Doomsday Horror",
+        "rarity": "R"
+    },
+    {
+        "name": "The Agent of Wisdom - Mercury",
+        "rarity": "R"
+    },
+    {
+        "name": "Masked Sorcerer",
+        "rarity": "R"
+    },
+    {
+        "name": "Magnetic Mosquito",
+        "rarity": "R"
+    },
+    {
+        "name": "Dark Mimic LV3",
+        "rarity": "R"
+    },
+    {
+        "name": "Skull Knight #2",
+        "rarity": "R"
+    },
+    {
+        "name": "Caligo Claw Crow",
+        "rarity": "R"
+    },
+    {
+        "name": "Tenshin",
+        "rarity": "R"
+    },
+    {
+        "name": "The Unhappy Girl",
+        "rarity": "R"
+    },
+    {
+        "name": "Dreamsprite",
+        "rarity": "R"
+    },
+    {
+        "name": "Hiro's Shadow Scout",
+        "rarity": "R"
+    },
+    {
+        "name": "Ritual Raven",
+        "rarity": "R"
+    },
+    {
+        "name": "Dark Mimic LV1",
+        "rarity": "R"
+    },
+    {
+        "name": "Veil of Darkness",
+        "rarity": "R"
+    },
+    {
+        "name": "Contract with the Abyss",
+        "rarity": "R"
+    },
+    {
+        "name": "Fairy Meteor Crush",
+        "rarity": "R"
+    },
+    {
+        "name": "Tailor of the Fickle",
+        "rarity": "R"
+    },
+    {
+        "name": "Dark Spirit Art - Greed",
+        "rarity": "R"
+    },
+    {
+        "name": "Dark Mirror Force",
+        "rarity": "R"
+    },
+    {
+        "name": "Physical Double",
+        "rarity": "R"
+    },
+    {
+        "name": "Pineapple Blast",
+        "rarity": "R"
+    },
+    {
+        "name": "Skull Lair",
+        "rarity": "R"
+    },
+    {
+        "name": "Garma Sword Oath",
+        "rarity": "N"
+    },
+    {
+        "name": "Chakra",
+        "rarity": "N"
+    },
+    {
+        "name": "Moisture Creature",
+        "rarity": "N"
+    },
+    {
+        "name": "Great Long Nose",
+        "rarity": "N"
+    },
+    {
+        "name": "Lord British Space Fighter",
+        "rarity": "N"
+    },
+    {
+        "name": "Falchionβ",
+        "rarity": "N"
+    },
+    {
+        "name": "Abare Ushioni",
+        "rarity": "N"
+    },
+    {
+        "name": "Theban Nightmare",
+        "rarity": "N"
+    },
+    {
+        "name": "Twin-Headed Wolf",
+        "rarity": "N"
+    },
+    {
+        "name": "Otohime",
+        "rarity": "N"
+    },
+    {
+        "name": "Inaba White Rabbit",
+        "rarity": "N"
+    },
+    {
+        "name": "Ebon Magician Curran",
+        "rarity": "N"
+    },
+    {
+        "name": "White Magician Pikeru",
+        "rarity": "N"
+    },
+    {
+        "name": "Needle Ball",
+        "rarity": "N"
+    },
+    {
+        "name": "Triple Star Trion",
+        "rarity": "N"
+    },
+    {
+        "name": "Gradius' Option",
+        "rarity": "N"
+    },
+    {
+        "name": "Gradius",
+        "rarity": "N"
+    },
+    {
+        "name": "Whiptail Crow",
+        "rarity": "N"
+    },
+    {
+        "name": "Chaos Seed",
+        "rarity": "N"
+    },
+    {
+        "name": "Chaos Zone",
+        "rarity": "N"
+    },
+    {
+        "name": "Photon Veil",
+        "rarity": "N"
+    },
+    {
+        "name": "Beast Rage",
+        "rarity": "N"
+    },
+    {
+        "name": "Orb of Yasaka",
+        "rarity": "N"
+    },
+    {
+        "name": "Sword of Kusanagi",
+        "rarity": "N"
+    },
+    {
+        "name": "Mystical Wind Typhoon",
+        "rarity": "N"
+    },
+    {
+        "name": "Miraculous Rebirth",
+        "rarity": "N"
+    },
+    {
+        "name": "After the Struggle",
+        "rarity": "N"
+    },
+    {
+        "name": "Cyclon Laser",
+        "rarity": "N"
+    },
+    {
+        "name": "Monster Recovery",
+        "rarity": "N"
+    },
+    {
+        "name": "Garma Sword Oath",
+        "rarity": "N"
+    },
+    {
+        "name": "Resurrection of Chakra",
+        "rarity": "N"
+    },
+    {
+        "name": "Zera the Mant",
+        "rarity": "N"
+    },
+    {
+        "name": "Limit Impulse",
+        "rarity": "N"
+    },
+    {
+        "name": "Sinister Seeds",
+        "rarity": "N"
+    },
+    {
+        "name": "Trap Reclamation",
+        "rarity": "N"
+    },
+    {
+        "name": "Spell Reclamation",
+        "rarity": "N"
+    },
+    {
+        "name": "Vanity's Call",
+        "rarity": "N"
+    },
+    {
+        "name": "Accumulated Fortune",
+        "rarity": "N"
+    },
+    {
+        "name": "Chain Healing",
+        "rarity": "N"
+    },
+    {
+        "name": "Straight Flush",
+        "rarity": "N"
+    },
+    {
+        "name": "Disarmament",
+        "rarity": "N"
+    },
+    {
+        "name": "Spirit's Invitation",
+        "rarity": "N"
+    },
+    {
+        "name": "Disappear",
+        "rarity": "N"
+    },
+    {
+        "name": "A Feint Plan",
+        "rarity": "N"
+    },
+    {
+        "name": "Fatal Abacus",
+        "rarity": "N"
+    },
+    {
+        "name": "The Emperor's Holiday",
+        "rarity": "N"
+    }
+]

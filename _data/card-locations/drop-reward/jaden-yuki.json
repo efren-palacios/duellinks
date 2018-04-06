@@ -1,0 +1,42 @@
+[
+    { 
+		"name": "Elemental HERO Neos", 
+		"rarity": "UR" 
+    },
+    { 
+		"name": "Elemental HERO Tempest", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Elemental HERO Thunder Giant", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Winged Kuriboh", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "The Flute of Summoning Kuriboh", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Elemental HERO Sparkman", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Elemental HERO Bubbleman", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Elemental HERO Wildheart", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Card Ejector", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Spark Blaster", 
+		"rarity": "R" 
+    }
+]
