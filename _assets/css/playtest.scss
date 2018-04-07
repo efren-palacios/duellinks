@@ -4,7 +4,7 @@
     background-color: #000016;
     background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
     background-size: cover;
-    width: 750px;
+    width: fit-content;
     margin: 0 auto;
     padding: 1rem;
 
@@ -156,3 +156,85 @@
 #graveyard {
   cursor: pointer;
 }
+.game-board .actions .tools .coin, .game-board .actions .tools .dice, .game-board .actions .tools .token{
+  width: 40px;
+}
+
+//Mobile optimisation
+@media only screen and (max-width: 1279px) {
+  #playtest, .ui-widget-content{
+    padding: 0; 
+  }
+  .ui-dialog .ui-dialog-content{
+    padding: 0;
+  }
+  .ui-dialog .ui-dialog-title{
+    width: 275px;
+  }
+  .ui-dialog .ui-dialog-titlebar {
+    padding: .5em 1em;
+  }
+  #deckmenu{
+    margin-top: 0.1rem;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  #hand{
+    width: unset;
+  }
+  .onlyDesktopBtn{
+    display: none;
+  }
+  .game-board{
+    padding: 12px;
+  }
+}
+
+
+@media only screen and (max-width: 530px) {
+  .game-board .testcard-slot-row .field, .game-board .testcard-slot-row .hand, .game-board .testcard-slot-row .testcard-slot{
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 87px;
+    width: 60px;
+  }
+  #hand{
+    min-height: 126px;
+  }
+  .game-board{
+    padding: 8px;
+  }
+  .btn{
+    padding: .275rem .4rem;
+  }
+  #playtest .actions input{
+    margin: 0.3rem 0;
+    margin-right: 10px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  
+  #hand{
+    min-height: 96px;
+  }
+  .game-board .testcard-slot-row .field, .game-board .testcard-slot-row .hand, .game-board .testcard-slot-row .testcard-slot{
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 76px;
+    width: 52px;
+  }
+  .game-board .testcard-slot-row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #playtest .actions input{
+    margin-right: 5px;
+  }
+  .btn{
+    padding: .25rem .2rem;
+    font-size: 0.9rem;
+  }
+
+}
+//END Mobile Optimisation

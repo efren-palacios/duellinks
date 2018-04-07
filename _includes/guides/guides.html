@@ -1,3 +1,4 @@
+
 {% assign guides = site.posts | where: "category", "guide" | where: "sub-category", "deck-type" | where: "deck-type", {{include.deckType}} | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
 
 {% if guides != null and guides.size != 0 %}
@@ -19,8 +20,8 @@
                         <div class="text-white">
                             <small class="text-muted">Last Updated: {{ guide.date | timeago }}
                                 {% if guide.author == 'Dkayed' %}
-                                By <b><a class="text-danger" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% else %}
-                                By <b><a class="text-warning" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% endif %}
+                                by <b><a class="text-danger" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% else %}
+                                by <b><a class="text-warning" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% endif %}
                             </small>
                         </div>
                     </div>
