@@ -31,7 +31,7 @@ Click each picture to read more about our Top Player Council members!
 
 |13th: Adoboboy|14th: Whybona|15th: Machdragon|16th: AndyTsang|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/authors/)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/61mqp9n.png">](/authors/andytsang)|
+|[<img src="https://i.imgur.com/LkisuWn.png">](/authors/adoboboy)|[<img src="https://i.imgur.com/K0DYouL.png">](/authors/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/authors/machdragon)|[<img src="https://i.imgur.com/61mqp9n.png">](/authors/andytsang)|
 
 |17th: BuilttoTilt|18th: SirDillweed|Mananger: Superforms|
 | :-- | :-- | :-- |
