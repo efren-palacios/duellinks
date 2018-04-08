@@ -55,7 +55,7 @@ pinned: true
 
 ---
 
-### Top 16 Decklists (Main + Side Deck) - Prize Support: $3,000+
+### Top 16 Decklists (Main + Side Deck) - Prize Support: $3,413
 
 #### 1st Place - Jason
 
