@@ -160,8 +160,8 @@ I didn't test other decks as I'm too busy at the moment, I wont even have time f
 
 **Kwrowe** says: 
 
-- Masked Heroes will likely be combined with Destiny Heros to make a top tier deck. The two stand out cards are {Mask Change} and {Masked Hero Anki}. Mask Change works in a similar way to the Ninjitsu trap cards, by sending a card to the graveyard to summon another monster. However, because it's a quick-play spell there are no issues with {Cosmic Cyclone} - a card that Ninja's struggle with. 
-Furthermore, it can be used to facilitate OTK plays the turn it is drawn, unlike the Ninjitsu cards which require set up. Another advantage with Mask Change is its synergy with Masked Hero Anki, which allows you to search for a copy of Mask Change when it destroys a monster by battle. Being a 2800 beater, that has the ability to attack directly, it is not hard to imagine the OTK potential this card has. Other cards from the set that could be used are {Masked Hero Vapor} and {Vision HERO Witch Raider}. 
+- Masked Heroes will likely be combined with Destiny Heros to make a top tier deck. The two stand out cards are {Mask Change} and {Masked HERO Anki}. Mask Change works in a similar way to the Ninjitsu trap cards, by sending a card to the graveyard to summon another monster. However, because it's a quick-play spell there are no issues with {Cosmic Cyclone} - a card that Ninja's struggle with. 
+Furthermore, it can be used to facilitate OTK plays the turn it is drawn, unlike the Ninjitsu cards which require set up. Another advantage with Mask Change is its synergy with Masked HERO Anki, which allows you to search for a copy of Mask Change when it destroys a monster by battle. Being a 2800 beater, that has the ability to attack directly, it is not hard to imagine the OTK potential this card has. Other cards from the set that could be used are {Masked Hero Vapor} and {Vision HERO Witch Raider}. 
 I strongly believe this will be a Tier 1 deck once optimized. 
 - Karakuri's were a top tier deck in the TCG, but will not have the same power in Duel Links because they relied on Synchro monsters that are not currently in the game. However, they have a helpful draw card in {Karakuri Anatomy} and some good synergy with {Spike Shield with Chain}, as the monsters must change to defense after making an attack. The best cards for the deck will be {Karakuri Muso mdl 818 "Haipa"} - a 2100 beater, and {Karakuri Ninja mdl 339 "Sazank"} - a monster that has an effect similar to {Man-Eater Bug} but with a more respectable 1200 ATK/DEF. When Synchro monsters do eventually come to the game, this deck could become top tier if Karakuri receives further support.
 - Geargia were another strong archetype in the TCG, but their effects may be too slow to keep up with decks like [Sylvan's](/guides/deck-types/sylvans-guide-intro-by-superforms/) and [Cyber Angels](/guides/deck-types/the-cyber-angels-guide-by-negative1/). They still have some good cards to work with. {Geargiano Mk-II} allows for swarming, {Geargiarsenal} is an effective searcher, {Geargiattacker} can be used for spell/trap destruction and {Geargianchor} monster destruction. The deck may benefit from some kind of boss monster, as none of the cards have more than 1900 ATK.
@@ -186,7 +186,7 @@ I strongly believe this will be a Tier 1 deck once optimized.
 
 - Geargia ({Geargiattacker}, {Geargianchor}, {Geargiarsenal}): monster and backrow removal built in the system, very flexible.
 - Paleozoic ({Paleozoic Canadia}): potential synergy with {Citadel Whale} and {That Grass Looks Greener}, playable even without Whale by teching in cards like {Order to Smash} and {Order to Charge}.
-- Mask-Destiny Hero ({Masked Hero Anki}): Anki makes OTK easy, but still lacks backrow removal. So I think it still be built into current [Destiny Hero](/tier-list/destiny-heroes/) decks.
+- Mask-Destiny Hero ({Masked HERO Anki}): Anki makes OTK easy, but still lacks backrow removal. So I think it still be built into current [Destiny Hero](/tier-list/destiny-heroes/) decks.
 - Amazoness ({Amazoness Onslaught}): Onslaught can special summon other powerful Amazoness monsters. It has monster and backrow removal, not as good as Geargia, but still can at least be a high potential deck.
 
 **MiguelJoker** says:
@@ -198,11 +198,11 @@ I strongly believe this will be a Tier 1 deck once optimized.
 The set contains three new archetypes that will impact the meta
 - At first we got [Geargia](https://imgur.com/occ38VT). The deck seems to be similar to Fishes with {Geargianchor} and {Geargiattacker} acting like {Golden Flying Fish} for monster and backrow destruction and {Geargiarsenal} having the same effect as {Beautunaful Princess} but you can play three of it and you can use {Powerful Rebirth} with it. 
 - Next we got an archetype that is still a top tier deck in the TCG. We get them without Frogs but [Paleozoic](https://imgur.com/MoawIO9) is still a potential tier 1 deck. Paleo has so much utility with the trap monsters being unaffected by monster effects and treated as normal monsters, so there should be space for some crazy ideas in the future. The best Paleozoic card is {Paleozoic Canadia}. Flipping a monster face-down is a powerful tool but the card will also be a great tech in other decks.
-- And lastly we got the new Hero support. With {Vision Hero Witch Raider} we get a powerful boss monster and a tool for backrow destruction that has great synergy with the new [Paleozoic trap cards](https://imgur.com/0LwqBKX). Also the new {Masked Hero Anki} pushes their OTK potential.
+- And lastly we got the new Hero support. With {Vision Hero Witch Raider} we get a powerful boss monster and a tool for backrow destruction that has great synergy with the new [Paleozoic trap cards](https://imgur.com/0LwqBKX). Also the new {Masked HERO Anki} pushes their OTK potential.
 
 **Whybona** says:
 
-- Masked Heroes: {Masked Hero Anki} and {Mask Change} seem like a very strong combination and kind of reminiscent of Ninjas with the ability to special summon a 2800 attack monster from the use of a quick play spell. These could fit into Destiny Heroes extremely well synergising with the dark attributes and also working well with the effects of those monsters. For example, a combo with this card would be to summon {Destiny HERO - Decider}, attempt to attack to force out backrow (if using the {Destiny Calling} skill you will be able to force out resources even better) and then in the battle step or after your attack has gone through you can use Mask Change to get out Anki. This combo then allows Decider to add itself back to the hand in the end phase and if Anki destroyed a monster then you will also be able to add Mask Change from your deck to your hand and repeat the combo again next turn. Similar combos can be done with {Destiny Hero Celestial} in order to pop enemy field spells and then get it into the grave yourself, which is where it wants to be in order to activate the draw 2 effect.
+- Masked Heroes: {Masked HERO Anki} and {Mask Change} seem like a very strong combination and kind of reminiscent of Ninjas with the ability to special summon a 2800 attack monster from the use of a quick play spell. These could fit into Destiny Heroes extremely well synergising with the dark attributes and also working well with the effects of those monsters. For example, a combo with this card would be to summon {Destiny HERO - Decider}, attempt to attack to force out backrow (if using the {Destiny Calling} skill you will be able to force out resources even better) and then in the battle step or after your attack has gone through you can use Mask Change to get out Anki. This combo then allows Decider to add itself back to the hand in the end phase and if Anki destroyed a monster then you will also be able to add Mask Change from your deck to your hand and repeat the combo again next turn. Similar combos can be done with {Destiny Hero Celestial} in order to pop enemy field spells and then get it into the grave yourself, which is where it wants to be in order to activate the draw 2 effect.
 - Paleozoic/{Vision Hero Witch Raider}: Some people have been theorising a deck incorporating the new Paleozoic trap card with Vision Hero Witch Raider. The traps are able to give you easy access to tribute summon Witch Raider through their secondary effects of summoning tokens as well as being used with the effect of Witch Raider itself. This would create an easily summonable boss monster with the ability to wipe the whole of your opponent's backrow on summon.
 - {Fires of Doomsday}/{Treeborn Frog}: The new card Fires of Doomsday opens up a lot of options in the Treeborn tribute decks with the ability to special summon two tokens as a quick play spell which can be used to tribute summon dark attribute monsters (not on the same turn). This card has synergy with many strong dark attribute monsters including {Angmarl the Fiendish Monarch}, {Invader of Darkness} and the new card Vision Hero Witch Raider. If a consistent version of this deck can be built then it has the tools of backrow destruction, the ability to play around the effects of monsters like {Sylvan Komushroomo} with {Soul Exchange} and deck thinning and search power with the use of Angmarl.
 - Geargia Control: The Geargia archetype has the potential to fill the role of the medium-slow paced control deck in the meta which Gladiator Beasts previously held. The deck has built in monster removal, spell/trap removal and also has the ability to search and special summon any of the monsters in the deck through {Geargiarsenal}. It also has the ability to easily special summon monsters from the graveyard through {Geargiano Mk-II} giving the deck recovery potential and some swarm ability. The deck may struggle to keep up in this meta of mass removal but they have access to some strong backrow cards like {Pulse Mines} thanks to being machines. This means that they would be able to survive OTK attempts from decks like Sylvans and CA and then grind back into the game after when those decks have committed to their big plays. It also provides access to interesting cards like {Gravity Blaster} which could see some play in order to counter Sylvans playing around the current effect negation cards which Sylvan decks use.
@@ -214,10 +214,10 @@ The set contains three new archetypes that will impact the meta
 **Kayoh** says:
 
 Masked Hero
-- The new Masked Hero cards are likely to be the best cards from this box in terms of their impact on the meta. The release of the Destiny Hero Structure Deck pushed the Dark City version of this deck to a respectable 'Notable King of Game Deck' level, with cards like {Destiny HERO - Celestial}, {Destiny HERO - Drilldark} and {Destiny HERO - Dangerous} providing a solid draw engine, OTK potential and consistency, but overall still lacked in power to make the tier list. With the release of {Mask Change} and {Masked Hero Anki}, this deck definitely has the potential to hit the tier list. Mask Change is a quick-play spell that allows you to easily summon Anki from the extra deck by sending a dark Hero monster you control, which combos with all the Destiny Heros in this deck.
+- The new Masked Hero cards are likely to be the best cards from this box in terms of their impact on the meta. The release of the Destiny Hero Structure Deck pushed the Dark City version of this deck to a respectable 'Notable King of Game Deck' level, with cards like {Destiny HERO - Celestial}, {Destiny HERO - Drilldark} and {Destiny HERO - Dangerous} providing a solid draw engine, OTK potential and consistency, but overall still lacked in power to make the tier list. With the release of {Mask Change} and {Masked HERO Anki}, this deck definitely has the potential to hit the tier list. Mask Change is a quick-play spell that allows you to easily summon Anki from the extra deck by sending a dark Hero monster you control, which combos with all the Destiny Heros in this deck.
 Being quick-play means you're able to make an initial attack with your level 4 monsters, and are able to respond with Mask Change if your opponent plays a backrow like {Enemy Controller}/{Wall of Disruption} etc.
 The OTK potential of this deck skyrockets as you can easily get out a 2800 beater that can attack directly (though halved damage). Also, if you manage to destroy their monster with Anki, you can search another Mask Change and use it again in the same turn for another Anki. 
-- The current Tier 1 deck: [Sea Stealth Attack](/tier-list/sea-stealth-attack/), will have a bad time against this match up. {Destiny HERO - Celestial} will destroy their {Umi} on attack declaration, and then {Mask Change} activated in the Battle Step for a {Masked Hero Anki} to get over the {Citadel Whale} - insane! Expect to see it in next week's [Meta Weekly](/tournaments/meta-weekly/).
+- The current Tier 1 deck: [Sea Stealth Attack](/tier-list/sea-stealth-attack/), will have a bad time against this match up. {Destiny HERO - Celestial} will destroy their {Umi} on attack declaration, and then {Mask Change} activated in the Battle Step for a {Masked HERO Anki} to get over the {Citadel Whale} - insane! Expect to see it in next week's [Meta Weekly](/tournaments/meta-weekly/).
 
 Fabled
 - This archetype is interesting, works similarly to Dark Worlds as Fabled has effects that activate by discarding them. 
@@ -239,7 +239,7 @@ Hieratic
 
 **Whilipino** says:
 
-- (Most potential) Masked Destiny Heroes: {Mask Change} and {Masked Hero Anki}.
+- (Most potential) Masked Destiny Heroes: {Mask Change} and {Masked HERO Anki}.
 - Geargia: {Geargiaarsenal}, {Geargiaattacker} and {Geargiaanchor}.
 - Karakuri: {Karakuri Muso mdl 818 "Haipa"}, {Karakuri Ninja ndl 339 "Sazank"} and {Karakuri Anatomy}.
 - Hieratic: {Hieratic Dragon of Asar} and {Hieratic Dragon of Gebeb}.
@@ -257,7 +257,7 @@ Hieratic
 
 **Kwrowe** says:
 
-- {Mask Change} and {Masked Hero Anki}, for the reasons listed above.
+- {Mask Change} and {Masked HERO Anki}, for the reasons listed above.
 
 **SelectMaple** says:
 
@@ -270,7 +270,7 @@ Hieratic
 **Kaki** says:
 
 - {Paleozoic Canadia}: a great tool to control/interrupt your opponent's plays. Good against {Cyber Angel Dakini}, {Golden Flying Fish}, {Alien Overlord} or {Sylvan Hermitree}.
-- {Masked Hero Anki} + {Mask Change}: Mask Change upgrades your dark Hero monster to Masked Hero Anki, a powerful beatstick, and deals much damage with his effect allowing you to add a second Mask Change, summon him again and continue to push.
+- {Masked HERO Anki} + {Mask Change}: Mask Change upgrades your dark Hero monster to Masked HERO Anki, a powerful beatstick, and deals much damage with his effect allowing you to add a second Mask Change, summon him again and continue to push.
 
 **Whybona** says:
 
@@ -282,13 +282,13 @@ Hieratic
 
 **Kayoh** says:
 
-- {Mask Change} and {Masked Hero Anki} will greatly improve Destiny Heroes, a must for this deck for reasons stated above.
+- {Mask Change} and {Masked HERO Anki} will greatly improve Destiny Heroes, a must for this deck for reasons stated above.
 - {Paleozoic Canadia}: I believe this may become a main card in [Sea Stealth Attack](/tier-list/sea-stealth-attack/) decks as it synergizes well with {Citadel Whale}. Good side-deck potential in other decks. Comparable to {Floodgate Trap Hole}, but you're forced to use Floodgate on a monster summon only, whereas Canadia can flip monsters face down whenever you want, like in the middle of battle, which makes it more versatile. However, opponent can flip their monsters next turn. Note: flipping your opponent's monsters face-down means they lose any attack/defence boosts, so a 3700 ATK {Cyber Angel Dakini} will lose the boost from {Cyber Angel Idaten} and return to 2700 ATK once flipped up. They also lose their Dakini's End Phase effect.
 
 **Whilipino** says:
 
 - {Paleozoic Canadia}: good generic trap with many flexible uses - stopping attacks, preventing ignition effects the turn a monster is summoned. Its effect to summon itself back from the Graveyard can be useful as a body blocker, additional tribute summon, or an additional 1200 damage to push for game.
-- {Mask Change}/{Masked Hero Anki}: these cards help push Destiny Heroes further. Mask Change allows the Hero player to push through back row with ease and provide easy OTK's with Anki. Anki's effect to search another mask change allows for easy OTK's and it's effect to attack directly can be the difference between having game and losing.
+- {Mask Change}/{Masked HERO Anki}: these cards help push Destiny Heroes further. Mask Change allows the Hero player to push through back row with ease and provide easy OTK's with Anki. Anki's effect to search another mask change allows for easy OTK's and it's effect to attack directly can be the difference between having game and losing.
 - {Dark World Dealings}: now everyone who didn't have these before can finally play their Dark World decks.
 
 ---

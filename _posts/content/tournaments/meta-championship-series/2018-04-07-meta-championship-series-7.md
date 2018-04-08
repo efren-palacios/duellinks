@@ -60,7 +60,7 @@ pinned: true
 #### 1st Place - Jason
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Polymerization)
-[deck](Masked Hero Anki;Masked Hero Anki;Masked Hero Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
 ***Side deck:***
 [deck](Sphere Kuriboh; Hey, Trunade!; Forbidden Chalice;Enemy Controller;Acid Rain) 
@@ -142,7 +142,7 @@ pinned: true
 #### 9th-16th Place - Grucious
 
 [deck:Destiny Calling](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Cosmic Cyclone;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller)
-[deck](Masked Hero Anki;Masked Hero Anki;Masked Hero Anki;Destiny HERO - Dangerous;Gladiator Beast Essedarii)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Gladiator Beast Essedarii)
 
 ***Side Deck:***
 [deck](System Down;System Down;Divine Wrath;Wall of Disruption;Disappear)
@@ -180,7 +180,7 @@ pinned: true
 #### 9th-16th Place - SilchasRuin
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Mask Change;Mask Change;Mask Change;Hey, Trunade!;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller;Polymerization;Polymerization)
-[deck](Masked Hero Anki;Masked Hero Anki;Destiny HERO - Dangerous;Destiny HERO - Dangerous;Vision HERO Trinity)
+[deck](Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Destiny HERO - Dangerous;Vision HERO Trinity)
 
 ***Side Deck:***
 [deck](Cosmic Cyclone;Cosmic Cyclone;Hey, Trunade!;Different Dimension Ground;Different Dimension Ground)
@@ -200,7 +200,7 @@ pinned: true
 #### 9th-16th Place - Super Vegito
 
 [deck:Restart](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Polymerization;Mirror Wall)
-[deck](Masked Hero Anki;Masked Hero Anki;Masked Hero Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
 ***Side Deck:***
 [deck](Book of Taiyou;Book of Taiyou;Divine Wrath;Divine Wrath;Mirror Wall)
