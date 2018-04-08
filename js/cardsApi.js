@@ -122,7 +122,7 @@ function CardsAPI() {
      * imageURL - URL to obtain the image of the skill, depending on its exclusivity
      */ 
     this.searchSkill = function(skillName, callback) {
-        $.getJSON(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
+        $.getJSON(getWebsiteLink() + "/data/skills.json").then( function( response ) {
             var skill = new Object();
             for(var i = 0; i < response.length; i++) {
                 if(response[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skillName.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()) {
