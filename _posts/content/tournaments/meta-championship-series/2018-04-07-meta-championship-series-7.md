@@ -5,7 +5,7 @@ author: Jonesy9027, SpoonCats & Yami Hammy
 category: tournament
 tournament: Meta Championship Series
 number: 7
-image: /img/logos/mcs-6-thumbnail.jpg
+image: /img/logos/mcs-7-thumbnail.jpg
 date: 2018-04-08
 comments: true
 description: The Meta Championship Series 7 tournament report. Check the prize winners and their decks here.
@@ -16,7 +16,7 @@ pinned: true
 
 {% include heading.html title=page.title author=page.author %}
 
-![Banner](/img/logos/mcs-6-thumbnail.jpg)
+![Banner](/img/logos/mcs-7-thumbnail.jpg)
 
 #### Tournament Information
 - Want to participate in future tournaments - join the [Duel Links Meta Discord](https://discord.gg/duellinksmeta)!
