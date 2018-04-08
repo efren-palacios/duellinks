@@ -47,6 +47,7 @@ pinned: true
 |--|--|
 | Inri - Chrisavz | 200 |
 | Jonesy9027 | 120 |
+| FrozenKingK0 | 100 |
 | H E A R T | 100 |
 | MLM Man LM | 100 |
 | SirDilweed | 100 |
@@ -157,7 +158,7 @@ pinned: true
 
 ---
 
-#### 9th-16th Place - Tekumse
+#### 9th-16th Place - Tekumse (Check him out on [Twitch](https://www.twitch.tv/tekumse_)!)
 
 [deck:Balance](Geargiattacker; Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Enemy Controller; Enemy Controller; Memory Loss; Memory Loss; Memory Loss; Pulse Mines; Pulse Mines; Pulse Mines; Desert Sunlight)
 
