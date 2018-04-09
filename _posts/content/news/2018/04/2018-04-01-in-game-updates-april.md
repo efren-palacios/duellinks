@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (6) - April 6
+title: In-Game Updates (7) - April 9
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-06
+date: 2018-04-09 11:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,8 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 9th (Update 7)](#70)
+    - [Event: "Duel-A-Thon"](#71)
 - [April 6th (Update 6)](#60)
     - [Duel-A-Thon](#61)
 - [April 5th (Update 5)](#50)
@@ -31,6 +33,20 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="70"></a>
+## April 9th (Update 7)
+
+<br>
+
+<a name="71"></a>
+### Event: "Duel-A-Thon"
+
+Read our [event article](/events/april-2018/duel-a-thon/) for more information and [Top Player Council](/top-player-council/) insight!
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-09.jpg)
 
 ---
 
