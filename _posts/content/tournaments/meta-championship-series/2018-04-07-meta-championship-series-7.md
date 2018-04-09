@@ -50,7 +50,7 @@ pinned: true
 | FrozenKingK0 | 100 |
 | H E A R T | 100 |
 | MLM Man LM | 100 |
-| SirDilweed | 100 |
+| SirDillweed | 100 |
 | Mellow | 100 |
 
 ---
