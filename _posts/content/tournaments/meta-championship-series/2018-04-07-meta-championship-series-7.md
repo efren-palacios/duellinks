@@ -65,6 +65,20 @@ pinned: true
 ***Side deck:***
 [deck](Sphere Kuriboh; Hey, Trunade!; Forbidden Chalice;Enemy Controller;Acid Rain) 
 
+<br>
+
+### Notes from the MCS VII Champion:  
+Not much to say, really great tournament thanks for organanizing again!  
+I really like that it was 1 day instead of 2.  
+I was really surprised by the two High Potential decks the TPC chose ended up being the most played.  
+Geargia plus {Ties of the Brethren} was really strong but I didn't want to play the mirror match and sometimes the Sylvan matchup can blow you out.  Just like {Abyss Soldier}, {Mask Change} helps you play through a bunch of back row and set up OTK.  
+That combined with {Destiny HERO - Celestial} drawing two, you go through the deck fast and see the Mask Changes quickly.  
+It's going to be an interesting KC Cup Meta!  
+Shout out to flamer boyz, my main testing partners which includes whilipino, elvisbeback, regtrainer1, and acemvs.  
+Finally, a shout out to my Team Wars team Murder Inc. We are going to win this season!
+
+<br>
+
 ---
 
 #### ​2nd Place - ShinySopheon

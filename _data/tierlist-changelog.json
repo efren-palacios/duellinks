@@ -6,6 +6,11 @@
     },
     "tier-changes": 
     [
+        { "type": "cyber-angels", "from": 2, "to": 3, "date": 2018-04-09 },
+        { "type": "destiny-heroes", "from": 3, "to": "nothing", "date": 2018-04-09 },
+        { "type": "fishes", "from": 2, "to": "nothing", "date": 2018-04-09 },
+        { "type": "geargias", "from": "nothing", "to": 1, "date": 2018-04-09 },
+        { "type": "masked-heroes", "from": "nothing", "to": 1, "date": 2018-04-09 },
         { "type": "archfiends", "from": "nothing", "to": 3, "date": 2018-04-02 },
         { "type": "dinos", "from": 3, "to": "nothing", "date": 2018-04-02 },
         { "type": "fishes", "from": 2, "to": 3, "date": 2018-04-02 },
