@@ -2,7 +2,7 @@
 layout: blog
 title: Top Players
 author: Dkayed
-image: /img/pages/discord/tpc1.jpg
+image: /img/pages/top-players/tpc1.jpg
 category: page
 sub-category: main
 order: 4
@@ -10,12 +10,12 @@ comments: false
 date: 2018-04-01 01:30:00 -0600
 description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
-permalink: /discord/
+permalink: /top-players/
 ---
 
 
 <a href="#topladder"> 
-![Top Player Ladder](/img/pages/discord/banner-top-player-ladder.png)
+![Top Player Ladder](/img/pages/top-players/banner-top-player-ladder.png)
 </a>
 
 <hr style="border-color: #B5B5B5;">
@@ -147,6 +147,6 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 * Top 100 = 10 points
 
 --------
-Check out the [Season 1 Top Player Ladder](/top-player-council/season-1/)
+Check out the [Season 1 Top Player Ladder](/top-players/season-1/)
 
 <hr style="border-color: #B5B5B5;">

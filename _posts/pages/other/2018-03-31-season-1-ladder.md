@@ -8,7 +8,7 @@ date: 2018-01-01
 comments: false
 description: These are the Duel Links Meta Top Player Council members. They are the core of everything that concerns the meta of Yu-Gi-Oh! Duel Links.
 keywords: top player council, top players, council, best player, best players
-permalink: /top-player-council/season-1/
+permalink: /top-players/season-1/
 hide: true
 ---
 
