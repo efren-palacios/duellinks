@@ -20,11 +20,20 @@ permalink: /box-reviews/valiant-souls/
 - [Card List](#card-list)
 - [Top Player Council - Post Release Updates](#tpc)
 - [Top Player Council Thoughts: First Impressions](#tpc2)
-    - ['What are the new deck types to look out for and the best cards for those deck types?'](#q1)
-    - ['Which cards do you think are absolutely needed?'](#q2)
-    - ['Which cards do you think are maybe needed in some decks?'](#q3)
-    - ['Which cards do you think have future potential?'](#q4)
-    - ['Is there anything else you'd like to say?'](#q5)
+    - ["What are the new deck types to look out for and the best cards for those deck types?"](#q1)
+    - ["Which cards do you think are absolutely needed?"](#q2)
+    - ["Which cards do you think are maybe needed in some decks?"](#q3)
+    - ["Which cards do you think have future potential?"](#q4)
+    - ["Is there anything else you'd like to say?"](#q5)
+
+---
+
+This is the 11th Main Box, it was released on April 2nd. 
+
+<!-- ADD AFTER TIER LIST IS UPDATED:
+The release of this Box created the following deck types:
+{% include deck-type-list.html deck-types='masked-heroes;geargia' %}
+-->  
 
 ### Card List
 
@@ -148,7 +157,7 @@ I didn't test other decks as I'm too busy at the moment, I wont even have time f
 ### Top Player Council - First Impressions
 
 <a name="q1"></a>
-#### 'What are the new deck types to look out for and the best cards for those deck types?'
+#### "What are the new deck types to look out for and the best cards for those deck types?"
 
 <br>
 
@@ -247,7 +256,7 @@ Hieratic
 
 ---
 <a name="q2"></a>
-#### 'Which cards do you think are absolutely needed?'
+#### "Which cards do you think are absolutely needed?"
 
 <br>
 
@@ -293,7 +302,7 @@ Hieratic
 
 ---
 <a name="q3"></a>
-#### 'Which cards do you think are maybe needed in some decks?'
+#### "Which cards do you think are maybe needed in some decks?"
 
 <br>
 
@@ -342,7 +351,7 @@ Hieratic
 
 ---
 <a name="q4"></a>
-#### 'Which cards do you think have future potential?' 
+#### "Which cards do you think have future potential?"
 
 <br>
 
@@ -406,7 +415,7 @@ Hieratic
 
 ---
 <a name="q5"></a>
-#### 'Is there anything else you'd like to say?'
+#### "Is there anything else you'd like to say?"
 
 <br>
 
