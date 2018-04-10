@@ -4,9 +4,10 @@ date: 2018-03-24
 title: Introduction to Hazy Flame
 author: Superforms
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: hazy-flame
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Hazy Flame deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: hazy flame, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

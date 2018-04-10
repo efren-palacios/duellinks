@@ -4,9 +4,10 @@ date: 2018-02-09
 title: Introduction to Temple Burn
 author: Hextor
 has-profile: false
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: temple-burn
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Temple Burn deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: temple burn, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

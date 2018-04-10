@@ -4,9 +4,10 @@ date: 2018-01-23
 title: Introduction to Ancient Gears
 author: MrHadouken
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: ancient-gears
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Ancient Gears deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: ancient gears, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

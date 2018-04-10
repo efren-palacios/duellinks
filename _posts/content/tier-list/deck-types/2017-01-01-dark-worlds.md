@@ -4,9 +4,10 @@ date: 2018-01-21
 title: Introduction to Dark Worlds
 author: GiaJoestar
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: dark-worlds
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Dark Worlds deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: dark worlds, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

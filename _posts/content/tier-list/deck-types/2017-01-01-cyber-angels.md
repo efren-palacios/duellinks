@@ -4,9 +4,10 @@ date: 2018-01-27
 title: Introduction to Cyber Angels
 author: Negative1
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: cyber-angels
+image: /img/content/tier-list/deck-types/cyber-angels.jpg
 comments: false
 description: A quick introduction to the Cyber Angels deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: cyber angels, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

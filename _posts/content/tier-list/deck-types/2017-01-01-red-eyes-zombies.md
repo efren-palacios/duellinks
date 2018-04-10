@@ -4,9 +4,10 @@ date: 2018-03-24
 title: Introduction to Red-Eyes Zombies
 author: Cpt. Insano
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: red-eyes-zombies
+image: /img/content/tier-list/deck-types/red-eyes-zombies.jpg
 comments: false
 description: A quick introduction to the Red-Eyes Zombies deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: red-eyes zombies, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
