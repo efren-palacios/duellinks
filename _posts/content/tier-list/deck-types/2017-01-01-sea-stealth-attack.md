@@ -4,9 +4,10 @@ date: 2018-03-26
 title: Introduction to Sea Stealth Attack
 author: Dkayed
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: sea-stealth-attack
+image: /img/content/tier-list/deck-types/sea-stealth-attack.jpg
 comments: false
 description: A quick introduction to the Sea Stealth Attack deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: sea stealth attack, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

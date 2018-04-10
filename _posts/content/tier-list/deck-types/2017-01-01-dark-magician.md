@@ -4,9 +4,10 @@ date: 2018-01-21
 title: Introduction to Dark Magician
 author: Kayoh
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: dark-magician
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Dark Magician deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: dark magician, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

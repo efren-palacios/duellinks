@@ -4,9 +4,10 @@ date: 2018-02-09
 title: Introduction to Snipe Hunter
 author: Tutpup
 has-profile: false
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: snipe-hunter
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Snipe Hunter deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: snipe hunter, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

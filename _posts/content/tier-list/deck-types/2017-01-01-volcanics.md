@@ -4,9 +4,10 @@ date: 2018-01-23
 title: Introduction to Volcanics
 author: Whybona
 has-profile: false
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: volcanics
+image: /img/content/tier-list/deck-types/default.jpg
 comments: false
 description: A quick introduction to the Volcanics deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: volcanics, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos

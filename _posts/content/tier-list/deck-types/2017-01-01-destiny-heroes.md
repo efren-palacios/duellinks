@@ -4,9 +4,10 @@ date: 2018-04-02
 title: Introduction to Destiny Heroes
 author: Dkayed
 has-profile: true
-category: page
+category: tier-list
 sub-category: deck-type
 deck-type: destiny-heroes
+image: /img/content/tier-list/deck-types/destiny-heroes.jpg
 comments: false
 description: A quick introduction to the Destiny Heroes deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: destiny heroes, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
