@@ -5,9 +5,9 @@
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "sylvans",                 "display": "Sylvans",              "card": "Sylvan Komushroomo" },            
+            { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },     
-            { "id": "geargia",                  "display": "Geargia",               "card": "Geargiattacker" }
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
         ] 
     },
     {
