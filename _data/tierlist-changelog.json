@@ -1,11 +1,12 @@
 {
     "game-changes":
     {
-        "date": 2018-04-02,
-        "description": "The new box (Valiant Souls) released today. The Archfiend resurgence is the latest Deck to impact on the meta."
+        "date": 2018-04-09,
+        "description": "The new box (Valiant Souls) is out. The Geargia and Masked HERO archetypes are shaking up the meta."
     },
     "tier-changes": 
     [
+        { "type": "sea-stealth-attack", "from": 1, "to": 2, "date": 2018-04-09 },
         { "type": "cyber-angels", "from": 2, "to": 3, "date": 2018-04-09 },
         { "type": "destiny-heroes", "from": 3, "to": "nothing", "date": 2018-04-09 },
         { "type": "fishes", "from": 2, "to": "nothing", "date": 2018-04-09 },
