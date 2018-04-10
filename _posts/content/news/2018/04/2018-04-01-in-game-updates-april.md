@@ -1,19 +1,21 @@
 ---
 layout: blog
-title: In-Game Updates (7) - April 9
+title: In-Game Updates (8) - April 10
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-09 11:00:00 +0100
+date: 2018-04-10 10:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance   
+keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky   
 permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 10th (Update 8)](#80)
+    - [Card Flipper Campaign](#81)
 - [April 9th (Update 7)](#70)
     - [Event: "Duel-A-Thon"](#71)
 - [April 6th (Update 6)](#60)
@@ -33,6 +35,20 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="80"></a>
+## April 10th (Update 8)
+
+<br>
+
+<a name="81"></a>
+### Card Flipper Campaign
+
+The new card reward this time round is {That Wacky Alchemy!}, read what the [Top Player Council](/top-player-council/) have to say about it in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article! {Chow Len the Prophet} has also returned.
+
+[slider](/img/content/news/2018/04/in-game-updates/slider-10.jpg)
 
 ---
 
