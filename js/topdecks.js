@@ -21,6 +21,7 @@ function InitializeTopDecksViewModel()
             activeDeckType: ko.observable(""),
             activeSkill: ko.observable(""),
             councilFilterActive: ko.observable(false),
+            deckTypesTotal: ko.observable(0),
 
             defaultDecks: [],
             filteredDecksByType: [],
@@ -280,6 +281,7 @@ function GetTopDecks()
             });
 
             var totalDecks = TopDecksViewModel.defaultDecks.length;
+            TopDecksViewModel.deckTypesTotal(totalDecks);
 
             $.each(data, function(index, decktype)
             {
