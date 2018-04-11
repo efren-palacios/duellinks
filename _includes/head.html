@@ -1,6 +1,6 @@
 <head>
 
-    {% include google-analytics.html %}
+    {% include header-scripts.html %}
 
     {% if page.title != null and page.title != "" %}
         {% assign title = page.title %}
@@ -67,14 +67,5 @@
             <link rel="stylesheet" href="/css/{{style}}">
         {% endfor%}
     {% endif %}
-
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-6240311116200484",
-            enable_page_level_ads: true
-        });
-    </script>
-
-    <script src="/js/headerScript.js"></script>
+    
 </head>
