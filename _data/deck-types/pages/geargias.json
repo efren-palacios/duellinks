@@ -1,0 +1,241 @@
+{
+    "deck-type": "Geargias",
+    "created-by": "Brenduke",
+    "modified-by": "Brenduke",
+    "modified-on": "2018-04-10",
+    "profile": "",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Geargias are a recent addition to the game which was added in the Valiant Souls main box. The deck revolves around monsters which can flip themselves face down and have very powerful non-targeting destruction effects when flipped face up. The box brought a complete monster core which can either be played as a control deck reminiscent to that of Gladiator Beasts or can be played with Ties of the Brethren to become one of the most powerful and consistent OTK decks Duel Links has seen to date. Since all the monsters are Machine type, the deck has access to a wide range of tech options. The most relevant being Pulse Mines which is arguably the strongest defensive backrow card in the game. The decks strategy revolves around flipping your monsters face down and then flipping them face up. Geargiattacker destroys spell and trap cards while Geargianchor destroys monsters. Both of these cards do not target and instead you select cards to destroy at resolution. This means the opponent is forced to chain their backrow to our monster effects before we select targets. This also means we can destroy untargettable cards like Citadel Whale and Hazy Flame Sphinx. Because the effect counts the number of other Geargia at resolution you will need to have ways to build a field and protect your monsters. Thankfully, we have numerous options to do that between Ties of the Brethren, Powerful Rebirth and the non-core Geargia monsters to a lesser extent. Like Gladiator Beasts, the decks engine is its monster core which is ran at between 6 and 9 depending what version you use. Therefore, the deck has a lot of versatility and tech spaces to adapt to future meta changes. Because of this and the fact that the monster core only requires two copies of a super rare Geargia are a safe investment going forward. The version of the deck which uses Ties of the Brethren and cards such as Desert Sunlight is particularly powerful because there is very counter play available when the deck goes first. For example, the Geargia player can flip their monsters face down to avoid System Down and using Lava Golem without any form of protection gives them a 3000 attack monster while they still have a 1700 monster and a normal summon. Additionally, Ghostrick Scare and Desert Sunlight lets the deck play around Gravity Axe – Grarl and floodgate trap hole. Finally, decks such as Masked Heroes are beginning to use Fire Formation - Gyokkou but this deck can afford to use Pulse Mines in the draw phase since you will be using the Mines anyway. This makes the deck very impressive going first and a significant threat on the ladder and in tournament play which you will need to side for, though the best side deck card has yet to be determined."
+                }
+                   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "ShinySopheon did an amazing job getting second place in MCS VII with a Restart version of the deck which was built to abuse Ties of the Brethren to its fullest. Using the Restart build let ShinySopheon have a statistically higher chance of opening with Ties of the Bretheren in the opening hand and when that doesn’t happen getting Powerful Rebirth becomes quite high. The deck also runs a higher trap count and lower monster count which is generally not advisable for Balance builds. By maxing out on Ties and running two copies of Rebirth Shiny had a good chance to open with either after Restart. Shiny also sided for the Sylvan and mirror; the only two matchups this deck can struggle with when it opens moderately well. "
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Restart",
+                        "main":
+                        [
+                            { "name": "Geargiattacker", "amount": "2" },
+                            { "name": "Geargianchor", "amount": "3" },
+                            { "name": "Geargiarsenal", "amount": "2" },
+                            { "name": "Ties of the Brethren", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "2" },
+                            { "name": "Powerful Rebirth", "amount": "2" },
+                            { "name": "Pulse Mines", "amount": "3" },
+                            { "name": "Desert Sunlight", "amount": "2" },
+                            { "name": "Curse of Anubis", "amount": "1" }
+                        ]                
+                    }
+                },
+                { 
+                    "deck":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Needle Ceiling", "amount": "2" },
+                            { "name": "Different Dimension Ground", "amount": "2" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "The second variant of the deck leaves out Ties of the Brethren and goes a pure control route. The deck is significantly less powerful but it is also more consistent and has more spots for tech cards. The fact that SirDillweed made top 4 and Brenduke and Luke Tyler both went 6-1 in swiss before getting knocked out in top 32 proves that the non-ties version of the deck remains a powerful deck and a threat in tournament play. Below is SirDillweed’s top four deck which he also used to win the Meta Weekly. The triple Chalice was for the Sylvan matchup, which is the only matchup the non-ties variant struggles with. The non-ties Geargia can have the upper hand in the mirror match because it has more space to add cards to disrupt the Ties of the Brethren play such as Forbidden Chalice, Enemy Controller and Paleozoic Canadia."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Balance",
+                        "main":
+                        [
+                            { "name": "Geargiattacker", "amount": "3" },
+                            { "name": "Geargianchor", "amount": "3" },
+                            { "name": "Geargiarsenal", "amount": "3" },
+                            { "name": "Forbidden Chalice", "amount": "3" },
+                            { "name": "Enemy Controller", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "3" },
+                            { "name": "Pulse Mines", "amount": "3" }
+                        ]                
+                    }
+                },{ 
+                    "deck":
+                    {
+                        "main":
+                        [
+                            { "name": "Super Rush Headlong", "amount": "3" },
+                            { "name": "Memory Loss", "amount": "2" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards Ties of the Brethren Build",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Geargiattacker", "amount": "2" },
+                            { "name": "Geargianchor", "amount": "3" },
+                            { "name": "Geargiarsenal", "amount": "2" },
+                            { "name": "Ties of the Brethren", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "2" },
+                            { "name": "Pulse Mines", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Core Cards Non-Ties Build",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Geargiattacker", "amount": "2" },
+                            { "name": "Geargianchor", "amount": "3" },
+                            { "name": "Geargiarsenal", "amount": "3" },
+                            { "name": "Powerful Rebirth", "amount": "3" },
+                            { "name": "Pulse Mines", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Geargiaccelerator" },
+                            { "name": "Scrap Recycler" },
+                            { "name": "Forbidden Chalice" },
+                            { "name": "Enemy controller" },
+                            { "name": "Super Rush Headlong" },
+                            { "name": "Gravity blaster" },
+                            { "name": "Curse of Anubis" },
+                            { "name": "Desert Sunlight" },
+                            { "name": "Ghostrick Scare" },
+                            { "name": "Windstorm of Etaqua" },
+                            { "name": "Needle Ceiling" },
+                            { "name": "Memory Loss" },
+                            { "name": "Paleozoic Canadia" },
+                            { "name": "Floodgate Trap Hole" },
+                            { "name": "Wall of Disruption" },
+                            { "name": "Divine Wrath" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": "The Ties build has four tech spots and the non-ties build has six tech spots. Below these techs will be discussed in detail."
+                },
+                {
+                    "paragraph": "Other Info:"
+                },
+                {
+                    "paragraph": "Enemy Controller has some interesting interactions in the mirror match. Firstly, outside the mirror match ECon take in response to Ties of the Brethren will make it fizzle out and not summon any monsters. However, in the mirror match it does not fizzle out because the opponent has valid targets in their deck. The second interesting interaction is that because Geargiattacker and Geargianchor count the number of other Geargia at resolution you can tribute the flipped up monster to take an opponent’s Geargia and it will count the stolen Geargia as one other one. This lets you destroy three cards with Anchor and Attacker."
+                },
+                {
+                    "paragraph": "Due to the wording of Geargiattacker, it can miss the timing to use its effect in situations where Desert Sunlight or Ghostick Scare is not chain-link one."
+                },
+                {
+                    "paragraph": "Ghostrick Scare is strictly better than Desert Sunlight for two reasons. Firstly, you can choose the order in which effects activates (The second monster you choose to flip up will activate first) and you can also choose to only flip up one monster which can let you play around System Down and Needle Ceiling better."
+                },
+                {
+                    "paragraph": "When Desert Sunlight is activated the order in which effects activate is from left to right on your board so it is important to place monsters correctly so that Anchor actives before Attacker to play around Divine Wrath and Ultimate Providence since those negation traps will always negate the last monster effect in the chain. Therefore, in this situation Attacker would be negated and Anchor would still destroy a monster."
+                },
+                {
+                    "paragraph": "You cannot flip up a Geargia the turn it is summoned but you can on the turn it is not summoned. Therefore, it is good to use Powerful Rebirth in the end phase so that you can flip-flop your monsters in your turn."
+                },
+                {
+                    "paragraph": "Against decks which use Fire Formation - Gyokkou it may be wise to activate Pulse Mines in the draw phase. Watch out for this card in Masked Heroes and Dinosaurs!"
+                },
+                {
+                    "paragraph": "In the mirror match; After your opponent’s Ties of the Brethren has resolved you can destroy their board with a Needle Ceiling before they flip an monsters face down by setting toggle to on. You can also use this to counter the deck if using a different deck."
+                },
+                {
+                    "paragraph": "Because the number of other Geargia monsters is counted at resolution, removing those other monsters or flipping them face down can act pseudo effect negation."
+                },
+                {
+                    "paragraph": "Be cautious when activating Geargianchor’s effect against Sea Stealth Attack when they only have one monster. Because the effect does not target you could be forced to destroy one of your own monsters if their monster is not on the field anymore."
+                },
+                {
+                    "paragraph": "Geargiattacker and Geargianchor do not target. Therefore, you can destroy Hazy Flame monsters and Citadel Whale without any worries."
+                },
+                {
+                    "paragraph": "It is almost always better to activate the effect of Geargiattacker before Geargianchor to force the use of, or destroy effect negation backrow cards and things like Red-Eyes Spirit/Powerful Rebirth."
+                },
+                {
+                    "paragraph": "Against decks which often main deck counter trap negation such as Sylvan I like to summon the second Geargia before flipping face down or up to check prompts. If there is no prompt it is less likely to be a card such as Divine Wrath unless the opponent toggles to off. Elsewhere, you may wish to set your monster face down before a normal summon to scout out backrow. "
+                },
+                {
+                    "paragraph": "In a tournament format, people may side cards like System Down and Needle Ceiling. It is important in game 2 and 3 to flip-flop around these cards to ensure the impact the have on the match is kept to a minimum."
+                },
+                {
+                    "paragraph": "Good cards against this deck include: Gravity Axe – Grarl, Needle Ceiling, System Down, Lava Golem, Fire Formation - Gyokkou, Forbidden Chalice, Forbidden Dress, Floodgate Trap Hole, Enemy Controller and Paleozoic Canadia."
+                }          
+            ]
+        }
+    ],
+    "guides": 
+    [
+        "/guides/deck-types/geargia-guide-intro-by-brenduke/"
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=CErADZh8c14",
+        "https://www.youtube.com/watch?v=k0Gt45LDwSI"
+    ]
+}

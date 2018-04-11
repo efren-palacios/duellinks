@@ -1,0 +1,143 @@
+{
+    "deck-type": "Masked Heroes",
+    "created-by": "Jonesy9027",
+    "modified-by": "Jonesy9027",
+    "modified-on": "2018-04-10",
+    "profile": "",
+    "sections":
+    [
+        {
+            "title": "Overview",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Masked Heroes is an archetype released in the Valiant Souls Main Box. While several Masked HERO monsters were released, Masked HERO Anki is by far the best based on his effect, stats and attribute. By sending a HERO monster you control to the graveyard, Mask Change allows you to special summon a Masked HERO monster with the same attribute from your extra deck. When Anki destroys a monster, he can search for any \"Change\" Quick-Play spell. This Quick-Play effect allows you to activate in the Battle Phase. You can attack with your Destiny HERO monster, use Mask Change, attack with Masked HERO Anki, (if Anki destroys a monster) search for another Mask Change, activate Mask Change AGAIN to special summon another Anki and attack again. This combo is very reminiscent of the attack potential of Black Dragon Ninja with half the cost. With his 2800 atk, combined with his ability to attack directly for halved damage, Anki reaches several key thresholds that set up a quick OTK. Since Mask Change is a Quick-Play spell and does not limit itself to once per turn, you can easily clear your opponents entire field of monsters in one turn effectively killing any momentum."
+                }
+                   
+            ]
+        },
+        {
+            "title": "Sample Deck",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "paragraph": "Below you can find your MCS VII Champions Masked HERO deck."
+                },
+                { 
+                    "deck":
+                    {
+                        "skill": "Restart",
+                        "main":
+                        [
+                            { "name": "Destiny HERO - Malicious", "amount": "2" },
+                            { "name": "Destiny HERO - Decider", "amount": "2" },
+                            { "name": "Destiny HERO - Celestial", "amount": "3" },
+                            { "name": "Vision HERO Vyon", "amount": "3" },
+                            { "name": "Destiny HERO - Dreamer", "amount": "1" },
+                            { "name": "Cosmic Cyclone", "amount": "2" },
+                            { "name": "Mask Change", "amount": "3" },
+                            { "name": "Forbidden Chalice", "amount": "2" },
+                            { "name": "Destiny Draw", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Polymerization", "amount": "1" }
+                        ]                
+                    }
+                },
+                { 
+                    "deck":
+                    {
+                        "main":
+                        [
+                            { "name": "Masked HERO Anki", "amount": "3" },
+                            { "name": "Destiny HERO - Dangerous", "amount": "1" },
+                            { "name": "Vision HERO Trinity", "amount": "1" }
+                        ]                
+                    }
+                },
+                { 
+                    "deck":
+                    {
+                        "main":
+                        [
+                            { "name": "Sphere Kuriboh", "amount": "1" },
+                            { "name": "Hey, Trunade!", "amount": "1" },
+                            { "name": "Enemy Controller", "amount": "1" },
+                            { "name": "Forbidden Chalice", "amount": "1" },
+                            { "name": "Acid Rain", "amount": "1" }
+                        ]                
+                    }
+                },
+                {
+                    "paragraph": "This archetype is still being refined and before long the ideal build will emerge. The explosive power of this deck has allowed it to quickly run over the meta. Its ability to hold its own against Sylvans has allowed Masked Heroes to quickly establish itself as a Top Tier Deck. The relatively small Core section of this deck allows for several tech options to continually create a favorable matchup against new decktypes as the meta shifts."
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        },
+        {
+            "title": "Core Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Destiny HERO - Decider", "amount": "2" },
+                            { "name": "Destiny HERO - Celestial", "amount": "3" },
+                            { "name": "Mask Change", "amount": "3" },
+                            { "name": "Masked HERO Anki", "amount": "3" }
+                        ]
+                    }            
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }            
+            ]
+        },
+        {
+            "title": "Tech Cards",
+            "level": 1,
+            "blocks":
+            [
+                {
+                    "box":
+                    {
+                        "main":
+                        [
+                            { "name": "Enemy controller" },
+                            { "name": "Cosmic Cyclone" },
+                            { "name": "Forbidden Chalice" },
+                            { "name": "Hey, Trunade!" }
+                        ]
+                    }       
+                },
+                {
+                    "paragraph": ""
+                },
+                {
+                    "paragraph": ""
+                }           
+            ]
+        }
+    ],
+    "guides": 
+    [
+        "/guides/deck-types/masked-hero-guide-intro-by-kazaarus/"
+    ],
+    "videos": 
+    [
+        "https://www.youtube.com/watch?v=awVhwiPkXIs&t=611s",
+        "https://www.youtube.com/watch?v=SpsKPaUNpB0&t=1s"
+    ]
+}
