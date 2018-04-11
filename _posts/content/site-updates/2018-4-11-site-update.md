@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Site Updates - April 11
+title: Website Updates - April 11
 author: unpreceden7ed
 image: /img/content/news/thumbnail.png
 category: news
@@ -16,11 +16,15 @@ permalink: /news/2018-04-11/site-updates/
 #### The following changes have been made to the site:
 * Playtester works on mobile devices
 * Total deck count has been added to the [Top Decks stats section](/top-decks/#stats)
-* Decks of previous members of the Top Player Council (TPC) have updated to be reflected with the TPC filter from [December 2017](/top-decks/december-2017/) - [March 2018](/top-decks/march-2018/).
+* Decks of previous members of the Top Player Council (TPC) have been updated to be reflected with the TPC filter from [December 2017](/top-decks/december-2017/) - [March 2018](/top-decks/march-2018/).
 * Starter deck information has begun to be added for the _How to Obtain_ section of a card popup (i.e. {Rainbow Dragon} from Jesse Anderson's starter deck)
 * Author pages have been updated 
 * Comments have been enabled
-* Numerous bug fixes   
+* Card popups now work again on deck type pages
+* The card {Return} displays correctly
+* Mutiple sliders on a page work correctly
+
+
 
 
 
