@@ -2,7 +2,7 @@
 layout: blog
 title: Site Updates - April 11
 author: unpreceden7ed
-image: /img/content/tier-list/deck-types/default.jpg
+image: /img/content/news/thumbnail.png
 category: news
 date: 2018-04-11
 comments: true
