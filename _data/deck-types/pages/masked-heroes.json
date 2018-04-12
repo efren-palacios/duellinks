@@ -56,19 +56,6 @@
                         ]                
                     }
                 },
-                { 
-                    "deck":
-                    {
-                        "main":
-                        [
-                            { "name": "Sphere Kuriboh", "amount": "1" },
-                            { "name": "Hey, Trunade!", "amount": "1" },
-                            { "name": "Enemy Controller", "amount": "1" },
-                            { "name": "Forbidden Chalice", "amount": "1" },
-                            { "name": "Acid Rain", "amount": "1" }
-                        ]                
-                    }
-                },
                 {
                     "paragraph": "This archetype is still being refined and before long the ideal build will emerge. The explosive power of this deck has allowed it to quickly run over the meta. Its ability to hold its own against Sylvans has allowed Masked Heroes to quickly establish itself as a Top Tier Deck. The relatively small Core section of this deck allows for several tech options to continually create a favorable matchup against new decktypes as the meta shifts."
                 },
@@ -118,6 +105,8 @@
                             { "name": "Enemy controller" },
                             { "name": "Cosmic Cyclone" },
                             { "name": "Forbidden Chalice" },
+                            { "name": "Sphere Kuriboh" },
+                            { "name": "Acid Rain" },
                             { "name": "Hey, Trunade!" }
                         ]
                     }       
