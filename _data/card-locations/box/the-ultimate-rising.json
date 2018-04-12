@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Sonic Bird",
+        "rarity": "UR"
+    },
+    {
+        "name": "Summoner of Illusions",
+        "rarity": "UR"
+    },
+    {
+        "name": "Hane-Hane",
+        "rarity": "UR"
+    },
+    {
+        "name": "Sphere Kuriboh",
+        "rarity": "UR"
+    },
+    {
+        "name": "Axe Raider",
+        "rarity": "UR"
+    },
+    {
+        "name": "Blue-Eyes Ultimate Dragon",
+        "rarity": "UR"
+    },
+    {
+        "name": "Autonomous Action Unit",
+        "rarity": "UR"
+    },
+    {
+        "name": "Fusion Gate",
+        "rarity": "UR"
+    },
+    {
+        "name": "Magic Jammer",
+        "rarity": "UR"
+    },
+    {
+        "name": "Magical Arm Shield",
+        "rarity": "UR"
+    },
+    {
+        "name": "The Hunter with 7 Weapons",
+        "rarity": "SR"
+    },
+    {
+        "name": "4-Starred Ladybug of Doom",
+        "rarity": "SR"
+    },
+    {
+        "name": "Judge Man",
+        "rarity": "SR"
+    },
+    {
+        "name": "Wonder Balloons",
+        "rarity": "SR"
+    },
+    {
+        "name": "Shard of Greed",
+        "rarity": "SR"
+    },
+    {
+        "name": "Twister",
+        "rarity": "SR"
+    },
+    {
+        "name": "Order to Charge",
+        "rarity": "SR"
+    },
+    {
+        "name": "Wicked-Breaking Flamberge - Baou",
+        "rarity": "SR"
+    },
+    {
+        "name": "Makiu, the Magical Mist",
+        "rarity": "SR"
+    },
+    {
+        "name": "Mask of the Accursed",
+        "rarity": "SR"
+    },
+    {
+        "name": "Magical Hats",
+        "rarity": "SR"
+    },
+    {
+        "name": "Reinforcements",
+        "rarity": "SR"
+    },
+    {
+        "name": "Crab Turtle",
+        "rarity": "R"
+    },
+    {
+        "name": "Divine Dragon - Excelion",
+        "rarity": "R"
+    },
+    {
+        "name": "Vylon Ohm",
+        "rarity": "R"
+    },
+    {
+        "name": "Crass Clown",
+        "rarity": "R"
+    },
+    {
+        "name": "Lyna the Light Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Dharc the Dark Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Wynn the Wind Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Hiita the Fire Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Eria the Water Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Aussa the Earth Charmer",
+        "rarity": "R"
+    },
+    {
+        "name": "Karate Man",
+        "rarity": "R"
+    },
+    {
+        "name": "Dream Clown",
+        "rarity": "R"
+    },
+    {
+        "name": "Skelengel",
+        "rarity": "R"
+    },
+    {
+        "name": "Muka Muka",
+        "rarity": "R"
+    },
+    {
+        "name": "Cat's Ear Tribe",
+        "rarity": "R"
+    },
+    {
+        "name": "Skull Red Bird",
+        "rarity": "R"
+    },
+    {
+        "name": "Dragon Zombie",
+        "rarity": "R"
+    },
+    {
+        "name": "Bickuribox",
+        "rarity": "R"
+    },
+    {
+        "name": "Crimson Sunbird",
+        "rarity": "R"
+    },
+    {
+        "name": "White Elephant's Gift",
+        "rarity": "R"
+    },
+    {
+        "name": "Fulfillment of the Contract",
+        "rarity": "R"
+    },
+    {
+        "name": "Earthquake",
+        "rarity": "R"
+    },
+    {
+        "name": "Twin Swords of Flashing Light - Tryce",
+        "rarity": "R"
+    },
+    {
+        "name": "Mask of Dispel",
+        "rarity": "R"
+    },
+    {
+        "name": "Book of Secret Arts",
+        "rarity": "R"
+    },
+    {
+        "name": "Sword of Dark Destruction",
+        "rarity": "R"
+    },
+    {
+        "name": "Trap Jammer",
+        "rarity": "R"
+    },
+    {
+        "name": "Staunch Defender",
+        "rarity": "R"
+    },
+    {
+        "name": "Curse of Aging",
+        "rarity": "R"
+    },
+    {
+        "name": "Ready for Intercepting",
+        "rarity": "R"
+    },
+    {
+        "name": "Judgment of Anubis",
+        "rarity": "R"
+    },
+    {
+        "name": "Backup Soldier",
+        "rarity": "R"
+    },
+    {
+        "name": "Fortress Whale",
+        "rarity": "N"
+    },
+    {
+        "name": "Skull Guardian",
+        "rarity": "N"
+    },
+    {
+        "name": "Guardian Tryce",
+        "rarity": "N"
+    },
+    {
+        "name": "Shadow Ghoul",
+        "rarity": "N"
+    },
+    {
+        "name": "Storming Wynn",
+        "rarity": "N"
+    },
+    {
+        "name": "Blazing Hiita",
+        "rarity": "N"
+    },
+    {
+        "name": "Raging Eria",
+        "rarity": "N"
+    },
+    {
+        "name": "Avalanching Aussa",
+        "rarity": "N"
+    },
+    {
+        "name": "Malice Ascendant",
+        "rarity": "N"
+    },
+    {
+        "name": "Element Doom",
+        "rarity": "N"
+    },
+    {
+        "name": "Element Magician",
+        "rarity": "N"
+    },
+    {
+        "name": "Element Soldier",
+        "rarity": "N"
+    },
+    {
+        "name": "Guardian Baou",
+        "rarity": "N"
+    },
+    {
+        "name": "Hourglass of Courage",
+        "rarity": "N"
+    },
+    {
+        "name": "Insect Soldiers of the Sky",
+        "rarity": "N"
+    },
+    {
+        "name": "Dark Cat with White Tail",
+        "rarity": "N"
+    },
+    {
+        "name": "Bite Shoes",
+        "rarity": "N"
+    },
+    {
+        "name": "Bladefly",
+        "rarity": "N"
+    },
+    {
+        "name": "Parasitic Ticky",
+        "rarity": "N"
+    },
+    {
+        "name": "King of Yamimakai",
+        "rarity": "N"
+    },
+    {
+        "name": "Faith Bird",
+        "rarity": "N"
+    },
+    {
+        "name": "The Snake Hair",
+        "rarity": "N"
+    },
+    {
+        "name": "Great Mammoth of Goldfine",
+        "rarity": "N"
+    },
+    {
+        "name": "Contact with the Aquamirror",
+        "rarity": "N"
+    },
+    {
+        "name": "Ritual Cage",
+        "rarity": "N"
+    },
+    {
+        "name": "Ascending Soul",
+        "rarity": "N"
+    },
+    {
+        "name": "Card Rotator",
+        "rarity": "N"
+    },
+    {
+        "name": "Tornado",
+        "rarity": "N"
+    },
+    {
+        "name": "Samsara",
+        "rarity": "N"
+    },
+    {
+        "name": "7",
+        "rarity": "N"
+    },
+    {
+        "name": "Gryphon's Feather Duster",
+        "rarity": "N"
+    },
+    {
+        "name": "Morale Boost",
+        "rarity": "N"
+    },
+    {
+        "name": "Rod of the Mind's Eye",
+        "rarity": "N"
+    },
+    {
+        "name": "Secret Pass to the Treasures",
+        "rarity": "N"
+    },
+    {
+        "name": "Restructer Revolution",
+        "rarity": "N"
+    },
+    {
+        "name": "Fortress Whale's Oath",
+        "rarity": "N"
+    },
+    {
+        "name": "Turtle Oath",
+        "rarity": "N"
+    },
+    {
+        "name": "Novox's Prayer",
+        "rarity": "N"
+    },
+    {
+        "name": "Conscription",
+        "rarity": "N"
+    },
+    {
+        "name": "Forced Ceasefire",
+        "rarity": "N"
+    },
+    {
+        "name": "The Spell Absorbing Life",
+        "rarity": "N"
+    },
+    {
+        "name": "Hidden Spellbook",
+        "rarity": "N"
+    },
+    {
+        "name": "Meteorain",
+        "rarity": "N"
+    },
+    {
+        "name": "Nutrient Z",
+        "rarity": "N"
+    },
+    {
+        "name": "Enchanted Javelin",
+        "rarity": "N"
+    },
+    {
+        "name": "Snake Fang",
+        "rarity": "N"
+    }
+]

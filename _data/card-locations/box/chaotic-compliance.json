@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Black Luster Soldier",
+        "rarity": "UR"
+    },
+    {
+        "name": "Phoenix Gearfried",
+        "rarity": "UR"
+    },
+    {
+        "name": "Gale Lizard",
+        "rarity": "UR"
+    },
+    {
+        "name": "Master of Oz",
+        "rarity": "UR"
+    },
+    {
+        "name": "Brain Research Lab",
+        "rarity": "UR"
+    },
+    {
+        "name": "Symbols of Duty",
+        "rarity": "UR"
+    },
+    {
+        "name": "Fusion Sage",
+        "rarity": "UR"
+    },
+    {
+        "name": "Eliminating the League",
+        "rarity": "UR"
+    },
+    {
+        "name": "Magic Drain",
+        "rarity": "UR"
+    },
+    {
+        "name": "Seven Tools of the Bandit",
+        "rarity": "UR"
+    },
+    {
+        "name": "Darkstorm Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Destructotron",
+        "rarity": "SR"
+    },
+    {
+        "name": "Skreech",
+        "rarity": "SR"
+    },
+    {
+        "name": "Des Kangaroo",
+        "rarity": "SR"
+    },
+    {
+        "name": "Superalloy Beast Raptinus",
+        "rarity": "SR"
+    },
+    {
+        "name": "Gateway to Chaos",
+        "rarity": "SR"
+    },
+    {
+        "name": "Fusion Substitute",
+        "rarity": "SR"
+    },
+    {
+        "name": "Sorcerous Spell Wall",
+        "rarity": "SR"
+    },
+    {
+        "name": "Double Summon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Branch!",
+        "rarity": "SR"
+    },
+    {
+        "name": "Monster Reincarnation",
+        "rarity": "SR"
+    },
+    {
+        "name": "Gemini Booster",
+        "rarity": "SR"
+    },
+    {
+        "name": "Zeta Reticulant",
+        "rarity": "R"
+    },
+    {
+        "name": "Dragonic Knight",
+        "rarity": "R"
+    },
+    {
+        "name": "Cyber Dinosaur",
+        "rarity": "R"
+    },
+    {
+        "name": "Puppet King",
+        "rarity": "R"
+    },
+    {
+        "name": "Maju Garzett",
+        "rarity": "R"
+    },
+    {
+        "name": "Escher the Frost Vassal",
+        "rarity": "R"
+    },
+    {
+        "name": "Skelesaurus",
+        "rarity": "R"
+    },
+    {
+        "name": "Minefieldriller",
+        "rarity": "R"
+    },
+    {
+        "name": "Genetic Woman",
+        "rarity": "R"
+    },
+    {
+        "name": "Telekinetic Shocker",
+        "rarity": "R"
+    },
+    {
+        "name": "Lekunga",
+        "rarity": "R"
+    },
+    {
+        "name": "Ghost Fairy Elfobia",
+        "rarity": "R"
+    },
+    {
+        "name": "DUCKER Mobile Cannon",
+        "rarity": "R"
+    },
+    {
+        "name": "Card Breaker",
+        "rarity": "R"
+    },
+    {
+        "name": "Babycerasaurus",
+        "rarity": "R"
+    },
+    {
+        "name": "Jowls of Dark Demise",
+        "rarity": "R"
+    },
+    {
+        "name": "Doctor Cranium",
+        "rarity": "R"
+    },
+    {
+        "name": "Crystal Seer",
+        "rarity": "R"
+    },
+    {
+        "name": "Outstanding Dog Marron",
+        "rarity": "R"
+    },
+    {
+        "name": "Big Koala",
+        "rarity": "R"
+    },
+    {
+        "name": "Luster Dragon #2",
+        "rarity": "R"
+    },
+    {
+        "name": "Master Kyonshee",
+        "rarity": "R"
+    },
+    {
+        "name": "Herculean Power",
+        "rarity": "R"
+    },
+    {
+        "name": "Chthonian Alliance",
+        "rarity": "R"
+    },
+    {
+        "name": "Earth Chant",
+        "rarity": "R"
+    },
+    {
+        "name": "Spell Absorption",
+        "rarity": "R"
+    },
+    {
+        "name": "Array of Revealing Light",
+        "rarity": "R"
+    },
+    {
+        "name": "Jar of Avarice",
+        "rarity": "R"
+    },
+    {
+        "name": "Seal of Wickedness",
+        "rarity": "R"
+    },
+    {
+        "name": "Seismic Shockwave",
+        "rarity": "R"
+    },
+    {
+        "name": "Weed Out",
+        "rarity": "R"
+    },
+    {
+        "name": "Assault on GHQ",
+        "rarity": "R"
+    },
+    {
+        "name": "Javelin Beetle",
+        "rarity": "N"
+    },
+    {
+        "name": "Super War-Lion",
+        "rarity": "N"
+    },
+    {
+        "name": "Storm Caller",
+        "rarity": "N"
+    },
+    {
+        "name": "Space-Time Police",
+        "rarity": "N"
+    },
+    {
+        "name": "Planet Pathfinder",
+        "rarity": "N"
+    },
+    {
+        "name": "Prometheus, King of the Shadows",
+        "rarity": "N"
+    },
+    {
+        "name": "Molten Zombie",
+        "rarity": "N"
+    },
+    {
+        "name": "Lady Assailant of Flames",
+        "rarity": "N"
+    },
+    {
+        "name": "Boar Soldier",
+        "rarity": "N"
+    },
+    {
+        "name": "Skystarray",
+        "rarity": "N"
+    },
+    {
+        "name": "Second Booster",
+        "rarity": "N"
+    },
+    {
+        "name": "Seismic Crasher",
+        "rarity": "N"
+    },
+    {
+        "name": "Stray Asmodian",
+        "rarity": "N"
+    },
+    {
+        "name": "Sasuke Samurai #3",
+        "rarity": "N"
+    },
+    {
+        "name": "Dragoroar",
+        "rarity": "N"
+    },
+    {
+        "name": "ESP Amplifier",
+        "rarity": "N"
+    },
+    {
+        "name": "Foolish Return",
+        "rarity": "N"
+    },
+    {
+        "name": "Tokkosho of Ghost Destroying",
+        "rarity": "N"
+    },
+    {
+        "name": "Psychic Path",
+        "rarity": "N"
+    },
+    {
+        "name": "Domino Effect",
+        "rarity": "N"
+    },
+    {
+        "name": "Light of Redemption",
+        "rarity": "N"
+    },
+    {
+        "name": "Gift of the Martyr",
+        "rarity": "N"
+    },
+    {
+        "name": "Poison Fangs",
+        "rarity": "N"
+    },
+    {
+        "name": "Malice Dispersion",
+        "rarity": "N"
+    },
+    {
+        "name": "Weapon Change",
+        "rarity": "N"
+    },
+    {
+        "name": "Gather Your Mind",
+        "rarity": "N"
+    },
+    {
+        "name": "Card Shuffle",
+        "rarity": "N"
+    },
+    {
+        "name": "Ring of Magnetism",
+        "rarity": "N"
+    },
+    {
+        "name": "Javelin Beetle Pact",
+        "rarity": "N"
+    },
+    {
+        "name": "War-Lion Ritual",
+        "rarity": "N"
+    },
+    {
+        "name": "Black Luster Ritual",
+        "rarity": "N"
+    },
+    {
+        "name": "Extinction on Schedule",
+        "rarity": "N"
+    },
+    {
+        "name": "Psychic Reactor",
+        "rarity": "N"
+    },
+    {
+        "name": "Machine King - 3000 B.C.",
+        "rarity": "N"
+    },
+    {
+        "name": "Slip Summon",
+        "rarity": "N"
+    },
+    {
+        "name": "Sanguine Swamp",
+        "rarity": "N"
+    },
+    {
+        "name": "Destruction Jammer",
+        "rarity": "N"
+    },
+    {
+        "name": "Hard-sellin' Zombie",
+        "rarity": "N"
+    },
+    {
+        "name": "Aegis of Gaia",
+        "rarity": "N"
+    },
+    {
+        "name": "Trojan Blast",
+        "rarity": "N"
+    },
+    {
+        "name": "Option Hunter",
+        "rarity": "N"
+    },
+    {
+        "name": "Generation Shift",
+        "rarity": "N"
+    },
+    {
+        "name": "Next to be Lost",
+        "rarity": "N"
+    },
+    {
+        "name": "Simultaneous Loss",
+        "rarity": "N"
+    },
+    {
+        "name": "Prepare to Strike Back",
+        "rarity": "N"
+    },
+    {
+        "name": "Disturbance Strategy",
+        "rarity": "N"
+    }
+]

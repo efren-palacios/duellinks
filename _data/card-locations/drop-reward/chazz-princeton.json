@@ -1,0 +1,46 @@
+[
+    { 
+		"name": "Ojama King", 
+		"rarity": "UR" 
+    },
+    { 
+		"name": "Despair from the Dark", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Armed Dragon LV5", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Ojama Blue", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Ojama Delta Hurricane!!", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Ojama Knight", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Gemini Imps", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Reborn Zombie", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Armed Dragon LV3", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Chthonian Polymer", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Over Capacity", 
+		"rarity": "R" 
+    }
+]

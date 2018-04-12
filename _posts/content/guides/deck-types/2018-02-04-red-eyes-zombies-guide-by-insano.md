@@ -88,14 +88,14 @@ XZH: {Xing Zhen Hu}
 
 [deck](Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Bacon Saver; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Spirit; Red-Eyes Spirit)
 
-* 2-3 [Red-Eyes Zombie Dragon]
-* 2-3 [Gozuki]
-* 2-3 [Samurai Skull]
-* 2 [Red-Eyes Spirit]
-* 2-3 [Red-Eyes Insight]
-* 0-1 [Red-Eyes Wyvern]
+* 2-3 {Red-Eyes Zombie Dragon}
+* 2-3 {Gozuki}
+* 2-3 {Samurai Skull}
+* 2 {Red-Eyes Spirit}
+* 2-3 {Red-Eyes Insight}
+* 0-1 {Red-Eyes Wyvern}
 
-**{Bacon Saver}:** never play more than one because its skill is once per duel.
+**{Bacon Saver}:** never play more than one because its effect is once per duel.
  
 [deck](Bacon Saver)
 
@@ -105,7 +105,7 @@ It is basically a sphere kuriboh that activates from the graveyard. This will wi
 
 [deck](Red-Eyes Zombie Dragon)
 
-REZ is a 2400 Zombie beater, which can Special Summon a Zombie monster it destroys. In the current meta, it is the 2nd strongest monster after Ancient Gear Golem (3000 attack) if you discount Cyber Angel Dakini due to its recent nerf (however, they were shown to be strong in the 1 deck format). This attack can go up to 2700, 3000, 3300 attack with beatdown depending on the number of REZ on the field, one to three respectively. Its attack can be boosted to 2500, 2600 or 2700 with The Tie That Binds depending on the number of monsters on the field. Straight to the Grave skill, which starts the game with {Wasteland} boosts REZ to 2600 attack.
+REZ is a 2400 Zombie beater, which can Special Summon a Zombie monster it destroys. In the current meta, it is the 2nd strongest monster after Ancient Gear Golem (3000 attack) if you discount Cyber Angel Dakini due to its recent nerf (however, they were shown to be strong in the 1 deck format). This attack can go up to 2700, 3000, 3300 attack with beatdown depending on the number of REZ on the field, one to three respectively. Its attack can be boosted to 2500, 2600 or 2700 with {The Tie that Binds} depending on the number of monsters on the field. {Straight to the Grave}, which starts the game with {Wasteland} boosts REZ to 2600 attack.
 
 REZ can be tribute summoned with one zombie which can be useful against flood gates.
 

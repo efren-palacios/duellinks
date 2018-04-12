@@ -1,10 +1,50 @@
 [
-    {
-        "name": "Machine Angel Absolute Ritual",
-        "rarity": "SR" 
+    { 
+		"name": "Cyber Blader", 
+		"rarity": "UR" 
     },
-    {
-        "name": "White Night Queen",
-        "rarity": "SR"
+    { 
+		"name": "Cyber Angel Dakini", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "White Night Queen", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Cyber Prima", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Machine Angel Absolute Ritual", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Cyber Angel Benten", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Performance of Sword", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Etoile Cyber", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Machine Angel Ritual", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Commencement Dance", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "A Rival Appears!", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Blade Skater", 
+		"rarity": "R" 
     }
 ]

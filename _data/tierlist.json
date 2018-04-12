@@ -5,8 +5,9 @@
         "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
         "types":
         [
-            { "id": "sylvans",                 "display": "Sylvans",              "card": "Sylvan Komushroomo" },            
-            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" } 
+            { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
+            { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },     
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
         ] 
     },
     {
@@ -15,7 +16,7 @@
         "info": "1 step away from being part of the best decks. Capable of winning a tournament without people being surprised. An advantage they have over tier 1 decks is that everyone is more focused on building their deck to beat a tier 1 deck and not a deck from this category.",
         "types":
         [              
-            { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }            
         ]
@@ -26,18 +27,17 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [   
-            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" },         
+            { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" }                
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" }
+            
         ]
     },
     {
         "category": "HighPotential",
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
-        [
-            { "id": "dragons",           "display": "Dragons",        "card": "Arkbrave Dragon" }
+        [ 
         ] 
     },
     {
@@ -46,7 +46,10 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
-            { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },     
+            { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
+            { "id": "dragons",                  "display": "Dragons",               "card": "Arkbrave Dragon" },
+            { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" },                         
+            { "id": "ras-disciple",             "display": "Ra's Disciple",         "card": "Ra's Disciple" },
             { "id": "temple-burn",              "display": "Temple Burn",           "card": "Temple of the Mind's Eye" },
             { "id": "counter-fairies",          "display": "Counter Fairies",       "card": "Divine Punishment" },
             { "id": "aromages",                 "display": "Aromages",              "card": "Aroma Garden" },

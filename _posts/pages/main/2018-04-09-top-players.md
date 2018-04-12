@@ -123,27 +123,58 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 
 | Rank | Participant Name | Points |
 |--|--|--|
-|  |  |  |
+|1|Jason| 40 points|
+|2| SirDillweed| 30 points|
+|3|ShinySopheon|28 points|
+|4|Niceguy88| 18 points|
+|5-8|Taichi| 14 points|
+|5-8|SDotAkuma| 14 points|
+|5-8|PAchou| 14 points|
+|5-8|M.Rida92| 14 points|
+|5-8|Super Vegito| 12 points|
+|9-16|Tekumse| 10 points|
+|9-16|LoreRomaCCG| 10 points|
+|9-16|Jayrabian| 10 points|
+|9-16|DatAngryBaboon| 10 points|
+|9-16|SilchasRuin| 10 points|
+|9-16|Kiwi| 10 points|
+|9-16|Grucius| 10 points|
+|9-16|Luke Tyler| 10 points|
+|17-31|SkillShot| 8 points|
+|17-31|Vladis| 8 points|
+|17-31|Kwrowe| 8 points|
+|17-31|Vyzual| 8 points|
+|17-31|MrCellophane| 8 points|
+|17-31|Jsanchghost| 8 points|
+|17-31|Eugen Heidt| 8 points|
+|17-31|Regtrainer1| 8 points|
+|17-31|Simon| 8 points|
+|17-31|OPnerfME| 8 points|
+|17-31|Cpt. Insano| 8 points|
+|17-31|WALEEDSY| 8 points|
+|17-31|WayneKenoff| 8 points|
+|17-31|Shu| 8 points|
+|17-31|HidekiBro| 8 points|
 
 ### How to gain Meta points
 
 #### MCS
-* Top 32 = 8 points 
+* Top 32 =  8 points 
 * Top 16 = 10 points 
-* Top 8 = 14 points 
-* Top 4 = 18 points 
+* Top  8 = 14 points 
+* Top  4 = 18 points 
 * Second Place = 25 points 
-* First Place = 35 points
+* First Place  = 35 points
 
 #### Meta Weekly / Give Away
-* Top 16 = 2 point 
-* Top 8 = 3 points 
-* Top 4 = 5 points 
-* Second Place = 8 points 
-* First Place = 12 points
+* Top 16 = 2 points 
+* Top  8 = 3 points 
+* Top  4 = 5 points 
+* Second Place =  8 points 
+* First Place  = 12 points
 
 #### KC Cup
-* Top 10 = 20 points
+* Top 10  = 20 points
 * Top 100 = 10 points
 
 --------

@@ -1,0 +1,42 @@
+[
+    { 
+		"name": "Destiny HERO - Dasher", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny HERO - Double Dude", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny HERO - Diamond Dude", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny HERO - Fear Monger", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny Signal", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Destiny HERO - Doom Lord", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destiny HERO - Departed", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Guard Penalty", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "D - Spirit", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Destruction of Destiny", 
+		"rarity": "R" 
+    }
+]

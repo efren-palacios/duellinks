@@ -50,24 +50,9 @@ hide: true
 
 
 ### Farm Decks
----
-***Level 40 Equip Farm - created by Jadehex***
-
-[deck:Labyrinth Builder](Gravekeeper's Vassal; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Iron Blacksmith Kotetsu; Horn of the Unicorn; Horn of the Unicorn; Horn of the Unicorn; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shield & Sword; Exchange; Secret Pass to the Treasures; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed)
-
-**Strategy:**
-* Get a {Gravity Axe - Grarl} and {Horn of the Unicorn} onto {Labyrinth Wall} ASAP
-* Don't set any more monsters after wall
-* Keep an {Iron Blacksmith Kotetsu} in your final hand
-
-**Last turn:**
-* Use {Shield & Sword}
-* Summon {Gravekeeper's Vassal} and use {Secret Pass to the Treasures} and both {Union Attack} on it
-* Use {Exchange} to take Yugi's {Sphere Kuriboh}
-* Activate the second {Horn of the Unicorn} on {Labyrinth Wall}
-* Attack Directly for 9999+ damage
 
 ---
+
 ***Level 40 Farm - created by Jadehex (Last Updated: 12/22/17)***
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Forbidden Chalice; Forbidden Chalice; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shard of Greed; Shard of Greed; Twister; Twister; Twister; Shield & Sword; De-Spell; De-Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell)

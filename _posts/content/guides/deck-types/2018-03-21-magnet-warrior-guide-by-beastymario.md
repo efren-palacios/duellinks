@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: magnet warriors
 image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet-warriors.jpg
-date: 2018-03-21
+date: 2018-04-04
 comments: false
 description: A detailed guide written by Beastymario presenting a detailed look at the Magnet Warrior archetype.
 keywords: guide, magnets, magnet warrior, magnet warriors, alpha, beta, gamma, delta, valkyrionion, core cards
@@ -17,6 +17,8 @@ permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
 
 [w75]
 ![](/img/content/guides/magnet-warrior-guide-by-beastymario/magnets1.jpg)
+
+* Updated April 4th, 2018
 
 ### Table of Contents
 * [Introduction](#introduction)
@@ -38,6 +40,9 @@ permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
     * [Cyber Angels / Saffira](#cyber-angels--saffira)
     * [Sea Stealth Attack](#sea-stealth-attack)
     * [Dinos](#dinos)
+    * [Sylvans](#sylvans)
+    * [Archfiends](#archfiends)
+    * [Fishes](#fishes)
     * [Hazy](#hazy)
     * [Ancient Gears](#ancient-gears)
     * [Endless Trap Stall / Burn](#endless-trap-stall--burn)
@@ -131,7 +136,7 @@ The main fodder for Delta’s effect. Beta is important to have in the graveyard
 
 ### Spell Cards
 
-[deck](Anti-Magic Arrows;Enemy Controller;Storm;Hey, Trunade!)
+[deck](Anti-Magic Arrows;Enemy Controller;Storm;Hey, Trunade!;Cosmic Cyclone)
 
 - 1-3 x {Anti-Magic Arrows} (AMA):  
 Can be used in combination or replaced with {Storm} or {Hey, Trunade!}  
@@ -147,6 +152,9 @@ A good way to clear off an opponent's backrow. Powerful Rebirth can easily clog 
 - 1-3 x {Hey, Trunade!}:  
 Can be used in combination or replaced with Anti-Magic Arrows or Storm.  
 A recent release in the [new minibox](/box-reviews/rampage-of-the-forest/), 'Hey, Trunade!' gave OTK decks a big boost. By returning all set spell and trap cards to the hand, you force your opponent to activate their set cards early or not at all and in doing so, there's no need to  worry about {Floodgate Trap Hole} or {Wall of Disruption} to stop your OTK.  
+
+- 1-2 x {Cosmic Cyclone}:  
+With the recent rise of popularity in Sea Stealth Attack, Powerful Rebirth, and A Cell Recombination, using Cosmic Cyclone has become a staple in many decks. Cosmic Cyclone stops SSA and Rebirth in their tracks and can banish Recombination so that they can’t use its search effect later.  
 
 ### Trap Cards
 
@@ -194,9 +202,6 @@ A nice tech in the 30 card grass deck as it can flip one of your opponent's mons
 
 * 1-3 x {Super Rush Headlong}:  
 Currently a great card in this meta. SRH works well offensively and defensively. With the recent popularity of SSA and Hazy, their have the  ability to not be targeted by card effects, SRH changes that and can be used to kill off Hazy and Whale.  
-
-* 1-2 x {Cosmic Cyclone}:  
-With the recent rise of popularity in Sea Stealth Attack, Powerful Rebirth, and A Cell Recombination, using Cosmic Cyclone has become a staple in many decks. Cosmic Cyclone stops SSA and Rebirth in their tracks and can banish Recombination so that they can’t use its search effect later.  
 
 * 3 x {That Grass Looks Greener}:  
 The main factor in why the 30 card rock/magnet deck works. This card can easily mill 10+ cards at the start at the duel and doing so can provide fuel for your Triamid Pulse, Gaia Plate and Valkyrion.  
@@ -318,6 +323,45 @@ Arguably our worst match up, the swarming capability of Dinos is what makes thei
 - WIN CONDITION  
 
 A godly starting hand or a brick on their part would help us out to set up our Valkyrion play early. In today's meta, Dino’s hate backrow so they’re notorious for running {Xing Zhen Hu}, Cosmic Cyclone, and {Fire Formation - Gyokkou. With that said, you have to be careful when setting your back row. If you set your backrow and your turn successfully ends, turn your toggle to **“ON”** and use your Rebirth or Kurogane in their draw phase to prevent your card from being pinned or destroyed. Another thing to take note is that the only real protection Dino’s run is Wall of Disruption. So attacking with your Gaia while having no more than two monsters is usually safe. You can also hold onto your Enemy Controllers in your hand as you can maybe E.Con take in the battle step as wall of disruption resolves in attack declaration. Be sure to have your toggle set to **“ON”**.  
+
+* Win Rate: **30%**  
+
+---
+
+### Sylvans  
+
+A new deck type that emerged from the previous mini box, Sylvans have quickly taken over the meta and tournaments with their unique play style using effects that excavate cards from their deck in order to prompt monster effects. Sylvans is a difficult matchup for many archetypes that don’t use monster negation or monster removal in their decks. Sylvans typically play the skill {Restart}, allowing them to restart into an opening hand that has a {Sylvan Kumushroomo} or {Sylvsn Marshalleaf}. Those two monsters quickly excavate their decks with the possibility to destroy monsters and backrow upon doing so. This along with the easy capability of special summoning big monster on their board with the help of {Rose Lover} (making them immune to traps for the turn their special summoned with Rose Lover), Sylvans can easily disrupt a field and OTK.  
+
+- WIN CONDITION  
+
+One can argue that RNG plays a big factor in their playstyle. So whether they excavate a Kumushroomo (to destroy backrow) or a Marshalleaf (to destroy any monster), you almost have to hope those cards don’t get excavated to wipe out your board. If that wasn’t enough, they standardly run {Divine Wrath} / {Ultimate Providence} so the possibility of them negating a Delta effect to special summon Valkyrion is there. The key to beating them is to play is passively on your first turn. You don’t want to force an attack into a Kumushroomo and risking the possibility of your just set cards of getting destroyed. Try to open a Delta and a Rebirth, mill an Electromagnet and end your turn. Force them to flip their Kumushroomo and chain your Rebirth if it becomes targeted by a destruction effect. You can also chain Electromagnets effect to tribute it if it too becomes targeted. If you survive their destruction turn and when they have their board established with their monsters, you can easily come in and clean up with your Gaia and Valkyrion. Just be cautious with their back row because some have been known to run Enemy Controllers as well. Some key cards that can help out in this matchup are Divine Wrath and Snipe Hunter.  
+
+* Win Rate: **40%**  
+
+---
+
+### Archfiends  
+
+With a newly discovered optimal build, Archfiends have risen back from the dead (no pun intended) and have become a highly potential tier deck. They use cards like {Needlebug Nest} and {Lyla, Lightsworn Sorceress}, to mill their decks so that they can get their big boss monsters like {Archfiend Emperor, the First Lord of Horror} and {Archfiend Empress} into their graveyard so that later they can easily be revived with cards like {Call of the Archfiend} and {Archfiend's Roar}. With the easy destruction effect of Emperor and his outstanding 3000 attack and 2000 defense, Archfiends can easily clear a board and attack for big damage.  
+
+- WIN CONDITION  
+
+Their main weakness is that they lack protection. This makes them vulnerable to the ECon take and since all they have are big attack monsters, it usually just takes one ECon take play to win the game. Just be weary of any {Sphere Kuriboh} delays when attacking. Some builds tend to run 1 or 2.  
+**IMPORTANT**
+Not many pay attention to this but Emperor has a secondary effect that doesn’t allow you to special summon monsters except for Fiends. So if you intend to special summon Valkyrion by Econ tributing delta to take an Emperor, the Valkyrion special summon can’t be done. Same goes for trying to special summon a Gaia while controlling an Emperor.  
+  
+
+* Win Rate: **70%**  
+
+---
+
+### Fishes  
+
+A very difficult matchups for Magnets, and better summarized as a better Wallet Control deck, Fishes has swarmed the meta with its ability to clear an entire field with the combination of {Golden Flying Fish}es effect and {Oyster Meister}. Flying Fish can tribute one fish monster to destroy one card on the field, and when doing so by tributing an Oyster, Oyster brings out an additional fish token with its effect, allowing Flying Fish to destroy another card. With the combination of Powerful Rebirth, you can see why Flying Fish can so easily clear out a field. With the amount of protection they run, this is indeed a difficult matchup up for an aggressive deck such as ours.  
+
+- WIN CONDITION  
+
+You want to pay attention to whether you or your opponent is going first as this will depict the type of starting hand you want to open. Going second is difficult because you’re allowing your opponent an extra turn to get out a Flying Fish with an Oyster. So if going second, you want to try to really open with a Delta/Electromagnet and a Powerful Rebirth. With a Delta and Powerful Rebirth, you’re able to chain the Rebirth if it becomes targeted by Flying Fish’s effect. Then if you Rebirth an Electromagnet, you can then negate any target on Electromagnet by using its tribute effect to special summon another Magnet Warrior. If you’re going first, just play it out with your best hand possible. It’s impossible for your opponent to get out a Flying Fish with an Oyster Meister on their first turn (unless they’re running something unordinary) so you’ll be safe to just play it out from there. Flying Fish decks have been known to run cards like Enemy Controller, Super Rush Headlong, and Wall of Disruption so be aware when attacking. One thing to note, if you have the upper hand and are in control of the duel, it wouldn’t be a bad play to ECon. tribute one of your monsters to take control of their Flying Fish so that they can’t use its effect to destroy your board.  
 
 * Win Rate: **30%**  
 

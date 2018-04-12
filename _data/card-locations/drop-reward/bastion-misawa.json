@@ -1,0 +1,42 @@
+[
+    { 
+		"name": "Water Dragon", 
+		"rarity": "UR" 
+    },
+    { 
+		"name": "Homunculus the Alchemic Being", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "D.D. Survivor", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Cursed Seal of the Forbidden Spell", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "DNA Transplant", 
+		"rarity": "SR" 
+    },
+    { 
+		"name": "Hyozanryu", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "D.D. Scout Plane", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Bonding - H20", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Spirit Barrier", 
+		"rarity": "R" 
+    },
+    { 
+		"name": "Crevice Into the Different Dimension", 
+		"rarity": "R" 
+    }
+]

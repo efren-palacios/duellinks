@@ -23,7 +23,7 @@ Click each picture to read more about our Top Player Council members!
 
 |5th: Skillshot|6th: MiguelJoker|7th: Kwrowe|8th: Super Vegito|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/bXvFu0y.png">](/top-player-council/skillshot)|[<img src="https://i.imgur.com/vhBa2p9.png">](/top-player-council/migueljoker)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/top-player-council/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/top-player-council/supervegito)|
+|[<img src="https://i.imgur.com/bXvFu0y.png">](/top-player-council/skillshot)|[<img src="https://i.imgur.com/X0jaZwe.png">](/top-player-council/migueljoker)|[<img src="https://i.imgur.com/JCuzJ6J.png">](/top-player-council/kwrowe)|[<img src="https://i.imgur.com/86WzDgS.png">](/top-player-council/supervegito)|
 
 |9th: Kaki|10th: Kayoh|11th: Xanxus|12th: 3K AllDay|
 | :-- | :-- | :-- | :-- |
@@ -31,7 +31,7 @@ Click each picture to read more about our Top Player Council members!
 
 |13th: Adoboboy|14th: Whybona|15th: Machdragon|16th: AndyTsang|
 | :-- | :-- | :-- | :-- |
-|[<img src="https://i.imgur.com/LkisuWn.png">](/top-player-council/adoboboy)|[<img src="https://i.imgur.com/vhBa2p9.png">](/top-player-council/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/top-player-council/machdragon)|[<img src="https://i.imgur.com/vhBa2p9.png">](/top-player-council/andytsang)|
+|[<img src="https://i.imgur.com/LkisuWn.png">](/top-player-council/adoboboy)|[<img src="https://i.imgur.com/K0DYouL.png">](/top-player-council/whybona)|[<img src="https://i.imgur.com/ey1NrYj.png">](/top-player-council/machdragon)|[<img src="https://i.imgur.com/61mqp9n.png">](/top-player-council/andytsang)|
 
 |17th: BuilttoTilt|18th: SirDillweed|Mananger: Superforms|
 | :-- | :-- | :-- |

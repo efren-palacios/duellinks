@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Shinato's Ark",
+        "rarity": "UR"
+    },
+    {
+        "name": "The Creator",
+        "rarity": "UR"
+    },
+    {
+        "name": "Angmarl the Fiendish Monarch",
+        "rarity": "UR"
+    },
+    {
+        "name": "Chiron the Mage",
+        "rarity": "UR"
+    },
+    {
+        "name": "Thunder Nyan Nyan",
+        "rarity": "UR"
+    },
+    {
+        "name": "Heavy Mech Support Armor",
+        "rarity": "UR"
+    },
+    {
+        "name": "Mecha Phantom Beast Hamstrat",
+        "rarity": "UR"
+    },
+    {
+        "name": "Treeborn Frog",
+        "rarity": "UR"
+    },
+    {
+        "name": "XYZ-Dragon Cannon",
+        "rarity": "UR"
+    },
+    {
+        "name": "Ninjitsu Art of Transformation",
+        "rarity": "UR"
+    },
+    {
+        "name": "Hino-Kagu-Tsuchi",
+        "rarity": "SR"
+    },
+    {
+        "name": "General Gantala of the Ice Barrier",
+        "rarity": "SR"
+    },
+    {
+        "name": "Yamata Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Genex Ally Powercell",
+        "rarity": "SR"
+    },
+    {
+        "name": "Herald of Creation",
+        "rarity": "SR"
+    },
+    {
+        "name": "Ninja Grandmaster Sasuke",
+        "rarity": "SR"
+    },
+    {
+        "name": "Machina Peacekeeper",
+        "rarity": "SR"
+    },
+    {
+        "name": "Mystic Plasma Zone",
+        "rarity": "SR"
+    },
+    {
+        "name": "Luminous Spark",
+        "rarity": "SR"
+    },
+    {
+        "name": "Double Magical Arm Bind",
+        "rarity": "SR"
+    },
+    {
+        "name": "Soul Transition",
+        "rarity": "SR"
+    },
+    {
+        "name": "Judgment of Thunder",
+        "rarity": "SR"
+    },
+    {
+        "name": "Black Dragon Ninja",
+        "rarity": "R"
+    },
+    {
+        "name": "Scary Moth",
+        "rarity": "R"
+    },
+    {
+        "name": "Genex Army",
+        "rarity": "R"
+    },
+    {
+        "name": "Dai-sojo of the Ice Barrier",
+        "rarity": "R"
+    },
+    {
+        "name": "Blue Dragon Ninja",
+        "rarity": "R"
+    },
+    {
+        "name": "Numen erat Testudo",
+        "rarity": "R"
+    },
+    {
+        "name": "Mist Valley Executor",
+        "rarity": "R"
+    },
+    {
+        "name": "Strategist of the Ice Barrier",
+        "rarity": "R"
+    },
+    {
+        "name": "R-Genex Ultimum",
+        "rarity": "R"
+    },
+    {
+        "name": "Samurai of the Ice Barrier",
+        "rarity": "R"
+    },
+    {
+        "name": "Izanami",
+        "rarity": "R"
+    },
+    {
+        "name": "The Creator Incarnate",
+        "rarity": "R"
+    },
+    {
+        "name": "Z-Metal Tank",
+        "rarity": "R"
+    },
+    {
+        "name": "Y-Dragon Head",
+        "rarity": "R"
+    },
+    {
+        "name": "Wingtortoise",
+        "rarity": "R"
+    },
+    {
+        "name": "Genex Ally Changer",
+        "rarity": "R"
+    },
+    {
+        "name": "Unifrog",
+        "rarity": "R"
+    },
+    {
+        "name": "The Calculator",
+        "rarity": "R"
+    },
+    {
+        "name": "Poison Draw Frog",
+        "rarity": "R"
+    },
+    {
+        "name": "Troop Dragon",
+        "rarity": "R"
+    },
+    {
+        "name": "Fabled Lurrie",
+        "rarity": "R"
+    },
+    {
+        "name": "X-Head Cannon",
+        "rarity": "R"
+    },
+    {
+        "name": "D.3.S. Frog",
+        "rarity": "R"
+    },
+    {
+        "name": "YZ-Tank Dragon",
+        "rarity": "R"
+    },
+    {
+        "name": "XZ-Tank Cannon",
+        "rarity": "R"
+    },
+    {
+        "name": "XY-Dragon Cannon",
+        "rarity": "R"
+    },
+    {
+        "name": "Machine Assembly Line",
+        "rarity": "R"
+    },
+    {
+        "name": "Frontline Base",
+        "rarity": "R"
+    },
+    {
+        "name": "Premature Return",
+        "rarity": "R"
+    },
+    {
+        "name": "Booby Trap E",
+        "rarity": "R"
+    },
+    {
+        "name": "Lineage of Destruction",
+        "rarity": "R"
+    },
+    {
+        "name": "Roll Out!",
+        "rarity": "R"
+    },
+    {
+        "name": "General Gantala of the Ice Barrier",
+        "rarity": "N"
+    },
+    {
+        "name": "Brain Crusher",
+        "rarity": "N"
+    },
+    {
+        "name": "Senior Silver Ninja",
+        "rarity": "N"
+    },
+    {
+        "name": "Genex Ally Reliever",
+        "rarity": "N"
+    },
+    {
+        "name": "Royal Knight of the Ice Barrier",
+        "rarity": "N"
+    },
+    {
+        "name": "Des Frog",
+        "rarity": "N"
+    },
+    {
+        "name": "Altitude Knight",
+        "rarity": "N"
+    },
+    {
+        "name": "Shore Knight",
+        "rarity": "N"
+    },
+    {
+        "name": "Air Armor Ninja",
+        "rarity": "N"
+    },
+    {
+        "name": "Flame Armor Ninja",
+        "rarity": "N"
+    },
+    {
+        "name": "Mist Condor",
+        "rarity": "N"
+    },
+    {
+        "name": "Chthonian Soldier",
+        "rarity": "N"
+    },
+    {
+        "name": "White Ninja",
+        "rarity": "N"
+    },
+    {
+        "name": "Fushi No Tori",
+        "rarity": "N"
+    },
+    {
+        "name": "Mecha Phantom Beast Aerosguin",
+        "rarity": "N"
+    },
+    {
+        "name": "Duck Fighter",
+        "rarity": "N"
+    },
+    {
+        "name": "Dotedotengu",
+        "rarity": "N"
+    },
+    {
+        "name": "R-Genex Magma",
+        "rarity": "N"
+    },
+    {
+        "name": "Mist Valley Thunderbird",
+        "rarity": "N"
+    },
+    {
+        "name": "Beelze Frog",
+        "rarity": "N"
+    },
+    {
+        "name": "Genex Ally Solid",
+        "rarity": "N"
+    },
+    {
+        "name": "R-Genex Crusher",
+        "rarity": "N"
+    },
+    {
+        "name": "Cosmic Compass",
+        "rarity": "N"
+    },
+    {
+        "name": "Fabled Topi",
+        "rarity": "N"
+    },
+    {
+        "name": "T.A.D.P.O.L.E.",
+        "rarity": "N"
+    },
+    {
+        "name": "Metal Armored Bug",
+        "rarity": "N"
+    },
+    {
+        "name": "Guarded Treasure",
+        "rarity": "N"
+    },
+    {
+        "name": "Single Purchase",
+        "rarity": "N"
+    },
+    {
+        "name": "Dicephoon",
+        "rarity": "N"
+    },
+    {
+        "name": "Summoning Curse",
+        "rarity": "N"
+    },
+    {
+        "name": "Wattcine",
+        "rarity": "N"
+    },
+    {
+        "name": "Leeching the Light",
+        "rarity": "N"
+    },
+    {
+        "name": "Magic Triangle of the Ice Barrier",
+        "rarity": "N"
+    },
+    {
+        "name": "Calming Magic",
+        "rarity": "N"
+    },
+    {
+        "name": "Dimension Explosion",
+        "rarity": "N"
+    },
+    {
+        "name": "Des Croaking",
+        "rarity": "N"
+    },
+    {
+        "name": "Shinato's Ark",
+        "rarity": "N"
+    },
+    {
+        "name": "Chain Ignition",
+        "rarity": "N"
+    },
+    {
+        "name": "Dice-nied",
+        "rarity": "N"
+    },
+    {
+        "name": "Lucky Punch",
+        "rarity": "N"
+    },
+    {
+        "name": "Rebound",
+        "rarity": "N"
+    },
+    {
+        "name": "Turnabout",
+        "rarity": "N"
+    },
+    {
+        "name": "Ninjitsu Art of Duplication",
+        "rarity": "N"
+    },
+    {
+        "name": "Raigeki Bottle",
+        "rarity": "N"
+    },
+    {
+        "name": "Nature's Reflection",
+        "rarity": "N"
+    },
+    {
+        "name": "Treasure Map",
+        "rarity": "N"
+    }
+]
