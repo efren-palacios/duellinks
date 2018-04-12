@@ -1,12 +1,10 @@
 ---
 ---
 [
-    {% assign profiles = site.data.profiles %}
+    {% assign profiles = site.data.profiles | where: 'role', 'top-player-council' %}
     {% for author in profiles %}
-        {% if author[1].role == 'top-player-council' %}
     {
-        "name": "{{author[1].name | downcase}}"
+        "name": "{{author.name | downcase}}"
     }{% unless forloop.last %},{% endunless %}
-        {% endif %}
     {% endfor %}
 ]
