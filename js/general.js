@@ -121,19 +121,18 @@ if (!sessionStorage.run3times || sessionStorage.run3times<3) {
 	});
 }
 
-if (typeof antiabd !== 'undefined'){
-	//alert("no adblock");
-    
-}else{
+if (typeof antiabd === 'undefined')
+{
     //you can view the site 3x with adblock but no more after that.
-    if (localStorage.ABDrun3times < 3) {
-        if(!localStorage.ABDrun3times){
+    if (localStorage.ABDrun3times < 3)
+    {
+        if(!localStorage.ABDrun3times)
             localStorage.ABDrun3times = 1;
-            }else{
+        else
             localStorage.ABDrun3times++;
-        }
-    }else{
-    //alert("adblock");
-    window.location = "/adb/";
+    }
+    else
+    {
+        window.location = "/advertisements-info/";
     }
 }

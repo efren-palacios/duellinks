@@ -1,0 +1,243 @@
+@import "variables.scss";
+#playtest, .ui-widget-content {
+    border: 1px solid white;
+    background-color: #000016;
+    background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
+    background-size: cover;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 1rem;
+
+}
+
+#playtest{
+  position: relative;
+  display: none;
+}
+
+// Button to start playtest
+#play{
+  cursor: pointer;
+}
+
+.ui-widget-header {
+  border: none;
+  background-color: transparent;
+  color: #e9e9e9;
+}
+
+#deckmenu {
+  margin: 1rem;
+}
+
+#playerdeck {
+  cursor: pointer;
+}
+
+#playerextradeck {
+  cursor: pointer;
+}
+  
+  #hand {
+   flex-wrap: wrap;
+   width: 600px;
+   display: flex;
+   align-items: center;
+   min-height: 142px;
+  }
+  
+  .deck {
+    width: 59px;
+    height: 86px;
+    position: relative;
+    background-image: url('http://img3.wikia.nocookie.net/__cb20130902115200/yugioh/images/e/ee/Back-ZX-Site.png');
+    background-size: 100%;
+    cursor: pointer;
+    top: 175px;
+    left: 472px;
+  }
+  
+  #playmat img {
+    width: 500px;
+    height: auto;
+  }
+  
+  #playtest .actions {
+    text-align: center;
+    input {
+        margin: 1rem 0;
+        margin-right: 10px;       
+    } 
+
+    input:last-child {
+        margin-right: 0px;
+    }
+
+    #export {
+      margin-right: 0px;  
+    }
+
+    .btn-outline-primary:focus {
+      box-shadow: none;
+    }
+  }
+
+  .game-board
+  {
+    display: inline-block;
+    user-select: none;
+  
+    .testcard-slot-row
+    {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      clear: both;
+      display: flex;
+      .testcard-slot, .hand, .field
+      {
+        border: 1px solid white;
+        border-radius: 4px;
+        margin-left: 15px;
+        margin-right: 15px;
+        height: 102px;
+        width: 70px;
+        float: left;
+        img
+        {
+          width: 100%;
+  
+          &.rotated
+          {
+            transform: rotate(270deg);
+          }
+        }
+  
+        &:first-child
+        {
+          border-radius: 0px;
+        }
+  
+        &:last-child
+        {
+          border-radius: 0px;
+        }
+      }
+    }
+
+    .actions
+    {
+      .tools
+      {
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .token, .coin, .dice
+        {
+          width: 25px;
+          margin-right: 5px;
+          cursor: pointer;
+          z-index: 99;
+        }
+      }     
+    }
+  }
+  
+  #results {
+    position: relative;
+    left: 25px;
+}
+
+.btn-outline-primary:hover {
+  cursor: pointer;
+}
+
+#graveyard {
+  cursor: pointer;
+}
+.game-board .actions .tools .coin, .game-board .actions .tools .dice, .game-board .actions .tools .token{
+  width: 35px;
+}
+
+//Mobile optimisation
+@media only screen and (max-width: 1279px) {
+  #playtest, .ui-widget-content{
+    padding: 0; 
+  }
+  .ui-dialog .ui-dialog-content{
+    padding: 0;
+  }
+  .ui-dialog .ui-dialog-title{
+    width: 275px;
+  }
+  .ui-dialog .ui-dialog-titlebar {
+    padding: .5em 1em;
+  }
+  #deckmenu{
+    margin-top: 0.1rem;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+  #hand{
+    width: unset;
+  }
+  .onlyDesktopBtn{
+    display: none;
+  }
+  .game-board{
+    padding: 12px;
+  }
+  .game-board .actions .tools .coin, .game-board .actions .tools .dice, .game-board .actions .tools .token{
+    width: 30px;
+  }
+}
+
+
+@media only screen and (max-width: 530px) {
+  .game-board .testcard-slot-row .field, .game-board .testcard-slot-row .hand, .game-board .testcard-slot-row .testcard-slot{
+    margin-left: 8px;
+    margin-right: 8px;
+    height: 87px;
+    width: 60px;
+  }
+  #hand{
+    min-height: 126px;
+  }
+  .game-board{
+    padding: 8px;
+  }
+  .btn{
+    padding: .275rem .4rem;
+  }
+  #playtest .actions input{
+    margin: 0.3rem 0;
+    margin-right: 10px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  
+  #hand{
+    min-height: 96px;
+  }
+  .game-board .testcard-slot-row .field, .game-board .testcard-slot-row .hand, .game-board .testcard-slot-row .testcard-slot{
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 76px;
+    width: 52px;
+  }
+  .game-board .testcard-slot-row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  #playtest .actions input{
+    margin-right: 5px;
+  }
+  .btn{
+    padding: .25rem .2rem;
+    font-size: 0.9rem;
+  }
+
+}
+//END Mobile Optimisation

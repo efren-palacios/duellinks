@@ -1,3 +1,5 @@
+// Note: This file has been modified for purpose of this site.   
+
 /*
  * TouchScroll - using dom overflow:scroll
  * by kmturley
@@ -22,17 +24,7 @@ var TouchScroll = function () {
             var me = this;
             this.options = options;
             
-            // find target element or fall back to body
-            if (options && options.id) {
-                this.el = document.getElementById(options.id);
-            }
-            if (!this.el) {
-                if (this.isIE || this.isFirefox) {
-                    this.el = document.documentElement;
-                } else {
-                    this.el = document.body;
-                }
-            }
+            this.el = options.el;
 
             // if draggable option is enabled add events
             if (options.draggable === true) {
@@ -189,10 +181,13 @@ var TouchScroll = function () {
 };
 
 $(function(){
-    var slider = new TouchScroll();
-    slider.init({
-        id: 'image-slider',
-        draggable: true,
-        wait: false
-    });
+    var imageSliders = $('.image-slider');
+    imageSliders.each(function(index, imageSlider) {
+        var slider = new TouchScroll();
+        slider.init({
+            el: $(imageSlider)[0],
+            draggable: true,
+            wait: false
+        });
+    });    
 });

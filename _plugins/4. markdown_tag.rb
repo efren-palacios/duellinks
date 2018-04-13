@@ -254,7 +254,7 @@ galleryHtml += '</div>
 
         # CREATES THE HTML FOR THE IMAGE SLIDER EXTENSION
         def createImageSlider(tagData)
-            sliderHtml = '<div class="image-slider scrollbar no-select" id="image-slider">
+            sliderHtml = '<div class="image-slider scrollbar no-select">
                 <img src="' + tagData + '">
             </div>'
 

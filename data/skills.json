@@ -5,7 +5,9 @@
   {% for skill in skills %}
     {
       "name": "{{skill.name | replace: '\"', '\\\"'}}",
-      "desc": "{{skill.description | replace: '\"', '\\\"'}}"
+      "desc": "{{skill.description | replace: '\"', '\\\"'}}",
+      "exclusive": {{skill.exclusive}},
+      "character": "{{skill.character}}"
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}

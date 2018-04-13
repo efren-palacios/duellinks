@@ -61,30 +61,34 @@ function CardsAPI() {
             });
         }
         
+        var self = this;
         Promise.all([cardobtain, cardinfo]).then(function(response) {
             var card = new Object();
 
+            self.obtainCardData = response[1];
+            self.obtainCardName = cardName;
+
             card.name = cardName;
             card.rarity = response[0].length > 0 ? response[0][0].rarity : "";
-            card.attribute = response[1].data.family != 'null' ? response[1].data.family : "";
-            card.level = response[1].data.level != 'null' ? response[1].data.level : "";
-            if(response[1].data.type && response[1].data.type.includes("Fusion")) {
-                var cardTextArray = response[1].data.text.split('\n');
+            card.attribute = self.obtainCardProperty('family') != 'null' ? self.obtainCardProperty('family') : "";
+            card.level = self.obtainCardProperty('level') != 'null' ? self.obtainCardProperty('level') : "";
+            if(self.obtainCardProperty('type') && self.obtainCardProperty('type').includes("Fusion")) {
+                var cardTextArray = self.obtainCardProperty('text').split('\n');
                 card.materials = cardTextArray[0];
                 card.description = cardTextArray[2];
             } 
             else {
-                card.description = response[1].data.text;
+                card.description = self.obtainCardProperty('text');
                 card.materials = "";
             }
-            if(response[1].data.card_type == "monster") {
-                card.type = response[1].data.type;
+            if(self.obtainCardProperty('card_type') == "monster") {
+                card.type = self.obtainCardProperty('type');
             }
             else {
-                card.type = response[1].data.card_type + " / " + response[1].data.property;
+                card.type = self.obtainCardProperty('card_type') + " / " + self.obtainCardProperty('property');
             }
-            card.attack = response[1].data.atk != 'null' ? response[1].data.atk : "";
-            card.defense = response[1].data.def != 'null' ? response[1].data.def : "";
+            card.attack = self.obtainCardProperty('atk') != 'null' ? self.obtainCardProperty('atk') : "";
+            card.defense = self.obtainCardProperty('def') != 'null' ? self.obtainCardProperty('def') : "";
             if(response[0].length > 0) {
                 card.obtain = [];
                 $(response[0]).each(function(index, obtainCard) {
@@ -118,7 +122,7 @@ function CardsAPI() {
      * imageURL - URL to obtain the image of the skill, depending on its exclusivity
      */ 
     this.searchSkill = function(skillName, callback) {
-        $.getJSON(getWebsiteLink() + "/data/skillsChars.json").then( function( response ) {
+        $.getJSON(getWebsiteLink() + "/data/skills.json").then( function( response ) {
             var skill = new Object();
             for(var i = 0; i < response.length; i++) {
                 if(response[i].name.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase() == skillName.replace(/[^a-zA-Zα-ωΑ-Ω ]/g, "").toLowerCase()) {
@@ -183,6 +187,8 @@ function CardsAPI() {
      * List of card image that need to be updated due to its 
      * incorrect image from the default server 
      * 
+     * (Note: This object should be treated as private)
+     * 
      * name Name of the card
      * customURL String representation of the URL to obtain this image from
      */ 
@@ -195,5 +201,66 @@ function CardsAPI() {
             name: "Hey, Trunade!",
             customURL: "/img/cards/heytrunade.jpg"
         }
-    ]
+    ],
+
+    /*
+     * List of card data that was either errated for the game or the API 
+     * used to obtain this data does not contain it. All properties of 
+     * the cards mimic the data within 'search' function
+     * 
+     * (Note: This object should be treated as private)
+     */ 
+    this.cardFilters = [
+        {
+            name: "Return",
+            card_type: "Trap",
+            property: "Normal",
+            text: "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck." 
+        }
+    ],
+
+    /*
+     * Used in the 'obtainCardProperty' method for the returned card 
+     * data from the API 
+     * 
+     * (Note: This object should be treated as private)
+     */ 
+    this.obtainCardData = [],
+
+    /*
+     * This object is used by the 'obtainCardProperty' as the card 
+     * searched against for the filter 
+     * 
+     * (Note: This object should be treated as private)
+     */ 
+    this.obtainCardName = "",
+
+    /*
+     * This method returns the asked property of a card, whether it was
+     * derived from the given data array or a custom array of data for 
+     * that card 
+     * 
+     * (Note: This method should be treated as private, as it needs the
+     * returned card data to function)   
+     * 
+     * @param property String representation of the property asked 
+     */ 
+    this.obtainCardProperty = function(property) {
+        var self = this;
+        var cardProperty; 
+        $(this.cardFilters).each(function(index, card) {
+            if(self.obtainCardName == card.name) {
+                cardProperty = card[property];
+                return false;
+            }
+        });
+        if(cardProperty) return cardProperty;
+
+        if(this.obtainCardData['data']) {
+            return this.obtainCardData.data[property];
+        }
+        else {
+            return "null";
+        }
+    }
 };

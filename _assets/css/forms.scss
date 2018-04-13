@@ -1,0 +1,83 @@
+@import "variables.scss";
+.form-control,
+.form-control:focus
+{
+    color: #d8d8d8;
+    border: 1px solid #182f4c;
+    background-color: #0c2740;
+}
+
+.form-control:focus
+{
+    box-shadow: 0 0 2px 0.07rem rgba($flashy-blue, 0.40);
+}
+
+input.form-control:read-only,
+textarea.form-control:read-only
+{
+    background-color: #0a1f33;
+}
+
+.deck-submission
+{
+    .left-side
+    {
+        flex: 0 0 47.5%;
+        max-width: 47.5%;
+        padding-right: 47px;
+
+        #deck
+        {
+            margin-top: 25px;
+            min-height: 490px;
+        }
+    }
+
+    .right-side
+    {
+        flex: 0 0 52.5%;
+        max-width: 52.5%;
+
+        #deck
+        {
+            min-height: 553px;
+        }
+
+        .extra-deck
+        {
+            min-height: 136px !important;
+            margin-top: 37px;
+        }
+    }
+
+    #deck
+    {
+        border-radius: .25rem;
+        border: 1px solid $light-line;
+
+        img
+        {
+            /*image-rendering: -moz-crisp-edges;*/ /* Firefox already displays them very crisp */
+            /*image-rendering: -o-crisp-edges;*/ /* UNTESTED IN OPERA */
+            image-rendering: -webkit-optimize-contrast; /* Looks a little crispier in chrome with this */
+            /*-ms-interpolation-mode: nearest-neighbor;*/ /* UNTESTED IN IE / Doesn't work in Edge */
+        }
+    }
+
+    #notes
+    {
+        min-height: 100px;
+        max-height: 300px;
+    }
+
+    #SubmitDeck
+    {
+        margin-top: 10px;
+        cursor: pointer;
+    }
+
+    .tpc-checkbox-container
+    {
+        margin-bottom: 16px;
+    }
+}

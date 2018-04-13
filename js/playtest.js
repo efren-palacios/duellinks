@@ -288,8 +288,8 @@ $('#graveyard').click(function() {
 $('#new').click(function() {
 	importDeck(currentDeck);
 	$('.tokencopy').remove();
-	//test deckmenu initializing
-	if ($('#deckmenu').length){
+
+	if ($("#deckmenu").hasClass('ui-dialog-content')) {
 		if ($('#deckmenu').dialog('isOpen')) {
 			openDeck(currentDeck)
 		}
@@ -327,26 +327,41 @@ function openDeck(deck, extra = false, grave = false) {
 			$('#deckmenu').append(`<img style="margin: 1px" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&il" width="60px" id="${decklist[i].id}"/>`)
 		}
 	} 
-	
-	
-	$('#deckmenu').dialog({
-		width: 450,
-		height: 563,
-		resizable: false,
-		draggable: false,
-		autoOpen: true,
-		open: function(event, ui) {
-			$(this).closest(".ui-dialog")
-			.find(".ui-dialog-titlebar-close")
-			.removeClass("ui-dialog-titlebar-close")
-			.html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
-		},
-		position: {
-			my: "left top",
-			at: "right-158 top",
-			of: '#playtest'
-		}
-	})
+	if ($(window).width() < 1280) {
+		$('#deckmenu').dialog({
+			width: 344,
+			resizable: false,
+			draggable: false,
+			autoOpen: true,
+			open: function(event, ui) {
+				$(this).closest(".ui-dialog")
+				.find(".ui-dialog-titlebar-close")
+				.removeClass("ui-dialog-titlebar-close")
+				.html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
+			}
+		})
+	 }
+	 else
+	 {
+		$('#deckmenu').dialog({
+			width: 450,
+			height: 563,
+			resizable: false,
+			draggable: false,
+			autoOpen: true,
+			open: function(event, ui) {
+				$(this).closest(".ui-dialog")
+				.find(".ui-dialog-titlebar-close")
+				.removeClass("ui-dialog-titlebar-close")
+				.html("<span class='ui-button-icon-primary ui-icon ui-icon-closethick'></span>")
+			},
+			position: {			
+				my: "left top",
+				at: "right-158 top",
+				of: '#playtest'
+			}
+		})
+	 }
 }
 
 function randomCard() {
@@ -370,11 +385,13 @@ function dealCard(i) {
 	
 	removeCard(i)
 	
-	if ($('#deckmenu').dialog('isOpen')) {
-		if (decklist == 0) {
-			$('#deckmenu').dialog("close")
+	if ($("#deckmenu").hasClass('ui-dialog-content')) {
+		if ($('#deckmenu').dialog('isOpen')) {
+			if (decklist == 0) {
+				$('#deckmenu').dialog("close")
+			}
+			openDeck(currentDeck)
 		}
-		openDeck(currentDeck)
 	}
 }
 

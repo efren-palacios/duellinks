@@ -2,8 +2,6 @@ $(document).ready(function()
 {
     GetCardApi();
     GetCards();
-
-    $('#moreArticles').click(enableMoreArticles);
 });
 
 function GetCardApi()
@@ -33,22 +31,6 @@ function GetCardUrl(name)
     });
 
     return cardApi.replace("[name]", name);
-}
-
-function enableMoreArticles() {
-    var hiddenArticles = $('.hiddenCard'); 
-    
-    for(var i = 0; i < 4; i++ ) {
-        var currentArticle = hiddenArticles[i];
-        if(currentArticle) {
-            $(currentArticle).removeClass('hiddenCard');
-            $(currentArticle).show('slow');
-        } 
-        else {
-            $('#moreArticles').attr('disabled', true);
-            break;
-        }
-    }
 }
 
 /*function GetCardImageUrlByCardName(name)

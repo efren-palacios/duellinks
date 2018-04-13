@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (8) - April 10
+title: In-Game Updates (9) - April 12
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-10 10:00:00 +0100
+date: 2018-04-12 15:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,9 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 10th (Update 9)](#90)
+    - [Double Gate Keys & Gold](#91)
+    - [Shop Maintenance Notice](#92)
 - [April 10th (Update 8)](#80)
     - [Card Flipper Campaign](#81)
 - [April 9th (Update 7)](#70)
@@ -35,6 +38,24 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="90"></a>
+## April 12th (Update 9)
+
+<br>
+
+<a name="91"></a>
+
+### Double Gate Keys & Gold
+
+![](/img/content/news/2018/04/in-game-updates/12-campaign.jpg)
+
+<a name="92"></a>
+### Shop Maintenance Notice
+
+![](/img/content/news/2018/04/in-game-updates/12-maintenance.jpg)
 
 ---
 

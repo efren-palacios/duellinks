@@ -1,0 +1,8 @@
+<div class="section header center">
+    <h1>INTRODUCTION TO {{include.deck-type | upcase }}</h1>
+    {% unless include.hidden %}
+        <h2>by {{include.author}}</h2>
+    {% else %}
+        <p>We currently do not have any information about {{include.deck-type}}. Please check back later.</p>
+    {% endunless %}
+</div>
