@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Sea Stealth Attack Guide - March 2018
+title: Sea Stealth Attack Guide
 author: BuiltToTilt
 category: guide
 sub-category: deck-type
 deck-type: sea-stealth-attack
 image: /img/content/guides/sea-stealth-attack-guide-by-builttotilt/sea-stealth-attack.jpg
 date: 2018-03-11
-comments: false
+comments: true
 description: An in depth guide written by BuiltToTilt talking about the Sea Stealth Attack deck possibilities.
 keywords: sea stealth attack, water, water deck, , mako, mako tsunami, in-depth guide, core cards
 permalink: /guides/deck-types/sea-stealth-attack-guide-by-builttotilt/

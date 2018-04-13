@@ -131,30 +131,32 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |5-8|SDotAkuma| 14 points|
 |5-8|PAchou| 14 points|
 |5-8|M.Rida92| 14 points|
-|5-8|Super Vegito| 12 points|
-|9-16|Tekumse| 10 points|
-|9-16|LoreRomaCCG| 10 points|
-|9-16|Jayrabian| 10 points|
-|9-16|DatAngryBaboon| 10 points|
-|9-16|SilchasRuin| 10 points|
-|9-16|Kiwi| 10 points|
-|9-16|Grucius| 10 points|
-|9-16|Luke Tyler| 10 points|
-|17-31|SkillShot| 8 points|
-|17-31|Vladis| 8 points|
-|17-31|Kwrowe| 8 points|
-|17-31|Vyzual| 8 points|
-|17-31|MrCellophane| 8 points|
-|17-31|Jsanchghost| 8 points|
-|17-31|Eugen Heidt| 8 points|
-|17-31|Regtrainer1| 8 points|
-|17-31|Simon| 8 points|
-|17-31|OPnerfME| 8 points|
-|17-31|Cpt. Insano| 8 points|
-|17-31|WALEEDSY| 8 points|
-|17-31|WayneKenoff| 8 points|
-|17-31|Shu| 8 points|
-|17-31|HidekiBro| 8 points|
+|9-11|Super Vegito| 12 points|
+|9-11|Billy Brake| 12 points|
+|9-11|Grucius| 12 points|
+|12-18|Tekumse| 10 points|
+|12-18|LoreRomaCCG| 10 points|
+|12-18|Jayrabian| 10 points|
+|12-18|DatAngryBaboon| 10 points|
+|12-18|SilchasRuin| 10 points|
+|12-18|Kiwi| 10 points|
+|12-18|Luke Tyler| 10 points|
+|19-34|SkillShot| 8 points|
+|19-34|Vladis| 8 points|
+|19-34|Kwrowe| 8 points|
+|19-34|Vyzual| 8 points|
+|19-34|SILENT POWER| 8 points|
+|19-34|MrCellophane| 8 points|
+|19-34|Jsanchghost| 8 points|
+|19-34|Eugen Heidt| 8 points|
+|19-34|Regtrainer1| 8 points|
+|19-34|Simon| 8 points|
+|19-34|OPnerfME| 8 points|
+|19-34|Insano| 8 points|
+|19-34|WALEEDSY| 8 points|
+|19-34|WayneKenoff| 8 points|
+|19-34|Shu| 8 points|
+|19-34|HidekiBro| 8 points|
 
 ### How to gain Meta points
 

@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (9) - April 12
+title: In-Game Updates (10) - April 13
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-12 15:00:00 +0100
+date: 2018-04-13 05:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,7 +14,10 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-- [April 10th (Update 9)](#90)
+- [April 13th (Update 10)](#100)
+    - [KC Cup (Stage 2) Is Underway](#101)
+    - [KC Cup Celebration Sale](#102)
+- [April 12th (Update 9)](#90)
     - [Double Gate Keys & Gold](#91)
     - [Shop Maintenance Notice](#92)
 - [April 10th (Update 8)](#80)
@@ -38,6 +41,27 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="100"></a>
+## April 13th (Update 10)
+
+<br>
+
+<a name="101"></a>
+### KC Cup (Stage 2) Is Underway
+
+Believe in the heart of the cards! But if you need something more, check out the [Tier List](/tier-list/) and [King of Games Decks](/top-decks/) for inspiration.
+
+[slider](/img/content/news/2018/04/in-game-updates/13-slider-kc-cup.jpg)
+
+<a name="102"></a>
+### KC Cup Celebration Sale
+
+As we found in out [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article there's a sale to celebrate the start of Stage 2 of the KC Cup. Konami has finally brought back the ultimate deal: 3 Packs + 1 UR for $0.99 - hope you get some good pulls!   
+
+[slider](/img/content/news/2018/04/in-game-updates/13-slider-sale.jpg)
 
 ---
 
