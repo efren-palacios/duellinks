@@ -92,7 +92,7 @@ Ideally you should play 4 monsters for tribute fodder in Restart builds. You mig
 
 * {Treeborn Frog}  
 
-Dont play less than 3 except if you are running some numbers of Skreech. Then 2 is okay. Frog + ECon take in the Standby Phase is just pure value and you want to start doing it as soon as possible.  
+Dont play less than 3 except if you are running some numbers of Skreech. Then 2 is okay. Treeborn Frog E-con take in the Standby Phase is pure value and you want to start doing it as soon as possible.  
 
 For your 4th and possibly 5th option:  
 
@@ -205,12 +205,12 @@ Chaos Hunter helps a lot the Hazy matchup since Chaos Hunter stops {Beast Rising
 
 ### TIPS AND TRICKS:
 
-Remember to toggle **ON** and ECon take opponent monsters during the Standby Phase so you steal them and you get a second Treeborn Frog activation.  
+Remember to toggle **ON** and E-con take opponent monsters during the Standby Phase so you steal them and you get a second Treeborn Frog activation.  
 ![](/img/assets/ranks/toggle.png)  
 
 Against a deck that swarms the board, try this combo:
 1. Soul Exchange
-2. Tribute an opponents monster for an ECon take play 
+2. Tribute an opponents monster for an E-con take play 
 3. Use the taken monster to tribute summon  
 
 This combo is super strong and it is a 3 for 2 that nets you a big monster on the field. Totally not stolen from Gravekeepers.  
@@ -219,7 +219,7 @@ If you play {Monster Gate}, always use your opponents monster as the tribute by 
 
 You can Soul Exchange and tribute an opponents monster for Dasher, making Soul Exchange a “destroy 1 opponent monster” with no downside.  
 
-Similarly, you can do the same after an ECon take.  
+Similarly, you can do the same after an E-con take.  
 
 ---
 
@@ -274,7 +274,7 @@ If you can set a {Fenghuang} it's basically game. Fenghuang is absurd against Al
 
 #### Destiny Heroes:
 
-They don't generally pack protection, ECon take plays are usually how you close games. Not much you have to deal with.  
+They don't generally pack protection, E-con take plays are usually how you close games. Not much you have to deal with.  
 
 #### Fishes:  
 
@@ -282,15 +282,15 @@ Like Aliens, Fenghuang makes the matchup very easy. Remember to attack over {Oys
 
 #### Sylvans:  
 
-Soul Exchange, Sphere Kuriboh and correctly timed ECon take plays can secure you an easy win against Sylvans. If you feel you need even more Sylvan counters, add more Tribute to the Doomed.  
+Soul Exchange, Sphere Kuriboh and correctly timed E-con take plays can secure you an easy win against Sylvans. If you feel you need even more Sylvan counters, add more Tribute to the Doomed.  
 
 #### Archfiends:
 
-Somehow a 50-50 matchup. If they pack Sphere Kuriboh it might be a bad matchup, otherwise ECon takes are very good. Fenghuang can sometimes hit them too if they are still setting up their board.  
+Somehow a 50-50 matchup. If they pack Sphere Kuriboh it might be a bad matchup, otherwise E-con takes are very good. Fenghuang can sometimes hit them too if they are still setting up their board.  
 
 #### Geargias:  
 
-If they start with {Ties of the Brethren} it's going to be difficult but if you can double ECon take you canuse their monster effects against them. It's a fun matchup and can be easily winnable.  
+If they start with {Ties of the Brethren} it's going to be difficult but if you can double E-con take you canuse their monster effects against them. It's a fun matchup and can be easily winnable.  
 
 #### Sea Stealth Attack:
 
@@ -298,12 +298,12 @@ One of the few poor matchup recently added in the game, B.E.S. Tetran is probabl
 
 #### Ancient Gears:
 
-Ancient Gears have several cards to fear such as {Rare Metalmorph} and {Ancient Gear Golem} that can pierce through a Treeborn Frog. {Ancient Gear Beast} can aslo be annoying as he will negate Treeborn Frogs effect.
+Ancient Gears have several cards to fear such as {Rare Metalmorph} and {Ancient Gear Golem} that can pierce through a Treeborn Frog. {Ancient Gear Beast} can also be annoying as he will negate Treeborn Frogs effect.
 Kaiser Glider, Tetran and discard effects are good against Ancient Gears. Generally this is an easy matchup overall.
 
 #### Gladiator Beasts:
 
-They really need their monsters to survive, Soul Exchange and ECon take do most of the job in winning the matchup.  
+They really need their monsters to survive, Soul Exchange and E-con take do most of the job in winning the matchup.  
 
 #### Temple Burn:
 
@@ -319,7 +319,7 @@ Try to hit the non-Hazy monsters so they do not get a chance to summon {Hazy Fla
 
 #### Cyber Angels:
 
-If you can predict the opponent is playing Cyber Angels, hope for an ECon take play and for them to not OTK you. Piercing from {Cyber Angel Dakini} hurts a lot.  
+If you can predict the opponent is playing Cyber Angels, hope for an E-con take play and for them to not OTK you. Piercing from {Cyber Angel Dakini} hurts a lot.  
 
 #### Horus:
 
