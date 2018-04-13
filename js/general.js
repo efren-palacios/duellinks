@@ -6,8 +6,6 @@ $(document).ready(function()
     $('.carousel').carousel({
         interval: false
 	});
-	
-    setImageFilter();
 });
 
 function ExecuteOnReadyFunctions()
@@ -81,10 +79,6 @@ function getWebsiteLink() {
 function toggleChange(elem)
 {
     elem.classList.toggle("change");
-}
-
-function setImageFilter() {
-    new CardsAPI().setImageFilters();
 }
 
 function twitchNotification() {

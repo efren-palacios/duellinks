@@ -174,50 +174,14 @@ function CardsAPI() {
      * @return String URL of the for the image
      */ 
     this.getImageURL = function( cardName ) {
-        for(var index = 0; index < this.filters.length; index++) {
-            if(this.filters[index].name == cardName) {
-                return this.filters[index].customURL;
+        for(var index = 0; index < cardImageFilter.length; index++) {
+            if(cardImageFilter[index].name == cardName) {
+                return cardImageFilter[index].customURL;
             }    
         }    
 
         return "https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(cardName) + '&il';
     },
-
-    /*
-     * List of card image that need to be updated due to its 
-     * incorrect image from the default server 
-     * 
-     * (Note: This object should be treated as private)
-     * 
-     * name Name of the card
-     * customURL String representation of the URL to obtain this image from
-     */ 
-    this.filters = [
-        {
-            name: "Enchanted Javelin",
-            customURL: "/img/cards/enchantedJavelin.jpg"
-        },
-        {
-            name: "Hey, Trunade!",
-            customURL: "/img/cards/heytrunade.jpg"
-        }
-    ],
-
-    /*
-     * List of card data that was either errated for the game or the API 
-     * used to obtain this data does not contain it. All properties of 
-     * the cards mimic the data within 'search' function
-     * 
-     * (Note: This object should be treated as private)
-     */ 
-    this.cardFilters = [
-        {
-            name: "Return",
-            card_type: "Trap",
-            property: "Normal",
-            text: "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck." 
-        }
-    ],
 
     /*
      * Used in the 'obtainCardProperty' method for the returned card 
@@ -248,7 +212,7 @@ function CardsAPI() {
     this.obtainCardProperty = function(property) {
         var self = this;
         var cardProperty; 
-        $(this.cardFilters).each(function(index, card) {
+        $(cardDataFilter).each(function(index, card) {
             if(self.obtainCardName == card.name) {
                 cardProperty = card[property];
                 return false;
@@ -264,3 +228,19 @@ function CardsAPI() {
         }
     }
 };
+
+var cardImageFilter;
+$(document).ready(function() {
+    $.getJSON("/data/cardImageFilter.json", function(data){
+        cardImageFilter = data;
+
+        new CardsAPI().setImageFilters();
+    });
+}); 
+
+var cardDataFilter;
+$(document).ready(function() {
+    $.getJSON("/data/cardDataFilter.json", function(data){
+        cardDataFilter = data;
+    });
+}); 
