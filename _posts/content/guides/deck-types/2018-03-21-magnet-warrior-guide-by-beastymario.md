@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Magnet Warriors Guide – March 2018
+title: Magnet Warriors Guide
 author: Beastymario
 category: guide
 sub-category: deck-type

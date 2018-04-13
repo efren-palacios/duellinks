@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Sea Stealth Attack Guide - March 2018
+title: Sea Stealth Attack Guide
 author: BuiltToTilt
 category: guide
 sub-category: deck-type

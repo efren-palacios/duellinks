@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Treeborn Tribute Guide – April 2018
+title: Treeborn Tribute Guide
 author: xb8
 category: guide
 sub-category: deck-type

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Introduction to Paleozoics
+title: "First Look: Paleozoics"
 author: Snyffus
 category: guide
 sub-category: deck-type

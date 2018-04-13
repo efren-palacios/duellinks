@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Introduction to Sylvans
+title: "First Look: Sylvans"
 author: Superforms
 category: guide
 sub-category: deck-type

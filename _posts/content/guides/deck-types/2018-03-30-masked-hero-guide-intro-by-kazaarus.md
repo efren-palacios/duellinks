@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Introduction to Masked Heroes
+title: "First Look: Masked Heroes"
 author: Kazaarus
 category: guide
 sub-category: deck-type

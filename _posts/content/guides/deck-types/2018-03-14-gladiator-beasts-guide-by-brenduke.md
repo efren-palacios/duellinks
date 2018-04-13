@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Gladiator Beasts Guide – March 2018
+title: Gladiator Beasts Guide
 author: Brenduke
 category: guide
 sub-category: deck-type

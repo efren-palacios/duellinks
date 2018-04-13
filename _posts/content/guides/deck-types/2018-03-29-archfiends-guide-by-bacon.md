@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Archfiend Guide – March 2018
+title: Archfiend Guide
 author: Bacon
 category: guide
 sub-category: deck-type

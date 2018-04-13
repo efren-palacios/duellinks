@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Introduction to Geargia
+title: "First Look: Geargia"
 author: Brenduke
 category: guide
 sub-category: deck-type

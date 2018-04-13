@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Red-Eyes Zombies Guide - February 2018
+title: Red-Eyes Zombies Guide
 author: Cpt. Insano
 category: guide
 sub-category: deck-type

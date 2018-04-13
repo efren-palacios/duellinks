@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Aliens Deck Guide - March 2018
+title: Aliens Deck Guide
 author: Celestial
 category: guide
 sub-category: deck-type
