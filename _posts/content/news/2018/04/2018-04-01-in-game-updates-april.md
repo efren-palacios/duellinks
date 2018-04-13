@@ -51,9 +51,9 @@ permalink: /news/april-2018/in-game-updates/
 <a name="101"></a>
 ### KC Cup Celebration Sale
 
-As we found in out [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article there's a sale to celebrate the start of Stage 2 of the KC Cup. Konami have brought back the 3 Packs + 1 UR for $0.99 sale - hope you get some good pulls!   
+As we found in out [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article there's a sale to celebrate the start of Stage 2 of the KC Cup. Konami has finally brought back the 3 Packs + 1 UR for $0.99 sale - hope you get some good pulls!   
 
-![](/img/content/news/2018/04/in-game-updates/13-slider.jpg)
+[slider](/img/content/news/2018/04/in-game-updates/13-slider.jpg)
 
 ---
 
