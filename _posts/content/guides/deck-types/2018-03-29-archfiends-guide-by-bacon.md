@@ -1,10 +1,6 @@
 ---
 layout: blog
-<<<<<<< HEAD
-title: Archfiend Guide
-=======
 title: Archfiends Guide
->>>>>>> 79e5ba1e69c09431d0cd019f95e24284bdf67bc4
 author: Bacon
 category: guide
 sub-category: deck-type

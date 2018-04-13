@@ -1,10 +1,6 @@
 ---
 layout: blog
-<<<<<<< HEAD
-title: Aliens Deck Guide
-=======
 title: Aliens Guide
->>>>>>> 79e5ba1e69c09431d0cd019f95e24284bdf67bc4
 author: Celestial
 category: guide
 sub-category: deck-type
