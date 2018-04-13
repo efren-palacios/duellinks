@@ -213,7 +213,7 @@ Against a deck that swarms the board, try this combo:
 2. Tribute an opponents monster for an ECon take play 
 3. Use the taken monster to tribute summon  
 
-This combo is super strong and it is a 3 for 2 that nets you a big monster on the field. Totally not stolen from Grave Keepers.  
+This combo is super strong and it is a 3 for 2 that nets you a big monster on the field. Totally not stolen from Gravekeepers.  
 
 If you play {Monster Gate}, always use your opponents monster as the tribute by Soul Exchange or after stealing them with Enemy Controller to get max value out of it.  
 
