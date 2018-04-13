@@ -6,7 +6,7 @@ image: /img/pages/tier-list/thumbnadsdil.png
 category: page
 comments: false
 date: 2018-01-23
-description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
+description: Here you'll find detailed guides on how to farm every DM and GX Gate Duelist to attain the maximum Duel Assessment and rewards!
 keywords: guide, in-depth guide
 permalink: /farming/all-characters/
 hide: true
@@ -17,10 +17,11 @@ hide: true
 {% assign farm-pages-dm = site.posts | where: "category", "farming" | where: "season", "dm" %}
 {% assign farm-pages-gx = site.posts | where: "category", "farming" | where: "season", "gx" %}
 
+![](/img/pages/farming/all-characters/dm.png)
+
 <div class="tab-content">
     <div class="tab-pane fade show active">
         <div class="section"> 
-			<h4>Duel Monster Characters</h4>
             <div class="row button-row">
                 {% for farm-page in farm-pages-dm %}
                     <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3" >
@@ -32,8 +33,16 @@ hide: true
                 {% endfor %}
             </div>
         </div>
+    </div>
+</div>
+
+<br>
+
+![](/img/pages/farming/all-characters/gx.png)
+
+<div class="tab-content">
+    <div class="tab-pane fade show active">
 		<div class="section"> 
-			<h4>GX Characters</h4>
             <div class="row button-row">
                 {% for farm-page in farm-pages-gx %}
                     <div class="btn-wrapper col-sm-6 col-md-4 col-lg-3" >
