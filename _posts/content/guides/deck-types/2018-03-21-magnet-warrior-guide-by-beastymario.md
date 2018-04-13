@@ -7,7 +7,7 @@ sub-category: deck-type
 deck-type: magnet warriors
 image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet-warriors.jpg
 date: 2018-04-04
-comments: false
+comments: true
 description: A detailed guide written by Beastymario presenting a detailed look at the Magnet Warrior archetype.
 keywords: guide, magnets, magnet warrior, magnet warriors, alpha, beta, gamma, delta, valkyrionion, core cards
 permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/

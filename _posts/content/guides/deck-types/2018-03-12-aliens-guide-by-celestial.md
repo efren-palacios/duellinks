@@ -1,13 +1,17 @@
 ---
 layout: blog
+<<<<<<< HEAD
 title: Aliens Deck Guide
+=======
+title: Aliens Guide
+>>>>>>> 79e5ba1e69c09431d0cd019f95e24284bdf67bc4
 author: Celestial
 category: guide
 sub-category: deck-type
 deck-type: aliens
 image: /img/content/guides/aliens-guide-by-celestial/aliens.jpg
 date: 2018-03-14
-comments: false
+comments: true
 description: An in depth guide written by Celestial discussing the Alien archetype.
 keywords: alien, aliens, guide, in-depth guide, core cards
 permalink: /guides/deck-types/aliens-guide-by-celestial/

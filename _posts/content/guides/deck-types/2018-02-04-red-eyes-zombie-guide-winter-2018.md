@@ -7,7 +7,7 @@ sub-category: deck-type
 deck-type: red-eyes-zombies
 image: /img/content/guides/red-eyes-zombie-guide-winter-2018/thumbnail.png
 date: 2018-02-04
-comments: false
+comments: true
 description: A complete guide about Red Eyes Zombies in Winter 2018
 keywords: guide, rez, new
 permalink: /guides/deck-types/red-eyes-zombie-guide-winter-2018/

@@ -1,13 +1,17 @@
 ---
 layout: blog
+<<<<<<< HEAD
 title: Archfiend Guide
+=======
+title: Archfiends Guide
+>>>>>>> 79e5ba1e69c09431d0cd019f95e24284bdf67bc4
 author: Bacon
 category: guide
 sub-category: deck-type
 deck-type: archfiends
 image: /img/content/guides/archfiend-guide-by-bacon/archfiends.jpg
 date: 2018-03-30 02:00:00
-comments: false
+comments: true
 description: An in depth guide written by Bacon discussing the Archfiend archetype.
 keywords: guide, archfiends, fiends, in-depth guide, core cards
 permalink: /guides/deck-types/archfiend-guide-by-bacon/
