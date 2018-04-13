@@ -99,7 +99,7 @@ There are many more techs available but these are the most common.
 
 ### Tournament Top Decklists
 
-#### 1st Place: <TCB> Deadfun - [Duel Links Pro Tournament 15](/tournaments/duel-links-pro/15/report/)
+#### 1st Place: <TCB> Deadfun - Duel Links Pro Tournament 15
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Hey, Trunade!; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath) 
 
