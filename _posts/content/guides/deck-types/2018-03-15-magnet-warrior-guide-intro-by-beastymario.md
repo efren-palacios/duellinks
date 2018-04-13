@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Introduction to Magnet Warriors
+title: "First Look: Magnet Warriors"
 author: Beastymario
 category: guide
 sub-category: deck-type

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: A Guide to Reaching King of Games - April 2018
+title: A Guide to Reaching King of Games
 author: Jasdevi
 category: guide
 sub-category: competitive

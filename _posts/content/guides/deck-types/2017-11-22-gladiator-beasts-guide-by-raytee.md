@@ -7,7 +7,7 @@ sub-category: deck-type
 deck-type: gladiator-beasts
 image: /img/content/guides/gladiator-beasts-guide-by-raytee/gladiator-beasts-2.jpg
 date: 2017-11-22
-comments: false
+comments: true
 description: 
 keywords: guide, gladiators, gladiator beasts, in-depth guide, core cards
 permalink: /guides/deck-types/gladiator-beasts-guide-by-raytee/

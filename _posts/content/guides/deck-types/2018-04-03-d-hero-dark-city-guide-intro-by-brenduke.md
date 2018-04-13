@@ -7,7 +7,7 @@ sub-category: deck-type
 deck-type: destiny heroes
 image: /img/content/guides/destiny-hero-guide/dherosguide.jpg
 date: 2018-04-04 01:30:00
-comments: false
+comments: true
 description: A detailed guide written by Brenduke presenting a detailed look at the Dark City variant of the Destiny Hero archetype.
 keywords: guide, heroes, destiny heroes, aster phoenix, destiny hero, core cards
 permalink: /guides/deck-types/dark-city-destiny-hero-guide-by-brenduke/

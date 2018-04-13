@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Introduction to Sylvans
+title: "First Look: Sylvans"
 author: Superforms
 category: guide
 sub-category: deck-type
 deck-type: sylvans
 image: /img/content/guides/sylvans-guide-by-superforms/sylvanguide.jpg
 date: 2018-03-20
-comments: false
+comments: true
 description: A detailed guide written by Superforms presenting an introduction to the Sylvan archetype.
 keywords: guide, komushroomo, sylvans, plants, marshalleaf, hermitree, guardioak, excavate, core cards
 permalink: /guides/deck-types/sylvans-guide-intro-by-superforms/

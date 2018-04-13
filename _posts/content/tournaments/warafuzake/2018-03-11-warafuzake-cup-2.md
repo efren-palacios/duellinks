@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Warafuzake Cup # 2 Report"
-author: Jonesy9027 & ALP Arcanus
+author: Jonesy9027
 category: tournament
 tournament: The Warafuzake Cup
 number: 2
