@@ -7,7 +7,7 @@ sub-category: deck-type
 deck-type: masked-heroes
 image: /img/content/guides/masked-hero-guide-intro-by-kazaarus/masks1.jpg
 date: 2018-03-30 10:00:00
-comments: false
+comments: true
 description: A detailed guide written by Kazaarus presenting an introduction to the Masked Heroes archetype.
 keywords: guide, masked, masked hero, masked heroes, vapor, goka, mask change, core cards
 permalink: /guides/deck-types/masked-hero-guide-intro-by-kazaarus/

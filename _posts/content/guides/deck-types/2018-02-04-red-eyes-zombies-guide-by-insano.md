@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: Red-Eyes Zombies Guide - February 2018
+title: Red-Eyes Zombies Guide
 author: Cpt. Insano
 category: guide
 sub-category: deck-type
 deck-type: red-eyes-zombies
 image: /img/content/guides/red-eyes-zombie-guide-winter-2018/red-eyes-zombies.jpg
 date: 2018-02-04
-comments: false
+comments: true
 description: 
 keywords: red eyes, rez, zombies, in-depth guide, core cards
 permalink: /guides/deck-types/red-eyes-zombies-guide-by-insano/
