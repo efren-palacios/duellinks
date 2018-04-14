@@ -24,6 +24,9 @@ hide: false
 Masked Heroes is an archetype released in the Valiant Souls Main Box. While several Masked HERO monsters were released, Masked HERO Anki is by far the best based on his effect, stats and attribute. By sending a HERO monster you control to the graveyard, Mask Change allows you to special summon a Masked HERO monster with the same attribute from your extra deck. When Anki destroys a monster, he can search for any "Change" Quick-Play spell. This Quick-Play effect allows you to activate in the Battle Phase. 
 
 You can attack with your Destiny HERO monster, use Mask Change, attack with Masked HERO Anki, (if Anki destroys a monster) search for another Mask Change, activate Mask Change AGAIN to special summon another Anki and attack again. This combo is very reminiscent of the attack potential of Black Dragon Ninja with half the cost. With his 2800 atk, combined with his ability to attack directly for halved damage, Anki reaches several key thresholds that set up a quick OTK. Since Mask Change is a Quick-Play spell and does not limit itself to once per turn, you can easily clear your opponents entire field of monsters in one turn effectively killing any momentum.
+<br>
+
+---
 
 ### Sample Decks  
 
@@ -46,7 +49,9 @@ Here is Gunsblazings April King of Games and KC Cup deck.
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Mokey Mokey King;Mokey Mokey King)
 
 <br>
-     
+
+---
+
 ### Core Cards  
 
 The explosive power of this deck has allowed it to quickly run over the meta. Its ability to hold its own against Sylvans has allowed Masked Heroes to quickly establish itself as a Top Tier Deck. The relatively small Core section of this deck allows for several tech options to continually create a favorable matchup against new decktypes as the meta shifts.  
@@ -71,6 +76,7 @@ This archetype is still being refined and while the ideal build may still be und
 These cards are optional and will change depending on your build preference.  
 
 [deck](Sphere Kuriboh;Destiny HERO - Dreamer;Destiny Draw;Polymerization;Enemy Controller;Cosmic Cyclone;Forbidden Chalice;Acid Rain;Hey, Trunade!;Fire Formation - Gyokkou;Mirror Wall;Needle Ceiling;Wall of Disruption)  
+<br>
 
 ---
 
