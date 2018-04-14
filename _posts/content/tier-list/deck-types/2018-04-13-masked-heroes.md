@@ -60,6 +60,8 @@ The explosive power of this deck has allowed it to quickly run over the meta. It
 
 This archetype is still being refined and while the ideal build may still be undiscovered a Destiny HERO core has been established by several impressive tournament showings. There are currently two types of builds: a variant with fusion options and a pure monster core that relies solely on Anki. The fusion variant has been most popular in tournaments however, the pure monster variant has been increasingly appearing in King of Games Decks.  
 
+<br>
+
 #### Core Cards - Fusion Option  
 [deck](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
@@ -77,7 +79,7 @@ This archetype is still being refined and while the ideal build may still be und
 
 These cards are optional and will change depending on your build preference.  
 
-[deck](Sphere Kuriboh;Destiny HERO - Dreamer;Destiny Draw;Polymerization;Enemy Controller;Cosmic Cyclone;Forbidden Chalice;Acid Rain;Hey, Trunade!;Fire Formation - Gyokkou;Mirror Wall;Needle Ceiling;Wall of Disruption)  
+[deck](Sphere Kuriboh;Destiny HERO - Dreamer;Destiny Draw;Polymerization;Enemy Controller;Cosmic Cyclone;Forbidden Chalice;Acid Rain;Hey, Trunade!;Gravity Lash;Fire Formation - Gyokkou;Mirror Wall;Needle Ceiling;Wall of Disruption)  
 <br>
 
 ---
