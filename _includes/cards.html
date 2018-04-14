@@ -22,7 +22,7 @@
               <div class="text-white">
                 <small class="text-muted">Last Updated: {{ article.date | timeago }}
                   {% if article.author == 'Dkayed' %}
-                    By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
+                    By <b><a class="text-danger" href="/authors/{{article.author}}/">{{article.author}}</a></b> 
                   {% elsif article.author == 'Top Player Council' %}
                     By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                   {% else %}
@@ -79,7 +79,7 @@
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                          By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
+                          By <b><a class="text-danger" href="/authors/{{article.author}}/">{{article.author}}</a></b> 
                         {% elsif article.author == 'Top Player Council' %}
                           By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
@@ -120,7 +120,7 @@
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                          By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
+                          By <b><a class="text-danger" href="/authors/{{article.author}}/">{{article.author}}</a></b> 
                         {% elsif article.author == 'Top Player Council' %}
                           By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
