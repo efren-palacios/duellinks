@@ -59,6 +59,99 @@
   text-transform: uppercase;
   font-weight: 400;
 }
+
+.maincard {
+  background-size: cover;
+  height: 180px;
+  width: 100%;
+  box-shadow: 1px 1px 4px black;
+  border-radius: 5px;
+  background-position: top center;
+  display: block;
+  transition: transform .3s;
+}
+
+.maincard:hover {
+  transform: scale(1.2);
+  text-decoration: none;  
+}
+
+.maincover {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.5);
+  position: relative;
+  border-radius: 5px;
+  transition: background-color .3s ease;
+}
+
+.covertitle-box {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.covertitle {
+  font-weight: bold;
+  color: #c8c8c8;
+  margin: .67em 0;
+  transition: color .3s ease;
+  transition: background-color .3s ease;
+  transition: padding .3s ease;
+}
+
+.maincover:hover {
+  background-color: rgba(0,0,0,.2);
+  transition: background-color .3s ease;
+  .covertitle {
+    color: white;
+    background-color: rgba(darken($header-background, 5), .9);
+    width: 100%;
+    padding: 15px 0; 
+    transition: background-color .3s ease; 
+    transition: color .3s ease;
+    transition: padding .3s ease;
+  }
+}
+
+.maincard-text {
+  display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+	align-items: stretch;
+  align-content: stretch;
+  width: 100%;
+  position: absolute;
+  top: 80%;
+}
+
+.author-text {
+  background-color: rgba(0,0,0,.5);
+  padding: 0 10px;
+  border-bottom-right-radius: 5px;
+}
+
+.author-date {
+  font-size: 70%;
+  font-family: sans-serif;
+  color: rgb(200,200,200);
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.header-wrapper {
+  overflow: hidden;
+}
+
+@media (max-width: 945px) {
+  .maincard .covertitle {
+      margin-top: 25%;
+      font-size: 1.2em;
+  }
+}
 /* ------------------------ */
 
 
