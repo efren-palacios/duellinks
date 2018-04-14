@@ -1,8 +1,31 @@
 <div class="section header center">
     <h1>{{include.title | upcase}}</h1>
     {% if include.author != null and include.author != "" %}
-        <h2>by {{include.author}}</h2>
+        {% if include.author == 'Dkayed' %}
+            <h2>by <a href="/authors/{{include.author}}/">{{include.author}}</a></h2>
+        {% elsif include.author == 'Top Player Council' %}
+            <h2>by <a href="/top-player-council/{{include.author}}/">{{include.author}}</a></h2> 
+        {% elsif include.author == 'The Dev Team' %}
+            <h2>by <a href="/about/">{{include.author}}</a></h2> 
+        {% else %}
+            {% assign council = site.data.profiles %}
+            {% for member in council %}
+                {% if member[1].role == "top-player-council" %}
+                    {% assign downcaseMember = member[1].name | downcase %}
+                    {% assign downcaseAuthor = include.author | downcase %}
+                    {% if downcaseMember == downcaseAuthor %}
+                        {% assign councilMember = true %}
+                        <h2>by <a href="/top-player-council/{{include.author}}/">{{include.author}}</a></h2>
+                    {% endif %}
+                {% endif %}
+            {% endfor %}
+            {% unless councilMember %}
+                <h2>by <a href="/authors/{{include.author}}/">{{include.author}}</a></h2>
+            {% endunless %}
+            {% assign councilMember = false %}
+        {% endif %}
     {% endif %}
+
     {% if include.description != null and include.description != "" %}
         <p>{{include.description}}</p>
     {% endif %}
