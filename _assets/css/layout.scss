@@ -649,3 +649,25 @@ strong
 .font-size20{
   font-size: 20px;
 }
+
+@media only screen and (max-width: 767px)
+{
+  body { font-size: 16px; }
+  h1 { font-size: 36px; letter-spacing: 0.5px; }
+  h2 { font-size: 28px; letter-spacing: 0.3px; }
+  h3 { font-size: 24px; letter-spacing: normal; }
+  h4 { font-size: 21px; }
+  h5 { font-size: 19px; }
+  h6 { font-size: 17px; }
+}
+
+@media only screen and (max-width: 430px)
+{
+  body { font-size: 14px; }
+  h1 { font-size: 28px; letter-spacing: normal; }
+  h2 { font-size: 25px; letter-spacing: normal; }
+  h3 { font-size: 22px; }
+  h4 { font-size: 20px; }
+  h5 { font-size: 18px; }
+  h6 { font-size: 16px; }
+}

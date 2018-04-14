@@ -46,15 +46,7 @@
 /* OUR CUSTOM MEDIA QUERIES */
 
 @media only screen and (max-width: 767px)
-{
-  body { font-size: 16px; }
-  h1 { font-size: 36px; letter-spacing: 0.5px; }
-  h2 { font-size: 28px; letter-spacing: 0.3px; }
-  h3 { font-size: 24px; letter-spacing: normal; }
-  h4 { font-size: 21px; }
-  h5 { font-size: 19px; }
-  h6 { font-size: 17px; }
-  
+{ 
   .cardname { text-align: center; font-size: 1.5em; }
   .hero { margin-top: 50px; position: static; }
   .rarity { height: 2rem; }
@@ -135,14 +127,6 @@
 
 @media only screen and (max-width: 430px)
 {
-  body { font-size: 14px; }
-  h1 { font-size: 28px; letter-spacing: normal; }
-  h2 { font-size: 25px; letter-spacing: normal; }
-  h3 { font-size: 22px; }
-  h4 { font-size: 20px; }
-  h5 { font-size: 18px; }
-  h6 { font-size: 16px; }
-
   .button-row
   {
     width: calc(100% + 14px);
