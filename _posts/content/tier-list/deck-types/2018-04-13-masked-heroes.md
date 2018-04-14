@@ -25,15 +25,22 @@ Masked Heroes is an archetype released in the Valiant Souls Main Box. While seve
 
 You can attack with your Destiny HERO monster, use Mask Change, attack with Masked HERO Anki, (if Anki destroys a monster) search for another Mask Change, activate Mask Change AGAIN to special summon another Anki and attack again. This combo is very reminiscent of the attack potential of Black Dragon Ninja with half the cost. With his 2800 atk, combined with his ability to attack directly for halved damage, Anki reaches several key thresholds that set up a quick OTK. Since Mask Change is a Quick-Play spell and does not limit itself to once per turn, you can easily clear your opponents entire field of monsters in one turn effectively killing any momentum.
 
-### Sample Deck
+### Sample Decks
 Below you can find your MCS VII Champions Masked HERO deck.  
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Polymerization)
 
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
-     
+<br>
+Here is Gunsblazings April King of Games and KC Cup deck.  
 
+[deck:Restart](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller;Wall of Disruption)
+
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Mokey Mokey King;Mokey Mokey King)
+
+<br>
+     
 ### Core Cards  
 
 The explosive power of this deck has allowed it to quickly run over the meta. Its ability to hold its own against Sylvans has allowed Masked Heroes to quickly establish itself as a Top Tier Deck. The relatively small Core section of this deck allows for several tech options to continually create a favorable matchup against new decktypes as the meta shifts.  
