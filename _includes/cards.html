@@ -16,15 +16,15 @@
               </a>
             </div>
             <div class="card-block text-white">
-              <a href={{article.url}}>
+              <a href="{{article.url}}">
                 <h4 class="card-title">{{article.title}}</h4>
               </a>
               <div class="text-white">
                 <small class="text-muted">Last Updated: {{ article.date | timeago }}
                   {% if article.author == 'Dkayed' %}
-                    By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                    By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
                   {% elsif article.author == 'Top Player Council' %}
-                    By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                    By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                   {% else %}
                     {% assign council = site.data.profiles | where: 'role', 'top-player-council' %}
                     {% for member in council %}
@@ -32,12 +32,12 @@
                         {% assign downcaseAuthor = article.author | downcase %}
                         {% if downcaseMember == downcaseAuthor %}
                           {% assign councilMember = true %}
-                          By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/top-player-council/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b>
                           {% break %}
                         {% endif %}
                     {% endfor %}
                     {% unless councilMember %}
-                      By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                      By <b><a class="text-warning" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b>   
                     {% endunless %}
                     {% assign councilMember = false %}
                   {% endif %}
@@ -68,22 +68,22 @@
             <div class="col-sm-6 col-12 card-deck hiddenCard" style="display: none;">
               <div class="card">
                   <div class="zoom">
-                      <a href={{article.url}}> 
+                      <a href="{{article.url}}"> 
                           <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                       </a>
                   </div>
                   <div class="card-block text-white">
-                    <a href={{article.url}}>
+                    <a href="{{article.url}}">
                       <h4 class="card-title">{{article.title}}</h4>
                     </a>
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                          By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                          By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
                         {% elsif article.author == 'Top Player Council' %}
-                          By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
-                          By <b><a class="text-warning" href=/about/>{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/about/">{{article.author}}</a></b>
                         {% else %}
                           {% assign council = site.data.profiles | where: 'role', 'top-player-council' %}
                           {% for member in council %}
@@ -91,12 +91,12 @@
                               {% assign downcaseAuthor = article.author | downcase %}
                               {% if downcaseMember == downcaseAuthor %}
                                 {% assign councilMember = true %}
-                                By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                                By <b><a class="text-warning" href="/top-player-council/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b>
                                 {% break %}
                               {% endif %}
                           {% endfor %}
                           {% unless councilMember %}
-                            By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                            By <b><a class="text-warning" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b>   
                           {% endunless %}
                           {% assign councilMember = false %}
                         {% endif %}
@@ -109,22 +109,22 @@
             <div class="col-sm-6 col-12 card-deck">  
               <div class="card">
                   <div class="zoom">
-                      <a href={{article.url}}> 
+                      <a href="{{article.url}}"> 
                           <img src="{{article.image}}" data-src="{{article.image}}" class="card-img-top lazyload" />
                       </a>
                   </div>
                   <div class="card-block text-white">
-                    <a href={{article.url}}>
+                    <a href="{{article.url}}">
                       <h4 class="card-title">{{article.title}}</h4>
                     </a>
                     <div class="text-white">
                       <small class="text-muted">Last Updated: {{ article.date | timeago }}
                         {% if article.author == 'Dkayed' %}
-                          By <b><a class="text-danger" href=/authors/{{article.author}}/>{{article.author}}</a></b> 
+                          By <b><a class="text-danger" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b> 
                         {% elsif article.author == 'Top Player Council' %}
-                          By <b><a class="text-warning" href=/top-player-council/>{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
-                          By <b><a class="text-warning" href=/about/>{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/about/">{{article.author}}</a></b>
                         {% else %}
                           {% assign council = site.data.profiles %}
                           {% for member in council %}
@@ -133,12 +133,12 @@
                               {% assign downcaseAuthor = article.author | downcase %}
                               {% if downcaseMember == downcaseAuthor %}
                                 {% assign councilMember = true %}
-                                By <b><a class="text-warning" href=/top-player-council/{{article.author}}/>{{article.author}}</a></b>
+                                By <b><a class="text-warning" href="/top-player-council/{{ article.author | replace: " ", "_"}}/">{{article.author}}</a></b>
                               {% endif %}
                             {% endif %}
                           {% endfor %}
                           {% unless councilMember %}
-                            By <b><a class="text-warning" href=/authors/{{article.author}}/>{{article.author}}</a></b>   
+                            By <b><a class="text-warning" href="/authors/{{ article.author | replace: " ", "_" }}/">{{article.author}}</a></b>   
                           {% endunless %}
                           {% assign councilMember = false %}
                         {% endif %}
