@@ -30,6 +30,8 @@ You can attack with your Destiny HERO monster, use Mask Change, attack with Mask
 
 ### Sample Decks  
 
+<br>
+
 #### Fusion Option Build  
 
 Below you can find your MCS VII Champions Masked HERO deck.  
@@ -42,7 +44,7 @@ Below you can find your MCS VII Champions Masked HERO deck.
 
 #### Pure Monster Build  
 
-Here is Gunsblazings April King of Games and KC Cup deck.  
+Here is popular YouTuber Gunsblazings April King of Games and KC Cup deck.  
 
 [deck:Restart](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller;Wall of Disruption)
 
@@ -56,15 +58,15 @@ Here is Gunsblazings April King of Games and KC Cup deck.
 
 The explosive power of this deck has allowed it to quickly run over the meta. Its ability to hold its own against Sylvans has allowed Masked Heroes to quickly establish itself as a Top Tier Deck. The relatively small Core section of this deck allows for several tech options to continually create a favorable matchup against new decktypes as the meta shifts.  
 
-This archetype is still being refined and while the ideal build may still be undiscovered a Destiny HERO core has been established by several impressive tournament showings. There are currently two types of builds: a variant with fusion options and a pure monster core that relies solely on Anki. The fusion variant has been most popular in tournaments however, the pure monster has been increasingly appearing in King of Games Decks.  
+This archetype is still being refined and while the ideal build may still be undiscovered a Destiny HERO core has been established by several impressive tournament showings. There are currently two types of builds: a variant with fusion options and a pure monster core that relies solely on Anki. The fusion variant has been most popular in tournaments however, the pure monster variant has been increasingly appearing in King of Games Decks.  
 
-#### Core Cards Fusion Option  
+#### Core Cards - Fusion Option  
 [deck](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
 <br>
 
-#### Core Cards Pure Monsters    
+#### Core Cards - Pure Monsters    
 [deck](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Mask Change;Mask Change;Mask Change;)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki)
 <br>
