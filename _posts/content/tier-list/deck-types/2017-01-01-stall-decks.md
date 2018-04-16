@@ -48,4 +48,3 @@ These are good cards to fill the empty spaces on your deck.
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

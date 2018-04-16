@@ -17,4 +17,3 @@ permalink: /tier-list/bls-the-creator/
 
 {% include decktype_decks.html deckType=page.deck-type %}
 
-{% include top-decks-season-archive.html %}

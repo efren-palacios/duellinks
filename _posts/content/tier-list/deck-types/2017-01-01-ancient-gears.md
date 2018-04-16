@@ -62,4 +62,3 @@ Remember that this deck doesn't search or draw outside of the Draw Phase, so mak
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

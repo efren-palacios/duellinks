@@ -41,4 +41,4 @@ All of these cards are great additions of the deck but optional.
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}
+

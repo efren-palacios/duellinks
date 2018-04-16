@@ -49,4 +49,3 @@ While these cards can help in multiple matchups, they do not feed into CA's main
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

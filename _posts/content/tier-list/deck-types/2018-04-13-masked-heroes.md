@@ -101,4 +101,3 @@ These cards are optional and will change depending on your build preference.
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}
