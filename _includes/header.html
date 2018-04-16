@@ -2,31 +2,31 @@
   {% assign pages = site.categories.page | where: "sub-category", "main" | sort: "order" %}
   {% for page in pages %}
     <div class="col-sm-4 col-12 card-deck header">
-      <div class="card header-wrapper">
-        <a href={{page.url}} class="maincard" 
-          {% if page.url == "/events-and-farming/" %}
-              {% for event in site.categories.event limit:1 %}
-                style="background-image: url('{{event.image}}');"
+      <div class="card">
+        <div class="zoom">
+          <a href={{page.url}}> 
+            {% if page.url == "/events-and-farming/" %}
+                {% for event in site.categories.event limit:1 %}
+                <img src="{{event.image}}" class="card-img-top lazyload" />
               {% endfor %}
-          {% else %}
-            style="background-image: url('{{page.image}}');"
-          {% endif %}>
-          <div class="maincover">
-            <div class="covertitle-box"> 
-              <h2 class="covertitle">{{page.title | upcase}}</h2>
-            </div>  
-          </div>
-        </a>
-        <div class="maincard-text">
-          <div class="author-text">                  
+            {% else %}
+              <img src="{{page.image}}" class="card-img-top lazyload" />
+            {% endif %}
+          </a>
+        </div>
+        <div class="card-block">
+          <a href={{page.url}}>
+            <h4 class="card-title text-white">{{page.title}}</h4>
+          </a>
+          <div class="text-white">
             {% if page.url == "/tier-list/" %}
               {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
               {% assign firstDate = changelog[0].date %}
               {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-              <p class="author-date text-center">Last Updated: {{ fomattedFirstDate | timeago }}</p>
+              <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
             {% elsif page.url == "/events-and-farming/" %}
               {% for event in site.categories.event limit:1 %}
-              <p class="author-date text-center">Last Updated: {{ event.date | timeago }}</p>
+                <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
               {% endfor %}
             {% elsif page.url == "/top-decks/" %}
               {% assign years = site.data.top-decks | sort %}
@@ -53,7 +53,7 @@
                   {% endif %}
                 {% endfor %}
               {% endfor %}
-              <p class="author-date text-center">Last Updated: {{ lastCreated | timeago }}</p>
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
             {% elsif page.url == "/guides/" %} 
               {% assign filteredPosts = site.posts | filter_posts %}
               {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
@@ -63,7 +63,7 @@
                   {% assign lastCreated = formattedDate %}
                 {% endif %}
               {% endfor %}
-              <p class="author-date text-center">Last Updated: {{ lastCreated | timeago }}</p>
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
             {% elsif page.url == "/farming-and-events/" %}
               {% assign filteredPosts = site.posts | where: "category", "event" %}
               {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
@@ -73,13 +73,14 @@
                   {% assign lastCreated = formattedDate %}
                 {% endif %}
               {% endfor %}
-              <p class="author-date text-center">Last Updated: {{ lastCreated | timeago }}</p>  
+              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>  
             {% else %}
-              <p class="author-date text-center">Last Updated: {{ page.date | timeago }}</p>
+              <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
             {% endif %}
           </div>
         </div>
       </div>
+
     </div>
   {% endfor %}
 </div>
