@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (10) - April 13
+title: In-Game Updates (11) - April 15
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-13 05:00:00 +0100
+date: 2018-04-15 21:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,7 +13,8 @@ permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
+- [April 15th (Update 11)](#110)
+    - [Duel-A-Thon Update](#111)
 - [April 13th (Update 10)](#100)
     - [KC Cup (Stage 2) Is Underway](#101)
     - [KC Cup Celebration Sale](#102)
@@ -41,6 +42,20 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="110"></a>
+## April 15th (Update 11)
+
+<br>
+
+<a name="111"></a>
+### Duel-A-Thon Update
+
+The event has been updated with the usual multipler increases and **double** daily rewards. Read our [event article](/events/april-2018/duel-a-thon/) for more information and [Top Player Council](/top-player-council/) insight!
+
+[slider](/img/content/news/2018/04/in-game-updates/15-slider-duel-a-thon-update.jpg)
 
 ---
 

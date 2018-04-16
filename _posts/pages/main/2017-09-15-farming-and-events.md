@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: /img/pages/events/default-thumbnail.jpg
+image: /img/pages/events/thumbnail-duel-a-thon.jpg
 category: page
 sub-category: main
 order: 5
