@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (11) - April 15
+title: In-Game Updates (12) - April 16
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-15 21:00:00 +0100
+date: 2018-04-16 06:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,10 @@ permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+- [April 16th (Update 12)](#120)
+    - [World Championship (WCS) Qualifiers](#121)
+    - [Obtain a Legendary Duelist](#122)
 - [April 15th (Update 11)](#110)
     - [Duel-A-Thon Update](#111)
 - [April 13th (Update 10)](#100)
@@ -42,6 +46,27 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="120"></a>
+## April 16th (Update 12)
+
+<br>
+
+<a name="121"></a>
+### World Championship (WCS) Qualifiers 
+
+The qualifiers for the World Championship will be held in late May.
+
+[slider](/img/content/news/2018/04/in-game-updates/16-slider-wcs.jpg)
+
+<a name="122"></a>
+### Obtain a Legendary Duelist
+
+Yami Marik will return... again! He will also bring with him a new skill, likely one to support the {The Winged Dragon of Ra}. For those of us who have already obtained {The Winged Dragon of Ra}, Konami will reward us with a super, amazing, fantastic UR Jewel! 
+
+![](/img/content/news/2018/04/in-game-updates/16-yami-marik.jpg)
 
 ---
 
