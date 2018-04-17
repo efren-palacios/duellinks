@@ -1,12 +1,11 @@
 
-{% if site.url contains "dlmbeta.netlify.com" %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-93155050-2"></script>
+{% if site.url contains site.ga-url %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ga-code}}"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-93155050-2');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{site.ga-code}}');
     </script>
 {% endif %}
 
