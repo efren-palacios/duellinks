@@ -30,7 +30,7 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
   
 - I did some testing games with {Grit} however my sample size isn't large enough to clearly say there is a correlation. I exclusively tested LP and not turns so I cant say much about that. However, the results still show that the lower your LP the less likely {Grit} is to activate. {Grit} activation vs. {Grit} non-activation was 1-9 at 1000 or less LP. The one time it activated I was at 300 LP which is very low so it seems if it can activate while I'm at 300 LP it might as well activate when I'm at 1 LP although it didn't in 21 {Grit} activations for me, it seems to be very unlikely. At 1000-2000 LP I was at 9-20, this shows that the chance for {Grit} to activate significantly decreases in this area which I think is insane. At 2000-3000 LP it seemed to be 50-50 being at a score of 11-11. This is still interesting to see how much it actually decreases from the what, 80%(?) it has at 4000 LP. I tested against Legendary Duelists so I only got OTK'd once and it did trigger then.
 
-
+<!--
 **TsunTsun:**  
 
 - Regarding the probability of it activating. I tested 30 games going both first and second.  
@@ -45,6 +45,7 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
 
 This  data was verified in December 2017, so it may be different now.  
 *Credit to: TsunTsun*  
+-->
 
 ---
 
@@ -58,6 +59,28 @@ This graph shows which skills were popular with each deck created from all the d
 ### Top 100 Global Decks
 
 <br>
+
+#### **Deckmaker**
+##### Global Rank: 1
+##### Regional Rank (Korea/Taiwan/Oceania): 1
+
+[deck:Restart](Geargiattacker;Geargiattacker;Geargianchor;Geargianchor;Geargianchor;Geargiarsenal;Geargiarsenal;Ties of the Brethren; Ties of the Brethren;Enemy Controller;Enemy Controller;Enemy Controller;Memory Loss;Memory Loss;Memory Loss;Powerful Rebirth;Powerful Rebirth;Pulse Mines;Pulse Mines;Pulse Mines)
+
+
+[deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
+
+[deck:Destiny Calling](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Decider;Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial; Cosmic Cyclone; Cosmic Cyclone;Mask Change; Mask Change; Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller)
+
+[deck:Restart](Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Archfiend Empress; Archfiend Empress; Archfiend Empress; Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry; Divine Wrath;Divine Wrath; Call of the Archfiend; Call of the Archfiend; Call of the Archfiend; Archfiend's Roar; Archfiend's Roar; Archfiend's Roar; Needlebug Nest; Needlebug Nest; Needlebug Nest)
+
+[deck:Grit](Snipe Hunter;Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree;Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Enemy Controller)
+
+[deck:Grit](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Gishki Chain; Senju of the Thousand Hands;Senju of the Thousand Hands;Senju of the Thousand Hands; Cyber Petit Angel;  Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing;Sprite's Blessing; Sprite's Blessing)
+
+Check out his [video](https://youtu.be/R9RQRlFGlas) to find out more information about his experience.
+
+---
 
 #### **Gambler**
 ##### Global Rank: 3
@@ -284,6 +307,30 @@ These are the decks I used:
 
 0-35k Balance Masked Heroes.  
 35k-52k Grit Sylvans.  
+
+---
+
+#### **MiguelJoker**
+##### Global Rank: 66
+##### Regional Rank (Europe): 7
+
+[deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Hey, Trunade!;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Polymerization)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
+
+[deck:Restart](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;Sylvan Hermitree;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Enemy Controller;Enemy Controller;Enemy Controller;Different Dimension Ground;Different Dimension Ground)
+[deck](Gem-Knight Master Diamond;Gem-Knight Master Diamond;Gladiator Beast Heraklinos;Red-Eyes Slash Dragon; Ojama King)
+
+[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Beta the Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath;Powerful Rebirth; Powerful Rebirth; Powerful Rebirth;Wall of Disruption;Wall of Disruption)
+[deck](Gladiator Beast Heraklinos;Gladiator Beast Nerokius;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;)
+
+0-40 with Masked Heroes  
+I used {Bacon Saver} before but I took it out and replaced it with Destiny Draw when I added a Destiny HERO - Decider.  
+
+40-50k with Sylvans  
+I changed between {Divine Wrath} and {Different Dimension Ground}.  
+
+50-52k with Magnets  
+I lost 20k at one point but came back and finished at over 52k.  
 
 ---
 
