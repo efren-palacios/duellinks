@@ -83,7 +83,7 @@ These are the 4 decks I've played for different DP levels:
 ##### Global Rank: 4
 ##### Regional Rank (Asia): 1
 
-[deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Polymerization)
+[deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Sylvan Lotuswain; Dark World Lightning; Dark World Lightning; Enemy Controller; Enemy Controller)
