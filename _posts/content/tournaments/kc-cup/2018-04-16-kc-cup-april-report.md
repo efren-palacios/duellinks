@@ -1,12 +1,12 @@
 ---
 layout: blog
-date: 2018-04-16 00:20:00 +0100
+date: 2018-04-17 01:00:00 +0100
 title: KC Cup April - Top 100 Report
 author: Jonesy9027 & Yami Hammy
 category: tournament
 tournament: KC Cup
 number: 7
-image: /img/content/tournaments/kc-cup/april/thumbnail.png
+image: /img/content/tournaments/kc-cup/april/thumbnail.jpg
 comments: true
 description: Stage 2 of the April 2018 KC Cup has come to a close, and the results are in! Here you'll find player standings and decks; many of whom are in the DuelLinksMeta Discord!
 keywords: tournament, kc cup, april 2018, top 100, decks
@@ -59,7 +59,8 @@ This graph shows which skills were popular with each deck created from all the d
 <br>
 
 #### **Gambler**
-##### Global Rank: 3, Regional Rank (Korea/Taiwan/Oceania): 3
+##### Global Rank: 3
+##### Regional Rank (Korea/Taiwan/Oceania): 3
 
 [deck:Duel, standby!](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Into the Void; Into the Void; Into the Void; Mask Change; Mask Change; Mask Change; Back-Up Rider; Back-Up Rider; Back-Up Rider; Hey, Trunade!; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
@@ -79,7 +80,8 @@ These are the 4 decks I've played for different DP levels:
 ---
 
 #### **Glading**
-##### Global Rank: 4, Regional Rank (Asia): 1
+##### Global Rank: 4
+##### Regional Rank (Asia): 1
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Polymerization)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
@@ -97,7 +99,8 @@ I used {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) mostly un
 ---
 
 #### **Andy Tsang**
-##### Global Rank: 6, Regional Rank (North America): 1
+##### Global Rank: 6
+##### Regional Rank (North America): 1
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Polymerization)
 
@@ -108,7 +111,8 @@ No other decks used. Shoutouts to [Jason's](/top-player-council/jason/) homework
 ---
 
 #### **ぱなせ (Panase)**
-##### Global Rank: 7, Regional Rank (Japan): 2
+##### Global Rank: 7
+##### Regional Rank (Japan): 2
 
 [deck:Destiny Draw](Lava Golem;Kuriboh;Kuriboh;Kuriboh;Golden Ladybug;Golden Ladybug;Golden Ladybug;Temple of the Mind's Eye;Temple of the Mind's Eye;Temple of the Mind's Eye;Floodgate Trap Hole;Floodgate Trap Hole;Floodgate Trap Hole;Draining Shield;Draining Shield;Draining Shield;Wall of Disruption;Wall of Disruption;Wall of Disruption;Massivemorph;Massivemorph;Massivemorph)
 
@@ -118,7 +122,8 @@ Believe it or not 7th global using mainly this deck.
 ---
 
 #### **look at god**
-##### Global Rank: 8, Regional Rank (North America): 2
+##### Global Rank: 8
+##### Regional Rank (North America): 2
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Polymerization)
 
@@ -129,7 +134,8 @@ Shout out [Jason](/top-player-council/jason/) one time, best deck in format.
 ---
 
 #### **松 (Matsu)**
-##### Global Rank: 9, Regional Rank (Japan): 3
+##### Global Rank: 9
+##### Regional Rank (Japan): 3
 
 [deck:Grit](Saffira, Queen of Dragons;Saffira, Queen of Dragons;Saffira, Queen of Dragons;Cyber Angel Dakini;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Idaten;Senju of the Thousand Hands;Senju of the Thousand Hands;Senju of the Thousand Hands;Cyber Petit Angel;Cyber Petit Angel;Machine Angel Absolute Ritual;Hymn of Light;Hymn of Light;Hymn of Light;Machine Angel Ritual;Sprite's Blessing;Sprite's Blessing)
 
@@ -141,7 +147,8 @@ After switching to {Grit} my DP went from 20k to 70k with 66% win rate!
 ---
 
 #### **はる (Haru)**
-##### Global Rank: 10, Regional Rank (Japan): 4
+##### Global Rank: 10
+##### Regional Rank (Japan): 4
 
 [deck:Grit](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;Sylvan Hermitree;Sylvan Hermitree;World Carrotweight Champion;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Enemy Controller;Enemy Controller;Enemy Controller)
 
@@ -150,7 +157,8 @@ After switching to {Grit} my DP went from 20k to 70k with 66% win rate!
 ---
 
 #### **プノキオ (Punokiyo)**
-##### Global Rank: 13, Regional Rank (Japan): 6
+##### Global Rank: 13
+##### Regional Rank (Japan): 6
 
 [deck:Grit](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Tribute to the Doomed;Tribute to the Doomed;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Polymerization;Hallowed Life Barrier)
 
@@ -161,7 +169,8 @@ After switching to {Grit} my DP went from 20k to 70k with 66% win rate!
 ---
 
 #### **Jason**
-##### Global Rank: 14, Regional Rank (North America): 3
+##### Global Rank: 14
+##### Regional Rank (North America): 3
 
 [deck:Grit](Saffira, Queen of Dragons;Saffira, Queen of Dragons;Cyber Angel Dakini;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Idaten;Gishki Chain;Gishki Chain;Senju of the Thousand Hands;Senju of the Thousand Hands;Senju of the Thousand Hands;Cyber Petit Angel;Cyber Petit Angel;Machine Angel Absolute Ritual;Hymn of Light;Hymn of Light;Hymn of Light;Machine Angel Ritual;Sprite's Blessing)
 
@@ -173,7 +182,8 @@ Lol dead. We were never losing to {Grit} [Sylvans](/tier-list/deck-types/sylvans
 ---
 
 #### **TsunTsun**
-##### Global Rank: 20, Regional Rank (Japan): 11
+##### Global Rank: 20
+##### Regional Rank (Japan): 11
 
 [deck:Grit](Saffira, Queen of Dragons;Saffira, Queen of Dragons;Saffira, Queen of Dragons;Cyber Angel Dakini;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Benten;Cyber Angel Idaten;Senju of the Thousand Hands;Senju of the Thousand Hands;Senju of the Thousand Hands;Cyber Petit Angel;Cyber Petit Angel;Machine Angel Absolute Ritual;Hymn of Light;Hymn of Light;Hymn of Light;Machine Angel Ritual;Sprite's Blessing;Sprite's Blessing;Sprite's Blessing)
 
@@ -185,14 +195,16 @@ Used lots of decks but ultimately got to the highest score (70K) with these two.
 ---
 
 #### **Aurora**
-##### Global Rank: 24, Regional Rank (Asia): 3
+##### Global Rank: 24
+##### Regional Rank (Asia): 3
 
 [deck:Restart](Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Snipe Hunter; Archfiend Empress; Archfiend Empress; Archfiend Empress; Invader of Darkness; Invader of Darkness; Archfiend Cavalry; Trance Archfiend; Trance Archfiend; Trance Archfiend; Call of the Archfiend; Call of the Archfiend; Call of the Archfiend; Archfiend's Roar; Archfiend's Roar; Archfiend's Roar; Needlebug Nest; Needlebug Nest; Needlebug Nest)
 
 ---
 
 #### **Koizumi**
-##### Global Rank: 28, Regional Rank (Europe): 1
+##### Global Rank: 28
+##### Regional Rank (Europe): 1
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Dark World Lightning;Dark World Lightning;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Polymerization)
 
@@ -203,7 +215,8 @@ I did not have much time otherwise I could have done better.
 ---
 
 #### **Whilipino**
-##### Global Rank: 35, Regional Rank (North America): 4
+##### Global Rank: 35
+##### Regional Rank (North America): 4
 
 [deck:Grit](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Gishki Chain; Gishki Chain; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing)
 
@@ -216,7 +229,8 @@ Used [Geargias](/tier-list/deck-types/geargias/) until about 25K when it was mai
 ---
 
 #### **Silent Power**
-##### Global Rank: 46, Regional Rank (Europe): 5
+##### Global Rank: 46
+##### Regional Rank (Europe): 5
 
 [deck:Balance](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Gishki Chain; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Hey, Trunade!; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing)
 
@@ -227,7 +241,8 @@ Day 1 I used [Cyber Angels](/tier-list/deck-types/cyber-angels/), Day 2 {Grit} [
 ---
 
 #### **YehHey**
-##### Global Rank: 56, Regional Rank (North America): 6
+##### Global Rank: 56
+##### Regional Rank (North America): 6
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Hey, Trunade!;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Polymerization)
 
@@ -240,7 +255,8 @@ Pretty standard [Masked Heroes](/tier-list/deck-types/masked-heroes/) deck got m
 ---
 
 #### **Grucius**
-##### Global Rank: 57, Regional Rank (Europe): 6
+##### Global Rank: 57
+##### Regional Rank (Europe): 6
 
 [deck:Restart](Vision HERO Witch Raider;Alien Overlord;Alien Telepath;Alien Telepath;Alien Warrior;Alien Kid;Alien Kid;Alien Kid;Forbidden Chalice;"A" Cell Recombination Device;"A" Cell Recombination Device;"A" Cell Recombination Device;Divine Wrath;Mirror Wall;Mirror Wall;Powerful Rebirth;Powerful Rebirth;Powerful Rebirth;Brainwashing Beam; Brainwashing Beam)
 
@@ -257,7 +273,8 @@ These are the decks I used:
 ---
 
 #### **sonLukesanti**
-##### Global Rank: 72, Regional Rank (Europe): 9
+##### Global Rank: 72
+##### Regional Rank (Europe): 9
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
@@ -270,7 +287,8 @@ Also I changed to Hey, Trunade! sometimes. But didnt help vs Mirror Walls.
 ---
 
 #### **Hextor**
-##### Global Rank: 84, Regional Rank (Latin America): 9
+##### Global Rank: 84
+##### Regional Rank (Latin America): 9
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
@@ -282,7 +300,8 @@ I alternated between these two decks during the cup, depending on what I was fac
 ---
 
 #### **Guizyduck**
-##### Global Rank: 94, Regional Rank (Latin America): 10
+##### Global Rank: 94
+##### Regional Rank (Latin America): 10
 
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Ultimate Providence; Ultimate Providence; Ultimate Providence)
 
