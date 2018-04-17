@@ -309,6 +309,16 @@ About as standard as you can get, except for one little deciding factor: {Grit}.
 
 ---
 
+#### **Two Oh**
+##### Global Rank: 95
+##### Regional Rank (North America): 9
+
+[deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Enemy Controller)
+
+8k to 51k.
+
+---
+
 #### **Wildman**
 ##### Global Rank: 100
 
