@@ -30,22 +30,23 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
   
 - I did some testing games with {Grit} however my sample size isn't large enough to clearly say there is a correlation. I exclusively tested LP and not turns so I cant say much about that. However, the results still show that the lower your LP the less likely {Grit} is to activate. {Grit} activation vs. {Grit} non-activation was 1-9 at 1000 or less LP. The one time it activated I was at 300 LP which is very low so it seems if it can activate while I'm at 300 LP it might as well activate when I'm at 1 LP although it didn't in 21 {Grit} activations for me, it seems to be very unlikely. At 1000-2000 LP I was at 9-20, this shows that the chance for {Grit} to activate significantly decreases in this area which I think is insane. At 2000-3000 LP it seemed to be 50-50 being at a score of 11-11. This is still interesting to see how much it actually decreases from the what, 80%(?) it has at 4000 LP. I tested against Legendary Duelists so I only got OTK'd once and it did trigger then.
 
-<!--
-**TsunTsun:**
-Regarding the probability of it activating. I tested 30 games going both first and second  time of the preceding and the time of the fighting back.
 
-In case of precedence
-The number of times the effect was activated on turn 1 and 2 was 26 times.
-The number of times the effect was activated at the 3rd and 4th turns was 19 times.
+**TsunTsun:**  
 
-In case of post-attack
-The number of times the effect was activated on the second and third turn was 23 times.
-The number of times the effect was activated on turn 4 and turn 5 was 13 times.
+- Regarding the probability of it activating. I tested 30 games going both first and second.  
 
-This  data verified December 2017So it may be different now.
+- When going First:  
+* The number of times the effect was activated on turn 1 and 2 was 26 times.  
+* The number of times the effect was activated at the 3rd and 4th turns was 19 times.  
 
-*Credit to: TsunTsun*
--->
+- When going Second:  
+* The number of times the effect was activated on the second and third turn was 23 times.  
+* The number of times the effect was activated on turn 4 and turn 5 was 13 times.  
+
+This  data was verified in December 2017, so it may be different now.  
+*Credit to: TsunTsun*  
+
+---
 
 ### Top 100 Deck Breakdown
 
@@ -272,6 +273,20 @@ These are the decks I used:
 
 ---
 
+#### **米卡莎 <3FOREVER**
+##### Global Rank: 61
+##### Regional Rank (Asia): 7
+
+[deck:Balance](Snipe Hunter;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller;Mirror Wall;Curse of Anubis)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
+
+[deck:Grit](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;World Carrotweight Champion;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Sylvan Lotuswain;Enemy Controller;Enemy Controller;Ultimate Providence;Ultimate Providence)
+
+0-35k Balance Masked Heroes.  
+35k-52k Grit Sylvans.  
+
+---
+
 #### **sonLukesanti**
 ##### Global Rank: 72
 ##### Regional Rank (Europe): 9
@@ -283,6 +298,20 @@ These are the decks I used:
 
 I used Masked Heroes from 0-45K, dropped down to 32K because of anti Masked Heroes decks or techs (like 2 or 3 {Mirror Wall} in different decks) and then {Grit} Sylvans from 32-52k. 
 Also I changed to Hey, Trunade! sometimes. But didnt help vs Mirror Walls.
+
+---
+
+#### **Alvd-Freecs**
+##### Global Rank: 75
+##### Regional Rank (Europe): 10
+
+[deck:Balance](Geargiattacker;Geargiattacker;Geargiattacker;Geargianchor;Geargianchor;Geargianchor;Geargiarsenal;Geargiarsenal;Ties of the Brethren;Ties of the Brethren;Ties of the Brethren;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Mirror Wall;Mirror Wall;Pulse Mines;Pulse Mines;Pulse Mines;Desert Sunlight)
+
+[deck:Grit](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;Sylvan Hermitree;World Carrotweight Champion;World Carrotweight Champion;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Enemy Controller;Enemy Controller;Enemy Controller;Fragrance Storm)
+
+[deck:Duel, standby!](Warm Worm;Warm Worm;Warm Worm;Winged Kuriboh;Winged Kuriboh;Hiro's Shadow Scout;Hiro's Shadow Scout;The Flute of Summoning Kuriboh;Cup of Ace;Cup of Ace;Cup of Ace;Needle Ceiling;Needle Ceiling;Floodgate Trap Hole;Floodgate Trap Hole;Powerful Rebirth;Powerful Rebirth;Assault on GHQ;Assault on GHQ;Curse of Anubis)
+
+The first two decks I used for my climb and my 3 last wins were with this last deck.
 
 ---
 
