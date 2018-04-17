@@ -22,6 +22,13 @@ hide: true
 * Dr. Vellian Crowler **cannot** be dueled at the gate while you have him selected as your character
 * The Ancient Gear Archetype cards are the best **drop rewards** available from Dr. Crowler
  
+### Unlock Missions  
+* Summon {Elemental HERO Flame Wingman} 1 time while playing as Jaden Yuki, in a Duel against Dr. Vellian Crowler at level 30  
+* Inflict 2000 or more points of EFFECT damage with a single activation in a Duel against Dr. Vellian Crowler at level 30 using Jaden Yuki  
+* Achieve 1 Comeback Vistory in a Duel against Dr. Vellian Crowler at level 30 using Jaden Yuki  
+* Use level 7 or higher Monster Cards 3 times in one Duel World (GX) Duel  
+* Achieve 3 wins using only Machine-type Monster Cards in Duel World (GX) Duels   
+
 ### Card Rewards
 
 | **Card** |  **Rarity**  
