@@ -16,6 +16,8 @@ pinned: true
 
 {% include heading.html title=page.title author=page.author %}
 
+**Last updated: 18th April - Added more decks**
+
 ### Introduction
 
 This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (GMT).
@@ -78,7 +80,7 @@ This graph shows which skills were popular with each deck created from all the d
 
 [deck:Grit](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Gishki Chain; Senju of the Thousand Hands;Senju of the Thousand Hands;Senju of the Thousand Hands; Cyber Petit Angel;  Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing;Sprite's Blessing; Sprite's Blessing)
 
-Check out his [video](https://youtu.be/R9RQRlFGlas) to find out more information about his experience.
+Check out his [YouTube video](https://youtu.be/R9RQRlFGlas) to find out more information about his experience.
 
 ---
 
@@ -205,6 +207,19 @@ Lol dead. We were never losing to {Grit} [Sylvans](/tier-list/deck-types/sylvans
 
 ---
 
+#### **Riicky**
+##### Global Rank: 18
+##### Regional Rank (Latin America): 2
+
+[deck:Restart](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;Sylvan Hermitree;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Enemy Controller;Enemy Controller;Ultimate Providence;Ultimate Providence;Ultimate Providence)
+
+[deck:Restart](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Decider;Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Mask Change; Mask Change; Mask Change;Hey, Trunade!;Hey, Trunade!;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Enemy Controller)
+[deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
+
+[Facebook](https://m.facebook.com/story.php?story_fbid=2107422126157037&id=1990025531230031)
+
+---
+
 #### **TsunTsun**
 ##### Global Rank: 20
 ##### Regional Rank (Japan): 11
@@ -305,8 +320,19 @@ These are the decks I used:
 
 [deck:Grit](Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;World Carrotweight Champion;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Sylvan Lotuswain;Enemy Controller;Enemy Controller;Ultimate Providence;Ultimate Providence)
 
-0-35k Balance Masked Heroes.  
-35k-52k Grit Sylvans.  
+I played {Balance} [Masked Heroes](/tier-list/deck-types/masked-heroes/) from 0-35K and then {Grit} [Sylvans](/tier-list/deck-types/sylvans/) from 35-52K.  
+
+---
+
+#### **Striker Gamer**
+##### Global Rank: 65
+##### Regional Rank (Latin America): 7
+
+[deck:Mythic Depths](Hammer Shark; Hammer Shark; Hammer Shark; Beautunaful Princess; Oyster Meister; Oyster Meister; Oyster Meister; Golden Flying Fish; Golden Flying Fish; Golden Flying Fish; Forbidden Chalice; Forbidden Chalice; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Enemy Controller; Fish Depth Charge; Powerful Rebirth)
+
+[deck:Last Gamble](Snipe Hunter; Snipe Hunter; Gozuki; Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Bacon Saver; Forbidden Chalice; Forbidden Chalice; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Enemy Controller; Red-Eyes Spirit; Red-Eyes Spirit)
+
+I played [Fishes](/tier-list/deck-types/fishes/) for the entirety of Friday, and played [Red-Eyes Zombies](/tier-list/deck-types/red-eyes-zombies/) to place 7th Latin America in the end. I ran {Snipe Hunter} and {Forbidden Chalice} to ensure my matchups against [Sylvans](/tier-list/deck-types/sylvans/) were in my favor. Check out my [YouTube](https://www.youtube.com/watch?v=a_J3w2wv6Ck) for more information about the Deck.
 
 ---
 
@@ -323,14 +349,14 @@ These are the decks I used:
 [deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Beta the Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath;Powerful Rebirth; Powerful Rebirth; Powerful Rebirth;Wall of Disruption;Wall of Disruption)
 [deck](Gladiator Beast Heraklinos;Gladiator Beast Nerokius;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii;)
 
-0-40 with Masked Heroes  
+0-40K with [Masked Heroes](/tier-list/deck-types/masked-heroes/)  
 I used {Bacon Saver} before but I took it out and replaced it with Destiny Draw when I added a Destiny HERO - Decider.  
 
-40-50k with Sylvans  
+40-50K with Sylvans  
 I changed between {Divine Wrath} and {Different Dimension Ground}.  
 
-50-52k with Magnets  
-I lost 20k at one point but came back and finished at over 52k.  
+50-52K with Magnets  
+I lost 20k at one point but came back and finished at over 52K.  
 
 ---
 
@@ -343,8 +369,8 @@ I lost 20k at one point but came back and finished at over 52k.
 
 [deck:Grit](Sphere Kuriboh;Sylvan Komushroomo;Sylvan Komushroomo;Sylvan Komushroomo;Rose Lover;Rose Lover;Rose Lover;Sylvan Hermitree;World Carrotweight Champion;World Carrotweight Champion;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Marshalleaf;Sylvan Guardioak;Sylvan Guardioak;Sylvan Guardioak;Enemy Controller;Enemy Controller;Ultimate Providence;Ultimate Providence)
 
-I used Masked Heroes from 0-45K, dropped down to 32K because of anti Masked Heroes decks or techs (like 2 or 3 {Mirror Wall} in different decks) and then {Grit} Sylvans from 32-52k. 
-Also I changed to Hey, Trunade! sometimes. But didnt help vs Mirror Walls.
+I used [Masked Heroes](/tier-list/deck-types/masked-heroes/) from 0-45K, dropped down to 32K because of anti Masked Heroes decks or techs (like 2 or 3 {Mirror Wall} in different decks) and then {Grit} Sylvans from 32-52K. 
+Also I changed to {Hey, Trunade!} sometimes. But it didnt help vs Mirror Walls.
 
 ---
 
@@ -381,7 +407,7 @@ I alternated between these two decks during the cup, depending on what I was fac
 
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Ultimate Providence; Ultimate Providence; Ultimate Providence)
 
-About as standard as you can get, except for one little deciding factor: {Grit}. Amazing skill for this deck, gives it a chance to come back vs Masked Heroes and to survive even with bad starting hands. I played this from 0-51k, at the beginning I ran -1 {Enemy Controller} +1 {Sylvan Lotuswain} but it was really only useful in the [Geargia]() matchup where it can mill like 60 billion cards per turn, so I took it out.
+About as standard as you can get, except for one little deciding factor: {Grit}. Amazing skill for this deck, gives it a chance to come back vs Masked Heroes and to survive even with bad starting hands. I played this from 0-51K, at the beginning I ran -1 {Enemy Controller} +1 {Sylvan Lotuswain} but it was really only useful in the [Geargia]() matchup where it can mill like 60 billion cards per turn, so I took it out.
 
 ---
 
@@ -391,7 +417,7 @@ About as standard as you can get, except for one little deciding factor: {Grit}.
 
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Enemy Controller)
 
-8k to 51k.
+Played this from 8K to 51K.
 
 ---
 
@@ -401,3 +427,12 @@ About as standard as you can get, except for one little deciding factor: {Grit}.
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Fire Formation - Gyokkou; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Polymerization)
 
 [Twitter](https://twitter.com/wildman248/status/985896977933058048?s=19)
+
+
+
+
+
+
+
+
+
