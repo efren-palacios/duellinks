@@ -16,6 +16,8 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
+[slider](/img/content/farming/crowler-gate.jpg)
+
 ### General Information
 * Dr. Vellian Crowler requires **green** keys to duel at the gate
 * Unlock him by completing unlock missions
@@ -63,7 +65,7 @@ hide: true
 
 ---
 
-#### Level 40 Skill-less Farm - created by JadeHex  
+#### Level 40 Skill-less Farm - created by Jadehex  
 *Last updated: 04/17/2018*
 
 (7,500 Base [Duel Assessment](/farming/duel-assessment-score/))
