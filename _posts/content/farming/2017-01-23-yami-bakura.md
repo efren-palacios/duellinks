@@ -53,7 +53,7 @@ hide: true
 
 ---
 
-***Level 40 Farm - created by Jadehex (Last Updated: 12/22/17)***
+***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Forbidden Chalice; Forbidden Chalice; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shard of Greed; Shard of Greed; Twister; Twister; Twister; Shield & Sword; De-Spell; De-Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell)
 
@@ -80,10 +80,28 @@ hide: true
 * Attack one of his monsters with 1800 or less atk
 
 **Replacements**
-* {Anteatereatingant} > {The Fiend Megacyber} > {Guardian Grarl} (in order of reliability
+* {Anteatereatingant} > {The Fiend Megacyber} > {Guardian Grarl} (in order of reliability)
 * {Cursed Seal of the Forbidden Spell}/{Twister}/{De-Spell} > {Typhoon}/{Wild Tornado}
 * {Forbidden Chalice}/{Gravity Axe - Grarl} > {Iron Blacksmith Kotetsu}
-* {Shard of Greed} > {Pot of Benevolence} or other draw cards
+* {Shard of Greed} > {Pot of Benevolence} or other draw cards  
+
+***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
+
+[deck:Destiny Draw](The Winged Dragon of Ra;Golden Ladybug;Golden Ladybug;Golden Ladybug;Cosmic Compass;Emergency Provisions;Double Summon;Dian Keto the Cure Master;Dian Keto the Cure Master;Rain of Mercy;Rain of Mercy;Rain of Mercy;De-Spell;Jam Breeding Machine;Jam Breeding Machine;Jam Breeding Machine;The Regulation of Tribe;Numinous Healer;Numinous Healer;Numinous Healer;)
+
+**Strategy:**  
+* Use {Jam Breeding Machine} + {The Regulation of Tribe} (Call Fiends) to stall Bakura indefinitely (Use DDraw for this).  
+* Use healing cards, out-heal Ectoplasmer.  
+* Use {Rain of Mercy} + {De-Spell} to stop Bakura from killing himself with {Burning Land}.  
+
+**Last turn**  
+* Use Emergency Provisions (or Storm) to pop your Regulation and Jam Machine.  
+* Summon Cosmic Compass + 2 Compass Tokens.  
+* Use Double Summon (or Arrivalrivals) to Summon Ra and pay to boost his Atk on summon.  
+* Attack something with Ra for Gold.  
+
+**Replacements**  
+* You can put in a {Stop Defense} just in case Bakura puts all his monsters in Def, but its unlikely.  
 
 ---
 ### Level 40 Decklist
