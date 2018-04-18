@@ -47,25 +47,25 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 #### {Spell Strider} (UR)
 
 **[Superforms](/authors/superforms/)** says:
-- This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombie](/guides/deck-types/red-eyes-zombies-guide-by-insano/) against {Mythic Depths} [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/)). Not a ton of other use right now.
+- This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombies](/tier-list/deck-types/red-eyes-zombies/) against {Mythic Depths} [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/). Not a ton of other use right now.
 
 **[》3K《 All Day](/authors/3KAllDay/)** says:
 - Interesting card but too hard to utilize. Building a deck around {Big Bang Shot} still requires a second spell. This will likely be used for a Field Spell for Field Spell trade off and not that great.
 
 **[Glading](/authors/Glading/)** says:
-- Maybe good against [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) that you can banish your Field Spell and your opponent's {Umi}.
+- Maybe good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) that you can banish your Field Spell and your opponent's {Umi}.
 
 **[Xanxus](/authors/Xanxus/)** says:
-- At the moment very good against [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
+- At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
 
 **Whybona** says:
-- Good against [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
+- Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
 
 **[Machdragon](/authors/Machdragon/)** says:
-- A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) if you don't own {Cosmic Cyclone}.
+- A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
 
 **MiguelJoker** says:
-- Great Side Deck card against [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) decks.
+- Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
 
 ---
 
@@ -100,10 +100,10 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 #### {That Wacky Alchemy!} (SR)
 
 **[Superforms](/authors/superforms/)** says:
-- The card most likely to be relevant to top-tier decks. Alchemy works (in addition to other ways) after chains involving your opponent’s Spell cards resolve, meaning you can pop an {Cyber Angel Idaten} after it’s summoned off a non-protecting ritual spell ({Sprite's Blessing} or {Machine Angel Absolute Ritual}) or a {Masked HERO Anki} after it’s summoned off {Mask Change}. Because spells aren’t sent to the grave until after they resolve, you can’t chain to things like {Cosmic Cyclone} (when it’s targeting) or {Hey, Trunade!}. however, neither [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) nor [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/) (the current [Tier 1](/tier-list/) decks) are particularly hurt by this card, so at present it seems like Side Deck potential at best.
+- The card most likely to be relevant to top-tier decks. Alchemy works (in addition to other ways) after chains involving your opponent’s Spell cards resolve, meaning you can pop an {Cyber Angel Idaten} after it’s summoned off a non-protecting ritual spell ({Sprite's Blessing} or {Machine Angel Absolute Ritual}) or a {Masked HERO Anki} after it’s summoned off {Mask Change}. Because spells aren’t sent to the grave until after they resolve, you can’t chain to things like {Cosmic Cyclone} (when it’s targeting) or {Hey, Trunade!}. however, neither [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) nor [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) (the current [Tier 1](/tier-list/) decks) are particularly hurt by this card, so at present it seems like Side Deck potential at best.
 
 **[》3K《 All Day](/authors/3KAllDay/)** says:
-- This card might be a hidden gem. {Enemy Controller}, {Super Rush Headlong}, {Mask Change} and many more - it's a good tradeoff. It will especially hurt [Cyber Angels](/guides/deck-types/the-cyber-angels-guide-by-negative1/) after a ritual spell. Probably won't have any effect on [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) or [Sea Stealth Attack](/guides/deck-types/sea-stealth-attack-guide-by-builttotilt/).
+- This card might be a hidden gem. {Enemy Controller}, {Super Rush Headlong}, {Mask Change} and many more - it's a good tradeoff. It will especially hurt [Cyber Angels](/guides/deck-types/the-cyber-angels-guide-by-negative1/) after a ritual spell. Probably won't have any effect on [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) or [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/).
 
 **[Glading](/authors/Glading/)** says:
 - You can use this card when you opponent activates a Normal Spell and it's sent to the graveyard but it's still not flexible even in this case.

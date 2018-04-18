@@ -19,13 +19,11 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 
 <br>
 
-![screenshot](/img/content/news/2018/03/card-trader-update/slider-23-03.jpg)
-
 The Card Trader's inventory has been updated with some new additions to his card pool! 
 
 [deck](Super Solar Nutrient; Confronting the "C"; Danipon)
 
-### Top Player Council Opinions 
+### Top Player Council Thoughts
 
 **[Superforms](/authors/superforms/) says:** 
 
@@ -49,13 +47,11 @@ There will be various updates to the Card Trader, read about them in our [In-Gam
 
 <br>
 
-![screenshot](/img/content/news/2018/03/card-trader-update/slider-07-03.jpg)
-
 The Card Trader's inventory has been updated with some new additions to his card pool! 
 
 [deck](Swamp Mirrorer;Divine Dragon Aquabizarre;The Dragon Dwelling in the Deep)
 
-### Top Player Council Opinions 
+### Top Player Council Thoughts 
 
 **[Superforms](/authors/superforms/) says:** 
 The only interesting one is {Swamp Mirrorer}, the other two are trash. 
