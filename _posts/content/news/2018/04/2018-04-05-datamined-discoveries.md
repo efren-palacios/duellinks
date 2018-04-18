@@ -37,7 +37,7 @@ permalink: /news/april-2018/datamined-discoveries/
 
 <br>
 
-Our resident dataminer, XOF, has found details of next months Ranked Reward tickets!
+Our resident dataminer, XOF, has found details of next month's Ranked Duels Reward tickets!
 
 <a name="181"></a>
 ### New Ranked Tickets
