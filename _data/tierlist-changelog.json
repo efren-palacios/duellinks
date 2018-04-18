@@ -1,12 +1,15 @@
 {
     "game-changes":
     {
-        "date": 2018-04-09,
-        "description": "The new box (Valiant Souls) is out. The Geargia and Masked HERO archetypes are shaking up the meta."
+        "date": 2018-04-17,
+        "description": "The new box (Valiant Souls) was released April 2nd 2018. The Geargia and Masked HERO archetypes are still shaking up the meta and Archfiends are on the rise."
     },
     "tier-changes": 
     [
-        { "type": "sea-stealth-attack", "from": 1, "to": 2, "date": 2018-04-09 },
+        { "type": "red-eyes-zombies", "from": 2, "to": 3, "date": 2018-04-17 },
+        { "type": "aliens", "from": 2, "to": 3, "date": 2018-04-17 },
+        { "type": "archfiends", "from": 3, "to": 2, "date": 2018-04-17 },
+        { "type": "sea-stealth-attack", "from": 2, "to": 3, "date": 2018-04-17 },
         { "type": "cyber-angels", "from": 2, "to": 3, "date": 2018-04-09 },
         { "type": "destiny-heroes", "from": 3, "to": "nothing", "date": 2018-04-09 },
         { "type": "fishes", "from": 2, "to": "nothing", "date": 2018-04-09 },
