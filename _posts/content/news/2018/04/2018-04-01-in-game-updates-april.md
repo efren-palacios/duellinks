@@ -4,7 +4,7 @@ title: In-Game Updates (13) - April 17
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-17 22:00:00 +0100
+date: 2018-04-17 19:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
