@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (13) - April 17
+title: In-Game Updates (14) - April 18
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-17 12:00:00
+date: 2018-04-18 06:30:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,9 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 18th (Update 14)](#140)
+    - [Card Trader Inventory Updated](#141)
+    - [Maintenance Notice](#142)
 - [April 17th (Update 13)](#130)
     - [Dr. Vellian Crowler Added to the Gate](#131)
 - [April 16th (Update 12)](#120)
@@ -51,6 +54,27 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="140"></a>
+## April 18th (Update 14)
+
+<br>
+
+<a name="141"></a>
+### Card Trader Inventory Updated
+
+Check out the [Card Trader article](/news/april-2018/card-trader-inventory-updated/) with [Top Player Council](/top-player-council/) insight on the new cards!
+
+![](/img/content/news/2018/04/in-game-updates/18-card-trader-update.jpg)
+
+<a name="142"></a>
+### Maintenance Notice
+
+There will be a maintenance tomorrow to conclude the [Duel-A-Thon event](/events/april-2018/duel-a-thon/) and to prepare for the [Yami Marik event](#125) from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! :'( 
+
+![](/img/content/news/2018/04/in-game-updates/18-maintenance.jpg)
 
 ---
 
