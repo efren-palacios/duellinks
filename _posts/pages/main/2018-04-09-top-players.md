@@ -141,22 +141,23 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |12-18|SilchasRuin| 10 points|
 |12-18|Kiwi| 10 points|
 |12-18|Luke Tyler| 10 points|
-|19-34|SkillShot| 8 points|
-|19-34|Vladis| 8 points|
-|19-34|Kwrowe| 8 points|
-|19-34|Vyzual| 8 points|
-|19-34|SILENT POWER| 8 points|
-|19-34|MrCellophane| 8 points|
-|19-34|Jsanchghost| 8 points|
-|19-34|Eugen Heidt| 8 points|
-|19-34|Regtrainer1| 8 points|
-|19-34|Simon| 8 points|
-|19-34|OPnerfME| 8 points|
-|19-34|Insano| 8 points|
-|19-34|WALEEDSY| 8 points|
-|19-34|WayneKenoff| 8 points|
-|19-34|Shu| 8 points|
-|19-34|HidekiBro| 8 points|
+|19-35|Brenduke| 8 points |
+|19-35|SkillShot| 8 points|
+|19-35|Vladis| 8 points|
+|19-35|Kwrowe| 8 points|
+|19-35|Vyzual| 8 points|
+|19-35|SILENT POWER| 8 points|
+|19-35|MrCellophane| 8 points|
+|19-35|Jsanchghost| 8 points|
+|19-35|Eugen Heidt| 8 points|
+|19-35|Regtrainer1| 8 points|
+|19-35|Simon| 8 points|
+|19-35|OPnerfME| 8 points|
+|19-35|Insano| 8 points|
+|19-35|WALEEDSY| 8 points|
+|19-35|WayneKenoff| 8 points|
+|19-35|Shu| 8 points|
+|19-35|HidekiBro| 8 points|
 
 ### How to gain Meta points
 
