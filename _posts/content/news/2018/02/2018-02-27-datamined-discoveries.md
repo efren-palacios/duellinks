@@ -122,7 +122,7 @@ In addition, players will possibly be able to obtain 3 copies of {Ancient Gear C
 
 ### Top Player Council Thoughts
 
-**[Superforms](/authors/superforms/)** says: 
+**[Superforms](/top-player-council/superforms/)** says: 
 - {Biofalcon} is garbage. Cards that activate on battle destruction aren't even good now, and this is one step worse.
 - {Break! Draw!} seems bad too since it's a card that would replace a protection card in the current builds, and that's not something a control deck like Ancient Gears usually wants to lose. 
 - {Ultimate Ancient Gear Golem} could be used with {King of the Swamp} and {Cybernetic Fusion Support}, but Ancient Gears doesn't have any good searching power, and so you'd really just have to wait to draw into the materials. You could also run a Last Gamble build, possibly with {Spell Gear} but you would lose the {Ancient Gear Castle} provided by Middle Age Mechs.
@@ -134,12 +134,12 @@ The return of this event has some potentially important factors in the current m
 - 3 copies of {Ancient Gear Golem} will potentially be available.
 - 3 copies of {Ancient Gear Castle} will potentially be available.
 
-#### **[Superforms](/authors/superforms/)** says:
+#### **[Superforms](/top-player-council/superforms/)** says:
 
 - A third {Ancient Gear Golem} is interesting, especially now that we get more {Ancient Gear Castle}s too. Of everything coming in this new event, I think triple {Ancient Gear Golem} builds have the most potential to be good.
 Overall I'd say Ancient Gears are still a solid Tier 3 deck.
 
-#### **[Nix](/authors/nix/)** says:
+#### **Nix** says:
 
 - Ancient Gears will rise after this KC Cup, take my word for it.
 

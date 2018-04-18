@@ -58,13 +58,13 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 **[Xanxus](/authors/Xanxus/)** says:
 - At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
 
-**Whybona** says:
+**[Whybona](/top-player-council/whybona/)** says:
 - Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
 
 **[Machdragon](/authors/Machdragon/)** says:
 - A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
 
-**MiguelJoker** says:
+**[MiguelJoker](/top-player-council/migueljoker/)** says:
 - Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
 
 ---
@@ -84,13 +84,13 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 **[Xanxus](/authors/Xanxus/)** says:
 - This is a Normal Trap card playable with Paleozoics, but I do not see a high potential usage for this card.
 
-**Whybona** says:
+**[Whybona](/top-player-council/whybona/)** says:
 - May have some uses in gimmicky decks but likely won't see any competitive use due to the requirement of the monster having to be in Attack position.
 
 **[Machdragon](/authors/Machdragon/)** says:
 - I can see this being played in {The Unhappy Girl} farm decks. Generic once per turn battle protection is also quite good. It provides a nice boost to possible Amazoness decks.
 
-**MiguelJoker** says:
+**[MiguelJoker](/top-player-council/migueljoker/)** says:
 - Really good card in some decks, for example, {Hieratic Dragon of Nuit} which Special Summons a Normal Dragon when targeted by a  Spell, Trap or card effect.
 - It also works well with {Cocoon of Ultra Evolution}.
 
@@ -114,7 +114,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 **[Machdragon](/authors/Machdragon/)** says:
 - Pretty good card, provides much needed 1 for 1 Monster removal for the game and can be activated after the resolution of an opponent’s spell card. Many powerful spell cards such as {Enemy Controller} exist in the current meta so this may see play in Side Decks.
 
-**MiguelJoker** says:
+**[MiguelJoker](/top-player-council/migueljoker/)** says:
 - It's a card with potential. If we get any Tier 1 decks like Masked Heroes that use {Mask Change} you'll be able to destroy a Monster on the field which ain't bad. But as I said for this card to be in the Main Deck we need Destiny Heroes Mask Change to be a Top Tier deck, but perhaps it's a solid choice for a Side Deck card. 
 
 ---
@@ -123,7 +123,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 #### {Dr. Frankenderp} (R)
 
 **[Superforms](/authors/superforms/)** says:
-- Bad. It wouldn’t fit into any [Psychic] decks, and those fell off the [Tier List](/tier-list/) a long time ago.
+- Bad. It wouldn’t fit into any Psychic decks, and those fell off the [Tier List](/tier-list/) a long time ago.
 
 **[》3K《 All Day](/authors/3KAllDay/)** says:
 - Trash!
@@ -134,13 +134,13 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 **[Xanxus](/authors/Xanxus/)** says:
 - Not good at the moment but it maybe has future potential with more support cards.
 
-**Whybona** says:
+**[Whybona](/top-player-council/whybona/)** says:
 - Another garbage Psychic Monster to go alongside the mass of useless Psychic Monsters which have been released since {Serene Psychic Witch}.
 
 **[Machdragon](/authors/Machdragon/)** says:
 - This card isn’t great since it uses up your Normal Summon and skips your Draw Phase to activate its effect. Does not have a place in competitive play.
 
-**MiguelJoker** says:
+**[MiguelJoker](/top-player-council/migueljoker/)** says:
 - Maybe future potential in OTK decks or Burn decks.
 
 ---

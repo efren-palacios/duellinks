@@ -56,7 +56,7 @@ The release of this Box created the following deck types:
 ---
 
 <a name="tpc"></a>
-### Top Player Council - Post Release Updates
+### [Top Player Council](/top-player-council/) - Post Release Updates
 
 **Machdragon** says:
 - I was right about Amazoness. The new Amazoness Trap ({Amazoness Onslaught}) is decent, but still requires more impactful monsters to put it on the radar. 
@@ -154,7 +154,7 @@ I didn't test other decks as I'm too busy at the moment, I wont even have time f
 ---
 
 <a name="tpc2"></a>
-### Top Player Council - First Impressions
+### [Top Player Council](/top-player-council/) - First Impressions
 
 <a name="q1"></a>
 #### "What are the new deck types to look out for and the best cards for those deck types?"
