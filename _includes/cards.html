@@ -83,7 +83,7 @@
                         {% elsif article.author == 'Top Player Council' %}
                           By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
-                          By <b><a class="text-warning" href="/about/">{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/devteam/">{{article.author}}</a></b>
                         {% else %}
                           {% assign council = site.data.profiles | where: 'role', 'top-player-council' %}
                           {% for member in council %}
@@ -124,7 +124,7 @@
                         {% elsif article.author == 'Top Player Council' %}
                           By <b><a class="text-warning" href="/top-player-council/">{{article.author}}</a></b>
                         {% elsif article.author == 'The Dev Team' %}
-                          By <b><a class="text-warning" href="/about/">{{article.author}}</a></b>
+                          By <b><a class="text-warning" href="/devteam/">{{article.author}}</a></b>
                         {% else %}
                           {% assign council = site.data.profiles %}
                           {% for member in council %}

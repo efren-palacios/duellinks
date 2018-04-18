@@ -66,4 +66,3 @@ When activating {Beta the Electromagnet Warrior}'s first effect, keep track of h
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

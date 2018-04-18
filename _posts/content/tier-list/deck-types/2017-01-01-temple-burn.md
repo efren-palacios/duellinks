@@ -56,4 +56,3 @@ All the cards from the list will help to the deck purposes.
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

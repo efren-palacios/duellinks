@@ -81,4 +81,3 @@ These cards are all excellent additions to your Gladiator Beast deck. Remember, 
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

@@ -7,7 +7,7 @@
             {% elsif include.author == 'Top Player Council' %}
                 <h2>by <a href="/top-player-council/">{{include.author}}</a></h2> 
             {% elsif include.author == 'The Dev Team' %}
-                <h2>by <a href="/about/">{{include.author}}</a></h2> 
+                <h2>by <a href="/devteam/">{{include.author}}</a></h2> 
             {% else %}
                 {% assign council = site.data.profiles %}
                 {% for member in council %}
