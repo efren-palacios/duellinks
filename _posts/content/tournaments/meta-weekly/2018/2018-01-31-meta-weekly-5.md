@@ -17,6 +17,8 @@ permalink: /tournaments/meta-weekly/5/report/
 
 ![](/img/logos/meta-weekly.png)
 
+#### Meta Weekly 5 - January 31, 2018
+
 ### What is Meta Weekly?
 The Meta Weekly is one of Dkayed's new tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up at the very last second!
 
