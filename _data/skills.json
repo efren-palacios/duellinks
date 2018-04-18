@@ -1,898 +1,2145 @@
 [
   {
     "name": "LP Boost α",
-    "description": "Increases starting Life Points by 1000.",
-    "how": "Drop",
+    "description": "Increases starting Life Points by 1000.",    
     "exclusive": false,
-    "character": "Yami Yugi"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Level 4"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Level 4"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "LP Boost β",
-    "description": "Increases starting Life Points by 1500, reduce hand by 1 card.",
-    "how": "Drop",
+    "name": "LP boost β",
+    "description": "Increases starting Life Points by 1500, reduces hand by 1 card.",
     "exclusive": false,
-    "character": "Yami Yugi"
+    "characters": [
+      {
+        "name": "Mai Valentine",
+        "how": "Level 13"
+      },
+      {
+        "name": "Bonz",
+        "how": "Level 13"
+      },
+      {
+        "name": "Yami Yugi",
+        "how": "Drop"
+      },
+      {
+        "name": "Seto Kaiba",
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner",
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler",
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood",
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor",
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami",
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto",
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura",
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar",
+        "how": "Drop"
+      },
+      {
+        "name": "Odion",
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba",
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana",
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki",
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix",
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton",
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes",
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler",
+        "how": "Drop"
+      }
+    ]
   },
   {
     "name": "LP boost γ",
     "description": "Increases starting Life Points by 2500, reduce hand by 2 cards.",
-    "how": "Drop",
     "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Mighty as FIRE",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Firm as the EARTH",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Draw Sense: DARK",
-    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random DARK-Attribute monster.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Draw Sense: Spell/Trap",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spell/Trap card.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Draw Sense: Low Level",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, istead of doing a normal draw, draw a level 1-4 monster card.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Draw Pass",
-    "description": "In the Draw Phase, instead of doing a normal draw, restores Life Points by 300. The skill can be used only three times per Duel.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Spell Specialist",
-    "description": "If your Deck contains 5 or more Spell Cards with different names, you will have improved chances of having a Spell Card in your starting hand.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Power of Dark",
-    "description": "Begins Duel with the Field Spell 'Yami' activated.",
-    "how": "Level 4",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Balance",
-    "description": "Your starting hand will reflect the card balance of your deck.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Sorcery Conduit",
-    "description": "Can be used each time your Life Points decrase by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spellcaster-Type monster.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Yami Yugi"
-  },
-  {
-    "name": "Destiny Draw",
-    "description": "Can be used each time your Life Points decrease by 2000. In the Draw Phase, instead of doing a normal draw, draw the card of your choice.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yami Yugi"
-  },  
-  {
-    "name": "Grit",
-    "description": "The skill is activated randomly when your turn starts. Your Life Points does not get decreased to less than 1 until your opponent's next turn ends.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Reinforcements",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Warrior-Type monster.",
-    "how": "Level 20",
-    "exclusive": false,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Roll 'n' Boost",
-    "description": "Can be used each time your Life Points decrease by 2000. Show 1 monster card in your hand to the opponent and roll the die once. The Level of the monster shown becomes that of the die number untile the end of the turn.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Last Gamble",
-    "description": "Can be used in your Main Phase, starting from the fifth turn. Upon activation, reduces your LP to 100 and discards 2 cards from your hand. You roll a die and draw that number of cards. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Luck on Your Side",
-    "description": "If your Life Points drop below 1000, your coin tosses always land on heads.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Fields of the Warriors",
-    "description": "Begin Duel with the Field Spell 'Sogen' activated.",
-    "how": "Event",
-    "exclusive": true,
-    "character": "Joey Wheeler"
-  },
-  {
-    "name": "Aroma Strategy",
-    "description": "You can see the card at the top of your deck even before drawing it.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Mai Valentine"
-  },
-  {
-    "name": "Harpies' Last Will",
-    "description": "6 'Harpie' cards in your Graveyard are banished, and 1 'Harpie's Feather Duster' card is added to your hand from outside your Deck.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mai Valentine"
-  },
-  {
-    "name": "Flight of the Harpies",
-    "description": "Can be used each time your Life points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Harpie' card.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mai Valentine"
-  },
-  {
-    "name": "Harpies' Hunting Ground",
-    "description": "Begin the Duel with the Field Spell Harpies' Hunting Ground on the top of your deck.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mai Valentine"
-  },
-  {
-    "name": "Peak Performance",
-    "description": "Begins Duel with the Field Spell",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Seto Kaiba"
-  },
-  {
-    "name": "Beatdown!",
-    "description": "Boosts the ATK of face-up attack position monsters you control by 300 per level 5 or more monsters you control. You can only use the skill once per turn.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Seto Kaiba"
-  },
-  {
-    "name": "Heavy Starter",
-    "description": "If your Deck has 3 or more Level 5 or higher monsters with different names, you will have improved chance of having a Level 5 or higher monster in your starting hand.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Seto Kaiba"
-  },
-  {
-    "name": "Dinosaur Kingdom",
-    "description": "Begin duel with the field spell 'Jurassic World' activated.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Rex Raptor"
-  },
-  {
-    "name": "Dino Destruction",
-    "description": "Can be used if a Level 6 Dinosaur-Type monster is on your field. If that monster attacks a monster in a Defense Positin this turn, the opponent takes battle damage equal to the amount that ATK exceeds DEF. This skill can only be used once per turn.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Rex Raptor"
-  },
-  {
-    "name": "Titan Showdown",
-    "description": "Whichever player has double or more LP than the other takes double battle damage.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Rex Raptor"
-  },
-  {
-    "name": "Dinos Find a Way",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Dinosaur-Type monster.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Rex Raptor"
-  },
-  {
-    "name": "Dino Rampage",
-    "description": "Can be used each time your Life Points decrease by 1800, and you have a Dinosaur-Type normal monster on your field. That monster can attack twice during the Battle Phase, this turn. This skill can only be used once per turn.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Rex Raptor"
-  },
-  {
-    "name": "Insect Uprising",
-    "description": "You can use the skill when you control 3 or more Insect-type monsters. Decreases the ATK of face-up attack position monsters your opponent controls by 800. You can only use the skill once per turn.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Weevil Underwood"
-  },
-  {
-    "name": "Parasite Infestation",
-    "description": "After starting hands are dealt, 1 or 2 'Parasite Paracide' cards are added to your opponent's deck face up.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Weevil Underwood"
-  },
-  {
-    "name": "Buzz On",
-    "description": "Can be used each time your Life Points derease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Insect-Type monster.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Weevil Underwood"
-  },
-  {
-    "name": "Moth to the Flame",
-    "description": "Turn counts are double-speed for any 'Petit Moth' with 'Cocoon of Evolution' equipped on your side of the field.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Weevil Underwood"
-  },
-  {
-    "name": "Holy Guard",
-    "description": "You receive no battle damage during your turn.",
-    "how": "Level 3",
-    "exclusive": true,
-    "character": "Tea Gardner"
-  },
-  {
-    "name": "Surprise Present",
-    "description": "Select 1 card Set in your Spell & Trap Zone, and force it on your opponent. Only the player that activates this skill can view this card. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Tea Gardner"
-  },
-  {
-    "name": "Duel, standby!",
-    "description": "Gives 1 more card in each player's starting hand.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Tea Gardner"
-  },
-  {
-    "name": "LP Boost β",
-    "description": "Increases starting Life Points by 1500, reduce hand by 1 card.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Tea Gardner"
-  },
-  {
-    "name": "LP Boost b",
-    "description": "Increases starting Life Points by 1500, reduce hand by 1 card.",
-    "how": "Drop",
-    "exclusive": false,
-    "character": "Tea Gardner"
-  },
-  {
-    "name": "Switcheroo",
-    "description": "Can be used each time your Life Points decrease by 1000. Return 1 card in your hand to your Deck and draw another. This skill can only be used once per turn and twice per Duel.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Bandit Keith"
-  },
-  {
-    "name": "Sleight of Hand",
-    "description": "Can be used each time your Life Points decrease by 1500. Add 1 7 Completed card, hidden in your wristband, to your hand. This skill can only be used once per turn and twice per Duel.",
-    "how": "Level 13",
-    "exclusive": true,
-    "character": "Bandit Keith"
-  },
-  {
-    "name": "Baggy Sleeves",
-    "description": "If one of your monsters of Level 5 or higher is destroyed in battle, in your next Draw Phase a normal draw gives you 2 cards.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bandit Keith"
-  },
-  {
-    "name": "Cheater's Coin",
-    "description": "If your Life Points are at least 1000 more than opponent's, and if you have at least 5 cards in your hand, your coin tosses always land on heads.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bandit Keith"
-  },
-  {
-    "name": "Bandit",
-    "description": "Can be used if your Life Points are at 1500 or below. Select and take control of 1 card Set in your opponent's Spell & Trap Zone. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bandit Keith"
-  },
-  {
-    "name": "Mythic Depths",
-    "description": "Begins Duel with the Field Spell 'Umi' activated.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Mako Tsunami"
-  },
-  {
-    "name": "Draw Sense: WATER",
-    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random Water-Attribute monster.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Mako Tsunami"
-  },
-  {
-    "name": "Balance",
-    "description": "Your starting hand will reflect the card balance of your deck.",
-    "how": "Level 20",
-    "exclusive": false,
-    "character": "Mako Tsunami"
-  },
-  {
-    "name": "Menace from the Deep",
-    "description": "Can be used if 'Umi' is on the field, and you have a Water-attribute normal monster on your field. That monster can attack your opponent directly. this turn. At the end of the Battle Phase, that monster is sent to the Graveyard. This skill can only be used once per turn.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mako Tsunami"
-  },
-  {
-    "name": "Draw Pass",
-    "description": "In the Draw Phase, instead of doing a normal draw, restores Life Points by 300. The skill can be used only three times per Duel.",
-    "how": "Level 4",
-    "exclusive": false,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "Fairy's Smile",
-    "description": "If you normal draw a Fairy-Type monster card during the Draw Phase, the card is shown to the opponent and you recover 1000 Life Points.",
-    "how": "Level 13",
-    "exclusive": true,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "Prescience",
-    "description": "Can be used when your opponent's Life Points are more than twice your Life Points. You can see cards at the top of decks of both players.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "Gravekeeper's lot",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Gravekeeper's' card.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "No Mortal Can Resist",
-    "description": "Can be used when your Life points are at least 1000 less than the opponent's. All monsters in the opponent's Graveyard changes to Skull Servants (Zombie / DARK / Level 1 / ATK: 300 / DEF: 200). This skill can only be used once per turn.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "Sealed Tombs",
-    "description": "Until the end of the opponent's next turn, neither you nor the opponent can Special Summon monsters from the Graveyard. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Ishizu Ishtar"
-  },
-  {
-    "name": "Chain Reaction",
-    "description": "Can be used each time you activate a Trap card. Decreases your opponent's Life Points by 200.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Odion"
-  },
-  {
-    "name": "Draw Sense: Spell/Trap",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, istead of doing a normal draw, draw a random Spell/Trap card.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Odion"
-  },
-  {
-    "name": "Endless Trap Hell",
-    "description": "Can be used each time your 3 trap cards are sent to the graveyard. A random trap card in your graveyard is shuffled into your deck.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Odion"
-  },
-  {
-    "name": "Bluff Trap",
-    "description": "Can be used each time your Life Points decrease by 1200. 'Statue of the Wicked' is set in your Spell & Trap Zone.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Odion"
-  },
-  {
-    "name": "Trap Layer",
-    "description": "If your Deck contains 5 or more Trap Cards with different names, you will have improved chances of having a Trap Card in your starting hand.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Odion"
-  },
-  {
-    "name": "LP Boost α",
-    "description": "Increases starting Life Points by 1000.",
-    "how": "Level 4",
-    "exclusive": false,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "LP Boost a",
-    "description": "Increases starting Life Points by 1000.",
-    "how": "Level 4",
-    "exclusive": false,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "Mind Scan",
-    "description": "From the third turn and onward, you can see the opponent's set cards as long as your Life Points are 3000 or higher.",
-    "how": "Level 13",
-    "exclusive": true,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "Master of Rites",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Ritual monster or spell card.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "It's a Toon World",
-    "description": "Begin Duel with the Continuous Spell 'Toon World' activated.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "Creator",
-    "description": "Can be used if your Life Points drop below 2000. In the Draw Phase, instead of doing a normal draw, a powerful card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "Extra, Extra",
-    "description": "Can be used if your Life Points decrease by 2000. In the Draw Phase, a card you draw is duplicated.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Maximillion Pegasus"
-  },
-  {
-    "name": "Compensation",
-    "description": "Can be used each time your Life Points decreases by 1000. Send the card on the top of your Deck to the Graveyard, and recover 300 LP.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Yami Bakura"
-  },
-  {
-    "name": "Draw Sense: DARK",
-    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random DARK-Attribute monster.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Yami Bakura"
-  },
-  {
-    "name": "Tether of Defeat",
-    "description": "Can be used when one of the opponent's monster is destroyed in battle. The Top card from either your or the opponents deck is sent to the graveyard.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Yami Bakura"
-  },
-  {
-    "name": "Destiny Board",
-    "description": "Can be used if 'Dark Necrofear' is in your Graveyard, and your LP are at 2000 or below. At the end of your 5th turn after activating this skill, you win the Duel. This skill is negated if 'Dark Necrofear' leaves your Graveyard. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yami Bakura"
-  },
-  {
-    "name": "Fiend Farewell",
-    "description": "Can be used when one of your monsters is destroyed by battle. 1 random Fiend-Type monster from your Deck is sent to the graveyard.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yami Bakura"
-  },
-  {
-    "name": "Elements Unite!",
-    "description": "You will start the duel with 500 Life Points and your starting hand will be 1 card, which is 'Gate Guardian'. In addition, you will start the Duel with Suijin, Kazejin, and Sanga of the Thunder on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Paradox Brothers"
+    "characters": [
+      {
+        "name": "Tea Gardner",
+        "how": "Level 13"
+      },
+      {
+        "name": "Yami Marik",
+        "how": "Level 4"
+      },
+      {
+        "name": "Yami Yugi",
+        "how": "Drop"
+      },
+      {
+        "name": "Seto Kaiba",
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler",
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine",
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood",
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor",
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami",
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura",
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar",
+        "how": "Drop"
+      },
+      {
+        "name": "Odion",
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana",
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix",
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes",
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler",
+        "how": "Drop"
+      }
+    ]
   },
   {
     "name": "Restart",
-    "description": "Can be used after starting hand is distributed. Shuffle all the cards from your hand into the Deck. Then draw the starting hand again.",
-    "how": "Level 13",
+    "description": "Can be used only once after starting hands are dealt. Reveal and redraw your starting hand.",    
     "exclusive": false,
-    "character": "Paradox Brothers"
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Thunder, Water, and Wind",
-    "description": "Can be used when you life pints decrease by 1800. Randomly add one 'Sanga' 'Kazejin' or 'Suijin' to your hand (these cards are not drawn from your deck). Can only be used once per duel",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Paradox Brothers"
-  },
-  {
-    "name": "Three-Star Demotion",
-    "description": "Can be used when your Life Points are 1000 or below. Until the End Phase, reduce the Levels of all monsters in your hand by 3. This skill can be used on 'Suijin', 'Kazejin' and 'Sanga of the Thunder' regardless of your remaining Life Points. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Paradox Brothers"
-  },
-  {
-    "name": "Labyrinth Builder",
-    "description": "Shuffle 2 cards from your hand into the Deck to create 'Labyrinth Wall' on your side of the field. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Paradox Brothers"
-  },
-  {
-    "name": "Guardian Call",
-    "description": "Can be used when your Life Points decrease by 1800. Randomly add 1 'Guardian' card from your Deck to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Paradox Brothers"
-  },
-  {
-    "name": "Grandpa's cards",
-    "description": "Begin duel with the 5 exodia pieces in your Deck.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Yugi Muto"
-  },
-  {
-    "name": "The Tie that Binds",
-    "description": "Until the end of you turn, the ATK of all face-up monsters on your field increases by the number of monsters on your field times 100. This skill can only be used once per turn.",
-    "how": "Level 13",
+    "name": "Balance",
+    "description": "Your starting hand will reflect the card balance of your Deck.",    
     "exclusive": false,
-    "character": "Yugi Muto"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Restart",
-    "description": "Can be used after starting hand is distributed. Shuffle all the cards from your hand into the Deck. Then draw the starting hand again.",
-    "how": "Level 20",
+    "name": "Draw Pass",
+    "description": "In the Draw Phase, instead of doing a normal draw, recover 300 Life Points. This skill can only be used three times per Duel.",    
     "exclusive": false,
-    "character": "Yugi Muto"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Level 4"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Access denied",
-    "description": "Can be used if your LP drops below 1000. Until the end of your opponent's next turn, neither you or your opponent can normal summon or special summon effect monsters, or activate monsters effects. This skill can be used once per duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yugi Muto"
-  },
-  {
-    "name": "My Monster Cards",
-    "description": "If your Deck contains 6 or more Level 4 or below Monster Cards with different names, you will have improved chances of having a Level 4 Monster Card in your starting hand.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yugi Muto"
-  },
-  {
-    "name": "Monstermorph: Evolution",
-    "description": "Can be used each time your Life Points decrease by 1500. Once per turn, send 1 Monster on your side of the field (except a Token) to summon 1 random Monster (that can be Normal Summoned) from your deck whose attribute and type are same to and level is 1 higher than the tributed monster.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Mokuba"
-  },
-  {
-    "name": "Heavy Starter",
-    "description": "If your Deck has 3 or more Level 5 or higher monsters with different names, you will have improved chance of having a Level 5 or higher monster in your starting hand.",
-    "how": "Level 13",
+    "name": "Draw Sense: DARK",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random DARK-attribute monster.",    
     "exclusive": false,
-    "character": "Mokuba"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
     "name": "Draw Sense: LIGHT",
-    "description": "If your Deck has 3 or more Level 5 or higher monsters with different names, you will have improved chance of having a Level 5 or higher monster in your starting hand.",
-    "how": "Level 20",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random LIGHT-attribute monster.",    
     "exclusive": false,
-    "character": "Mokuba"
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "KaibaCorp Bling",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Prismatic or Glossy Card.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mokuba"
-  },
-  {
-    "name": "Monstermorph: De-Evolution",
-    "description": "Can be used each time your Life Points decrease by 1500. Once per turn, send 1 Monster on your side of the field (except a Token) to summon 1 random Monster (that can be Normal Summoned) from your deck whose attribute and type are same to and level is 1 lower than the tributed monster.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Mokuba"
-  },
-  {
-    "name": "LP boost γ",
-    "description": "Increases starting Life Points by 2500, reduce hand by 2 cards.",
-    "how": "Level 4",
+    "name": "Draw Sense: EARTH",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random EARTH-attribute monster.",    
     "exclusive": false,
-    "character": "Yami Marik"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Draw Sense: DARK",
-    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random DARK attribute monster.",
-    "how": "Level 13",
+    "name": "Draw Sense: WATER",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random WATER-attribute monster.",    
     "exclusive": false,
-    "character": "Yami Marik"
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Right Back at You",
-    "description": "Can be used in the Main Phase of your next turn following the turn in which you took battle damage. Select 1 face-up monster on your field. This turn, the selected monster's ATK increases by half of the battle damage received in the turn you last took battle damage. This skill can only be used once per turn.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Yami Marik"
-  },
-  {
-    "name": "Shadow Game",
-    "description": "At the end of their respective turn, each player will lose LP equal to '100' times the number of cards in their own graveyard.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Yami Marik"
-  },
-  {
-    "name": "Straight to the Grave",
-    "description": "Begin Duel with the Field Spell 'Wasteland' activated.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Bonz"
-  },
-  {
-    "name": "Zombie Draw",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, randomly draw a Zombie-Type monster.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bonz"
-  },
-  {
-    "name": "Posthumous Army",
-    "description": "Can be used each time your Life Points decrease by 2000. The monsters in both player's Graveyards become Zombie-Type monsters.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bonz"
-  },
-  {
-    "name": "Where the Heroes Dwell",
-    "description": "Can be used after you Life Points are 2000 or below. Play the Field Spell 'Skyscraper'. If there already is Field Spell on your side of the Field, Return it to your hand. This skill can only be used once per duel.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Jaden Yuki"
-  },
-  {
-    "name": "Fusion Time!",
-    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand.",
-    "how": "Level 13",
-    "exclusive": true,
-    "character": "Jaden Yuki"
-  },
-  {
-    "name": "Reinforcements",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster.",
-    "how": "Level 20",
+    "name": "Draw Sense: FIRE",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random FIRE-attribute monster.",    
     "exclusive": false,
-    "character": "Jaden Yuki"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Miracle Fusion Time!",
-    "description": "Can be used if your Life Points drop below 1000. In the Draw Phase, instead of doing a normal draw, Miracle Fusion spell card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Jaden Yuki"
-  },
-  {
-    "name": "The Tie that Binds",
-    "description": "Until the end of you turn, the ATK of all face-up monsters on your field increases by the number of monsters on your field times 100. This skill can only be used once per turn.",
-    "how": "Drop",
+    "name": "Draw Sense: WIND",
+    "description": "Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random WIND-attribute monster.",    
     "exclusive": false,
-    "character": "Jaden Yuki"
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Draw Sense: Low-Level",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random monster of Level 4 or lower.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Level 13"
+      }
+    ]
+  },
+  {
+    "name": "Draw Sense: High-Level",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random monster of Level 5 or higher.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Rex Raptor", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Draw Sense: Spell/Trap",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spell/Trap card.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Seto Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      },
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      },
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Life Cost 0",
+    "description": "Can be used if your Life Points are at 1000 or below. Until the end of the opponent's next turn, you do not have to pay Life Points to activate a card. This skill can only be used once per Duel.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Tea Gardner", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Mako Tsunami", 
+        "how": "Drop"
+      },
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Heavy Starter",
+    "description": "If you have 3 or more Level 5 or higher monsters with different names in your Deck, you will have an improved chance of having a Level 5 or higher monster in your starting hand.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Level 13"
+      }
+    ]
   },
   {
     "name": "Grit",
-    "description": "The skill is activated randomly when your turn starts. Your Life Points does not get decreased to less than 1 until your opponent's next turn ends.",
-    "how": "Drop",
+    "description": "Skill activation is determined by probability at the start of each of your turns. Until the end of your opponent's next turn, your Life Points will not fall below 1.",    
     "exclusive": false,
-    "character": "Jaden Yuki"
-  },
-  {
-    "name": "Destiny Calling",
-    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Dark City.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Aster Phoenix"
-  },
-  {
-    "name": "Master of Fusion",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, Polymerization spell card, from outside of your Deck, is added to your hand.",
-    "how": "Level 13",
-    "exclusive": false,
-    "character": "Aster Phoenix"
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Level 20"
+      }
+    ]
   },
   {
     "name": "Reinforcements",
-    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster.",
-    "how": "Level 20",
+    "description": "Can be used each time your Life Points decrease by 1800. Return 1 card from your hand to your Deck and draw a random Warrior-Type monster.",    
     "exclusive": false,
-    "character": "Aster Phoenix"
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Aster Phoenix", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Bring it!",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Level 8・Dark・Warrior Monster Card from your deck.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Aster Phoenix"
-  },
-  {
-    "name": "Land of the Ojamas",
-    "description": "Begins Duel with the Field Spell 'Ojama Country' activated.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Chazz Princeton"
-  },
-  {
-    "name": "Draw Sense: Low Level",
-    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, istead of doing a normal draw, draw a level 1-4 monster card.",
-    "how": "Level 13",
+    "name": "The Tie that Binds",
+    "description": "Until the end of your turn, the ATK of all face-up monsters on your field increases by the number of monsters on your field times 100. This skill can only be used once per turn.",    
     "exclusive": false,
-    "character": "Chazz Princeton"
+    "characters": [
+      {
+        "name": "Yugi Muto", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Level 13"
+      }
+    ]
   },
   {
-    "name": "Ojama Go!",
-    "description": "Can be used each time your Life Points decrease by 1800. Summon 1 Ojama Token (Defense Position) on your opponent's side of the field.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Chazz Princeton"
-  },
-  {
-    "name": "Ojama Overflow",
-    "description": "Can be used after your Life Points are at 500 or below. Special Summon Ojama Tokens to all available Monster Card Zones on your opponent's side of the Field. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Chazz Princeton"
-  },
-  {
-    "name": "Dragonic Fusion",
-    "description": "Begin the Duel with 'Dragon's Mirror' in your Deck, and 'Five-Headed Dragon' in your Extra Deck.",
-    "how": "Event",
-    "exclusive": true,
-    "character": "Chazz Princeton"
-  },
-  {
-    "name": "Silent as WATER",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "Quick as the WIND",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Level 13",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "Mighty as FIRE",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "Firm as the EARTH",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, rerturn it to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "Radiating LIGHT",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "DARK as Night",
-    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",
-    "how": "Drop",
-    "exclusive": true,
-    "character": "Bastion Misawa"
-  },
-  {
-    "name": "Blessing of the Cyber Angel",
-    "description": "Can be used if your Life Points drop below 2000. In the Draw Phase, instead of doing a normal draw, one Cyber Angel Monster Card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Alexis Rhodes"
+    "name": "Beatdown",
+    "description": "This turn, the ATK of all face-up monsters on your field increases by the number of monsters of Level 5 or higher on your field times 300. This skill can only be used once per turn.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Level 13"
+      }
+    ]
   },
   {
     "name": "Master of Fusion",
-    "description": "Can be used each time your Life Points decrase by 1800. In the Draw Phase, instead of doing a normal draw, one Polymerization Spell Card, from outside of your Deck, is added to your hand.",
-    "how": "Level 13",
+    "description": "Can be used each time your Life Points decrease by 1800. Instead of doing a normal draw, 'Polymerization' is added to your hand from outside of your Deck.",    
     "exclusive": false,
-    "character": "Alexis Rhodes"
+    "characters": [
+      {
+        "name": "Aster Phoenix", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Level 13"
+      }
+    ]
   },
   {
-    "name": "Master of Rites II",
-    "description": "Begin Duel with the Continuous Spell 'Ritual Cage' activated.",
-    "how": "Level 20",
-    "exclusive": true,
-    "character": "Alexis Rhodes"
-  },
-  {
-    "name": "Middle Age Mechs",
-    "description": "Activate the Continuous Spell 'Ancient Gear Castle' at the beggining of your first turn.",
-    "how": "Level 4",
-    "exclusive": true,
-    "character": "Vellian Crowler"
-  },
-  {
-    "name": "Beatdown!",
-    "description": "Boosts the ATK of face-up attack position monsters you control by 300 per level 5 or more monsters you control. You can only use the skill once per turn.",
-    "how": "Level 13",
+    "name": "Master of Rites",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Ritual Monster or Ritual Spell Card.",    
     "exclusive": false,
-    "character": "Vellian Crowler"
+    "characters": [
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Level 20"
+      },
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Draw Sense: Earth",
-    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random EARTH attribute monster.",
-    "how": "Level 20",
+    "name": "Spell Specialist",
+    "description": "If your Deck contains 5 or more Spell Cards with different names, you will have improved chances of having a Spell Card in your starting hand.",    
     "exclusive": false,
-    "character": "Vellian Crowler"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      }
+    ]
   },
   {
-    "name": "Teacherly Discipline",
-    "description": "Can be used each time your Life Points decrease by 1500. Declare a Monster, Spell, or Trap Card. That type of card will be randomly selected from your opponent's Deck and placed on top of their Deck. Neither player will see what the card is. Nothing will be placed on top of your opponent's Deck if the declared card type is not in their Deck.",
-    "how": "Drop",
+    "name": "Power of Dark",
+    "description": "Begin Duel with the Field Spell 'Yami' activated.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Level 4"
+      },
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Fairy's Smile",
+    "description": "If you normal draw a Fairy-Type monster card during the Draw Phase, the card is shown to the opponent and you recover 1000 Life Points.",    
+    "exclusive": false,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Level 13"
+      },
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Sorcery Conduit",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spellcaster-Type monster.",    
     "exclusive": true,
-    "character": "Vellian Crowler"
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Destiny Draw",
+    "description": "Can be used each time your Life Points decrease by 2000. In the Draw Phase, instead of doing a normal draw, draw a card of your choice.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Yugi", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Peak Performance",
+    "description": "Begin Duel with the Field Spell 'Mountain' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Seto Kaiba", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Fields of the Warriors",
+    "description": "Begin Duel with the Field Spell 'Sogen' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Other"
+      }
+    ]
+  },
+  {
+    "name": "Last Gamble",
+    "description": "Can be used in your Main Phase, starting from the fifth turn. Upon activation, reduces your LP to 100 and discards 2 cards from your hand. You roll a die and draw that number of cards. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Luck on Your Side",
+    "description": "If your Life Points drop below 1000, your coin tosses always land on heads.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Roll 'n' Boost",
+    "description": "Can be used each time your Life Points decrease by 2000. Show 1 monster card in your hand to the opponent and roll the die once. The Level of the monster shown becomes that of the die number until the end of the turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Joey Wheeler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Aroma Strategy",
+    "description": "You can look at the card at the very top of your Deck at any time.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mai Valentine", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Harpies' Hunting Ground",
+    "description": "Begin the Duel with the Field Spell Card 'Harpies' Hunting Ground' on the top of your deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Harpies' Last Will",
+    "description": "6 'Harpie' cards in your Graveyard are banished, and 1 'Harpie's Feather Duster' card is added to your hand from outside your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Flight of the Harpies",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Harpie' card.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mai Valentine", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Holy Guard",
+    "description": "You take no battle damage during your turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Tea Gardner", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Duel, standby!",
+    "description": "Each player's starting hand increases by 1 card.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Surprise Present",
+    "description": "Select 1 card Set in your Spell & Trap Zone, and force it on your opponent. Only the player that activates this skill can view this card. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Tea Gardner", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Grandpa's Cards",
+    "description": "Begin Duel with the 5 Exodia pieces in your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yugi Muto", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "My Monster Cards",
+    "description": "If your Deck has 6 or more Level 4 or lower monsters with different names, you will have better chances of having a Level 4 or lower monster in your starting hand.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Access Denied",
+    "description": "Can be used if your Life Points are at 1000 or below. Until the end of the opponent's next turn, neither you nor the opponent can Normal Summon or Special Summon Effect Monsters, or activate Effect Monster effects. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yugi Muto", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Insect Uprising",
+    "description": "Can be used if there are 3 or more Insect-Type monsters on your field. Lowers ATK of all face-up monsters on your opponent's field by 800 points. This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Weevil Underwood", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Parasite Infestation",
+    "description": "After starting hands are dealt, 1 or 2 'Parasite Paracide' cards are added to your opponent’s deck, face up.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Weevil Underwood", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Buzz On",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Insect-Type monster.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Moth to the Flame",
+    "description": "Turn counts are double-speed for any 'Petit Moth' with 'Cocoon of Evolution' equipped on your side of the field.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Weevil Underwood", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Dinosaur Kingdom",
+    "description": "Begin Duel with the Field Spell 'Jurassic World' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Rex Raptor", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Dino Destruction",
+    "description": "Can be used if a Level 6 Dinosaur-Type monster is on your field. If that monster attacks a monster in a Defense Position this turn, the opponent takes battle damage equal to the amount that ATK exceeds DEF. This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Rex Raptor", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Titan Showdown",
+    "description": "Whichever player has double or more Life Points than the other takes double battle damage.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Dinos Find a Way",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Dinosaur-Type monster.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Dino Rampage",
+    "description": "Can be used each time your Life Points decrease by 1800, and you have a Dinosaur-Type normal monster on your field. That monster can attack twice during the Battle Phase, this turn. This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Rex Raptor", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Mythic Depths",
+    "description": "Begin Duel with the Field Spell 'Umi' activated.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mako Tsunami",
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Menace from the Deep",
+    "description": "Can be used if 'Umi' is on the field, and you have a WATER-attribute normal monster on your field. That monster can attack your opponent directly, this turn. At the end of the Battle Phase, that monster is sent to the Graveyard. This skill can only be used once per turn.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mako Tsunami",
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Right Back at You",
+    "description": "Can be used in the Main Phase of your next turn following the turn in which you took battle damage. Select 1 face-up monster on your field. This turn, the selected monster's ATK increases by half the battle damage received in the turn you last took battle damage. This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Marik", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Shadow Game",
+    "description": "At the end of their respective turn, each player will lose Life Points equal to '100' times the number of cards in their own Graveyard.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Marik", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Compensation",
+    "description": "Can be used each time your Life Points decrease by 1000. Send the card on the top of your Deck to the Graveyard, and recover 300 LP.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Bakura", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Tether of Defeat",
+    "description": "Can be used when one of the opponent's monsters is destroyed in battle. The top card from either your or the opponent's Deck is sent to the Graveyard.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Bakura", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Fiend Farewell",
+    "description": "Can be used when one of your monsters is destroyed in battle. 1 random Fiend-Type monster from your Deck is sent to the Graveyard.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Destiny Board",
+    "description": "Can be used if 'Dark Necrofear' is in your Graveyard, and your Life Points are at 2000 or below. At the end of your fifth turn after activating this skill, you win the Duel. This skill is negated if 'Dark Necrofear' leaves your Graveyard. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Bakura", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Switcheroo",
+    "description": "Can be used each time your Life Points decrease by 1000. Return 1 card in your hand to your Deck and draw another. This skill can only be used once per turn and twice per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bandit Keith", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Sleight of Hand",
+    "description": "Can be used each time your Life Points decrease by 1500. Add 1 '7 Completed' card, hidden in your wristband, to your hand. This skill can only be used once per turn and twice per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bandit Keith", 
+        "how": "Level 13"
+      }
+    ]
+  },
+  {
+    "name": "Bandit",
+    "description": "Can be used if your Life Points are at 1500 or below. Select and take control of 1 card Set in your opponent's Spell & Trap Zone. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Baggy Sleeves",
+    "description": "If one of your monsters of Level 5 or higher is destroyed in battle, in your next Draw Phase a normal draw gives you 2 cards.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Cheater's Coin",
+    "description": "If your Life Points are at least 1000 more than opponent's, and if you have at least 5 cards in your hand, your coin tosses always land on heads.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bandit Keith", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Prescience",
+    "description": "You can view the top card of both players' Decks until the end of the 5th turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "No Mortal Can Resist",
+    "description": "Can be used when your Life points are at least 1000 less than the opponent's. All monsters in the opponent's Graveyard changes to Skull Servants (Zombie / DARK / Level 1 / ATK: 300 / DEF: 200). This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Sealed Tombs",
+    "description": "Until the end of the opponent's next turn, neither you nor the opponent can Special Summon monsters from the Graveyard. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Gravekeeper's Lot",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random 'Gravekeeper's' card.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Chain Reaction",
+    "description": "Inflict 200 points of damage to your opponent's Life every time you activate a Trap Card.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Odion", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Endless Trap Hell",
+    "description": "Can be used when you have 3 Trap Cards in the Graveyard. 1 random Trap Card in your Graveyard is added to your hand. Then, shuffle 1 random Trap Card in your Graveyard is shuffled into your Deck. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Odion", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Bluff Trap",
+    "description": "Can be used each time your Life Points decrease by 1200. 'Statue of the Wicked' is set in your Spell & Trap Zone.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Trap Layer",
+    "description": "If you have 5 or more Trap Cards with different names in your Deck, you will have an improved chance of having Trap Cards in your starting hand.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Odion", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Mind Scan",
+    "description": "From the third turn and onward, you can see the opponent's set cards as long as your Life Points are 3000 or higher.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Level 13"
+      }
+    ]
+  },
+  {
+    "name": "Extra, Extra",
+    "description": "Can be used each time your Life Points decrease by 2000. In the Draw Phase, receive 2 copies of 1 card received as a normal draw.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Creator",
+    "description": "Can be used if your Life Points are at 2000 or below. In the Draw Phase, instead of doing a normal draw, a powerful card, from outside of your Deck, is added to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "It's a Toon World",
+    "description": "Begin Duel with the Continuous Spell 'Toon World' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Maximillion Pegasus", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Monstermorph: Evolution",
+    "description": "Can be used each time your Life Point decrease by 1500. Send a monster (except a Token) on your side of the field to the Graveyard. Then, randomly play a monster that is same Attribute and Type as the monster you sent to the Graveyard, but is 1 Level higher from your Deck (the monster must be able to be Normal Summoned.) This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Monstermorph: De-Evolution",
+    "description": "Can be used each time your Life Point decrease by 1500. Send a monster (except a Token) on your side of the field to the Graveyard. Then, randomly play a monster that is same Attribute and Type as the monster you sent to the Graveyard, but is 1 Level lower from your Deck (the monster must be able to be Normal Summoned.) This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "KaibaCorp Bling",
+    "description": "Can be used each time your Life Points decrease by 1800. Randomly draw a Glossy/Prismatic card from your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mokuba Kaiba", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Elements Unite!",
+    "description": "You will start the Duel with 500 Life Points and your starting hand will be 1 card, which is 'Gate Guardian.' In addition, you will start the Duel with 'Sanga of the Thunder,' 'Kazejin,' and 'Suijin' on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Paradox Brothers", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Thunder, Water, and Wind",
+    "description": "Can be used when  your Life Points decrease by 1800. Randomly add 1 'Sanga of the Thunder,' 1 'Kazejin,' or 1 'Suijin' to your hand (these cards are not drawn from your Deck.) This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Paradox Brothers", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Three-Star Demotion",
+    "description": "Can be used when your Life Points are 1000 or below. Until the End Phase, reduce the Levels of all monsters in your hand by 3. This skill can be used on 'Suijin,' 'Kazejin,' and 'Sanga of the Thunder,' regardless of your remaining Life Points. This skill can only be used once per Duel",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Labyrinth Builder",
+    "description": "Shuffle 2 cards from your hand into the Deck to create 'Labyrinth Wall' on your side of the field. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Guardian Call",
+    "description": "Can be used when  your Life Points decrease by 1800. Randomly add 1 'Guardian' card from your Deck to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Paradox Brothers", 
+        "how": "Drop"
+      }
+    ]
   },
   {
     "name": "Card Shuffle",
-    "description": "Can be used by paying 300 life points. Shuffle your deck. This skill can only be used once per turn.",
-    "how": "Level 4",
+    "description": "Can be used by paying 300 Life Points. Shuffle your Deck. This skill can only be used once per turn.",    
     "exclusive": true,
-    "character": "Arkana"
+    "characters": [
+      {
+        "name": "Arkana", 
+        "how": "Level 4"
+      }
+    ]
   },
   {
     "name": "Master of Magicians",
-    "description": "Can be used after your Life Points decrease by 2000. Randomly add 'Thousand Knives', 'Dark Magic Attack' or 'Dark Magician Expanded' to your hand. This skill can only be used once per duel.",
-    "how": "Level 13",
+    "description": "Can be used after your Life Points decrease by 2000. Randomly add 1 'Thousand Knives, 'Dark Magic Attack,' or 'Dark Magic Expanded' to your hand. This skill can only be used once per Duel.",    
     "exclusive": true,
-    "character": "Arkana"
+    "characters": [
+      {
+        "name": "Arkana", 
+        "how": "Level 13"
+      }
+    ]
   },
   {
-    "name": "A Trick Up the Sleeve",
-    "description": "Your starting hand will include 1 Level 7 or higher DARK Spellcaster-Type monster, randomly selected from your Deck. This skill will not activate if your deck does not contain any Level 7 DARK Spellcaster-Type monsters.",
-    "how": "Level 20",
+    "name": "A Trick up the Sleeve",
+    "description": "Your starting hand will include 1 Level 7 or higher DARK Spellcaster-Type monster, randomly selected from your Deck. This skill will not activate if your Deck does not contain any Level 7 DARK Spellcaster-Type monsters.",    
     "exclusive": true,
-    "character": "Arkana"
+    "characters": [
+      {
+        "name": "Arkana", 
+        "how": "Level 20"
+      }
+    ]
   },
   {
     "name": "Show of Nightmares",
-    "description": "Can be activated if you have 3 or more Spell cards with different names in your Graveyard. Randomly add 1 Spell card in your graveyard to your hand. This skill can only be used once per duel.",
-    "how": "Level 4",
+    "description": "Can be activated if you have 3 or more Spell Cards with different names in your Graveyard. Randomly add 1 Spell Card in your Graveyard to your hand. This skill can only be used once per Duel.",    
     "exclusive": true,
-    "character": "Arkana"
+    "characters": [
+      {
+        "name": "Arkana", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Straight to the Grave",
+    "description": "Begin Duel with the Field Spell 'Wasteland' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bonz", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Posthumous Army",
+    "description": "Can be used each time your Life Points decrease by 2000. All monsters on the field, as well as in both players' Graveyards become Zombie-Type monsters until the end of your opponent's turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Zombie Draw",
+    "description": "Can be used each time your Life Points decrease by 1800. During your Draw Phase, instead of doing a normal draw, randomly draw a Zombie-Type monster.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bonz", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Where the Heroes Dwell",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Skyscraper.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jaden Yuki", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Fusion Time!",
+    "description": "Can be used each time your Life Points decrease by 1500. Instead of doing a normal draw, 'Polymerization' is added to your hand from outside of your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jaden Yuki", 
+        "how": "Level 13"
+      }
+    ]
+  },
+  {
+    "name": "Miracle Fusion Time!",
+    "description": "Can be used if your Life Points are at 1000 or below. Instead of doing a normal draw, 'Miracle Fusion' is added to your hand from outside of your Deck. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jaden Yuki", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Destiny Calling",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Dark City.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Aster Phoenix", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Bring it!",
+    "description": "Can be used each time your Life Points decrease by 1800. Instead of doing a normal draw, a Level 8 DARK Warrior-Type monster is added to your hand from your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Aster Phoenix", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Meet My Family!",
+    "description": "At the start of a Duel, the following cards are added to your Deck and shuffled: “Rainbow Dragon“ “Crystal Beast Sapphire Pegasus“ “Crystal Beast Topaz Tiger“ “Crystal Beast Ruby Carbuncle“ “Crystal Beast Cobalt Eagle“ “Crystal Beast Emerald Tortoise“ “Crystal Beast Amber Mammoth“ “Crystal Beast Amethyst Cat“ You will be considered the original owner of these cards.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jesse Anderson", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Crystal Power",
+    "description": "This turn, the ATK of all face-up monsters on your side of the field increases by the number of Continuous Spell Cards on your side of the field times 200. This skill can only be used once per turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jesse Anderson", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Dragonic Fusion",
+    "description": "Begin the Duel with 'Dragon's Mirror' in your Deck, and 'Five-Headed Dragon' in your Extra Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Chazz Princeton", 
+        "how": "Other"
+      }
+    ]
+  },
+  {
+    "name": "Land of the Ojamas",
+    "description": "Begin Duel with the Field Spell 'Ojama Country' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Chazz Princeton", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Ojama Go!",
+    "description": "Can be used each time your Life Points decrease by 1800. Special Summon 'Ojama Token' on your opponent's side of the field in Defense Position.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Chazz Princeton", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Ojama Overflow",
+    "description": "Can be used if your Life Points are at 500 or below. Special Summon as many 'Ojama Token' as possible in the Defense Position on your opponent's side of the Field. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Chazz Princeton", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Blessing of the Cyber Angel",
+    "description": "Can be used if your Life Points are at 2000 or below. Instead of doing a normal draw, a 'Cyber Angel' monster is added to your hand from outside of your Deck. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Master of Rites II",
+    "description": "Begin Duel with the Continuous Spell 'Ritual Cage' activated.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Alexis Rhodes", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Middle Age Mechs",
+    "description": "Activate the Continuous Spell 'Ancient Gear Castle' at the beginning of your first Turn.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Teacherly Discipline",
+    "description": "Can be used each time your Life Points decrease by 1500. Declare a Monster, Spell or Trap Card. That type of card will be randomly selected from your opponent's Deck and placed on top of their Deck. Neither player will see what the card is. Nothing will be placed on top of your opponent's Deck if the declared card type is not in their Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Dr. Vellian Crowler", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Silent as WATER",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Umiiruka.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Level 4"
+      }
+    ]
+  },
+  {
+    "name": "Quick as the WIND",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Rising Air Current.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Level 13"
+      }
+    ]
+  },
+  {
+    "name": "Mighty as FIRE",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Molten Destruction.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Level 20"
+      }
+    ]
+  },
+  {
+    "name": "Firm as the EARTH",
+    "description": "Can be used after your Life Points are at 3000 or below. Play the Field Spell 'Gaia Power.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "Radiating LIGHT",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Luminous Spark.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
+  },
+  {
+    "name": "DARK as Night",
+    "description": "Can be used after your Life Points are at 2000 or below. Play the Field Spell 'Mystic Plasma Zone.' If there already is Field Spell on your side of the Field, return it to your hand. This skill can only be used once per Duel.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Bastion Misawa", 
+        "how": "Drop"
+      }
+    ]
   }
 ]

@@ -129,7 +129,7 @@ function CardsAPI() {
                     skill.name = response[i].name;
                     skill.description = response[i].desc;
                     skill.exclusive = response[i].exclusive;
-                    skill.character = response[i].character;                       
+                    skill.character = response[i].characters[0].name;                       
 
                     break;
                 }
