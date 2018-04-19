@@ -49,6 +49,24 @@ module Jekyll
       end
       return cards
     end
+    def deckTypeDecks(collection, deckType)
+      decks = []
+      for year_key in collection.keys
+        months = collection[year_key]
+        for month_key in months.keys
+          month = months[month_key]
+          for deckType_key in month.keys
+            if deckType_key == deckType
+              month_decks = month[deckType_key]
+              for month_deck in month_decks
+                decks.push(month_deck)    
+              end
+            end               
+          end           
+        end
+      end
+      decks.sort_by { |deck| deck[1]['created'] }.reverse
+    end
   end
 
   module DateFilter
