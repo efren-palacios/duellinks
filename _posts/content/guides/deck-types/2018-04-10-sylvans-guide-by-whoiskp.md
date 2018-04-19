@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Sylvans Guide (Vegan Edition!)
+title: Sylvans Guide
 author: Whoiskp
 category: guide
 sub-category: deck-type
@@ -14,6 +14,8 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+**Last updated: April 19th - added Grit Skill analysis**
 
 ### Introduction
 
@@ -32,6 +34,12 @@ Not too long ago they called us a meme Deck, but before you know it we started k
 - {Restart}: the #1 skill when it comes to Sylvans. Your main goal is to open with at least a {Sylvan Komushroomo} (first), {World Carrotweight Champion} (second), or {Rose Lover} (third) all three are vital in an opening hand.
 - {Heavy Starter}: it guarantees that you open with a {Sylvan Hermitree}, {Sylvan Guardioak}, or {Sylvan Lotuswain} under the one condition that you have at least one copy of all three in your Deck.
 - {Beatdown}: for those who trust that their opening hand will be good enough to win.
+
+### Who Are They?
+
+Each Sylvan Monster has an effect to excavate cards in the deck as well as a Graveyard effect when they're excavated themselves.
+
+[deck](Sylvan Komushroomo; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Hermitree; Sylvan Lotuswain; Sylvan Snapdrassinagon; Sylvan Flowerknight; Sylvan Bladefender; Sylvan Mikorange; Sylvan Peaskeeper) 
 
 ### Core Cards
 
@@ -99,7 +107,7 @@ There are many more techs available but these are the most common.
 
 ### Tournament Top Decklists
 
-#### 1st Place: <TCB> Deadfun - Duel Links Pro Tournament 15
+#### 1st Place: Deadfun - [Duel Links Pro Tournament 15](/tournaments/duel-links-pro/15/report/)
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Hey, Trunade!; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath) 
 
@@ -153,6 +161,10 @@ Remember if you mill more than one Oak, the effect of the first one will be the 
 
 Here I opened with {Sylvan Marshalleaf}, {Sylvan Guardioak}, {Rose Lover} and {Dark World Lightning} going second I chose not to {Restart}. Not knowing what I’m playing my opponent set one Monster and one backrow. I used Lightning to destroy his backrow (which was {Wall of Disruption}) and then discarded {World Carrotweight Champion}. I then Special Summoned Carrot discarding Rose. I Normal Summoned Marsh which excavated a {Sylvan Hermitree} and {Enemy Controller}. I then used Hermit to organize the next three cards in my Deck which ended up being a March, Oak, and {Ultimate Providence} - I left them in that order. I then used the effect of {Rose Lover} in the Graveyard to Summon Oak from my hand and mill the single Marsh which destroyed my opponents face down Monster. This then allowed to me to swing for game!
 
+### Using {Grit}
+
+After 50 games of testing {Grit} [Sylvans](/tier-list/deck-types/sylvans/) I opened with brick hands 7 times. This put me at a 14% chance of opening with a brick. Using a standard build of 3x {Sylvan Komushroomo}, 3x {Sylvan Marshalleaf}, 3x {Rose Lover}, 2x {World Carrotweight Champion}, 3x {Sylvan Guardioak}, 2x {Sylvan Hermitree}, 2x {Enemy Controller}, 2x {Ultimate Providence}. I didn’t lose all the games I bricked. Of those 50 games **when needed** {Grit} saved me 14/22 times with no actual formula of when it will activate. So that means there is a 14% chance to open with a brick with a 63.6% chance of being saved with {Grit}. The brick hands aren’t ideal but a % chance of being saved by {Grit} gives you a better chance to OTK next turn depending on the field. 
+
 ### Matchups
 
 - [Mirror (Sylvans)](/tier-list/deck-types/sylvans/):   
@@ -194,3 +206,5 @@ I hope this guide helps you all either succeed in tournaments, Ranked Duels ladd
 ---
 
 If you have any thoughts or questions, leave a comment below!
+
+***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***
