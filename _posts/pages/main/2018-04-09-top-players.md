@@ -123,41 +123,60 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 
 | Rank | Participant Name | Points |
 |--|--|--|
-|1|Jason| 40 points|
+|1|Jason| 50 points|
 |2| SirDillweed| 30 points|
 |3|ShinySopheon|28 points|
-|4|Niceguy88| 18 points|
-|5-8|Taichi| 14 points|
-|5-8|SDotAkuma| 14 points|
-|5-8|PAchou| 14 points|
-|5-8|M.Rida92| 14 points|
-|9-11|Super Vegito| 12 points|
-|9-11|Billy Brake| 12 points|
-|9-11|Grucius| 12 points|
-|12-18|Tekumse| 10 points|
-|12-18|LoreRomaCCG| 10 points|
-|12-18|Jayrabian| 10 points|
-|12-18|DatAngryBaboon| 10 points|
-|12-18|SilchasRuin| 10 points|
-|12-18|Kiwi| 10 points|
-|12-18|Luke Tyler| 10 points|
-|19-35|Brenduke| 8 points |
-|19-35|SkillShot| 8 points|
-|19-35|Vladis| 8 points|
-|19-35|Kwrowe| 8 points|
-|19-35|Vyzual| 8 points|
-|19-35|SILENT POWER| 8 points|
-|19-35|MrCellophane| 8 points|
-|19-35|Jsanchghost| 8 points|
-|19-35|Eugen Heidt| 8 points|
-|19-35|Regtrainer1| 8 points|
-|19-35|Simon| 8 points|
-|19-35|OPnerfME| 8 points|
-|19-35|Insano| 8 points|
-|19-35|WALEEDSY| 8 points|
-|19-35|WayneKenoff| 8 points|
-|19-35|Shu| 8 points|
-|19-35|HidekiBro| 8 points|
+|4|Grucius| 22 points|
+|5-6|Gambler| 20 points|
+|5-6|AndyTsang| 20 points|
+|7-9|Niceguy88| 18 points|
+|7-9|SILENT POWER| 18 points|
+|7-9|SkillShot| 18 points|
+|10|MrCellophane| 16 points|
+|11|Masarike|15 points|
+|12-15|Taichi| 14 points|
+|12-15|SDotAkuma| 14 points|
+|12-15|PAchou| 14 points|
+|12-15|M.Rida92| 14 points|
+|16-18|Super Vegito| 12 points|
+|16-18|Billy Brake| 12 points|
+|16-18|Sterben| 12 points|
+|19-40|Tekumse| 10 points|
+|19-40|LoreRomaCCG| 10 points|
+|19-40|Jayrabian| 10 points|
+|19-40|DatAngryBaboon| 10 points|
+|19-40|SilchasRuin| 10 points|
+|19-40|Kiwi| 10 points|
+|19-40|Luke Tyler| 10 points|
+|19-40|Alvd Freecs| 10 points|
+|19-40|Aurora| 10 points|
+|19-40|GabrielWars| 10 points|
+|19-40|Greedosama| 10 points|
+|19-40|Guizyduck| 10 points|
+|19-40|Hextor| 10 points|
+|19-40|Koizumi| 10 points|
+|19-40|Look at god| 10 points|
+|19-40|MiguelJoker| 10 points|
+|19-40|Peledones| 10 points|
+|19-40|Suhnrysanti| 10 points|
+|19-40|Whilipino| 10 points|
+|19-40|Yehhey| 10 points|
+|19-40|3K Two Oh| 10 points|
+|19-40| FOREVER| 10 points|
+|41-54|Vladis| 8 points|
+|41-54|Kwrowe| 8 points|
+|41-54|Vyzual| 8 points|
+|41-54|Brenduke| 8 points|
+|41-54|Jsanchghost| 8 points|
+|41-54|Eugen Heidt| 8 points|
+|41-54|Regtrainer1| 8 points|
+|41-54|Simon| 8 points|
+|41-54|OPnerfME| 8 points|
+|41-54|Insano| 8 points|
+|41-54|WALEEDSY| 8 points|
+|41-54|WayneKenoff| 8 points|
+|41-54|Shu| 8 points|
+|41-54|HidekiBro| 8 points|
 
 ### How to gain Meta points
 
