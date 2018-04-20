@@ -87,10 +87,11 @@ hide: true
 
 ***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
 
-[deck:Destiny Draw](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Emergency Provisions; Double Summon; Dian Keto the Cure Master; Dian Keto the Cure Master; Rain of Mercy; Rain of Mercy; De-Spell; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Numinous Healer; Numinous Healer; Numinous Healer)
+[deck:Destiny Draw](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Emergency Provisions; Double Summon; Dian Keto the Cure Master;Dian Keto the Cure Master; Dian Keto the Cure Master; Rain of Mercy; Rain of Mercy; De-Spell; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Numinous Healer; Numinous Healer; Numinous Healer)
 
 **Strategy:**
-* Stall indefinitely with {Jam Breeding Machine} and {The Regulation of Tribe} (Call 'Fiend') - Use Destiny Draw to draw the cards if needed
+* Stall indefinitely with {Jam Breeding Machine} and {The Regulation of Tribe} (Call 'Fiend')
+* Use Destiny Draw to draw the cards if needed
 * Use healing cards to out-heal {Ectoplasmer}
 * Use {Rain of Mercy} and {De-Spell} to prevent Bakura from self-destructing through {Burning Land}
 
