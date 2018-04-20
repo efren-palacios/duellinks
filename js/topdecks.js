@@ -135,7 +135,7 @@ function InitializeTopDecksViewModel()
 
                 for(var index = 0; index < TopDecksViewModel.topPlayerCouncil.length; index++)
                 {
-                    if(deck.author.toLowerCase().includes(TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase()))
+                    if(deck.author.toLowerCase() == TopDecksViewModel.topPlayerCouncil[index].name.toLowerCase())
                     {
                         return true;
                     }
