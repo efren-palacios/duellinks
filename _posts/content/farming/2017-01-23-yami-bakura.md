@@ -87,21 +87,25 @@ hide: true
 
 ***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
 
-[deck:Destiny Draw](The Winged Dragon of Ra;Golden Ladybug;Golden Ladybug;Golden Ladybug;Cosmic Compass;Emergency Provisions;Double Summon;Dian Keto the Cure Master;Dian Keto the Cure Master;Rain of Mercy;Rain of Mercy;Rain of Mercy;De-Spell;Jam Breeding Machine;Jam Breeding Machine;Jam Breeding Machine;The Regulation of Tribe;Numinous Healer;Numinous Healer;Numinous Healer;)
+[deck:Destiny Draw](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Emergency Provisions; Double Summon; Dian Keto the Cure Master;Dian Keto the Cure Master; Dian Keto the Cure Master; Rain of Mercy; Rain of Mercy; De-Spell; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Numinous Healer; Numinous Healer; Numinous Healer)
 
-**Strategy:**  
-* Use {Jam Breeding Machine} + {The Regulation of Tribe} (Call Fiends) to stall Bakura indefinitely (Use DDraw for this).  
-* Use healing cards, out-heal Ectoplasmer.  
-* Use {Rain of Mercy} + {De-Spell} to stop Bakura from killing himself with {Burning Land}.  
+**Strategy:**
+* Stall indefinitely with {Jam Breeding Machine} and {The Regulation of Tribe} (Call 'Fiend')
+* Use Destiny Draw to draw the cards if needed
+* Use healing cards to out-heal {Ectoplasmer}
+* Use {Rain of Mercy} and {De-Spell} to prevent Bakura from self-destructing through {Burning Land}
 
-**Last turn**  
-* Use Emergency Provisions (or Storm) to pop your Regulation and Jam Machine.  
-* Summon Cosmic Compass + 2 Compass Tokens.  
-* Use Double Summon (or Arrivalrivals) to Summon Ra and pay to boost his Atk on summon.  
-* Attack something with Ra for Gold.  
+**Last turn**
+1. Use {Emergency Provisions} to remove the {Jam Breeding Machine} and {The Regulation of Tribe} in your Spell/Trap zone
+2. Summon {Cosmic Compass} and use its effect to summon 2 compass tokens
+3. Use {Double Summon} to tribute summon {The Winged Dragon of Ra}
+4. Use the effect of {The Winged Dragon of Ra}
+5. Attack one of Bakura's monsters for 9999+ damage
 
-**Replacements**  
-* You can put in a {Stop Defense} just in case Bakura puts all his monsters in Def, but its unlikely.  
+**Replacements**
+* {Storm} can replace {Emergency Provisions}
+* {Arrivalrivals} can replace {Double Summon}
+* {Stop Defense} can be added in case Bakura changes all his monsters to defense position, but it is unlikely
 
 ---
 ### Level 40 Decklist
