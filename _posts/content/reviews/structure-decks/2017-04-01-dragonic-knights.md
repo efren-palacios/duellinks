@@ -31,7 +31,7 @@ permalink: /structure-deck-reviews/dragonic-knights/
 
 ---
 
-### Top Player Council Thoughts
+### [Top Player Council](/top-player-council/) Thoughts
 
 <a name="q1"></a>
 #### 'What are the most important things to know about this Structure Deck?'

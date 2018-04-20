@@ -28,14 +28,14 @@ New card rewards for your Ranked Duel Tickets are now available!
 #### UR - {Dynatherium} 
 **Evaluation** - Future Potential
 
-[Superforms](/authors/superforms): '{Dynatherium} is future potential to the max. Turn 1 it’s a completely free special summon with no drawbacks. It might not have immediate use, but it’s so hard to imagine this card not being great in the future.'
+[Superforms](/top-player-council/superforms): '{Dynatherium} is future potential to the max. Turn 1 it’s a completely free special summon with no drawbacks. It might not have immediate use, but it’s so hard to imagine this card not being great in the future.'
 
 ---
  
 #### SR - {Rose Archer}
 **Evaluation** - Future Potential
 
-[Superforms](/authors/superforms): '{Rose Archer} looks great against things like {Wall of Disruption}, {Powerful Rebirth}, {Red-Eyes Spirit}, etc., but the current Plant decks aren’t good enough for this card to actually push them onto the tier list. This is something with serious future potential if we get a Plant deck better than Aromages.'
+[Superforms](/top-player-council/superforms): '{Rose Archer} looks great against things like {Wall of Disruption}, {Powerful Rebirth}, {Red-Eyes Spirit}, etc., but the current Plant decks aren’t good enough for this card to actually push them onto the tier list. This is something with serious future potential if we get a Plant deck better than Aromages.'
 
 ---
 
@@ -44,7 +44,7 @@ New card rewards for your Ranked Duel Tickets are now available!
 
 Importantly, this card can be summoned with {Hammer Shark}. With {Umi} on the field (easily achievable with {Mythic Depths}), it becomes an 1800 ATK beater with piercing. 
 
-[Superforms](/authors/superforms): 'Looking at current {Hammer Shark} builds, it likely won't make the cut.'
+[Superforms](/top-player-council/superforms): 'Looking at current {Hammer Shark} builds, it likely won't make the cut.'
 
 ---
 

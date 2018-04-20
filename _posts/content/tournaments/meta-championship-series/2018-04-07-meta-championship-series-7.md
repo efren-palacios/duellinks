@@ -11,7 +11,7 @@ comments: true
 description: The Meta Championship Series 7 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 7, meta championship, meta championship series, meta championship 7, meta championship series 7, mcs decks, mcs 7 decks
 permalink: /tournaments/meta-championship-series/7/report/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

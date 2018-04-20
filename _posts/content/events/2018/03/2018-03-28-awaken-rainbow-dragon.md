@@ -5,7 +5,6 @@ title: Awaken! Rainbow Dragon!
 author: Yami Hammy
 image: /img/content/events/2018/03/awaken-rainbow-dragon/thumbnail.jpg
 category: event
-ended: false
 comments: true
 description: Jesse Anderson has arrived! Here's all you need to know about the event and the best ways to farm him - get those Crystal Beast cards and unlock him!  
 keywords: event, jesse, jesse anderson, farm, crystal beasts, rainbow dragon

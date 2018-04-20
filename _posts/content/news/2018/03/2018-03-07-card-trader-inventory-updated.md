@@ -19,15 +19,13 @@ permalink: /news/march-2018/card-trader-inventory-updated/
 
 <br>
 
-![screenshot](/img/content/news/2018/03/card-trader-update/slider-23-03.jpg)
-
 The Card Trader's inventory has been updated with some new additions to his card pool! 
 
 [deck](Super Solar Nutrient; Confronting the "C"; Danipon)
 
-### Top Player Council Opinions 
+### Top Player Council Thoughts
 
-**[Superforms](/authors/superforms/) says:** 
+**[Superforms](/top-player-council/superforms/) says:** 
 
 - {Super Solar Nutrient} (SR): The only relevant Plant decks right now are [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) and [Aromages](/tier-list/aromages/). Both can tribute {Rose Lover} with this, but neither has a good special summon target ({Aromage Bergamot} and {Sylvan Guardioak} are both level 6, and few Sylvan decks use {Sylvan Lotuswain}). Tributing a Rose Lover to grab another Rose Lover thins the deck and gets multiple Rose Lovers into the graveyard if Super Solar Nutrient is removed. Alternative plays include tributing {Sylvan Komushroomo} for to turbo out {World Carrotweight Champion}, or tributing a {Aromage Jasmine} for a {Aromage Rosemary}. It is not likely that this card will be used in top-tier versions of either deck, although it will be most interesting to test with Sylvans.
 - {Confronting the "C"} (SR): The decks on the tier list that use their Extra Decks are Fusion [Destiny Heroes](/tier-list/destiny-heroes/) and [Gladiator Beasts](/guides/deck-types/gladiator-beasts-guide-by-brenduke/) which are both Tier 3. Pretty ineffective wall vs Destiny Heroes, but possibly annoying to Gladiators (being immune to {Gladiator Beast Murmillo} and walling {Gladiator Beast Essedarii}). Not a great card right now; maybe better in the future as the Extra Deck becomes more relevant.
@@ -49,15 +47,13 @@ There will be various updates to the Card Trader, read about them in our [In-Gam
 
 <br>
 
-![screenshot](/img/content/news/2018/03/card-trader-update/slider-07-03.jpg)
-
 The Card Trader's inventory has been updated with some new additions to his card pool! 
 
 [deck](Swamp Mirrorer;Divine Dragon Aquabizarre;The Dragon Dwelling in the Deep)
 
-### Top Player Council Opinions 
+### Top Player Council Thoughts 
 
-**[Superforms](/authors/superforms/) says:** 
+**[Superforms](/top-player-council/superforms/) says:** 
 The only interesting one is {Swamp Mirrorer}, the other two are trash. 
 
 Potential uses:

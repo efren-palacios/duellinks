@@ -53,7 +53,7 @@ hide: true
 
 ---
 
-***Level 40 Farm - created by Jadehex (Last Updated: 12/22/17)***
+***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Forbidden Chalice; Forbidden Chalice; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shard of Greed; Shard of Greed; Twister; Twister; Twister; Shield & Sword; De-Spell; De-Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell)
 
@@ -80,10 +80,32 @@ hide: true
 * Attack one of his monsters with 1800 or less atk
 
 **Replacements**
-* {Anteatereatingant} > {The Fiend Megacyber} > {Guardian Grarl} (in order of reliability
+* {Anteatereatingant} > {The Fiend Megacyber} > {Guardian Grarl} (in order of reliability)
 * {Cursed Seal of the Forbidden Spell}/{Twister}/{De-Spell} > {Typhoon}/{Wild Tornado}
 * {Forbidden Chalice}/{Gravity Axe - Grarl} > {Iron Blacksmith Kotetsu}
-* {Shard of Greed} > {Pot of Benevolence} or other draw cards
+* {Shard of Greed} > {Pot of Benevolence} or other draw cards  
+
+***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
+
+[deck:Destiny Draw](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Emergency Provisions; Double Summon; Dian Keto the Cure Master;Dian Keto the Cure Master; Dian Keto the Cure Master; Rain of Mercy; Rain of Mercy; De-Spell; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Numinous Healer; Numinous Healer; Numinous Healer)
+
+**Strategy:**
+* Stall indefinitely with {Jam Breeding Machine} and {The Regulation of Tribe} (Call 'Fiend')
+* Use Destiny Draw to draw the cards if needed
+* Use healing cards to out-heal {Ectoplasmer}
+* Use {Rain of Mercy} and {De-Spell} to prevent Bakura from self-destructing through {Burning Land}
+
+**Last turn**
+1. Use {Emergency Provisions} to remove the {Jam Breeding Machine} and {The Regulation of Tribe} in your Spell/Trap zone
+2. Summon {Cosmic Compass} and use its effect to summon 2 compass tokens
+3. Use {Double Summon} to tribute summon {The Winged Dragon of Ra}
+4. Use the effect of {The Winged Dragon of Ra}
+5. Attack one of Bakura's monsters for 9999+ damage
+
+**Replacements**
+* {Storm} can replace {Emergency Provisions}
+* {Arrivalrivals} can replace {Double Summon}
+* {Stop Defense} can be added in case Bakura changes all his monsters to defense position, but it is unlikely
 
 ---
 ### Level 40 Decklist

@@ -2,7 +2,22 @@ require 'fileutils'
 require 'jekyll'
 
 module Jekyll
+  class SeasonPage < Jekyll::Page
+  end
+
   class DeckPage < Jekyll::Page
+    def initialize(site, base, dir, keys)            
+        @site = site
+        @base = base
+        @dir = dir
+        @name = 'index.html'
+        
+        self.process(@name)
+        self.read_yaml(File.join(base, '_layouts'), 'deck.html')
+
+        self.data['comments'] = true
+        self.data['deck'] = site.data["top-decks"][keys[0]][keys[1]][keys[2]][keys[3]]
+    end    
   end
 
   class DeckPageGenerator < Jekyll::Generator
@@ -25,50 +40,14 @@ module Jekyll
             
             #generate top-decks seasonal decktype pages
 
-            for deck_key in decktype.keys
-              
+            for deck_key in decktype.keys     
+              dateString = Time.new(year_key,month_key,'1').strftime("%B").downcase + '-' + year_key.to_s
               deck = decktype[deck_key]
-              deck_name = deck['name']
+              pageTitle = deck['url'].split('/').last
+              dir = File.join("top-decks", dateString, decktype_key.to_s, pageTitle)
 
-              FileUtils.rm 'deck.html', :force => true 
-
-              deck_page = File.new('deck.html', 'w+')
-              
-              deck_page.puts("---")
-              deck_page.puts("layout: blog")
-              deck_page.puts("author: bot")
-              deck_page.puts("comments: true")
-              deck_page.puts("permalink: #{deck['url']}")
-              deck_page.puts("scripts: playtest.js")
-              deck_page.puts("---")
-              
-              deck_page.puts("")
-              deck_page.puts("{% assign deck = site.data.top-decks['#{year_key}']['#{month_key}']['#{decktype_key}']['#{deck_key}'] %}")
-              deck_page.puts("<div class='deck-page'>")
-              deck_page.puts("  {% include deck.html deck=deck showHeader=true showStats=true %}")
-              deck_page.puts("  <script>var playtest = {{deck | jsonify}}</script>") 
-              deck_page.puts("  {% if deck.notes != null and deck.notes.size > 0  and deck.notes[0].text != '' %}")
-              deck_page.puts("    <div class='section deck-notes'>")
-              deck_page.puts("      <h2>Notes from {{deck.author}}</h2>")
-              deck_page.puts("      {% for note in deck.notes %}")
-              deck_page.puts("        <h4>{{note.title}}</h4>")
-              deck_page.puts("        <p>{{note.text}}</p>")
-              deck_page.puts( "     {% endfor %}")
-              deck_page.puts("    </div>")
-              deck_page.puts("  {% endif %}")
-              deck_page.puts("  {% if deck.video != null and deck.video != '' %}")
-              deck_page.puts("    <div class='section'>")
-              deck_page.puts("      <h2>Video</h2>")
-              deck_page.puts("      {% include youtube-video.html url=deck.video %}")
-              deck_page.puts("    </div>")
-              deck_page.puts("  {% endif %}")
-              deck_page.puts("  <a style='margin: 1rem 0;' class='btn btn-primary' href='/top-decks/' role='button'><i class='fa fa-arrow-left' aria-hidden='true'></i> Back to Top Decks</a>")
-              deck_page.puts("</div>")
-              deck_page.close
-
-              site.pages << DeckPage.new(site, site.source, '', 'deck.html')
-
-              FileUtils.rm 'deck.html'
+              keys = [year_key, month_key, decktype_key, deck_key]
+              site.pages << DeckPage.new(site, site.source, dir, keys)
             end
           end
         end
@@ -106,7 +85,7 @@ module Jekyll
       season_page.puts("{% include top-decks.html season='#{year}-#{month}' %}")
       season_page.close
 
-      site.pages << DeckPage.new(site, site.source, '', 'season-page.html')
+      site.pages << SeasonPage.new(site, site.source, '', 'season-page.html')
 
       FileUtils.rm 'season-page.html'
 

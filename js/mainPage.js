@@ -52,6 +52,10 @@ function loadHiddenArticles()
             {
                 clone.find('#articleAuthor').append('By <b><a class="text-warning" href="/top-player-council/">Top Player Council</a></b>');
             }
+            else if(currentArticle.author == "The Dev Team")
+            {
+                clone.find('#articleAuthor').append('By <b><a class="text-warning" href="/devteam/">The Dev Team</a></b>');
+            }
             else
             {
                 var councilMember = false;
