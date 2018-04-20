@@ -1,5 +1,6 @@
 require 'jekyll'
 require 'fileutils'
+require 'uri'
 
 module Jekyll
     class ProfilePage < Jekyll::Page
@@ -52,16 +53,13 @@ module Jekyll
         def generate(site)
             profiles = site.data['profiles']
 
-            for profile_key in profiles.keys            
+            for profile_key in profiles.keys
                 current_profile = profiles[profile_key]
 
-                if current_profile['role'] == 'author'
-                    dir = "authors"
-                else
-                    dir = "top-player-council"   
-                end
+                role = current_profile['role']
+                name = current_profile['name'].gsub(/\W|_/, "-").gsub(/-+/, "-")
 
-                site.pages << ProfilePage.new(site, site.source, File.join(dir, profile_key), profile_key)
+                site.pages << ProfilePage.new(site, site.source, File.join(role, name), profile_key)
             end
         end
     end

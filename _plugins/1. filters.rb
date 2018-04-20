@@ -115,6 +115,9 @@ module URLEncoding
   def url_encode(url)
     return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
   end
+  def url_friendly(url)
+    return url.gsub(/\W|_/, "-").gsub(/-+/, "-")
+  end
 end
 
 Liquid::Template.register_filter(URLEncoding)

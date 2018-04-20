@@ -1,0 +1,14 @@
+{% assign authors = include.authors | split: ';' %}
+
+<span class="authors">
+    {% for author in authors %}
+
+        {% assign profile = site.data.profiles | where: "name", author | first %}
+
+        {% if profile != null %}
+            <a href="/{{profile.role}}/{{profile.name | url_friendly }}/">{{profile.name}}</a>
+        {% else %}
+            <span>{{author}}</span>
+        {% endif %}
+    {% endfor %}
+</span>

@@ -1,0 +1,10 @@
+@import "variables.scss";
+
+
+.article-card
+{
+  border-radius: 5px;
+  background-color: rgba(8, 13, 120, 0.05);
+  box-shadow: 0 0 2px 0 $black;
+  margin-bottom: 20px !important;
+}
