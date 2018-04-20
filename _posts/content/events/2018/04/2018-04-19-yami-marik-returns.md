@@ -24,6 +24,7 @@ permalink: /events/april-2018/yami-marik-returns/
 - [Farm Decks](#farm-decks)
     - [Level 40 Cloudian Farm - created by Jadehex](#jadehex)
     - [Level 40 Ra Farm for Marik & Arkana - created by Charlie Mckiz](#charlie)
+    - [Level 40 Hazy Farm - created by Superforms](#superforms)
     - [Level 40 Ojama Farm - created by Tutpup](#tutpup)
 - [Yami Marik Lvl. 40 Decklist](#40)
 <!-- - [Yami Marik Lvl. 50 Decklist](#50)-->
@@ -96,7 +97,8 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 - Enter Battle Phase, activate {Anti-Magic Arrows} and swing for victory!
 
 **Replacements**
-- {Good Goblin Housekeeping} and {Jar of Greed} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Shard of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Summoner of Illusions} or {Dimensionhole} last
+- You can substitute {Summoner of Illusions} + {Dimensionhole} + {Spirit Barrier} for {Polymerization} + {Gate Guardian} + {UFOroid} and put {UFOroid Fighter} in the Extra Deck
+- {Good Goblin Housekeeping} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Summoner of Illusions} or {Dimensionhole} last
 
 **Risks**
 - There is a small risk that he'll burn you with {Bowganian} but he'll most likely tribute for {Masked Beast Des Gardius} before that happens.
@@ -111,23 +113,43 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 [deck:Destiny Draw](The Winged Dragon of Ra; Kiseitai; Kiseitai; Kiseitai; Cosmic Compass; Anti-Magic Arrows; Arrivalrivals; Draining Shield; Draining Shield; Draining Shield; Jar of Greed; Damage Vaccine Ω MAX; Damage Vaccine Ω MAX; Damage Vaccine Ω MAX; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
 **Strategy**
-
 - Stall and gain LP while taking minimal damage from your opponent's Monsters
 
 **Last Turn** 
-
 1. Summon {Cosmic Compass} with 3 Tokens 
 2. Enter the Battle Phase, activate {Arrivalrivals} to Summon {The Winged Dragon of Ra} then chain {Anti-Magic Arrows}
 3. Activate the effect of {The Winged Dragon of Ra} when prompted and attack into the lowest ATK Attack position Monster
 	
 **Replacements**
-
 - You can replace {Arrivalrivals} with {Double Summon}
 - You can replace the skill with {Duel, standby!}, {Restart} etc. 
 
 **Notes**  
 - For Arkana Lvl. 40 you don't need {Anti-Magic Arrows}, use {Jar of Greed} instead
 - There are several replacement card options (standard Ra pretty much works)  
+
+---
+
+<a name="superforms"></a>
+
+#### Level 40 Hazy Farm - created by Superforms
+
+[deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Soul Exchange; Soul Exchange; Soul Exchange; Enemy Controller; Enemy Controller; Enemy Controller; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
+
+**Strategy**
+- Only keep one Monster on the field so you don't get {Lava Golem}'d
+- Keep on destroying Marik's Monsters each turn
+- When you activate {Swamp Mirrorer} declare Beast/Beast-Warrior and any Attribute
+- Boost your Hazy Flame Monster to 10,000 ATK using {Beast Rising}
+- Go for game when you have three or less cards left in you Deck so you can clear any {Powerful Rebirth}
+
+**Last Turn** 
+- Summon a Monster by the effect of {Hazy Flame Sphynx} or activate {Swamp Mirrorer}
+- Attack Marik with you non-boosted Monster first to clear the field/bait {Powerful Rebirth}
+
+**Replacements**
+- {Dynatherium} is optimal but it can be replaced for {Earth Armor Ninja}, or {Flame Tiger} which is much worse however
+- {Soul Exchange} can be replaced for {Mausoleum of the Emperor} as he can't target any of your Hazy Flame monsters with his burn cards so there's no risk of losing due to them
 
 ---
 
@@ -145,7 +167,6 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 - **Do not** summon another Monster as Marik may tribute them both with {Lava Golem} 
 
 **Last Turn** 
-
 1. Summon a second {Ojama Knight}
 2. Activate {Ojama Country}
 3. Switch both {Ojama Knight} into Attack position
@@ -154,7 +175,6 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 6. Attack directly for victory!
 	
 **Replacements**
-
 * {King of the Swamp} can be replaced for {Fusion Recycling Plant}, {Fusion Sage} etc 
 * {Ojama Country} can be replaced by {Shield & Sword}
 * {Ojama Blue} can be replaced by {Painful Decision}
@@ -223,12 +243,12 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 
 ### Duel Awards - Eternal Fame Awaits!
  
-Take screenshots (post in the comments or Discord: #yami-marik_event), when the event is over the person with:
+Take screenshots (post in the comments below!), when the event is over the person with:
 - The 'best drop' will have their name posted here
 - Highest Event Points will have their name posted here
 - Most Prismatic drops will have their name posted here
   
-Immortalised forever on Duel Link Meta!
+Immortalised forever on Duel Links Meta!
 
 ---
 
