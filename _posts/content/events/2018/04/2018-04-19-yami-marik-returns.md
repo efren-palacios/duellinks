@@ -14,6 +14,8 @@ permalink: /events/april-2018/yami-marik-returns/
 
 {% include heading.html title=page.title author=page.author %}
 
+**Last updated: 20th April - Added more farm Decks**
+
 ![Banner](/img/content/events/2018/04/yami-marik-returns/banner.png)
  
 - [Event Information](#event-information)
@@ -26,6 +28,8 @@ permalink: /events/april-2018/yami-marik-returns/
     - [Level 40 Ra Farm for Marik & Arkana - created by Charlie Mckiz](#charlie)
     - [Level 40 Hazy Farm - created by Superforms](#superforms)
     - [Level 40 Ojama Farm - created by Tutpup](#tutpup)
+    - [Level 40 Unhappy Girl Farm - created by elStar](#elstar)
+    - [Level 40 Backup Squad Farm - created by Grandmaster](#grandmaster)
 - [Yami Marik Lvl. 40 Decklist](#40)
 <!-- - [Yami Marik Lvl. 50 Decklist](#50)-->
 - [Arkana Lvl. 40 Decklist](#40a)
@@ -181,32 +185,64 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 * If you only have one {Union Attack} you replace the second with {Spell Reclamation}
 * Alternatively, you can use the skills {Restart} or {Balance}
 
-<!--
-<a name="flabber"></a>
+---
 
-#### Level 40 Unhappy Girl Farm - created by Hi_Im_Flabber
+<a name="elstar"></a>
 
-[deck:Holy Guard](Mystical Beast of Serket; Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Crystal Seer; Crystal Seer; Rai-Mei; Rai-Mei; Rai-Mei; Union Attack; Union Attack; Shard of Greed; Shard of Greed; Shard of Greed; Temple of the Kings; Secret Pass to the Treasures; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)
-[deck](Blue-Eyes Ultimate Dragon)   
+#### Level 40 Unhappy Girl Farm - created by [elStar](https://www.twitch.tv/elstar)
+
+Here is a cheap and **consistent** build to farm Marik Lvl. 40. I prefer {Duel, standby!} over {Holy Guard} because using {Spirit Barrier} protects against him attempting to OTK as well as if you want to crash your {Rai-Mei} to thin out your deck. Note that he will not Summon {The Winged Dragon of Ra} with this build.
+
+[deck:Duel, standby!](Gravekeeper's Vassal; The Unhappy Girl; The Unhappy Girl; The Unhappy Girl; Rai-Mei; Rai-Mei; Rai-Mei; Anti-Magic Arrows; Union Attack; Union Attack; Enemy Controller; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Spirit Barrier; Spirit Barrier; Spirit Barrier; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Massivemorph)
 
 **Strategy**
-- Lock down Jesse's monsters with {The Unhappy Girl} 
-- Only summon two The Unhappy Girl as you need one free zone for {Gravekeeper's Vassal}
-- Attack his monsters with The Unhappy Girl to "lock" them down so they can't attack (you take no battle damage with {Holy Guard})
-- Before the last turn, ensure {Temple of the Kings} is on the field and tribute summon {Mystical Beast of Serket} - tribute both to special summon {Blue-Eyes Ultimate Dragon}
-- Use your draw cards to finish the Duel quicker
+- Summon {The Unhappy Girl} as soon as possible!
+- Marik will not attack The Unhappy Girl at all unless he can OTK, this gives you time to draw {Spirit Barrier} 
+- Once you draw Spirit Barrier the farm is straightforward, don't use The Unhappy Girl to lock his Monsters as Marik may activate {Nightmare Wheel}
+- Only summon **two** The Unhappy Girl as you need one free zone for {Gravekeeper's Vassal}
+- Use your draw cards to get your combo and finish the Duel quicker
 
-**Last Turn**
-You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in your Monster zones
+**Last Turn**  
+You should only have two {The Unhappy Girl} in your Monster zones
 
+- Activate {Massivemorph} and target {Masked Beast Des Gardius}, then activate {Enemy Controller} tributing an {The Unhappy Girl}
 - Summon {Gravekeeper's Vassal}
-- Target Vassal with two {Union Attack} and {Secret Pass to the Treasures}
-- Enter Battle Phase and swing for victory!
+- Target Vassal with two {Union Attack}
+- Enter Battle Phase, activate {Anti-Magic Arrows}, and attack into his weakest monster for victory!
 
 **Replacements**
-- {Good Goblin Housekeeping} and {Shard of Greed} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Legacy of Yata-Garasu} etc. However, if you replace Good Goblin Housekeeping you'll need to add {Pot of Benevolence} to avoid drawing {Temple of the Kings} or {Mystical Beast of Serket} last
-- {Crystal Seer} can be replaced by {Skelengel}, {Dekoichi the Battlechanted Locomotive}, {Dark Mimic LV1} etc
--->
+- {Good Goblin Housekeeping} and {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed} etc.
+
+**Notes**
+- If Marik summons {Bowganian}, he will most likely use it as a tribute for {Masked Beast Des Gardius}, though you may lose some LP it won't be lethal
+
+---
+
+<a name="grandmaster"></a>
+
+#### Level 40 Backup Squad Farm - created by Grandmaster
+
+[deck:Restart](Gravekeeper's Vassal; Caligo Claw Crow; Anti-Magic Arrows; Union Attack; Union Attack; Enemy Controller; Backup Squad; Backup Squad; Backup Squad; Temple of the Mind's Eye; Temple of the Mind's Eye; Temple of the Mind's Eye; Secret Pass to the Treasures; Draining Shield; Draining Shield; Draining Shield; Curse of Anubis; Massivemorph; Massivemorph; Massivemorph)
+
+**Strategy**
+ - Use {Restart} if you don't have {Backup Squad} in your hand, activate it if you do
+ - That will buy you a couple turns as Marik will not attack unless he has lethal in that Battle Phase
+ - You can use a {Draining Shield} before activating {Temple of the Mind's Eye} to avoid getting burned by {Bowganian} however most time he will tribute Bowganian to Special Summon {Masked Beast Des Gardius}
+ - If you don't have Draining Shield set, activate Temple
+ - With Temple and {Backup Squad} activated whilst your LP is 3000 or higher Marik will **100%** not attack you
+ - But once you have 3 cards left in your deck he will **then** attack you in attempt to deck you out
+ - Ensure you have {Massivemorph} set, he will always attack with Masked Beast Des Gardius last. 
+ - Let the first 2 Monsters attack you (you will draw 2 cards by the effect of {Backup Squad}), then activate Massivemorph and target Masked Beast Des Gardius and that will leave you with one card in your Deck
+
+**Last Turn**
+- Summon {Gravekeeper's Vassal}
+- Special Summon {Caligo Claw Crow}, then activate {Enemy Controller} tributing it for Masked Beast Des Gardius   
+- Target Vassal with two {Union Attack} and {Secret Pass to the Treasures}
+- Enter Battle Phase, activate {Anti-Magic Arrows}, and attack directly with Vassal for victory!
+
+ **Replacements**
+- {Caligo Claw Crow} can be replaced for {The Fiend Megacyber}
+- {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping} etc. 
 
 ---
 
