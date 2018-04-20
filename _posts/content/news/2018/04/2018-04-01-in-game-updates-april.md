@@ -1,19 +1,40 @@
 ---
 layout: blog
-title: In-Game Updates (10) - April 13
+title: In-Game Updates (16) - April 20
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-13 05:00:00 +0100
+date: 2018-04-20 07:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky   
+keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky, marik, yami marik, ra, visuals, bonus, card trader, duel room   
 permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 20th (Update 16)](#160)
+    - [Shortening of Visual Effects](#161)
+    - [Update to Version 2.6.0](#162)
+    - [Ranked Duels Challenge Stamps](#163)
+- [April 19th (Update 15)](#150)
+    - [Bonus Reward Campaign!](#151)
+    - [Improvements to the Duel Room](#152)
+    - [Yami Marik Returns](#153)
+- [April 18th (Update 14)](#140)
+    - [Card Trader Inventory Updated](#141)
+    - [Maintenance Notice](#142)
+- [April 17th (Update 13)](#130)
+    - [Dr. Vellian Crowler Added to the Gate](#131)
+- [April 16th (Update 12)](#120)
+    - [KC Cup Survey](#121)
+    - [KC Cup Results](#122)
+    - [Tickets Expiring Soon](#123)
+    - [World Championship (WCS) Qualifiers](#124)
+    - [Obtain a Legendary Duelist](#125)
+- [April 15th (Update 11)](#110)
+    - [Duel-A-Thon Update](#111)
 - [April 13th (Update 10)](#100)
     - [KC Cup (Stage 2) Is Underway](#101)
     - [KC Cup Celebration Sale](#102)
@@ -41,6 +62,159 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="160"></a>
+## April 20th (Update 16)
+
+<br>
+
+<a name="161"></a>
+
+### Shortening of Visual Effects
+
+Shorter animations = more duels!
+
+![](/img/content/news/2018/04/in-game-updates/20-visuals.jpg)
+
+<a name="162"></a>
+
+### Update to Version 2.6.0
+
+Some decent quality of life improvements and a fix for {Ties of the Brethren}.
+
+[slider](/img/content/news/2018/04/in-game-updates/20-slider-update-version.jpg)
+
+<a name="163"></a>
+
+### Ranked Duels Challenge Stamps
+
+Get up to 90 Gems for Dueling in Ranked Duels!
+
+[slider](/img/content/news/2018/04/in-game-updates/20-ranked-duels-stamps.jpg)
+
+---
+
+<a name="150"></a>
+## April 19th (Update 15)
+
+<br>
+
+<a name="151"></a>
+
+### Bonus Reward Campaign!
+
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 26th April. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+
+[slider](/img/content/news/2018/04/in-game-updates/19-bonus-duel-reward.jpg)
+
+<a name="152"></a>
+
+### Improvements to the Duel Room
+
+Larger rooms, more tables, get your game on!  
+
+![](/img/content/news/2018/04/in-game-updates/19-duel-room.jpg)
+
+<a name="153"></a>
+
+### Yami Marik Returns
+
+Yami Marik is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the best ways to farm him! 
+
+[slider](/img/content/news/2018/04/in-game-updates/19-yami-marik-event.jpg)
+
+---
+
+<a name="140"></a>
+## April 18th (Update 14)
+
+<br>
+
+<a name="141"></a>
+### Card Trader Inventory Updated
+
+Check out the [Card Trader article](/news/april-2018/card-trader-inventory-updated/) with [Top Player Council](/top-player-council/) insight on the new cards!
+
+![](/img/content/news/2018/04/in-game-updates/18-card-trader-update.jpg)
+
+<a name="142"></a>
+### Maintenance Notice
+
+There will be a maintenance tomorrow to conclude the [Duel-A-Thon event](/events/april-2018/duel-a-thon/) and to prepare for the [Yami Marik event](#125) from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! :'( 
+
+![](/img/content/news/2018/04/in-game-updates/18-maintenance.jpg)
+
+---
+
+<a name="130"></a>
+## April 17th (Update 13)
+
+<br>
+
+<a name="131"></a>
+### Dr. Vellian Crowler Added to the Gate
+
+Dr. Vellian Crowler has been added to the gate, check out our [farm guide](/farming/all-characters/dr-vellian-crowler/) for the best ways to farm him - get those Ancient Gear cards!
+
+[slider](/img/content/news/2018/04/in-game-updates/17-crowler-gate.jpg)
+
+---
+
+<a name="120"></a>
+## April 16th (Update 12)
+
+<br>
+
+<a name="121"></a>
+### KC Cup Survey
+
+If you have any woes, voice them in the survey!
+
+![](/img/content/news/2018/04/in-game-updates/16-survey.jpg)
+
+<a name="122"></a>
+### KC Cup Results
+
+Check out our [KC Cup - Top 100 Global Report](/tournaments/kc-cup/april-2018/report/) for the best decks!
+
+![](/img/content/news/2018/04/in-game-updates/16-kc-cup-results.jpg)
+
+<a name="123"></a>
+### Tickets Expiring Soon
+
+Quick, redeem them!
+
+[slider](/img/content/news/2018/04/in-game-updates/16-tickets.jpg)
+
+<a name="124"></a>
+### World Championship (WCS) Qualifiers 
+
+The qualifiers for the World Championship will be held in late May.
+
+[slider](/img/content/news/2018/04/in-game-updates/16-slider-wcs.jpg)
+
+<a name="125"></a>
+### Obtain a Legendary Duelist
+
+Yami Marik will return... again! He will also bring with him a new skill, likely one to support the {The Winged Dragon of Ra}. For those of us who have already obtained {The Winged Dragon of Ra}, Konami will reward us with a super, amazing, fantastic UR Jewel! 
+
+![](/img/content/news/2018/04/in-game-updates/16-yami-marik.jpg)
+
+---
+
+<a name="110"></a>
+## April 15th (Update 11)
+
+<br>
+
+<a name="111"></a>
+### Duel-A-Thon Update
+
+The event has been updated with the usual multipler increases and **double** daily rewards. Read our [event article](/events/april-2018/duel-a-thon/) for more information and [Top Player Council](/top-player-council/) insight!
+
+[slider](/img/content/news/2018/04/in-game-updates/15-slider-duel-a-thon-update.jpg)
 
 ---
 

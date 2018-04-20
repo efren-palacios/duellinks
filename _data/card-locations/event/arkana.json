@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Dark Magician",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Dark Eradicator Warlock",
+        "rarity": "SR"
+    },
+    {
+        "name": "Anti-Magic Arrows",
+        "rarity": "SR"
+    },
+    {
+        "name": "Mystic Box",
+        "rarity": "SR"
+    },
+    {
+        "name": "Diffusion Wave-Motion",
+        "rarity": "SR"
+    },
+    {
+        "name": "The Stern Mystic",
+        "rarity": "R"
+    },
+    {
+        "name": "Maniacal Servant",
+        "rarity": "R"
+    },
+    {
+        "name": "Witch Doctor of Chaos",
+        "rarity": "R"
+    },
+    {
+        "name": "Thousand Knives",
+        "rarity": "R"
+    },
+    {
+        "name": "Chosen One",
+        "rarity": "R"
+    }
+]

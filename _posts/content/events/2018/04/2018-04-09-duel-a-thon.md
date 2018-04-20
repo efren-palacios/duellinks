@@ -5,7 +5,7 @@ title: Duel-A-Thon
 author: Yami Hammy
 image: /img/content/events/2018/03/duel-a-thon/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Duel to fill up the Duel Meter, you'll receive a reward each time you fill it up all the way!
 keywords: event, duel-a-thon, intrigue shield
@@ -14,10 +14,19 @@ permalink: /events/april-2018/duel-a-thon/
 
 {% include heading.html title=page.title author=page.author %}
 
+**Last updated April 15th**
+
+- [Update](#update)
 - [Event Information](#event-information)
 - [Featured Reward](#featured-reward)
 - [Top Player Council Thoughts](#top-player-council-thoughts)
 - [Cumulative Rewards](#cumulative-rewards)
+
+---
+
+### Update
+
+Daily Rewards have been **doubled** and the Duel Meter bonus multiplier has been increased, it will now end at x6.
 
 ---
 

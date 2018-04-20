@@ -119,7 +119,7 @@ These are the upcoming drop rewards you have to look forward to (RNG willing!):
 
 ### Top Player Council Thoughts
 
-#### **[Superforms](/authors/superforms/)** says: 
+#### **[Superforms](/top-player-council/superforms/)** says: 
 
 - {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a [REZ](/tier-list/red-eyes-zombies/), for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter Traps. This is incredibly important because it gives you a way to mitigate the effects of going second. The LP gain is also not insignificant, giving you more fuel for {Seven Tools of the Bandit} and {Solemn Scolding}.
 - {Divine Punishment} (SR): Negates a ton of stuff while the Field Spell ({The Sanctuary in the Sky}) is up. A very versatile negation card with no discard cost. Divine Punishment notably cannot stop already face-up backrow ({Sea Stealth Attack}, {Beast Rising}, {Call of the Archfiend}) nor can it stop normal summons (like Solemn Scolding can). 
