@@ -155,7 +155,7 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |19-40|Guizyduck| 10 points|
 |19-40|Hextor| 10 points|
 |19-40|Koizumi| 10 points|
-|19-40|Look at god| 10 points|
+|19-40|Look at god| 20 points|
 |19-40|MiguelJoker| 10 points|
 |19-40|Peledones| 10 points|
 |19-40|Suhnrysanti| 10 points|
