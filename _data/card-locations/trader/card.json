@@ -58,5 +58,13 @@
     {
         "name": "Gate Guardian",
         "rarity": "R"
+    },
+    {
+        "name": "Hazy Flame Sphynx",
+        "rarity": "R"
+    },
+    {
+        "name": "Mausoleum of the Emperor",
+        "rarity": "SR"
     }
 ]

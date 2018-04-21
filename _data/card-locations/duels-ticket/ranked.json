@@ -56,7 +56,11 @@
         "rarity": "SR"
     },
     {
-        "name": "Enemy Controller",
+        "name": "Union Attack",
         "rarity": "SR"
-    }               
+    },
+    { 
+		"name": "Kiseitai", 
+		"rarity": "R" 
+    }        
 ]

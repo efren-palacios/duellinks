@@ -161,7 +161,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 
 <a name="tutpup"></a>
 
-#### Lvl. 40 **(Marik)** Ojama Farm - created by Tutpup 
+#### Lvl. 40 **(Marik)** Ojama Farm - created by [Tutpup](https://www.twitch.tv/tutpup) 
 
 [deck:Duel, standby!](King of the Swamp; King of the Swamp; Ojama Blue; Ojama Blue; Ojama Blue; Gravekeeper's Vassal; Ojama Black; Ojama Black; Ojama Yellow; Ojama Yellow; Ojama Green; Ojama Green; Anti-Magic Arrows; Union Attack; Union Attack; Polymerization; Polymerization; Polymerization; Ojama Country; Secret Pass to the Treasures)
 [deck](Ojama Knight; Ojama Knight; Ojama Knight)
@@ -242,7 +242,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 - Target Vassal with two {Union Attack} and {Secret Pass to the Treasures}
 - Enter Battle Phase, activate {Anti-Magic Arrows}, and attack directly with Vassal for victory!
 
- ##### Replacements
+##### Replacements
 - {Caligo Claw Crow} can be replaced for {The Fiend Megacyber}
 - {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping} etc 
 
