@@ -15,6 +15,9 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
 
 {% include heading.html title=page.title author=page.author %}
 
+#### Updated April 21, 2018 
+##### Deck Core(Needlebug Nest) and Matchup Guide Updated
+
 ### Table of Contents
 * [Introduction](#introduction)
 * [Current Builds](#current-builds)
@@ -37,6 +40,8 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
     * [Mill](#mill)
     * [Burn](#burn)
     * [Destiny Heroes](#destiny-heroes)
+    * [Masked Heroes](#masked-heroes)
+    * [Geargias](#geargias)
     * [Mirror Match](#mirror-match)
 * [Conclusion](#conclusion)
 * [Thanks](#thanks)
@@ -137,6 +142,7 @@ The rest of the space in the deck are tech slots.
 * 3 x {Needlebug Nest}  
 * 2-3 x {Archfiend Empress}  
 * 3 x {Archfiend Cavalry}  
+* 0-2 x {Invader of Darkness}  
 * 0-2 x {Lyla, Lightsworn Sorceress}  
 * 0-2 x {Fiend Griefing}  
 
@@ -148,7 +154,7 @@ This section will cover the relevant monsters and traps the deck uses.
 
 ### Monster Core
 
-[deck](Archfiend Emperor, the First Lord of Horror;Archfiend Empress;Archfiend Cavalry)
+[deck](Archfiend Emperor, the First Lord of Horror;Archfiend Empress;Archfiend Cavalry;Invader of Darkness)
 
 
 {Archfiend Emperor, the First Lord of Horror}    
@@ -290,6 +296,23 @@ Unfortunately for us, this deck typically runs 3 Enemy Controllers as well as 3 
 
 **Matchup Odds:**  
 50-50 In their favor  
+
+---
+
+### Masked Heroes
+Masked Heroes are quick and explosive and will overwhelm Fiends very fast if able. The best way to win this matchup is too quickly Roar Empress into Invader or call him out of the grave. Once on the field, Invader buys time and shuts down the entire mask deck on his own aside from {Vision HERO - Trinity. Once Invader is on the field, focus on getting an Emperor out to begin the push for game.  
+
+**Matchup Odds:**  
+60-40 In Fiends favor if we are running 2 Invaders.   
+35-65 Their favor without Invader.  
+
+---
+
+### Geargias
+This match is a complete coin toss and depends entirely on who goes first and who opens more broken. While it is possible for Geargia anchor to actually help us with its destruction effect, it can also make Empress miss timing. Because of attacker, we generally will only get 1 use out of call of arch. It's important in this matchup to use emperor's effect almost exclusively on monster removal (their face up monsters). Additionally, archfiend giant sees value here that he doesn't in other matchups as his effect to pay 500lp and remain on the field can harm geargias after they used anchor's effect. Another solid side deck card in this match is lava golem. 2 copies should be enough to shut down geargia after a ties of the brethren play. Ensure that you have used needlebug nest in geargias draw phase so you have roar or call targets for when attacker uses it's effect.  
+
+**Matchup Odds:**  
+50-50    
 
 ---
 ### Mirror Match

@@ -15,7 +15,8 @@ permalink: /guides/deck-types/aliens-guide-by-celestial/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated April 21, 2018
+#### Updated April 21, 2018 
+##### Core Cards, Tech Cards, Sample Decklist, and Tips Updated
 
 ## Introduction 
 Aliens are an archetype that has been introduced through the Main Box Abyss Encounters.   
