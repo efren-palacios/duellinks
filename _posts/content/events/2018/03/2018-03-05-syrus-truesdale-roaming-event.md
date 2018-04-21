@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-03-05
 title: Syrus Truesdale Roaming Event
-author: Yami Hammy & Freeska
+author: Yami Hammy; Freeska
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
 category: event
 ended: true

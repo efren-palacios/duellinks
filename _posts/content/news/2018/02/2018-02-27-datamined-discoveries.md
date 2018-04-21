@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-27
 title: Datamined Discoveries! - February
-author: SpoonCats & Freeska
+author: Freeska; SpoonCats
 image: /img/content/news/2018/02/datamined-discoveries/thumbnail.jpg
 category: news
 comments: true

@@ -11,9 +11,9 @@ deck-type: treeborn-tributes
 permalink: /tier-list/treeborn-tributes/ 
 ---
 
-{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
-{% include guides/guide.html guide=guide %}
 
-{% include decktype_decks.html deckType=page.deck-type %}
+
+
+
 

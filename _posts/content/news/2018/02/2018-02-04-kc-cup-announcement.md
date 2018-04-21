@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-04
 title: The February 2018 KC Cup has been announced!
-author: Spooncats
+author: SpoonCats
 image: /img/logos/kccup.jpg
 category: news
 comments: true

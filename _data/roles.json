@@ -1,0 +1,56 @@
+[
+	{
+		"priority": "1",
+		"role-id": "dkayed",
+		"role-name": "Dkayed",
+		"group-id": "dkayed",
+		"group-name": "Dkayed",
+		"url": "",
+		"color": "#FF1B2B"
+	},
+	{
+		"priority": "2",
+		"role-id": "top-player-council",
+		"role-name": "Top Player Council",
+		"group-id": "top-player-council",
+		"group-name": "The Top Player Council",
+		"url": "/top-player-council/",
+		"color": "#315FF5"
+	},
+	{
+		"priority": "3",
+		"role-id": "deck-type-expert",
+		"role-name": "Deck Type Expert",
+		"group-id": "deck-type-experts",
+		"group-name": "The Deck Type Experts",
+		"url": "",
+		"color": "#DD8800"
+	},
+	{
+		"priority": "4",
+		"role-id": "developer",
+		"role-name": "Developer",
+		"group-id": "developers",
+		"group-name": "The Dev Team",
+		"url": "/the-dev-team/",
+		"color": "#A91B53"
+	},
+	{
+		"priority": "5",
+		"role-id": "content-manager",
+		"role-name": "Content Manager",
+		"group-id": "content-managers",
+		"group-name": "The Content Managers",
+		"url": "",
+		"color": "#2ECC61"
+	},
+	{
+		"priority": "6",
+		"role-id": "content-editor",
+		"role-name": "Content Editor",
+		"group-id": "content-editors",
+		"group-name": "The Content Editors",
+		"url": "",
+		"color": "#3496DB"
+	}
+]

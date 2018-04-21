@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Tea Gardner
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Tea Gardner

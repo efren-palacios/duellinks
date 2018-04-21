@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Top Players
-author: Dkayed
+author: Dkayed; GiaJoestar
 image: /img/pages/top-players/tpc1.jpg
 category: page
 sub-category: main

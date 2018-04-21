@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-23
 title: Card Trader Update - February
-author: Freeska & Yami Hammy
+author: Freeska; Yami Hammy
 image: /img/content/news/2018/02/card-trader-update/thumbnail.jpg
 category: news
 comments: true

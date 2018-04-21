@@ -11,9 +11,9 @@ deck-type: winged-dragon-of-ra
 permalink: /tier-list/winged-dragon-of-ra/
 ---
 
-{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
-{% include guides/guide.html guide=guide %}
 
-{% include decktype_decks.html deckType=page.deck-type %}
+
+
+
 

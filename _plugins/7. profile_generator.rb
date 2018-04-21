@@ -50,16 +50,17 @@ module Jekyll
     end
 
     class ProfileGenerator < Jekyll::Generator
+        include Jekyll::CustomFunctions
+        
         def generate(site)
             profiles = site.data['profiles']
 
             for profile_key in profiles.keys
                 current_profile = profiles[profile_key]
 
-                role = current_profile['role']
-                name = current_profile['name'].gsub(/\W|_/, "-").gsub(/-+/, "-")
+                location = getProfileUrlByProfile(current_profile)
 
-                site.pages << ProfilePage.new(site, site.source, File.join(role, name), profile_key)
+                site.pages << ProfilePage.new(site, site.source, location, profile_key)
             end
         end
     end

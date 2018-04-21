@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Meta Championship Series #7 Report"
-author: Jonesy9027, SpoonCats & Yami Hammy
+author: Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
 tournament: Meta Championship Series
 number: 7

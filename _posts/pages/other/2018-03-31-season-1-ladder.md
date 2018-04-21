@@ -1,10 +1,10 @@
 ---
 layout: blog
+date: 2018-01-01
 title: Season 1 Ladder
 author: GiaJoestar
 image: /img/content/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
 category: page
-date: 2018-01-01
 comments: false
 description: These are the Duel Links Meta Top Player Council members. They are the core of everything that concerns the meta of Yu-Gi-Oh! Duel Links.
 keywords: top player council, top players, council, best player, best players

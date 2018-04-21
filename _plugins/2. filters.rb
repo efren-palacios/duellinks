@@ -127,21 +127,23 @@ module Jekyll
     end
   end
 
+  module ReadingTimeFilter
+    def reading_time(input)
+      words_per_minute = 180
+  
+      words = input.split.size;
+      minutes = (words / words_per_minute).floor
+      minutes_label = minutes === 1 ? " minute" : " minutes"
+      minutes > 0 ? "about #{minutes} #{minutes_label}" : "less than 1 minute"
+    end
+  end
+
 end
 
-module URLEncoding
-  def url_encode(url)
-    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
-  end
-  def url_friendly(url)
-    return url.gsub(/\W|_/, "-").gsub(/-+/, "-")
-  end
-end
-
-Liquid::Template.register_filter(URLEncoding)
 Liquid::Template.register_filter(Jekyll::DateFilter)
 Liquid::Template.register_filter(Jekyll::StringFilter)
 Liquid::Template.register_filter(Jekyll::ApiFilter)
 Liquid::Template.register_filter(Jekyll::YoutubeFilter)
 Liquid::Template.register_filter(Jekyll::ArrayFilter)
 Liquid::Template.register_filter(Jekyll::ContentFilter)
+Liquid::Template.register_filter(Jekyll::ReadingTimeFilter)

@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-04-17 01:00:00 +0100
 title: KC Cup April - Top 100 Report
-author: Jonesy9027 & Yami Hammy
+author: Jonesy9027; Yami Hammy
 category: tournament
 tournament: KC Cup
 number: 7

@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Farming & Events
-author: Dkayed
+author: Creative; pll
 image: /img/pages/events/thumbnail-yami-marik.jpg
 category: page
 sub-category: main

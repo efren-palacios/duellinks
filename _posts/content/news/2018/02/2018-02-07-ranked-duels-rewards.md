@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-07
 title: Ranked Duels Rewards - February 2018
-author: Brianhayward88, Inzang
+author: Brianhayward88; Inzang
 image: /img/content/news/hexed.png
 category: news
 comments: true

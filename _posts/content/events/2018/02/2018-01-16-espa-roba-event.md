@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-02-13
 title: Espa Roba Roaming Event
-author: Yami Hammy & Freeska
+author: Yami Hammy; Freeska
 image: /img/content/events/2018/02/espa-roba-roaming-event/thumbnail.jpg
 category: event
 ended: true

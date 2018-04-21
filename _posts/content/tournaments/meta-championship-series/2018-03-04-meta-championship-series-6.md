@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Meta Championship Series #6 Report"
-author: Yami Hammy, Creative & Jonesy9027
+author: Yami Hammy; Creative; Jonesy9027
 category: tournament
 tournament: Meta Championship Series
 number: 6

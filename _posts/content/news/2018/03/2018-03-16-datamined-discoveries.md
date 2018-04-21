@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-03-29
 title: Datamined Discoveries! - March
-author: SpoonCats & Yami Hammy
+author: SpoonCats; Yami Hammy
 image: /img/content/news/2018/03/datamined-discoveries/thumbnail-march-29.jpg
 category: news
 comments: true

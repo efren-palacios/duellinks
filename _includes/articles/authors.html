@@ -3,12 +3,29 @@
 <span class="authors">
     {% for author in authors %}
 
-        {% assign profile = site.data.profiles | where: "name", author | first %}
+        {% assign author = author | lstrip | rstrip %}
 
-        {% if profile != null %}
-            <a href="/{{profile.role}}/{{profile.name | url_friendly }}/">{{profile.name}}</a>
+        {% assign roles = site.data.roles %}
+        {% assign profile = site.data.profiles | where: "name", author | first %}
+        
+        {% if profile %}
+            {% assign url = profile | getProfileUrlByProfile %}
+            {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
+
+            {% if role %}
+                <a href="{{url}}"><font color="{{role.color}}">{{profile.name}}</font></a>
+            {% else %}
+                <a href="{{url}}">{{profile.name}}</a>
+            {% endif %}
         {% else %}
-            <span>{{author}}</span>
+            {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
+
+            {% if group and group.url != "" %}
+                <a href="{{group.url}}"><font color="{{group.color}}">{{group.group-name}}</font></a>
+            {% else %}
+                <span>{{author}}</span>
+            {% endif %}   
         {% endif %}
+
     {% endfor %}
 </span>
