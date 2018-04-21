@@ -42,7 +42,7 @@ module Jekyll
             else
               obtainVal = combinedLocationName2 + combinedLocationName1
             end        
-            card_hash = { 'name' => card["name"].gsub(/"/, "'"), 'rarity' => card["rarity"], 'obtain' => obtainVal }
+            card_hash = { 'name' => card["name"].gsub(/"/, "\\\""), 'rarity' => card["rarity"], 'obtain' => obtainVal }
             cards.push(card_hash)
           end 
         end
