@@ -67,7 +67,7 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
 
 <br>
 
-* LP Boost a  
+* LP Boost α  
 {LP Boost a} Archfiends are the 2nd way to play this archetype. This deck focuses on sustained burst plays that control the opponent’s board while also retaining presence with Emperor and {Archfiend Empress}. LP Boost allows us to avoid most OTKs in the meta as well as giving us access to {Card of the Soul} to pull Emperor/Empress from the deck.  
 
     * Skill: {LP Boost a}  
@@ -93,7 +93,7 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
 
 <br>
 
-**LP Boost a Build by Mewf**
+**LP Boost α Build by Mewf**
 
 [deck:LP Boost a](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snipe Hunter;Sphere Kuriboh;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Card of the Soul;Card of the Soul;Card of the Soul;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing)
 
@@ -120,7 +120,7 @@ This version does not have much in the way of tech options, but the core card ra
 * 2-3 x {Reign-Beaux, Overlord of Dark World}  
 * 2-3 x {Ceruli, Guru of Dark World}  
 
-**LP Boost a**   
+**LP Boost α**   
 This list is capable of using multiple tech slots depending on the situation at hand.  
 
 * 3 x {Archfiend Emperor, the First Lord of Horror}  
@@ -252,7 +252,7 @@ Use Fiend Griefing to disrupt their Fishborg Planter and Citadel Whale from the 
 ---
 
 ### Cyber Angels 
-Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost a shines the most in this match. Gravity Lash, Skill Successor, Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
+Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
 
 **Matchup Odds:**  
 45-55  

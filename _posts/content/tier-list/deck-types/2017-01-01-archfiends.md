@@ -37,7 +37,7 @@ It should be noted that each of the 3 current main builds all focus on different
 
 <br>
 
-**LP Boost a Build by Mewf**
+**LP Boost α Build by Mewf**
 
 [deck:LP Boost a](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snipe Hunter;Sphere Kuriboh;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Card of the Soul;Card of the Soul;Card of the Soul;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing)
 
