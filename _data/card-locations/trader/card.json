@@ -46,5 +46,17 @@
     {
         "name": "Danipon",
         "rarity": "R"
+    },
+    {
+        "name": "Polymerization",
+        "rarity": "SR"
+    },
+    {
+        "name": "Jar of Greed",
+        "rarity": "R"
+    },
+    {
+        "name": "Gate Guardian",
+        "rarity": "R"
     }
 ]
