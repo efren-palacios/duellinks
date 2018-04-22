@@ -27,8 +27,6 @@
     "gulp-rename": "^1.2.2",
     "gulp-run": "^1.7.1",
     "gulp-sass": "^4.0.1",
-    "gulp-util": "^3.0.8",
-    "run-sequence": "^2.2.1",
-    "cross-spawn": "^6.0.5"
+    "gulp-util": "^3.0.8"
   }
 }
