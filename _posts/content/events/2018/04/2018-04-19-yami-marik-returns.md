@@ -318,11 +318,10 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 
 ### Yami Marik Lvl: 50 Decklist
 
-[deck](Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Lava Golem; Mystic Tomato; The Winged Dragon of Ra; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
+[deck:Incarnation: Sphere Mode](Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Lava Golem; Mystic Tomato; The Winged Dragon of Ra; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
 
 ---
 -->
-
 <a name="40a"></a>
 
 ### Arkana Lvl. 40 Decklist

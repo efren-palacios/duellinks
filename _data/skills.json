@@ -894,5 +894,12 @@
     "how": "Level 4",
     "exclusive": true,
     "character": "Arkana"
+  },
+  {
+    "name": "Incarnation: Sphere Mode",
+    "description": "(NPC ONLY) Begin the Duel with 'The Winged Dragon of Ra - Sphere Mode' on your side of the field.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Yami Marik"
   }
 ]
