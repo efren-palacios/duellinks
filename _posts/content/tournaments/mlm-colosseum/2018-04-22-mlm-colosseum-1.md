@@ -36,7 +36,7 @@ pinned: false
 
 #### 1st Place - zzmondo: $125
 
-[deck:Restart](Sphere Kuriboh; Sphere Kuriboh; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Solemn Scolding; Solemn Scolding; Solemn Scolding)
+[deck:Grit](Sphere Kuriboh; Sphere Kuriboh; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Solemn Scolding; Solemn Scolding; Solemn Scolding)
 
 ***Side Deck:***
 [deck](Rose Archer; Rose Archer; Rose Archer; Magic Deflector; Magic Deflector)
