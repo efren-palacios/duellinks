@@ -46,5 +46,25 @@
     {
         "name": "Danipon",
         "rarity": "R"
+    },
+    {
+        "name": "Polymerization",
+        "rarity": "SR"
+    },
+    {
+        "name": "Jar of Greed",
+        "rarity": "R"
+    },
+    {
+        "name": "Gate Guardian",
+        "rarity": "R"
+    },
+    {
+        "name": "Hazy Flame Sphynx",
+        "rarity": "R"
+    },
+    {
+        "name": "Mausoleum of the Emperor",
+        "rarity": "SR"
     }
 ]

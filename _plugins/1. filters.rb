@@ -39,8 +39,12 @@ module Jekyll
           subLocationData.each do |card|
             if(combinedLocationName1 == "Level Up Reward")
               obtainVal = combinedLocationName2 + combinedLocationName1.gsub('Up', card["level"].to_s)
-            else
-              obtainVal = combinedLocationName2 + combinedLocationName1
+            else 
+              if(combinedLocationName2.include? "Non Player Character")
+                obtainVal = combinedLocationName2.gsub('Non Player', 'Non-Player') + combinedLocationName1
+              else
+                obtainVal = combinedLocationName2 + combinedLocationName1 
+              end 
             end        
             card_hash = { 'name' => card["name"].gsub(/"/, "\\\""), 'rarity' => card["rarity"], 'obtain' => obtainVal }
             cards.push(card_hash)
