@@ -14,9 +14,6 @@ const siteRoot = '_site';
 const cssFiles = '_assets/css/**/*.?(s)css';
 const jsFiles = 'js/**/*.js';
 
-var spawn = require('cross-spawn');
-
-
 gulp.task('css', () => {
   gulp.src(cssFiles)
     .pipe(sass())
@@ -43,9 +40,6 @@ gulp.task('jekyll', function() {
       .pipe(run(shellCommand))
       .on('error', gutil.log);
 });
-/*gulp.task('jekyll', () => {
-  var child = spawn('jekyll', ['build', '--incremental'], { stdio: 'inherit' });
-});*/
 
 gulp.task('serve', () => {
   browserSync.init({
