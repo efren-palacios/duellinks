@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-04-19 23:00:00 +0100
 title: Yami Marik Returns!
-author: Yami Hammy
+author: Jonesy9027; Yami Hammy; Dkayed; The Dev Team
 image: /img/content/events/2018/04/yami-marik-returns/thumbnail.jpg
 category: event
 ended: false

@@ -1,10 +1,117 @@
 @import "variables.scss";
 
-
-.article-card
+/*.container
 {
-  border-radius: 5px;
-  background-color: rgba(8, 13, 120, 0.05);
-  box-shadow: 0 0 2px 0 $black;
-  margin-bottom: 20px !important;
+  border: 1px solid white;
+  height: auto !important;
+}*/
+
+/*https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio*/
+/*https://www.w3schools.com/howto/howto_css_aspect_ratio.asp*/
+
+.card-collection
+{
+  .card-container
+  {
+    text-align: left;
+    padding: 0;
+    margin-bottom: 18px;
+    -webkit-perspective: 1000px;
+    perspective: 1000px;
+
+    /*display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+    padding: 54.05% 0 0 0;*/
+
+    .article-card
+    {
+      /*cursor: pointer;*/
+      background-color: rgba(8, 13, 120, 0.05);
+      box-shadow: 0 0 4px 0 $black;
+      color: $text-default;
+
+      -moz-backface-visibility: hidden;
+      -webkit-transform-style: preserve-3d;
+      transform-style: preserve-3d;
+      -webkit-transform: translateZ(-50px);
+      transform: translateZ(-50px);
+
+      /*display: block;
+      max-width: 100%;
+      max-height: 100%;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;*/
+
+      transition: all 0.4s;
+      
+      &:hover
+      {
+        -webkit-transform: translateZ(0px);
+        transform: translateZ(0px);
+      }
+
+      a
+      {
+        text-decoration: none;
+        color: $text-default;
+      }
+
+      .cover
+      {
+        width: 100%;
+        border-radius: 5px;
+      }
+
+      .information
+      {
+        position: absolute;
+        bottom: 8px;
+        width: 100%;
+        padding: 0 8px 4px 8px;
+        background: rgba(33, 33, 33, 0.75);
+
+        p
+        {
+          margin: 0;
+        }
+
+        .title
+        {
+          font-size: 2rem;
+          width: 100%;
+          margin-top: -3px;
+          margin-bottom: -7px;
+          text-transform: uppercase;
+        }
+
+        .sub-text
+        {
+          width: 100%;
+          line-height: 16px;
+          font-size: 0.85rem;
+
+          .author
+          {
+            font-weight: 600;
+            
+            &:hover
+            {
+              text-decoration: underline;
+            }
+          }
+
+          .comma
+          {
+            margin-left: -4px;
+          }
+        }        
+      }
+    }
+  }
 }

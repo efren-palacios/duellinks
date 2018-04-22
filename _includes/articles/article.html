@@ -1,14 +1,18 @@
 
-<div class="article-card col-sm-6 col-12">
-  <a href="{{article.url}}"> 
-    <img src="{{article.image}}" class="card-img-top lazyloaded">
-    <div class="ribbon">DECK TYPE INTRO</div>
-    <div class="title">META CHAMPIONSHIP SERIES #7 REPORT</div>
-    <div class="sub-text">
-      <span>Last updated: </span>
-      <span>1 week and 3 days ago </span>
-      <span>by </span>
-      {% include articles/authors.html authors=article.author %}
-    </div>
-  </a>
+<div class="card-container col-sm-6 col-12">
+  <div class="article-card ">
+    <a href="{{article.url}}">
+      <img class="cover" src="{{article.image}}">
+      <!--<div class="ribbon">DECK TYPE INTRO</div>-->
+      <div class="information">
+        <p class="title">{{article.title}}</p>
+        <p class="sub-text">
+          <span>Last updated: </span>
+          <span>1 week and 3 days ago </span>
+          <span>by </span>
+          {% include articles/authors.html authors=article.author %}
+        </p>
+      </div>
+    </a>
+  </div>
 </div>

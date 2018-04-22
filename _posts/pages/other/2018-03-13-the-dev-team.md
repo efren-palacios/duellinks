@@ -2,7 +2,7 @@
 layout: blog
 title: The Dev Team
 category: page
-permalink: /devteam/
+permalink: /the-dev-team/
 ---
 <section class="team">
   <div class="container">

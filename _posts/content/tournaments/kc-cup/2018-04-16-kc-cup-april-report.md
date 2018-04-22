@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-04-17 01:00:00 +0100
 title: KC Cup April - Top 100 Report
-author: Jonesy9027; Yami Hammy
+author: Jonesy9027; Yami Hammy;
 category: tournament
 tournament: KC Cup
 number: 7
@@ -11,7 +11,6 @@ comments: true
 description: Stage 2 of the April 2018 KC Cup has come to a close, and the results are in! Here you'll find player standings and decks; many of whom are in the DuelLinksMeta Discord!
 keywords: tournament, kc cup, april 2018, top 100, decks
 permalink: /tournaments/kc-cup/april-2018/report/
-pinned: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
