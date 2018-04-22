@@ -131,7 +131,7 @@ This list is capable of using multiple tech slots depending on the situation at 
 * 1-2 x {Archfiend Empress}  
 * 2-3 x {Archfiend Cavalry}  
 * 0-2 x {Snipe Hunter}  
-* 0-2 x {Kuriboh}  
+* 0-2 x {Sphere Kuriboh}  
 
 **Needlebug Nest**   
 The rest of the space in the deck are tech slots.  
@@ -189,7 +189,7 @@ There are currently a number of solid tech cards for the builds that can fit the
 3. {Ante} (Sets up Griefing and leaves the opponent at 3k LP)  
 4. {Dark World Dealings} (Sets grave and thins deck)  
 5. {Cosmic Cyclone}  
-6. {Kuriboh} (Protection from OTK plays and ECon takes)  
+6. {Sphere Kuriboh} (Protection from OTK plays and ECon takes)  
 7. {Relinkuriboh} (In the Needlebug Nest build this sees the most value)  
 8. {Invader of Darkness} (To shut down quick play spells such as ECon)  
 9. {Advance Draw} (Normal summon Emperor, pop card, draw 2)  
@@ -252,7 +252,7 @@ Use Fiend Griefing to disrupt their Fishborg Planter and Citadel Whale from the 
 ---
 
 ### Cyber Angels 
-Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
+Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Sphere Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
 
 **Matchup Odds:**  
 45-55  

@@ -56,6 +56,8 @@ It should be noted that each of the 3 current main builds all focus on different
 #### Dark World Hybrid  
 This version does not have much in the way of tech options, but the core card ratios can be tweaked.  
 
+[deck](Archfiend Emperor, the First Lord of Horror;Call of the Archfiend;Dark World Dealings;Trance Archfiend;Snoww, Unlight of Dark World;Reign-Beaux, Overlord of Dark World;Ceruli, Guru of Dark World)
+
 * 3 x {Archfiend Emperor, the First Lord of Horror}  
 * 3 x {Call of the Archfiend}  
 * 2-3 x {Dark World Dealings}  
@@ -67,6 +69,8 @@ This version does not have much in the way of tech options, but the core card ra
 #### LP Boost a   
 This list is capable of using multiple tech slots depending on the situation at hand.  
 
+[deck](Archfiend Emperor, the First Lord of Horror;Call of the Archfiend;Archfiend's Roar;Fiend Griefing;Card of the Soul;Archfiend Empress;Snipe Hunter;Sphere Kuriboh)
+
 * 3 x {Archfiend Emperor, the First Lord of Horror}  
 * 3 x {Call of the Archfiend}  
 * 3 x {Archfiend's Roar}  
@@ -75,10 +79,12 @@ This list is capable of using multiple tech slots depending on the situation at 
 * 1-2 x {Archfiend Empress}  
 * 2-3 x {Archfiend Cavalry}  
 * 0-2 x {Snipe Hunter}  
-* 0-2 x {Kuriboh}  
+* 0-2 x {Sphere Kuriboh}  
 
 #### Needlebug Nest   
 The rest of the space in the deck are tech slots.  
+
+[deck](Archfiend Emperor, the First Lord of Horror;Call of the Archfiend;Archfiend's Roar;Needlebug Nest;Archfiend Empress;Archfiend Cavalry;Invader of Darkness;Lyla, Lightsworn Sorceress;Fiend Griefing)
 
 * 3 x {Archfiend Emperor, the First Lord of Horror}  
 * 3 x {Call of the Archfiend}  
@@ -95,7 +101,7 @@ The rest of the space in the deck are tech slots.
 
 ### Tech Cards
 
-[deck](Enemy Controller;Forbidden Chalice;Ante;Dark World Dealings;Cosmic Cyclone;Kuriboh;Relinkuriboh;Invader of Darkness;Advance Draw;Hey, Trunade!;Snipe Hunter;Escape from the Dark Dimension;Gravity Lash;Monster Gate;Skill Successor)
+[deck](Enemy Controller;Forbidden Chalice;Ante;Dark World Dealings;Cosmic Cyclone;Sphere Kuriboh;Relinkuriboh;Invader of Darkness;Advance Draw;Hey, Trunade!;Snipe Hunter;Escape from the Dark Dimension;Gravity Lash;Monster Gate;Skill Successor)
 
 ---
 
