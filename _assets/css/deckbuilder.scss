@@ -1,0 +1,20 @@
+.deckbuilder_deck{
+    min-height: 556px;
+    margin-bottom: 1rem;
+}
+.card-search{
+    min-height: 151px;
+    margin-top: 1rem;
+}
+.extra-deck{
+    margin-bottom: 1rem;
+    min-height: 151px;
+}
+
+.DBcards{
+    width: 82px;
+    height: 119px;
+    display: inline-block;
+    border: 1px solid rgba(255,255,255,.4);
+    cursor: pointer;
+}
