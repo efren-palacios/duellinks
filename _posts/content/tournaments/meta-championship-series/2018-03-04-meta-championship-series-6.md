@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Championship Series #6 Report"
 author: Yami Hammy; Creative; Jonesy9027
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 6
 image: /img/logos/mcs-6-thumbnail.jpg

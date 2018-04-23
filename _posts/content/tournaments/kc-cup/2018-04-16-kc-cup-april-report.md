@@ -4,6 +4,7 @@ date: 2018-04-17 01:00:00 +0100
 title: KC Cup April - Top 100 Report
 author: Jonesy9027; Yami Hammy;
 category: tournament
+sub-category: report
 tournament: KC Cup
 number: 7
 image: /img/content/tournaments/kc-cup/april/thumbnail.jpg

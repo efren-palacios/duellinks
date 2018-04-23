@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Championship Series #7 Report"
 author: Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 7
 image: /img/logos/mcs-7-thumbnail.jpg

@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Championship Series #2 Report"
 author: Dkayed
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 2
 image: https://i.imgur.com/AJBBqGQ.png

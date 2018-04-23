@@ -3,6 +3,7 @@ layout: blog
 title: "Tekumse's Practice Tourney #6 Report"
 author: Yami Hammy
 category: tournament
+sub-category: report
 tournament: "Tekumse's Practice Tourney"
 number: 6
 image: /img/logos/generic-tournament.jpg

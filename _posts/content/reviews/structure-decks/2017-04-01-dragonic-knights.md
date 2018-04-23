@@ -4,7 +4,7 @@ date: 2018-04-01
 title: "Review: Dragonic Knights"
 author: Yami Hammy
 category: review
-sub-category: structure deck
+sub-category: structure-deck
 image: /img/content/structure-deck-reviews/dragonic-knights/thumbnail.jpg
 comments: true
 description: Review by the Top Player Council of the Structure Deck Dragonic Knights!

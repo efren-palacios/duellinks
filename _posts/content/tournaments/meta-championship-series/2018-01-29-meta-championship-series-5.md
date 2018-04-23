@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Championship Series #5 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 5
 image: /img/logos/mcs5report.png

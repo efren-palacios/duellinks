@@ -9,7 +9,7 @@ module Jekyll
     end
     
     def url_friendly(url)
-      return url.gsub(/\W|_/, "-").gsub(/-+/, "-")
+      return url.gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
     end
 
     def getProfileUrlByName(name)

@@ -3,7 +3,8 @@ layout: blog
 title: "Duel Links Open #6"
 author: Jonesy9027
 category: tournament
-tournament: "DLO"
+sub-category: report
+tournament: Duel Links Open
 number: 6
 image: /img/content/tournaments/dlo/thumbnail.jpg
 date: 2018-04-17 19:00:00

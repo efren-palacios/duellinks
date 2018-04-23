@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Weekly #1 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 1
 image: /img/logos/meta-weekly.png

@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Championship Series #4 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 4
 image: /img/content/news/meta-championship-series-4-report/thumbnail.png

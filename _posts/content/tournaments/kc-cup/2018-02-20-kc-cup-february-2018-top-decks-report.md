@@ -4,6 +4,7 @@ date: 2018-02-20
 title: "KC Cup Top Decks Report"
 author: SpoonCats
 category: tournament
+sub-category: report
 tournament: KC Cup
 number: 3
 image: /img/content/events/kc-cup.jpg

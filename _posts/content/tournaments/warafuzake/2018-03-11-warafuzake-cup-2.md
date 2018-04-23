@@ -3,6 +3,7 @@ layout: blog
 title: "Warafuzake Cup # 2 Report"
 author: Jonesy9027
 category: tournament
+sub-category: report
 tournament: The Warafuzake Cup
 number: 2
 image: /img/logos/generic-tournament.jpg

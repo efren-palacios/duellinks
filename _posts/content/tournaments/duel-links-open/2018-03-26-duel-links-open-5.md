@@ -3,7 +3,8 @@ layout: blog
 title: "Duel Links Open #5"
 author: Yami Hammy
 category: tournament
-tournament: "DLO"
+sub-category: report
+tournament: Duel Links Open
 number: 5
 image: /img/content/tournaments/dlo/thumbnail.jpg
 date: 2018-03-25

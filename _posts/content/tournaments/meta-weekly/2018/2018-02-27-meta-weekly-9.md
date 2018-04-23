@@ -3,6 +3,7 @@ layout: blog
 title: "Meta Weekly #9 Report"
 author: SpoonCats
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 9
 image: /img/logos/meta-weekly.png
