@@ -11,7 +11,7 @@ comments: true
 description: Stage 2 of the April 2018 KC Cup has come to a close, and the results are in! Here you'll find player standings and decks; many of whom are in the DuelLinksMeta Discord!
 keywords: tournament, kc cup, april 2018, top 100, decks
 permalink: /tournaments/kc-cup/april-2018/report/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
