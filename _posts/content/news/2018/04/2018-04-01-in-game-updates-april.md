@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (16) - April 20
+title: In-Game Updates (17) - April 23
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-20 07:00:00 +0100
+date: 2018-04-23 20:40:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,9 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 23rd (Update 17)](#170)
+    - [Battle City Event](#171)
+    - [Yami Marik Lvl. 50](#172)
 - [April 20th (Update 16)](#160)
     - [Shortening of Visual Effects](#161)
     - [Update to Version 2.6.0](#162)
@@ -62,6 +65,29 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="170"></a>
+## April 23rd (Update 17)
+
+<br>
+
+<a name="171"></a>
+
+### Battle City Event
+
+Bringing brand new cards and a new Skill for Yami Yugi! 
+
+![](/img/content/news/2018/04/in-game-updates/23-battle-city.jpg)
+
+<a name="172"></a>
+
+### Yami Marik Lvl. 50
+
+Yami Marik Lvl. 50 is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the easiest ways to defeat him and obtain the almighty {The Winged Dragon of Ra}! 
+
+[slider](/img/content/news/2018/04/in-game-updates/23-marik-50.jpg)
 
 ---
 
