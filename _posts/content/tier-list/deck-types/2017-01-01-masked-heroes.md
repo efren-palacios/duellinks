@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: masked-heroes
 image: /img/content/tier-list/deck-types/masked-heroes.jpg
-comments: false
+comments: true
 description: A quick introduction to the Masked Heroes deck type. View sample decks, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: masked heroes, hero, mask change, anki, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/masked-heroes/

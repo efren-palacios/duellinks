@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: temple-burn
 image: /img/content/tier-list/deck-types/default.jpg
-comments: false
+comments: true
 description: A quick introduction to the Temple Burn deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: temple burn, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/temple-burn/

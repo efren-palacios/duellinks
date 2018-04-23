@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: gladiator-beasts
 image: /img/content/tier-list/deck-types/gladiator-beasts.jpg
-comments: false
+comments: true
 description: A quick introduction to the Gladiator Beasts deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: gladiator beasts, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/gladiator-beasts/

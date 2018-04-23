@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: dark-magician
 image: /img/content/tier-list/deck-types/default.jpg
-comments: false
+comments: true
 description: A quick introduction to the Dark Magician deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: dark magician, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/dark-magician/

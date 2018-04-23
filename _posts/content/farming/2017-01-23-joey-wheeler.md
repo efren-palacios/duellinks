@@ -105,4 +105,5 @@ hide: true
 
 ### Level 40 Decklist
 
-[deck](Time Wizard; Time Wizard; Flame Manipulator; Flame Manipulator; Masaki the Legendary Swordsman; Masaki the Legendary Swordsman; Battle Steer; Battle Steer; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Baby Dragon; Baby Dragon; Polymerization; Polymerization; Graceful Dice; Graceful Dice; Shield & Sword; Legendary Sword; Legendary Sword; Flame Swordsman; Thousand Dragon)
+[deck](Time Wizard; Time Wizard; Flame Manipulator; Flame Manipulator; Masaki the Legendary Swordsman; Masaki the Legendary Swordsman; Battle Steer; Battle Steer; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Baby Dragon; Baby Dragon; Polymerization; Polymerization; Graceful Dice; Graceful Dice; Shield & Sword; Legendary Sword; Legendary Sword)
+[deck](Flame Swordsman; Thousand Dragon)

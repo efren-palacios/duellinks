@@ -136,4 +136,5 @@ Last updated: 12/02/2017
  
 ### Level 40 Decklist
 
-[deck](Destiny HERO - Dogma; Destiny HERO - Dogma; Destiny HERO - Plasma; Destiny HERO - Plasma; Destiny HERO - Diamond Dude; Destiny HERO - Diamond Dude; Destiny HERO - Diamond Dude; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Fear Monger; Destiny Draw; Destiny Draw; Destiny Draw; Over Destiny; Polymerization; Polymerization; D - Counter; Destiny Signal; Destiny Signal; Destiny End Dragoon; Destiny End Dragoon)
+[deck](Destiny HERO - Dogma; Destiny HERO - Dogma; Destiny HERO - Plasma; Destiny HERO - Plasma; Destiny HERO - Diamond Dude; Destiny HERO - Diamond Dude; Destiny HERO - Diamond Dude; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Fear Monger; Destiny Draw; Destiny Draw; Destiny Draw; Over Destiny; Polymerization; Polymerization; D - Counter; Destiny Signal; Destiny Signal) 
+[deck](Destiny End Dragoon; Destiny End Dragoon)
