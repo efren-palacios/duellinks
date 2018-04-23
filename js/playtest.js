@@ -221,7 +221,7 @@ function handleSkill(phase) {
 
 function addCardToField(id, cardName, position) {
 	// Create the div and temporarily add it to the hand slot
-	$('#hand').append(`<div id="cardId${id}" class="testcard-slot-row"><div class="hand cardMain${id}"><img id="${id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(cardName)}&il" /></div>`)
+	$('#hand').append(`<div class="hand cardMain${id}"><img id="${id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(cardName)}&il" /></div>`)
 	
 	// Make the card draggable
 	let nameDom = ('.cardMain' + id);
@@ -244,7 +244,7 @@ function addCardToField(id, cardName, position) {
 			// Manually update the hand, as the offset isn't equal to dragging
 			let cardIdInHand = getCardPositionInArray(hand, Number(id));
 			hand[cardIdInHand].moved = true;
-			refreshHand();  
+			refreshHand(false);  
 		}
 	}); 
 }
@@ -448,15 +448,15 @@ function summonMonsterFromExtra(i) {
 function addCardToHandDiv(i, extra, grave = false) {
 	if(grave) {
 		if(extra == 0)
-		$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
+		$('#hand').append(`<div class="hand cardMain${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
 		else if(extra == 1)
-		$('#hand').append(`<div id="cardId${handCountId}" class="testcard-slot-row"><div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
+		$('#hand').append(`<div class="hand cardEx${handCountId}"><img id="${handCountId}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(graveyardlist[i].name)}&il" /></div>`)
 	}
 	else {
 		if(extra == 0)
-		$('#hand').append(`<div id="cardId${decklist[i].id}" class="testcard-slot-row"><div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&il" /></div>`)
+		$('#hand').append(`<div class="hand cardMain${decklist[i].id}"><img id="${decklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(decklist[i].name)}&il" /></div>`)
 		else if(extra == 1)
-		$('#hand').append(`<div id="cardId${extradecklist[i].id}" class="testcard-slot-row"><div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&il" /></div>`)
+		$('#hand').append(`<div class="hand cardEx${extradecklist[i].id}"><img id="${extradecklist[i].id}" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/${encodeURIComponent(extradecklist[i].name)}&il" /></div>`)
 	}
 	
 	let cardId 
@@ -499,7 +499,7 @@ function snappedEvent(cardDOM, extra, event) {
 	// Shift the hand, if necessary
 	let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
 	hand[cardIdInHand].moved = true;
-	refreshHand();
+	refreshHand(extra);
 	
 	// Get the center point of the dragged card
 	var cardCenter = getCenterPoint(cardDOM);
@@ -588,7 +588,7 @@ function snappedToDeck(cardDOM, extra, grave){
 		}
 	}
 	
-	removeCardFromHand(cardId);
+	removeCardFromHand(cardId, extra);
 	
 	if($('#deckmenu').dialog('instance')) {
 		if ($('#deckmenu').dialog('isOpen')) {
@@ -614,12 +614,13 @@ function getCenterPoint(div) {
 	return center;  
 }  
 
-function refreshHand(){
-	for(i in hand){
-		if(Boolean(hand[i].moved)){
-			let pos = $('#cardId' + hand[i].id).position();
-			$('#hand').append($('#cardId' + hand[i].id));
-			$('#cardId' + hand[i].id).css({
+function refreshHand(extra) {
+	for(i in hand) {
+		if(Boolean(hand[i].moved)) {
+			var classId = extra ? '.cardEx' + hand[i].id : '.cardMain' + hand[i].id; 
+			let pos = $(classId).position();
+			$('#hand').append($(classId));
+			$(classId).css({
 				top: pos.top,
 				left: pos.left,
 				position: 'absolute'
@@ -678,10 +679,11 @@ function addCardToGrave(c, extra) {
 	$('#graveyard').html("<img src='https://images.weserv.nl/?url=yugiohprices.com/api/card_image/" + encodeURIComponent(hand[cardIndexInHand].name).replace("'", "%27") + "&il' />");
 }
 
-function removeCardFromHand(c) {
+function removeCardFromHand(c, extra) {
 	let cardIndexInHand = getCardPositionInArray(hand, c);
 	
-	$('#hand').find('#cardId' + c).remove();
+	var id = extra ? '.cardEx' + c : '.cardMain' + c; 
+	$('#hand').find(id).remove();
 	
 	hand.splice(cardIndexInHand, 1)
 }
