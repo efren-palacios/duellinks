@@ -43,6 +43,8 @@ pinned: true
 
 ### Update
 
+![](/img/content/events/2018/04/yami-marik-returns/marik-lvl-50.png)
+
 Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or a miserable UR Jewel if you obtained it last event) and the new skill {Power of the Tributed}!
   
 #### Strategies
@@ -353,7 +355,7 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 
 <a name="50"></a>
 
-### Yami Marik Lvl: 50 Decklist
+### Yami Marik Lvl. 50 Decklist
 
 [deck:Incarnation: Sphere Mode](The Winged Dragon of Ra; Lava Golem; Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Mystic Tomato; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
 
