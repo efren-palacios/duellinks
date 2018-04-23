@@ -33,7 +33,7 @@ permalink: /events/april-2018/yami-marik-returns/
     - [Lvl. 40 (Marik) Labby Farm - created by Jadehex](#jadehex2)
     - [Lvl. 40 (Marik) Labby Farm - created by Hi_Im_Flabber](#flabber)
 - [Yami Marik Lvl. 40 Decklist](#40)
-<!-- - [Yami Marik Lvl. 50 Decklist](#50)-->
+- [Yami Marik Lvl. 50 Decklist](#50)
 - [Arkana Lvl. 40 Decklist](#40a)
 - **[Duel Awards](#awards)**
 
@@ -313,7 +313,7 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 [deck](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Lava Golem; Masked Beast Des Gardius; Masked Beast Des Gardius; Melchid the Four-Face Beast; Melchid the Four-Face Beast; Dark Jeroid; Dark Jeroid; Grand Tiki Elder; Grand Tiki Elder; Gil Garth; Gil Garth; Bowganian; Mask of the Accursed; Mask of the Accursed; The Mask of Remnants; Powerful Rebirth; Powerful Rebirth; Nightmare Wheel)  
 
 ---
-<!--
+
 <a name="50"></a>
 
 ### Yami Marik Lvl: 50 Decklist
@@ -321,7 +321,7 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 [deck:Incarnation: Sphere Mode](The Winged Dragon of Ra; Lava Golem; Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Mystic Tomato; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
 
 ---
--->
+
 <a name="40a"></a>
 
 ### Arkana Lvl. 40 Decklist
