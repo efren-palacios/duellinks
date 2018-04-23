@@ -244,7 +244,8 @@ function addCardToField(id, cardName, position) {
 			// Manually update the hand, as the offset isn't equal to dragging
 			let cardIdInHand = getCardPositionInArray(hand, Number(id));
 			hand[cardIdInHand].moved = true;
-			refreshHand(false);  
+			hand[cardIdInHand].extra = false;
+			refreshHand();  
 		}
 	}); 
 }
@@ -499,7 +500,8 @@ function snappedEvent(cardDOM, extra, event) {
 	// Shift the hand, if necessary
 	let cardIdInHand = getCardPositionInArray(hand, Number(cardDOM.children().first().attr('id')));
 	hand[cardIdInHand].moved = true;
-	refreshHand(extra);
+	hand[cardIdInHand].extra = extra;
+	refreshHand();
 	
 	// Get the center point of the dragged card
 	var cardCenter = getCenterPoint(cardDOM);
@@ -614,10 +616,10 @@ function getCenterPoint(div) {
 	return center;  
 }  
 
-function refreshHand(extra) {
+function refreshHand() {
 	for(i in hand) {
 		if(Boolean(hand[i].moved)) {
-			var classId = extra ? '.cardEx' + hand[i].id : '.cardMain' + hand[i].id; 
+			var classId = hand[i].extra ? '.cardEx' + hand[i].id : '.cardMain' + hand[i].id; 
 			let pos = $(classId).position();
 			$('#hand').append($(classId));
 			$(classId).css({
