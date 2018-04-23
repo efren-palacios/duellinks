@@ -31,7 +31,8 @@ Not too long ago they called us a meme Deck, but before you know it we started k
 
 ### Skills
 
-- {Restart}: the #1 skill when it comes to Sylvans. Your main goal is to open with at least a {Sylvan Komushroomo} (first), {World Carrotweight Champion} (second), or {Rose Lover} (third) all three are vital in an opening hand.
+- {Grit}: the new #1 skill when it comes to Sylvans! The activation requirement of this skill still remains a mystery, but it allows you to hang on with 1 LP which buys you a turn to recover and setup an OTK if you have {World Carrotweight Champion} or {Rose Lover} in the Graveyard. 
+- {Restart}: ~~the #1 skill when it comes to Sylvans.~~ Your main goal is to open with at least a {Sylvan Komushroomo} (first), {World Carrotweight Champion} (second), or {Rose Lover} (third) all three are vital in an opening hand.
 - {Heavy Starter}: it guarantees that you open with a {Sylvan Hermitree}, {Sylvan Guardioak}, or {Sylvan Lotuswain} under the one condition that you have at least one copy of all three in your Deck.
 - {Beatdown}: for those who trust that their opening hand will be good enough to win.
 

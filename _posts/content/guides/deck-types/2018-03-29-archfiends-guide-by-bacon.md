@@ -15,6 +15,9 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
 
 {% include heading.html title=page.title author=page.author %}
 
+#### Updated April 21, 2018 
+##### Deck Core(Needlebug Nest) and Matchup Guide Updated
+
 ### Table of Contents
 * [Introduction](#introduction)
 * [Current Builds](#current-builds)
@@ -37,6 +40,8 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
     * [Mill](#mill)
     * [Burn](#burn)
     * [Destiny Heroes](#destiny-heroes)
+    * [Masked Heroes](#masked-heroes)
+    * [Geargias](#geargias)
     * [Mirror Match](#mirror-match)
 * [Conclusion](#conclusion)
 * [Thanks](#thanks)
@@ -62,7 +67,7 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
 
 <br>
 
-* LP Boost a  
+* LP Boost α  
 {LP Boost a} Archfiends are the 2nd way to play this archetype. This deck focuses on sustained burst plays that control the opponent’s board while also retaining presence with Emperor and {Archfiend Empress}. LP Boost allows us to avoid most OTKs in the meta as well as giving us access to {Card of the Soul} to pull Emperor/Empress from the deck.  
 
     * Skill: {LP Boost a}  
@@ -88,7 +93,7 @@ Dark Worlds and Archfiends have combined to create a true horror from below. Thi
 
 <br>
 
-**LP Boost a Build by Mewf**
+**LP Boost α Build by Mewf**
 
 [deck:LP Boost a](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Snipe Hunter;Sphere Kuriboh;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Card of the Soul;Card of the Soul;Card of the Soul;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing)
 
@@ -115,7 +120,7 @@ This version does not have much in the way of tech options, but the core card ra
 * 2-3 x {Reign-Beaux, Overlord of Dark World}  
 * 2-3 x {Ceruli, Guru of Dark World}  
 
-**LP Boost a**   
+**LP Boost α**   
 This list is capable of using multiple tech slots depending on the situation at hand.  
 
 * 3 x {Archfiend Emperor, the First Lord of Horror}  
@@ -126,7 +131,7 @@ This list is capable of using multiple tech slots depending on the situation at 
 * 1-2 x {Archfiend Empress}  
 * 2-3 x {Archfiend Cavalry}  
 * 0-2 x {Snipe Hunter}  
-* 0-2 x {Kuriboh}  
+* 0-2 x {Sphere Kuriboh}  
 
 **Needlebug Nest**   
 The rest of the space in the deck are tech slots.  
@@ -137,6 +142,7 @@ The rest of the space in the deck are tech slots.
 * 3 x {Needlebug Nest}  
 * 2-3 x {Archfiend Empress}  
 * 3 x {Archfiend Cavalry}  
+* 0-2 x {Invader of Darkness}  
 * 0-2 x {Lyla, Lightsworn Sorceress}  
 * 0-2 x {Fiend Griefing}  
 
@@ -148,7 +154,7 @@ This section will cover the relevant monsters and traps the deck uses.
 
 ### Monster Core
 
-[deck](Archfiend Emperor, the First Lord of Horror;Archfiend Empress;Archfiend Cavalry)
+[deck](Archfiend Emperor, the First Lord of Horror;Archfiend Empress;Archfiend Cavalry;Invader of Darkness)
 
 
 {Archfiend Emperor, the First Lord of Horror}    
@@ -183,7 +189,7 @@ There are currently a number of solid tech cards for the builds that can fit the
 3. {Ante} (Sets up Griefing and leaves the opponent at 3k LP)  
 4. {Dark World Dealings} (Sets grave and thins deck)  
 5. {Cosmic Cyclone}  
-6. {Kuriboh} (Protection from OTK plays and ECon takes)  
+6. {Sphere Kuriboh} (Protection from OTK plays and ECon takes)  
 7. {Relinkuriboh} (In the Needlebug Nest build this sees the most value)  
 8. {Invader of Darkness} (To shut down quick play spells such as ECon)  
 9. {Advance Draw} (Normal summon Emperor, pop card, draw 2)  
@@ -246,7 +252,7 @@ Use Fiend Griefing to disrupt their Fishborg Planter and Citadel Whale from the 
 ---
 
 ### Cyber Angels 
-Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost a shines the most in this match. Gravity Lash, Skill Successor, Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
+Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Sphere Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
 
 **Matchup Odds:**  
 45-55  
@@ -290,6 +296,23 @@ Unfortunately for us, this deck typically runs 3 Enemy Controllers as well as 3 
 
 **Matchup Odds:**  
 50-50 In their favor  
+
+---
+
+### Masked Heroes
+Masked Heroes are quick and explosive and will overwhelm Fiends very fast if able. The best way to win this matchup is too quickly Roar Empress into Invader or call him out of the grave. Once on the field, Invader buys time and shuts down the entire mask deck on his own aside from {Vision HERO - Trinity. Once Invader is on the field, focus on getting an Emperor out to begin the push for game.  
+
+**Matchup Odds:**  
+60-40 In Fiends favor if we are running 2 Invaders.   
+35-65 Their favor without Invader.  
+
+---
+
+### Geargias
+This match is a complete coin toss and depends entirely on who goes first and who opens more broken. While it is possible for Geargia anchor to actually help us with its destruction effect, it can also make Empress miss timing. Because of attacker, we generally will only get 1 use out of call of arch. It's important in this matchup to use emperor's effect almost exclusively on monster removal (their face up monsters). Additionally, archfiend giant sees value here that he doesn't in other matchups as his effect to pay 500lp and remain on the field can harm geargias after they used anchor's effect. Another solid side deck card in this match is lava golem. 2 copies should be enough to shut down geargia after a ties of the brethren play. Ensure that you have used needlebug nest in geargias draw phase so you have roar or call targets for when attacker uses it's effect.  
+
+**Matchup Odds:**  
+50-50    
 
 ---
 ### Mirror Match

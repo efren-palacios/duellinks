@@ -31,23 +31,6 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
   
 - I did some testing games with {Grit} however my sample size isn't large enough to clearly say there is a correlation. I exclusively tested LP and not turns so I cant say much about that. However, the results still show that the lower your LP the less likely {Grit} is to activate. {Grit} activation vs. {Grit} non-activation was 1-9 at 1000 or less LP. The one time it activated I was at 300 LP which is very low so it seems if it can activate while I'm at 300 LP it might as well activate when I'm at 1 LP although it didn't in 21 {Grit} activations for me, it seems to be very unlikely. At 1000-2000 LP I was at 9-20, this shows that the chance for {Grit} to activate significantly decreases in this area which I think is insane. At 2000-3000 LP it seemed to be 50-50 being at a score of 11-11. This is still interesting to see how much it actually decreases from the what, 80%(?) it has at 4000 LP. I tested against Legendary Duelists so I only got OTK'd once and it did trigger then.
 
-<!--
-**TsunTsun:**  
-
-- Regarding the probability of it activating. I tested 30 games going both first and second.  
-
-- When going First:  
-* The number of times the effect was activated on turn 1 and 2 was 26 times.  
-* The number of times the effect was activated at the 3rd and 4th turns was 19 times.  
-
-- When going Second:  
-* The number of times the effect was activated on the second and third turn was 23 times.  
-* The number of times the effect was activated on turn 4 and turn 5 was 13 times.  
-
-This  data was verified in December 2017, so it may be different now.  
-*Credit to: TsunTsun*  
--->
-
 ---
 
 ### Top 100 Deck Breakdown
@@ -69,7 +52,7 @@ This graph shows which skills were popular with each deck created from all the d
 
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization)
-[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
 [deck:Destiny Calling](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Decider;Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial; Cosmic Cyclone; Cosmic Cyclone;Mask Change; Mask Change; Mask Change;Forbidden Chalice;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Enemy Controller)
 
@@ -88,7 +71,7 @@ Check out his [YouTube video](https://youtu.be/R9RQRlFGlas) to find out more inf
 ##### Regional Rank (Korea/Taiwan/Oceania): 3
 
 [deck:Duel, standby!](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Into the Void; Into the Void; Into the Void; Mask Change; Mask Change; Mask Change; Back-Up Rider; Back-Up Rider; Back-Up Rider; Hey, Trunade!; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice)
-[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
 [deck:Balance](Geargiattacker;Geargiattacker;Geargianchor;Geargianchor;Geargianchor;Geargiarsenal;Geargiarsenal;Ties of the Brethren; Ties of the Brethren; Ties of the Brethren;Enemy Controller;Enemy Controller;Enemy Controller;Paleozoic Canadia; Mirror Wall; Mirror Wall; Pulse Mines;Pulse Mines;Pulse Mines; Different Dimension Ground)
 
@@ -109,7 +92,7 @@ These are the 4 decks I've played for different DP levels:
 ##### Regional Rank (Asia): 1
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization)
-[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Sylvan Lotuswain; Dark World Lightning; Dark World Lightning; Enemy Controller; Enemy Controller)
 
@@ -123,12 +106,28 @@ I used {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) mostly un
 
 ---
 
+#### **Copa＠和心**
+##### Global Rank: 5
+##### Regional Rank (Japan): 1
+
+[deck:Grit](Snipe Hunter; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Raging Mad Plants; Enemy Controller; Enemy Controller)
+
+[deck:Balance](Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Paleozoic Canadia; Paleozoic Canadia; Powerful Rebirth; Powerful Rebirth; Pulse Mines; Pulse Mines; Pulse Mines; Ghostrick Scare; Curse of Anubis)
+
+[deck:Grit](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Gishki Chain; Gishki Chain; Senju of the Thousand Hands; Cyber Petit Angel; Machine Angel Absolute Ritual; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing)
+
+[deck:Grit](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Polymerization; Polymerization)
+[deck](Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous; Destiny HERO - Dangerous)
+
+[Twitter](https://twitter.com/Copa_yugio/status/985827057555787776/photo/1)
+
+---
+
 #### **Andy Tsang**
 ##### Global Rank: 6
 ##### Regional Rank (North America): 1
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Enemy Controller;Polymerization)
-
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
 No other decks used. Shoutouts to [Jason's](/top-player-council/jason/) homework for carrying me to first place NA!
