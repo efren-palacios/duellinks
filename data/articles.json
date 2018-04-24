@@ -3,7 +3,7 @@
 [
     {% for article in site.posts %}
         {% if article.category != 'page' %}
-            {% if article.pinned == null or article.pinned == false %}
+            {% if article.featured == null or article.featured == false %}
                 {% if article.hide == null or article.hide == false %}
     {
         "url": "{{ article.url }}",

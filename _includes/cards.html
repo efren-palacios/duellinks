@@ -5,7 +5,7 @@
 <div class="row card-collection" id="articleCardCollection">
   
   {% assign articles = site.posts | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
-  {% assign featured = articles   | where_exp: "item", "item.featured" | slice: 0, 2 %}
+  {% assign featured = articles   | where_exp: "item", "item.featured == true" | slice: 0, 2 %}
   {% assign default  = articles   | arr_remove: featured %}
   {% assign featSize = featured   | size %}
   {% assign loadSize = 8          | minus: featSize %}
