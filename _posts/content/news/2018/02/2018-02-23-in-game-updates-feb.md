@@ -5,7 +5,6 @@ author: Yami Hammy; Jonesy9027
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
 date: 2018-02-23
-pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too.  
 keywords: news, Syrus, Syrus Trusedale, Jesse, Jesse Anderson, legendary duelists, D.D. Tower, Duel-A-Thon, upcoming updates, KC Cup, nerf, Konami 

@@ -12,7 +12,6 @@ comments: true
 description: This is the report for the Second Duel Links Mini Open Tournament hosted by Magpie, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, dlmo, dlo, duel links open, open,
 permalink: /tournaments/duel-links-mini-open/2/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

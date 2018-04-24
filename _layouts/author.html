@@ -82,58 +82,17 @@
               {% endif %}
             </div>
           </div>
-          {% assign author = site.posts | where: "author", page.author %}
-          {% assign council = site.posts | where: "author", "N/A" %} <!-- Assigning an empty array for count size --> 
-          {% if page.role == "top-player-council" %}
-            {% assign council = site.posts | where: "author", "Top Player Council" %}
-          {% endif %}  
-          {% if author.size > 0 or council.size > 0 %}
-            <h1 class="text-center" style="margin: 2rem 0">Guides / Articles</h1>
-            <div class="row justify-content-center text-center">            
-              {% for card in author %}
-                {% if article.hide == null or article.hide == false %}
-                  <div class="col-sm-6 col-12 card-deck">
-                    <div class="card">
-                      <div class="zoom">
-                        <a href='{{card.url}}'> 
-                          <img src="{{card.image}}" data-src="{{card.image}}" class="card-img-top lazyload" />
-                        </a>
-                      </div>
-                      <div class="card-block text-white">
-                        <a href='{{card.url}}'>
-                          <h4 class="card-title">{{card.title}}</h4>
-                        </a>
-                        <div class="text-white">
-                          <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                {% endif %}
-              {% endfor %}
-            </div>
-            <div class="row justify-content-center text-center">            
-              {% for card in council %}
-                {% if article.hide == null or article.hide == false %}
-                  <div class="col-sm-6 col-12 card-deck">
-                    <div class="card">
-                      <div class="zoom">
-                        <a href='{{card.url}}'> 
-                          <img src="{{card.image}}" data-src="{{card.image}}" class="card-img-top lazyload" />
-                        </a>
-                      </div>
-                      <div class="card-block text-white">
-                        <a href='{{card.url}}'>
-                          <h4 class="card-title">{{card.title}}</h4>
-                        </a>
-                        <div class="text-white">
-                          <small class="text-muted">Last Updated: {{ card.date | date: '%B %d, %Y' }}</small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                {% endif %}
-              {% endfor %}
+
+          {% assign articles = site.posts | where: "author", page.author | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+
+          {% if articles != null and articles.size != 0 %}
+            <div class="section center">
+                <h2>Guides / Articles</h2>
+                <div class="row card-collection">
+                    {% for article in articles %}
+                        {% include articles/article.html article=article %}
+                    {% endfor %}
+                </div>
             </div>
           {% endif %}
         </div>

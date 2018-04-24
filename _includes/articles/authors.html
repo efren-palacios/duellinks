@@ -10,7 +10,7 @@
         {% endif %}
     {% endunless %}
 
-    {% assign author = rawAuthor | lstrip | rstrip %}
+    {% assign author = rawAuthor | strip %}
 
     {% assign roles = site.data.roles %}
     {% assign profile = site.data.profiles | where: "name", author | first %}

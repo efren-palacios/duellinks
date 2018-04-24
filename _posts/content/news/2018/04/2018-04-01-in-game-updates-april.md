@@ -5,7 +5,6 @@ author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
 date: 2018-04-20 07:00:00 +0100
-pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
 keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky, marik, yami marik, ra, visuals, bonus, card trader, duel room   

@@ -1,18 +1,39 @@
 
-<div class="card-container col-sm-6 col-12">
-  <div class="article-card ">
-    <a href="{{article.url}}">
-      <img class="cover" src="{{article.image}}">
-      {% include articles/ribbon.html cat=article.category sub-cat=article.sub-category %}
-      <div class="information">
-        <p class="title">{{article.title}}</p>
-        <p class="sub-text">
-          <span>Last updated: </span>
-          <span>1 week and 3 days ago </span>
-          <span>by </span>
-          {% include articles/authors.html authors=article.author %}
-        </p>
-      </div>
-    </a>
+<!-- === OPTIONS === -->
+<!-- 1: Show Featured -->
+<!-- 2: Hide Article -->
+<!-- 3: Don't show ribbon -->
+
+{% if include.article %}
+
+  {% assign article = include.article %}
+  {% assign options = include.options | remove: " " | split: ',' %}
+
+  {% if options contains '2' %}
+    {% assign display = "hidden" %}
+  {% endif %}
+
+  <div class="card-container col-sm-6 col-12 {{display}}">
+    <div class="article-card ">
+      <a href="{{article.url}}">
+        <img class="cover" src="{{article.image}}">
+        {% if options contains '1' %}
+          <img src="/img/assets/featured.png" class="featured-icon">
+        {% endif %}
+        {% unless options contains '3' %}
+          {% include articles/ribbon.html cat=article.category sub-cat=article.sub-category %}
+        {% endunless %}
+        <div class="information">
+          <p class="title">{{article.title}}</p>
+          <p class="sub-text">
+            <span>Last updated: </span>
+            <span>1 week and 3 days ago </span>
+            <span>by </span>
+            {% include articles/authors.html authors=article.author %}
+          </p>
+        </div>
+      </a>
+    </div>
   </div>
-</div>
+
+{% endif %}

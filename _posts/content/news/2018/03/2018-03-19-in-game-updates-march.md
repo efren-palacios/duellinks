@@ -5,7 +5,6 @@ author: Yami Hammy
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
 date: 2018-03-31
-pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
 keywords: news, tea, superb, legendary duelists, upcoming updates, kc cup, konami, card trader, double, sale, campaign, elegant mai, marik, yami marik, arkana, duel-a-thon, level cap, crowler, dr vellian crowler,    

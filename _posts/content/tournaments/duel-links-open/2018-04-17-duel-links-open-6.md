@@ -12,7 +12,6 @@ comments: true
 description: This is the report for the Sixth Duel Links Open Tournament hosted by Magpie, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, dlo, duel links open, open,
 permalink: /tournaments/duel-links-open/6/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

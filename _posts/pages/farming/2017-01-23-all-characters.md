@@ -2,7 +2,7 @@
 layout: blog
 title: How to Farm All Characters
 author: pll
-image: /img/pages/tier-list/thumbnadsdil.png
+image: /img/pages/farming/all-characters/thumbnail.png
 category: page
 comments: false
 date: 2018-01-23

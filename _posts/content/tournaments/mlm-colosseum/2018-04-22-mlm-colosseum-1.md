@@ -12,7 +12,6 @@ comments: true
 description: This is the report for the first ever MLM Colosseum Tournament with a prize pool of $250, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, mlm, mlm colosseum, colosseum
 permalink: /tournaments/mlm-colosseum/1/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

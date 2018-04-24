@@ -5,7 +5,6 @@ author: KingParrott
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
 date: 2017-12-08
-pinned: false
 comments: false
 description: A break down of the new information Konami released about KC Cup and Upcoming Updates.
 keywords: news, upcoming updates, KC Cup, nerf, konami

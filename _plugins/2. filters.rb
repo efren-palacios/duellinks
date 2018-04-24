@@ -17,6 +17,9 @@ module Jekyll
     def sort_descending(array)
       array.sort.reverse
     end
+    def arr_remove(articles, to_remove)
+      return articles - to_remove
+    end
     def filter_card_locations(locations)
       cards = []
       locations.each do |locationName, locationData|

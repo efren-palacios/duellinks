@@ -12,7 +12,6 @@ comments: true
 description: This is the report for the sixth Practice Tourney hosted by Tekumse, check out the top 4 players and their decks here!
 keywords: duel links, competitive, tournament, community, 
 permalink: /tournaments/tekumse-practice-tourney/6/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

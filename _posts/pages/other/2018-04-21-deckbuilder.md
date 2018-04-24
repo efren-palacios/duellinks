@@ -2,7 +2,7 @@
 layout: blog
 title: Deckbuilder preAlpha
 author: Maggi64
-category: top-decks
+category: page
 comments: false
 permalink: /deckbuilder/
 sitemap: false
