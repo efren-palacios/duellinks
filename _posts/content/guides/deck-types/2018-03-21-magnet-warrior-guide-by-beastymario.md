@@ -34,6 +34,8 @@ permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
     * [Traps](#traps)
 * [Side Deck](#side-deck)
 * [Matchup Guide](#matchup-guide)
+    * [Geargias](#geargias)
+    * [Masked Heroes](#masked-heroes)
     * [Red-Eyes Zombies](#red-eyes-zombies)
     * [Gladiator Beasts](#gladiator-beasts)
     * [Aliens](#aliens)
@@ -82,24 +84,24 @@ Restart is probably the best skill to use as it gives you a second opportunity t
 ---
 
 #### {Straight to the Grave}  
-Decklist by MiguelJoker  
+Decklist by MiguelJoker (Slightly Changed)  
 Notable placing:  
 -   1st Place MCS Brazil  
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Snipe Hunter; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Beta The Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Curse of Anubis)  
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Snipe Hunter; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Beta The Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Curse of Anubis)  
 
 Straight to the Grave (STTG) starts the duel with the Field Spell {Wasteland} active which boosts your Rock Type monster’s attack and defence by 200 points. With this, your monsters break the 1800 attack threshold that puts you above many popular monsters like {Gladiator Beast Laquari} and {Sergeant Electro}. Bear in mind that your Field Spell will also boost the attack of Dinosaur and Zombie type monsters, so with that said, you’re helping out REZ and Dinos even more. But the main benefit of this skill is that the Field Spell is fodder for your {Storm} plays. With the activation of Storm on two backrow cards and your Field Spell, you’re able to fully clear your opponent's backrow.  
 
 ---
 
 #### {Straight to the Grave} (30 Cards)  
-Decklist by Kaki  
+Decklist by Kaki (Slightly changed)  
 Notable placings:  
 -   1st Place [Meta Weekly 6](/tournaments/meta-weekly/6/report/)    
 -   2nd Place [Meta Weekly 7](/tournaments/meta-weekly/7/report/)    
 -   4th Place Duel Links Pro Weekly  
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta The Electromagnet Warrior; Gamma The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth)  
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta The Electromagnet Warrior; Gamma The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth)  
 
 The release of {That Grass Looks Greener} (Grass) has allowed a new variation of Magnet to flourish - 30 card Magnet mill decks. This style of deck can be played with a variety of skills like: {Duel, standby!}, Restart, {Balance}, or Straight to the Grave.  
 
@@ -184,6 +186,9 @@ Cards That Can Replace/Substitute Without Hurting Functionality
 
 ### Monsters
 
+* 1 x {Lava Golem}:  
+An underrated card in this current meta, Lava Golem can clear your opponent's monsters and put them in a timer as they take 1000 life point burn damage per turn. The good thing about Lava Golem in our deck is the we can easily swarm the field in special summons so if you’re able to special summon Lava Golem in attack mode, E-Con take and attack directly, your opponent will die the following turn to the burn damage.  
+
 * 1 x {Snipe Hunter}:  
 An interesting tech that can possibly destroy your opponents cards by sending unwanted Beta’s to the graveyard. Discarding a Delta using Snipe Hunters effect can also trigger its effect to summon Valkyrion, so keep that in mind.
 
@@ -199,6 +204,9 @@ A nice tech in the 30 card grass deck as it can flip one of your opponent's mons
 **Note** Only viable in 30 card Grass deck.  
 
 ### Spells
+
+* 1 x {Parallel Twister}:  
+A great card in this current meta as we can use it to get rid of unwanted face-up Powerful Rebirths in exchange that you’re able to destroy any card you want on the field.  
 
 * 1-3 x {Super Rush Headlong}:  
 Currently a great card in this meta. SRH works well offensively and defensively. With the recent popularity of SSA and Hazy, their have the  ability to not be targeted by card effects, SRH changes that and can be used to kill off Hazy and Whale.  
@@ -252,6 +260,30 @@ Although side deck cards can vary depending on the current meta, it is always go
 ### Matchup Guide  
 
 This covers the matchups for the main decktypes you will face. I will go over a short description of each decktype matchup, the win condition and the estimated win rate. This will be updated as new decktypes emerge in the meta.
+
+---
+
+### Geargias  
+
+One of the strongest decks in this meta, this “control” deck quickly swarms the field and has the capability to disrupt an opponent's entire field in one turn. Geargias typically run their decks with the skill “balance”, which with their usual build (8 monsters, 6 spell and 6 trap cards) it allows them to typically open 1 monster, 1/2 spell and 1/2 trap cards. They have one main goal and that is to open a monster with {Ties of the Brethren} because in doing so, their chances of winning a game become very high.  Since Geargias monsters need other face up Geargia monsters for their effects to apply, Ties of the Brethren allows them to special summon 2 other Geargia monsters from their deck at the cost of 2000 life points. They have 3 main monsters that you should be aware of, they are: {Geargianchor} (destroys monsters on the field on flip), {Geargiattacker} (destroys any spell/trap on flip) and {Geargiarsenal} (gains 200 attack/ face up Geargia and can be tributed to special summon a Geargia from the deck in defense). If their monster destruction effects weren’t enough, they have one trap card in {Pulse Mines} that makes this deck so efficient and great. Pulse Mines switches the opponent's monsters into defense position as well as any other monsters summoned or special summoned for the rest of that turn. This provides protection to their monsters so that they can be flipped the following turn to disrupt the field.  
+
+- WIN CONDITION  
+
+Magnets struggle against control decks so versus Geargias you want to try and be aggressive early so that they waste their resources as fast as possible. Doing so will allow our boss monsters to come in later and clean up without the worry of much backrow. Opening with a monster negation effect card like Divine Wrath or Ultimate Providence can really help so that you can protect your cards from being destroyed. Geargianchor is the one you want to worry about because that’s the monster that destroys monsters up to the number of face up Geargia monsters they control. So be sure to save your Divine Wrath or Ultimate Providence for Geargianchor since our backrow cards in Enemy Controller and Powerful Rebirth are chainable so them being targeted by Geargiattacker isn’t too much of an impact as opposed to one of our boss monsters being destroyed. If you find yourself in a situation where you control only one monster and a set Enemy Controller and your opponent happens to flip Geargianchor face up and activate its effect, you could E-Con take one of their monsters and force them to destroy their own monster. Also, be cautious after a Pulse Mines activation because even a special summoned monster gets switched into defense for the rest of that turn. So yes, a special summoned Valkyrion in the battle phase will still get switch to defense the turn Pulse was activated. A key card that can help in this matchup that many have been main decking is Lava Golem. Lava Golem tributes off two of their Geargia monsters, rendering the effects useless because they’d only have one Geargia left on the field. With Lava Golem up, you’d only have to survive two turns after a Brethren activation before they burn their life points to 0.    
+
+* Win Rate: **30%**  
+
+---
+
+### Masked Heroes  
+
+A deck that can quickly OTK any deck, Masked Heroes have taken over the meta as one of the most popular and strongest decks. With the recent release of {Masked HERO Anki} and {Mask Change}, Destiny Hero monsters have become unbelievably strong. Mask Change is a quick play spell the allows a player to transform their dark attribute Destiny Hero monster into a Masked Hero Anki, who in turn can attack an opponent directly for 1400 damage or can also add another Mask Change to their hand if Anki destroys a monster.  The best Masked Hero deck uses dark attribute monsters that can quickly draw through their deck using the effect of {Destiny HERO - Celestial} and can stall out turns vs decks that use big monsters by just having a {Destiny HERO - Decider} on the field (Decider can’t be attacked by monsters with 6 or more stars) So ideally, the best way to bit this deck is by surviving the OTK and pushing back hard the following turn.  
+
+- WIN CONDITION  
+
+Magnet Warriors have a pretty good matchup versus Masked Heroes because we can quickly recover and hit back hard. The way to beat this deck is to simply survive the OTK and follow up with a big play. So setting your Enemy Controllers is a must since you want to stop the attack from an Anki. Be careful when trying to E-Con take one of their monsters since a Mask Change can simply be chained to the monster, preventing you from taking it. Powerful Rebirth is another card that helps out in this matchup since having a monster on the board allows Anki to only do 1400 damage when attacking directly. Keep in mind the Anki can only search for a Mask Change once per turn when it destroys a monster. Another thing to take note in is that Masked Hero decks standardly run {Forbidden Chalice} in their deck because it allows them to attack directly with Anki and using Chalice in the damage step to attack for 3200 damage. But the thing is that they usually hold onto those in hand because they usually go for the OTK. With little to no backrow set, a Valkyrion or Gaia can easily clean up their monsters. If you so happen to have a Divine Wrath or Ultimate Providence set, try to save it for the effect of Anki when it destroys a monster and tries to add a Mask Change from the deck. A key card that can help in this matchup significantly is Wall of Disruption.  
+
+* Win Rate: **50%**  
 
 ---
 
