@@ -221,7 +221,7 @@ The key to defeating Aliens is to focus on monster removal. Less Aliens play {Br
 ---
 
 ### Sylvans  
-The real reason we are here. Use Emperor or Snipe Hunter to remove any of their set monsters to deny them their effect. The key here is to play around/through {Ultimate Providence} or {Divine Wrath}. Be sure to watch for ECon take plays as well.  
+The real reason we are here. Use Emperor or Snipe Hunter to remove any of their set monsters to deny them their effect. The key here is to play around/through {Ultimate Providence} or {Divine Wrath}. Be sure to watch for ECon take plays as well. Consider side decking {Fragrance Storm} to further improve odds versus Sylvans. The destruction effect is nice, but the additional draw advantage is highly valuable since Sylvans will undoubtedly side deck hard against Archfiends.  
 
 **Match Up Odds:**  
 80-20 Our favor  
