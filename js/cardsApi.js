@@ -129,7 +129,7 @@ function CardsAPI() {
                     skill.name = response[i].name;
                     skill.description = response[i].desc;
                     skill.exclusive = response[i].exclusive;
-                    skill.character = response[i].characters[0].name;                       
+                    skill.characters = response[i].characters;                       
 
                     break;
                 }
@@ -140,7 +140,7 @@ function CardsAPI() {
                 callback(null);
             }
             else {
-                skill.imageURL = getWebsiteLink() + "/img/characters/portrait-" + (skill.exclusive == true ? skill.character.toLowerCase().replace(" ", "-"): 'vagabond') + ".png";
+                skill.imageURL = getWebsiteLink() + "/img/characters/portrait-" + (skill.exclusive == true ? skill.characters[0].name.toLowerCase().replace(" ", "-"): 'vagabond') + ".png";
                 callback(skill);
             }
         });    

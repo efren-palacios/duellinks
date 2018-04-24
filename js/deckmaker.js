@@ -85,8 +85,21 @@ function displaySkillInformation( skill ) {
 	if(skill) {
 		$('#skillTitle').html(skill.name);
 		$('#skillDescription').html(skill.description);
-		var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.character : 'Skill can be used by different characters.');
+		var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.characters[0].name : 'Skill can be used by different characters.');
 		$('#skillExclusive').html(exclusiveString); 
+
+		var first_column = true;
+		$('#skillObtain').find('#first_column').empty();
+		$('#skillObtain').find('#second_column').empty();
+		$(skill.characters).each(function(index, character) {
+			if(first_column) {
+				$('#skillObtain').find('#first_column').append('<p>' + character.name + ' by ' + character.how + ' Reward' + '</p>');
+			}
+			else {
+				$('#skillObtain').find('#second_column').append('<p>' + character.name + ' by ' + character.how + ' Reward' + '</p>');
+			}
+			first_column = !first_column;				
+		});
 		
 		$('#characterImage').one("load", function() {
 			resizeSkillInformation();
@@ -332,11 +345,24 @@ function displayTextForSkillOnDesktops( api ) {
 			clone.find('#skillName').html(skill.name);
 			clone.find('#skillDescription').html(skill.description);
 	
-			var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.character : 'Skill can be used by different characters.');
+			var exclusiveString = (skill.exclusive == true ? 'Skill exclusive to ' + skill.characters[0].name : 'Skill can be used by different characters.');
 			clone.find('#skillExclusive').html(exclusiveString);
 	
 			clone.find('#previewSkillImage').attr('src', skill.imageURL);
+
+			var first_column = true;
+			$(skill.characters).each(function(index, character) {
+				if(first_column) {
+					clone.find('#skillObtain').find('#first_column').append('<p>' + character.name + ' by ' + character.how + ' Reward' + '</p>');
+				}
+				else {
+					clone.find('#skillObtain').find('#second_column').append('<p>' + character.name + ' by ' + character.how + ' Reward' + '</p>');
+				}
+				first_column = !first_column;				
+ 			});
 	
+			$('#qtip-' + api.get('id')).css('min-width', '550px'); 
+
 			api.set('content.text', clone.show()[0]);
 		}
 	}

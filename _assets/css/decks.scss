@@ -258,7 +258,10 @@
   flex-direction: column;
   justify-content: center;
   font-size: 12px;
-  padding: 1rem 0 0 0;
+  padding: 0 0 0 0;
+  p {
+    margin-bottom: 0.5rem;
+  }
 }
 
 .qtip-content{
@@ -287,7 +290,7 @@
 .previewSkill img
 {
   margin: 1rem 1rem 1rem .5rem;
-  width: 90px;
+  width: 110px;
 }
 
 .qtip-dark
@@ -400,6 +403,7 @@ as the grid from Bootstrap is needed for skill popups---*/
 
 #desktopPopupForSkills {
   display: flex;
+  min-width: 524px; 
 }
 
 #cardObtain {
@@ -408,12 +412,43 @@ as the grid from Bootstrap is needed for skill popups---*/
   }
 }
 
+#skillObtain {
+  display: flex;
+
+  p {
+    margin-bottom: 2px;
+  }
+
+  #first_column {
+    margin-right: 10px;
+  }
+}
+
+.mobileSkillSpacing {
+  max-width: 15px;  
+}
+
 // Tablet
 @media only screen and (max-width: 767px)
 {
   .mobile
   {
     display: none;
+  }
+}
+
+@media only screen and (max-width: 576px)
+{
+  #first_column {
+    flex: 0 0 100%;
+  }
+
+  #second_column {
+    flex: 0 0 100%;
+  }
+
+  #skillObtain {
+    flex-direction: column;
   }
 }
 
