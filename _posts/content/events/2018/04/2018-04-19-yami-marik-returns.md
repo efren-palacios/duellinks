@@ -45,7 +45,7 @@ pinned: true
 
 ![](/img/content/events/2018/04/yami-marik-returns/marik-lvl-50.png)
 
-Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or a miserable UR Jewel if you obtained it last event) and the new skill {Power of the Tributed}!
+Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or if you already obtained it last event, you get {Mega Ultra Chicken}) and the new skill {Power of the Tributed}!
   
 #### Strategies
 
@@ -59,10 +59,12 @@ On Yami Marik's turn he'll tribute {The Winged Dragon of Ra - Sphere Mode} on hi
     - {Parallel Twister}
     - {Order to Charge}
     - {Michizure}
-- Summon {Cyber Angel Dakini} to send Ra or Sphere Mode to the Graveyard 
+- Activate {Murmur of the Forest} targeting Ra, it will be changed to face-down Defense Position and will have 0 ATK/DEF! 
+- Summon {Cyber Angel Dakini} and activate her effect to send Ra or Sphere Mode to the Graveyard 
 - Activate {Enemy Controller} on your 2nd/3rd turn to tribute your Monster and take control of Ra, then activate its effect to destroy Yami Marik's other Monster and attack him directly for game
 - Activate {Soul Exchange} to tribute Ra for a Level 5/6 Monster - works well with a Hazy Flame Deck
 - You can banish Ra with {Black Dragon Ninja} 
+
 - Use {Massivemorph} on Ra to stall by preventing it attacking you directly then attack Ra with {Amazoness Swords Woman} to deal 6500 LP damage to Yami Marik whilst also fulfilling the last mission below!
 
 **New event missions have also been added - get up to 125 Gems!**

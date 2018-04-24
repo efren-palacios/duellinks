@@ -85,7 +85,7 @@ Bringing brand new cards and a new Skill for Yami Yugi!
 
 ### Yami Marik Lvl. 50
 
-Yami Marik Lvl. 50 is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the easiest ways to defeat him and obtain the almighty {The Winged Dragon of Ra}! 
+Yami Marik Lvl. 50 is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the easiest ways to defeat him and obtain the almighty {The Winged Dragon of Ra} or if you already obtained it last event, you get {Mega Ultra Chicken}! 
 
 [slider](/img/content/news/2018/04/in-game-updates/23-marik-50.jpg)
 
