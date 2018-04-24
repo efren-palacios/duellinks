@@ -3,7 +3,7 @@
   <div class="article-card ">
     <a href="{{article.url}}">
       <img class="cover" src="{{article.image}}">
-      <span class="ribbon">Tournament Announcement</span>
+      {% include articles/ribbon.html cat=article.category sub-cat=article.sub-category %}
       <div class="information">
         <p class="title">{{article.title}}</p>
         <p class="sub-text">

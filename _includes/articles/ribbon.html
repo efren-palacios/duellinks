@@ -1,0 +1,14 @@
+{% assign category = site.data.categories | where: "id", include.cat | first %}
+
+{% if category %}
+	{% assign cat = category.id %}
+	{% if category.sub-categories and include.sub-cat %}
+		{% assign sub-category = category.sub-categories where: "id", include.sub-cat | first %}
+		{% if sub-category %}
+			{% assign sub-cat = cat | append: "-" | append: sub-category.id %}
+			<span class="ribbon {{sub-cat}}">{{sub-category.display}}</span>
+		{% endif %}
+	{% else %}
+		<span class="ribbon {{cat}}">{{category.display}}</span>
+	{% endif %}
+{% endif %}

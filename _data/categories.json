@@ -1,0 +1,32 @@
+[
+	{ "id": "event",   "display": "Event Report" },
+	{ "id": "farming", "display": "Farming" },
+	{ "id": "news",    "display": "News" },
+	{ "id": "website-update", "display": "Website Update" },
+	{ "id": "guide", "sub-categories":
+		[
+			{ "id": "competitive", "display": "Competitive Guide" },
+			{ "id": "deck-type",   "display": "Deck Type Guide" },
+			{ "id": "new-players", "display": "New Players Guide" }
+		]
+	},
+	{ "id": "review", "sub-categories":
+		[
+			{ "id": "box",  "display": "Box Review" },
+			{ "id": "deck", "display": "Deck Review" },
+			{ "id": "structure-deck", "display": "Structure Deck Review" }
+		]
+	},
+	{ "id": "tier-list", "sub-categories":
+		[
+			{ "id": "deck-type", "display": "Deck Type Introduction" },
+			{ "id": "update", 	 "display": "Tier List Update" }
+		]
+	},
+	{ "id": "tournament", "sub-categories":
+		[
+			{ "id": "report", 		"display": "Tournament Report" },
+			{ "id": "announcement", "display": "Tournament Announcement" }
+		]
+	}
+]
