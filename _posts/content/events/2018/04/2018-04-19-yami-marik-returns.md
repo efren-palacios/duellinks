@@ -43,6 +43,8 @@ pinned: true
 
 ### Update
 
+- Don't forget to fill out the [event survey](/news/april-2018/in-game-updates/) - let Konami know what's on your mind!
+
 ![](/img/content/events/2018/04/yami-marik-returns/marik-lvl-50.png)
 
 Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or if you already obtained it last event, you get {Mega Ultra Chicken}) and the new skill {Power of the Tributed}!
