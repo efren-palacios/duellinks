@@ -16,8 +16,8 @@
     <div class="section">
         <h4>Don't forget to check out the latest tournament decks as well!</h4>
         <ul>
-            {% assign mcsTournaments = site.posts | filter_mcs %}            
-            <li><a href="{{ mcsTournaments.first.permalink }}">{{ mcsTournaments.first.title }}</a></li>
+            {% assign latestMCSTournament = site.posts | where: "category", "tournament" | where: "tournament", "Meta Championship Series" | sort: "date" | last %}            
+            <li><a href="{{ latestMCSTournament.permalink }}">{{ latestMCSTournament.title }}</a></li>
             {% assign metaTournaments = site.posts | filter_meta_giveaway %} 
             {% for post in metaTournaments %}
                 {% if forloop.index < 4 %}
