@@ -31,8 +31,8 @@ permalink: /farming-and-events/
 {% assign duel-ass-score = site.posts | where: "permalink", "/farming/duel-assessment-score/" | first %}
 
 <div class="row card-collection">
-  {% include articles/article.html article=farm-all-chars options='3' %}
-  {% include articles/article.html article=duel-ass-score options='3' %}
+  {% include articles/article.html article=farm-all-chars options='3, 4, 5' %}
+  {% include articles/article.html article=duel-ass-score options='3, 4, 5' %}
 </div>
 
 

@@ -83,14 +83,17 @@
             </div>
           </div>
 
-          {% assign articles = site.posts | where: "author", page.author | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+          <!-- This needs to be rewritten to a better filter. I fear we'll have to resort back to a for loop.
+               The filter here is not accurate enough as for example an author with name "yami" will both match
+               with articles written by "yami hammy" and "yami yugi"-->
+          {% assign articles = site.posts | where_exp: "item", "item.author contains page.author" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
 
           {% if articles != null and articles.size != 0 %}
             <div class="section center">
                 <h2>Guides / Articles</h2>
                 <div class="row card-collection">
                     {% for article in articles %}
-                        {% include articles/article.html article=article %}
+                        {% include articles/article.html article=article options='5' %}
                     {% endfor %}
                 </div>
             </div>
