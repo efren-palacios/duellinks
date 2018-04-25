@@ -15,7 +15,8 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: April 19th - added Grit Skill analysis**
+#### Updated April 19, 2018
+##### Added Grit Skill Analysis
 
 ### Introduction
 
