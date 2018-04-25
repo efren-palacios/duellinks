@@ -72,6 +72,8 @@
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
             { "id": "insects",     	            "display": "Insects",               "card": "Metamorphosed Insect Queen" },
             { "id": "toons",                    "display": "Toons",                 "card": "Toon Kingdom" },
+            { "id": "bls-envoy",                "display": "BLS - Envoy",           "card": "Black Luster Soldier - Envoy of the Evening Twilight" },
+            { "id": "bls-ss",                   "display": "BLS - Sacred Soldier",  "card": "Black Luster Soldier - Sacred Soldier" },
             { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
         ]
     },
