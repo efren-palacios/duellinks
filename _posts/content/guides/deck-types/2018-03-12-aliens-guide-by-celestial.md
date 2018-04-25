@@ -15,8 +15,8 @@ permalink: /guides/deck-types/aliens-guide-by-celestial/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated April 21, 2018 
-##### Core Cards, Tech Cards, Sample Decklist, and Tips Updated
+#### Updated April 25, 2018 
+##### Core Cards Updated
 
 ## Introduction 
 Aliens are an archetype that has been introduced through the Main Box Abyss Encounters.   
@@ -61,6 +61,15 @@ This card is played from 2 copies to 3. It is an 1800 beater that places 2 A-cou
 
 **{Brainwashing Beam}:**  
 Run this at 2. It is extremely powerful in the Cyber Angel and Gladiator Beast matchups which are the most played decks at the point this article was written. You can tribute your Overlord with their monster or Mysterious Triangle on the turn the control of the monster goes back to your opponent.
+
+**{Alien Kid}:**  
+This card was a late bloomer, it wasnt very good at release. As the game gets faster it will get even better. It places one A-counters on every special summon monster your opponent summons.  
+
+**{"A" Cell Recombination}:**  
+Best card in deck. It gives you A-counters which allows your combos to run smoothly plus the search effect is great. Combos very well with Powerful Rebirth since it sends an Alien to the grave.  
+
+**{Powerful Rebirth}:**  
+Synergizes very well with the deck. Recombination plays combined with Rebirth gives you ability to swarm with Aliens to get the maximum A-counter stat reduction.  
 
 ---
 
