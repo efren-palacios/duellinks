@@ -31,7 +31,7 @@ module Jekyll
                 elsif ((currChar == "}" || currChar == "]") && lastTagOpen >= 0)
                     tagContent = content[lastTagOpen + 1, i - lastTagOpen - 1]
 
-                    prohibitedSubstr = [": '", ":'", "$", ":.", "':", "' :", ">", "<"]
+                    prohibitedSubstr = [": '", ":'", "$", ":.", "':", "' :", ">", "<", ": image"]
 
                     isTagCardName = true
 
