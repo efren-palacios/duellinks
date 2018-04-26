@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: /img/pages/events/thumbnail-yami-marik.jpg
+image: /img/pages/events/thumbnail-battle-city.jpg
 category: page
 sub-category: main
 order: 5
