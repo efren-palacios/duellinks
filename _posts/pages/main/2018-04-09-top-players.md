@@ -126,7 +126,6 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |1|Jason| 50 points|
 |2| SirDillweed| 30 points|
 |3|ShinySopheon|28 points|
-<<<<<<< HEAD
 |4|Grucius| 25 points|
 |5|Billy Brake| 24 points|
 |6|Masarike|23 points|
@@ -183,11 +182,11 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |56-57|Black Jesus - 6 points
 |58-64|Limitless95|5 points|
 |58-64|Serenity| 5 points|
-|58-64|Son_Luke - 5 points|
-|58-64|Just Desserts - 5 points|
-|58-64|Kaki - 5 points|
+|58-64|Son_Luke| 5 points|
+|58-64|Just Desserts| 5 points|
+|58-64|Kaki| 5 points|
 |58-64|lawofdeath| 5 points|
-|58-64|Yasser - 5 points|
+|58-64|Yasser | 5 points|
 |65-67|BlessRNG Shadowz| 4 points|
 |65-67|Wowerer |4 points|
 |65-67|TristanP| 4 points|
@@ -198,18 +197,18 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |67-75|monkeyboy44| 3 points|
 |67-75|Sergio10na|3 points|
 |67-75|Stevie|3 points|
-|67-75|Beastymario - 3 points|
+|67-75|Beastymario | 3 points|
 |76-96|p0wEr_stEErIng| 2 points|
 |76-96|BuilttoTilt|2 points|
 |76-96|Pink Ghost|2 points|
 |76-96|Sasuke|2 points|
 |76-96|Dlita Dave|2 points|
-|76-96|FettyGuap - 2 points|
-|76-96|Gabbo - 2 points|
-|76-96|Nice Net - 2 points|
-|76-96|ProCircuitScrub - 2 points
-|76-96|Chokeonmyduck - 2 points
-|76-96|Deadfun - 2 points
+|76-96|FettyGuap | 2 points|
+|76-96|Gabbo| 2 points|
+|76-96|Nice Net | 2 points|
+|76-96|ProCircuitScrub | 2 points
+|76-96|Chokeonmyduck| 2 points
+|76-96|Deadfun |2 points
 |76-96|iHateDisGame|2 points|
 |76-96|Jsanchghost| 2 points|
 |76-96|DrkNegrofear|2 points|
@@ -230,60 +229,7 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |97-107|pawapoke|1 point|
 |97-107|millard|1 point|
 |97-107|belie that| 1 point|
-|97-107||tomvdelzen| 1 point|
-=======
-|4|Grucius| 22 points|
-|5-7|Gambler| 20 points|
-|5-7|AndyTsang| 20 points|
-|5-7|Look at god| 20 points|
-|8-10|Niceguy88| 18 points|
-|8-10|SILENT POWER| 18 points|
-|8-10|SkillShot| 18 points|
-|11|MrCellophane| 16 points|
-|12|Masarike|15 points|
-|13-16|Taichi| 14 points|
-|13-16|SDotAkuma| 14 points|
-|13-16|PAchou| 14 points|
-|13-16|M.Rida92| 14 points|
-|17-19|Super Vegito| 12 points|
-|17-19|Billy Brake| 12 points|
-|17-19|Sterben| 12 points|
-|20-40|Tekumse| 10 points|
-|20-40|LoreRomaCCG| 10 points|
-|20-40|Jayrabian| 10 points|
-|20-40|DatAngryBaboon| 10 points|
-|20-40|SilchasRuin| 10 points|
-|20-40|Kiwi| 10 points|
-|20-40|Luke Tyler| 10 points|
-|20-40|Alvd Freecs| 10 points|
-|20-40|Aurora| 10 points|
-|20-40|GabrielWars| 10 points|
-|20-40|Greedosama| 10 points|
-|20-40|Guizyduck| 10 points|
-|20-40|Hextor| 10 points|
-|20-40|Koizumi| 10 points|
-|20-40|MiguelJoker| 10 points|
-|20-40|Peledones| 10 points|
-|20-40|Suhnrysanti| 10 points|
-|20-40|Whilipino| 10 points|
-|20-40|Yehhey| 10 points|
-|20-40|3K Two Oh| 10 points|
-|20-40| FOREVER| 10 points|
-|41-54|Vladis| 8 points|
-|41-54|Kwrowe| 8 points|
-|41-54|Vyzual| 8 points|
-|41-54|Brenduke| 8 points|
-|41-54|Jsanchghost| 8 points|
-|41-54|Eugen Heidt| 8 points|
-|41-54|Regtrainer1| 8 points|
-|41-54|Simon| 8 points|
-|41-54|OPnerfME| 8 points|
-|41-54|Insano| 8 points|
-|41-54|WALEEDSY| 8 points|
-|41-54|WayneKenoff| 8 points|
-|41-54|Shu| 8 points|
-|41-54|HidekiBro| 8 points|
->>>>>>> bc28110f6829256fdbd5552d94b617a1b7682bf9
+|97-107|tomvdelzen| 1 point|
 
 ### How to gain Meta points
 
