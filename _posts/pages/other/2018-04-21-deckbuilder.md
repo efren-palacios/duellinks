@@ -70,7 +70,7 @@ hide: true
     <button type="button" onclick="loaddeck(5)" class="btn btn-secondary">Load slot 5</button>
     <br>
     <button type="button" onclick="pushToPlaytester()" class="btn btn-success">Push to playtester</button>
-    <button type="button" onclick="saveDeckOnline()" class="btn btn-success">Create savelink</button>
+    <button type="button" onclick="saveDeckOnline()" class="btn btn-success">Save online</button>
     <input type="text" class="form-control" id="decklink" readonly>
     <div class="text-center">
         <a style='margin: 1rem 0;' id="play" class='btn btn-success' role='button'><i class='fa fa-play-circle' aria-hidden='true'></i> Play Test Deck</a>
