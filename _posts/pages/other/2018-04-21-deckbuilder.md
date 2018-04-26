@@ -8,7 +8,6 @@ permalink: /deckbuilder/
 sitemap: false
 hide: true
 ---
-
 <div class="section">
     <div class="row">
         <div class="col-sm-6 left-side">
@@ -120,4 +119,5 @@ hide: true
             </div>          
         </div>
     </div>
+    <b>Disclaimer: This is not the offical deckbuilder! <a href="/the-dev-team">The Dev-Team</a> is working on the new deckbuilder which will look and work much better. <br>This here is Frankenstein's monster created by Maggi64</b> <img src="https://cdn.frankerfacez.com/emoticon/236895/1">
 </div>
