@@ -134,6 +134,8 @@ A nice protection card in Paleozoics, and can be used to trigger the Paleo effec
 - {Swing of Memories} (Alexis):  
 Now at 2x, a card with definite future potential that was used in the past with Gemini monsters. Does not seem to have a great place in a top-tier deck right now.  
 
+<br>
+
 ##### Support for Potential Top-Tier Decks:  
 
 - {Skilled Dark Magician} (Arkana):  
@@ -153,6 +155,8 @@ A second copy of a great card. {Paladin of Felgrand} + Ruins = any Dragon from y
 
 - {Card Trooper} (Jaden):  
 A 1900 beater after milling 3, and gives you a free draw when destroyed. Graveyard-fueled decks like [Archfiends](/tier-list/deck-types/archfiends/) will test this card, comparing it to {Lyla, Lightsworn Sorceress}.  
+
+<br>
 
 ##### Will be Used in a Top-Tier Deck:
 
