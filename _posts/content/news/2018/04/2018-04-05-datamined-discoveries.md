@@ -1,18 +1,27 @@
 ---
 layout: blog
-date: 2018-04-18 18:00:00 +0100
+date: 2018-04-26 20:50:00 +0100
 title: Datamined Discoveries! - April
 author: Yami Hammy
-image: /img/content/news/2018/04/datamined-discoveries/thumbnail.jpg
+image: /img/content/news/2018/04/datamined-discoveries/26-thumbnail.jpg
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!
 keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates, datamine, leaks, duel-a-thon, tpc
 permalink: /news/april-2018/datamined-discoveries/
+pinned: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 26th Update](#260)
+    - [Mini Box: Visions of Ice](#261)
+    - [First Impressions](#first-impressions)
+    - [Other New Cards](#262)
+    - [Elegant Mai Event](#263)
+    - [New Skills](#264)
+    - [Battle City Event](#265)
+    - [Miscellaneous](#266)
 - [April 18th Update](#180)
     - [New Ranked Tickets](#181)
     - [Top Player Council Thoughts](#182)
@@ -29,6 +38,101 @@ permalink: /news/april-2018/datamined-discoveries/
         - [That Wacky Alchemy! (SR)](#523)
         - [Dr. Frankenderp (R)](#524)
     - [KC Cup Celebration Sale](#53)
+
+---
+
+<a name="260"></a>
+## April 26th Update
+
+<br>
+
+With another maintenance update comes new discoveries; **a new Mini Box, new cards, new events and new skills** have been found courtesy of XOF and YAZAN!
+
+<a name="261"></a>
+
+### Mini Box: Visions of Ice
+
+The next Mini Box is expected to be released on **May 1st**, there will also be a sale. The following cards have been **confirmed** to be in the box:
+
+[gallery](/img/content/news/2018/04/datamined-discoveries/26-mini-box.png, /img/content/news/2018/04/datamined-discoveries/26-box-sale.png, /img/content/news/2018/04/datamined-discoveries/26-mini-box-2.png)
+
+<br>
+<br>
+
+[deck](White Night Dragon; The Tricky; Mage Power; Treacherous Trap Hole; Blizzard Princess; Spellbook Magician of Prophecy; Spellbook of Secrets; Spellbook of Life; Dragon Ice; Tribute Burial; Ice Master; Gusto Thunbolt; Reeze, Whirlwind of Gusto; Gusto Griffin; Spellbook of Power; Justice of Prophecy; Spellbook of Fate; Cold Enchanter; Caam, Serenity of Gusto; Windaar, Sage of Gusto; Contact with Gusto; Chain Dispel)
+
+### First Impressions
+
+#### [Superforms](/top-player-council/superforms/) says:
+
+There are two new archetypes: Spellbooks (with Prophecy Monsters) and Gustos.
+
+Thoughts on Spellbooks and Prophecy:
+- {Strength of Prophecy} boosts itself easily.
+- {Justice of Prophecy} searches but at the cost of losing a Normal Summon.
+- {Spellbook of Fate}’s Banish effect is one of the few good Spellbook effects we have.
+I don’t think Spellbooks will be a standalone deck with the Prophecy monsters. May find a home with Dark Magician or Endymion decks that use spell counters.
+
+Thoughts on Gustos:
+- Between {Psychokinesis} and {Contact with Gusto}, there’s a lot of spot removal.
+- {Gusto Thunbolt} is a slow, unreliable floater and is not itself Psychic, but can grab {Reeze, Whirlwind of Gusto} to steal a Monster.
+- {Gusto Griffin} is by far the best searcher, grabbing any Gusto monster from the Deck. Can combo with {Lady Ninja Yae}, {Dark World Dealings}, and {Snipe Hunter}.
+- {Caam, Serenity of Gusto} generates some card advantage and is a decent Psychic beater (which we need for {Psychokinesis}).
+- Seems to be some tension between the Winged Beast Gusto monsters and the Psychic support cards that you would want to use.
+- Like Spellbooks, Gustos do not seem like a solid standalone deck and will instead have to mesh with older cards.
+
+Other interesting cards:
+- {The Tricky}: Most obvious synergy with Spellbooks and Treeborn, but has a lot of general utility. Instant access to {Beatdown} while tossing anything you like into the grave and still having your Normal Summon.
+- {White Night Dragon}: A big Dragon with a nice effect, and has synergy with {Ruins of the Divine Dragon Lords}, which we now have at 2x (Mokuba Lvl: 45 Reward).
+- {Treacherous Trap Hole}: Potential Main Deck material for both [Sylvans](/tier-list/deck-types/sylvans/) and [Masked Heroes](/tier-list/deck-types/masked-heroes/), likely at 1-2x. Both Decks run little to no Traps already, and both Decks can be okay with targeting their own Monsters for destruction if necessary (Sylvans don’t mind losing {Rose Lover} or {World Carrotweight Champion}, and Masked Heroes can {Mask Change} out of the target or just destroy a {Destiny HERO - Celestial} to set up a draw).
+- {Tribute Burial}: Nice Dragon support, and good synergy with {Eclipse Wyvern}.
+
+<a name="262"></a>
+
+### Other New Cards
+
+[deck](Dark Burning Magic; Magical Dimension; Spellbook of Eternity; Spellbook of the Master; Spellbook Library of the Crescent; Spellbook Library of the Heliosphere; Ice Queen; Amazoness Princess; Spy-C-Spy; Shinobaron Peacock; Gravi-Crush Dragon; Gusto Codor; Musto, Oracle of Gusto; Fool of Prophecy; Strength of Prophecy; Charioteer of Prophecy; Reaper of Prophecy; Prophecy Destroyer; Wheel of Prophecy; Soldier Dragons; Lion Alligator; Tricky Spell 4; Bitelon; Creeping Doom Manta; Master of the Flaming Dragonswords; Millennium Golem)
+
+<a name="263"></a>
+
+### Elegant Mai Event
+
+Elegant Mai is making a comeback, bringing with her new rewards: {Amazoness Princess} and {Spy-C-Spy} as well as {Amazoness Archers} from the previous event!
+
+![](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
+
+<a name="264"></a>
+
+### New Skills
+
+Many new {Jinzo} related skills have been unearthed pointing perhaps to an Espa Roba event/unlock in the future.
+
+[gallery](/img/content/news/2018/04/datamined-discoveries/skill-cosmic-enlightenment.jpg, /img/content/news/2018/04/datamined-discoveries/skill-mesmeric-control.jpg, /img/content/news/2018/04/datamined-discoveries/skill-psychic-onslaught.jpg, /img/content/news/2018/04/datamined-discoveries/skill-psychic-vision.jpg, /img/content/news/2018/04/datamined-discoveries/skill-silent-duelist.jpg, /img/content/news/2018/04/datamined-discoveries/skill-trap-search.jpg, /img/content/news/2018/04/datamined-discoveries/skill-cyber-energy-amplified.jpg)
+
+<br>
+<br>
+
+<a name="265"></a>
+
+### Battle City Event
+
+On May 3rd there will be an addition to the currently ongoing [Battle City Showdown](/events/april-2018/battle-city-showdown/) event. You will have to undertake "Divine Trials" to defeat the "Divine Duelist" (Yami Yugi) to unlock his new skill!
+ 
+[gallery](/img/content/news/2018/04/datamined-discoveries/26-battle-city-divine-1.png, /img/content/news/2018/04/datamined-discoveries/26-battle-city-divine-2.png, /img/content/news/2018/04/datamined-discoveries/26-battle-city-divine-3.png)
+
+<br>
+<br>
+
+<a name="266"></a>
+
+### Miscellaneous
+
+A character profile for Tristan Taylor has been found as well as the "Popular Cards" filter for the Deck Editor which has been postponed.
+
+[gallery](/img/content/news/2018/04/datamined-discoveries/26-tristan-character-profile.png, /img/content/news/2018/04/datamined-discoveries/26-popular-cards.png)
+
+<br>
+<br>
 
 ---
 
@@ -260,4 +364,4 @@ Will they be bringing back the ultimate deal: 3 cards + 1 UR for $0.99 - let's k
 
 ---
 
-*Keep in mind that datamined information is speculation, and remains unconfirmed until officially announced by Konami.*
+***Keep in mind that datamined information is speculation, and remains unconfirmed until officially announced by Konami.***

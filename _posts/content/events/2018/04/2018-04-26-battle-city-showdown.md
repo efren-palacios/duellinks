@@ -6,7 +6,7 @@ author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
 category: event
 comments: true
-description: 
+description: The second part of the Battle City event is underway! Here's all you need to know about the event and the best ways to complete the missions - get those those new reward cards! 
 keywords: event, battle city, skill, yami yugi, part two, 2
 permalink: /events/april-2018/battle-city-showdown/
 pinned: true
@@ -19,6 +19,7 @@ ended: false
 
 - [Event Information](#event-information)
 - [Rewards](#rewards)
+- [First Impressions](#first-impressions)
 - [Legendary Duelist Duels](#legendary-duelist-duels)
 - **[Duel Awards](#awards)**
 
@@ -45,6 +46,14 @@ You will also get rewards for clearing rounds:
 [slider](/img/content/events/2018/04/battle-city-showdown/slider-rewards.jpg)
 
 <br>
+
+### First Impressions
+
+#### [Superforms](/top-player-council/superforms/) says:
+
+- {Skilled Blue Magician}: More support for Spell Counters and works well with {Skilled Dark Magician}. If Spellbooks are good (coming in the next Mini Box), they may be used in a {Dark Magician} or {Endymion, the Master Magician} Deck along with this card.
+- {Dark Sage}: Trash!
+- {Fusion Sword Murasame Blade}: While Equip Spells are generally not worthwhile, the ATK boost combined with protection is nice. Probably one of the best equips in the game, but likely still won’t see play since the top Warrior Deck ([Masked Heroes](/tier-list/deck-types/masked-heroes/)) doesn’t have any place for it.
 
 ### Legendary Duelist Duels
 
