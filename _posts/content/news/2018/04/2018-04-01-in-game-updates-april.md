@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (19) - April 25
+title: In-Game Updates (20) - April 26
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-25 17:00:00 +0100
+date: 2018-04-26 15:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,10 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 26th (Update 20)](#200)
+    - [Battle City Showdown!](#201)
+    - [Character Level Cap Increased](#202)
+    - [72 Hours Limited Sale](#203)
 - [April 25th (Update 19)](#190)
     - [Maintenance Notice](#191)
     - [Upcoming Updates](#192)
@@ -70,6 +74,37 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="200"></a>
+## April 26th (Update 20)
+
+<br>
+
+<a name="201"></a>
+
+### Battle City Showdown!
+
+The second part of the Battle City event is underway be sure to read our [event article](/events/april-2018/battle-city-showdown/) to discover all the new rewards and tips to complete the missions.
+
+[slider](/img/content/news/2018/04/in-game-updates/26-battle-city.jpg)
+
+<a name="202"></a>
+
+### Character Level Cap Increased
+
+Finally the cap has been raised to Lvl: 45, giving each Duelist an additional Deck Slot, 550 Gems and an exclusive card! We'll be posting an article with [Top Player Council](/top-player-council/) thoughts later on, so check back soon. 
+
+![](/img/content/news/2018/04/in-game-updates/26-level-cap.jpg)
+
+<a name="203"></a>
+
+### 72 Hours Limited Sale
+
+Another sale, nothing too special.
+
+[slider](/img/content/news/2018/04/in-game-updates/26-sale.jpg)
 
 ---
 

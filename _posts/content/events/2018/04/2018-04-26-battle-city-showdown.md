@@ -10,6 +10,7 @@ description:
 keywords: event, battle city, skill, yami yugi, part two, 2
 permalink: /events/april-2018/battle-city-showdown/
 pinned: true
+ended: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
