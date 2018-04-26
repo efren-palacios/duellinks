@@ -16,6 +16,7 @@ permalink: /guides/deck-types/sea-stealth-attack-guide-by-builttotilt/
 {% include heading.html title=page.title author=page.author %}
 
 #### Updated April 25, 2018
+##### All Guide Information Updated
 
 ### Table of Contents
 - [Introduction](#introduction)

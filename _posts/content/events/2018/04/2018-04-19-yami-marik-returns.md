@@ -5,12 +5,12 @@ title: Yami Marik Returns!
 author: Yami Hammy
 image: /img/content/events/2018/04/yami-marik-returns/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Yami Marik has returned... again! Here's all you need to know about the event, the best ways to farm and unlock him - get that third Lava Golem and cause havoc on the ladder!  
 keywords: event, marik, yami marik, ra
 permalink: /events/april-2018/yami-marik-returns/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
