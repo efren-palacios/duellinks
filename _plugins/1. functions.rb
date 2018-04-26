@@ -1,60 +1,56 @@
 require 'fileutils'
 
-module Jekyll
+class CustomFunctions
 
-  module CustomFunctions
+  def getEncodedUrl(url)
+    return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+  end
+  
+  def getFriendlyUrl(url)
+    return url.gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
+  end
 
-    def url_encode(url)
-      return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
+  def getProfileUrlByName(name)
+    allProfiles = Dir["_data/profiles/*.json"]
+
+    for profile in allProfiles
+      profileFile = File.read("_data/profiles/" + profile)
+
+      if profileFile
+
+        profile = JSON.parse(profileFile)
+
+        if profile && profile["name"] && profile["name"] == name
+          return getProfileUrlByProfile(profile)
+        end
+
+      end
+    end
+
+    return ""
+
+  end
+
+  def getProfileUrlByProfile(profile)
+
+    unless profile
+      return ""
     end
     
-    def url_friendly(url)
-      return url.gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
-    end
+    if profile["role"] && profile["role"] != ""
 
-    def getProfileUrlByName(name)
-      allProfiles = Dir["_data/profiles/*.json"]
+      rolesFile = File.read("_data/roles.json")
+      roles = JSON.parse(rolesFile)
+      urlFriendlyName = getFriendlyUrl(profile["name"])
 
-      for profile in allProfiles
-        profileFile = File.read("_data/profiles/" + profile)
-
-        if profileFile
-
-          profile = JSON.parse(profileFile)
-
-          if profile && profile["name"] && profile["name"] == name
-            return getProfileUrlByProfile(profile)
-          end
-
+      for role in roles
+        if role["role-id"] == profile["role"] && role["url"] != ""
+          return role["url"] + urlFriendlyName + "/"
         end
       end
-
-      return ""
-
     end
+    
+    return "/profile/" + urlFriendlyName + "/"
+  end 
 
-    def getProfileUrlByProfile(profile)
-
-      unless profile
-        return ""
-      end
-      
-      if profile["role"] && profile["role"] != ""
-
-        rolesFile = File.read("_data/roles.json")
-        roles = JSON.parse(rolesFile)
-        urlFriendlyName = url_friendly(profile["name"])
-
-        for role in roles
-          if role["role-id"] == profile["role"] && role["url"] != ""
-            return role["url"] + "/" + urlFriendlyName + "/"
-          end
-        end
-      end
-      
-      return "/profile/" + urlFriendlyName + "/"
-    end  
-  end
 end
-
-Liquid::Template.register_filter(Jekyll::CustomFunctions)
