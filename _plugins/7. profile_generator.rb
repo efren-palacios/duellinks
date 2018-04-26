@@ -50,7 +50,6 @@ module Jekyll
     end
 
     class ProfileGenerator < Jekyll::Generator
-        include CustomFunctions
         
         def generate(site)
             profiles = site.data['profiles']
@@ -59,7 +58,7 @@ module Jekyll
                 
                 current_profile = profiles[profile_key]
 
-                location = getProfileUrlByProfile(current_profile)
+                location = CustomFunctions.new.getProfileUrlByProfile(current_profile)
 
                 site.pages << ProfilePage.new(site, site.source, location, profile_key)
             end

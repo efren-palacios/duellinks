@@ -6,6 +6,7 @@
   3: Don't show ribbon
   4: Don't show date
   5: Don't show author
+  6: 3 columns i/o 2
 {% endcomment %}
 
 {% if include.article %}
@@ -13,11 +14,10 @@
   {% assign article = include.article %}
   {% assign options = include.options | remove: " " | split: ',' %}
 
-  {% if options contains '2' %}
-    {% assign display = "hidden" %}
-  {% endif %}
+  {% if options contains '2' %} {% assign display = "hidden" %} {% endif %}
+  {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-sm-6" %} {% endif %}
 
-  <div class="card-container col-sm-6 col-12 {{display}}">
+  <div class="card-container {{columns}} col-12 {{display}}">
     <div class="article-card ">
       <a href="{{article.url}}">
         <img class="cover" src="{{article.image}}">
