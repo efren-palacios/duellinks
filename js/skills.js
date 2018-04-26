@@ -1,10 +1,28 @@
 var SkillsTableViewModel = {
     originalSkills: [],
-    displayedSkills: ko.observableArray()
+    displayedSkills: ko.observableArray()    
 }
 
 var CharacterFiltersViewModel = {
-    characters: []
+    characters: [],
+    activeCharacter: ko.observable(""),
+    filterByCharacter: function(character) {
+        if(CharacterFiltersViewModel.activeCharacter() != character.name) {
+            SkillsTableViewModel.displayedSkills($(SkillsTableViewModel.originalSkills).filter(function(index, skill) {
+                for(var i = 0; i < skill.characters.length; i++) {
+                    if(character.name == skill.characters[i].name) return true;
+                }
+                return false; 
+            }));
+
+            CharacterFiltersViewModel.activeCharacter(character.name);
+        }
+        else {
+            SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
+
+            CharacterFiltersViewModel.activeCharacter("");
+        }                
+    }
 }
 
 $(document).ready(function() {
@@ -70,12 +88,12 @@ function initializeCharacterFilters(skills) {
                 return false;
             }).length;
 
-            character.gx = (character.season == 'gx' ? true : false);
-            character.dm = (character.season == 'dm' ? true : false);
+            character.gx = character.season == 'gx' ? true : false;
+            character.dm = character.season == 'dm' ? true : false;
         });
 
         CharacterFiltersViewModel.characters = data;
 
-        ko.applyBindings(CharacterFiltersViewModel);
+        ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersGX')[0]);
     });
 };
