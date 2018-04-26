@@ -6,7 +6,7 @@
 <!-- 4: Don't show date -->
 <!-- 5: Don't show author -->
 
-{ if include.article %}
+{% if include.article %}
 
   {% assign article = include.article %}
   {% assign options = include.options | remove: " " | split: ',' %}
