@@ -5,7 +5,7 @@ title: Duel-A-Thon
 author: Yami Hammy
 image: /img/content/events/2018/03/duel-a-thon/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Duel to fill up the Duel Meter, you'll receive a reward each time you fill it up all the way!
 keywords: event, duel-a-thon, intrigue shield

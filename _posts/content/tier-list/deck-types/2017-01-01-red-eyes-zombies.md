@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: red-eyes-zombies
 image: /img/content/tier-list/deck-types/red-eyes-zombies.jpg
-comments: false
+comments: true
 description: A quick introduction to the Red-Eyes Zombies deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: red-eyes zombies, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/red-eyes-zombies/

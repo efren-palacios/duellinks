@@ -7,7 +7,7 @@
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },     
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" }
         ] 
     },
     {
@@ -71,6 +71,9 @@
             { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
             { "id": "insects",     	            "display": "Insects",               "card": "Metamorphosed Insect Queen" },
+            { "id": "toons",                    "display": "Toons",                 "card": "Toon Kingdom" },
+            { "id": "bls-envoy",                "display": "BLS - Envoy",           "card": "Black Luster Soldier - Envoy of the Evening Twilight" },
+            { "id": "bls-ss",                   "display": "BLS - Sacred Soldier",  "card": "Black Luster Soldier - Sacred Soldier" },
             { "id": "ananta",     	  	        "display": "Evil Dragon Ananta",    "card": "Evil Dragon Ananta" }
         ]
     },

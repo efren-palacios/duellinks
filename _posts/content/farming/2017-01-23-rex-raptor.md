@@ -116,4 +116,5 @@ hide: true
 
 ### Level 40 Decklist
 
-[deck](Megazowler; Megazowler; Megazowler; Two-Headed King Rex; Two-Headed King Rex; Two-Headed King Rex; Crawling Dragon 2; Crawling Dragon 2; Crawling Dragon 2; Uraby; Uraby; Uraby; Wasteland; Wasteland; Wasteland; Polymerization; Big Evolution Pill; Big Evolution Pill; Fossil Excavation; Fossil Excavation; Bracchio-raidus)
+[deck](Megazowler; Megazowler; Megazowler; Two-Headed King Rex; Two-Headed King Rex; Two-Headed King Rex; Crawling Dragon 2; Crawling Dragon 2; Crawling Dragon 2; Uraby; Uraby; Uraby; Wasteland; Wasteland; Wasteland; Polymerization; Big Evolution Pill; Big Evolution Pill; Fossil Excavation; Fossil Excavation)
+[deck](Bracchio-raidus)

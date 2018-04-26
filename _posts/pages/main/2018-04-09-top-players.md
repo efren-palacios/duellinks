@@ -126,6 +126,7 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |1|Jason| 50 points|
 |2| SirDillweed| 30 points|
 |3|ShinySopheon|28 points|
+<<<<<<< HEAD
 |4|Grucius| 25 points|
 |5|Billy Brake| 24 points|
 |6|Masarike|23 points|
@@ -230,6 +231,59 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |97-107|millard|1 point|
 |97-107|belie that| 1 point|
 |97-107||tomvdelzen| 1 point|
+=======
+|4|Grucius| 22 points|
+|5-7|Gambler| 20 points|
+|5-7|AndyTsang| 20 points|
+|5-7|Look at god| 20 points|
+|8-10|Niceguy88| 18 points|
+|8-10|SILENT POWER| 18 points|
+|8-10|SkillShot| 18 points|
+|11|MrCellophane| 16 points|
+|12|Masarike|15 points|
+|13-16|Taichi| 14 points|
+|13-16|SDotAkuma| 14 points|
+|13-16|PAchou| 14 points|
+|13-16|M.Rida92| 14 points|
+|17-19|Super Vegito| 12 points|
+|17-19|Billy Brake| 12 points|
+|17-19|Sterben| 12 points|
+|20-40|Tekumse| 10 points|
+|20-40|LoreRomaCCG| 10 points|
+|20-40|Jayrabian| 10 points|
+|20-40|DatAngryBaboon| 10 points|
+|20-40|SilchasRuin| 10 points|
+|20-40|Kiwi| 10 points|
+|20-40|Luke Tyler| 10 points|
+|20-40|Alvd Freecs| 10 points|
+|20-40|Aurora| 10 points|
+|20-40|GabrielWars| 10 points|
+|20-40|Greedosama| 10 points|
+|20-40|Guizyduck| 10 points|
+|20-40|Hextor| 10 points|
+|20-40|Koizumi| 10 points|
+|20-40|MiguelJoker| 10 points|
+|20-40|Peledones| 10 points|
+|20-40|Suhnrysanti| 10 points|
+|20-40|Whilipino| 10 points|
+|20-40|Yehhey| 10 points|
+|20-40|3K Two Oh| 10 points|
+|20-40| FOREVER| 10 points|
+|41-54|Vladis| 8 points|
+|41-54|Kwrowe| 8 points|
+|41-54|Vyzual| 8 points|
+|41-54|Brenduke| 8 points|
+|41-54|Jsanchghost| 8 points|
+|41-54|Eugen Heidt| 8 points|
+|41-54|Regtrainer1| 8 points|
+|41-54|Simon| 8 points|
+|41-54|OPnerfME| 8 points|
+|41-54|Insano| 8 points|
+|41-54|WALEEDSY| 8 points|
+|41-54|WayneKenoff| 8 points|
+|41-54|Shu| 8 points|
+|41-54|HidekiBro| 8 points|
+>>>>>>> bc28110f6829256fdbd5552d94b617a1b7682bf9
 
 ### How to gain Meta points
 

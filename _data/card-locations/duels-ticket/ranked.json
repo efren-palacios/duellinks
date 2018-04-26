@@ -38,5 +38,37 @@
     {
         "name": "Virus Cannon",
         "rarity": "N"
-    }
-] 
+    },
+    {
+        "name": "The Sanctuary in the Sky",
+        "rarity": "R"
+    },
+    {
+        "name": "Legacy of Yata-Garasu",
+        "rarity": "SR"
+    },
+    {
+        "name": "Anteatereatingant",
+        "rarity": "SR"
+    },
+    {
+        "name": "Anti-Magic Arrows",
+        "rarity": "SR"
+    },
+    {
+        "name": "Union Attack",
+        "rarity": "SR"
+    },
+    { 
+		"name": "Kiseitai", 
+		"rarity": "R" 
+    },
+    {
+        "name": "Grand Tiki Elder",
+        "rarity": "N"
+    },
+    {
+        "name": "Melchid the Four-Face Beast",
+        "rarity": "N"
+    }    
+]

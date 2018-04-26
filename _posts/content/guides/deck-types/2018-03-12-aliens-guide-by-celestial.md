@@ -15,6 +15,9 @@ permalink: /guides/deck-types/aliens-guide-by-celestial/
 
 {% include heading.html title=page.title author=page.author %}
 
+#### Updated April 25, 2018 
+##### Core Cards Updated
+
 ## Introduction 
 Aliens are an archetype that has been introduced through the Main Box Abyss Encounters.   
 
@@ -58,6 +61,15 @@ This card is played from 2 copies to 3. It is an 1800 beater that places 2 A-cou
 
 **{Brainwashing Beam}:**  
 Run this at 2. It is extremely powerful in the Cyber Angel and Gladiator Beast matchups which are the most played decks at the point this article was written. You can tribute your Overlord with their monster or Mysterious Triangle on the turn the control of the monster goes back to your opponent.
+
+**{Alien Kid}:**  
+This card was a late bloomer, it wasnt very good at release. As the game gets faster it will get even better. It places one A-counters on every special summon monster your opponent summons.  
+
+**{"A" Cell Recombination}:**  
+Best card in deck. It gives you A-counters which allows your combos to run smoothly plus the search effect is great. Combos very well with Powerful Rebirth since it sends an Alien to the grave.  
+
+**{Powerful Rebirth}:**  
+Synergizes very well with the deck. Recombination plays combined with Rebirth gives you ability to swarm with Aliens to get the maximum A-counter stat reduction.  
 
 ---
 
@@ -237,13 +249,16 @@ You would think i'd choose Balance or Restart but no, The best skill for the mir
 
 ## Other Tips
 
- - Aliens A-counter -300 effect stacks, so: 2 aliens (with the text effect) = - 600 with 1 counter.
- - Practice Alien math, or play with a calculator nearby before you take this deck to ranked.
- - Alien Shocktrooper benefits from the A-counter stat reduction as long as you have another alien on the field, but does not grant that benefit itself as it lacks the required text effect.
- - Don't forget, suiciding your Alien Warrior is a good option in some situations.
- - Play "A" Cell Recombination Device on the end phase of your opponent's turn, this way you can get the effect of adding an alien monster to your hand on your following turn.
- - In some situations, using "A" Cell Recombination Device to lower an attacking monster’s ATK is a viable play. You lose valuable A-counters when their monster is destroyed, but destroying a monster in their battle phase can generate advantage.
- - In a Gladiator Beast match up, if you Enemy Controller take or Brainwashing Beam both of their Gladiator Beasts you can pull off a fusion summon of {Gladiator Beast Essedarii}
+- Aliens A-counter -300 effect stacks, so: 2 aliens (with the text effect) = - 600 with 1 counter.
+- Practice Alien math, or play with a calculator nearby before you take this deck to ranked.
+- Alien Shocktrooper benefits from the A-counter stat reduction as long as you have another alien on the field, but does not grant that benefit itself as it lacks the required text effect.
+- Don't forget, suiciding your Alien Warrior is a good option in some situations.
+- Play "A" Cell Recombination Device on the end phase of your opponent's turn, this way you can get the effect of adding an alien monster to your hand on your following turn.
+- In some situations, using "A" Cell Recombination Device to lower an attacking monster’s ATK is a viable play. You lose valuable A-counters when their monster is destroyed, but destroying a monster in their battle phase can generate advantage.
+- In a Gladiator Beast match up, if you Enemy Controller take or Brainwashing Beam both of their Gladiator Beasts you can pull off a fusion summon of {Gladiator Beast Essedarii}
+- Alien Kids effect to place an A-counter cannot be negated by {Divine Wrath}.  
+- Econ taking an enemys Alien Overlord will destroy theirs and keep yours in tact if you have one on the field.  
+- Suiciding your Alien Warrior can be a good play if you have another Alien on the field or if you have a Powerful Rebirth set so you can attack over their monster if needed.  
 
 ## Conclusion
 

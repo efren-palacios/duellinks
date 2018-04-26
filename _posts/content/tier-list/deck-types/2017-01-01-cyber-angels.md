@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: cyber-angels
 image: /img/content/tier-list/deck-types/cyber-angels.jpg
-comments: false
+comments: true
 description: A quick introduction to the Cyber Angels deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: cyber angels, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/cyber-angels/

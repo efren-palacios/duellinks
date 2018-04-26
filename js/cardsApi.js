@@ -200,6 +200,10 @@ function CardsAPI() {
         {
             name: "Hey, Trunade!",
             customURL: "/img/cards/heytrunade.jpg"
+        },
+        {
+            name: "Mega Ultra Chicken",
+            customURL: "/img/cards/megaultrachicken.jpg"
         }
     ],
 
@@ -216,6 +220,12 @@ function CardsAPI() {
             card_type: "Trap",
             property: "Normal",
             text: "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck." 
+        },
+        {
+            name: "Mega Ultra Chicken",
+            card_type: "Monster",
+            property: "Effect",
+            text: "Arise, chicken, Arise!" 
         }
     ],
 

@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: magnet-warriors
 image: /img/content/tier-list/deck-types/magnet-warriors.jpg
-comments: false
+comments: true
 description: A quick introduction to the Magnet Warriors deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: magnet warriors, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/magnet-warriors/
@@ -26,9 +26,9 @@ Magnet Warriors is an archetype that focuses on milling your rock monsters to th
 
 Below you can find two successful builds, the first one being a 20 card deck by MiguelJoker that recently reached top 4 in the [MCS VI](/tournaments/meta-championship-series/4/report/). The second is a 30 card That Grass Looks Greener - Magnet Warriors deck by Kaki that won the [Meta Weekly #7](/tournaments/meta-weekly/7/report/).
 
-[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Beta the Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
+[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Beta the Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)
 
-[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth)
+[deck:Straight to the Grave](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Delta the Magnet Warrior; Tackle Crusader; Block Golem; Block Golem; Beta the Electromagnet Warrior; Gamma The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath;Divine Wrath; Skill Successor; Skill Successor; Triamid Pulse; Triamid Pulse; Triamid Pulse; Powerful Rebirth; Powerful Rebirth)
 
 These cards are a must in the decks. {Spiritual Earth Art - Kurogane} can substitute for every {Powerful Rebirth} you’re missing. {Snipe Hunter} or {Gamma the Magnet Warrior} can be a substitute if you’re missing a {Gaia Plate the Earth Giant}. Keep in mind that your deck will lack power late game with the fewer Gaia’s in the deck.   
 
@@ -46,13 +46,13 @@ These are the staple cards for a 30 card build of Magnet Warriors.
 
 ### Tech Cards for 20 Card Magnets
 
-[deck](Snipe Hunter; Hey, Trunade!; Anti-Magic Arrows; Super Rush Headlong; Storm; Wall of Disruption; Curse of Anubis)
+[deck](Snipe Hunter; Lava Golem; Hey, Trunade!; Anti-Magic Arrows; Super Rush Headlong; Storm; Parallel Twister;Wall of Disruption; Curse of Anubis)
 
 These are helpful techs for a 20 card build of Magnet Warriors.
 
 ### Tech Cards for 30 Card Magnets
 
-[deck](Block Golem; Bacon Saver; Hey, Trunade!; Storm; Skill Successor; Release from Stone)
+[deck](Block Golem; Bacon Saver; Hey, Trunade!; Storm; Parallel Twister; Skill Successor; Release from Stone)
 
 These are helpful techs for a 30 card build of Magnet Warriors.
 

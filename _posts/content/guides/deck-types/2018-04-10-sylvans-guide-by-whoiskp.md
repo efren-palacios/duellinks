@@ -15,7 +15,8 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: April 19th - added Grit Skill analysis**
+#### Updated April 19, 2018
+##### Added Grit Skill Analysis
 
 ### Introduction
 
@@ -31,7 +32,8 @@ Not too long ago they called us a meme Deck, but before you know it we started k
 
 ### Skills
 
-- {Restart}: the #1 skill when it comes to Sylvans. Your main goal is to open with at least a {Sylvan Komushroomo} (first), {World Carrotweight Champion} (second), or {Rose Lover} (third) all three are vital in an opening hand.
+- {Grit}: the new #1 skill when it comes to Sylvans! The activation requirement of this skill still remains a mystery, but it allows you to hang on with 1 LP which buys you a turn to recover and setup an OTK if you have {World Carrotweight Champion} or {Rose Lover} in the Graveyard. 
+- {Restart}: ~~the #1 skill when it comes to Sylvans.~~ Your main goal is to open with at least a {Sylvan Komushroomo} (first), {World Carrotweight Champion} (second), or {Rose Lover} (third) all three are vital in an opening hand.
 - {Heavy Starter}: it guarantees that you open with a {Sylvan Hermitree}, {Sylvan Guardioak}, or {Sylvan Lotuswain} under the one condition that you have at least one copy of all three in your Deck.
 - {Beatdown}: for those who trust that their opening hand will be good enough to win.
 
@@ -155,7 +157,7 @@ The best way to setup a combo is when you excavate Hermit. You’ll see the next
 Not saying this works 100% of the time but now that Sylvans are getting more and more popular setting a Rose over a Shroom turn one if you don’t have backrow protection may be more beneficial as more Decks are adding cards to get rid of Shroom, denying you of the +5 mill. 
 
 - Milling more than one {Sylvan Guardioak}:   
-Remember if you mill more than one Oak, the effect of the first one will be the next card you draw and the effect of the second Oak will be the card after. Bare that in mind while trying to make plays after milling two or more Oak.
+Remember if you mill more than one Oak, the effect of the first one will be the next card you draw and the effect of the second Oak will be the card after. Bear that in mind while trying to make plays after milling two or more Oak.
 
 [slider](/img/content/guides/sylvans-guide-by-whoiskp/screenshot.jpg)
 

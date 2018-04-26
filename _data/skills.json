@@ -894,5 +894,19 @@
     "how": "Level 4",
     "exclusive": true,
     "character": "Arkana"
+  },
+  {
+    "name": "Incarnation: Sphere Mode",
+    "description": "(NPC ONLY) Begin the Duel with 'The Winged Dragon of Ra - Sphere Mode' on your side of the field.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Yami Marik"
+  },
+  {
+    "name": "Power of the Tributed",
+    "description": "When you successfully Tribute Summon 'The Winged Dragon of Ra', its ATK becomes the sum of the ATK of the Tributed monsters, and its DEF becomes the sum of the DEF of the Tributed monsters.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Yami Marik"
   }
 ]

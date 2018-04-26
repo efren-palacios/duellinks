@@ -1,19 +1,35 @@
 ---
 layout: blog
-title: In-Game Updates (14) - April 18
+title: In-Game Updates (19) - April 25
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-18 06:30:00 +0100
+date: 2018-04-25 17:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky   
+keywords: news, ranked duels, upcoming updates, kc cup, new box, box, valiant souls, sale, exp, jesse, jesse anderson, survey, maintenance, duel-a-thon, duel a thon, card flipper, wacky, marik, yami marik, ra, visuals, bonus, card trader, duel room   
 permalink: /news/april-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
+- [April 25th (Update 19)](#190)
+    - [Maintenance Notice](#191)
+    - [Upcoming Updates](#192)
+- [April 24th (Update 18)](#180)
+    - [Yami Marik Returns! Survey](#181)
+- [April 23rd (Update 17)](#170)
+    - [Battle City Event](#171)
+    - [Yami Marik Lvl. 50](#172)
+- [April 20th (Update 16)](#160)
+    - [Shortening of Visual Effects](#161)
+    - [Update to Version 2.6.0](#162)
+    - [Ranked Duels Challenge Stamps](#163)
+- [April 19th (Update 15)](#150)
+    - [Bonus Reward Campaign!](#151)
+    - [Improvements to the Duel Room](#152)
+    - [Yami Marik Returns](#153)
 - [April 18th (Update 14)](#140)
     - [Card Trader Inventory Updated](#141)
     - [Maintenance Notice](#142)
@@ -54,6 +70,137 @@ permalink: /news/april-2018/in-game-updates/
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="190"></a>
+## April 25th (Update 19)
+
+<br>
+
+<a name="191"></a>
+
+### Maintenance Notice
+
+There will be a maintenance tomorrow to conclude the [Yami Marik event](/events/april-2018/yami-marik-returns/) and to prepare for the [Battle City event](#171) from 05:00 to 08:30 **(GMT+1)** - no Duel Links for over three hours! :'(
+
+![](/img/content/news/2018/04/in-game-updates/25-maintenance.jpg)
+
+<a name="192"></a>
+
+### Upcoming Updates
+
+Here are some key points:
+- Elegant Mai will return, likely bringing back {Vennu, Bright Bird of Divinity}, {Swift Birdman Joe}, {Amazoness Archers} and more
+- Unlock a new character: "I'm ready to take on the world" - most likey it's going to be [Syrus Truesdale](/events/march-2018/syrus-truesdale-roaming-event/)
+- Arkana will be the newest addition to the gate, great news for those who haven't unlocked him yet
+- Jesse Anderson is back (again), less than a month after the [previous unlock event](/events/march-2018/awaken-rainbow-dragon/)
+- Tristan Taylor will be a new roaming Duelist, not unlike the [April Fools' event](/events/march-2018/attack-of-tristan-taylor/) that was held earlier this month!
+- The World Championship Qualifier will take place towards the end of May
+- Roaming Zane Truesdale will return "desiring victory" once again - c'mon Konami, let us obtain him already! 
+- And finally, the [Tag Duel event](/events/january-2018/tag-duel-tournament/) that was very generous with Gems is making a welcomed return 
+
+[slider](/img/content/news/2018/04/in-game-updates/25-upcoming-updates.jpg)
+
+---
+
+<a name="180"></a>
+## April 24th (Update 18)
+
+<br>
+
+<a name="181"></a>
+
+### [Yami Marik Returns!](/events/april-2018/yami-marik-returns/) Survey
+
+Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
+
+![](/img/content/news/2018/04/in-game-updates/24-marik-event-survey.jpg)
+
+---
+
+<a name="170"></a>
+## April 23rd (Update 17)
+
+<br>
+
+<a name="171"></a>
+
+### Battle City Event
+
+Bringing brand new cards and a new Skill for Yami Yugi! 
+
+![](/img/content/news/2018/04/in-game-updates/23-battle-city.jpg)
+
+<a name="172"></a>
+
+### Yami Marik Lvl. 50
+
+Yami Marik Lvl. 50 is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the easiest ways to defeat him and obtain the almighty {The Winged Dragon of Ra} or if you already obtained it last event, you get {Mega Ultra Chicken}! 
+
+[slider](/img/content/news/2018/04/in-game-updates/23-marik-50.jpg)
+
+---
+
+<a name="160"></a>
+## April 20th (Update 16)
+
+<br>
+
+<a name="161"></a>
+
+### Shortening of Visual Effects
+
+Shorter animations = more duels!
+
+![](/img/content/news/2018/04/in-game-updates/20-visuals.jpg)
+
+<a name="162"></a>
+
+### Update to Version 2.6.0
+
+Some decent quality of life improvements and a fix for {Ties of the Brethren}.
+
+[slider](/img/content/news/2018/04/in-game-updates/20-slider-update-version.jpg)
+
+<a name="163"></a>
+
+### Ranked Duels Challenge Stamps
+
+Get up to 90 Gems for Dueling in Ranked Duels!
+
+[slider](/img/content/news/2018/04/in-game-updates/20-ranked-duels-stamps.jpg)
+
+---
+
+<a name="150"></a>
+## April 19th (Update 15)
+
+<br>
+
+<a name="151"></a>
+
+### Bonus Reward Campaign!
+
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 26th April. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+
+[slider](/img/content/news/2018/04/in-game-updates/19-bonus-duel-reward.jpg)
+
+<a name="152"></a>
+
+### Improvements to the Duel Room
+
+Larger rooms, more tables, get your game on!  
+
+![](/img/content/news/2018/04/in-game-updates/19-duel-room.jpg)
+
+<a name="153"></a>
+
+### Yami Marik Returns
+
+Yami Marik is here, check out the [event article](/events/april-2018/yami-marik-returns/) for the best ways to farm him! 
+
+[slider](/img/content/news/2018/04/in-game-updates/19-yami-marik-event.jpg)
 
 ---
 
@@ -340,10 +487,10 @@ Here are some key points:
 - The KC Cup is starting next week
 - Another Duel-A-Thon
 - Dr. Vellian Crowler will be the newest addition to the gate, as discussed in our [Datamined Discoveries](/news/march-2018/datamined-discoveries/#new-gate-duelist) article!
-- Obtain Yami Marik: 'Different reward will be given instead to those who already own {The Winged Dragon of Ra}' - {Obelisk the Tormentor} perhaps!?
+- Obtain Yami Marik: "Different reward will be given instead to those who already own {The Winged Dragon of Ra}" - {Obelisk the Tormentor} perhaps!?
 - Battle City event - new skill for Yami Yugi!
 - Elegant Mai will return
-- Unlock a new character: 'I'm ready to take on the world' - could it be Zane Truesdale!?
+- Unlock a new character: "I'm ready to take on the world" - could it be Zane Truesdale!?
 - And finally, character level cap increases - took your time Konami! 
 
 [slider](/img/content/news/2018/03/in-game-updates/slider-upcoming-updates.jpg)
