@@ -132,18 +132,17 @@ module Jekyll
   end
 
   module FunctionsFilter
-    include CustomFunctions
 
     def url_encode(url)
-      return getEncodedUrl(url)
+      return CustomFunctions.new.getEncodedUrl(url)
     end
     
     def url_friendly(url)
-      return getFriendlyUrl(url)
+      return CustomFunctions.new.getFriendlyUrl(url)
     end
 
     def profileUrl(profile)
-      return getProfileUrlByProfile(profile)
+      return CustomFunctions.new.getProfileUrlByProfile(profile)
     end
   end
 

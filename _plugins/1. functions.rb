@@ -1,6 +1,6 @@
 require 'fileutils'
 
-module CustomFunctions
+class CustomFunctions
 
   def getEncodedUrl(url)
     return URI.escape(url, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]"))
