@@ -36,6 +36,15 @@ $(document).ready(function() {
             });
 
             skill.exclusiveDisplay = skill.exclusive ? 'Yes' : 'No';
+
+            if(skill.exclusive) {
+                skill.obtainString = skill.characters[0].name + " by " + skill.characters[0].how + " Reward"; 
+                skill.obtainLink = false;
+            }
+            else {
+                skill.obtainLink = true;
+                skill.obtainString = "";
+            } 
         }); 
 
         SkillsTableViewModel.originalSkills = sortedSkills;
