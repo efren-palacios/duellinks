@@ -95,5 +95,6 @@ function initializeCharacterFilters(skills) {
         CharacterFiltersViewModel.characters = data;
 
         ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersGX')[0]);
+        ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersDM')[0]);
     });
 };
