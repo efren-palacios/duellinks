@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Tekumse's Practice Tourney #6 Report"
+title: "Tekumse's Practice Tourney #6"
 author: Yami Hammy
 category: tournament
 sub-category: report

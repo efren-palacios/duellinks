@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-03-09
-title: "D.D. Tower: Wind and Earth Dimension"
+title: "D.D. Tower: Wind & Earth Dimension"
 author: Yami Hammy; Freeska 
 image: /img/content/events/2018/03/dd-tower-wind-and-earth-dimension/thumbnail.png
 category: event
