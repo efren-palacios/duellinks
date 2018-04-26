@@ -41,7 +41,7 @@ gulp.task('jekyll', function() {
       .on('error', gutil.log);
 });
 
-gulp.task('serve',['jekyll'], () => {
+gulp.task('serve',['jekyll','css'], () => {
   browserSync.init({
     files: [siteRoot + '/**'],
     port: 4000,
