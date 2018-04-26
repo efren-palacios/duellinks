@@ -16,7 +16,7 @@
     {% assign profile = site.data.profiles | where: "name", author | first %}
     
     {% if profile %}
-        {% assign url = profile | getProfileUrlByProfile %}
+        {% assign url = profile | profileUrl %}
         {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
 
         {% if role %}

@@ -131,6 +131,22 @@ module Jekyll
     end
   end
 
+  module FunctionsFilter
+    include CustomFunctions
+
+    def url_encode(url)
+      return getEncodedUrl(url)
+    end
+    
+    def url_friendly(url)
+      return getFriendlyUrl(url)
+    end
+
+    def profileUrl(profile)
+      return getProfileUrlByProfile(profile)
+    end
+  end
+
   module ReadingTimeFilter
     def reading_time(input)
       words_per_minute = 180
@@ -150,4 +166,5 @@ Liquid::Template.register_filter(Jekyll::ApiFilter)
 Liquid::Template.register_filter(Jekyll::YoutubeFilter)
 Liquid::Template.register_filter(Jekyll::ArrayFilter)
 Liquid::Template.register_filter(Jekyll::ContentFilter)
+Liquid::Template.register_filter(Jekyll::FunctionsFilter)
 Liquid::Template.register_filter(Jekyll::ReadingTimeFilter)
