@@ -1,10 +1,12 @@
 
-<!-- === OPTIONS === -->
-<!-- 1: Show Featured -->
-<!-- 2: Hide Article -->
-<!-- 3: Don't show ribbon -->
-<!-- 4: Don't show date -->
-<!-- 5: Don't show author -->
+{% comment %} 
+  = O-P-T-I-O-N-S =
+  1: Show Featured
+  2: Hide Article
+  3: Don't show ribbon
+  4: Don't show date
+  5: Don't show author
+{% endcomment %}
 
 {% if include.article %}
 
@@ -30,7 +32,7 @@
           <p class="sub-text">
             {% unless options contains '4' %}
               <span>Last updated: </span>
-              <span>1 week and 3 days ago </span>
+              <span>{{article.date | date: "%B %d, %Y"}} </span>
             {% endunless %}
             {% unless options contains '5' %}
               <span>by </span>
