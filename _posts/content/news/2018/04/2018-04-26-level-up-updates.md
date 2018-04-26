@@ -161,7 +161,7 @@ Incredible card with the available Amazoness support. Summon {Amazoness Princess
 
 <br>
 
-##### First 3 Cards I will Pursue:   
+##### First Three Cards I will Pursue:   
 - {Amazoness Queen} (Mai)
 - {Card Trooper} (Jaden)  
 - {Ruins of the Divine Dragon Lords} (Mokuba Kaiba) 
@@ -194,7 +194,7 @@ Incredible card with the available Amazoness support. Summon {Amazoness Princess
 
 <br>
 
-##### First 3 Cards I will Pursue:   
+##### First Three Cards I will Pursue:   
 - {Card Trooper} (Jaden)  
 - {Amazoness Queen} (Mai)  
 - {Destiny HERO - Plasma} (Aster)  
@@ -202,3 +202,82 @@ Incredible card with the available Amazoness support. Summon {Amazoness Princess
 <br>
 
 ---
+
+#### [AndyTsang](/top-player-council/andytsang/)
+
+<br>
+
+##### Will be Used in a Top-Tier Deck:  
+
+- {Amazoness Queen} (Mai)  
+- {Card Trooper} (Jaden)  
+
+<br>
+
+##### Might be Used in a Top-Tier Deck:  
+
+- {Destiny HERO - Plasma} (Aster)  
+
+<br>
+
+##### Future Potential:  
+
+- {Dark Magic Inheritance} (Yami Yugi)
+- {The Melody of Awakening Dragon} (Kaiba)  
+- {Skilled Dark Magician} (Arkana)  
+- {Carboneddon} (Bastion)  
+
+<br>
+
+##### First Three Cards I will Pursue:   
+- {Card Trooper} (Jaden)  
+- {Amazoness Queen} (Mai)  
+- No plans after that  
+
+<br>
+
+---
+
+#### [SelectMaple](/top-player-council/selectmaple/)
+
+<br>
+
+##### Will be Used in a Top-Tier Deck:  
+
+- {Card Trooper} (Jaden):  
+Will most likely best used in Archfiends as it can mill your Archfiend cards for Archfiend Emperor, The First Lord of Horror's effect and for Call of the Archfiend and Archfiend Empress targets.
+
+- {Amazoness Queen} (Mai):  
+ If Amazoness becomes a top tier deck, Amazoness Queen will most likely be used in an Amazoness deck. Amazoness Queen combos well with Amazoness Onslaught along with Amazoness Princess.
+
+<br>
+
+##### Might be Used in a Top-Tier Deck:  
+
+- {Dark Magic Inheritance} (Yami Yugi):  
+Though a card that seems underappreciated, Dark Magic Inheritance is another {Magician's Rod} for the archetype. As seen in the leaks with Spellbooks coming out in the new box, a possible mix between Dark Magician and Spellbooks could use Dark Magic Inheritance in the deck, if Spellbooks are top tier.   
+
+- {Skilled Dark Magician} (Arkana):  
+Same as Dark Magic Inheritance. Could possibly be in a {Dark Magician} and Spellbook hybrid if Spellbooks are top tier.  
+
+<br>
+
+##### Future Potential:  
+
+- {Destiny HERO - Plasma} (Aster):  
+Probably being a bit biased about this card, but I can see this card getting some play in the future due to its great effect of negating other monsters effects along with its ability to take a monster from your opponent much like {Relinquished}. Possibly with better swarming support, Destiny HERO - Plasma will see play in the future.  
+
+<br>
+
+##### First Three Cards I will Pursue:   
+
+- {Amazoness Queen} (Mai)  
+- {Card Trooper} (Jaden)  
+- {Destiny HERO - Plasma} (Aster) (My Personal Favorite)  
+
+<br>
+
+---
+
+
+
