@@ -3,6 +3,10 @@ var SkillsTableViewModel = {
     displayedSkills: ko.observableArray()
 }
 
+var CharacterFiltersViewModel = {
+    characters: []
+}
+
 $(document).ready(function() {
     $.getJSON("/data/skills.json", function(data) {
         var sortedSkills = data.sort(function(skillA, skillB){
@@ -50,6 +54,28 @@ $(document).ready(function() {
         SkillsTableViewModel.originalSkills = sortedSkills;
         SkillsTableViewModel.displayedSkills = ko.observableArray(sortedSkills);
 
-        ko.applyBindings(SkillsTableViewModel);
+        ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+
+        initializeCharacterFilters(data);
     });
 });
+
+function initializeCharacterFilters(skills) {
+    $.getJSON("/data/characters.json", function(data) {
+        $(data).each(function(index, character) {
+            character.skillCount = $(skills).filter(function(index, skill) {
+                for(var i = 0; i < skill.characters.length; i++) {
+                    if(skill.characters[i].name == character.name) return true;
+                }
+                return false;
+            }).length;
+
+            character.gx = (character.season == 'gx' ? true : false);
+            character.dm = (character.season == 'dm' ? true : false);
+        });
+
+        CharacterFiltersViewModel.characters = data;
+
+        ko.applyBindings(CharacterFiltersViewModel);
+    });
+};

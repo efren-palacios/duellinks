@@ -1,0 +1,42 @@
+[
+    {
+        "season": "dm",
+        "name": "Bandit Keith",
+        "image": "/img/characters/portrait-bandit-keith.png"
+    },
+    {
+        "season": "gx",
+        "name": "Dr. Vellian Crowler",
+        "image": "/img/characters/portrait-vellian-crowler.png"
+    },
+    {
+        "season": "gx",
+        "name": "Jaden Yuki",
+        "image": "/img/characters/portrait-jaden-yuki.png"
+    },
+    {
+        "season": "gx",
+        "name": "Chazz Princeton",
+        "image": "/img/characters/portrait-chazz-princeton.png"
+    },
+    {
+        "season": "gx",
+        "name": "Aster Phoenix",
+        "image": "/img/characters/portrait-aster-phoenix.png"
+    },
+    {
+        "season": "gx",
+        "name": "Bastion Misawa",
+        "image": "/img/characters/portrait-bastion-misawa.png"
+    },
+    {
+        "season": "gx",
+        "name": "Alexis Rhodes",
+        "image": "/img/characters/portrait-alexis-rhodes.png"
+    },
+    {
+        "season": "gx",
+        "name": "Jesse Anderson",
+        "image": "/img/characters/portrait-jesse-anderson.png"
+    }
+]
