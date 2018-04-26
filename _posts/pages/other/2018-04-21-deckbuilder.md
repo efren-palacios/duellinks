@@ -68,11 +68,14 @@ hide: true
     <button type="button" onclick="loaddeck(4)" class="btn btn-secondary">Load slot 4</button>
     <button type="button" onclick="savedeck(5)" class="btn btn-info">Save to slot 5</button>
     <button type="button" onclick="loaddeck(5)" class="btn btn-secondary">Load slot 5</button>
-    <br>
-    <button type="button" onclick="pushToPlaytester()" class="btn btn-success">Push to playtester</button>
-    <button type="button" onclick="saveDeckOnline()" class="btn btn-success">Save online</button>
-    <input type="text" class="form-control" id="decklink" readonly>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="btn btn-success" onclick="saveDeckOnline()" id="inputGroup-sizing-default">Save online</span>
+        </div>
+        <input type="text" class="form-control" id="decklink" aria-label="Default" aria-describedby="inputGroup-sizing-default" readonly>
+    </div>
     <div class="text-center">
+        <button type="button" onclick="pushToPlaytester()" class="btn btn-success">Push deck to playtester</button>
         <a style='margin: 1rem 0;' id="play" class='btn btn-success' role='button'><i class='fa fa-play-circle' aria-hidden='true'></i> Play Test Deck</a>
         <div id="playtest" title="Playtest Beta">
             <div class="game-board">

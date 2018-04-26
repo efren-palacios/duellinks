@@ -20,10 +20,6 @@ if (saveCode) {
             AddCardToUserDeck(card);
         })
     });
-    /*var loadedDeckData = JSON.parse($.get());
-    loadedDeckData.forEach(function (card) {
-        AddCardToUserDeck(card);
-    })*/
 }
 
 
@@ -246,9 +242,17 @@ function pushToPlaytester() {
     var index;
     for (index = 0; index < deckStorage.length; ++index) {
         if (index == deckStorage.length - 1) {
-            playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":0,"amount":1}';
+            if (deckStorage[index].isExtra == true) {
+                playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":1,"amount":1}';
+            } else {
+                playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":0,"amount":1}';
+            }
         } else {
-            playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":0,"amount":1},';
+            if (deckStorage[index].isExtra == true) {
+                playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":1,"amount":1},';
+            } else {
+                playtesterImportStr = playtesterImportStr + '{"name":"' + encodeURI(deckStorage[index].name) + '","deck":0,"amount":1},';
+            }
         }
     }
 
