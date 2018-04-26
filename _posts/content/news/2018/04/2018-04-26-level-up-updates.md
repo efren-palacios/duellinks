@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-26 17:20:00 -0400
+date: 2018-04-26 17:45:00 -0400
 title: Character Level 45 Rewards 
 author: Jonesy9027
 image: /img/content/guides/banner3.jpg
@@ -159,3 +159,46 @@ A 1900 beater after milling 3, and gives you a free draw when destroyed. Graveya
 - {Amazoness Queen} (Mai):  
 Incredible card with the available Amazoness support. Summon {Amazoness Princess} (coming with Elegant Mai), search {Amazoness Onslaught}, attack with Princess to summon Queen. If Queen was already in your hand, just wait until you can summon it with the Onslaught you just searched.  
 
+<br>
+
+##### First 3 Cards I will Pursue:   
+- {Amazoness Queen} (Mai)
+- {Card Trooper} (Jaden)  
+- {Ruins of the Divine Dragon Lords} (Mokuba Kaiba) 
+ 
+<br>
+
+---
+
+#### [Jason](/top-player-council/jason/)
+
+<br>
+
+##### Will be Used in a Top-Tier Deck:  
+
+- {Card Trooper} (Jaden)
+
+<br>
+
+##### Might be Used in a Top-Tier Deck:  
+
+- None at the moment
+
+<br>
+
+##### Future Potential:  
+
+- {The Melody of Awakening Dragon} (Kaiba)  
+- {Amazoness Queen} (Mai)  
+- {Dark Ruler Ha Des} (Yami Bakura)  
+
+<br>
+
+##### First 3 Cards I will Pursue:   
+- {Card Trooper} (Jaden)  
+- {Amazoness Queen} (Mai)  
+- {Destiny HERO - Plasma} (Aster)  
+
+<br>
+
+---
