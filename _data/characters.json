@@ -1,0 +1,132 @@
+[
+    {
+        "season": "dm",
+        "name": "Bandit Keith",
+        "image": "/img/characters/portrait-bandit-keith.png"
+    },
+    {
+        "season": "dm",
+        "name": "Ishizu Ishtar",
+        "image": "/img/characters/portrait-ishizu-ishtar.png"
+    },
+    {
+        "season": "dm",
+        "name": "Joey Wheeler",
+        "image": "/img/characters/portrait-joey-wheeler.png"
+    },
+    {
+        "season": "dm",
+        "name": "Mai Valentine",
+        "image": "/img/characters/portrait-mai-valentine.png"
+    },
+    {
+        "season": "dm",
+        "name": "Mako Tsunami",
+        "image": "/img/characters/portrait-mako-tsunami.png"
+    },
+    {
+        "season": "dm",
+        "name": "Maximillion Pegasus",
+        "image": "/img/characters/portrait-maximillion-pegasus.png"
+    },
+    {
+        "season": "dm",
+        "name": "Odion",
+        "image": "/img/characters/portrait-odion.png"
+    },
+    {
+        "season": "dm",
+        "name": "Paradox Brothers",
+        "image": "/img/characters/portrait-paradox-brothers.png"
+    },
+    {
+        "season": "dm",
+        "name": "Rex Raptor",
+        "image": "/img/characters/portrait-rex-raptor.png"
+    },
+    {
+        "season": "dm",
+        "name": "Seto Kaiba",
+        "image": "/img/characters/portrait-seto-kaiba.png"
+    },
+    {
+        "season": "dm",
+        "name": "Tea Gardner",
+        "image": "/img/characters/portrait-tea-gardner.png"
+    },
+    {
+        "season": "dm",
+        "name": "Weevil Underwood",
+        "image": "/img/characters/portrait-weevil-underwood.png"
+    },
+    {
+        "season": "dm",
+        "name": "Yami Bakura",
+        "image": "/img/characters/portrait-yami-bakura.png"
+    },
+    {
+        "season": "dm",
+        "name": "Yami Yugi",
+        "image": "/img/characters/portrait-yami-yugi.png"
+    },
+    {
+        "season": "dm",
+        "name": "Yugi Muto",
+        "image": "/img/characters/portrait-yugi-muto.png"
+    },
+    {
+        "season": "dm",
+        "name": "Mokuba Kaiba",
+        "image": "/img/characters/portrait-mokuba.png"
+    },
+    {
+        "season": "dm",
+        "name": "Arkana",
+        "image": "/img/characters/portrait-arkana.png"
+    },
+    {
+        "season": "dm",
+        "name": "Bonz",
+        "image": "/img/characters/portrait-bonz.png"
+    },
+    {
+        "season": "dm",
+        "name": "Yami Marik",
+        "image": "/img/characters/portrait-yami-marik.png"
+    },
+    {
+        "season": "gx",
+        "name": "Dr. Vellian Crowler",
+        "image": "/img/characters/portrait-vellian-crowler.png"
+    },
+    {
+        "season": "gx",
+        "name": "Jaden Yuki",
+        "image": "/img/characters/portrait-jaden-yuki.png"
+    },
+    {
+        "season": "gx",
+        "name": "Chazz Princeton",
+        "image": "/img/characters/portrait-chazz-princeton.png"
+    },
+    {
+        "season": "gx",
+        "name": "Aster Phoenix",
+        "image": "/img/characters/portrait-aster-phoenix.png"
+    },
+    {
+        "season": "gx",
+        "name": "Bastion Misawa",
+        "image": "/img/characters/portrait-bastion-misawa.png"
+    },
+    {
+        "season": "gx",
+        "name": "Alexis Rhodes",
+        "image": "/img/characters/portrait-alexis-rhodes.png"
+    },
+    {
+        "season": "gx",
+        "name": "Jesse Anderson",
+        "image": "/img/characters/portrait-jesse-anderson.png"
+    }
+]

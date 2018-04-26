@@ -1,0 +1,12 @@
+---
+---
+[
+    {% assign characters = site.data.characters %}
+    {% for character in characters %}
+        {
+            "name": "{{ character.name }}",
+            "season": "{{ character.season }}",
+            "image": "{{ character.image }}"
+        }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

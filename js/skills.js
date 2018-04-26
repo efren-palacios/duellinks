@@ -1,6 +1,28 @@
 var SkillsTableViewModel = {
     originalSkills: [],
-    displayedSkills: ko.observableArray()
+    displayedSkills: ko.observableArray()    
+}
+
+var CharacterFiltersViewModel = {
+    characters: [],
+    activeCharacter: ko.observable(""),
+    filterByCharacter: function(character) {
+        if(CharacterFiltersViewModel.activeCharacter() != character.name) {
+            SkillsTableViewModel.displayedSkills($(SkillsTableViewModel.originalSkills).filter(function(index, skill) {
+                for(var i = 0; i < skill.characters.length; i++) {
+                    if(character.name == skill.characters[i].name) return true;
+                }
+                return false; 
+            }));
+
+            CharacterFiltersViewModel.activeCharacter(character.name);
+        }
+        else {
+            SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
+
+            CharacterFiltersViewModel.activeCharacter("");
+        }                
+    }
 }
 
 $(document).ready(function() {
@@ -36,11 +58,43 @@ $(document).ready(function() {
             });
 
             skill.exclusiveDisplay = skill.exclusive ? 'Yes' : 'No';
+
+            if(skill.exclusive) {
+                skill.obtainString = skill.characters[0].name + " by " + skill.characters[0].how + " Reward"; 
+                skill.obtainLink = false;
+            }
+            else {
+                skill.obtainLink = true;
+                skill.obtainString = "";
+            } 
         }); 
 
         SkillsTableViewModel.originalSkills = sortedSkills;
         SkillsTableViewModel.displayedSkills = ko.observableArray(sortedSkills);
 
-        ko.applyBindings(SkillsTableViewModel);
+        ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+
+        initializeCharacterFilters(data);
     });
 });
+
+function initializeCharacterFilters(skills) {
+    $.getJSON("/data/characters.json", function(data) {
+        $(data).each(function(index, character) {
+            character.skillCount = $(skills).filter(function(index, skill) {
+                for(var i = 0; i < skill.characters.length; i++) {
+                    if(skill.characters[i].name == character.name) return true;
+                }
+                return false;
+            }).length;
+
+            character.gx = character.season == 'gx' ? true : false;
+            character.dm = character.season == 'dm' ? true : false;
+        });
+
+        CharacterFiltersViewModel.characters = data;
+
+        ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersGX')[0]);
+        ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersDM')[0]);
+    });
+};
