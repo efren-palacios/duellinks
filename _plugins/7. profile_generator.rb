@@ -59,7 +59,7 @@ module Jekyll
                 
                 current_profile = profiles[profile_key]
 
-                location = getProfileUrlByProfile(current_profile)
+                location = self.class.new.getProfileUrlByProfile(current_profile)
 
                 site.pages << ProfilePage.new(site, site.source, location, profile_key)
             end
