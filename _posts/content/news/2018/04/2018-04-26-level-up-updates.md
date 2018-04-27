@@ -157,13 +157,13 @@ Will most likely best used in Archfiends as it can mill your Archfiend cards for
 If Amazoness becomes a top tier Deck, Amazoness Queen will most likely be used in an Amazoness Deck. Amazoness Queen combos well with Amazoness Onslaught along with Amazoness Princess.
 
 ##### Might be Used in a Top-Tier Deck
-- {Dark Magic Inheritance}: 
+- {Dark Magic Inheritance}:  
 Though a card that seems underappreciated, Dark Magic Inheritance is another {Magician's Rod} for the archetype. As seen in the leaks with Spellbooks coming out in the new box, a possible mix between Dark Magician and Spellbooks could use Dark Magic Inheritance in the Deck, if Spellbooks are top tier.   
 - {Skilled Dark Magician}:  
 Same as Dark Magic Inheritance. Could possibly be in a {Dark Magician} and Spellbook hybrid if Spellbooks are top tier.  
 
 ##### Future Potential
-- {Destiny HERO - Plasma:  
+- {Destiny HERO - Plasma}:  
 Probably being a bit biased about this card, but I can see this card getting some play in the future due to its great effect of negating other Monsters effects along with its ability to take a Monster from your opponent much like {Relinquished}. Possibly with better swarming support, Destiny HERO - Plasma will see play in the future.  
 
 ##### First Three Cards I will Pursue
