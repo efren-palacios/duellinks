@@ -3,5 +3,10 @@
         "name": "Bowganian",
         "rarity": "R",
         "level": 14
+    },
+    {
+        "name": "Newdoria",
+        "rarity": "SR",
+        "level": 45
     }
 ]

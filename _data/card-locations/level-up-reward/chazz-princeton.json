@@ -13,5 +13,10 @@
         "name": "Ojama Knight",
         "rarity": "R",
         "level": 38
+    },
+    {
+        "name": "Ojamassimilation",
+        "rarity": "SR",
+        "level": 45
     }
 ]

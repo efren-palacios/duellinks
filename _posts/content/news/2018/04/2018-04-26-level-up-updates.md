@@ -6,7 +6,7 @@ author: Jonesy9027
 image: /img/content/guides/banner3.jpg
 category: news
 comments: true
-description: Character maximum levels increased! Find out who to level up first and who has the best rewards!
+description: The character level cap has been increased! Find out who to level up first and who has the best rewards!
 keywords: news, rewards, new cards, charcter, alexis, yugi, kaiba, tpc
 permalink: /news/april-2018/level-45-rewards/
 pinned: true
@@ -14,275 +14,163 @@ pinned: true
 
 {% include heading.html title=page.title author=page.author %}
 
+### New LVL: 45 Cards
+After almost a year of stagnation, the character level cap was increased to LVL: 45 with many Duelist getting new, unique rewards! 
+   
+The [Top Player Council](/top-player-council/) have also reviewed the new cards and given their thoughts below, including which Duelist Reward you should aim for first!
 
-### New Cards - Level 45
-Character Level 45 Rewards were added on 26 April, 2018. You will find the Card Rewards for Characters in the Duel Monsters and GX worlds. The Top Player Council has reviewed the new drops and given their opinions below.
-<br>
-
-#### Duel Monsters  
-[deck](Dark magic Inheritance;The Melody of Awakening Dragon;Blue Flame Swordsman;Amazoness Queen;Miraculous Descent;Tackle Crusader;Howling Insect;Overtex Qoatlus;Aegis of the Ocean Dragon Lord;Newdoria;Dark Ruler Ha Des;Proton Blast;Gravekeeper's Visionary;Toon Gemini Elf;Ruins of the Divine Dragon Lords;Jirai Gumo;Skilled Dark Magician;King of the Skull Servants;Quantum Cat)
-
-- Yami Yugi: Dark magic Inheritance  
-- Seta Kaiba: The Melody of Awakening Dragon  
-- Joey Wheeler: Blue Flame Swordsman  
-- Mai Valentine: Amazoness Queen  
-- Téa Gardner: Miraculous Descent  
-- Yugi Muto: Tackle Crusader  
-- Weevil Underwood: Howling Insect  
-- Rex Raptor: Overtex Qoatlus  
-- Mako Tsunami: Aegis of the Ocean Dragon Lord  
-- Yami Marik: Newdoria  
-- Yami Bakura: Dark Ruler Ha Des  
-- Bandit Keith: Proton Blast  
-- Ishizu Ishtar: Gravekeeper's Visionary  
-- Maximillion Pegasus: Toon Gemini Elf  
-- Mokuba Kaiba: Ruins of the Divine Dragon Lords  
-- Paradox Brothers: Jirai Gumo  
-- Arkana: Skilled Dark Magician  
-- Bonz: King of the Skull Servants  
-- Odion: Quantum Cat  
+[deck](Dark Magic Inheritance; The Melody of Awakening Dragon; Blue Flame Swordsman; Amazoness Queen; Miraculous Descent; Tackle Crusader; Howling Insect; Overtex Qoatlus; Aegis of the Ocean Dragon Lord; Newdoria; Dark Ruler Ha Des; Proton Blast; Gravekeeper's Visionary; Toon Gemini Elf; Ruins of the Divine Dragon Lords; Jirai Gumo; Skilled Dark Magician; King of the Skull Servants; Quantum Cat; Card Trooper; Destiny Hero - Plasma; Crystal Bond; Ojamassimilation; Swing of Memories; Ancient Gear Box; Carboneddon)
 
 <br>
-
----
-
-#### GX 
-[deck](Card Trooper;Destiny Hero - Plasma;Crystal Bond;Ojamassimilation;Swing of Memories;Ancient Gear Box;Carboneddon)
-
-- Jaden Yuki: Card Trooper  
-- Aster Phoenix: Destiny Hero - Plasma  
-- Jesse Anderson: Crystal Bond  
-- Chazz Princeton: Ojamassimilation  
-- Alexis Rhodes: Swing of Memories  
-- Dr Vellian Crowler: Ancient Gear Box  
-- Bastion Misawa: Carboneddon  
-
-<br>
-
----
 
 ### Top Player Council Thoughts
 
-#### [Superforms](/top-player-council/superforms/)
+#### [Superforms](/top-player-council/superforms/) says:
 
 <br>
 
-##### Trash:
+##### Trash
+- {Tackle Crusader}
+- {Ancient Gear Box}
+- {Jirai Gumo}
+- {Newdoria}
 
-- {Tackle Crusader} (Yugi Muto)
-- {Ancient Gear Box} (Crowler)
-- {Jirai Gumo} (Paradox Brothers)
-- {Newdoria} (Marik)
-
-<br>
-
-##### Came Too Late:  
-
-- {Blue Flame Swordsman} (Joey):  
+##### Came Too Late 
+- {Blue Flame Swordsman}:  
 Would have been nice months ago, irrelevant now. Probably best with Six Samurais (with {Hand of the Six Samurai} and {Great Shogun Shien}), and it doesn’t seem that great there.  
+- {Gravekeeper's Visionary}:  
+A nice boss Monster but will do very little for GK in the current meta. Really doesn't help that he can't be searched by {Gravekeeper's Recruiter}.  
+- {Toon Gemini Elf}:  
+An instant addition to Toon Decks, but does not bring Toon Decks out of irrelevancy.  
 
-- {Gravekeeper's Visionary} (Ishizu):  
-A nice boss monster but will do very little for GK in the current meta. Really doesn't help that he can't be searched by {Gravekeeper's Recruiter}.  
-
-- {Toon Gemini Elf} (Pegasus):  
-An instant addition to Toon decks, but does not bring Toon decks out of irrelevancy.  
-
-<br>
-
-##### YouTube:
-
-- {Proton Blast} (Keith):  
+##### YouTube
+- {Proton Blast}:  
 YouTube fun.  
+- {Ojamassimilation}:  
+Banishes Ojama Monsters in exchange for Fusion materials. Pure YouTube.  
+- {King of the Skull Servants}:  
+Now available at 3x. This is just a fun YouTube Deck.  
+- {Overtex Qoatlus}:  
+Apparently relevant in the TCG, it seems like it lacks the support to have any impact in Duel Links right now. It has obvious synergy with {Survival Instinct} and {Tyranno Infinity}, and may make a good YouTube Deck.  
 
-- {Ojamassimilation} (Chazz):  
-Banishes Ojama monsters in exchange for Fusion materials. Pure YouTube.  
-
-- {King of the Skull Servants} (Bonz):  
-Now available at 3x. This is just a fun YouTube deck.  
-
-- {Overtex Qoatlus} (Rex):  
-Apparently relevant in the TCG, it seems like it lacks the support to have any impact in Duel Links right now. It has obvious synergy with {Survival Instinct} and {Tyranno Infinity}, and may make a good YouTube deck.  
-
-<br>
-
-##### Future Potential:  
-
-- {Miraculous Descent} (Téa):  
+##### Future Potential
+- {Miraculous Descent}:  
 Combos nicely with {Cards from the Sky} but lacks good targets.  
-
-- Quantum Cat (Odion):  
+- {Quantum Cat}:  
 Just {Swamp Mirrorer} with different stats, and useless in Hazy thanks to 0 ATK. Future potential with new summoning mechanics.  
-
-- {Carboneddon} (Bastion):  
+- {Carboneddon}:  
 A free vanilla Red-Eyes summon. Maybe future potential.  
+- {The Melody of Awakening Dragon}:  
+Searches Blue-Eyes Monsters, {Dark Horus}, {Rainbow Dragon}, and {Armed Dragon LV10}. Lack of good targets keeps this at "future potential".   
 
-- {The Melody of Awakening Dragon} (Kaiba):  
-Searches Blue-Eyes monsters, {Dark Horus}, {Rainbow Dragon}, and {Armed Dragon LV10}. Lack of good targets makes this keeps this at “future potential”.   
-
-<br>
-
-##### Support for Non-Meta Decks:  
-
-- {Howling Insect} (Weevil):  
-Nice little buff for Insect Queen decks as it floats into {Pinch Hopper}/{Resonance Insect}.  
-
-- {Crystal Bond} (Jesse):  
+##### Support for Non-Meta Decks  
+- {Howling Insect}:  
+Nice little buff for Insect Queen Decks as it floats into {Pinch Hopper}/{Resonance Insect}.  
+- {Crystal Bond}:  
 The best Crystal Beast card we have right now, but likely not good enough to make the archetype relevant.  
-
-- {Aegis of the Ocean Dragon Lord}(Mako):   
+- {Aegis of the Ocean Dragon Lord}:   
 A nice protection card in Paleozoics, and can be used to trigger the Paleo effects (even when you have none on the field).  
+- {Swing of Memories}:  
+Now at 2x, a card with definite future potential that was used in the past with Gemini Monsters. Does not seem to have a great place in a top-tier Deck right now.  
 
-- {Swing of Memories} (Alexis):  
-Now at 2x, a card with definite future potential that was used in the past with Gemini monsters. Does not seem to have a great place in a top-tier deck right now.  
-
-<br>
-
-##### Support for Potential Top-Tier Decks:  
-
-- {Skilled Dark Magician} (Arkana):  
-A second copy allows {Dark Magician} decks to start filling out their monster line-up without {Sergeant Electro}, which has been badly needed for a while. Works well with {Skilled Blue Magician} (currently a drop in the [Battle City](/events/april-2018/battle-city-showdown/) event).  
-
-- {Dark Magic Inheritance} (Yami Yugi):  
+##### Support for Potential Top-Tier Decks  
+- {Skilled Dark Magician}:  
+A second copy allows {Dark Magician} Decks to start filling out their Monster line-up without {Sergeant Electro}, which has been badly needed for a while. Works well with {Skilled Blue Magician} (currently a drop in the [Battle City](/events/april-2018/battle-city-showdown/) event).  
+- {Dark Magic Inheritance}:  
 May possibly work well with Spellbooks (coming in the next minibox) and can search for {Dark Magic Curtain} (or {Thousand Knives}/{Dark Magic Attack} if Curtain was already searched by {Magician's Rod}).  
-
-- {Dark Ruler Ha Des} (Bakura):  
-A very appreciated second copy, and a nice buff to [Treeborn Tribute](/guides/deck-types/treeborn-guide-by-xb8/) decks.  
-
-- {Destiny HERO - Plasma} (Aster):  
+- {Dark Ruler Ha Des}:  
+A very appreciated second copy, and a nice buff to [Treeborn Tribute](/guides/Deck-types/treeborn-guide-by-xb8/) Decks.  
+- {Destiny HERO - Plasma}:  
 A second copy, and still an amazing card. Struggles to deal with {Enemy Controller}, but has insane lockdown potential if protected. {Forbidden Chalice} being common will likely hold this card back.  
-
-- {Ruins of the Divine Dragon Lords} (Mokuba):  
+- {Ruins of the Divine Dragon Lords}:  
 A second copy of a great card. {Paladin of Felgrand} + Ruins = any Dragon from your Deck, and would be a nice way to turbo out {White Night Dragon} (coming in the next minibox).  
+- {Card Trooper}:  
+A 1900 beater after milling 3, and gives you a free draw when destroyed. Graveyard-fueled Decks like [Archfiends](/tier-list/Deck-types/archfiends/) will test this card, comparing it to {Lyla, Lightsworn Sorceress}.  
 
-- {Card Trooper} (Jaden):  
-A 1900 beater after milling 3, and gives you a free draw when destroyed. Graveyard-fueled decks like [Archfiends](/tier-list/deck-types/archfiends/) will test this card, comparing it to {Lyla, Lightsworn Sorceress}.  
-
-<br>
-
-##### Will be Used in a Top-Tier Deck:
-
-- {Amazoness Queen} (Mai):  
+##### Will be Used in a Top-Tier Deck
+- {Amazoness Queen}:  
 Incredible card with the available Amazoness support. Summon {Amazoness Princess} (coming with Elegant Mai), search {Amazoness Onslaught}, attack with Princess to summon Queen. If Queen was already in your hand, just wait until you can summon it with the Onslaught you just searched.  
 
-<br>
-
-##### First Three Cards I will Pursue:   
-- {Amazoness Queen} (Mai)
-- {Card Trooper} (Jaden)  
-- {Ruins of the Divine Dragon Lords} (Mokuba Kaiba) 
+##### First Three Cards I will Pursue 
+- {Amazoness Queen}
+- {Card Trooper}
+- {Ruins of the Divine Dragon Lords}
  
-<br>
-
 ---
 
-#### [Jason](/top-player-council/jason/)
+#### [Jason](/top-player-council/jason/) says:
 
 <br>
 
-##### Will be Used in a Top-Tier Deck:  
+##### Will be Used in a Top-Tier Deck
+- {Card Trooper}
 
-- {Card Trooper} (Jaden)
-
-<br>
-
-##### Might be Used in a Top-Tier Deck:  
-
+##### Might be Used in a Top-Tier Deck  
 - None at the moment
 
-<br>
+##### Future Potential
+- {The Melody of Awakening Dragon}
+- {Amazoness Queen}
+- {Dark Ruler Ha Des}
 
-##### Future Potential:  
-
-- {The Melody of Awakening Dragon} (Kaiba)  
-- {Amazoness Queen} (Mai)  
-- {Dark Ruler Ha Des} (Yami Bakura)  
-
-<br>
-
-##### First Three Cards I will Pursue:   
-- {Card Trooper} (Jaden)  
-- {Amazoness Queen} (Mai)  
-- {Destiny HERO - Plasma} (Aster)  
-
-<br>
+##### First Three Cards I will Pursue 
+- {Card Trooper} 
+- {Amazoness Queen}  
+- {Destiny HERO - Plasma}
 
 ---
 
-#### [AndyTsang](/top-player-council/andytsang/)
+#### [AndyTsang](/top-player-council/andytsang/) says:
 
 <br>
 
-##### Will be Used in a Top-Tier Deck:  
+##### Will be Used in a Top-Tier Deck
+- {Amazoness Queen}
+- {Card Trooper}  
 
-- {Amazoness Queen} (Mai)  
-- {Card Trooper} (Jaden)  
+##### Might be Used in a Top-Tier Deck
 
-<br>
+- {Destiny HERO - Plasma}
 
-##### Might be Used in a Top-Tier Deck:  
+##### Future Potential
 
-- {Destiny HERO - Plasma} (Aster)  
+- {Dark Magic Inheritance}
+- {The Melody of Awakening Dragon} 
+- {Skilled Dark Magician}  
+- {Carboneddon}  
 
-<br>
-
-##### Future Potential:  
-
-- {Dark Magic Inheritance} (Yami Yugi)
-- {The Melody of Awakening Dragon} (Kaiba)  
-- {Skilled Dark Magician} (Arkana)  
-- {Carboneddon} (Bastion)  
-
-<br>
-
-##### First Three Cards I will Pursue:   
-- {Card Trooper} (Jaden)  
-- {Amazoness Queen} (Mai)  
-- No plans after that  
-
-<br>
+##### First Three Cards I will Pursue
+- {Card Trooper}
+- {Amazoness Queen}
+- No plans after that!
 
 ---
 
-#### [SelectMaple](/top-player-council/selectmaple/)
+#### [SelectMaple](/top-player-council/selectmaple/) says:
 
 <br>
 
-##### Will be Used in a Top-Tier Deck:  
-
-- {Card Trooper} (Jaden):  
+##### Will be Used in a Top-Tier Deck
+- {Card Trooper}:  
 Will most likely best used in Archfiends as it can mill your Archfiend cards for Archfiend Emperor, The First Lord of Horror's effect and for Call of the Archfiend and Archfiend Empress targets.
+- {Amazoness Queen}:  
+If Amazoness becomes a top tier Deck, Amazoness Queen will most likely be used in an Amazoness Deck. Amazoness Queen combos well with Amazoness Onslaught along with Amazoness Princess.
 
-- {Amazoness Queen} (Mai):  
- If Amazoness becomes a top tier deck, Amazoness Queen will most likely be used in an Amazoness deck. Amazoness Queen combos well with Amazoness Onslaught along with Amazoness Princess.
-
-<br>
-
-##### Might be Used in a Top-Tier Deck:  
-
-- {Dark Magic Inheritance} (Yami Yugi):  
-Though a card that seems underappreciated, Dark Magic Inheritance is another {Magician's Rod} for the archetype. As seen in the leaks with Spellbooks coming out in the new box, a possible mix between Dark Magician and Spellbooks could use Dark Magic Inheritance in the deck, if Spellbooks are top tier.   
-
-- {Skilled Dark Magician} (Arkana):  
+##### Might be Used in a Top-Tier Deck
+- {Dark Magic Inheritance}: 
+Though a card that seems underappreciated, Dark Magic Inheritance is another {Magician's Rod} for the archetype. As seen in the leaks with Spellbooks coming out in the new box, a possible mix between Dark Magician and Spellbooks could use Dark Magic Inheritance in the Deck, if Spellbooks are top tier.   
+- {Skilled Dark Magician}:  
 Same as Dark Magic Inheritance. Could possibly be in a {Dark Magician} and Spellbook hybrid if Spellbooks are top tier.  
 
-<br>
+##### Future Potential
+- {Destiny HERO - Plasma:  
+Probably being a bit biased about this card, but I can see this card getting some play in the future due to its great effect of negating other Monsters effects along with its ability to take a Monster from your opponent much like {Relinquished}. Possibly with better swarming support, Destiny HERO - Plasma will see play in the future.  
 
-##### Future Potential:  
-
-- {Destiny HERO - Plasma} (Aster):  
-Probably being a bit biased about this card, but I can see this card getting some play in the future due to its great effect of negating other monsters effects along with its ability to take a monster from your opponent much like {Relinquished}. Possibly with better swarming support, Destiny HERO - Plasma will see play in the future.  
-
-<br>
-
-##### First Three Cards I will Pursue:   
-
-- {Amazoness Queen} (Mai)  
-- {Card Trooper} (Jaden)  
-- {Destiny HERO - Plasma} (Aster) (My Personal Favorite)  
-
-<br>
+##### First Three Cards I will Pursue
+- {Amazoness Queen} 
+- {Card Trooper}  
+- My personal favorite: {Destiny HERO - Plasma}!  
 
 ---
 
-
-
+***Which cards are you going for first? Let us know in the comments below!***
