@@ -35,6 +35,7 @@ var CharacterFiltersViewModel = {
 
 var PaginationViewModel = {
     pages: ko.observableArray(),
+    unindexedPages: [],
     currentPage: ko.observable(1),
     resetPagination: function() {
         var skillCount = SkillsTableViewModel.displayedSkills().length;
@@ -42,21 +43,10 @@ var PaginationViewModel = {
         for(var i = 0; i < pageArray.length; i++) {
             pageArray[i] = i + 1;
         }
-        this.pages(pageArray);
+        this.unindexedPages = pageArray;
 
         SkillsTableViewModel.unpagedSkills = SkillsTableViewModel.displayedSkills(); 
-        var firstPageArray = [];       
-        for(var i = 0; i < 10; i++) {
-            if(SkillsTableViewModel.unpagedSkills[i]) {
-                firstPageArray.push(SkillsTableViewModel.unpagedSkills[i]);
-            }
-            else {
-                break;
-            }
-        }
-        SkillsTableViewModel.displayedSkills(firstPageArray);
-
-        this.currentPage(1);
+        this.selectPage(1);
     },
     selectPage: function(page) {
         var currentPageArray = [];       
@@ -71,6 +61,18 @@ var PaginationViewModel = {
         SkillsTableViewModel.displayedSkills(currentPageArray);  
         
         PaginationViewModel.currentPage(page);
+
+        var pageStart = page; 
+        var pageEnd = page + 9;
+        if(pageEnd > PaginationViewModel.unindexedPages.length) {            
+            pageEnd = PaginationViewModel.unindexedPages.length;    
+            pageStart = PaginationViewModel.unindexedPages.length > 10 ? PaginationViewModel.unindexedPages.length - 9 : 1;  
+        } 
+        var currentPages = [];
+        for(var j = (pageStart - 1); j < pageEnd; j++) {
+            currentPages.push(PaginationViewModel.unindexedPages[j]);
+        }
+        PaginationViewModel.pages(currentPages);
     }  
 }
 
