@@ -24,6 +24,8 @@ var CharacterFiltersViewModel = {
             $('#searchButton').attr('disabled', 'disabled'); 
 
             PaginationViewModel.resetPagination();
+
+            if($('#SkillsTable').offset().top > $(window).height()) $('.page-wrapper').animate({scrollTop: $('#SkillsTable').offset().top}, 1500);            
         }
         else {
             SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
