@@ -7,6 +7,7 @@
   4: Don't show date
   5: Don't show author
   6: 3 columns i/o 2
+  7: timeago date
 {% endcomment %}
 
 {% if include.article %}
@@ -14,8 +15,11 @@
   {% assign article = include.article %}
   {% assign options = include.options | remove: " " | split: ',' %}
 
+  {% if include.date %} {% assign date = include.date %} {% else %} {% assign date = article.date %} {% endif %}
+
   {% if options contains '2' %} {% assign display = "hidden" %} {% endif %}
   {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-sm-6" %} {% endif %}
+  {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %d, %Y" %} {% endif %}
 
   <div class="card-container {{columns}} col-12 {{display}}">
     <div class="article-card ">
@@ -32,7 +36,7 @@
           <p class="sub-text">
             {% unless options contains '4' %}
               <span>Last updated: </span>
-              <span>{{article.date | date: "%B %d, %Y"}} </span>
+              <span>{{formattedDate}} </span>
             {% endunless %}
             {% unless options contains '5' %}
               <span>by </span>
