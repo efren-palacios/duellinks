@@ -20,11 +20,15 @@ var CharacterFiltersViewModel = {
 
             $('#skillSearch').val("");
             $('#searchButton').attr('disabled', 'disabled'); 
+
+            PaginationViewModel.resetPagination();
         }
         else {
             SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
 
             CharacterFiltersViewModel.activeCharacter("");
+
+            PaginationViewModel.resetPagination();
         }                
     }
 }
@@ -51,6 +55,8 @@ var PaginationViewModel = {
             }
         }
         SkillsTableViewModel.displayedSkills(firstPageArray);
+
+        this.currentPage(1);
     },
     selectPage: function(page) {
         var currentPageArray = [];       
@@ -165,6 +171,8 @@ function filterBySearch() {
     }));
 
     CharacterFiltersViewModel.activeCharacter("");
+
+    PaginationViewModel.resetPagination();
 };
 
 function resetFilterSearch() {
@@ -174,4 +182,6 @@ function resetFilterSearch() {
     $('#searchButton').attr('disabled', 'disabled');    
 
     CharacterFiltersViewModel.activeCharacter("");
+
+    PaginationViewModel.resetPagination();
 };
