@@ -71,7 +71,7 @@ var PaginationViewModel = {
         SkillsTableViewModel.displayedSkills(currentPageArray);  
         
         PaginationViewModel.currentPage(page);
-    }   
+    }  
 }
 
 $(document).ready(function() {
