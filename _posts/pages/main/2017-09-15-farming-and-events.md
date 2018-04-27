@@ -29,10 +29,12 @@ permalink: /farming-and-events/
 {% include heading.html title='Farming' %}
 {% assign farm-all-chars = site.posts | where: "permalink", "/farming/all-characters/" | first %}
 {% assign duel-ass-score = site.posts | where: "permalink", "/farming/duel-assessment-score/" | first %}
+{% assign skills = site.posts | where: "permalink", "/skills/" | first %}
 
 <div class="row card-collection">
-  {% include articles/article.html article=farm-all-chars options='3, 4, 5' %}
-  {% include articles/article.html article=duel-ass-score options='3, 4, 5' %}
+  {% include articles/article.html article=farm-all-chars options='3, 4, 5, 6' %}
+  {% include articles/article.html article=duel-ass-score options='3, 4, 5, 6' %}
+  {% include articles/article.html article=skills options='3, 4, 5, 6' %}
 </div>
 
 
