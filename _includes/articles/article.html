@@ -20,7 +20,7 @@
   <div class="card-container {{columns}} col-12 {{display}}">
     <div class="article-card ">
       <a href="{{article.url}}">
-        <img class="cover" src="{{article.image}}">
+        <img class="cover lazyload" src="{{article.image}}">
         {% if options contains '1' %}
           <img src="/img/assets/featured.png" class="featured-icon">
         {% endif %}

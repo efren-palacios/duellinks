@@ -14,21 +14,12 @@
   .card-container
   {
     text-align: left;
-    padding: 0;
-    margin-bottom: 18px;
+    margin-bottom: 32px;
     -webkit-perspective: 1000px;
     perspective: 1000px;
 
-    /*display: block;
-    width: 100%;
-    height: auto;
-    position: relative;
-    overflow: hidden;
-    padding: 54.05% 0 0 0;*/
-
     .article-card
     {
-      /*cursor: pointer;*/
       background-color: rgba(8, 13, 120, 0.05);
       box-shadow: 0 0 4px 0 $black;
       color: $text-default;
@@ -36,24 +27,12 @@
       -moz-backface-visibility: hidden;
       -webkit-transform-style: preserve-3d;
       transform-style: preserve-3d;
-      -webkit-transform: translateZ(-50px);
-      transform: translateZ(-50px);
-
-      /*display: block;
-      max-width: 100%;
-      max-height: 100%;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;*/
-
       transition: all 0.4s;
       
       &:hover
       {
-        -webkit-transform: translateZ(0px);
-        transform: translateZ(0px);
+        -webkit-transform: translateZ(43px);
+        transform: translateZ(43px);
       }
 
       a
@@ -66,12 +45,13 @@
       {
         width: 100%;
         border-radius: 5px;
+        border: 1px solid rgba(105, 119, 189, 0.33);
       }
 
       .information
       {
         position: absolute;
-        bottom: 8px;
+        bottom: 6px;
         width: 100%;
         padding: 0 8px 4px 8px;
         background: rgba(33, 33, 33, 0.75);
@@ -84,12 +64,14 @@
 
         .title
         {
-          font-size: 2rem;
+          font-size: 1.85rem;
           width: 100%;
           margin-bottom: 2px;
           padding-top: 5px;
           line-height: 30px;
           text-transform: uppercase;
+          text-shadow: 2px 2px 2px rgba(14, 37, 128, 0.9);
+          letter-spacing: -0.8px;
         }
 
         .sub-text
@@ -142,6 +124,8 @@
   -webkit-filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
   filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
   text-transform: uppercase;
+  font-weight: 500;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.80);
 
   &:before, &:after { content: ""; position: absolute; }
 
@@ -152,6 +136,7 @@
     top: $ribbon-height;
     left: 0.1px;
     border-top: 9px solid black;
+    /*border-top: 9px solid rgba(20, 50, 180, 0.6);*/
     border-left: 7px solid transparent;
   }
 
@@ -159,23 +144,23 @@
   {
     height: 0;
     width: 0;
-    right: -9.5px;
+    right: -10px;
     border-top: $ribbon-height/2 solid transparent;
     border-bottom: $ribbon-height/2 solid transparent;
     border-left: 10px solid grey; 
   }
 
-  &.event { @include ribbon-color(#48CC14) }
+  &.event { @include ribbon-color(#22AF00) }
   &.farming  { @include ribbon-color(#8E33DD) }
-  &.news  { @include ribbon-color(#DB390D) }
+  &.news  { @include ribbon-color(#A72400) }
   &.website-update  { @include ribbon-color(#A91B53) }
-  &.guide-competitive  { @include ribbon-color(#0AAAB2) }
-  &.guide-deck-type  { @include ribbon-color(#0AAAB2) }
-  &.guide-new-players  { @include ribbon-color(#0AAAB2) }
-  &.review-box  { @include ribbon-color(#F7DE20) }
-  &.review-deck  { @include ribbon-color(#F7DE20) }
-  &.review-structure-deck  { @include ribbon-color(#F7DE20) }
-  &.tier-list-deck-type  { @include ribbon-color(#DD8800) }
+  &.guide-competitive  { @include ribbon-color(#049EA7) }
+  &.guide-deck-type  { @include ribbon-color(#049EA7) }
+  &.guide-new-players  { @include ribbon-color(#049EA7) }
+  &.review-box  { @include ribbon-color(#CEAF0D) }
+  &.review-deck  { @include ribbon-color(#CEAF0D) }
+  &.review-structure-deck  { @include ribbon-color(#CEAF0D) }
+  &.tier-list-deck-type  { @include ribbon-color(#C37700) }
   &.tier-list-update  { @include ribbon-color(#315FF5) }
   &.tournament-report  { @include ribbon-color(#6C3799) }
   &.tournament-announcement  { @include ribbon-color(#6C3799) }
