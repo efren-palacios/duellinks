@@ -4,7 +4,7 @@ title: In-Game Updates (21) - April 27
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-27 06:30:00 +0100
+date: 2018-04-27 21:30:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -15,6 +15,7 @@ permalink: /news/april-2018/in-game-updates/
 {% include heading.html title=page.title author=page.author %}
 
 - [April 27th (Update 21)](#210)
+    - [New Mini Box](#214)
     - [Elegant Mai](#211)
     - [Pick-a-Gift Campaign!](#212)
     - [x1.5 EXP Campaign](#213)
@@ -85,6 +86,14 @@ permalink: /news/april-2018/in-game-updates/
 ## April 27th (Update 21)
 
 <br>
+
+<a name="214"></a>
+
+### New Mini Box
+
+Konami has announced the next [Mini Box: Visions of Ice](https://www.konami.com/yugioh/duel_links/en/box/visions_of_ice/) which we found out yesterday in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article! We'll be posting the [Top Player Council](/top-player-council/) first impressions soon so watch this space!
+
+![](/img/content/news/2018/04/in-game-updates/27-mini-box.jpg)
 
 <a name="211"></a>
 
