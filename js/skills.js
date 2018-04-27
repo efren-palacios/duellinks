@@ -30,16 +30,12 @@ var CharacterFiltersViewModel = {
 
 $(document).ready(function() {
     $.getJSON("/data/skills.json", function(data) {
-        var sortedSkills = data.sort(function(skillA, skillB){
-            if(skillA.name < skillB.name) {
-                return -1;
-            }
+        var sortedSkills = data.sort(function(skillA, skillB) {
+            var exclusiveResult = (skillA.exclusive && !skillB.exclusive) ? -1 : (!skillA.exclusive && skillB.exclusive) ? 1 : 0;  
+            if(exclusiveResult != 0) return exclusiveResult;
 
-            if(skillA.name > skillB.name) {
-                return 1;
-            }
-
-            return 0; // names are equal
+            var nameResult = (skillA.name < skillB.name) ? -1 : (skillA.name > skillB.name) ? 1 : 0;
+            return nameResult; 
         });
 
         var characterLinks = [
