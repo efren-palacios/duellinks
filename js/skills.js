@@ -1,7 +1,9 @@
 var SkillsTableViewModel = {
     originalSkills: [],
     displayedSkills: ko.observableArray(),
-    unpagedSkills: []    
+    unpagedSkills: [],
+    mobile: false,
+    pc: false    
 }
 
 var CharacterFiltersViewModel = {
@@ -118,6 +120,10 @@ $(document).ready(function() {
 
         SkillsTableViewModel.originalSkills = sortedSkills;
         SkillsTableViewModel.displayedSkills = ko.observableArray(sortedSkills);
+
+        // isMobile function in deckmaker.js
+        SkillsTableViewModel.mobile = isMobile();
+        SkillsTableViewModel.pc = !isMobile();
 
         ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
 
