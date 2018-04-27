@@ -1,86 +1,50 @@
-<div class="row card-collection">
-  {% assign pages = site.categories.page | where: "sub-category", "main" | sort: "order" %}
-  {% for page in pages %}
-    <div class="col-sm-4 col-12 card-deck header">
-      <div class="card">
-        <div class="zoom">
-          <a href={{page.url}}> 
-            {% if page.url == "/events-and-farming/" %}
-                {% for event in site.categories.event limit:1 %}
-                <img src="{{event.image}}" class="card-img-top lazyload" />
-              {% endfor %}
-            {% else %}
-              <img src="{{page.image}}" class="card-img-top lazyload" />
-            {% endif %}
-          </a>
-        </div>
-        <div class="card-block">
-          <a href={{page.url}}>
-            <h4 class="card-title text-white">{{page.title}}</h4>
-          </a>
-          <div class="text-white">
-            {% if page.url == "/tier-list/" %}
-              {% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
-              {% assign firstDate = changelog[0].date %}
-              {% assign fomattedFirstDate = firstDate | date: "%Y-%m-%d" %}
-              <small class="text-muted">Last Updated: {{ fomattedFirstDate | timeago }}</small>
-            {% elsif page.url == "/events-and-farming/" %}
-              {% for event in site.categories.event limit:1 %}
-                <small class="text-muted">Last Updated: {{ event.date | timeago }}</small>
-              {% endfor %}
-            {% elsif page.url == "/top-decks/" %}
-              {% assign years = site.data.top-decks | sort %}
+{% assign tier-list = site.posts | where: "permalink", "/tier-list/" | first %}
+{% assign top-decks = site.posts | where: "permalink", "/top-decks/" | first %}
+{% assign meta-cham = site.posts | where: "permalink", "/tournaments/meta-championship-series/" | first %}
+{% assign top-playr = site.posts | where: "permalink", "/top-players/" | first %}
+{% assign farm-even = site.posts | where: "permalink", "/farming-and-events/" | first %}
+{% assign guidessss = site.posts | where: "permalink", "/guides/" | first %}
 
-              {% for year in years %}               
-                {% if year[0] != "pending" %}                  
-                  {% assign months = year[1] %}  
-                {% endif %}
-              {% endfor %}
 
-              {% assign sorted_months = months | sort %}
-              {% for month in sorted_months %}
-                {% assign current_month = month %}  
-              {% endfor %}
+{% assign changelog = site.data.tierlist-changelog["tier-changes"] | sort: 'date' | reverse %}
+{% assign tierListDate = changelog[0].date %}
 
-              {% assign deck_types = current_month[1] %}
-              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
 
-              {% for deck_type in deck_types %}
-                {% for deck in deck_type[1] %}
-                  {% assign currentCreated = deck[1].created | date: "%Y-%m-%d" %}
-                  {% if currentCreated > lastCreated %}
-                    {% assign lastCreated = currentCreated %}
-                  {% endif %}
-                {% endfor %}
-              {% endfor %}
-              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
-            {% elsif page.url == "/guides/" %} 
-              {% assign filteredPosts = site.posts | filter_posts %}
-              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
-              {% for post in filteredPosts %}
-                {% assign formattedDate = post.date | date: "%Y-%m-%d" %}
-                {% if formattedDate > lastCreated %}
-                  {% assign lastCreated = formattedDate %}
-                {% endif %}
-              {% endfor %}
-              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>
-            {% elsif page.url == "/farming-and-events/" %}
-              {% assign filteredPosts = site.posts | where: "category", "event" %}
-              {% assign lastCreated = "2016-01-01" | date: "%Y-%m-%d" %}
-              {% for post in filteredPosts %}
-                {% assign formattedDate = post.date | date: "%Y-%m-%d" %}
-                {% if formattedDate > lastCreated %}
-                  {% assign lastCreated = formattedDate %}
-                {% endif %}
-              {% endfor %}
-              <small class="text-muted">Last Updated: {{ lastCreated | timeago }}</small>  
-            {% else %}
-              <small class="text-muted">Last Updated: {{ page.date | timeago }}</small>
-            {% endif %}
-          </div>
-        </div>
-      </div>
+{% assign years = site.data.top-decks | sort %}
 
-    </div>
+{% for year in years %}               
+  {% if year[0] != "pending" %}                  
+    {% assign months = year[1] %}  
+  {% endif %}
+{% endfor %}
+
+{% assign sorted_months = months | sort %}
+{% for month in sorted_months %}
+  {% assign current_month = month %}  
+{% endfor %}
+
+{% assign deck_types = current_month[1] %}
+{% assign topDecksDate = "2016-01-01" | date: "%Y-%m-%d" %}
+
+{% for deck_type in deck_types %}
+  {% for deck in deck_type[1] %}
+    {% assign currentCreated = deck[1].created | date: "%Y-%m-%d" %}
+    {% if currentCreated > topDecksDate %}
+      {% assign topDecksDate = currentCreated %}
+    {% endif %}
   {% endfor %}
+{% endfor %}
+
+
+{% assign farmEvenDate = site.categories.event | where_exp: "item", "item.hidden != true" | map: "date" | sort | last %}
+{% assign guidesssDate = site.posts | filter_guides | map: "date" | sort | last %}
+
+
+<div class="row card-collection">
+  {% include articles/article.html article=tier-list options='3, 5, 6, 7' date=tierListDate %}
+  {% include articles/article.html article=top-decks options='3, 5, 6, 7' date=topDecksDate %}
+  {% include articles/article.html article=meta-cham options='3, 5, 6, 7' %}
+  {% include articles/article.html article=top-playr options='3, 5, 6, 7' %}
+  {% include articles/article.html article=farm-even options='3, 5, 6, 7' date=farmEvenDate %}
+  {% include articles/article.html article=guidessss options='3, 5, 6, 7' date=guidesssDate %}
 </div>
