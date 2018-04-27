@@ -90,24 +90,7 @@ $(document).ready(function() {
             return nameResult; 
         });
 
-        var characterLinks = [
-            {
-                "name": "mokuba",
-                "link": "/img/characters/portrait-mokuba.png"
-            },
-            {
-                "name": "crowler",
-                "link": "/img/characters/portrait-vellian-crowler.png"
-            }
-        ];
         $(sortedSkills).each(function(index, skill) {
-            skill.image = '/img/characters/portrait-' + (skill.exclusive ? skill.characters[0].name.toLowerCase().replace(" ", "-") : 'vagabond') + '.png'
-            $(characterLinks).each(function(index, character) {
-                if (skill.image.includes(character.name)) {
-                    skill.image = character.link;
-                }
-            });
-
             skill.exclusiveDisplay = skill.exclusive ? 'Yes' : 'No';
 
             if(skill.exclusive) {
@@ -121,13 +104,10 @@ $(document).ready(function() {
         }); 
 
         SkillsTableViewModel.originalSkills = sortedSkills;
-        SkillsTableViewModel.displayedSkills = ko.observableArray(sortedSkills);
 
         // isMobile function in deckmaker.js
         SkillsTableViewModel.mobile = isMobile();
-        SkillsTableViewModel.pc = !isMobile();
-
-        ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+        SkillsTableViewModel.pc = !isMobile();        
 
         PaginationViewModel.resetPagination();
         ko.applyBindings(PaginationViewModel, $('#pagination')[0]);
@@ -153,6 +133,23 @@ $(document).ready(function() {
 
 function initializeCharacterFilters(skills) {
     $.getJSON("/data/characters.json", function(data) {
+        // Update the skill data with the image from the characters
+        $(SkillsTableViewModel.originalSkills).each(function(index, skill) {
+            if(skill.exclusive) {
+                $(data).each(function(index, character) {
+                    if(skill.characters[0].name == character.name) { 
+                        skill.image = character.image;
+                        return false;
+                    } 
+                });
+            }
+            else {
+                skill.image = "/img/characters/portrait-vagabond.png"
+            }            
+        });
+        SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
+        ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+
         $(data).each(function(index, character) {
             character.skillCount = $(skills).filter(function(index, skill) {
                 for(var i = 0; i < skill.characters.length; i++) {
