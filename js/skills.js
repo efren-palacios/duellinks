@@ -1,6 +1,7 @@
 var SkillsTableViewModel = {
     originalSkills: [],
-    displayedSkills: ko.observableArray()    
+    displayedSkills: ko.observableArray(),
+    unpagedSkills: []    
 }
 
 var CharacterFiltersViewModel = {
@@ -26,6 +27,45 @@ var CharacterFiltersViewModel = {
             CharacterFiltersViewModel.activeCharacter("");
         }                
     }
+}
+
+var PaginationViewModel = {
+    pages: ko.observableArray(),
+    currentPage: ko.observable(1),
+    resetPagination: function() {
+        var skillCount = SkillsTableViewModel.displayedSkills().length;
+        var pageArray = new Array(Math.ceil(skillCount/10));
+        for(var i = 0; i < pageArray.length; i++) {
+            pageArray[i] = i + 1;
+        }
+        this.pages(pageArray);
+
+        SkillsTableViewModel.unpagedSkills = SkillsTableViewModel.displayedSkills(); 
+        var firstPageArray = [];       
+        for(var i = 0; i < 10; i++) {
+            if(SkillsTableViewModel.unpagedSkills[i]) {
+                firstPageArray.push(SkillsTableViewModel.unpagedSkills[i]);
+            }
+            else {
+                break;
+            }
+        }
+        SkillsTableViewModel.displayedSkills(firstPageArray);
+    },
+    selectPage: function(page) {
+        var currentPageArray = [];       
+        for(var i = ((page * 10) - 9); i < (page * 10); i++) {
+            if(SkillsTableViewModel.unpagedSkills[i - 1]) {
+                currentPageArray.push(SkillsTableViewModel.unpagedSkills[i - 1]);
+            }
+            else {
+                break;
+            }
+        }
+        SkillsTableViewModel.displayedSkills(currentPageArray);  
+        
+        PaginationViewModel.currentPage(page);
+    }   
 }
 
 $(document).ready(function() {
@@ -72,6 +112,9 @@ $(document).ready(function() {
         SkillsTableViewModel.displayedSkills = ko.observableArray(sortedSkills);
 
         ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+
+        PaginationViewModel.resetPagination();
+        ko.applyBindings(PaginationViewModel, $('#pagination')[0]);
 
         initializeCharacterFilters(data);
     });
