@@ -16,6 +16,9 @@ var CharacterFiltersViewModel = {
             }));
 
             CharacterFiltersViewModel.activeCharacter(character.name);
+
+            $('#skillSearch').val("");
+            $('#searchButton').attr('disabled', 'disabled'); 
         }
         else {
             SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
@@ -76,6 +79,21 @@ $(document).ready(function() {
 
         initializeCharacterFilters(data);
     });
+
+    $('#skillSearch').keyup(function() {
+        if($(this).val().length > 1) {
+            $('#searchButton').removeAttr('disabled');
+        }
+        else {
+            $('#searchButton').attr('disabled', 'disabled');
+        }
+    });
+
+    $('#searchButton').click(filterBySearch);
+    $('#skillSearch').change(function() {
+        if($(this).val().length > 1) filterBySearch();
+    });
+    $('#clearSearchButton').click(resetFilterSearch);
 });
 
 function initializeCharacterFilters(skills) {
@@ -97,4 +115,24 @@ function initializeCharacterFilters(skills) {
         ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersGX')[0]);
         ko.applyBindings(CharacterFiltersViewModel, $('#characterFiltersDM')[0]);
     });
+};
+
+function filterBySearch() {
+    var searchTerm = $('#skillSearch').val();
+    
+    SkillsTableViewModel.displayedSkills($(SkillsTableViewModel.originalSkills).filter(function(index, skill) {
+        if(skill.name.toLowerCase().includes(searchTerm.toLowerCase())) return true;
+        return false;
+    }));
+
+    CharacterFiltersViewModel.activeCharacter("");
+};
+
+function resetFilterSearch() {
+    SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
+
+    $('#skillSearch').val("");
+    $('#searchButton').attr('disabled', 'disabled');    
+
+    CharacterFiltersViewModel.activeCharacter("");
 };

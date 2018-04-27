@@ -81,3 +81,12 @@ textarea.form-control:read-only
         margin-bottom: 16px;
     }
 }
+
+.form-row 
+{
+    .searchSkillButton 
+    {
+        max-width: 4.5%;
+        flex: 0 0 4.5%; 
+    }
+}
