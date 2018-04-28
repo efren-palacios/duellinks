@@ -21,7 +21,6 @@ var CharacterFiltersViewModel = {
             CharacterFiltersViewModel.activeCharacter(character.name);
 
             $('#skillSearch').val("");
-            $('#searchButton').attr('disabled', 'disabled'); 
 
             PaginationViewModel.resetPagination();
 
@@ -116,19 +115,13 @@ $(document).ready(function() {
     });
 
     $('#skillSearch').keyup(function() {
-        if($(this).val().length > 1) {
-            $('#searchButton').removeAttr('disabled');
+        if($(this).val().length > 0) {
+            filterBySearch();
         }
-        else {
-            $('#searchButton').attr('disabled', 'disabled');
+        else if($(this).val().length == 0) {
+            resetFilterSearch();    
         }
     });
-
-    $('#searchButton').click(filterBySearch);
-    $('#skillSearch').change(function() {
-        if($(this).val().length > 1) filterBySearch();
-    });
-    $('#clearSearchButton').click(resetFilterSearch);
 });
 
 function initializeCharacterFilters(skills) {
@@ -173,7 +166,7 @@ function filterBySearch() {
     var searchTerm = $('#skillSearch').val();
     
     SkillsTableViewModel.displayedSkills($(SkillsTableViewModel.originalSkills).filter(function(index, skill) {
-        if(skill.name.toLowerCase().includes(searchTerm.toLowerCase())) return true;
+        if(skill.name.toLowerCase().includes(searchTerm.toLowerCase()) || skill.desc.toLowerCase().includes(searchTerm.toLowerCase())) return true;
         return false;
     }));
 
