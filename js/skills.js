@@ -38,6 +38,7 @@ var CharacterFiltersViewModel = {
 
 var PaginationViewModel = {
     pages: ko.observableArray(),
+    pagesSmall: ko.observableArray(),
     unindexedPages: [],
     currentPage: ko.observable(1),
     resetPagination: function() {
@@ -65,17 +66,8 @@ var PaginationViewModel = {
         
         PaginationViewModel.currentPage(page);
 
-        var pageStart = page; 
-        var pageEnd = page + 9;
-        if(pageEnd > PaginationViewModel.unindexedPages.length) {            
-            pageEnd = PaginationViewModel.unindexedPages.length;    
-            pageStart = PaginationViewModel.unindexedPages.length > 10 ? PaginationViewModel.unindexedPages.length - 9 : 1;  
-        } 
-        var currentPages = [];
-        for(var j = (pageStart - 1); j < pageEnd; j++) {
-            currentPages.push(PaginationViewModel.unindexedPages[j]);
-        }
-        PaginationViewModel.pages(currentPages);
+        updatePagination(page, true);
+        updatePagination(page, false);
     }  
 }
 
@@ -142,6 +134,7 @@ function initializeCharacterFilters(skills) {
 
         PaginationViewModel.resetPagination();
         ko.applyBindings(PaginationViewModel, $('#pagination')[0]);
+        ko.applyBindings(PaginationViewModel, $('#paginationSmall')[0]);
 
         $(data).each(function(index, character) {
             character.skillCount = $(skills).filter(function(index, skill) {
@@ -184,4 +177,19 @@ function resetFilterSearch() {
     CharacterFiltersViewModel.activeCharacter("");
 
     PaginationViewModel.resetPagination();
+};
+
+function updatePagination(page, normal) {
+    var pageIndex = normal ? 10 : 7;
+    var pageStart = page; 
+    var pageEnd = page + (pageIndex - 1);
+    if(pageEnd > PaginationViewModel.unindexedPages.length) {            
+        pageEnd = PaginationViewModel.unindexedPages.length;    
+        pageStart = PaginationViewModel.unindexedPages.length > pageIndex ? PaginationViewModel.unindexedPages.length - (pageIndex - 1) : 1;  
+    } 
+    var currentPages = [];
+    for(var j = (pageStart - 1); j < pageEnd; j++) {
+        currentPages.push(PaginationViewModel.unindexedPages[j]);
+    }
+    normal ? PaginationViewModel.pages(currentPages) : PaginationViewModel.pagesSmall(currentPages);
 };

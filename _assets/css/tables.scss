@@ -251,4 +251,49 @@ table.stats
     }
 }
 
+@media only screen and (max-width: 992px) 
+{
+    #SkillsTable 
+    {
+        .exclusive
+        {
+            display: none;
+        }
+
+        th.obtain
+        {
+            width: 16%;
+        }
+    }
+}
+
+@media only screen and (max-width: 768px) 
+{
+    #SkillsTable 
+    {
+        th.obtain
+        {
+            width: 22%;
+        }
+
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 576px) 
+{
+    #SkillsTable 
+    {
+        .description
+        {
+            display: none;
+        }
+
+        th.obtain
+        {
+            width: 39%;
+        }
+    }
+}
+
 /* ---------------------- */
