@@ -146,7 +146,13 @@ Finally the cap has been raised to Lvl: 45, giving each Duelist an additional De
 
 ### 72 Hours Limited Sale
 
-Another sale, nothing too special.
+Another sale, nothing too special. Thanks to Eval, the prices are:
+1. $1.99
+2. $5.99
+3. $9.99
+4. $?
+5. $19.99
+6. $29.99
 
 [slider](/img/content/news/2018/04/in-game-updates/26-sale.jpg)
 

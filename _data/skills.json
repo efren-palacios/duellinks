@@ -42,6 +42,13 @@
     "character": "Yami Yugi"
   },
   {
+    "name": "Draw Sense: Fire",
+    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random FIRE-Attribute monster.",
+    "how": "Drop",
+    "exclusive": false,
+    "character": "Yami Marik"
+  },
+  {
     "name": "Draw Sense: Spell/Trap",
     "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spell/Trap card.",
     "how": "Level 13",
@@ -915,5 +922,19 @@
     "how": "Event",
     "exclusive": true,
     "character": "Yami Yugi"
+  },
+  {
+    "name": "Legendary Warrior",
+    "description": "Can be used if your Life Points are at 1000 or below. At the beginning of your turn, play 'Gilford the Lightning' on your side of the field. This Skill can only be used once per Duel.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Joey Wheeler"
+  },
+  {
+    "name": "Amazoness Village",
+    "description": "Begin Duel with the Field Spell 'Amazoness Village' activated.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Mai Valentine"
   }
 ]
