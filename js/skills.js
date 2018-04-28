@@ -106,10 +106,7 @@ $(document).ready(function() {
 
         // isMobile function in deckmaker.js
         SkillsTableViewModel.mobile = isMobile();
-        SkillsTableViewModel.pc = !isMobile();        
-
-        PaginationViewModel.resetPagination();
-        ko.applyBindings(PaginationViewModel, $('#pagination')[0]);
+        SkillsTableViewModel.pc = !isMobile();                
 
         initializeCharacterFilters(data);
     });
@@ -142,6 +139,9 @@ function initializeCharacterFilters(skills) {
         });
         SkillsTableViewModel.displayedSkills(SkillsTableViewModel.originalSkills);
         ko.applyBindings(SkillsTableViewModel, $('#SkillsTable')[0]);
+
+        PaginationViewModel.resetPagination();
+        ko.applyBindings(PaginationViewModel, $('#pagination')[0]);
 
         $(data).each(function(index, character) {
             character.skillCount = $(skills).filter(function(index, skill) {
