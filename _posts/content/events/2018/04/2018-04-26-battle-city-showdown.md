@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-26 14:30:00 +0100
+date: 2018-04-28 01:30:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
@@ -16,6 +16,8 @@ ended: false
 {% include heading.html title=page.title author=page.author %}
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
+
+**Last updated: April 28th - Added Legendary Duelist decklists**
 
 - [Event Information](#event-information)
 - [Rewards](#rewards)
@@ -33,14 +35,14 @@ ended: false
 - Once per day you get a **free** 10 times lottery spin, don't forget to do it!
 - You'll get 20 Dice Fragments for winning a Ranked Duel up to three times a day.
 - Similar to the previous Battle City event, the "Treasure Room" will appear form April 29th onwards which rewards you with tons of Millennium Coins!
+- It is speculated that Yami Yugi will get the new skill {Card of Sanctity} after May 3rd! 
 
 ### Rewards
 
 In addition to Gems, Gold, Keys and EX Jewels, the following cards can be drawn from the lottery! You can also obtain one copy each of these cards the Card Trader EX (he's next to Duel School).
 
 [deck](Skilled Blue Magician; Maha Vailo; Dark Sage; Swift Gaia the Fierce Knight; Kuriboh; Thousand Needles; Dark Hunter; Tactical Espionage Expert; The Portrait's Secret; Swordsman of Landstar; Fusion Sword Murasame Blade; Anti-Magic Arrows; Horn of the Unicorn; Multiply; Detonate; Bone Temple Block; Coffin Seller; Virus Cannon; Kaiser Dragon)
-
-
+   
 You will also get rewards for clearing rounds:
 
 [slider](/img/content/events/2018/04/battle-city-showdown/slider-rewards.jpg)
@@ -59,32 +61,108 @@ You will also get rewards for clearing rounds:
 
 Completing each mission rewards you with 15 Millenium Coins and a win at Lvl. 40 nets you an additional 150 Coins.
 
-***We will update this article with Decks to fulfil all the mission requirements soon!***
+*We will update this article with Decks to fulfil all the mission requirements soon!*
 
 #### Yami Bakura
 
 Bakura starts the Duel with the "Destiny Board of Doom" skill active which is similar to {Destiny Board}, here are the specifics: Yami Bakura begins the Duel with {Dark Necrofear} in his Graveyard and always goes first. He will automatically win the Duel at the end of your 5th turn. However, the skill is nullified if {Dark Necrofear} leaves his Graveyard.
+   
+##### Missions
 - Use Yami Yugi to defeat Yami Bakura
 - Win a Duel with {Slifer the Sky Dragon} in your Deck
 - Achieve 1 No Damage win
 
-#### Odion 
+##### Decklist
+[deck](Dark Necrofear; Dark Ruler Ha Des; Doomdog Octhros; Doomdog Octhros; Doomdog Octhros; The Gross Ghost of Fled Dreams; The Gross Ghost of Fled Dreams; The Gross Ghost of Fled Dreams; The Earl of Demise; Headless Knight; Headless Knight; Headless Knight; The Portrait's Secret; The Portrait's Secret; The Portrait's Secret; Ectoplasmer; Ectoplasmer; The Shallow Grave; The Shallow Grave; Dark Spirit of the Silent)
 
+---
+
+#### Odion 
 He uses {Chain Reaction} to deal Effect Damage for each Trap activated. His Deck contains many trap monsters: {Embodiment of Apophis}, {Tiki Soul}, {Tiki Curse} and {Quantum Cat}. He also uses {Millennium Scorpion} as well as {Mystical Beast of Serket} + {Temple of the Kings} combo with {Swords of Revealing Light} to stall.
+   
+##### Missions
 - Use Joey Wheeler to defeat Odion
 - Use Trap cards 3 times
 - Use Spell cards 3 times
 
+##### Decklist
+[deck](Mystical Beast of Serket; Mystical Beast of Serket; Mystical Beast of Serket; Millennium Scorpion; Millennium Scorpion; Millennium Scorpion; Swords of Revealing Light; Temple of the Kings; Temple of the Kings; Tiki Soul; Tiki Soul; Embodiment of Apophis; Embodiment of Apophis; Embodiment of Apophis; Magic Jammer; Tiki Curse; Tiki Curse; Tiki Curse; Quantum Cat; Skull Invitation)
+
+---
+
 #### Mai Valentine
+Mai starts the Duel with the Field Spell {Amazoness Villiage} active. A straightforward way to complete the missions is to add {The Winged Dragon of Ra} into a [Cyber Angel](/tier-list/deck-types/cyber-angels/) Deck using Mariks skill, {Power of the Tributed}.  
+   
+##### Missions
 - Use Yami Marik to defeat Mai Valentine
-- Use the {Winged Dragon of Ra} 1 time in one Duel
-- Successfullly perform 1 Tribute Summon in one Duel
+- Use the {The Winged Dragon of Ra} 1 time in one Duel
+- Successfullly perform 1 Tribute Summon in one 
+
+##### Decklist
+[deck](Harpie Lady Sisters; Amazoness Paladin; Amazoness Paladin; Amazoness Princess; Amazoness Trainee; Amazoness Trainee; Amazoness Trainee; Harpie Lady 1; Amazoness Sage; Amazoness Chain Master; Amazoness Chain Master; Amazoness Fighter; Amazoness Fighter; Amazoness Fighter; Harpie Lady 2; Harpie Lady 3; Amazoness Spellcaster; Elegant Egotist; Amazoness Archers; Amazoness Shamanism)
+
+---
+
+#### Ishizu Ishtar
+Ishizu uses the skill "Exchange of the Spirit" which does the same thing as the card by the same name: {Exchange of the Spirit}. 
+   
+##### Missions
+- Use Seto Kaiba to defeat Ishizu Ishtar
+- Summon {Blue-Eyes White Dragon} 1 times in one Duel
+- Inflict 3000 or more points of battle damage with a single attack
+
+##### Decklist
+[deck](Mudora; Mudora; Mudora; Zolga; Zolga; Zolga; Agido; Agido; Agido; Keldo; Swords at Dawn; Swords at Dawn; Dragged Down into the Grave; Dragged Down into the Grave; Dragged Down into the Grave; Cestus of Dagla; Cestus of Dagla; Cestus of Dagla; Blast Held by a Tribute; Blast Held by a Tribute)
+
+---
 
 #### Joey Wheeler
 Time to put those triple {Lava Golem} to good use; burn, baby, burn! 
+   
+##### Missions
 - Use Yami Marik to defeat Joey Wheeler
 - Use {Lava Golem} 1 time in one Duel
 - Inflict 1500 or more points of effect damage in one Duel
+
+##### Decklist
+[deck](Jinzo; Panther Warrior; Panther Warrior; Gearfried the Swordmaster; Gilford the Lightning; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Rocket Warrior; Rocket Warrior; Rocket Warrior; Lightning Blade; Lightning Blade; Lightning Blade; Graceful Dice; Release Restraint; Release Restraint; Release Restraint Wave; Kunai with Chain; Skull Dice)
+
+---
+
+#### Seto Kaiba
+
+##### Missions
+- Use Yami Yugi to defeat Seto Kaiba
+- Summon {Dark Paladin} 1 time in one Duel
+- Summon {Red-Eyes Black Dragon} 1 time in one Duel
+
+##### Decklist
+[deck](Machina Peacekeeper; Machina Peacekeeper; Y-Dragon Head; Y-Dragon Head; Y-Dragon Head; Z-Metal Tank; Z-Metal Tank; Z-Metal Tank; Vorse Raider; Vorse Raider; X-Head Cannon; X-Head Cannon; X-Head Cannon; Enemy Controller; Frontline Base; Frontline Base; Machine Assembly Line; Machine Assembly Line; Interdimensional Matter Transporter; Interdimensional Matter Transporter)
+[deck](XYZ-Dragon Cannon; XY-Dragon Cannon; XZ-Tank Cannon; YZ-Tank Dragon)
+
+---
+
+#### Yami Marik (1)
+   
+##### Missions
+- Use Yami Yugi to defeat Yami Marik
+- Summon {Slifer the Sky Dragon} 1 time in one Duel
+- Use Spell Cards 5 times in one Duel
+
+##### Decklist
+[deck](Lava Golem; Helpoemer; Helpoemer; Helpoemer; Revival Jam; Revival Jam; Revival Jam; Drillago; Drillago; Drillago; Gil Garth; Gil Garth; Gil Garth; Double Summon; Double Summon; Card of Safe Return; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth; Rope of Life)
+
+---
+
+#### Yami Marik (2)
+   
+###### Missions
+- Use Yami Yugi to defeat Seto Kaiba
+- Summon {Dark Magician} 1 time in one Duel
+- Summon {Dark Magician Girl} 1 time in one Duel
+
+##### Decklist
+[deck](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Ra's Disciple; Ra's Disciple; Ra's Disciple; Dark Jeroid; Dark Jeroid; Dark Jeroid; Humanoid Slime; Humanoid Slime; Humanoid Slime; Gil Garth; Gil Garth; Gil Garth; Monster Reborn; Double Summon; Double Summon; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth)
 
 ---
 

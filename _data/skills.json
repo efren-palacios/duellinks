@@ -908,5 +908,12 @@
     "how": "Event",
     "exclusive": true,
     "character": "Yami Marik"
+  },
+  {
+    "name": "Card of Sanctity",
+    "description": "Can be used at the end of your turn, if you Normal Summoned 'Slifer the Sky Dragon' that turn. Both players draw until they have 6 cards in their hands.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Yami Yugi"
   }
 ]
