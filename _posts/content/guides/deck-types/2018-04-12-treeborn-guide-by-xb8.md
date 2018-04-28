@@ -37,7 +37,7 @@ I am writing this guide because I feel Treeborn decks are misunderstood and a th
 
 ### Key Cards
 
-[deck](Dark Magician of Chaos;Chaos Hunter;Thestalos the Firestorm Monarch;Angmarl the Fiendish Monarch;Spell Striker;Mecha Phantom Beast Hamstrat;Treeborn Frog;Sphere Kuriboh;Invader of Darkness;Kaiser Glider;Destiny HERO - Dasher;B.E.S. Tetran;Dark Red Enchanter;Fenghuang;Dark Ruler Ha Des;Tribute to the Doomed;Soul Exchange;Super Rush Headlong;Monster Gate;Enemy Controller)
+[deck](Dark Magician of Chaos;Chaos Hunter;Thestalos the Firestorm Monarch;Angmarl the Fiendish Monarch;Spell Striker;Mecha Phantom Beast Hamstrat;Treeborn Frog;Sphere Kuriboh;Invader of Darkness;Kaiser Glider;Destiny HERO - Dasher;B.E.S. Tetran;Dark Red Enchanter;Fenghuang;Dark Ruler Ha Des;Tribute to the Doomed;Soul Exchange;Super Rush Headlong;Monster Gate;Enemy Controller;Treacherous Trap Hole)
 
 ---
 
@@ -132,6 +132,12 @@ Mecha Phantom Beast Hamstrat or Spell Striker as well are totally up to you and 
 * {Cosmic Cyclone}  
 
 Monster Gate can be a broken card as well as a terrible option. **IF** you include it, remember you might topdeck into a Treeborn Frog, Hamstrat, Sphere Kuriboh or a monster that loses its effect if it is not summoned via tributing. Alternatively, **ITS BONKERS** when you topdeck Dark Magician of Chaos or other tributes like Kaiser Glider.  
+
+#### Traps (1):
+
+[deck](Treacherous Trap Hole)
+
+* {Treacherous Trap Hole}
 
 #### Protection:  
 
@@ -386,7 +392,6 @@ These cards are not in Duel Links as of April 2018. If they are ever added, they
 
 #### Traps  
 
-* {Treacherous Trap Hole}  
 * {Spiritual Water Art - Aoi}  
 * {Mind Crush}  
 
