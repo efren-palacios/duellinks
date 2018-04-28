@@ -103,9 +103,13 @@ $(document).ready(function() {
         initializeCharacterFilters(data);
     });
 
+    var timeoutId; 
     $('#skillSearch').keyup(function() {
         if($(this).val().length > 0) {
-            filterBySearch();
+            clearTimeout(timeoutId);
+            timeoutId = setTimeout(function() {
+                filterBySearch();
+            }, 400);            
         }
         else if($(this).val().length == 0) {
             resetFilterSearch();    
