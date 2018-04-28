@@ -69,8 +69,6 @@ You will also get rewards for clearing rounds:
 
 Completing each mission rewards you with 15 Millenium Coins and a win at Lvl. 40 nets you an additional 150 Coins.
 
-*We will update this article with Decks to fulfil all the mission requirements soon!*
-
 #### Yami Bakura
 
 Bakura starts the Duel with the "Destiny Board of Doom" skill active which is similar to {Destiny Board}, here are the specifics: Yami Bakura begins the Duel with {Dark Necrofear} in his Graveyard and always goes first. He will automatically win the Duel at the end of your 5th turn. However, the skill is nullified if {Dark Necrofear} leaves his Graveyard.
@@ -92,7 +90,7 @@ Bakura starts the Duel with the "Destiny Board of Doom" skill active which is si
 ---
 
 #### Odion 
-He uses {Chain Reaction} to deal Effect Damage for each Trap activated. His Deck contains many trap monsters: {Embodiment of Apophis}, {Tiki Soul}, {Tiki Curse} and {Quantum Cat}. He also uses {Millennium Scorpion} as well as {Mystical Beast of Serket} + {Temple of the Kings} combo with {Swords of Revealing Light} to stall.
+He uses {Chain Reaction} to deal effect damage for each Trap activated.
    
 ##### Missions
 - Use Joey Wheeler to defeat Odion
@@ -108,7 +106,7 @@ He uses {Chain Reaction} to deal Effect Damage for each Trap activated. His Deck
 ---
 
 #### Mai Valentine
-She uses the Skill {Amazoness Village}. A straightforward way to complete the missions is to add {The Winged Dragon of Ra} into a [Cyber Angel](/tier-list/deck-types/cyber-angels/) Deck using Mariks skill, {Power of the Tributed}.  
+She uses the Skill {Amazoness Village}.  
    
 ##### Missions
 - Use Yami Marik to defeat Mai Valentine
@@ -124,7 +122,7 @@ She uses the Skill {Amazoness Village}. A straightforward way to complete the mi
 ---
 
 #### Ishizu Ishtar
-Ishizu uses the skill "Exchange of the Spirit" which does the same thing as the card {Exchange of the Spirit} except at 10 or more cards instead. 
+She uses the skill "Exchange of the Spirit" which does the same thing as the card {Exchange of the Spirit} except at 10 or more cards instead. 
    
 ##### Missions
 - Use Seto Kaiba to defeat Ishizu Ishtar
