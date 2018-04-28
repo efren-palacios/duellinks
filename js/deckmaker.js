@@ -360,8 +360,6 @@ function displayTextForSkillOnDesktops( api ) {
 				}
 				first_column = !first_column;				
  			});
-	
-			$('#qtip-' + api.get('id')).css('min-width', '550px'); 
 
 			api.set('content.text', clone.show()[0]);
 		}
