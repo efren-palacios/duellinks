@@ -4,7 +4,7 @@ title: Dark City Destiny Hero Guide
 author: Brenduke
 category: guide
 sub-category: deck-type
-deck-type: destiny heroes
+deck-type: destiny-heroes
 image: /img/content/guides/destiny-hero-guide/dherosguide.jpg
 date: 2018-04-04 01:30:00
 comments: true

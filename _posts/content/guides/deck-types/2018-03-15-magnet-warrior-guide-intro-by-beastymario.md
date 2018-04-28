@@ -4,7 +4,7 @@ title: "First Look: Magnet Warriors"
 author: Beastymario
 category: guide
 sub-category: deck-type
-deck-type: magnet warriors
+deck-type: magnet-warriors
 image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet.jpg
 date: 2018-03-16
 comments: false

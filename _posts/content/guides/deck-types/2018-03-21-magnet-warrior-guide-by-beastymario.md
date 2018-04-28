@@ -4,7 +4,7 @@ title: Magnet Warriors Guide
 author: Beastymario
 category: guide
 sub-category: deck-type
-deck-type: magnet warriors
+deck-type: magnet-warriors
 image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet-warriors.jpg
 date: 2018-04-04
 comments: true

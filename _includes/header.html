@@ -40,7 +40,7 @@
 {% assign guidesssDate = site.posts | filter_guides | map: "date" | sort | last %}
 
 
-<div class="row card-collection">
+<div class="row card-collection main-navigation">
   {% include articles/article.html article=tier-list options='3, 5, 6, 7' date=tierListDate %}
   {% include articles/article.html article=top-decks options='3, 5, 6, 7' date=topDecksDate %}
   {% include articles/article.html article=meta-cham options='3, 5, 6, 7' %}
