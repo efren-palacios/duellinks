@@ -37,9 +37,13 @@ function saveDeckOnline() {
         dataType: "json",
         success: function (postDataDeck, textStatus, response) {
             var rndID = response.responseJSON.uri.replace("https://api.myjson.com/bins/", "");
-            document.getElementById("decklink").value = document.location.hostname + "/deckbuilder/?save=" + rndID + "      <---dont show me on stream";
+            document.getElementById("decklink").value = document.location.hostname + "/deckbuilder/?save=" + rndID;
         }
     });
+
+    setTimeout(function(){
+        document.getElementById("decklink").value="";
+    }, 30000);
 }
 
 
