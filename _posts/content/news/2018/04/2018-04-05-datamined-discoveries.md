@@ -127,9 +127,9 @@ On May 3rd there will be an addition to the currently ongoing [Battle City Showd
 
 ### Miscellaneous
 
-A character profile for Tristan Taylor has been found as well as the "Popular Cards" filter for the Deck Editor which has been postponed.
+A new item that spawns "Vagrants" which give 5 to 30 times more EXP than Standard Duelists has been found, perfect for the [recent character level cap increase](/news/april-2018/level-45-rewards/)! Also, a character profile for Tristan Taylor has been found as well as the "Popular Cards" filter for the Deck Editor which has been postponed.
 
-[gallery](/img/content/news/2018/04/datamined-discoveries/26-tristan-character-profile.png, /img/content/news/2018/04/datamined-discoveries/26-popular-cards.png)
+[gallery](/img/content/news/2018/04/datamined-discoveries/27-vagrant.png, /img/content/news/2018/04/datamined-discoveries/26-tristan-character-profile.png, /img/content/news/2018/04/datamined-discoveries/26-popular-cards.png)
 
 <br>
 <br>
