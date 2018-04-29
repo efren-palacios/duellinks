@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (21) - April 27
+title: In-Game Updates (22) - April 29
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-27 21:30:00 +0100
+date: 2018-04-29 06:25:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,45 +14,23 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="210"></a>
-## April 27th (Update 21)
+<a name="220"></a>
+## April 29th (Update 22)
 
 <br>
 
-<a name="214"></a>
+<a name="221"></a>
 
-### New Mini Box
+### Treasure Room
 
-Konami has announced the next [Mini Box: Visions of Ice](https://www.konami.com/yugioh/duel_links/en/box/visions_of_ice/) which we found out yesterday in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article! We'll be posting the [Top Player Council](/top-player-council/) first impressions soon so watch this space!
+A Treasure Room has appeared in the [Battle City event](/events/april-2018/battle-city-showdown/), land on the space to get plently of Millenium Coins and Duel Mokuba!
 
-![](/img/content/news/2018/04/in-game-updates/27-mini-box.jpg)
-
-<a name="211"></a>
-
-### Elegant Mai
-
-As we discussed just yesterday in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article, Elegant Mai will be making a return bringing with her Amazoness support!
-
-![](/img/content/news/2018/04/in-game-updates/27-elegant-mai.png)
-
-<a name="212"></a>
-
-### Pick-a-Gift Campaign!
-
-There's 600 Gems up for grabs, what will you pick?!
-
-[slider](/img/content/news/2018/04/in-game-updates/27-pick-a-gift.jpg)
-
-<a name="213"></a>
-
-### x1.5 EXP Campaign
-
-There is no better time for this campaign since we've just had a [character level cap increase](/news/april-2018/level-45-rewards/). Use Duel Orbs to make Standard Duelists respawn instantly so you can speed your way to LVL: 45 for those new cards! 
-
-![](/img/content/news/2018/04/in-game-updates/27-exp.jpg)
+![](/img/content/news/2018/04/in-game-updates/29-treasure-room.jpg)
 
 ---
 
+- [April 29th (Update 22)](#220)
+    - [Treasure Room](#221)
 - [April 27th (Update 21)](#210)
     - [New Mini Box](#214)
     - [Elegant Mai](#211)
@@ -118,6 +96,45 @@ There is no better time for this campaign since we've just had a [character leve
 - [April 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
     - [Upcoming Updates](#12)
+
+---
+
+<a name="210"></a>
+## April 27th (Update 21)
+
+<br>
+
+<a name="214"></a>
+
+### New Mini Box
+
+Konami has announced the next [Mini Box: Visions of Ice](https://www.konami.com/yugioh/duel_links/en/box/visions_of_ice/) which we found out yesterday in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article! We'll be posting the [Top Player Council](/top-player-council/) first impressions soon so watch this space!
+
+![](/img/content/news/2018/04/in-game-updates/27-mini-box.jpg)
+
+<a name="211"></a>
+
+### Elegant Mai
+
+As we discussed just yesterday in our [Datamined Discoveries](/news/april-2018/datamined-discoveries/) article, Elegant Mai will be making a return bringing with her Amazoness support!
+
+![](/img/content/news/2018/04/in-game-updates/27-elegant-mai.png)
+
+<a name="212"></a>
+
+### Pick-a-Gift Campaign!
+
+There's 600 Gems up for grabs, what will you pick?!
+
+[slider](/img/content/news/2018/04/in-game-updates/27-pick-a-gift.jpg)
+
+<a name="213"></a>
+
+### x1.5 EXP Campaign
+
+There is no better time for this campaign since we've just had a [character level cap increase](/news/april-2018/level-45-rewards/). Use Duel Orbs to make Standard Duelists respawn instantly so you can speed your way to LVL: 45 for those new cards! 
+
+![](/img/content/news/2018/04/in-game-updates/27-exp.jpg)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-28 05:30:00 +0100
+date: 2018-04-29 06:30:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
@@ -17,8 +17,9 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-**Last updated: April 28th - Added Mission Decks**
+**Last updated: April 29th - Treasure Room**
 
+- [Update](#update)
 - [Event Information](#event-information)
 - [Rewards](#rewards)
 - [First Impressions](#first-impressions)
@@ -28,10 +29,19 @@ ended: false
     - [Mai Valentine](#mai-valentine)
     - [Ishizu Ishtar](#ishizu-ishtar)
     - [Joey Wheeler](#joey-wheeler)
+    - [Mokuba Kaiba](#mokuba-kaiba)
     - [Seto Kaiba](#seto-kaiba)
     - [Yami Marik (1)](#yami-marik-1)
     - [Yami Marik (2)](#yami-marik-2)
 - **[Duel Awards](#awards)**
+
+---
+
+### Update
+
+The Treasure Room has appeared, land on it to enter the room to get tons of Millenium Coins and Duel the Battle City commissioner - [Mokuba](#mokuba-kaiba)!
+
+![](/img/content/events/2018/04/battle-city-showdown/treasure-room.jpg)
 
 ---
 
@@ -41,9 +51,12 @@ ended: false
 - In this event, players roll a dice to transverse through a sort of Battle City Monopoly with the story arc from the anime. The event is divided up into several zones, with each zone containing a Legendary Duelist from Battle City for players to Duel against. 
 - This event takes place from April 26th - May 7th.
 - Once per day you get a **free** 10 times lottery spin, don't forget to do it!
-- You'll get 20 Dice Fragments for winning a Ranked Duel up to three times a day.
 - Similar to the previous Battle City event, the "Treasure Room" will appear form April 29th onwards which rewards you with tons of Millennium Coins!
 - It is speculated that Yami Yugi will get the new Skill {Card of Sanctity} after May 3rd! 
+- You'll get 20 Dice Fragments for winning a Ranked Duel up to three times a day.
+
+[w25]
+![](/img/content/events/2018/04/battle-city-showdown/ranked-dice.png)
 
 ### Rewards
 
@@ -101,7 +114,7 @@ Odion uses the Skill {Chain Reaction}.
 - Use Spell cards 3 times
 
 ##### Mission Deck
-[deck:Field of the Warriors](Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Gladiator Beast Andal; Gladiator Beast Andal; Gladiator Beast Andal; Vorse Raider; Vorse Raider; Vorse Raider; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Typhoon; Typhoon; Typhoon; Wild Tornado; Wild Tornado; Wild Tornado; Straight Flush; Straight Flush)
+[deck:Field of the Warriors](Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Gladiator Beast Andal; Gladiator Beast Andal; Gladiator Beast Andal; Vorse Raider; Double Cyclone; Double Cyclone; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Typhoon; Typhoon; Typhoon; Wild Tornado; Wild Tornado; Wild Tornado; Straight Flush; Straight Flush)
 
 ##### Lvl. 40 Decklist
 [deck:Chain Reaction](Mystical Beast of Serket; Mystical Beast of Serket; Mystical Beast of Serket; Millennium Scorpion; Millennium Scorpion; Millennium Scorpion; Swords of Revealing Light; Temple of the Kings; Temple of the Kings; Tiki Soul; Tiki Soul; Embodiment of Apophis; Embodiment of Apophis; Embodiment of Apophis; Magic Jammer; Tiki Curse; Tiki Curse; Tiki Curse; Quantum Cat; Skull Invitation)
@@ -164,6 +177,17 @@ Time to put those triple {Lava Golem} to good use; burn, baby, burn!
 
 ##### Lvl. 40 Decklist
 [deck:Legendary Warrior](Jinzo; Panther Warrior; Panther Warrior; Gearfried the Swordmaster; Gilford the Lightning; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Rocket Warrior; Rocket Warrior; Rocket Warrior; Lightning Blade; Lightning Blade; Lightning Blade; Graceful Dice; Release Restraint; Release Restraint; Release Restraint Wave; Kunai with Chain; Skull Dice)
+
+---
+
+#### Mokuba Kaiba
+
+Mokuba uses the Skill {Peak Performance}. If you beat him at Lvl. 40 you get 250 Millenium Coins instead of the standard 150! 
+   
+##### Missions
+- Inflict 1000 or more points of battle damage
+- Inflict 1000 or more points of effect damage
+- Recover 1000 or more LP in one Duel
 
 ---
 
@@ -240,4 +264,3 @@ Immortalised forever on Duel Links Meta!
 ---
 
 ***If you have any hints/tips to complete missions, spot a mistake or just want to say something post it in the comments below!***
-

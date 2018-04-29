@@ -176,7 +176,7 @@
   },
   {
     "name": "Peak Performance",
-    "description": "Begins Duel with the Field Spell",
+    "description": "Begin Duel with the Field Spell 'Mountain' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Seto Kaiba"
