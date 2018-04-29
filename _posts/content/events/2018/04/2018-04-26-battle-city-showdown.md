@@ -9,7 +9,7 @@ comments: true
 description: The second part of the Battle City event is underway! Here's all you need to know about the event and the best ways to complete the missions - get those those new reward cards! 
 keywords: event, battle city, skill, yami yugi, part two, 2
 permalink: /events/april-2018/battle-city-showdown/
-pinned: true
+pinned: false
 ended: false
 ---
 

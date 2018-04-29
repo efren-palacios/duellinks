@@ -17,6 +17,26 @@ permalink: /box-reviews/rampage-of-the-forest/
 [w100]
 ![banner](/img/content/box-reviews/rampage-of-the-forest/banner.jpg)
 
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="N" %}
+
+---
+
 ### Top Player Council Thoughts
 
 #### **[Superforms](/authors/superforms/)** says: 
@@ -47,39 +67,15 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 
 ---
 
-### Card List
+{% include guides/videos.html videos='uX--W9BsngQ;tetwMsl3hAM;ZHjgD2mxQUY' %}
 
-#### Ultra Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="UR" %}
-
-#### Super Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="SR" %}
-
-#### Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="R" %}
-
-#### Normal Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="N" %}
-
----
-
-### Sylvans: Dkayed vs Gunsblazing! 
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=ZHjgD2mxQUY' %}
-
----
-
-### Metamorphosed Insect Queen
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=VMdv6wREsEk' %}
- 
 ---
 
 ### Affected Deck Types
 This box creates the following deck type
 
 {% include deck-type-list.html deck-types='sylvans;insects' %} 
+
+---
+
+***Write your own thoughts on the Mini Box in the comments below.***
