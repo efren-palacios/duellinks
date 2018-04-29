@@ -45,6 +45,8 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
+            { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
             { "id": "dragons",                  "display": "Dragons",               "card": "Arkbrave Dragon" },
             { "id": "fishes",                   "display": "Fishes",                "card": "Golden Flying Fish" },                         

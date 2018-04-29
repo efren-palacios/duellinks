@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-29 06:30:00 +0100
+date: 2018-04-29 18:00:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
@@ -17,7 +17,7 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-**Last updated: April 29th - Treasure Room**
+**Last updated: April 29th - Added Mokuba Kaiba Decklist**
 
 - [Update](#update)
 - [Event Information](#event-information)
@@ -39,7 +39,9 @@ ended: false
 
 ### Update
 
-The Treasure Room has appeared, land on it to enter the room to get tons of Millenium Coins and Duel the Battle City commissioner - [Mokuba](#mokuba-kaiba)!
+The Treasure Room has appeared, land on it to enter the room to get tons of Millenium Coins and Duel the Battle City commissioner - [Mokuba](#mokuba-kaiba)! 
+
+**However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl. 20 or Lvl. 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
 
 ![](/img/content/events/2018/04/battle-city-showdown/treasure-room.jpg)
 
@@ -83,7 +85,6 @@ You will also get rewards for clearing rounds:
 Completing each mission rewards you with 15 Millenium Coins and a win at Lvl. 40 nets you an additional 150 Coins.
 
 #### Yami Bakura
-
 Bakura uses the Skill "Destiny Board of Doom" which is similar to {Destiny Board}, here are the specifics:   
 - Yami Bakura begins the Duel with {Dark Necrofear} in his Graveyard and always goes first. 
 - He will automatically win the Duel at the end of your 5th turn. 
@@ -161,7 +162,6 @@ Ishizu uses the Skill {Exchange of the Spirit}.
 ---
 
 #### Joey Wheeler
-
 Joey uses the Skill {Legendary Warrior}.
    
 ##### Missions
@@ -181,17 +181,22 @@ Time to put those triple {Lava Golem} to good use; burn, baby, burn!
 ---
 
 #### Mokuba Kaiba
+Mokuba uses the Skill {Peak Performance}. If you defeat him at Lvl. 40 you get 250 Millenium Coins instead of the standard 150 Coins!
 
-Mokuba uses the Skill {Peak Performance}. If you beat him at Lvl. 40 you get 250 Millenium Coins instead of the standard 150! 
+**However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl. 20 or Lvl. 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
    
 ##### Missions
 - Inflict 1000 or more points of battle damage
 - Inflict 1000 or more points of effect damage
 - Recover 1000 or more LP in one Duel
 
+#### Lvl. 40 Decklist
+[deck:Peak Performance](Hieratic Dragon of Asar; Darkflare Dragon; Vanguard of the Dragon; Vanguard of the Dragon; Hieratic Dragon of Gebeb; Hieratic Dragon of Gebeb; Lady of D.; Lady of D.; Blue-Eyes White Dragon; Rabidragon; Alexandrite Dragon; Alexandrite Dragon; Divine Dragon Ragnarok; Divine Dragon Ragnarok; Stamping Destruction; Negate Attack; Birthright; Burst Breath; Burst Breath; Cloning)
+
 ---
 
 #### Seto Kaiba
+Kaiba uses the Skill {Robotic Reinforcements}.
    
 ##### Missions
 - Use Yami Yugi to defeat Seto Kaiba
@@ -203,7 +208,7 @@ Mokuba uses the Skill {Peak Performance}. If you beat him at Lvl. 40 you get 250
 [deck](Dark Paladin; Dark Paladin; Dark Paladin; Meteor B. Dragon; Dark Flare Knight)
 
 ##### Lvl. 40 Decklist
-[deck](Machina Peacekeeper; Machina Peacekeeper; Y-Dragon Head; Y-Dragon Head; Y-Dragon Head; Z-Metal Tank; Z-Metal Tank; Z-Metal Tank; Vorse Raider; Vorse Raider; X-Head Cannon; X-Head Cannon; X-Head Cannon; Enemy Controller; Frontline Base; Frontline Base; Machine Assembly Line; Machine Assembly Line; Interdimensional Matter Transporter; Interdimensional Matter Transporter)
+[deck:Robotic Reinforcements](Machina Peacekeeper; Machina Peacekeeper; Y-Dragon Head; Y-Dragon Head; Y-Dragon Head; Z-Metal Tank; Z-Metal Tank; Z-Metal Tank; Vorse Raider; Vorse Raider; X-Head Cannon; X-Head Cannon; X-Head Cannon; Enemy Controller; Frontline Base; Frontline Base; Machine Assembly Line; Machine Assembly Line; Interdimensional Matter Transporter; Interdimensional Matter Transporter)
 [deck](XYZ-Dragon Cannon; XY-Dragon Cannon; XZ-Tank Cannon; YZ-Tank Dragon)
 
 ---
@@ -211,7 +216,6 @@ Mokuba uses the Skill {Peak Performance}. If you beat him at Lvl. 40 you get 250
 <a name="yami-marik-1"></a>
 
 #### Yami Marik (1)
-
 Be wary, Marik uses the Skill {Shadow Game}.
    
 ##### Missions
@@ -230,7 +234,6 @@ Be wary, Marik uses the Skill {Shadow Game}.
 <a name="yami-marik-2"></a>
 
 #### Yami Marik (2)
-
 Be wary, he uses the Skill {Shadow Game}.
    
 ###### Missions

@@ -943,5 +943,12 @@
     "how": "NPC Only",
     "exclusive": true,
     "character": "Ishizu Ishtar"
+  },
+  {
+    "name": "Robotic Reinforcements",
+    "description": "(NPC ONLY) At the beginning of turn 6 and onward, randomly add to your hand 1 'X-Head Cannon,' 'Y-Dragon Head,' or 'Z-Metal Tank' that you do not currently have in your hand, from outside of your Deck. This Skill can only be used once per Duel.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Seto Kaiba"
   }
 ]
