@@ -2,15 +2,14 @@
   <h2>LATEST ARTICLES</h2>
 </div>
 
-<div class="row card-collection" id="articleCardCollection">
+<div class="row card-collection">
   
-  {% assign articles = site.posts | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
-  {% assign featured = articles   | where_exp: "item", "item.featured == true" | slice: 0, 2 %}
-  {% assign default  = articles   | arr_remove: featured %}
-  {% assign featSize = featured   | size %}
-  {% assign loadSize = 8          | minus: featSize %}
-  {% assign loaded   = default    | slice: 0, loadSize %}
-  {% assign hidden   = default    | slice: 9, 4 %}
+  {% assign articles = site.posts    | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+  {% assign featured = articles      | where_exp: "item", "item.featured == true" | slice: 0, 2 %}
+  {% assign default  = articles      | arr_remove: featured %}
+  {% assign featSize = featured      | size %}
+  {% assign loadSize = site.loadSize | minus: featSize %}
+  {% assign loaded   = default       | slice: 0, loadSize %}
 
   {% for article in featured %}
     {% include articles/article.html article=article options='1' %}
@@ -20,12 +19,6 @@
     {% include articles/article.html article=article %}
   {% endfor %}
 
-  {% for article in hidden %}
-    {% include articles/article.html article=article options='2' %}
-  {% endfor %}
-
-  <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 articleButtonColumn">
-    <button id="moreArticles" type="button" class="btn btn-primary articleButton">More Articles</button>
-  </div>
-
 </div>
+
+{% include articles/articles-ko.html %}

@@ -1,0 +1,27 @@
+<div class="row card-collection collection-attached" data-bind="template: { foreach: displayedArticles, afterAdd: animateNewArticle }">
+  <div class="card-container col-sm-6 col-12">
+    <div class="article-card ">
+      <a data-bind="attr: { href: url }">
+        <img data-bind="attr: { src: image }" class="cover lazyload">
+        <span data-bind="text: ribbon.text, css: ribbon.class" class="ribbon"></span>
+        <div class="information">
+          <p data-bind="text: title" class="title"></p>
+          <span class="sub-text">
+            <span>Last updated:</span>
+            <span data-bind="text: date"></span>
+            <span>by</span>
+            <div class="authors" data-bind="foreach: authors">
+              <a class="author" data-bind="css: $data.class, attr: { href: $data.url }">
+                <font data-bind="text: $data.name, attr: { color: $data.color }"></font>
+              </a>
+            </div>
+          </span>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+<div class="row btn-row">
+  <button data-bind="click: showMoreArticles" type="button" class="btn btn-primary articleButton">More Articles</button>
+</div>

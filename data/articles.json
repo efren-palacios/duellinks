@@ -1,19 +1,72 @@
 ---
 ---
 [
-    {% for article in site.posts %}
-        {% if article.category != 'page' %}
-            {% if article.featured == null or article.featured == false %}
-                {% if article.hide == null or article.hide == false %}
+    {% assign articles = site.posts    | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+    {% assign featured = articles      | where_exp: "item", "item.featured == true" | slice: 0, 2 %}
+    {% assign default  = articles      | arr_remove: featured %}
+    {% assign featSize = featured      | size %}
+    {% assign loadSize = site.loadSize | minus: featSize %}
+    {% assign hidStart = loadSize      | plus: 1 %}
+    {% assign loaded   = default       | slice: 0, loadSize %}
+    {% assign hidden   = default       | slice: hidStart, site.hideSize %}
+    {% assign dynamic  = articles      | arr_remove: loaded | arr_remove: hidden %}
+
+    {% for article in dynamic %}
     {
         "url": "{{ article.url }}",
         "image": "{{ article.image }}",
-        "title": "{{ article.title }}",
-        "date": "{{ article.date }}",
-        "author": "{{ article.author }}"
-    }{% unless forloop.last %},{% endunless %}    
+        "ribbon":
+        {
+            {% assign category = site.data.categories | where: "id", article.category | first %}
+
+            {% if category %}
+                {% assign cat = category.id %}
+                {% if category.sub-categories and article.sub-category %}
+                    {% assign sub-category = category.sub-categories | where: "id", article.sub-category | first %}
+                    {% if sub-category %}
+                        {% assign sub-cat = cat | append: "-" | append: sub-category.id %}
+                        "text": "{{sub-category.display}}", "class": "{{sub-cat}}"
+                    {% endif %}
+                {% else %}
+                    "text": "{{category.display}}", "class": "{{cat}}"
                 {% endif %}
             {% endif %}
-        {% endif %}
+        },
+        "title": "{{ article.title }}",
+        "date": "{{ article.date | date: "%B %d, %Y" }}",
+        "authors":
+        [
+            {% assign authors = article.author | split: ";" %}
+
+            {% for rawAuthor in authors %}
+
+                {% assign author = rawAuthor | strip %}
+                {% assign roles = site.data.roles %}
+                {% assign profile = site.data.profiles | where: "name", author | first %}
+                
+                {% if profile %}
+                    {% assign url = profile | profileUrl %}
+                    {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
+
+                    {% if role %}
+                        { "url": "{{url}}", "name": "{{profile.name}}", "color": "{{role.color}}", "class": "" }
+                    {% else %}
+                        { "url": "{{url}}", "name": "{{profile.name}}", "color": "", "class": "no-role" }
+                    {% endif %}
+                {% else %}
+                    {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
+
+                    {% if group and group.url != "" %}
+                        { "url": "{{group.url}}", "name": "{{group.group-name}}", "color": "{{group.color}}", "class": "" }
+                    {% else %}
+                        { "url": "", "name": "{{author}}", "color": "", "class": "no-profile" }
+                    {% endif %}   
+                {% endif %}
+                {% unless forloop.last %},{% endunless %}
+
+            {% endfor %}
+        ]
+    }
+    {% unless forloop.last %},{% endunless %}
     {% endfor %}    
 ]

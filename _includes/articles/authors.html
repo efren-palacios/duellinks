@@ -1,37 +1,31 @@
 {% assign authors = include.authors | split: ";" %}
 
-{% for rawAuthor in authors %}
+<div class="authors">
+    {% for rawAuthor in authors %}
 
-    {% unless forloop.first %}
-        {% if forloop.last %}
-            <span> and </span>
+        {% assign author = rawAuthor | strip %}
+
+        {% assign roles = site.data.roles %}
+        {% assign profile = site.data.profiles | where: "name", author | first %}
+        
+        {% if profile %}
+            {% assign url = profile | profileUrl %}
+            {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
+
+            {% if role %}
+                <a class="author" href="{{url}}"><font color="{{role.color}}">{{profile.name}}</font></a>
+            {% else %}
+                <a class="author no-role" href="{{url}}">{{profile.name}}</a>
+            {% endif %}
         {% else %}
-            <span class="comma">, </span>
+            {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
+
+            {% if group and group.url != "" %}
+                <a class="author" href="{{group.url}}"><font color="{{group.color}}">{{group.group-name}}</font></a>
+            {% else %}
+                <a class="author no-profile" href="">{{author}}</a>
+            {% endif %}   
         {% endif %}
-    {% endunless %}
 
-    {% assign author = rawAuthor | strip %}
-
-    {% assign roles = site.data.roles %}
-    {% assign profile = site.data.profiles | where: "name", author | first %}
-    
-    {% if profile %}
-        {% assign url = profile | profileUrl %}
-        {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
-
-        {% if role %}
-            <a class="author" href="{{url}}"><font color="{{role.color}}">{{profile.name}}</font></a>
-        {% else %}
-            <a class="author" href="{{url}}">{{profile.name}}</a>
-        {% endif %}
-    {% else %}
-        {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
-
-        {% if group and group.url != "" %}
-            <a class="author" href="{{group.url}}"><font color="{{group.color}}">{{group.group-name}}</font></a>
-        {% else %}
-            <span class="author">{{author}}</span>
-        {% endif %}   
-    {% endif %}
-
-{% endfor %}
+    {% endfor %}
+</div>
