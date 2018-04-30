@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-04-29 05:00 +0100
-title: "Mini Box: Visions of Ice"
+title: "Visions of Ice First Impressions"
 author: Yami Hammy
 category: review
 sub-category: box

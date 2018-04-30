@@ -9,7 +9,7 @@ comments: true
 description: The character level cap has been increased! Find out who to level up first and who has the best rewards!
 keywords: news, rewards, new cards, charcter, alexis, yugi, kaiba, tpc
 permalink: /news/april-2018/level-45-rewards/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
