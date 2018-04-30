@@ -1,11 +1,15 @@
 {
     "game-changes":
     {
-        "date": 2018-04-17,
-        "description": "The new box (Valiant Souls) was released April 2nd 2018. The Geargia and Masked HERO archetypes are still shaking up the meta and Archfiends are on the rise."
+        "date": 2018-04-30,
+        "description": "Red_Eyes Zombies finally fall after nearly a year on the Tier List. Sea Stealth Attack and Magnets also fell from glory. Amazoness and Spellbooks are catching peoples interest and may disrupt the Tier List soon."
     },
     "tier-changes": 
     [
+        { "type": "geargias", "from": 1, "to": 2, "date": 2018-04-30 },
+        { "type": "magnet-warriors", "from": 3, "to": "nothing", "date": 2018-04-30 },
+        { "type": "sea-stealth-attack", "from": 3, "to": "nothing", "date": 2018-04-30 },
+        { "type": "red-eyes-zombies", "from": 3, "to": "nothing", "date": 2018-04-30 },
         { "type": "red-eyes-zombies", "from": 2, "to": 3, "date": 2018-04-17 },
         { "type": "aliens", "from": 2, "to": 3, "date": 2018-04-17 },
         { "type": "archfiends", "from": 3, "to": 2, "date": 2018-04-17 },

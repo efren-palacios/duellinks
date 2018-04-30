@@ -6,8 +6,7 @@
         "types":
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
-            { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },     
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" }
+            { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" }     
         ] 
     },
     {
@@ -16,7 +15,8 @@
         "info": "1 step away from being part of the best decks. Capable of winning a tournament without people being surprised. An advantage they have over tier 1 decks is that everyone is more focused on building their deck to beat a tier 1 deck and not a deck from this category.",
         "types":
         [              
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" }            
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" }            
         ]
     },
     {
@@ -26,9 +26,6 @@
         "types":
         [   
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
-            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
-            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
-            { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
@@ -37,6 +34,8 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [ 
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
+            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }
         ] 
     },
     {
@@ -45,7 +44,9 @@
         "types":
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
-            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
+            { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
+            { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
             { "id": "dragons",                  "display": "Dragons",               "card": "Arkbrave Dragon" },
