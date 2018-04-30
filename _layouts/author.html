@@ -45,6 +45,21 @@
                   {% endfor %}     
                 </ul>
               {% endif %}
+              {% for profile in site.data.profiles %}
+                {% if profile[1].name == page.author %}
+                  {% assign authorProfile = profile[1] %}
+                  {% break %} 
+                {% endif %}     
+              {% endfor %}              
+              {% assign roles = site.data.roles %}
+              {% assign role = roles | where_exp: "item", "item.role-id == authorProfile.role" | first %}
+              {% if role %}
+                <b>Role(s):</b>
+                <ul>
+                    <li><span style="color: {{role.color}}">{{ role.role-name }}</span></li> 
+                </ul>
+              {% endif %}
+              
 
               {% if page.twitch %}
                 <a href="{{page.twitch}}" target="_blank" class="fa-stack fa-lg fa-1x">

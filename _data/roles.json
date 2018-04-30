@@ -1,10 +1,10 @@
 [
 	{
 		"priority": "1",
-		"role-id": "dkayed",
-		"role-name": "Dkayed",
-		"group-id": "dkayed",
-		"group-name": "Dkayed",
+		"role-id": "admin",
+		"role-name": "Admin",
+		"group-id": "admin",
+		"group-name": "Admin",
 		"url": "",
 		"color": "#FF1B2B"
 	},
