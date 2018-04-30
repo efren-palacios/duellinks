@@ -7,7 +7,7 @@ category: review
 sub-category: box
 image: /img/content/box-reviews/visions-of-ice/preview.png
 comments: true
-description: Review of the "Visions of Ice" Mini Box. New Deck types included with this box are Spellbooks and Gustos!
+description: Review of the 'Visions of Ice' Mini Box. New Deck types included with this box are Spellbooks and Gustos!
 keywords: box, minibox, visions of ice, review, spellbooks, gustos
 permalink: /box-reviews/visions-of-ice/
 ---
