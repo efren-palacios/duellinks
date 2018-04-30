@@ -1,18 +1,14 @@
 [
   {
-    "name": "White Night Dragon",
-    "rarity": "UR"
-  },
-  {
     "name": "The Tricky",
     "rarity": "UR"
   },
   {
-    "name": "Mage Power",
-    "rarity": "SR"
+    "name": "White Night Dragon",
+    "rarity": "UR"
   },
   {
-    "name": "Treacherous Trap Hole",
+    "name": "Dragon Ice",
     "rarity": "SR"
   },
   {
@@ -24,6 +20,10 @@
     "rarity": "SR"
   },
   {
+    "name": "Mage Power",
+    "rarity": "SR"
+  },
+  {
     "name": "Spellbook of Secrets",
     "rarity": "SR"
   },
@@ -31,16 +31,25 @@
     "name": "Spellbook of Life",
     "rarity": "SR"
   },
-  {
-    "name": "Dragon Ice",
-    "rarity": "SR"
-  },
+  
   {
     "name": "Tribute Burial",
     "rarity": "SR"
   },
   {
+    "name": "Treacherous Trap Hole",
+    "rarity": "SR"
+  },
+  {
+    "name": "Gemini Elf",
+    "rarity": "R"
+  },
+  {
     "name": "Ice Master",
+    "rarity": "R"
+  },
+  {
+    "name": "Ice Queen",
     "rarity": "R"
   },
   {
@@ -56,7 +65,7 @@
     "rarity": "R"
   },
   {
-    "name": "Spellbook of Power",
+    "name": "Charioteer of Prophecy",
     "rarity": "R"
   },
   {
@@ -64,27 +73,91 @@
     "rarity": "R"
   },
   {
+    "name": "Prophecy Destroyer",
+    "rarity": "R"
+  },
+  {
+    "name": "Reaper of Prophecy",
+    "rarity": "R"
+  },
+  {
+    "name": "Soldier Dragons",
+    "rarity": "R"
+  },
+  {
+    "name": "Spellbook of Power",
+    "rarity": "R"
+  },
+  {
     "name": "Spellbook of Fate",
     "rarity": "R"
   },
   {
-    "name": "Cold Enchanter",
+    "name": "Spellbook Library of the Crescent",
     "rarity": "R"
+  },
+  {
+    "name": "Creeping Doom Manta",
+    "rarity": "N"
+  },
+  {
+    "name": "Cold Enchanter",
+    "rarity": "N"
   },
   {
     "name": "Caam, Serenity of Gusto",
-    "rarity": "R"
+    "rarity": "N"
   },
   {
     "name": "Windaar, Sage of Gusto",
-    "rarity": "R"
+    "rarity": "N"
+  },
+  {
+    "name": "Musto, Oracle of Gusto",
+    "rarity": "N"
+  },
+  {
+    "name": "Gusto Codor",
+    "rarity": "N"
+  },
+  {
+    "name": "Master of the Flaming Dragonswords",
+    "rarity": "N"
+  },
+  {
+    "name": "Strength of Prophecy",
+    "rarity": "N"
+  },
+  {
+    "name": "Fool of Prophecy",
+    "rarity": "N"
+  },
+  {
+    "name": "Wheel of Prophecy",
+    "rarity": "N"
+  },
+  {
+    "name": "Tricky Spell 4",
+    "rarity": "N"
   },
   {
     "name": "Contact with Gusto",
-    "rarity": "R"
+    "rarity": "N"
+  },
+  {
+    "name": "Spellbook of Eternity",
+    "rarity": "N"
+  },
+  {
+    "name": "Spellbook Library of the Heliosphere",
+    "rarity": "N"
+  },
+  {
+    "name": "Spellbook of the Master",
+    "rarity": "N"
   },
   {
     "name": "Chain Dispel",
-    "rarity": "R"
+    "rarity": "N"
   }
 ]

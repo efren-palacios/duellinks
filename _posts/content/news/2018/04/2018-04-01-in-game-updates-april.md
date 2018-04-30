@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (21) - April 27
+title: In-Game Updates (22) - April 29
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-04-27 21:30:00 +0100
+date: 2018-04-29 06:25:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,23 @@ permalink: /news/april-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+<a name="220"></a>
+## April 29th (Update 22)
+
+<br>
+
+<a name="221"></a>
+
+### Treasure Room
+
+A Treasure Room has appeared in the [Battle City event](/events/april-2018/battle-city-showdown/), land on the space to get plently of Millenium Coins and Duel Mokuba!
+
+![](/img/content/news/2018/04/in-game-updates/29-treasure-room.jpg)
+
+---
+
+- [April 29th (Update 22)](#220)
+    - [Treasure Room](#221)
 - [April 27th (Update 21)](#210)
     - [New Mini Box](#214)
     - [Elegant Mai](#211)

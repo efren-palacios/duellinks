@@ -176,7 +176,7 @@
   },
   {
     "name": "Peak Performance",
-    "description": "Begins Duel with the Field Spell",
+    "description": "Begin Duel with the Field Spell 'Mountain' activated.",
     "how": "Level 4",
     "exclusive": true,
     "character": "Seto Kaiba"
@@ -925,16 +925,30 @@
   },
   {
     "name": "Legendary Warrior",
-    "description": "Can be used if your Life Points are at 1000 or below. At the beginning of your turn, play 'Gilford the Lightning' on your side of the field. This Skill can only be used once per Duel.",
+    "description": "(NPC ONLY) Can be used if your Life Points are at 1000 or below. At the beginning of your turn, play 'Gilford the Lightning' on your side of the field. This Skill can only be used once per Duel.",
     "how": "NPC Only",
     "exclusive": true,
     "character": "Joey Wheeler"
   },
   {
     "name": "Amazoness Village",
-    "description": "Begin Duel with the Field Spell 'Amazoness Village' activated.",
+    "description": "(NPC ONLY) Begin Duel with the Field Spell 'Amazoness Village' activated.",
     "how": "NPC Only",
     "exclusive": true,
     "character": "Mai Valentine"
+  },
+  {
+    "name": "Exchange of the Spirit",
+    "description": "(NPC ONLY) Can be used at the beginning of your turn, if your Graveyard contains more than 10 cards. Both players must swap the cards in their Graveyard with the cards in their Deck. Then, both players must shuffle their Decks. This Skill can only be used once per Duel.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Ishizu Ishtar"
+  },
+  {
+    "name": "Robotic Reinforcements",
+    "description": "(NPC ONLY) At the beginning of turn 6 and onward, randomly add to your hand 1 'X-Head Cannon,' 'Y-Dragon Head,' or 'Z-Metal Tank' that you do not currently have in your hand, from outside of your Deck. This Skill can only be used once per Duel.",
+    "how": "NPC Only",
+    "exclusive": true,
+    "character": "Seto Kaiba"
   }
 ]

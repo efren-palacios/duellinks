@@ -66,5 +66,13 @@
     {
         "name": "Mausoleum of the Emperor",
         "rarity": "SR"
+    },
+    {
+        "name": "Psychokinesis",
+        "rarity": "R"
+    },
+    {
+        "name": "Serene Psychic Witch",
+        "rarity": "SR"
     }
 ]
