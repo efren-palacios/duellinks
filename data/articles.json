@@ -8,8 +8,7 @@
     {% assign loadSize = site.loadSize | minus: featSize %}
     {% assign hidStart = loadSize      | plus: 1 %}
     {% assign loaded   = default       | slice: 0, loadSize %}
-    {% assign hidden   = default       | slice: hidStart, site.hideSize %}
-    {% assign dynamic  = articles      | arr_remove: loaded | arr_remove: hidden %}
+    {% assign dynamic  = articles      | arr_remove: loaded %}
 
     {% for article in dynamic %}
     {

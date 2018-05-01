@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-03-29
 title: "Duel Links Mini Open #1"
 author: Yami Hammy
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Duel Links Mini Open
 number: 1
 image: /img/content/tournaments/dlo/thumbnail.jpg
-date: 2018-03-29
 comments: true
 description: This is the report for the first ever Duel Links Mini Open Tournament hosted by Magpie, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, dlmo, dlo, duel links open, open,
