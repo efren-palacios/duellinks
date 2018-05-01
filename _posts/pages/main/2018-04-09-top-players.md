@@ -8,7 +8,7 @@ sub-category: main
 order: 4
 comments: false
 date: 2018-04-01 01:30:00 -0600
-description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
+description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
 permalink: /top-players/
 ---
@@ -178,8 +178,8 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |45-55|WALEEDSY| 8 points|
 |45-55|Shu| 8 points|
 |45-55|HidekiBro| 8 points|
-|56-57|Whybona| 6 points|
-|56-57|Black Jesus - 6 points
+|56-57|Whybona | 6 points|
+|56-57|Black Jesus | 6 points |
 |58-64|Limitless95|5 points|
 |58-64|Serenity| 5 points|
 |58-64|Son_Luke| 5 points|
