@@ -74,5 +74,21 @@
     {
         "name": "Serene Psychic Witch",
         "rarity": "SR"
+    },
+    {
+        "name": "Aromage Jasmine",
+        "rarity": "SR"
+    },
+    {
+        "name": "Aromage Bergamot",
+        "rarity": "R"
+    },
+    {
+        "name": "Aromage Rosemary",
+        "rarity": "R"
+    },
+    {
+        "name": "Aroma Garden",
+        "rarity": "N"
     }
 ]

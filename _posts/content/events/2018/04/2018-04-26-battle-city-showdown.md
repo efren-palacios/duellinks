@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-29 18:00:00 +0100
+date: 2018-05-01 23:00:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
@@ -17,7 +17,7 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-**Last updated: April 29th - Added Mokuba Kaiba Decklist**
+**Last updated May 1st - Added new mission Decks for Mokuba and Marik (1)**
 
 - [Update](#update)
 - [Event Information](#event-information)
@@ -85,6 +85,9 @@ You will also get rewards for clearing rounds:
 Completing each mission rewards you with 15 Millenium Coins and a win at Lvl. 40 nets you an additional 150 Coins.
 
 #### Yami Bakura
+
+![](/img/content/events/2018/04/battle-city-showdown/bakura.gif)
+
 Bakura uses the Skill "Destiny Board of Doom" which is similar to {Destiny Board}, here are the specifics:   
 - Yami Bakura begins the Duel with {Dark Necrofear} in his Graveyard and always goes first. 
 - He will automatically win the Duel at the end of your 5th turn. 
@@ -107,6 +110,9 @@ Bakura uses the Skill "Destiny Board of Doom" which is similar to {Destiny Board
 ---
 
 #### Odion 
+
+![](/img/content/events/2018/04/battle-city-showdown/odion.gif)
+
 Odion uses the Skill {Chain Reaction}.
    
 ##### Missions
@@ -115,7 +121,7 @@ Odion uses the Skill {Chain Reaction}.
 - Use Spell cards 3 times
 
 ##### Mission Deck
-[deck:Field of the Warriors](Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Gladiator Beast Andal; Gladiator Beast Andal; Gladiator Beast Andal; Vorse Raider; Double Cyclone; Double Cyclone; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Typhoon; Typhoon; Typhoon; Wild Tornado; Wild Tornado; Wild Tornado; Straight Flush; Straight Flush)
+[deck:Field of the Warriors](Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Gladiator Beast Andal; Gladiator Beast Andal; Vorse Raider; Vorse Raider; Double Cyclone; Double Cyclone; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Typhoon; Typhoon; Typhoon; Wild Tornado; Wild Tornado; Wild Tornado; Straight Flush; Straight Flush)
 
 ##### Lvl. 40 Decklist
 [deck:Chain Reaction](Mystical Beast of Serket; Mystical Beast of Serket; Mystical Beast of Serket; Millennium Scorpion; Millennium Scorpion; Millennium Scorpion; Swords of Revealing Light; Temple of the Kings; Temple of the Kings; Tiki Soul; Tiki Soul; Embodiment of Apophis; Embodiment of Apophis; Embodiment of Apophis; Magic Jammer; Tiki Curse; Tiki Curse; Tiki Curse; Quantum Cat; Skull Invitation)
@@ -123,6 +129,9 @@ Odion uses the Skill {Chain Reaction}.
 ---
 
 #### Mai Valentine
+
+![](/img/content/events/2018/04/battle-city-showdown/mai.gif)
+
 Mai uses the Skill {Amazoness Village}.  
    
 ##### Missions
@@ -143,6 +152,9 @@ Mai uses the Skill {Amazoness Village}.
 ---
 
 #### Ishizu Ishtar
+
+![](/img/content/events/2018/04/battle-city-showdown/ishizu.gif)
+
 Ishizu uses the Skill {Exchange of the Spirit}. 
    
 ##### Missions
@@ -162,6 +174,9 @@ Ishizu uses the Skill {Exchange of the Spirit}.
 ---
 
 #### Joey Wheeler
+
+![](/img/content/events/2018/04/battle-city-showdown/joey.gif)
+
 Joey uses the Skill {Legendary Warrior}.
    
 ##### Missions
@@ -181,6 +196,9 @@ Time to put those triple {Lava Golem} to good use; burn, baby, burn!
 ---
 
 #### Mokuba Kaiba
+
+![](/img/content/events/2018/04/battle-city-showdown/mokuba.gif)
+
 Mokuba uses the Skill {Peak Performance}. If you defeat him at Lvl. 40 you get 250 Millenium Coins instead of the standard 150 Coins!
 
 **However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl. 20 or Lvl. 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
@@ -190,12 +208,21 @@ Mokuba uses the Skill {Peak Performance}. If you defeat him at Lvl. 40 you get 2
 - Inflict 1000 or more points of effect damage
 - Recover 1000 or more LP in one Duel
 
+##### Mission Deck
+
+Activate your Trap cards in the Draw/Standby Phase so Mokuba doesn't use {Stamping Destruction} dealing you 500 LP damage and costing you the duel!
+
+[deck:Elements Unite!](Lava Golem; Lava Golem; Thunder Dragon; Thunder Dragon; Thunder Dragon; Dian Keto the Cure Master; H - Heated Heart; H - Heated Heart; Goblin Thief; Goblin Thief; Goblin Thief; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed)
+
 #### Lvl. 40 Decklist
 [deck:Peak Performance](Hieratic Dragon of Asar; Darkflare Dragon; Vanguard of the Dragon; Vanguard of the Dragon; Hieratic Dragon of Gebeb; Hieratic Dragon of Gebeb; Lady of D.; Lady of D.; Blue-Eyes White Dragon; Rabidragon; Alexandrite Dragon; Alexandrite Dragon; Divine Dragon Ragnarok; Divine Dragon Ragnarok; Stamping Destruction; Negate Attack; Birthright; Burst Breath; Burst Breath; Cloning)
 
 ---
 
 #### Seto Kaiba
+
+![](/img/content/events/2018/04/battle-city-showdown/kaiba.gif)
+
 Kaiba uses the Skill {Robotic Reinforcements}.
    
 ##### Missions
@@ -216,6 +243,9 @@ Kaiba uses the Skill {Robotic Reinforcements}.
 <a name="yami-marik-1"></a>
 
 #### Yami Marik (1)
+
+![](/img/content/events/2018/04/battle-city-showdown/marik.gif)
+
 Be wary, Marik uses the Skill {Shadow Game}.
    
 ##### Missions
@@ -224,6 +254,13 @@ Be wary, Marik uses the Skill {Shadow Game}.
 - Use Spell Cards 5 times in one Duel
 
 ##### Mission Deck
+
+- Keep on drawing cards with {Aromage Jasmine} + {Aroma Garden} combo, you can also Summon {Aromage Rosemary} but don't attack with it as Marik's LP may hit 0 before you can complete all missions.
+- Only Tribute Summon {Aromage Bergamot} to get rid of {Lava Golem}.
+- You can Summom {Slifer the Sky Dragon} if you can go for game or if Marik loses to {Shadow Game} next turn.
+
+[deck:Destiny Draw](Slifer the Sky Dragon; Aromage Jasmine; Aromage Jasmine; Aromage Jasmine; Aromage Bergamot; Aromage Bergamot; Aromage Rosemary; Aromage Rosemary; Aromage Rosemary; Double Cyclone; Double Cyclone; Twister; Twister; Aroma Garden; Aroma Garden; Aroma Garden; Mirror Wall; Mirror Wall; Curse of Anubis; Windstorm of Etaqua)   
+
 [deck:Destiny Draw](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Slifer the Sky Dragon; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Anti-Magic Arrows; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing; Sprite's Blessing)
 
 ##### Lvl. 40 Decklist
@@ -234,6 +271,9 @@ Be wary, Marik uses the Skill {Shadow Game}.
 <a name="yami-marik-2"></a>
 
 #### Yami Marik (2)
+
+![](/img/content/events/2018/04/battle-city-showdown/marik.gif)
+
 Be wary, he uses the Skill {Shadow Game}.
    
 ###### Missions
@@ -242,7 +282,7 @@ Be wary, he uses the Skill {Shadow Game}.
 - Use {Dark Magician Girl} 1 time in one Duel
 
 ##### Mission Deck
-[deck:Destiny Draw](Dark Magician Girl; Dark Magician Girl; Legion the Fiend Jester; Legion the Fiend Jester; Legion the Fiend Jester; Magician's Rod; Magician's Rod; Dark Magician; Dark Magician; Dark Magician; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Dark Magic Attack; Sage's Stone; Dark Magic Curtain; Thousand Knives; Magician's Circle; Magician's Circle; Magician's Circle)
+[deck:Balance](Dark Magician Girl; Dark Magician Girl; Legion the Fiend Jester; Legion the Fiend Jester; Legion the Fiend Jester; Magician's Rod; Magician's Rod; Dark Magician; Dark Magician; Dark Magician; Super Rush Headlong; Super Rush Headlong; Dark Magic Attack; Sage's Stone; Dark Magic Curtain; Thousand Knives; Wall of Disruption; Wall of Disruption; Wall of Disruption; Magician's Circle)
 
 ##### Lvl. 40 Decklist
 [deck:Shadow Game](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Ra's Disciple; Ra's Disciple; Ra's Disciple; Dark Jeroid; Dark Jeroid; Dark Jeroid; Humanoid Slime; Humanoid Slime; Humanoid Slime; Gil Garth; Gil Garth; Gil Garth; Monster Reborn; Double Summon; Double Summon; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth)
