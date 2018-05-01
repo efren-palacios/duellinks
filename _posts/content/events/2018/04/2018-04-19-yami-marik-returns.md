@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-04-23 20:30:00 +0100
+date: 2018-04-26 20:30:00 +0100
 title: Yami Marik Returns!
 author: Yami Hammy
 image: /img/content/events/2018/04/yami-marik-returns/thumbnail.jpg
@@ -15,10 +15,11 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: 23rd April - Added Lvl. 50 strategies**
+**Last updated: 26th April - Added Duel Awards winners**
 
 ![Banner](/img/content/events/2018/04/yami-marik-returns/banner.png)
 
+- **[Duel Awards](#awards)**
 - [Update](#update) 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -37,7 +38,30 @@ pinned: false
 - [Yami Marik Lvl. 40 Decklist](#40)
 - [Yami Marik Lvl. 50 Decklist](#50)
 - [Arkana Lvl. 40 Decklist](#40a)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Best Drop - **hoor**
+
+![](/img/content/events/2018/04/yami-marik-returns/best-drop.jpg)
+
+#### Highest Event Points - **lvmatterhorn**
+
+![](/img/content/events/2018/04/yami-marik-returns/highest-points.jpg)
+
+#### Most Prismatic Drops - **SalaBenji**
+
+![](/img/content/events/2018/04/yami-marik-returns/most-prismatics.jpg)
 
 ---
 
@@ -370,23 +394,6 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 ### Arkana Lvl. 40 Decklist
 
 [deck](Dark Magician; Dark Magician; Dark Magician; Double Coston; Double Coston; Double Coston; Mystic Tomato; Mystic Tomato; Mystic Tomato; Legion the Fiend Jester; Legion the Fiend Jester; Legion the Fiend Jester; Anti-Magic Arrows; Anti-Magic Arrows; Bound Wand; Bound Wand; Dark Magic Attack; Double Summon; Thousand Knives; Dark Renewal)  
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below!), when the event is over the person with:
-- The 'best drop' will have their name posted here
-- Highest Event Points will have their name posted here
-- Most Prismatic drops will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 

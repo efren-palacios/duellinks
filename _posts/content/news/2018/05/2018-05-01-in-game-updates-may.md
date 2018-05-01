@@ -40,7 +40,13 @@ The new Mini Box: Visions of Ice is here! Give our [First Impressions](/box-revi
 
 ### Sale Underway
 
-To celebrate the release of [Visions of Ice](/box-reviews/visions-of-ice/) there's a sale, as per usual.
+To celebrate the release of [Visions of Ice](/box-reviews/visions-of-ice/) there's a sale and thanks to [Superforms](/top-player-council/superforms/), the prices are:
+1. $1.99
+2. $5.99
+3. $9.99
+4. $19.99
+5. $29.99
+6. $39.99
 
 [slider](/img/content/news/2018/05/in-game-updates/01-sale.jpg)
 
