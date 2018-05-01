@@ -70,5 +70,29 @@
     {
         "name": "Melchid the Four-Face Beast",
         "rarity": "N"
-    }    
+    },
+    {
+        "name": "Dodger Dragon",
+        "rarity": "SR"
+    },
+    {
+        "name": "Big Burn",
+        "rarity": "R"
+    },
+    {
+        "name": "Cold Feet",
+        "rarity": "N"
+    },
+    {
+        "name": "Power Injector",
+        "rarity": "SR"
+    },
+    {
+        "name": "Ghost of a Grudge",
+        "rarity": "R"
+    },
+    {
+        "name": "Five Brothers Explosion",
+        "rarity": "N"
+    }  
 ]
