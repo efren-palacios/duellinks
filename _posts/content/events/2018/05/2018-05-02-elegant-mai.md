@@ -16,7 +16,7 @@ permalink: /events/may-2018/elegant-mai/
 
 ![Banner](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
 
-#### Last updated May 2nd - Added farm Decks
+##### Last updated May 2nd - Added farm Decks
 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -60,7 +60,7 @@ permalink: /events/may-2018/elegant-mai/
 
 <a name="morrmaniac"></a>
 
-#### Lvl: 40 Fiend Farm - credit: [morrmaniac](https://www.reddit.com/r/DuelLinks/comments/8gfyjb/deck_elegant_mai_lvl_40_necrofear_nani_consistent/) and [シドゾーマバギー海賊団](https://m.youtube.com/watch?v=QgNYu2MHq7g)
+#### Lvl: 40 Necrofear Farm - credit: [morrmaniac](https://www.reddit.com/r/DuelLinks/comments/8gfyjb/deck_elegant_mai_lvl_40_necrofear_nani_consistent/) and [シドゾーマバギー海賊団](https://m.youtube.com/watch?v=QgNYu2MHq7g)
 
 [deck:Labyrinth Builder](Dark Necrofear; Dark Necrofear; Sphere Kuriboh; Sphere Kuriboh; Sphere Kuriboh; Kuriboh; Doomdog Octhros; Doomdog Octhros; Doomdog Octhros; Dark Mimic LV3; Dark Mimic LV3; Dark Mimic LV3; Gravekeeper's Vassal; Dark Mimic LV1; Dark Mimic LV1; Dark Mimic LV1; Anti-Magic Arrows; Union Attack; Union Attack; Shield & Sword)
 
@@ -88,7 +88,7 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 
 <a name="brenduke"></a>
 
-#### Lvl: 30/40 Geargia Farm - credit to [Brenduke](/authors/brenduke/)
+#### Lvl: 30/40 Geargia Farm - credit: [Brenduke](/authors/brenduke/)
 
 [deck:Power of the Tributed](The Winged Dragon of Ra; Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Pulse Mines; Pulse Mines; Pulse Mines; Curse of Anubis; Windstorm of Etaqua)
 
@@ -101,7 +101,7 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 1. Clear her field using your Geargia flip effects.
 2. Tribute summon {The Winged Dragon of Ra} using your three Monsters.
 3. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
-4. Enter Battle Phase and attack Mai's life points directly!
+4. Enter Battle Phase, activate Anti-Magic Arrows, and attack Mai's life points directly!
 
 ##### Replacements
 - You can also play this deck with {Restart} for consistency however, you'll need a copy of {Back-Up Rider} to get over 5,000 damage.
@@ -115,7 +115,7 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 
 <a name="rezileen"></a>
 
-### Lvl: 40 Hazy Farm - credit to Rezileen
+### Lvl: 40 Hazy Farm - credit: Rezileen
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Soul Exchange; Soul Exchange; H - Heated Heart; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
 
