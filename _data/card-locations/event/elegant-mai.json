@@ -10,5 +10,37 @@
     {
         "name": "Amazoness Archers",
         "rarity": "SR"
+    },
+    {
+        "name": "Queen's Pawn",
+        "rarity": "SR"
+    },
+    {
+        "name": "Spy-C-Spy",
+        "rarity": "SR"
+    },
+    {
+        "name": "Amazoness Shamanism",
+        "rarity": "R"
+    },
+    {
+        "name": "Harpie Lady 2",
+        "rarity": "R"
+    },
+    {
+        "name": "Harpie Lady 3",
+        "rarity": "R"
+    },
+    {
+        "name": "Amazoness Blowpiper",
+        "rarity": "N"
+    },
+    {
+        "name": "Tactical Espionage Expert",
+        "rarity": "N"
+    },
+    {
+        "name": "Amazoness Princess",
+        "rarity": "UR"
     }
 ]
