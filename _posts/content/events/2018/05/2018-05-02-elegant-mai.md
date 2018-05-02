@@ -22,9 +22,9 @@ permalink: /events/may-2018/elegant-mai/
 - [Drop Rewards](#drop-rewards)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
-    - [Lvl: 40 Fiend Farm - credit to CrimsonLTCR](#crimson)
-    - [Lvl: 30/40 Geargia Farm - credit to Brenduke](#brenduke)
-    - [Lvl: 40 Hazy Farm - credit to Rezileen](#rezileen)
+    - [Lvl: 40 Necrofear Farm](#morrmaniac)
+    - [Lvl: 30/40 Geargia Farm](#brenduke)
+    - [Lvl: 40 Hazy Flame Farm](#rezileen)
 - [Elegant Mai Lvl: 40 Decklist](#40)
 - [Elegant Mai Lvl: 30 Decklist](#30)
 - **[Duel Awards](#awards)**
@@ -58,9 +58,9 @@ permalink: /events/may-2018/elegant-mai/
 
 ### Farm Decks 
 
-<a name="crimson"></a>
+<a name="morrmaniac"></a>
 
-#### Lvl: 40 Fiend Farm - credit to CrimsonLTCR
+#### Lvl: 40 Fiend Farm - credit: [morrmaniac](https://www.reddit.com/r/DuelLinks/comments/8gfyjb/deck_elegant_mai_lvl_40_necrofear_nani_consistent/) and [シドゾーマバギー海賊団](https://m.youtube.com/watch?v=QgNYu2MHq7g)
 
 [deck:Labyrinth Builder](Dark Necrofear; Dark Necrofear; Sphere Kuriboh; Sphere Kuriboh; Sphere Kuriboh; Kuriboh; Doomdog Octhros; Doomdog Octhros; Doomdog Octhros; Dark Mimic LV3; Dark Mimic LV3; Dark Mimic LV3; Gravekeeper's Vassal; Dark Mimic LV1; Dark Mimic LV1; Dark Mimic LV1; Anti-Magic Arrows; Union Attack; Union Attack; Shield & Sword)
 
