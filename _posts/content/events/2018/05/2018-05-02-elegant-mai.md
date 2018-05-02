@@ -29,7 +29,7 @@ permalink: /events/may-2018/elegant-mai/
 [slider](/img/content/events/2018/05/elegant-mai/slider.jpg)
 
 ### Event Information 
-- Elegant Mai has arrived, defeat her to strengthen your Amazoness Decks! 
+- Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! 
 - This event lasts from May 2nd to May 9th.
 - Dueling against Legendary/Standard Duelists and the Vagabond in Duel World as well as Ranked Duels will increase the chance of Elegant Mai appearing.
 - Elegant Mai will only appear in **Duel World (DM)** - not in GX!
