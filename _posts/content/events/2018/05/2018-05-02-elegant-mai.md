@@ -1,8 +1,8 @@
 ---
 layout: blog
-date: 2018-05-02 07:00:00 +0100
+date: 2018-05-02 20:00:00 +0100
 title: Elegant Mai
-author: Yami Hammy
+author: Yami Hammy & Freeska
 image: /img/content/events/2018/05/elegant-mai/thumbnail.jpg
 category: event
 ended: false
@@ -16,10 +16,15 @@ permalink: /events/may-2018/elegant-mai/
 
 ![Banner](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
 
+#### Last updated May 2nd - Added farm Decks
+
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
+    - [Lvl: 40 Fiend Farm - credit to CrimsonLTCR](#crimson)
+    - [Lvl: 30/40 Geargia Farm - credit to Brenduke](#brenduke)
+    - [Lvl: 40 Hazy Farm - credit to Rezileen](#rezileen)
 - [Elegant Mai Lvl: 40 Decklist](#40)
 - [Elegant Mai Lvl: 30 Decklist](#30)
 - **[Duel Awards](#awards)**
@@ -52,92 +57,97 @@ permalink: /events/may-2018/elegant-mai/
 ---
 
 ### Farm Decks 
-We will update soon with farm Decks, watch this space!
 
-<br>
+<a name="crimson"></a>
 
-<!--
+#### Lvl: 40 Fiend Farm - credit to CrimsonLTCR
 
-#### Level 40 Farm - created by Jadehex
+[deck:Labyrinth Builder](Dark Necrofear; Dark Necrofear; Sphere Kuriboh; Sphere Kuriboh; Sphere Kuriboh; Kuriboh; Doomdog Octhros; Doomdog Octhros; Doomdog Octhros; Dark Mimic LV3; Dark Mimic LV3; Dark Mimic LV3; Gravekeeper's Vassal; Dark Mimic LV1; Dark Mimic LV1; Dark Mimic LV1; Anti-Magic Arrows; Union Attack; Union Attack; Shield & Sword)
 
-[deck: Restart](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Senju of the Thousand Hands; Senju of the Thousand Hands; Gravekeeper's Vassal; Cyber Petit Angel; Anti-Magic Arrows; Union Attack; Union Attack; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing;Secret Pass to the Treasures)
+##### Strategy
+- Activate your Skill to play {Labyrinth Wall} shuffling any Spells back into the Deck (or if you have two {Dark Necrofear} in hand, shuffle one back).
+- Set {Doomdog Octhros} and {Dark Mimic LV1}/{Dark Mimic LV3} to search for {Dark Necrofear} and thin your Deck.
+- Whenever you have enough Monsters in the Graveyard, Special Summon {Dark Necrofear} in Defense position (don't attack with it).
+- Mai has many cards to return your Monsters back to your hand/Deck so swarm as soon as you can.   
 
-**Strategy**
-- Summon {Saffira, Queen of Dragons} as soon as possible
-- Boost the attack of your monsters with {Cyber Angel Idaten}
-- Use {Saffira, Queen of Dragons} 'Draw 2, Discard 1' effect to try and dump a {Hymn of Light} or {Machine Angel Ritual} for protection
- 
-**Last Turn** 
-- Make sure you only have 2 Ritual Monsters on the field before the last turn
-- Summon {Gravekeeper's Vassal} and target him with your {Union Attack} and {Secret Pass to the Treasures}
-- Enter Battle Phase, use {Anti-Magic Arrows}, and swing for victory
+##### Last Turn 
+You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dark Necrofear} on the field. 
+1. Activate {Shield & Sword}.
+2. Switch your two Monsters into Attack position.
+3. Summon {Gravekeeper's Vassal}.
+4. Target Vassal with two {Union Attack}.
+5. Enter Battle Phase and attack one of Mai's Attack position Monsters with the lowest ATK points!
 
-**Replacements**
-- {Senju of the Thousand Hands} can be replaced with {Gishki Chain} or {Cyber Petit Angel}
-- A copy of {Saffira, Queen of Dragons} can be replaced with {Cyber Angel Dakini}
+##### Replacements
+- {Sphere Kuriboh} can be replaced with {Kuriboh}.
 
-**Risks**
-- As with most Cyber Angel decks, this is prone to bricking if you don't open with your Ritual Spells
-- Lacking protection in your graveyard with {Hymn of Light} or {Machine Angel Ritual} can leave your monsters open to getting destroyed by Syrus' {Drillroid} or {Shield Crush}
-
----
- 
-#### Level 40 Farm - created by Clashbruh
-
-[deck](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Anti-Magic Arrows; Double Summon; Stop Defense; Defense Draw; Defense Draw; Wall of Disruption; Wall of Disruption; Draining Shield; Draining Shield; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Massivemorph; Massivemorph; Massivemorph)
-
-**Strategy**
-- Stall until the last turn using your Trap Cards
-- Gain as much life as possible (more than 5K by the last turn is sufficient)
-- Shuffle endgame cards back into your deck with {Good Goblin Housekeeping}
-
-**Last Turn** 
-- Activate {Double Summon}
-- Summon {Cosmic Compass} and summon 2 tokens with his effect
-- Tribute these tokens to summon {The Winged Dragon of Ra} and use his effect on summon
-- Target one of Syrus' monsters with {Stop Defense}
-- Enter Battle Phase, activate {Anti-Magic Arrows} and swing into the attack position monster for game
-
-
-**Replacements**
-- Ratios of cards are mostly unimportant
-- {Enchanted Javelin}, {Windstorm of Etaqua} and {Curse of Anubis} also work as stall cards
-- {Kiseitai} is not recommend due to {Drillroid} and {Shield Crush}
-- Most skills can be used with this deck
-
-**Risks**
-- You can possibly get OTKed before being able to control the board if you open with too many endgame cards
+##### Risks
+- You need to Special Summon {Dark Necrofear} as soon as possible since Mai will use {Quill Pen of Gulldos}/{Spiritual Wind Art - Miyabi} to remove your Monsters and attack you directly. 
 
 ---
 
-#### Level 40 Farm - created by Jadehex
+<a name="brenduke"></a>
 
-[deck: Restart](Red-Eyes Wyvern; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Gravekeeper's Vassal; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Anti-Magic Arrows; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Union Attack; Union Attack; Cards of the Red Stone; Cards of the Red Stone; Cards of the Red Stone; Secret Pass to the Treasures; Red-Eyes Spirit; Red-Eyes Spirit)
+#### Lvl: 30/40 Geargia Farm - credit to [Brenduke](/authors/brenduke/)
 
-**Strategy**
-- Restart for a way to summon a Red-Eyes monster as soon as possible using {Red-Eyes Spirit}. Opening with {Red-Eyes Insight} is optimal
-- Summon multiple Red-Eyes monsters
-- Attack into all his monsters so that he can't summon {Super Vehicroid Jumbo Drill}
-- He *can* kill one of your Red-Eyes using {Shield Crush} 
+[deck:Power of the Tributed](The Winged Dragon of Ra; Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Pulse Mines; Pulse Mines; Pulse Mines; Curse of Anubis; Windstorm of Etaqua)
 
-**Last Turn** 
-- Make sure you only have 2 Red-Eyes monsters on the field before the last turn
-- Summon {Gravekeeper's Vassal} and target him with your {Union Attack} and {Secret Pass to the Treasures}
-- Enter Battle Phase, use {Anti-Magic Arrows}, and swing for victory
+##### Strategy
+- Swarm the field and activate the effects of your Geargia Monsters to keep clearing Mai's field.
+- Maintain your board presence with {Powerful Rebirth}.
+- Use {Pulse Mines}, {Windstorm of Etaqua} and {Curse of Anubis} to defend against any attacks.
 
-**Replacements**
-- {Red-Eyes Wyvern} could be replaced with {Black Dragon's Chick}
+##### Last Turn 
+1. Clear her field using your Geargia flip effects.
+2. Tribute summon {The Winged Dragon of Ra} using your three Monsters.
+3. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
+4. Enter Battle Phase and attack Mai's life points directly!
 
-**Risks**
-- The bricking is deadly in this deck, but it's incredibly fast
--->
+##### Replacements
+- You can also play this deck with {Restart} for consistency however, you'll need a copy of {Back-Up Rider} to get over 5,000 damage.
+- {Ties of the Brethren} can potentially be replaced with {Enemy Controller}, {A Feint Plan} and other defensive stall cards.
+- {Powerful Rebirth} can be replaced with {Floodgate Trap Hole}.
+
+##### Risks
+- This Deck can be used against Lvl: 30, however she has a single copy of {Destruction Ring} which she could potentially use to defeat you after paying for the effect of {The Winged Dragon of Ra}.
+
+---
+
+<a name="rezileen"></a>
+
+### Lvl: 40 Hazy Farm - credit to Rezileen
+
+[deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Soul Exchange; Soul Exchange; H - Heated Heart; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
+
+##### Strategy
+- Summon {Hazy Flame Sphynx} as soon as possible! You don't need these exact cards (especially since they're expensive and difficult to obtain), but these are arguably the most optimal. 
+- Once Hazy Flame Sphynx is out, keep boosting her with {Beast Rising}. Always declare "Beast"/"Beast Warrior" for {Swamp Mirrorer}.
+- Don't attack with Hazy Flame Sphynx until it has ~5600 ATK because Mai has {Mirror Wall}. 
+- It doesn't matter if she destroys {Beast Rising} by the effect of {Harpies' Hunting Ground} as long as Hazy Flame Sphynx got one boost, she can't get over it. This also lets you stall until you draw another Beast Rising. 
+- If you didn't draw Beast Rising, keep attacking her Monsters so that she can't Summon {Swift Birdman Joe}.
+- Be wary not to attack during the third and second to last turns of the farm, as you may destory {Harpie Lady 3} who's effect will stop you cold.
+- This should get you 7,000 [Duel Assessment](/farming/duel-assessment-score/) consistently and can hit 8,000. Use {Cosmic Cyclone} to lower your LP for a ["Comeback Victory"](/farming/duel-assessment-score/), and remember to do a Tribute Summon. 
+
+##### Last Turn
+Make sure {Hazy Flame Sphynx} has over 10,000 ATK so that even if she activates {Mirror Wall}, you will still do enough damage to defeat her. 
+- Use {Cosmic Cyclones} to clear her backrow if you have the LP. If you want to be safe, you could put in an {Anti-Magic Arrows} to prevent her activating Mirror Wall.
+- Activate {H - Heated Heart}, targeting your boosted Hazy Flame Sphynx.
+- Enter the Battle Phase, and attack the Monster with the lowest DEF points!
+
+##### Replacements
+- {Soul Exchange}/{Dynatherium} can be replaced by {Mausoleum of the Emperor}/{Fire Formation - Tensu}.
+- {H - Heated Heart} can be any piercing card: {Big Bang Shot}, {Fairy Metero Crush} etc.
+
+##### Risks
+- Since this is a Hazy Flame Deck do expect it to brick sometimes.
+
 ---
 
 <a name="40"></a>
 
 ### Elegant Mai Lvl: 40 Decklist
 
-[deck](Swift Birdman Joe; Harpie Queen; Harpie Lady 1; Harpie Harpist; Birdface; Birdface; Harpie Lady Sisters; Harpie Lady 3; Harpie Lady 3; Kujakujaku; Harpies' Hunting Ground; Symbol of Heritage; Monster Gate; Phalanx Pike; Hysteric Sign; Elegant Egotist; Quill Pen of Gulldos; Mirror Wall; Spiritual Wind Art - Miyabi; Hysteric Party)
+[deck](Swift Birdman Joe; Harpie Queen; Harpie Lady 1; Harpie Harpist; Birdface; Birdface; Harpie Lady Sisters; Harpie Lady 2; Harpie Lady 3; Kujakujaku; Harpies' Hunting Ground; Symbol of Heritage; Monster Gate; Phalanx Pike; Hysteric Sign; Elegant Egotist; Quill Pen of Gulldos; Mirror Wall; Spiritual Wind Art - Miyabi; Hysteric Party)
 
 
 <a name="30"></a>

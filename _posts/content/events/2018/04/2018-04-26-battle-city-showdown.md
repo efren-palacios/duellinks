@@ -17,7 +17,7 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-**Last updated May 1st - Added new mission Decks for Mokuba and Marik (1)**
+#### Last updated May 1st - Added new mission Decks for Mokuba and Marik (1)
 
 - [Update](#update)
 - [Event Information](#event-information)
