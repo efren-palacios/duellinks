@@ -18,7 +18,7 @@ permalink: /box-reviews/valiant-souls/
 ![](/img/content/box-reviews/valiant-souls/banner.jpg)
 
 - [Card List](#card-list)
-- [Top Player Council - Post Release Updates](#tpc)
+- [Post Release Updates](#tpc)
 - [Top Player Council Thoughts: First Impressions](#tpc2)
     - ["What are the new deck types to look out for and the best cards for those deck types?"](#q1)
     - ["Which cards do you think are absolutely needed?"](#q2)
@@ -28,12 +28,8 @@ permalink: /box-reviews/valiant-souls/
 
 ---
 
-This is the 11th Main Box, it was released on April 2nd. 
-
-<!-- ADD AFTER TIER LIST IS UPDATED:
-The release of this Box created the following deck types:
-{% include deck-type-list.html deck-types='masked-heroes;geargia' %}
--->  
+This is the 11th Main Box, it was released on April 2nd. The release of this Box created the following Deck types:
+{% include deck-type-list.html deck-types='masked-heroes;geargias;amazoness' %} 
 
 ### Card List
 
@@ -56,7 +52,7 @@ The release of this Box created the following deck types:
 ---
 
 <a name="tpc"></a>
-### [Top Player Council](/top-player-council/) - Post Release Updates
+### Post Release Updates
 
 **Machdragon** says:
 - I was right about Amazoness. The new Amazoness Trap ({Amazoness Onslaught}) is decent, but still requires more impactful monsters to put it on the radar. 

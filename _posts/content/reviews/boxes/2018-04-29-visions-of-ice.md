@@ -1,7 +1,7 @@
 ---
 layout: blog
-date: 2018-04-30 08:00:00 +0100
-title: "Visions of Ice First Impressions"
+date: 2018-05-02 21:00:00 +0100
+title: "Post-Release Review: Visions of Ice"
 author: Yami Hammy
 category: review
 sub-category: box
@@ -18,6 +18,7 @@ permalink: /box-reviews/visions-of-ice/
 ![banner](/img/content/box-reviews/visions-of-ice/banner.jpg)
 
 - [Card List](#card-list)
+- [Post Release Updates](#tpc2)
 - [Top Player Council - First Impressions](#tpc)
     - ["What are your first impressions of Spellbooks/Prophecy?"](#q1)
     - ["What are your first impressions of Gustos?"](#q2)
@@ -28,7 +29,11 @@ permalink: /box-reviews/visions-of-ice/
 
 ---
 
-This Mini Box will be released on [May 1st](/news/april-2018/in-game-updates/).
+This is the 11th Mini Box, it was released on May 1st. The release of this Box created the following Deck type: 
+
+<br>
+
+{% include deck-type-list.html deck-types='spellbooks' %} 
 
 ### Card List
 
@@ -50,6 +55,25 @@ This Mini Box will be released on [May 1st](/news/april-2018/in-game-updates/).
 
 ---
 
+<a name="tpc2"></a>
+
+### Post Release Updates
+
+#### "After testing the new Box, what do you believe will have an impact on the meta?"
+
+<br>
+
+**[SelectMaple](/top-player-council/selectmaple/)** says:
+- Spellbooks will definitely have an impact on the meta. I said Spellbooks will become a top tier deck and I was correct about that, although was wrong about the boss Monsters not being good. After testing, I found that {Reaper of Prophecy} and {Prophecy Destroyer} synergize well with the {That Grass Looks Greener} build as that is the build most are going for.
+
+**[Whybona](/top-player-council/whybona/)** says:
+- Only Spellbooks. It seems like the 30 card version with {That Grass Looks Greener} is the best way to play it right now but the Deck does have some clear weaknesses. I think it will struggle in Side Deck tournaments and a lot against [Masked Heroes](/tier-list/deck-types/masked-heroes/) as people learn to play against it. However, if the Deck opens with a good That Grass Looks Greener play it is incredibly hard for any Deck to beat it.
+
+**[Kaki](/top-player-council/kaki/)** says:
+- Yes, Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
+
+---
+
 <a name="tpc"></a>
 
 ### [Top Player Council](/top-player-council/) - First Impressions
@@ -64,7 +88,7 @@ This Mini Box will be released on [May 1st](/news/april-2018/in-game-updates/).
 - They're missing some crucial cards that would make Spellbooks tier 1. However, {Spellbook of Secrets}, {Spellbook of Power} and {Spellbook of Fate} are a nice addition to Spellcaster Decks.
 
 **[MiguelJoker](/top-player-council/migueljoker/)** says:
-- They will be tier 1, {Spellbook of Fate} is broken.
+- They will be tier 1 as you can activate {Spellbook of Fate} turn 1 against {Sylvan Komushroomo}, turn 1 versus [Masked Heroes](/tier-list/deck-types/masked-heroes/) ({Mask Change}) since it doesn't target and against [Geargias](/tier-list/deck-types/geargias/) when then activate {Ties of the Brethren} you put their Monster in face-down Defense position.
 
 **[SelectMaple](/top-player-council/selectmaple/)** says:
 - Very strong engine using {Spellbook of Secrets} and {Spellbook Magician of Prophecy} to search for your Spellbook cards. 
