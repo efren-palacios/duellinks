@@ -18,7 +18,7 @@ permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
 [w75]
 ![](/img/content/guides/magnet-warrior-guide-by-beastymario/magnets1.jpg)
 
-* Updated April 4th, 2018
+* Updated May 2nd, 2018 - Sample Decklists Updated
 
 ### Table of Contents
 * [Introduction](#introduction)
@@ -57,9 +57,6 @@ permalink: /guides/deck-types/magnet-warrior-guide-by-beastymario/
 
 ### Introduction  
 
-Magnet Warriors are arguably the most recognisable archetype due to their popularity in the anime. Though they may not be a top tier deck in the TCG/OCG, in Duel Links, it’s a different story. They are currently a 'Tier 3' deck which is defined as follows: 'They have potential - keep your eyes out for these deck-types. Don't expect to see them played often in a **competitive event** but do not ignore their existence when building your deck and choosing techs or it may be your downfall. A great player dedicated to one of these deck-types can dominate others through extensive experience.'  
-So to summarize, don’t sleep on Magnets!  
-
 Magnets is an archetype that focuses on milling your Rock monsters to the graveyard quickly with the use of {Delta The Magnet Warrior} and {Beta The Electromagnet Warrior} so that you can set up special summons and draw into your big plays. With the simple special summon requirements of {Gaia Plate the Earth Giant} and {Valkyrion the Magna Warrior}, in combination with {Anti-Magic Arrows}/{Storm}/{Hey, Trunade!}, this deck can easily OTK or disrupt/destroy your opponent.  
 
 I believe this deck is very versatile and in this guide  I’ll explain and provide information on how and why this archetype can dominate the tier list.  
@@ -77,7 +74,7 @@ Notable placings:
 - 3rd place Duel Links Open #2    
 - 6th Place Global KC Cup 2018  
 
-[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Beta The Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Storm; Storm; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)  
+[deck:Restart](Gaia Plate the Earth Giant; Gaia Plate the Earth Giant; Valkyrion the Magna Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Delta The Magnet Warrior; Beta The Electromagnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Beta The Magnet Warrior; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Wall of Disruption)  
 
 Restart is probably the best skill to use as it gives you a second opportunity to open with the combo of Delta/Electromagnet along with a {Powerful Rebirth}/{Spiritual Earth Art - Kurogane}. This combo is key if you want to special summon your big monsters quickly. This deck has a pretty high chance to brick so Restart is the obvious choice for it to be as consistent as possible.  
 
