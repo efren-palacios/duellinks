@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-01 23:00:00 +0100
+date: 2018-05-03 09:00:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
@@ -17,7 +17,7 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-#### Last updated May 1st - Added new mission Decks for Mokuba and Marik (1)
+##### Last updated May 3rd - Divine Trials and new Skill
 
 - [Update](#update)
 - [Event Information](#event-information)
@@ -38,6 +38,19 @@ ended: false
 ---
 
 ### Update
+
+Use your "Divine Offerings" to challenge Yami Yugi in a "Divine Trial" and obtain his new skill {Card of Sanctity} as well as 100 Gems!  
+
+[slider](/img/content/events/2018/04/battle-city-showdown/slider-update.jpg)
+
+#### Yami Yugi Lvl: 50 Decklist
+
+There's no need to farm him since all he drops are more "Divine Offerings", but here's the Decklist anyway.
+
+[deck:Divine Advent](Valkyrion the Magna Warrior; King of the Swamp; Legion the Fiend Jester; Kuriboh; Buster Blader; Berfomet; King's Knight; Dark Magician; Dark Magician; Gamma the Magnet Warrior; Jack's Knight; Queen's Knight; Beta the Magnet Warrior; Alpha the Magnet Warrior; Gazelle the King of Mythical Beasts; Gazelle the King of Mythical Beasts; Polymerization; Fusion Recycling Plant; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer)
+[deck](Arcana Knight Joker; Dark Paladin; Chimera the Flying Mythical Beast)
+
+---
 
 The Treasure Room has appeared, land on it to enter the room to get tons of Millenium Coins and Duel the Battle City commissioner - [Mokuba](#mokuba-kaiba)! 
 

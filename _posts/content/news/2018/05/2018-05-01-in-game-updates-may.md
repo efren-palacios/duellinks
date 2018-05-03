@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (2) - May 2
+title: In-Game Updates (3) - May 3
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-02 06:30:00 +0100
+date: 2018-05-03 08:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,6 +14,34 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
+<a name="30"></a>
+
+## May 3rd (Update 3)
+
+<br>
+
+<a name="31"></a>
+
+### Battle City: Divine Trials
+
+Use your "Divine Offerings" to challenge Yami Yugi and obtain his new skill {Card of Sanctity}! Check out our [event article](/events/april-2018/battle-city-showdown/) for the best Decks to complete all the missions.
+
+![](/img/content/news/2018/05/in-game-updates/03-battle-city.jpg)
+
+---
+
+- [May 3rd (Update 3)](#30)
+    - [Battle City: Divine Trials](#31)
+- [May 2nd (Update 2)](#20)
+    - [Obtain a Legendary Duelist](#21)
+    - [Elegant Mai Event](#22)
+    - [Bonus Reward Campaign!](#23)
+- [May 1st (Update 1)](#10)
+    - [Ranked Duels Updated](#11)
+    - [New Card BOX](#12)
+    - [Sale Underway](#13)
+
+---
 
 <a name="20"></a>
 
@@ -44,17 +72,6 @@ Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! Check out
 +1000 [Duel Assessment](/farming/duel-assessment-score/) score until May 7th. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
 
 [slider](/img/content/news/2018/05/in-game-updates/02-bonus.jpg)
-
----
-
-- [May 2nd (Update 2)](#20)
-    - [Obtain a Legendary Duelist](#21)
-    - [Elegant Mai Event](#22)
-    - [Bonus Reward Campaign!](#23)
-- [May 1st (Update 1)](#10)
-    - [Ranked Duels Updated](#11)
-    - [New Card BOX](#12)
-    - [Sale Underway](#13)
 
 ---
 

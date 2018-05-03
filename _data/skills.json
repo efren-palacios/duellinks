@@ -950,5 +950,12 @@
     "how": "NPC Only",
     "exclusive": true,
     "character": "Seto Kaiba"
+  },
+  {
+    "name": "Divine Advent",
+    "description": "At the beginning of turn 5 and onward, play 'Obelisk the Tormentor,' 'Slifer the Sky Dragon,' or 'The Winged Dragon of Ra' on your side of the field. This Skill can only be used once per Duel.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Yami Yugi"
   }
 ]
