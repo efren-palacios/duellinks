@@ -90,5 +90,21 @@
     {
         "name": "Aroma Garden",
         "rarity": "N"
+    },
+    {
+        "name": "That Grass Looks Greener",
+        "rarity": "SR"
+    },
+    {
+        "name": "Chaos Hunter",
+        "rarity": "UR"
+    },
+    {
+        "name": "Magic Deflector",
+        "rarity": "R"
+    },
+    {
+        "name": "Archfiend Empress",
+        "rarity": "SR"
     }
 ]
