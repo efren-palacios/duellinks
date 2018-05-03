@@ -17,7 +17,7 @@ permalink: /tournaments/anytime-tournament/may-2018/report/
 ### Information
 - This tournament takes place **any time** in the Discord, 1st place wins $14 + 1 Meta Point and 2nd place wins 1 Meta Ticket!
 - You can join the lobby by typing **!enterticket** anywhere in the Discord (while you have at least 1 Meta Ticket). 
-- If you win an tournament you **must** message Gia (Gia Joestar#7730) your PayPal address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
+- If you win a tournament you **must** message Gia (Gia Joestar#7730) your [PayPal](https://paypal.com/) address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
 
 ### Format
 - 8 Players
