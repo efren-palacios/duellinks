@@ -224,7 +224,7 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |97-107|Ross| 1 point|
 |97-107|NA-| 1 point|
 |97-107|Lieral|1 point|
-|97-107|Chiliah| 1 point|
+|97-107|Chilah| 1 point|
 |97-107|BlackGundam|1 point|
 |97-107|pawapoke|1 point|
 |97-107|millard|1 point|
