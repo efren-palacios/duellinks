@@ -6,7 +6,8 @@
 		"group-id": "admin",
 		"group-name": "Admin",
 		"url": "",
-		"color": "#FF1B2B"
+		"color": "#FF1B2B",
+		"description": "People with this role provide leadership and organization to the site. They determine the priority of functionality, articles and various structures to how the site is built and maintained."
 	},
 	{
 		"priority": "2",
@@ -15,7 +16,8 @@
 		"group-id": "top-player-council",
 		"group-name": "The Top Player Council",
 		"url": "/top-player-council/",
-		"color": "#315FF5"
+		"color": "#315FF5",
+		"description": "The Top Player Council is comprised of several members that have shown over a period of time their continued high performance in various tournaments that they have the ability to provide keen insight on various cards, skill, deck types, etc. dealing with the meta of the game. This group is heavily involved in maintaining the tier list and providing feedback various game changes."
 	},
 	{
 		"priority": "3",
@@ -24,7 +26,8 @@
 		"group-id": "deck-type-experts",
 		"group-name": "The Deck Type Experts",
 		"url": "",
-		"color": "#DD8800"
+		"color": "#DD8800",
+		"description": "These people have proven themselves in one form or another that have insight on a particular deck type. They've reached King of Games (KoG) several times with this deck type, have topped several tournaments with it and have most likely developed an introduction (or in-depth) guide of that deck type."
 	},
 	{
 		"priority": "4",
@@ -33,7 +36,8 @@
 		"group-id": "developers",
 		"group-name": "The Dev Team",
 		"url": "/the-dev-team/",
-		"color": "#A91B53"
+		"color": "#A91B53",
+		"description": "This group of people builds and maintains all functionality on the website. At times, they may contribute to various content on the site, but their main role is maintenance and addition to its structure."
 	},
 	{
 		"priority": "5",
@@ -42,7 +46,8 @@
 		"group-id": "content-managers",
 		"group-name": "The Content Managers",
 		"url": "",
-		"color": "#2ECC61"
+		"color": "#2ECC61",
+		"description": "Content managers provide supervision over all content produced on this website. This includes articles, guides, news reports, etc. If there are any content based issues with the site, they are the first to process it and either address it themselves or assign/research the proper channels."
 	},
 	{
 		"priority": "6",
@@ -51,6 +56,7 @@
 		"group-id": "content-editors",
 		"group-name": "The Content Editors",
 		"url": "",
-		"color": "#3496DB"
+		"color": "#3496DB",
+		"description": "Content editors develop the initial research for developing a post (i.e. article, guide, etc.) They gather the content from various sources, develop an article and submit it to their manager for review and uploading."
 	}
 ]
