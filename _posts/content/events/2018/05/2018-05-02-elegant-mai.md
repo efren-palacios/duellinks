@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-02 20:00:00 +0100
+date: 2018-05-03 02:00:00 +0100
 title: Elegant Mai
 author: Yami Hammy & Freeska
 image: /img/content/events/2018/05/elegant-mai/thumbnail.jpg
@@ -16,7 +16,7 @@ permalink: /events/may-2018/elegant-mai/
 
 ![Banner](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
 
-##### Last updated May 2nd - Added farm Decks
+##### Last updated May 3rd - Added Lvl: 30 farm Deck
 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -25,6 +25,7 @@ permalink: /events/may-2018/elegant-mai/
     - [Lvl: 40 Necrofear Farm](#morrmaniac)
     - [Lvl: 30/40 Geargia Farm](#brenduke)
     - [Lvl: 40 Hazy Flame Farm](#rezileen)
+    - [Lvl: 30 Blue-Eyes Farm](#blue)
 - [Elegant Mai Lvl: 40 Decklist](#40)
 - [Elegant Mai Lvl: 30 Decklist](#30)
 - **[Duel Awards](#awards)**
@@ -36,7 +37,7 @@ permalink: /events/may-2018/elegant-mai/
 ### Event Information 
 - Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! 
 - This event lasts from May 2nd to May 9th.
-- Dueling against Legendary/Standard Duelists and the Vagabond in Duel World as well as Ranked Duels will increase the chance of Elegant Mai appearing.
+- **Dueling against Legendary/Standard Duelists and the Vagabond in Duel World as well as Ranked Duels will increase the chance of Elegant Mai appearing.**
 - Elegant Mai will only appear in **Duel World (DM)** - not in GX!
 - She does not appear at the gate and the chance of her appearing is not affected by Dueling at the gate.
 
@@ -130,9 +131,9 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 
 ##### Last Turn
 Make sure {Hazy Flame Sphynx} has over 10,000 ATK so that even if she activates {Mirror Wall}, you will still do enough damage to defeat her. 
-- Use {Cosmic Cyclones} to clear her backrow if you have the LP. If you want to be safe, you could put in an {Anti-Magic Arrows} to prevent her activating Mirror Wall.
-- Activate {H - Heated Heart}, targeting your boosted Hazy Flame Sphynx.
-- Enter the Battle Phase, and attack the Monster with the lowest DEF points!
+1. Use {Cosmic Cyclones} to clear her backrow if you have the LP. If you want to be safe, you could put in an {Anti-Magic Arrows} to prevent her activating Mirror Wall.
+2. Activate {H - Heated Heart}, targeting your boosted Hazy Flame Sphynx.
+3. Enter the Battle Phase, and attack the Monster with the lowest DEF points!
 
 ##### Replacements
 - {Soul Exchange}/{Dynatherium} can be replaced by {Mausoleum of the Emperor}/{Fire Formation - Tensu}.
@@ -140,6 +141,29 @@ Make sure {Hazy Flame Sphynx} has over 10,000 ATK so that even if she activates 
 
 ##### Risks
 - Since this is a Hazy Flame Deck do expect it to brick sometimes.
+
+---
+
+<a name="blue"></a>
+
+### Lvl: 30 Blue-Eyes Farm
+
+[deck:Restart](Kaibaman; Kaibaman; Blue Dragon Summoner; Blue Dragon Summoner; Blue Dragon Summoner; Gravekeeper's Vassal; Crystal Seer; Crystal Seer; Crystal Seer; Blue-Eyes White Dragon; Blue-Eyes White Dragon; Blue-Eyes White Dragon; Union Attack; Union Attack; Wonder Wand; Wonder Wand; Wonder Wand; Ancient Rules; Ancient Rules; Secret Pass to the Treasures)
+
+##### Strategy
+- Activate {Restart} if you don't have a way to Summon {Blue-Eyes White Dragon} or search for it.
+- Only attack Defense position Monsters so you don't lose the ["Effect Only Damage"](/farming/duel-assessment-score/) bonus. 
+- Thin your Deck with {Blue Dragon Summoner} and {Crystal Seer} + {Wonder Wand}.
+
+##### Last Turn 
+You should have two {Blue-Eyes White Dragon} on the field. 
+
+1. Summon {Gravekeeper's Vassal}.
+2. Target Vassal with two {Union Attack} and {Secret Pass to the Treasures}.
+3. Enter Battle Phase and attack directly for victory!
+
+##### Replacements
+- {Crystal Seer} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Dark Mimic LV1}, {Dark Mimic LV3}, {Dekoichi the Battlechanted Locomotive}, {Jar of Greed}, {Shard of Greed}, {Legacy of Yata-Garasu} etc.
 
 ---
 

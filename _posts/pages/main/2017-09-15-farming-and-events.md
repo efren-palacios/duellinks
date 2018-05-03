@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: /img/pages/events/thumbnail-battle-city.jpg
+image: /img/pages/events/thumbnail-elegant-mai.jpg
 category: page
 sub-category: main
 order: 5
