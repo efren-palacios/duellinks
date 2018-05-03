@@ -120,6 +120,22 @@ The Meta Championship Series is Duel Link's largest and most competitive tournam
 
 ---
 
+## Anytime Tournaments
+
+### About the Anytime Tournaments
+These tournaments are meant to be ran at any time, independent of the stream being on or any particular day/time.
+
+### How to Join
+You must have access to the Discord. To gain access, see more information on the [Community](/community/) page. Once you have access, simply type !enterticket anywhere in the Discord server while you have at least 1 Meta Ticket. 
+
+### Additional Information
+* 8 Players signup with !enterticket to gain access to the _anytime-tournament-room_ channel
+* A mod is notified to create a challonge.com sign-up + a Duel Room
+* Top 8, Top 4, then Finals are played
+* 1st Place winner posts their decklist in the _1st-place-decks_ to be paid at the end of every week   
+
+---
+
 ![](/img/logos/meta-weekly.png)
 
 ## Meta Weekly 
