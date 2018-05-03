@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-03-25
 title: "Duel Links Open #5"
 author: Yami Hammy
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Duel Links Open
 number: 5
 image: /img/content/tournaments/dlo/thumbnail.jpg
-date: 2018-03-25
 comments: true
 description: This is the report for the fifth Duel Links Open Tournament hosted by Magpie, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, dlo, duel links open, open,

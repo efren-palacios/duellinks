@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-04-22
 title: "Duel Links Mini Open #2"
 author: Jonesy9027
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Duel Links Mini Open
 number: 2
 image: /img/content/tournaments/dlo/thumbnail.jpg
-date: 2018-04-22
 comments: true
 description: This is the report for the Second Duel Links Mini Open Tournament hosted by Magpie, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, dlmo, dlo, duel links open, open,

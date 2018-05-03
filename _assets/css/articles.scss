@@ -18,6 +18,20 @@
     -webkit-perspective: 1000px;
     perspective: 1000px;
 
+    /*&.col-sm-6 .cover
+    {
+      width: 508px;
+      height: 179px;
+      object-fit: contain;
+    }
+
+    &.col-sm-4 .cover
+    {
+      width: 334px;
+      height: 179px;
+      object-fit: contain;
+    }*/
+
     .article-card
     {
       background-color: rgba(8, 13, 120, 0.05);
@@ -64,13 +78,13 @@
 
         .title
         {
-          font-size: 1.85rem;
+          font-size: 29.6px;
           width: 100%;
           margin-bottom: 2px;
           padding-top: 5px;
           line-height: 30px;
           text-transform: uppercase;
-          text-shadow: 2px 2px 2px rgba(14, 37, 128, 0.9);
+          text-shadow: 1.5px 1.5px 2px rgba(14, 37, 128, 0.9);
           letter-spacing: -0.8px;
         }
 
@@ -78,23 +92,37 @@
         {
           width: 100%;
           line-height: 16px;
-          font-size: 0.85rem;
+          font-size: 13.6px;
 
+          > *
+          {
+            float: left;
+            margin-right: 4px;
+          }
+        }
+
+        .authors
+        {
+          font-size: 13.6px;
+          line-height: 16px;
+          
           .author
           {
             font-weight: 600;
-            
-            &:hover
+            text-shadow: 0px 0px 3px rgb(0, 0, 0);
+
+            &:after
             {
-              text-decoration: underline;
+              margin-left: -2px;
+              margin-right: 2px;
+            }
+            
+            &:nth-last-child(2)::after
+            {
+              margin-left: 3px;
             }
           }
-
-          .comma
-          {
-            margin-left: -4px;
-          }
-        }        
+        }
       }
     }
   }
@@ -164,5 +192,64 @@
   &.tier-list-update  { @include ribbon-color(#315FF5) }
   &.tournament-report  { @include ribbon-color(#6C3799) }
   &.tournament-announcement  { @include ribbon-color(#6C3799) }
+}
 
+.authors
+{
+  
+  .author
+  {
+    color: inherit;
+    
+    &:hover { text-decoration: underline; }
+    &.no-role { color: $active; }
+    &.no-profile
+    {
+      pointer-events: none;
+
+      &:hover { text-decoration: none; }
+    }
+
+    &:after
+    {
+      content: ",";
+      display: inline-block;
+    }
+    
+    &:nth-last-child(2)::after
+    {
+      content: "and";
+    }
+
+    &:last-child::after
+    {
+      content: "";
+    }
+  }
+}
+
+@media only screen and (max-width: 1080px)
+{ 
+  .card-collection .card-container .article-card .information .title
+  {
+    font-size: 2.74vw;
+  }
+
+  .card-collection .card-container .article-card .information .sub-text
+  {
+    font-size: 1.26vw;
+  }
+}
+
+@media only screen and (max-width: 575px)
+{ 
+  .card-collection .card-container .article-card .information .title
+  {
+    font-size: 5.48vw;
+  }
+
+  .card-collection .card-container .article-card .information .sub-text
+  {
+    font-size: 2.52vw;
+  }
 }
