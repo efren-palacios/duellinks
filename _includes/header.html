@@ -1,7 +1,7 @@
 {% assign tier-list = site.posts | where: "permalink", "/tier-list/" | first %}
 {% assign top-decks = site.posts | where: "permalink", "/top-decks/" | first %}
 {% assign meta-cham = site.posts | where: "permalink", "/tournaments/" | first %}
-{% assign top-playr = site.posts | where: "permalink", "/top-players/" | first %}
+{% assign community = site.posts | where: "permalink", "/community/" | first %}
 {% assign farm-even = site.posts | where: "permalink", "/farming-and-events/" | first %}
 {% assign guidessss = site.posts | where: "permalink", "/guides-and-reviews/" | first %}
 
@@ -44,7 +44,7 @@
   {% include articles/article.html article=tier-list options='3, 5, 6, 7' date=tierListDate %}
   {% include articles/article.html article=top-decks options='3, 5, 6, 7' date=topDecksDate %}
   {% include articles/article.html article=meta-cham options='3, 5, 6, 7' %}
-  {% include articles/article.html article=top-playr options='3, 5, 6, 7' %}
+  {% include articles/article.html article=community options='3, 5, 6, 7' %}
   {% include articles/article.html article=farm-even options='3, 5, 6, 7' date=farmEvenDate %}
   {% include articles/article.html article=guidessss options='3, 5, 6, 7' date=guidesssDate %}
 </div>

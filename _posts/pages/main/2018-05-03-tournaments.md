@@ -24,7 +24,7 @@ styles: soon.min.css
 ## Meta Championship Series (MCS)
 
 ### How to Join 
-You must join the Duel Links Meta discord in order to participate in the MCS, click [here](/top-players/) to join!
+You must join the Duel Links Meta discord in order to participate in the MCS, click [here](/community/) to join!
 
 ### About the Meta Championship Series
 The Meta Championship Series is Duel Link's largest and most competitive tournament held monthly for cash prizes. It's where the best players compete for the largest prize pool in Duel Links.
@@ -265,4 +265,4 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 * Top 10  = 20 points
 * Top 100 = 10 points
 
-Check out the [Season 1 Top Player Ladder](/top-players/season-1/)
+Check out the [Season 1 Top Player Ladder](/tournaments/top-players/season-1/)

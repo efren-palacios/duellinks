@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Top Players
+title: Community
 author: Dkayed; GiaJoestar
-image: /img/pages/top-players/tpc1.jpg
+image: /img/pages/community/tpc1.jpg
 category: page
 sub-category: main
 order: 4
@@ -10,12 +10,12 @@ comments: false
 date: 2018-04-01 01:30:00 -0600
 description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
-permalink: /top-players/
+permalink: /community/
 ---
 
 
 <a href="#topladder"> 
-![Top Player Ladder](/img/pages/top-players/banner-top-player-ladder.png)
+![Top Player Ladder](/img/pages/community/banner-top-player-ladder.png)
 </a>
 
 <hr style="border-color: #B5B5B5;">
