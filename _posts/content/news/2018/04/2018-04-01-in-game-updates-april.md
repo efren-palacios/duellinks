@@ -308,7 +308,7 @@ As we wrote in our [Datamined Discoveries](/news/april-2018/datamined-discoverie
 
 50 Gems a day for 3 KC Cup Duels - a pretty good deal! 
   
-But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
+But, if you want to compete for some real prizes join the [MCS](/tournaments/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
 
 [slider](/img/content/news/2018/04/in-game-updates/slider-05-kc-cup.jpg)
 
@@ -349,7 +349,7 @@ There will be a maintenance tomorrow to conclude the [Jesse event](/events/march
 
 1st Stage of the KC Cup is starting on Thursday 5th April. Those who reached [King of Games last season](/top-decks/march-2018/) will automatically be entered into the 2nd Stage - rank highly for bragging rights, Prismatic cards and an invitation to your 2018 World Championship Regional Qualifier. 
   
-But, if you want to compete for some real prizes join the [MCS](/tournaments/meta-championship-series/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
+But, if you want to compete for some real prizes join the [MCS](/tournaments/) (with a previous prize pool of $4,400!) and [Meta Weekly](/tournaments/meta-weekly/)! 
 
 ![](/img/content/news/2018/04/in-game-updates/kc-cup.jpg)
 

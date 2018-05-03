@@ -19,7 +19,7 @@ permalink: /tournaments/duel-links-mini-open/1/report/
 ### Tournament Information
 - This tournament was hosted by Magpie and casted by KrustyKatz. Be sure to join the [Duel Links Open Discord](https://discord.gg/TC2R5ck) to keep up with future tournaments and watch krustykratz stream on [Twitch](https://www.twitch.tv/krustykatz)!
 - Wednesday 28th March, 7pm EDT
-- There were two [MCS](/tournaments/meta-championship-series/) champions, several DLPR Top 30 and other notable names competing in the tournament!
+- There were two [MCS](/tournaments/) champions, several DLPR Top 30 and other notable names competing in the tournament!
 - Free to enter and first come first serve (must be a Discord member)
 
 ### Format

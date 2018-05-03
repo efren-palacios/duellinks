@@ -138,7 +138,7 @@ I only tested Paleo and Geargia.
     - A big {Hazy Flame Sphynx}/{Cyber Angel Dakini} will be a big problem for this deck.
     - Most people are running {Forbidden Chalice} over {Enemy Controller}.
    
-I didn't test other decks as I'm too busy at the moment, I wont even have time for [MCS](/tournaments/meta-championship-series/) or KC Cup I believe.
+I didn't test other decks as I'm too busy at the moment, I wont even have time for [MCS](/tournaments/) or KC Cup I believe.
 
 **Kayoh - 7th NA** says:
 - Masked Heros are Tier 2 potential just like everyone predicted with a consistent and huge OTK potential. They are basically Ninjas 2.0 with a decent draw engine and it has a lot of room for techs like [Red-Eyes Zombie](/guides/deck-types/red-eyes-zombies-guide-by-insano/), so it will be able to adapt with the meta. I think playing them with {Restart} and/or {Vision HERO Vyon} may be better than {Destiny Calling}. 
