@@ -204,7 +204,7 @@ Updated 5/4/18
 |74-82|Kalut| 3 points|
 |74-82|Hakai| 3 points|
 |74-82|Sergio10na|3 points|
-|74-82|Beastymario - 3 points|
+|74-82|Beastymario | 3 points|
 |74-82|BuilttoTilt| 3 points|
 |74-82|Chilah| 3 point|
 |83-103|p0wEr_stEErIng| 2 points|
