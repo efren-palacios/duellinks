@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-04-05
-title: "Post-Release Review: Valiant Souls"
+title: "Box Review: Valiant Souls"
 author: Yami Hammy
 category: review
 sub-category: box
