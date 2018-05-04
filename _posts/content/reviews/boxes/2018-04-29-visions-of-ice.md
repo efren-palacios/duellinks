@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-02 21:00:00 +0100
-title: "Post-Release Review: Visions of Ice"
+title: "Box Review: Visions of Ice"
 author: Yami Hammy
 category: review
 sub-category: box
