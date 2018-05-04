@@ -188,6 +188,41 @@ li.nav-item > a.nav-link:focus
 
 //adjust textsize/spacing for mobile
 
+@media only screen and (max-width: 975px)
+{
+  .navbar-brand {
+    margin-right: 0.8rem !important;
+  }
+
+  li.nav-item > a.nav-link {
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
+  }
+}
+
+@media only screen and (max-width: 907px)
+{
+  .navbar-brand {
+    margin-right: 0.5rem !important;
+  }
+
+  li.nav-item > a.nav-link {
+    font-size: 16px;
+  }  
+}
+
+@media only screen and (max-width: 830px)
+{
+  li.nav-item > a.nav-link {
+    padding-left: 0.3rem !important;
+    padding-right: 0.3rem !important;
+  }
+
+  li.nav-item > a.nav-link {
+    font-size: 15px;
+  }  
+}
+
 @media only screen and (min-width: 805px)
 {
   .navbar-collapse {
@@ -195,74 +230,23 @@ li.nav-item > a.nav-link:focus
   }
 }
 
-
-@media only screen and (max-width: 804px)and (min-width:771px){
-  .navbar-brand{
-    margin-right: 0.8rem !important;
-  }
+@media only screen and (max-width: 725px){
   li.nav-item > a.nav-link {
-  padding-left: 0.6rem !important;
-  padding-right: 0.6rem !important;
+    font-size: 18px;
   }
-}
 
-
-@media only screen and (max-width: 770px)and (min-width:703px){
-  .navbar-brand{
-    margin-right: 0.5rem !important;
-  }
-  li.nav-item > a.nav-link {
-  font-size: 18px;
-  padding-left: 0.5rem !important;
-  padding-right: 0.5rem !important;
-  }
-  
-}
-
-@media only screen and (max-width: 702px) and (min-width:655px){
-  .navbar-brand{
-    margin-right: 0.5rem !important;
-  }
-  li.nav-item > a.nav-link {
-  font-size: 16px;
-  padding-left: 0.5rem !important;
-  padding-right: 0.5rem !important;
-  }
-  .navbar-nav{
-    margin-top: 10px !important;
-  }
-}
-
-@media only screen and (max-width: 654px) and (min-width:621px){
-  .navbar-brand{
-    margin-right: 0.5rem !important;
-  }
-  li.nav-item > a.nav-link {
-  font-size: 15px;
-  padding-left: 0.5rem !important;
-  padding-right: 0.5rem !important;
-  }
-  .navbar-nav{
-    margin-top: 10px !important;
-  }
-}
-
-@media only screen and (max-width: 620px){
-  li.nav-item > a.nav-link {
-  font-size: 18px;
-  }
   .navbar .navbar-brand{
     display: table;
     margin-right: auto !important;
     margin-left: auto !important;
   }
+  
   .navbar-nav{
     margin-top: 10px !important;
   }
 }
 
-
-@media (min-width: 621px){
+@media (min-width: 726px){
   .navbar-nav{
     flex-direction: row;
   }
@@ -276,7 +260,7 @@ li.nav-item > a.nav-link:focus
 
 .navcontent{
   margin:0 auto;
-  @media (min-width: 621px){
+  @media (min-width: 726px){
     display: inline-flex;
   }
 }
