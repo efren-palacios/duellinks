@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: New Balance - What You Should Know
+title: Balance Skill - What You Should Know
 author: pll & superforms
 category: guide
 sub-category: competitive

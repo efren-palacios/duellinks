@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-02 21:00:00 +0100
-title: "Post-Release Review: Visions of Ice"
+title: "Box Review: Visions of Ice"
 author: Yami Hammy
 category: review
 sub-category: box
@@ -70,7 +70,14 @@ This is the 11th Mini Box, it was released on May 1st. The release of this Box c
 - Only Spellbooks. It seems like the 30 card version with {That Grass Looks Greener} is the best way to play it right now but the Deck does have some clear weaknesses. I think it will struggle in Side Deck tournaments and a lot against [Masked Heroes](/tier-list/deck-types/masked-heroes/) as people learn to play against it. However, if the Deck opens with a good That Grass Looks Greener play it is incredibly hard for any Deck to beat it.
 
 **[Kaki](/top-player-council/kaki/)** says:
-- Yes, Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
+- Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
+
+**[3K All Day](/top-player-council/3kallday/)** says:
+- Spellbooks will 100% be at least tier 3, maybe tier 2. {Treacherous Trap Hole} is a card that anyone can plug in and has been having a ton of success in [Sylvans](/tier-list/deck-types/sylvans/) and [Masked Heroes](/tier-list/deck-types/masked-heroes/). The rest in my opinion is either not discovered yet or won't have any impact.
+
+**[MiguelJoker](/top-player-council/migueljoker/)** says:
+- I agree with my first impressions.
+
 
 ---
 

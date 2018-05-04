@@ -75,7 +75,7 @@ The Treasure Room has appeared, land on it to enter the room to get tons of Mill
 
 ### Rewards
 
-In addition to Gems, Gold, Keys and EX Jewels, the following cards can be drawn from the lottery! You can also obtain one copy each of these cards the Card Trader EX (he's next to Duel School).
+In addition to Gems, Gold, Keys and EX Jewels, the following cards can be drawn from the lottery! You can also obtain **multiple** copies of each of these cards from the Card Trader EX (he's next to Duel School).
 
 [deck](Skilled Blue Magician; Maha Vailo; Dark Sage; Swift Gaia the Fierce Knight; Kuriboh; Thousand Needles; Dark Hunter; Tactical Espionage Expert; The Portrait's Secret; Swordsman of Landstar; Fusion Sword Murasame Blade; Anti-Magic Arrows; Horn of the Unicorn; Multiply; Detonate; Bone Temple Block; Coffin Seller; Virus Cannon; Kaiser Dragon)
    
