@@ -63,7 +63,7 @@ Hey guys, me again. Taking everyones money tonight.
 
 ##### Serenity
 
-First ever Anytime Tournament after the new Box ([Visions of Ice](/box-reviews/visions-of-ice/)) conquered by Spellbooks! This Deck is absolutely insane and is definitely note worthy and one you should look out for. This is my personal OTK variant using That Grass Looks Greener.
+First ever Anytime Tournament after the new Box ([Visions of Ice](/box-reviews/visions-of-ice/)) conquered by Spellbooks! This Deck is absolutely insane and is definitely note worthy and one you should look out for. This is my personal OTK variant using {That Grass Looks Greener}.
 Once I hit KoG with this deck I will make a detailed guide on how to play this meta breaking deck.
 
 [deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Prophecy Destroyer; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Enemy Controller; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
