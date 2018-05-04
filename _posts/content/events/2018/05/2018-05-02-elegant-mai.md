@@ -102,7 +102,7 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 1. Clear her field using your Geargia flip effects.
 2. Tribute summon {The Winged Dragon of Ra} using your three Monsters.
 3. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
-4. Enter Battle Phase, activate Anti-Magic Arrows, and attack Mai's life points directly!
+4. Enter Battle Phase and attack Mai's life points directly!
 
 ##### Replacements
 - You can also play this deck with {Restart} for consistency however, you'll need a copy of {Back-Up Rider} to get over 5,000 damage.
