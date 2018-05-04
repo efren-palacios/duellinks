@@ -25,11 +25,14 @@ permalink: /box-reviews/valiant-souls/
     - ["Which cards do you think are maybe needed in some decks?"](#q3)
     - ["Which cards do you think have future potential?"](#q4)
     - ["Is there anything else you'd like to say?"](#q5)
+- [Videos](#videos)    
 
 ---
 
-This is the 11th Main Box, it was released on April 2nd. The release of this Box created the following Deck types:
+This is the 11th Main Box, it was released on April 2, 2018. The release of this Box created the following Deck types:
 {% include deck-type-list.html deck-types='masked-heroes;geargias;amazoness' %} 
+
+<br>
 
 ### Card List
 
@@ -454,3 +457,13 @@ Valiant Souls will definitely impact the current meta, notably with {Mask Change
 **Whilipino** says:
 
 Overall, I don't believe this box will be as meta impacting as the last 2 boxes we've received, but there is a lot of future potential here.
+
+<br>
+
+<a name="videos"></a>
+
+{% include guides/videos.html videos='awVhwiPkXIs;CQ0vE9wJY9E;DA-2clssSQw;GEez93h8RHY;tE58gk43P2U;k0Gt45LDwSI;DHiT10PL75I;YMoWc9F1P_I;AqueOtYmiqI' %}
+
+---
+
+***Tell us your own thoughts on the Box in the comments below!***

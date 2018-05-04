@@ -49,6 +49,8 @@ Nel won [Meta Weekly #18](/tournaments/meta-weekly/18/report/) with this fairly 
 
 {% include guides/guides.html deckType=page.deck-type %}
 
+{% include guides/videos.html videos='CQ0vE9wJY9E' %}
+
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
 {% include top-decks-season-archive.html %}

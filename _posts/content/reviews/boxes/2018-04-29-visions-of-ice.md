@@ -26,14 +26,14 @@ permalink: /box-reviews/visions-of-ice/
     - ["Which cards do you think are maybe needed in some Decks?"](#q4)
     - ["Which cards do you think have future potential?"](#q5)
     - ["Is there anything else you'd like to say?"](#q6)
+- [Videos](#videos)    
 
 ---
 
-This is the 11th Mini Box, it was released on May 1st. The release of this Box created the following Deck type: 
+This is the 9th Main Box, it was released on May 1, 2018. The release of this Box created the following Deck type:
+{% include deck-type-list.html deck-types='spellbooks' %}  
 
 <br>
-
-{% include deck-type-list.html deck-types='spellbooks' %} 
 
 ### Card List
 
@@ -218,6 +218,12 @@ This is the 11th Mini Box, it was released on May 1st. The release of this Box c
 **[3K All Day](/top-player-council/3kallday/)** says:
 - I'm planning to clear this box twice and with the sales I would like three copies of {Tribute Burial}, {Blizzard Princess}, {Treacherous Trap Hole} and the Spellbooks.
 
+<br>
+
+<a name="videos"></a>
+
+{% include guides/videos.html videos='BRKoIi8FA08' %}
+
 ---
 
-***Tell us your own thoughts on the Mini Box in the comments below!***
+***Tell us your own thoughts on the Box in the comments below!***

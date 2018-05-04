@@ -17,12 +17,37 @@ permalink: /box-reviews/resonance-of-contrast/
 [w100]
 ![](/img/content/box-reviews/resonance-of-contrast/banner.jpg)
 
+This is the 9th Mini Box, it was released on January 25, 2018. The release of this Box created the following Deck types:
+{% include deck-type-list.html deck-types='red-eyes-slash-dragon;snipe-hunter;bujins' %}
+
+<br>
+
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="N" %}
+
+---
+
 ### Quick Box Review by the [Top Player Council](/top-player-council/)
 
-- 'New Deck Types': Deck types that we may see in the future or deck types that received new cards
-- 'Essential': Will be used in a current top tier deck
-- 'Maybe': May be used in a current top tier deck
-- 'Future Potential': May be used in the future
+- New Deck Types: Deck types that we may see in the future or deck types that received new cards
+- Essential: Will be used in a current top tier deck
+- Maybe: May be used in a current top tier deck
+- Future Potential: May be used in the future
 
 #### New Deck Types
 
@@ -76,46 +101,13 @@ permalink: /box-reviews/resonance-of-contrast/
 | Whybona | Void Trap Hole, Royal Command (future side deck card) |
 | [Kayoh](/authors/Kayoh) | Void Trap Hole as a side deck card |
 
----
+<br>
 
-### Card List
+<a name="videos"></a>
 
-#### Ultra Rare Cards
+{% include guides/videos.html videos='EOgZ2VpCANQ;GjshyQl_ElM;LC-g-vCkXGQ;S8VcG6ZKrno;skmAy8_qKQs' %}
 
-{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="UR" %}
-
-#### Super Rare Cards
-
-{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="SR" %}
-
-#### Rare Cards
-
-{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="R" %}
-
-#### Normal Cards
-
-{% include box.html box=site.data.card-locations.box.resonance-of-contrast rarity="N" %}
 
 ---
 
-### Video Review by Dkayed
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=EOgZ2VpCANQ' %}
-
----
-
-### Affected Deck Types
-This box affects or creates the following deck types
-
-{% include deck-type-list.html deck-types='red-eyes-slash-dragon;snipe-hunter;bujins' %}
-
-<!--
-[gallery h1](https://i.imgur.com/8ASPjit.png, https://i.imgur.com/rl8z0WY.png, https://i.imgur.com/ppvJQtQ.png, https://i.imgur.com/fAwmFC8.png)
-
-[gallery h1](https://i.imgur.com/DyJ9W5X.png, https://i.imgur.com/ppvJQtQ.png)
-
-
-[gallery h1](https://i.imgur.com/8ASPjit.png, https://i.imgur.com/rl8z0WY.png, https://i.imgur.com/ppvJQtQ.png, https://i.imgur.com/fAwmFC8.png)
-
-[gallery h1](https://i.imgur.com/zOiYinI.png, https://i.imgur.com/DyJ9W5X.png)
--->
+***Tell us your own thoughts on the Box in the comments below!***

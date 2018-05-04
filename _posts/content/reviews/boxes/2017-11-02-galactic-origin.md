@@ -17,6 +17,11 @@ permalink: /box-reviews/galactic-origin/
 [w100]
 ![](/img/content/box-reviews/galactic-origin/banner.jpg)
 
+This is the 8th Main Box, it was released on November 7, 2017. The release of this Box created the following Deck types: 
+{% include deck-type-list.html deck-types='cyber-angels;phoenix-nephthys;elemental-heroes;gladiator-beasts;genex' %}
+
+<br>
+
 ### Card List
 
 #### Ultra Rare Cards
@@ -35,15 +40,12 @@ permalink: /box-reviews/galactic-origin/
 
 {% include box.html box=site.data.card-locations.box.galactic-origin rarity="N" %}
 
+<br>
+
+<a name="videos"></a>
+
+{% include guides/videos.html videos='Vd-Mn9Bfe1s;7vZLHTIjPUI;vlLvIITIQ3s;IJcPDbZhsfs;lR6dfOYpsaw;EE-xnn_RSbI;TNOk1uP_40k;gj2Tporddag;nDTvYpj87Vk' %}
+
 ---
 
-### Video Review by Dkayed
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=Vd-Mn9Bfe1s' %}
-
----
-
-### Affected Deck Types
-This box affects or creates the following deck types
-
-{% include deck-type-list.html deck-types='cyber-angels;phoenix-nephthys;elemental-heroes;gladiator-beasts;genex' %}
+***Tell us your own thoughts on the Box in the comments below!***

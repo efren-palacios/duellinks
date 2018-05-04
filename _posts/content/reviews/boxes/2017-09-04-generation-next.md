@@ -17,6 +17,11 @@ permalink: /box-reviews/generation-next/
 [w100]
 ![](/img/content/box-reviews/generation-next/banner.jpg)
 
+This is the 7th Main Box, it was released on September 22, 2018. The release of this Box created or affected the following Deck types: 
+{% include deck-type-list.html deck-types='horus-dragon;ananta;control-decks;dark-paladin;hazy-flame;red-eyes-zombies;ninjas;' %}
+
+<br>
+
 ### Card List
 
 #### Ultra Rare Cards
@@ -35,15 +40,10 @@ permalink: /box-reviews/generation-next/
 
 {% include box.html box=site.data.card-locations.box.generation-next rarity="N" %}
 
----
+<br>
 
-### Video Review by Dkayed
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=fDol-N1HFkA' %}
+{% include guides/videos.html videos='fDol-N1HFkA;pTsmGwT-mbw;C-MPwaUk0yE;gQvncXkM5_0;ijBMe8MzpfE;mW8TtUkz49M;mqWvZN4Lj90;8Ef13uexDzo;3MG0gxgYJjw;yw4pKe9LW_E;4UYjnNzGASc;TwFqooCOuwk;YJIbKAhBWsc' %}
 
 ---
 
-### Affected Deck Types
-This box affects or creates the following deck types
-
-{% include deck-type-list.html deck-types='horus-dragon;ananta;control-decks;dark-paladin;hazy-flame;red-eyes-zombies;ninjas;' %}
+***Tell us your own thoughts on the Box in the comments below!***
