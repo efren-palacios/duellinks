@@ -19,15 +19,22 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
+#### Updated May 4, 2018 
+##### Sample Deck Updated
+
 ### Sample Deck
 
 Lieral's 3rd place deck from [Give Away Tournament 3](/tournaments/giveaway/3/report/)
 
 [deck:Beatdown](The Creator; Black Luster Soldier - Sacred Soldier; Black Luster Soldier - Sacred Soldier; King of the Swamp; Destiny HERO - Dasher; The Dark - Hex Sealed Fusion; The Dark - Hex Sealed Fusion; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; A/D Changer; Bacon Saver; Hey, Trunade!; Hey, Trunade!; Hey, Trunade!; Fusion Recycling Plant; Polymerization; Polymerization; Divine Wrath; Beginning of Heaven and Earth; Beginning of Heaven and Earth; Beginning of Heaven and Earth; Powerful Rebirth; Premature Return; Premature Return; Jar of Avarice; Jar of Avarice; Red-Eyes Slash Dragon; Red-Eyes Slash Dragon; Vision HERO Trinity; Destiny HERO - Dangerous; Destiny HERO - Dangerous)
   
+---
+
 ### Core Cards
 
 This deck type has no core cards. 
+
+---
 
 ### Tech Cards
 

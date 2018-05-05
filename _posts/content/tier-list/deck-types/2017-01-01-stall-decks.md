@@ -19,24 +19,31 @@ hide: true
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
+#### Updated May 4, 2018 
+##### Sample Deck Updated
+
 ### Overview
 The deck is self-explanatory. The idea is to delay the game as long as you can through creature removal and heavy backrow control. The current version uses {Endless Trap Hell} to refuel resources and drag the games into the final stages, making sure your opponent runs out of cards first.
+
+---
 
 ### Sample Deck
 
 [deck:Endless Trap Hell](Man-Eater Bug; Man-Eater Bug; Yomi Ship; Yomi Ship; Yomi Ship; D.D. Warrior; D.D. Warrior; Burning Land; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Divine Wrath; Wall of Disruption; Wall of Disruption; Wall of Disruption; Windstorm of Etaqua; Curse of Anubis; Massivemorph; Massivemorph; Massivemorph)  
 
+---
+
 ### Core Cards
 
 [deck](Man-Eater Bug; Yomi Ship; D.D. Warrior; Burning Land; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Windstorm of Etaqua; Curse of Anubis; Massivemorph; Massivemorph; Massivemorph)
 
-Cards required to start playing the deck effectively. The numbers you include for each one will depend on your card collection.
+---
 
 ### Tech Cards
 
 [deck](Sphere Kuriboh; 4-Starred Ladybug of Doom; Golden Ladybug; Divine Wrath; Draining Shield; Eliminating the League; Aegis of Gaia)
 
-These are good cards to fill the empty spaces on your deck.
+---
 
 ### Extra Info
 

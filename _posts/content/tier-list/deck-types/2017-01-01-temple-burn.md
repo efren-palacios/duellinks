@@ -19,28 +19,31 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
+#### Updated May 4, 2018 
+##### Sample Deck Updated
+
 ### Overview
 Temple burn is a deck type that focuses on the card {Temple of the Mind's Eye} and small creatures with the ability to attack directly to win games. Additional to that, the deck relies on heavy backrow protection and stall cards to control the board.
 
-As plan B, the deck contains standard Burn cards like {Lava Golem}, {Burning Land} and {Mask of the Accursed} to help you close the games faster.
+---
 
 ### Sample Deck
 
 [deck:Parasite Infestation](Lava Golem; Lava Golem; Sphere Kuriboh; Sphere Kuriboh; Skystarray; Inaba White Rabbit; Inaba White Rabbit; Burning Land; Mask of the Accursed; Temple of the Mind's Eye; Temple of the Mind's Eye; Jade Insect Whistle; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph)
 
-Standard Temple Burn deck.  
+---  
 
 ### Core Cards
 
 [deck](Lava Golem; Lava Golem; Skystarray; Inaba White Rabbit; Inaba White Rabbit; Burning Land; Mask of Restrict; Temple of the Mind's Eye; Temple of the Mind's Eye; Curse of Anubis; Windstorm of Etaqua; Massivemorph; Massivemorph; Massivemorph)
 
-These are the minimum requirements to start playing the deck effectively.
+---
 
 ### Tech Cards
 
 [deck](Sphere Kuriboh; Emergency Provisions; Floodgate Trap Hole; Wall of Disruption; Draining Shield; Aegis of Gaia)
 
-All the cards from the list will help to the deck purposes.
+---
 
 ### Extra Info
 

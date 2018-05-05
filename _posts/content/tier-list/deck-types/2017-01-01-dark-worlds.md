@@ -19,26 +19,31 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
+#### Updated May 4, 2018 
+##### Sample Deck Updated
+
 ### Overview
 Dark Worlds is an archtype that mainly focuses on discarding monsters out of your hand to gain their effects. Almost all Dark World monsters have an effect when you discard them with many monsters gaining a second effect if discarded by your opponents effect. Dark World can be played as an explosive OTK deck or a control based deck with the addition of {Dark Necrofear} and other cards.
+
+---
 
 ### Sample Deck
 
 [deck:Duel, standby!](Reign-Beaux, Overlord of Dark World; Reign-Beaux, Overlord of Dark World; Reign-Beaux, Overlord of Dark World; Ceruli, Guru of Dark World; Ceruli, Guru of Dark World; Ceruli, Guru of Dark World; Snoww, Unlight of Dark World; Snoww, Unlight of Dark World; Snoww, Unlight of Dark World; Broww, Huntsman of Dark World; Broww, Huntsman of Dark World; Broww, Huntsman of Dark World; Trance Archfiend; Trance Archfiend; Trance Archfiend; Dark World Dealings; Dark World Dealings; Dark World Dealings; Dark World Lightning; Dark World Lightning)
 
+---
+
 ### Core Cards
 
 [deck](Snoww, Unlight of Dark World; Snoww, Unlight of Dark World; Snoww, Unlight of Dark World; Dark World Dealings; Dark World Dealings; Dark World Dealings; Trance Archfiend; Dark World Lightning)
 
-These are the cards you shouldn't play the deck without.
-
-The more of these cards the better. {Snoww, Unlight of Dark World} and {Dark World Dealings} are important to keep maxxed. You can play with the amounts of the other cards.
+---
 
 ### Tech Cards
 
 [deck](Dark World Lightning; Dark Necrofear; Dark Smog; Sphere Kuriboh)
 
-All of these cards are great additions of the deck but optional.
+---
 
 ### Extra Info
 
