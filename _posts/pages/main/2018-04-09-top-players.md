@@ -117,7 +117,7 @@ The Duel Links Meta Discord is home to the best players of the Duel Links commun
 ---
 
 <a name="topladder"></a>
-### Top Player Ladder: April 1st - July 31st (Season 2)
+### Top Player Ladder: April 1st - June 31st (Season 2)
 
 Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 players after a 3 month season become the [New Top Player Council](/top-player-council/)!
 
