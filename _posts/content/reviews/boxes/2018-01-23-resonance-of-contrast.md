@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-01-23
-title: "Mini Box Review: Resonance of Contrast"
+title: "Box Review: Resonance of Contrast"
 author: GiaJoestar
 category: review
 sub-category: box
