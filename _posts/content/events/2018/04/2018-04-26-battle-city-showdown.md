@@ -1,13 +1,13 @@
 ---
 layout: blog
-date: 2018-05-03 09:00:00 +0100
+date: 2018-05-05 17:10:00 +0100
 title: Battle City Showdown!
 author: Yami Hammy
 image: /img/content/events/2018/04/battle-city-showdown/thumbnail.jpg
 category: event
 comments: true
-description: The second part of the Battle City event is underway! Here's all you need to know about the event and the best ways to complete the missions - get those those new reward cards! 
-keywords: event, battle city, skill, yami yugi, part two, 2
+description: The second part of Battle City is underway! Here's all you need to know about the event and the best ways to complete the missions - get those those new reward cards! 
+keywords: event, battle city, skill, yami yugi, part two, 2, divine trials, card of sanctity
 permalink: /events/april-2018/battle-city-showdown/
 pinned: false
 ended: false
@@ -17,9 +17,9 @@ ended: false
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-##### Last updated May 3rd - Divine Trials and new Skill
+##### Last updated May 5th - Event Bonus
 
-- [Update](#update)
+- [Updates](#updates)
 - [Event Information](#event-information)
 - [Rewards](#rewards)
 - [First Impressions](#first-impressions)
@@ -37,24 +37,32 @@ ended: false
 
 ---
 
-### Update
+### Updates
 
-Use your "Divine Offerings" to challenge Yami Yugi in a "Divine Trial" and obtain his new skill {Card of Sanctity} as well as 100 Gems!  
+#### May 5th
+
+The daily Dice Fragments have been marginally increased.
+
+![](/img/content/events/2018/04/battle-city-showdown/event-bonus.jpg)
+
+#### May 3rd
+
+Use your "Divine Offerings" to challenge Yami Yugi Lvl: 50 in a "Divine Trial" and obtain his new skill {Card of Sanctity} as well as 100 Gems!  
 
 [slider](/img/content/events/2018/04/battle-city-showdown/slider-update.jpg)
 
-#### Yami Yugi Lvl: 50 Decklist
-
-There's no need to farm him since all he drops are more "Divine Offerings", but here's the Decklist anyway.
+There's no need to farm him since all he drops are more "Divine Offerings", but here's his Decklist anyway.
 
 [deck:Divine Advent](Valkyrion the Magna Warrior; King of the Swamp; Legion the Fiend Jester; Kuriboh; Buster Blader; Berfomet; King's Knight; Dark Magician; Dark Magician; Gamma the Magnet Warrior; Jack's Knight; Queen's Knight; Beta the Magnet Warrior; Alpha the Magnet Warrior; Gazelle the King of Mythical Beasts; Gazelle the King of Mythical Beasts; Polymerization; Fusion Recycling Plant; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer)
 [deck](Arcana Knight Joker; Dark Paladin; Chimera the Flying Mythical Beast)
 
----
+#### April 29th
 
 The Treasure Room has appeared, land on it to enter the room to get tons of Millenium Coins and Duel the Battle City commissioner - [Mokuba](#mokuba-kaiba)! 
 
-**However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl. 20 or Lvl. 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
+![](/img/content/events/2018/04/battle-city-showdown/news-treasure-room.jpg)
+
+**However, instead of defeating Mokuba you can farm him for 250 EXP each Duel by losing (at either Lvl: 20 or Lvl: 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 5000 EXP!**
 
 ![](/img/content/events/2018/04/battle-city-showdown/treasure-room.jpg)
 
@@ -95,7 +103,7 @@ You will also get rewards for clearing rounds:
 
 ### Legendary Duelist Duels
 
-Completing each mission rewards you with 15 Millenium Coins and a win at Lvl. 40 nets you an additional 150 Coins.
+Completing each mission rewards you with 15 Millenium Coins and a win at Lvl: 40 nets you an additional 150 Coins.
 
 #### Yami Bakura
 
@@ -117,7 +125,7 @@ Bakura uses the Skill "Destiny Board of Doom" which is similar to {Destiny Board
 
 [deck:Balance](Slifer the Sky Dragon; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Ultimate Providence; Ultimate Providence)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck](Dark Necrofear; Dark Ruler Ha Des; Doomdog Octhros; Doomdog Octhros; Doomdog Octhros; The Gross Ghost of Fled Dreams; The Gross Ghost of Fled Dreams; The Gross Ghost of Fled Dreams; The Earl of Demise; Headless Knight; Headless Knight; Headless Knight; The Portrait's Secret; The Portrait's Secret; The Portrait's Secret; Ectoplasmer; Ectoplasmer; The Shallow Grave; The Shallow Grave; Dark Spirit of the Silent)
 
 ---
@@ -136,7 +144,7 @@ Odion uses the Skill {Chain Reaction}.
 ##### Mission Deck
 [deck:Field of the Warriors](Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Ninja Grandmaster Sasuke; Gladiator Beast Andal; Gladiator Beast Andal; Vorse Raider; Vorse Raider; Double Cyclone; Double Cyclone; Super Rush Headlong; Super Rush Headlong; Super Rush Headlong; Typhoon; Typhoon; Typhoon; Wild Tornado; Wild Tornado; Wild Tornado; Straight Flush; Straight Flush)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Chain Reaction](Mystical Beast of Serket; Mystical Beast of Serket; Mystical Beast of Serket; Millennium Scorpion; Millennium Scorpion; Millennium Scorpion; Swords of Revealing Light; Temple of the Kings; Temple of the Kings; Tiki Soul; Tiki Soul; Embodiment of Apophis; Embodiment of Apophis; Embodiment of Apophis; Magic Jammer; Tiki Curse; Tiki Curse; Tiki Curse; Quantum Cat; Skull Invitation)
 
 ---
@@ -159,7 +167,7 @@ Mai uses the Skill {Amazoness Village}.
 
 [deck:Power of the Tributed](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; The Winged Dragon of Ra; Senju of the Thousand Hands; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing; Sprite's Blessing)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Amazoness Village](Harpie Lady Sisters; Amazoness Paladin; Amazoness Paladin; Amazoness Princess; Amazoness Trainee; Amazoness Trainee; Amazoness Trainee; Harpie Lady 1; Amazoness Sage; Amazoness Chain Master; Amazoness Chain Master; Amazoness Fighter; Amazoness Fighter; Amazoness Fighter; Harpie Lady 2; Harpie Lady 3; Amazoness Spellcaster; Elegant Egotist; Amazoness Archers; Amazoness Shamanism)
 
 ---
@@ -181,7 +189,7 @@ Ishizu uses the Skill {Exchange of the Spirit}.
 
 [deck:Balance](Paladin of White Dragon; Paladin of White Dragon; Paladin of White Dragon; Kaibaman; Kaibaman; Blue Dragon Summoner; Blue Dragon Summoner; Blue Dragon Summoner; Blue-Eyes White Dragon; Blue-Eyes White Dragon; Blue-Eyes White Dragon; White Dragon Ritual; White Dragon Ritual; White Dragon Ritual; Ritual Foregone; Ritual Foregone; Ritual Foregone; Birthright; Birthright; Wall of Disruption)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Exchange of the Spirit](Mudora; Mudora; Mudora; Zolga; Zolga; Zolga; Agido; Agido; Agido; Keldo; Swords at Dawn; Swords at Dawn; Dragged Down into the Grave; Dragged Down into the Grave; Dragged Down into the Grave; Cestus of Dagla; Cestus of Dagla; Cestus of Dagla; Blast Held by a Tribute; Blast Held by a Tribute)
 
 ---
@@ -203,7 +211,7 @@ Time to put those triple {Lava Golem} to good use; burn, baby, burn!
 
 [deck:Balance](Lava Golem; Lava Golem; Lava Golem; Mask of the Accursed; Mask of the Accursed; Mask of the Accursed; Goblin Thief; Goblin Thief; Goblin Thief; Temple of the Mind's Eye; Temple of the Mind's Eye; Temple of the Mind's Eye; Draining Shield; Draining Shield; Draining Shield; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Legendary Warrior](Jinzo; Panther Warrior; Panther Warrior; Gearfried the Swordmaster; Gilford the Lightning; Gearfried the Iron Knight; Gearfried the Iron Knight; Gearfried the Iron Knight; Rocket Warrior; Rocket Warrior; Rocket Warrior; Lightning Blade; Lightning Blade; Lightning Blade; Graceful Dice; Release Restraint; Release Restraint; Release Restraint Wave; Kunai with Chain; Skull Dice)
 
 ---
@@ -212,9 +220,9 @@ Time to put those triple {Lava Golem} to good use; burn, baby, burn!
 
 ![](/img/content/events/2018/04/battle-city-showdown/mokuba.gif)
 
-Mokuba uses the Skill {Peak Performance}. If you defeat him at Lvl. 40 you get 250 Millenium Coins instead of the standard 150 Coins!
+Mokuba uses the Skill {Peak Performance}. If you defeat him at Lvl: 40 you get 250 Millenium Coins instead of the standard 150 Coins!
 
-**However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl. 20 or Lvl. 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
+**However, instead of defeating Mokuba you can farm him for 375 EXP each Duel by losing (at either Lvl: 20 or Lvl: 40) with a bad Deck, you can also Auto-Duel to speed things up. It only cost 1 Dice Fragment per Duel in the Treasure Room so 20 Dice Fragments from winning a Ranked Duel equates to 7500 EXP!**
    
 ##### Missions
 - Inflict 1000 or more points of battle damage
@@ -227,7 +235,7 @@ Activate your Trap cards in the Draw/Standby Phase so Mokuba doesn't use {Stampi
 
 [deck:Elements Unite!](Lava Golem; Lava Golem; Thunder Dragon; Thunder Dragon; Thunder Dragon; Dian Keto the Cure Master; H - Heated Heart; H - Heated Heart; Goblin Thief; Goblin Thief; Goblin Thief; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed)
 
-#### Lvl. 40 Decklist
+#### Lvl: 40 Decklist
 [deck:Peak Performance](Hieratic Dragon of Asar; Darkflare Dragon; Vanguard of the Dragon; Vanguard of the Dragon; Hieratic Dragon of Gebeb; Hieratic Dragon of Gebeb; Lady of D.; Lady of D.; Blue-Eyes White Dragon; Rabidragon; Alexandrite Dragon; Alexandrite Dragon; Divine Dragon Ragnarok; Divine Dragon Ragnarok; Stamping Destruction; Negate Attack; Birthright; Burst Breath; Burst Breath; Cloning)
 
 ---
@@ -247,7 +255,7 @@ Kaiba uses the Skill {Robotic Reinforcements}.
 [deck:Destiny Draw](King of the Swamp; King of the Swamp; King of the Swamp; Blue Dragon Summoner; Buster Blader; Buster Blader; Buster Blader; Dark Magician; Dark Magician; Dark Magician; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Polymerization; Polymerization; Polymerization; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer; Red-Eyes Spirit; Red-Eyes Spirit)
 [deck](Dark Paladin; Dark Paladin; Dark Paladin; Meteor B. Dragon; Dark Flare Knight)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Robotic Reinforcements](Machina Peacekeeper; Machina Peacekeeper; Y-Dragon Head; Y-Dragon Head; Y-Dragon Head; Z-Metal Tank; Z-Metal Tank; Z-Metal Tank; Vorse Raider; Vorse Raider; X-Head Cannon; X-Head Cannon; X-Head Cannon; Enemy Controller; Frontline Base; Frontline Base; Machine Assembly Line; Machine Assembly Line; Interdimensional Matter Transporter; Interdimensional Matter Transporter)
 [deck](XYZ-Dragon Cannon; XY-Dragon Cannon; XZ-Tank Cannon; YZ-Tank Dragon)
 
@@ -276,7 +284,7 @@ Be wary, Marik uses the Skill {Shadow Game}.
 
 [deck:Destiny Draw](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Idaten; Slifer the Sky Dragon; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Anti-Magic Arrows; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing; Sprite's Blessing)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Shadow Game](Lava Golem; Helpoemer; Helpoemer; Helpoemer; Revival Jam; Revival Jam; Revival Jam; Drillago; Drillago; Drillago; Gil Garth; Gil Garth; Gil Garth; Double Summon; Double Summon; Card of Safe Return; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth; Rope of Life)
 
 ---
@@ -297,7 +305,7 @@ Be wary, he uses the Skill {Shadow Game}.
 ##### Mission Deck
 [deck:Balance](Dark Magician Girl; Dark Magician Girl; Legion the Fiend Jester; Legion the Fiend Jester; Legion the Fiend Jester; Magician's Rod; Magician's Rod; Dark Magician; Dark Magician; Dark Magician; Super Rush Headlong; Super Rush Headlong; Dark Magic Attack; Sage's Stone; Dark Magic Curtain; Thousand Knives; Wall of Disruption; Wall of Disruption; Wall of Disruption; Magician's Circle)
 
-##### Lvl. 40 Decklist
+##### Lvl: 40 Decklist
 [deck:Shadow Game](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Ra's Disciple; Ra's Disciple; Ra's Disciple; Dark Jeroid; Dark Jeroid; Dark Jeroid; Humanoid Slime; Humanoid Slime; Humanoid Slime; Gil Garth; Gil Garth; Gil Garth; Monster Reborn; Double Summon; Double Summon; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth)
 
 ---

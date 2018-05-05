@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (4) - May 4
+title: In-Game Updates (5) - May 5
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-04 09:00:00 +0100
+date: 2018-05-05 17:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,22 +14,24 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="40"></a>
+<a name="50"></a>
 
-## May 4th (Update 4)
+### May 5th (Update 5)
 
 <br>
 
-<a name="41"></a>
+<a name="51"></a>
 
-### Ranked Duels Challenge Stamps
+#### Battle City: Event Bonus
 
-Get up to 90 Gems for Dueling in Ranked Duels!
+More dice, yay! Check out our [event article](/events/april-2018/battle-city-showdown/) for the best Decks to complete all the missions.
 
-[slider](/img/content/news/2018/05/in-game-updates/04-ranked-stamps.jpg)
+![](/img/content/news/2018/05/in-game-updates/05-battle-city.jpg)
 
 ---
 
+- [May 5th (Update 5)](#50)
+    - [Battle City: Event Bonus](#51)
 - [May 4th (Update 4)](#40)
     - [Ranked Duels Challenge Stamps](#41)
 - [May 3rd (Update 3)](#30)
@@ -45,17 +47,33 @@ Get up to 90 Gems for Dueling in Ranked Duels!
 
 ---
 
+<a name="40"></a>
+
+### May 4th (Update 4)
+
+<br>
+
+<a name="41"></a>
+
+#### Ranked Duels Challenge Stamps
+
+Get up to 90 Gems for Dueling in Ranked Duels!
+
+[slider](/img/content/news/2018/05/in-game-updates/04-ranked-stamps.jpg)
+
+---
+
 <a name="30"></a>
 
-## May 3rd (Update 3)
+### May 3rd (Update 3)
 
 <br>
 
 <a name="31"></a>
 
-### Battle City: Divine Trials
+#### Battle City: Divine Trials
 
-Use your "Divine Offerings" to challenge Yami Yugi and obtain his new skill {Card of Sanctity}! Check out our [event article](/events/april-2018/battle-city-showdown/) for the best Decks to complete all the missions.
+Use your "Divine Offerings" to challenge Yami Yugi and obtain his new Skill {Card of Sanctity}! Check out our [event article](/events/april-2018/battle-city-showdown/) for the best Decks to complete all the missions.
 
 ![](/img/content/news/2018/05/in-game-updates/03-battle-city.jpg)
 
@@ -63,13 +81,13 @@ Use your "Divine Offerings" to challenge Yami Yugi and obtain his new skill {Car
 
 <a name="20"></a>
 
-## May 2nd (Update 2)
+### May 2nd (Update 2)
 
 <br>
 
 <a name="21"></a>
 
-### Obtain a Legendary Duelist
+#### Obtain a Legendary Duelist
 
 [Syrus Truesdale](/events/march-2018/syrus-truesdale-roaming-event/) will be coming back next week and this time he's unlockable!
 
@@ -77,7 +95,7 @@ Use your "Divine Offerings" to challenge Yami Yugi and obtain his new skill {Car
 
 <a name="22"></a>
 
-### Elegant Mai Event
+#### Elegant Mai Event
 
 Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! Check out our [event article](/events/may-2018/elegant-mai/) for the best ways farm her and get your playset of {Amazoness Princess}!
 
@@ -85,7 +103,7 @@ Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! Check out
 
 <a name="23"></a>
 
-### Bonus Reward Campaign!
+#### Bonus Reward Campaign!
 
 +1000 [Duel Assessment](/farming/duel-assessment-score/) score until May 7th. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
 
@@ -95,13 +113,13 @@ Elegant Mai has arrived, defeat her to strengthen your Amazoness Deck! Check out
 
 <a name="10"></a>
 
-## May 1st (Update 1)
+### May 1st (Update 1)
 
 <br>
 
 <a name="11"></a>
 
-### Ranked Duels Updated
+#### Ranked Duels Updated
 
 Check out our [article](/news/may-2018/ranked-duels-rewards/) with invaluable Top Player Council commentary!
 
@@ -109,7 +127,7 @@ Check out our [article](/news/may-2018/ranked-duels-rewards/) with invaluable To
 
 <a name="12"></a>
 
-### New Card BOX
+#### New Card BOX
 
 The new Mini Box: Visions of Ice is here! Give our [First Impressions](/box-reviews/visions-of-ice/) article a read if you want to know all about the new cards and what the [Top Player Council](/top-player-council/) think!
 
@@ -117,7 +135,7 @@ The new Mini Box: Visions of Ice is here! Give our [First Impressions](/box-revi
 
 <a name="13"></a>
 
-### Sale Underway
+#### Sale Underway
 
 To celebrate the release of [Visions of Ice](/box-reviews/visions-of-ice/) there's a sale and thanks to [Superforms](/top-player-council/superforms/), the prices are:
 1. $1.99
