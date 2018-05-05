@@ -1,6 +1,50 @@
 [
-    {
+{
+        "name": "Blue-Eyes White Dragon",
+        "rarity": "UR" 
+},
+{
+        "name": "Battle Ox",
+        "rarity": "SR" 
+},
+{
+        "name": "Familiar Knight",
+        "rarity": "SR" 
+},
+{
         "name": "Enemy Controller",
-        "rarity": "SR"
-    }
+        "rarity": "SR" 
+},
+{
+        "name": "A Wingbeat of Giant Dragon",
+        "rarity": "SR" 
+},
+{
+        "name": "Champion’s Vigilance",
+        "rarity": "SR" 
+},
+{
+        "name": "Rabid Horseman",
+        "rarity": "R" 
+},
+{
+        "name": "Mystic Horseman",
+        "rarity": "R" 
+},
+{
+        "name": "Light Effigy",
+        "rarity": "R" 
+},
+{
+        "name": "The Flute of Summoning Dragon",
+        "rarity": "R" 
+},
+{
+        "name": "Mesmeric Control",
+        "rarity": "R" 
+},
+{
+        "name": "Cloning",
+        "rarity": "N" 
+}
 ]

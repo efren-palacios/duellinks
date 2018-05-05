@@ -1,0 +1,50 @@
+[
+{
+        "name": "Dark Magician Girl",
+        "rarity": "UR" 
+},
+{
+        "name": "Magic Formula",
+        "rarity": "SR" 
+},
+{
+        "name": "Sage’s Stone",
+        "rarity": "SR" 
+},
+{
+        "name": "Supremacy Berry",
+        "rarity": "SR" 
+},
+{
+        "name": "Dian Keto the Cure Master",
+        "rarity": "SR" 
+},
+{
+        "name": "Solemn Wishes",
+        "rarity": "SR" 
+},
+{
+        "name": "Breath of Light",
+        "rarity": "R" 
+},
+{
+        "name": "Eternal Drought",
+        "rarity": "R" 
+},
+{
+        "name": "Exile of the Wicked",
+        "rarity": "R" 
+},
+{
+        "name": "Acid Rain",
+        "rarity": "R" 
+},
+{
+        "name": "Warrior Elimination",
+        "rarity": "R" 
+},
+{
+        "name": "Soul of the Pure",
+        "rarity": "N" 
+}
+]

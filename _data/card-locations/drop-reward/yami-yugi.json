@@ -1,6 +1,54 @@
 [
     {
         "name": "Dark Magician",
-        "rarity": "UR"
+        "rarity": "UR" 
+    },
+    {
+        "name": "Gaia the Dragon Champion",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Catapult Turtle",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Chimera the Flying Mythical Beast",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Mystic Box",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Diffusion Wave-Motion",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Gaia The Fierce Knight",
+        "rarity": "R" 
+    },
+    {
+        "name": "Curse of Dragon",
+        "rarity": "R" 
+    },
+    {
+        "name": "Gazelle the King of Mythical Beasts",
+        "rarity": "R" 
+    },
+    {
+        "name": "Berfomet",
+        "rarity": "R" 
+    },
+    {
+        "name": "Thousand Knives",
+        "rarity": "R" 
+    },
+    {
+        "name": "Dark Magician Knight",
+        "rarity": "N" 
+    },
+    {
+        "name": "Knight’s Title",
+        "rarity": "N" 
     }
 ]

@@ -1,6 +1,78 @@
 [
-    { 
-		    "name": "Fiend Griefing", 
-		    "rarity": "R" 
-    }
+    {
+        "name": "Dark Necrofear",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Archfiend Empress",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Dark Voltanis",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Puppet Master",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Trance Archfiend",
+        "rarity": "SR" 
+    },
+    {
+        "name": "The Gross Ghost of Fled Dreams",
+        "rarity": "SR" 
+    },
+    {
+        "name": "White Magical Hat",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Tour Bus To Forbidden Realms",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Peeking Goblin",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Dark Spirit of the Silent",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Beast of Talwar",
+        "rarity": "R" 
+    },
+    {
+        "name": "The Earl of Demise",
+        "rarity": "R" 
+    },
+    {
+        "name": "Gernia",
+        "rarity": "R" 
+    },
+    {
+        "name": "Man-Eating Treasure Chest",
+        "rarity": "R" 
+    },
+    {
+        "name": "Electric Lizard",
+        "rarity": "R" 
+    },
+    {
+        "name": "Tour Bus From the Underworld",
+        "rarity": "R" 
+    },
+    {
+        "name": "Dark Mambele",
+        "rarity": "R" 
+    },
+    {
+        "name": "Call of the Earthbound",
+        "rarity": "R" 
+    },
+    {
+        "name": "Fiend Griefing",
+        "rarity": "R" 
+    }    
 ]

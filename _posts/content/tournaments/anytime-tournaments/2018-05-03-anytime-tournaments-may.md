@@ -5,7 +5,7 @@ author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
-date: 2018-05-03 22:30:00 +0100
+date: 2018-05-05 04:40:00 +0100
 comments: true
 description: The winning Anytime Tournament Decklists for May!
 keywords: anytime tournament, anytime, tournament, discord 
@@ -45,6 +45,19 @@ Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on 
 ---
 
 ### Winning Decklists
+
+<br>
+
+#### May 5th
+
+##### Lieral
+
+30-card Spellbooks were amazing. Went up against [Amazoness](/tier-list/deck-types/amazoness/), 30-card mirror, and finally [Geargias](/tier-list/deck-types/geargias/) to take the crown! Siding out two {That Grass Looks Greener} was quite convenient.
+
+[deck:Restart](The Tricky; Magical Something; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Reaper of Prophecy; Reaper of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; Hey, Trunade!; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Monster Gate; Enemy Controller; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
+
+***Side Deck***
+[deck](Hey, Trunade!; Hey, Trunade!; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell; Ultimate Providence)
 
 <br>
 

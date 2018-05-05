@@ -1,6 +1,50 @@
 [
-    { 
-		"name": "Kiseitai", 
-		"rarity": "R" 
-    }
+{
+    "name": "Perfectly Ultimate Great Moth",
+    "rarity": "SR" 
+},
+{
+    "name": "Great Moth",
+    "rarity": "SR" 
+},
+{
+    "name": "Grasschopper",
+    "rarity": "SR" 
+},
+{
+    "name": "Skull-Mark Ladybug",
+    "rarity": "SR" 
+},
+{
+    "name": "Cocoon of Evolution",
+    "rarity": "SR" 
+},
+{
+    "name": "Insect Imitation",
+    "rarity": "SR" 
+},
+{
+    "name": "Flying Kamakiri 2",
+    "rarity": "R" 
+},
+{
+    "name": "Giant Flea",
+    "rarity": "R" 
+},
+{
+    "name": "Kiseitai",
+    "rarity": "R" 
+},
+{
+    "name": "Larvae Moth",
+    "rarity": "R" 
+},
+{
+    "name": "Forest",
+    "rarity": "R" 
+},
+{
+    "name": "Gokibore",
+    "rarity": "N" 
+}
 ]

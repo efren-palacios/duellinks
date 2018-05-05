@@ -1,0 +1,50 @@
+[
+{
+        "name": "Barrel Dragon",
+        "rarity": "UR" 
+},
+{
+        "name": "Heavy Mech Support Platform",
+        "rarity": "SR" 
+},
+{
+        "name": "Second Coin Toss",
+        "rarity": "SR" 
+},
+{
+        "name": "Reload",
+        "rarity": "SR" 
+},
+{
+        "name": "Stim-Pack",
+        "rarity": "SR" 
+},
+{
+        "name": "Rare Metalmorph",
+        "rarity": "SR" 
+},
+{
+        "name": "Warrior of Zera",
+        "rarity": "R" 
+},
+{
+        "name": "Ground Attacker Bugroth",
+        "rarity": "R" 
+},
+{
+        "name": "Overdrive",
+        "rarity": "R" 
+},
+{
+        "name": "Oilman",
+        "rarity": "R" 
+},
+{
+        "name": "Goblin Thief",
+        "rarity": "R" 
+},
+{
+        "name": "Metalzoa",
+        "rarity": "N" 
+}
+]
