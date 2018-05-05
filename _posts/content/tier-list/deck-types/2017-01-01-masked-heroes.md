@@ -19,8 +19,8 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
-#### Updated May 4, 2018 
-##### Overview Updated
+#### Updated May 5, 2018 
+##### Tech Cards Updated
 
 ### Overview  
 
@@ -49,7 +49,7 @@ The relatively small Core section of this deck allows for several tech options t
 
 These cards are optional and will change depending on your build preference.  
 
-[deck](Sphere Kuriboh;Destiny HERO - Dreamer;Destiny Draw;Polymerization;Enemy Controller;Cosmic Cyclone;Forbidden Chalice;Acid Rain;Hey, Trunade!;Gravity Lash;Fire Formation - Gyokkou;Mirror Wall;Needle Ceiling;Wall of Disruption)  
+[deck](Destiny HERO - Dreamer;Destiny Draw;Cosmic Cyclone;Hey, Trunade!;Gravity Lash;Fire Formation - Gyokkou;Trecherous Trap Hole;Needle Ceiling;Wall of Disruption)  
 
 ---
 
