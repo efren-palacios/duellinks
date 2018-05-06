@@ -19,8 +19,8 @@ hide: False
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
-#### Updated May 4, 2018 
-##### Sample Deck Updated
+#### Updated May 5, 2018 
+##### Tech Cards Updated
 
 ### Overview
 Archfiends focus around using large boss monsters that can be special summoned via the grave. These bosses focus on overpowering your opponent while simultaneously depleting their resources. As the archetype currently functions, it plays almost exclusively from the grave and not as much from the hand itself. Archfiends can build some of the most imposing fields in the current game if they open well and mill properly.  
@@ -56,7 +56,7 @@ Archfiends focus around using large boss monsters that can be special summoned v
 
 ### Tech Cards
 
-[deck](Enemy Controller;Forbidden Chalice;Ante;Dark World Dealings;Cosmic Cyclone;Sphere Kuriboh;Relinkuriboh;Invader of Darkness;Advance Draw;Hey, Trunade!;Snipe Hunter;Escape from the Dark Dimension;Gravity Lash;Monster Gate;Skill Successor)
+[deck](Chaos Hunter;Ante;Dark World Dealings;Sphere Kuriboh;Relinkuriboh;Invader of Darkness;Advance Draw;Snipe Hunter;Escape from the Dark Dimension;Gravity Lash;Monster Gate;Skill Successor)
 
 ---
 
