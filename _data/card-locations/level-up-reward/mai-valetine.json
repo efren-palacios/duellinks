@@ -3,5 +3,10 @@
         "name": "Amazoness Queen",
         "rarity": "SR",
         "level": 45
-    }
+    },
+    {
+        "name": "Amazoness Paladin",
+        "rarity": "UR",
+        "level": 40
+    }    
 ]
