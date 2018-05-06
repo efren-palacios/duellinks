@@ -53,7 +53,7 @@ Use your "Divine Offerings" to challenge Yami Yugi Lvl: 50 in a "Divine Trial" a
 
 There's no need to farm him since all he drops are more "Divine Offerings", but here's his Decklist anyway.
 
-[deck:Divine Advent](Valkyrion the Magna Warrior; King of the Swamp; Legion the Fiend Jester; Kuriboh; Buster Blader; Berfomet; King's Knight; Dark Magician; Dark Magician; Gamma the Magnet Warrior; Jack's Knight; Queen's Knight; Beta the Magnet Warrior; Alpha the Magnet Warrior; Gazelle the King of Mythical Beasts; Gazelle the King of Mythical Beasts; Polymerization; Fusion Recycling Plant; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer)
+[deck:Divine Advent](Valkyrion the Magna Warrior; King of the Swamp; Legion the Fiend Jester; Kuriboh; Buster Blader; Berfomet; King's Knight; Dark Magician; Dark Magician; Gamma the Magnet Warrior; Alpha the Magnet Warrior; Beta the Magnet Warrior; Gazelle the King of Mythical Beasts; Gazelle the King of Mythical Beasts; Jack's Knight; Queen's Knight; Fusion Recycling Plant; Polymerization; Emblem of Dragon Destroyer; Emblem of Dragon Destroyer)
 [deck](Arcana Knight Joker; Dark Paladin; Chimera the Flying Mythical Beast)
 
 #### April 29th

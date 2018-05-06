@@ -4,7 +4,7 @@ title: In-Game Updates (5) - May 5
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-05 17:00:00 +0100
+date: 2018-05-05 23:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -20,6 +20,20 @@ permalink: /news/may-2018/in-game-updates/
 
 <br>
 
+<a name="53"></a>
+
+#### New Week Campaign
+The new additions this time are {Pyrorex the Elemental Lord}, {Phantom Beast Cross-Wing} and {Kunoichi} but Konami knows what you really want is that 100th copy of {Goblin Calligrapher}!  
+ 
+[slider](/img/content/news/2018/05/in-game-updates/05-new-week-campaign.jpg)
+
+<a name="52"></a>
+
+#### Battle City: Survey
+Konami actively reads player feedback so fill in the [event](/events/april-2018/battle-city-showdown/) survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
+
+![](/img/content/news/2018/05/in-game-updates/05-survey.jpg)
+
 <a name="51"></a>
 
 #### Battle City: Event Bonus
@@ -31,6 +45,8 @@ More dice, yay! Check out our [event article](/events/april-2018/battle-city-sho
 ---
 
 - [May 5th (Update 5)](#50)
+    - [New Week Campaign](#53)
+    - [Battle City: Survey](#52)
     - [Battle City: Event Bonus](#51)
 - [May 4th (Update 4)](#40)
     - [Ranked Duels Challenge Stamps](#41)
