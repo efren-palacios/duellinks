@@ -1,5 +1,10 @@
 [
     {
+        "name": "Monster Gate",
+        "rarity": "SR",
+        "level": 35
+    },
+    {
         "name": "Jirai Gumo",
         "rarity": "SR",
         "level": 45

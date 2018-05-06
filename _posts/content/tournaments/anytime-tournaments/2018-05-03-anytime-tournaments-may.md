@@ -5,7 +5,7 @@ author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
-date: 2018-05-05 04:40:00 +0100
+date: 2018-05-06 08:50:00 +0100
 comments: true
 description: The winning Anytime Tournament Decklists for May!
 keywords: anytime tournament, anytime, tournament, discord 
@@ -48,7 +48,29 @@ Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on 
 
 <br>
 
+#### May 6th
+
+##### Serenity
+
+Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/report/) and modified it. I like this version way better.
+
+[deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Reaper of Prophecy; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination; Warrior Elimination)
+
+<br>
+
 #### May 5th
+
+##### Eugen Heidt
+
+[deck:Restart](Amazoness Paladin; Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Heirloom; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Powerful Rebirth; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Cosmic Cyclone; Cosmic Cyclone; Different Dimension Ground; Different Dimension Ground; Different Dimension Ground)
+
+---
 
 ##### Lieral
 
