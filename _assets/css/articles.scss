@@ -11,7 +11,7 @@
 
 .card-collection
 {
-  .card-container
+  .card-wrapper
   {
     text-align: left;
     margin-bottom: 32px;
@@ -42,6 +42,28 @@
       -webkit-transform-style: preserve-3d;
       transform-style: preserve-3d;
       transition: all 0.4s;
+
+      padding-top: 35.09%;
+      border: 1px solid rgba(105, 119, 189, 0.33);
+      border-radius: 5px;
+
+      .card-container
+      {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+
+        > a
+        {
+          display: flex;
+          height: 100%;
+          width: 100%;
+        }
+      }
       
       &:hover
       {
@@ -53,13 +75,15 @@
       {
         text-decoration: none;
         color: $text-default;
+
+        &.author:hover { text-decoration: underline; }
       }
 
       .cover
       {
         width: 100%;
         border-radius: 5px;
-        border: 1px solid rgba(105, 119, 189, 0.33);
+        object-fit: contain;
       }
 
       .information
@@ -201,7 +225,6 @@
   {
     color: inherit;
     
-    &:hover { text-decoration: underline; }
     &.no-role { color: $active; }
     &.no-profile
     {
@@ -230,12 +253,12 @@
 
 @media only screen and (max-width: 1080px)
 { 
-  .card-collection .card-container .article-card .information .title
+  .card-collection .card-wrapper .article-card .information .title
   {
     font-size: 2.74vw;
   }
 
-  .card-collection .card-container .article-card .information .sub-text
+  .card-collection .card-wrapper .article-card .information .sub-text
   {
     font-size: 1.26vw;
   }
@@ -243,12 +266,12 @@
 
 @media only screen and (max-width: 575px)
 { 
-  .card-collection .card-container .article-card .information .title
+  .card-collection .card-wrapper .article-card .information .title
   {
     font-size: 5.48vw;
   }
 
-  .card-collection .card-container .article-card .information .sub-text
+  .card-collection .card-wrapper .article-card .information .sub-text
   {
     font-size: 2.52vw;
   }

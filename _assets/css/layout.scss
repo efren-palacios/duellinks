@@ -94,6 +94,9 @@ body
   &.header
   {
     margin-bottom: 35px;
+    /*border-top: 1px solid $dark-line;
+    border-bottom: 1px solid $dark-line;
+    box-shadow: 0 -5px 5px -5px #08366566, 0 5px 5px -5px #08366566;*/
 
     .authors
     {
@@ -416,8 +419,14 @@ button:focus
 {
   text-align: center;
   width: calc(100% + 30px);
-  margin-left: -15px;
+  /*margin-left: -15px;*/
   margin-bottom: 25px;
+
+  /*&.row
+  {
+    margin-left: -20px;
+    margin-right: -20px;
+  }*/
 
   .card-deck
   {
