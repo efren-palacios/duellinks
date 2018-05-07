@@ -5,7 +5,7 @@ author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
-date: 2018-05-06 08:50:00 +0100
+date: 2018-05-07 07:00:00 +0100
 comments: true
 description: The winning Anytime Tournament Decklists for May!
 keywords: anytime tournament, anytime, tournament, discord 
@@ -50,9 +50,26 @@ Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on 
 
 #### May 6th
 
-##### Serenity
+##### Eugen Heidt
+[deck:Restart](Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Heirloom; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Powerful Rebirth; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
 
-Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/report/) and modified it. I like this version way better.
+***Side Deck:***
+[deck](Cosmic Cyclone; Cosmic Cyclone; Different Dimension Ground; Different Dimension Ground; Different Dimension Ground)
+
+---
+
+##### JustDesserts
+[Sylvans](/tier-list/deck-types/sylvans/) never die!   
+
+[deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Enemy Controller; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Exile of the Wicked; Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination)
+
+---
+
+##### Serenity
+Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/report/) and modified it but I like this version way better.
 
 [deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Reaper of Prophecy; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Enemy Controller; Enemy Controller; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
 
@@ -64,7 +81,6 @@ Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/rep
 #### May 5th
 
 ##### Eugen Heidt
-
 [deck:Restart](Amazoness Paladin; Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Heirloom; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Powerful Rebirth; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
 
 ***Side Deck:***
@@ -73,7 +89,6 @@ Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/rep
 ---
 
 ##### Lieral
-
 30-card Spellbooks were amazing. Went up against [Amazoness](/tier-list/deck-types/amazoness/), 30-card mirror, and finally [Geargias](/tier-list/deck-types/geargias/) to take the crown! Siding out two {That Grass Looks Greener} was quite convenient.
 
 [deck:Restart](The Tricky; Magical Something; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Reaper of Prophecy; Reaper of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; Hey, Trunade!; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Monster Gate; Enemy Controller; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
@@ -86,7 +101,6 @@ Oops, I did it again! I stole [looler_s deck](/tournaments/duel-links-open/7/rep
 #### May 1st
 
 ##### Chilah
-
 Hey guys, me again. Taking everyones money tonight.
 
 [deck:Duel, standby!](Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Chaos Hunter; Chaos Hunter; Lyla, Lightsworn Sorceress; Sphere Kuriboh; Sphere Kuriboh; Archfiend Empress; Archfiend Empress; Archfiend Empress; Call of the Archfiend; Call of the Archfiend; Call of the Archfiend; Archfiend's Roar; Archfiend's Roar; Archfiend's Roar; Fiend Griefing; Fiend Griefing; Needlebug Nest; Needlebug Nest)
@@ -97,7 +111,6 @@ Hey guys, me again. Taking everyones money tonight.
 ---
 
 ##### Serenity
-
 First ever Anytime Tournament after the new Box ([Visions of Ice](/box-reviews/visions-of-ice/)) conquered by Spellbooks! This Deck is absolutely insane and is definitely note worthy and one you should look out for. This is my personal OTK variant using {That Grass Looks Greener}.
 Once I hit KoG with this deck I will make a detailed guide on how to play this meta breaking deck.
 
