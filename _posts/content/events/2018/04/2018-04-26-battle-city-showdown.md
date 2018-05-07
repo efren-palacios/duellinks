@@ -10,14 +10,14 @@ description: The second part of Battle City is underway! Here's all you need to 
 keywords: event, battle city, skill, yami yugi, part two, 2, divine trials, card of sanctity
 permalink: /events/april-2018/battle-city-showdown/
 pinned: false
-ended: false
+ended: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-##### Last updated May 5th - Event Bonus
+##### Updated May 5th - Event Bonus
 
 - [Updates](#updates)
 - [Event Information](#event-information)

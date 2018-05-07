@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (5) - May 5
+title: In-Game Updates (6) - May 7
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-05 23:00:00 +0100
+date: 2018-05-07 06:30:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -13,6 +13,42 @@ permalink: /news/may-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
+
+<a name="60"></a>
+
+### May 7th (Update 6)
+
+<br>
+
+<a name="61"></a>
+
+#### Bonus Reward Campaign!
+The campaign has been extended, you'll now have +1000 [Duel Assessment](/farming/duel-assessment-score/) score until May 9th. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+ 
+![](/img/content/news/2018/05/in-game-updates/07-campaign.jpg)
+
+---
+
+- [May 7th (Update 6)](#60)
+    - [Bonus Reward Campaign!](#61)
+- [May 5th (Update 5)](#50)
+    - [New Week Campaign](#53)
+    - [Battle City: Survey](#52)
+    - [Battle City: Event Bonus](#51)
+- [May 4th (Update 4)](#40)
+    - [Ranked Duels Challenge Stamps](#41)
+- [May 3rd (Update 3)](#30)
+    - [Battle City: Divine Trials](#31)
+- [May 2nd (Update 2)](#20)
+    - [Obtain a Legendary Duelist](#21)
+    - [Elegant Mai Event](#22)
+    - [Bonus Reward Campaign!](#23)
+- [May 1st (Update 1)](#10)
+    - [Ranked Duels Updated](#11)
+    - [New Card BOX](#12)
+    - [Sale Underway](#13)
+
+---
 
 <a name="50"></a>
 
@@ -41,25 +77,6 @@ Konami actively reads player feedback so fill in the [event](/events/april-2018/
 More dice, yay! Check out our [event article](/events/april-2018/battle-city-showdown/) for the best Decks to complete all the missions.
 
 ![](/img/content/news/2018/05/in-game-updates/05-battle-city.jpg)
-
----
-
-- [May 5th (Update 5)](#50)
-    - [New Week Campaign](#53)
-    - [Battle City: Survey](#52)
-    - [Battle City: Event Bonus](#51)
-- [May 4th (Update 4)](#40)
-    - [Ranked Duels Challenge Stamps](#41)
-- [May 3rd (Update 3)](#30)
-    - [Battle City: Divine Trials](#31)
-- [May 2nd (Update 2)](#20)
-    - [Obtain a Legendary Duelist](#21)
-    - [Elegant Mai Event](#22)
-    - [Bonus Reward Campaign!](#23)
-- [May 1st (Update 1)](#10)
-    - [Ranked Duels Updated](#11)
-    - [New Card BOX](#12)
-    - [Sale Underway](#13)
 
 ---
 
