@@ -1,14 +1,5 @@
 @import "variables.scss";
 
-/*.container
-{
-  border: 1px solid white;
-  height: auto !important;
-}*/
-
-/*https://stackoverflow.com/questions/12991351/css-force-image-resize-and-keep-aspect-ratio*/
-/*https://www.w3schools.com/howto/howto_css_aspect_ratio.asp*/
-
 .card-collection
 {
   .card-wrapper
@@ -18,34 +9,21 @@
     -webkit-perspective: 1000px;
     perspective: 1000px;
 
-    /*&.col-sm-6 .cover
-    {
-      width: 508px;
-      height: 179px;
-      object-fit: contain;
-    }
-
-    &.col-sm-4 .cover
-    {
-      width: 334px;
-      height: 179px;
-      object-fit: contain;
-    }*/
+    &.col-sm-6 .article-card { padding-top: 35.03%; } /* 180/513*100 - with slight adjustment */
+    &.col-sm-4 .article-card { padding-top: 53.65%; } /* 180/334*100 - with slight adjustment */
 
     .article-card
     {
+      color: $text-default;
       background-color: rgba(8, 13, 120, 0.05);
       box-shadow: 0 0 4px 0 $black;
-      color: $text-default;
+      border: 1px solid rgba(105, 119, 189, 0.33);
+      border-radius: 5px;
 
       -moz-backface-visibility: hidden;
       -webkit-transform-style: preserve-3d;
       transform-style: preserve-3d;
       transition: all 0.4s;
-
-      padding-top: 35.09%;
-      border: 1px solid rgba(105, 119, 189, 0.33);
-      border-radius: 5px;
 
       .card-container
       {
@@ -104,7 +82,7 @@
         {
           font-size: 29.6px;
           width: 100%;
-          margin-bottom: 2px;
+          margin-bottom: 1px;
           padding-top: 5px;
           line-height: 30px;
           text-transform: uppercase;
@@ -220,7 +198,6 @@
 
 .authors
 {
-  
   .author
   {
     color: inherit;
@@ -276,3 +253,25 @@
     font-size: 2.52vw;
   }
 }
+
+
+
+@media only screen and (max-width: 1060px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom:  0px; } }
+@media only screen and (max-width:  990px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -1px; padding-top: 4px; } }
+@media only screen and (max-width:  940px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -2px; } }
+@media only screen and (max-width:  890px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -3px; padding-top: 3px; } }
+@media only screen and (max-width:  840px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -4px; } }
+@media only screen and (max-width:  790px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -5px; padding-top: 2px; } }
+@media only screen and (max-width:  740px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -6px; } }
+@media only screen and (max-width:  690px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -7px; padding-top: 1px; } }
+@media only screen and (max-width:  640px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -8px; } }
+@media only screen and (max-width:  590px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -9px; padding-top: 0px; } }
+
+@media only screen and (max-width:  575px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom:  1px; padding-top: 5px; } }
+@media only screen and (max-width:  540px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -1px; padding-top: 4px; } }
+@media only screen and (max-width:  490px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -3px; padding-top: 3px; } }
+@media only screen and (max-width:  440px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -5px; padding-top: 2px; } }
+@media only screen and (max-width:  390px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -7px; padding-top: 1px; } }
+@media only screen and (max-width:  340px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -9px; padding-top: 0px; } }
+@media only screen and (max-width:  290px) { .card-collection .card-wrapper.col-sm-6 .article-card .information .title { margin-bottom: -11px; } }
+
