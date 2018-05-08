@@ -18,14 +18,14 @@
   {% if include.date %} {% assign date = include.date %} {% else %} {% assign date = article.date %} {% endif %}
 
   {% if options contains '2' %} {% assign display = "hidden" %} {% endif %}
-  {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-md-6" %} {% endif %}
+  {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-sm-6" %} {% endif %}
   {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %-d, %Y" %} {% endif %}
 
   <div class="card-wrapper {{columns}} col-12 {{display}}">
     <div class="article-card">
       <div class="card-container">
         <a href="{{article.url}}">
-          <img class="cover lazyload" src="{{article.image}}">
+          <img class="cover" src="{{article.image}}">
           {% if options contains '1' %}
             <img src="/img/assets/featured.png" class="featured-icon">
           {% endif %}
