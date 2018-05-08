@@ -10,25 +10,56 @@ class CustomFunctions
     return url.gsub(/\W|_/, "-").gsub(/-+/, "-").downcase
   end
 
-  def getProfileUrlByName(name)
+  def getProfileDataByName(name)
+    profile = nil
+
     allProfiles = Dir["_data/profiles/*.json"]
 
-    for profile in allProfiles
-      profileFile = File.read("_data/profiles/" + profile)
-
+    for fileName in allProfiles
+      profileFile = File.read("_data/profiles/" + fileName)
       if profileFile
-
-        profile = JSON.parse(profileFile)
-
-        if profile && profile["name"] && profile["name"] == name
-          return getProfileUrlByProfile(profile)
+        profileJson = JSON.parse(profileFile)
+        if profileJson && profileJson["name"] && profileJson["name"] == name
+          profile = profileJson
+          break
         end
-
       end
     end
 
-    return ""
+    if profile
 
+      rolesFile = File.read("_data/roles.json")
+      roles = JSON.parse(rolesFile)
+
+      foundRoles = roles.select do |elem|
+        elem[:role-id] == profile["role"]
+      end
+
+      role = foundRoles.first
+
+      url = getProfileUrlByProfile(profile)
+
+      if role
+        return { "name" => name, "url" => url, "color" => role["color"], "class" => "" }
+      else
+        return { "name" => name, "url" => url, "color" => "", "class" => "no-role" }
+      end
+
+    else
+
+      foundGroups = roles.select do |elem|
+        elem[:group-name] == name
+      end
+
+      group = foundGroups.first
+
+      if group
+        return { "name" => group["group-name"], "url" => group["url"], "color" => group["color"], "class" => "" }
+      else
+        return { "name" => name, "url" => "", "color" => "", "class" => "no-profile" }
+      end
+
+    end
   end
 
   def getProfileUrlByProfile(profile)

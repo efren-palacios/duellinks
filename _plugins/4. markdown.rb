@@ -260,5 +260,14 @@ galleryHtml += '</div>
 
             return sliderHtml
         end
+
+        # CREATES THE HTML FOR THE PROFILE LINKS
+        def createProfileLink(tagData)
+            profileData = CustomFunctions.new.getProfileDataByName(tagData)
+
+            profileLinkHtml = '<font color="' + profileData.color + '><a class="' + profileData.class + '" href="' + profileData.url + '">' + tagData + '</a></font>'
+
+            return profileLinkHtml
+        end
     end
 end

@@ -19,7 +19,7 @@
 
   {% if options contains '2' %} {% assign display = "hidden" %} {% endif %}
   {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-md-6" %} {% endif %}
-  {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %d, %Y" %} {% endif %}
+  {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %-d, %Y" %} {% endif %}
 
   <div class="card-container {{columns}} col-12 {{display}}">
     <div class="article-card">
