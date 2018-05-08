@@ -1,11 +1,15 @@
 {
     "game-changes":
     {
-        "date": 2018-04-30,
-        "description": "Red_Eyes Zombies finally fall after nearly a year on the Tier List. Sea Stealth Attack and Magnets also fell from glory. Amazoness and Spellbooks are catching peoples interest and may disrupt the Tier List soon."
+        "date": 2018-05-07,
+        "description": "With of the Visions of Ice Mini-Box on April 30th came the release of Spellbooks. While they have not yet been fully optimized, they are shaking up the meta in a variety of builds. Another deck to shake up the meta is Amazoness. Amazoness found new strength in support cards from the Elegant Mai event as well as the character level 45 reward for Mai Valentine. These new decks are testing the current top tier decks. Some will fall and give rise to new top tier decks."
     },
     "tier-changes": 
     [
+        { "type": "archfiends", "from": 2, "to": 3, "date": 2018-05-07 },
+        { "type": "cyber-angels", "from": 3, "to": "nothing", "date": 2018-05-07 },
+        { "type": "spellbooks", "from": "nothing", "to": 2, "date": 2018-05-07 },
+        { "type": "amazoness", "from": "nothing", "to": 1, "date": 2018-05-07 },
         { "type": "geargias", "from": 1, "to": 2, "date": 2018-04-30 },
         { "type": "magnet-warriors", "from": 3, "to": "nothing", "date": 2018-04-30 },
         { "type": "sea-stealth-attack", "from": 3, "to": "nothing", "date": 2018-04-30 },

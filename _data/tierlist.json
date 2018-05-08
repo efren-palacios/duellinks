@@ -6,7 +6,8 @@
         "types":
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
-            { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" }     
+            { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }     
         ] 
     },
     {
@@ -16,7 +17,7 @@
         "types":
         [              
             { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" }            
+            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }            
         ]
     },
     {
@@ -25,7 +26,7 @@
         "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
         "types":
         [   
-            { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
@@ -34,8 +35,7 @@
         "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
         "types":
         [ 
-            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
-            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }
+            { "id": "ojama-stall",                 "display": "Ojama Stall",              "card": "Lava Golem" } 
         ] 
     },
     {
@@ -45,6 +45,7 @@
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
+            { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },

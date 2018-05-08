@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Heroes Code
+title: The Heroes' Code
 author: Negative1
 category: guide
 sub-category: deck-type
@@ -30,7 +30,7 @@ permalink: /guides/deck-types/masked-hero-guide-by-negative1/
 		* [S Tier](#s-tier)
 		* [A Tier](#a-tier)
 		* [B Tier](#b-tier)
-* [Optimized Lists](#optimized-lists)
+* [Example Lists](#example-lists)
 * [Combos and Plays](#combos-and-plays)
 	* [Using Vyon’s Effect](#using-vyons-effect)
 		* [Vision HERO Vyon](#vision-hero-vyon)
@@ -58,7 +58,7 @@ Masked Heroes is an archetype that was released on April 2nd with the 11th Main 
 
 #### About the Author
  
-Hello, I’m Negative1. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from [Jonesy9027](/authors/jonesy9027/) from the discord and I hope you all find it helpful! :D
+Hello, I’m Negative1. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from [Jonesy9027](/authors/jonesy9027/) on the introduction, tech tier list, and matchups sections and I hope you all find it helpful! :D
 
 ---
  
@@ -182,7 +182,7 @@ Dangerous is a boss monster that you can get out early and use to thin your deck
 
 ---
 
-#### Optimized Lists
+#### Example Lists
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Hey, Trunade!; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
