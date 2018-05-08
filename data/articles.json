@@ -32,7 +32,7 @@
             {% endif %}
         },
         "title": "{{ article.title }}",
-        "date": "{{ article.date | date: "%B %d, %Y" }}",
+        "date": "{{ article.date | date: "%B %-d, %Y" }}",
         "authors":
         [
             {% assign authors = article.author | split: ";" %}

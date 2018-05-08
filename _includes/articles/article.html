@@ -18,8 +18,8 @@
   {% if include.date %} {% assign date = include.date %} {% else %} {% assign date = article.date %} {% endif %}
 
   {% if options contains '2' %} {% assign display = "hidden" %} {% endif %}
-  {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-sm-6" %} {% endif %}
-  {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %d, %Y" %} {% endif %}
+  {% if options contains '6' %} {% assign columns = "col-sm-4" %} {% else %} {% assign columns = "col-md-6" %} {% endif %}
+  {% if options contains '7' %} {% assign formattedDate = date | timeago %} {% else %} {% assign formattedDate = date | date: "%B %-d, %Y" %} {% endif %}
 
   <div class="card-wrapper {{columns}} col-12 {{display}}">
     <div class="article-card">

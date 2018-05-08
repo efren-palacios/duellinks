@@ -9,7 +9,7 @@
 
         <div class="section">
             <h3>Last Updated</h3>
-            <p>{{guide.modified-on | date: "%B %d, %Y" }} by 
+            <p>{{guide.modified-on | date: "%B %-d, %Y" }} by 
             {% if guide.profile != null and guide.profile != "" %}
                 <a href="/authors/{{guide.profile}}/">{{guide.modified-by}}</a>
             {% else %}

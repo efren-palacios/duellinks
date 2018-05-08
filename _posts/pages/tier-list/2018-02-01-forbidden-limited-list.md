@@ -16,7 +16,7 @@ hide: true
 {% assign sortedLog = changelog | sort: 'date' | reverse %}
 {% assign firstDate = sortedLog[0].date %}
 <div class="section">
-    <h3>Last Updated: {{ firstDate | date: "%B %d, %Y" }}</h3>
+    <h3>Last Updated: {{ firstDate | date: "%B %-d, %Y" }}</h3>
     <ul>
         {% assign changelog_current = sortedLog | where: "date", firstDate %}
         {% for log in changelog_current %}
