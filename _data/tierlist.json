@@ -2,7 +2,7 @@
     {
         "tier": 1,
         "category": "KOG",
-        "info": "Best most consistent decks. Expect these to be the majority played in a tournament/event due to its dominance.",
+        "info": "The best, most consistent Decks. Expect these to be the majority played in competitive events due to their dominance.",
         "types":
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
@@ -13,7 +13,7 @@
     {
         "tier": 2,
         "category": "KOG",
-        "info": "1 step away from being part of the best decks. Capable of winning a tournament without people being surprised. An advantage they have over tier 1 decks is that everyone is more focused on building their deck to beat a tier 1 deck and not a deck from this category.",
+        "info": "One step away from being a part of the best Decks. Capable of winning a tournament without people being surprised. An advantage they have over the Tier 1 Decks is that everyone is more focused on building their Deck to beat a Tier 1 Deck rather than Tier 2.",
         "types":
         [              
             { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
@@ -23,16 +23,16 @@
     {
         "tier": 3,
         "category": "KOG",
-        "info": "Potential/keep your eye out for these deck-types. Don't expect to see these to be part of the majority played in a COMPETITIVE EVENT but do not ignore the existence of these deck-types when building your deck and choosing techs or you will not do well. A great player dedicated to one of these deck-types can dominate others through extensive experience.",
+        "info": "Keep an eye out for these Deck-types. Don't expect these to be part of the majority played in a competitive event, but do not ignore their existence when building your Deck and choosing tech cards or you won't do well. A great player dedicated to one of these Deck-types can dominate others through extensive experience.",
         "types":
         [   
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiano" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
     {
         "category": "HighPotential",
-        "info": "Deck-types, acknowledged by the Top Player Council, with high potential for being on the Tier List but do not have enough data to properly rate.",
+        "info": "Deck-types acknowledged by the Top Player Council with high potential for being on the Tier List but which do not have enough results to properly rate.",
         "types":
         [ 
             { "id": "ojama-stall",                 "display": "Ojama Stall",              "card": "Lava Golem" } 

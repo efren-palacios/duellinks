@@ -1,34 +1,36 @@
 ---
 layout: blog
-title: In-Game Updates (6) - May 7
+title: In-Game Updates (7) - May 8
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-07 06:30:00 +0100
+date: 2018-05-08 08:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, new box, box, visions of ice, sale   
+keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment  
 permalink: /news/may-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="60"></a>
+<a name="70"></a>
 
-### May 7th (Update 6)
+### May 8th (Update 7)
 
 <br>
 
-<a name="61"></a>
+<a name="71"></a>
 
-#### Bonus Reward Campaign!
-The campaign has been extended, you'll now have +1000 [Duel Assessment](/farming/duel-assessment-score/) score until May 9th. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
- 
-![](/img/content/news/2018/05/in-game-updates/07-campaign.jpg)
+#### Maintenance Notice
+There will be a maintenance tomorrow to conclude the [Elegant Mai event](/events/may-2018/elegant-mai/) and to prepare for the [Syrus Truesdale unlock event](#21), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
+
+![](/img/content/news/2018/05/in-game-updates/08-maintenance.jpg)    
 
 ---
 
+- [May 8th (Update 7)](#70)
+    - [Maintenance Notice](#71)
 - [May 7th (Update 6)](#60)
     - [Bonus Reward Campaign!](#61)
 - [May 5th (Update 5)](#50)
@@ -47,6 +49,21 @@ The campaign has been extended, you'll now have +1000 [Duel Assessment](/farming
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="60"></a>
+
+### May 7th (Update 6)
+
+<br>
+
+<a name="61"></a>
+
+#### Bonus Reward Campaign!
+The campaign has been extended, you'll now have +1000 [Duel Assessment](/farming/duel-assessment-score/) score until May 9th. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+ 
+![](/img/content/news/2018/05/in-game-updates/07-campaign.jpg)
 
 ---
 

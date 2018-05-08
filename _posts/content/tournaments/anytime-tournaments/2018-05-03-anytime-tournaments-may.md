@@ -5,7 +5,7 @@ author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
-date: 2018-05-07 07:00:00 +0100
+date: 2018-05-08 08:00:00 +0100
 comments: true
 description: The winning Anytime Tournament Decklists for May!
 keywords: anytime tournament, anytime, tournament, discord 
@@ -25,6 +25,7 @@ permalink: /tournaments/anytime-tournament/may-2018/report/
 - Best of 3
 - Side Deck optional
 
+<!--
 ### How To Buy Meta Tickets
 You have to [subscribe to DuelLinksMeta](https://www.twitch.tv/duellinksmeta/subscribe) to buy Meta Tickets. You can subscribe for **free** through [Twitch Prime](https://twitch.tv/prime).
 - Each Meta Ticket costs $2 with [PayPal](https://paypal.com/) "Friends and Family", send payments to *DuelLinksMetaWeekly@gmail.com*.
@@ -41,10 +42,45 @@ If you do not have access to "Friends and Family" then you must pay the followin
 Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on the Discord (screenshots must show Transaction ID and Time/Date). Also, ensure you add your Discord name in the payment note!
 
 *Tickets are non-refundable and you must be subscribed to use your tickets.*
-
+-->
 ---
 
 ### Winning Decklists
+
+<br>
+
+#### May 8th
+
+##### Punny
+I did it twice in a row! Only a slight variation but it never had an effect.
+
+[deck:Restart](The Tricky; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Super Rush Headlong; Monster Gate; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master; Spellbook Organization; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination; Cursed Seal of the Forbidden Spell)
+
+---
+
+##### Punny
+Spellbooks are going to take over, just wait! This Deck feels amazing, Side Deck was useless as I didn't draw any. I played against [Amazoness](/tier-list/deck-types/amazoness/) and Spellbooks mirror match.
+
+[deck:Restart](The Tricky; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Monster Gate; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master; Spellbook Organization; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Last Day of Witch; Warrior Elimination; Warrior Elimination; Warrior Elimination; Cursed Seal of the Forbidden Spell)
+
+<br>
+
+#### May 7th
+
+##### Grucius
+This is the same decklist I used to top [Meta Weekly 18](/tournaments/meta-weekly/18/report/), I just changed the Side Deck.
+
+[deck:Grit](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Strength of Prophecy; Strength of Prophecy; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Power; Spellbook of the Master; Spellbook of the Master; Spellbook of Eternity; Spellbook of Eternity; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Last Day of Witch; Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination)
+
 
 <br>
 
