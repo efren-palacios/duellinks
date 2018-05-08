@@ -17,8 +17,9 @@ ended: true
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-##### Updated May 5th - Event Bonus
+##### Updated May 8th - Added Duel Awards Winners
 
+- **[Duel Awards](#awards)**
 - [Updates](#updates)
 - [Event Information](#event-information)
 - [Rewards](#rewards)
@@ -33,7 +34,29 @@ ended: true
     - [Seto Kaiba](#seto-kaiba)
     - [Yami Marik (1)](#yami-marik-1)
     - [Yami Marik (2)](#yami-marik-2)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+<br>
+
+#### Most Prismatic Cards - **Limitless95**
+![](/img/content/events/2018/04/battle-city-showdown/limitless95.jpg)
+
+#### Highest Round - **Kuri Ball**
+![](/img/content/events/2018/04/battle-city-showdown/kuri-ball.jpg)
+
+#### Best Lottery Draw - **lvmatterhorn**
+![](/img/content/events/2018/04/battle-city-showdown/lvmatterhorn.jpg)
 
 ---
 
@@ -307,23 +330,6 @@ Be wary, he uses the Skill {Shadow Game}.
 
 ##### Lvl: 40 Decklist
 [deck:Shadow Game](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Ra's Disciple; Ra's Disciple; Ra's Disciple; Dark Jeroid; Dark Jeroid; Dark Jeroid; Humanoid Slime; Humanoid Slime; Humanoid Slime; Gil Garth; Gil Garth; Gil Garth; Monster Reborn; Double Summon; Double Summon; Nightmare Wheel; Powerful Rebirth; Powerful Rebirth)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below!), when the event is over the person with the:
-- Best Lottery draw will have their name posted here
-- Most Prismatic Lottery cards will have their name posted here
-- Highest Round reached will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 
