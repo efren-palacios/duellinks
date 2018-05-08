@@ -16,8 +16,8 @@
         "info": "One step away from being a part of the best Decks. Capable of winning a tournament without people being surprised. An advantage they have over the Tier 1 Decks is that everyone is more focused on building their Deck to beat a Tier 1 Deck rather than Tier 2.",
         "types":
         [              
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }            
+            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }            
         ]
     },
     {
@@ -26,7 +26,7 @@
         "info": "Keep an eye out for these Deck-types. Don't expect these to be part of the majority played in a competitive event, but do not ignore their existence when building your Deck and choosing tech cards or you won't do well. A great player dedicated to one of these Deck-types can dominate others through extensive experience.",
         "types":
         [   
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" },
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
