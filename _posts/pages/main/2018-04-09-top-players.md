@@ -7,7 +7,7 @@ category: page
 sub-category: main
 order: 4
 comments: false
-date: 2018-04-01 01:30:00 -0600
+date: 2018-05-04 
 description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
 permalink: /top-players/

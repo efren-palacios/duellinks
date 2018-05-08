@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-04 13:00:00 +0100
+date: 2018-05-08 07:00:00 +0100
 title: Introduction to Amazoness
 author: Brenduke
 has-profile: true
@@ -19,8 +19,8 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
-#### Updated May 4, 2018 
-##### All New Decktype Information 
+#### Updated May 8, 2018 
+##### Removed Generic Tech Cards
 
 ### Overview
 
@@ -35,7 +35,7 @@ Nel won [Meta Weekly #18](/tournaments/meta-weekly/18/report/) with this fairly 
 [deck](Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Baby Tiger; Amazoness Baby Tiger; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
 
 ### Tech Cards
-[deck](Amazoness Sage; Amazoness Paladin; Amazoness Tiger; Amazoness Chain Master; Amazoness Scouts; Amazoness Spy; Vision HERO Witch Raider; Exiled Force; Ties of the Brethren; Cosmic Cyclone; Forbidden Chalice; Enemy Controller; Magic Planter; Double Cyclone; Parallel Twister; Super Rush Headlong; Amazoness Heirloom; Amazoness Fighting Spirit; Amazoness Willpower; Powerful Rebirth; Wall of Disruption; The Regulation of Tribe; Curse of Anubis; Paleozoic Canadia; Windstorm of Etaqua)
+[deck](Amazoness Sage; Amazoness Paladin; Amazoness Tiger; Amazoness Chain Master; Amazoness Scouts; Amazoness Spy; Vision HERO Witch Raider; Exiled Force; Ties of the Brethren; Magic Planter; Double Cyclone; Parallel Twister; Amazoness Heirloom; Amazoness Fighting Spirit; Amazoness Willpower; Powerful Rebirth; The Regulation of Tribe)
 
 ### Extra Information
 - When you Normal Summon {Amazoness Princess} while you have a {Amazoness Baby Tiger} in your hand; if you are going first Special Summon the Tiger with its effect. When going second, if you will attack with Princess you can keep the Tiger in your hand to use as Princess' cost. This essentially means you get a free search since you can Special Summon the Tiger from your Graveyard when Princess Summons her follower.
