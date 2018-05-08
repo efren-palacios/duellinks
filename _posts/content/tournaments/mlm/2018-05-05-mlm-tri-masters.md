@@ -17,18 +17,19 @@ pinned: false
 {% include heading.html title=page.title author=page.author %}
 
 ### Tournament Information
-- The team at MLM Regulars were back with another one of their stapled tournaments last night called MLM Tri-Masters. 
-- The MLM Tri-Masters came to a close with some huge competitive decks played out. The format was 3 decks, to which all three must be of different archtype, skill. The games were best of 3 so the decks had to change after each win. The players could use the decks in any order as all could see what their opponent was using. Be sure to join the [MLM Regulars Discord](https://discord.gg/8gRaqYC).  
-
+- The team at MLM Regulars were back with another one of their stapled tournaments last night called MLM Tri-Masters. The tournament came to a close with some huge competitive Decks played out.
+- The format was three Decks, to which all three must be of different archetype, and Skill. The games were best of 3 so the Decks had to change after each win. The players could use the Decks in any order as all could see what their opponent was using. 
+- Be sure to join the [MLM Regulars Discord](https://discord.gg/8gRaqYC) to keep up with future tournaments!
 - Saturday 5th May, 7pm GMT
 - Free to enter (must be a Discord member)
 
 ### Format
 - 42 Players
-- 3 Decks All different Archetypes (Any order of play)
+- 3 Decks, all different archetypes (any order of play)
 
-### Full Standings
-- [Click here](https://smash.gg/tournament/mlm-tri-masters/events/mlm-tri-masters/standings)
+##### **You can view the full standings on [smash.gg](https://smash.gg/tournament/mlm-tri-masters/events/mlm-tri-masters/standings)!**
+
+---
 
 ### Top 4 Decklists - Prize Support: $90
 
@@ -64,7 +65,6 @@ pinned: false
 [deck:Balance](Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Archfiend Emperor, the First Lord of Horror; Lyla, Lightsworn Sorceress;Lyla, Lightsworn Sorceress; Archfiend Empress; Archfiend Empress; Archfiend Empress; Invader of Darkness; Invader of Darkness; Card Trooper;Paleozoic Canadia; Call of the Archfiend; Call of the Archfiend; Call of the Archfiend; Archfiend's Roar; Archfiend's Roar; Archfiend's Roar; Needlebug Nest; Needlebug Nest)
 
 [deck:Grit](Dark Magician of Chaos; Spellbook Magician of Prophecy;Spellbook Magician of Prophecy;Reaper of Prophecy;Fool of Prophecy;Fool of Prophecy;Fool of Prophecy;Spellbook of Secrets;Spellbook of Secrets;Spellbook of Secrets;Spellbook Library of the Crescent;Spellbook Library of the Crescent;Spellbook of Fate;Spellbook of Fate;Spellbook of Fate;Spellbook of Power;Spellbook of Eternity;Spellbook of Eternity;Spellbook of the Master;Spellbook of the Master;Spellbook Organization;Treacherous Trap Hole)
-
 
 ---
 

@@ -16,13 +16,14 @@ permalink: /events/may-2018/elegant-mai/
 
 ![Banner](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
 
-##### Last updated May 3rd - Added Lvl: 30 farm Deck
+##### Updated May 8th - Added Lvl: 40 Ra-Sylvans Farm Deck
 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
     - [Lvl: 40 Necrofear Farm](#morrmaniac)
+    - [Lvl: 40 Ra-Sylvans Farm](#sylvans)
     - [Lvl: 30/40 Geargia Farm](#brenduke)
     - [Lvl: 40 Hazy Flame Farm](#rezileen)
     - [Lvl: 30 Blue-Eyes Farm](#blue)
@@ -84,6 +85,31 @@ You should have either one {Labyrinth Wall} and one {Dark Necrofear} or two {Dar
 
 ##### Risks
 - You need to Special Summon {Dark Necrofear} as soon as possible since Mai will use {Quill Pen of Gulldos}/{Spiritual Wind Art - Miyabi} to remove your Monsters and attack you directly. 
+
+---
+
+<a name="sylvans"></a>
+
+#### Lvl: 40 Ra-Sylvans Farm
+[deck:Power of the Tributed](The Winged Dragon of Ra; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Sylvan Lotuswain; Sylvan Lotuswain)
+
+##### Strategy
+- Swarm the field with Monsters, using the effects of {Sylvan Komushroomo} and {Sylvan Marshalleaf} to destroy your opponents field.
+- Keep on attacking Mai's Monsters, while excavating each turn.
+- Use {Sylvan Lotuswain} to place cards at the bottom of your Deck, prioritize one Marshalleaf and two Komushroomo so you can excavate them to clear Mai's field before you Summon {The Winged Dragon of Ra} on your final turn.
+
+##### Tips
+- Activate the effect of {World Carrotweight Champion} in the Graveyard to send {Rose Lover} from your hand to Graveyard.
+- When Rose Lover is in the Graveyard you can activate its effect to Special {Sylvan Guardioak}/{Sylvan Hermitree}.
+- Be wary not to activate the effect of {Sylvan Marshalleaf} if Mai has no Monsters on the field.
+
+##### Last Turn
+You should have at least one Monster on the field.
+1. Special Summon {Sylvan Hermitree}/{Sylvan Guardioak} by the effect of {Rose Lover} (and {World Carrotweight Champion} if you only have two Monsters on the field).  
+2. Activate the effect of Sylvan Guardioak to excavate the cards you put at the bottom of your Deck with {Sylvan Lotuswain} and destroy any backrow or Monster on the field.
+3. Tribute summon {The Winged Dragon of Ra} using your three Monsters.
+4. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
+5. Enter Battle Phase and attack Mai's life points directly!
 
 ---
 
