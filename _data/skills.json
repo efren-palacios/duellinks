@@ -964,6 +964,23 @@
     "how": "Event",
     "exclusive": true,
     "character": "Syrus Truesdale"
+  },
+  {
+    "name": "Check Out My Ride!",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a 'roid' monster of your choice.",
+    "how": "Level 4",
+    "exclusive": true,
+    "character": "Syrus Truesdale"
+  },
+  {
+    "name": "Check Out My Fusion!",
+    "description": "Can be used each time your Life Points decrease by 1500. Instead of doing a normal draw, 'Vehicroid Connection Zone' is added to your hand from outside of your Deck.",
+    "how": "Level 20",
+    "exclusive": true,
+    "character": "Syrus Truesdale"
   }
 ]
+
+
+
 

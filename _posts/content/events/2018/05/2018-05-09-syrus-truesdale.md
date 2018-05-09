@@ -18,6 +18,7 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
+- [Level-Up Rewards](#level-up-rewards)
 - [Farm Decks](#farm-decks)
     - [Lvl: 40 Ra Farm](#freeska)
     - [Lvl: 30 Blue-Eyes Farm](#blue)
@@ -30,14 +31,25 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 [slider](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/slider.jpg)
 
 ### Event Information 
-- Syrus Truesdale has returned - get those Vehicroid cards, unlock him as a Character and obtain his exclusive new Skill: {Training Wheels}! 
+- Syrus Truesdale has returned. Get those Vehicroid cards, unlock him as a Character and obtain his exclusive new Skill: {Training Wheels} at 9200 Cumulative Points! 
 - This event takes place from May 9th to May 17th.
 - **Dueling against Legendary/Standard Duelists and the Vagabond in any Duel World will increase the chance of Syrus Truesdale appearing, but not Ranked Duels.**
-- Syrus Truesdale will only appear in **Duel World (GM)** - not in DM!
+- Syrus Truesdale will only appear in **Duel World (GX)** - not in DM!
 - He will not appear at the Gate and the chance of him appearing is not affected by Dueling at the Gate.
 
 ### Drop Rewards 
 [deck](Expressroid; Submarineroid; Inverse Universe; Ambulance Rescueroid; Pair Cycroid; Steamroid; Drillroid; Steam Gyroid; Rescueroid; Supercharge; Carrierroid; Ambulanceroid; Patroid)
+
+### Level-Up Rewards
+These are the cards and Skills you can attain.
+
+[deck](Fusion Guard; Carrierroid; Rescueroid; Ambulanceroid; Ambulance Rescueroid; Supercharge; Stealthroid; Vehicroid Connection Zone; Submarineroid; Steamroid; Drillroid; Truckroid)
+
+| Level | Skill |
+|--|--|--|
+| 4 | {Check Out My Ride!} | 
+| 13 | {Draw Sense: Earth} | 
+| 20 | {Check Out My Fusion!} | 
 
 ---
 
