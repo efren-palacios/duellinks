@@ -23,17 +23,11 @@ module Jekyll
 			customTagData = Array.new
             decks = Array.new
 
-            cardPriorityList = Array.new
-            cardPriority = false 
-
             lastTagOpen = -1
             for i in 0...content.length
                 currChar = content[i].chr
                 if(currChar == "{" || currChar == "[")
                     lastTagOpen = i
-                    if(content[i + 1].chr == "!")
-                        cardPriority = true
-                    end
                 elsif ((currChar == "}" || currChar == "]") && lastTagOpen >= 0)
                     tagContent = content[lastTagOpen + 1, i - lastTagOpen - 1]
 
@@ -44,20 +38,13 @@ module Jekyll
                     for j in 0...prohibitedSubstr.length
                         if tagContent.include?(prohibitedSubstr[j])
                             isTagCardName = false
-                            cardPriority = false
                             break
                         end
                     end
 
                     if isTagCardName
                         if(currChar == "}")
-                            if(cardPriority)                                  
-                                markedText.push(tagContent.sub('!', ''))
-                            else
-                                markedText.push(tagContent)
-                            end
-                            cardPriorityList.push(cardPriority)
-                            cardPriority = false
+                            markedText.push(tagContent)
                         elsif(currChar == "]")
                             customTagsIndex.push(i)
                             customTagsName.push(tagContent)
@@ -110,10 +97,15 @@ module Jekyll
 
             for i in 0...markedText.size
                 isSkill = false
-                skillOfficialName = markedText[i]
+
+                markedTextFormatted = markedText[i]
+                markedTextFormatted = markedTextFormatted.chr == '!' ? markedTextFormatted.sub('!', '') : markedTextFormatted
+                markedTextFormatted = markedTextFormatted.chr == '#' ? markedTextFormatted.sub('#', '') : markedTextFormatted            
+
+                skillOfficialName = markedTextFormatted
                 for j in 0...skillsJson.size
                     skillJson = skillsJson[j]['name'].downcase.gsub(/\W/, '')
-                    text = markedText[i].downcase.gsub(/\W/, '')
+                    text = markedTextFormatted.downcase.gsub(/\W/, '')
 
                     if skillJson == text
                         isSkill = true
@@ -122,10 +114,17 @@ module Jekyll
                     end
                 end
 
-                if isSkill && !cardPriorityList[i]
+                cardPriority = markedText[i].chr == '!' ? true : false
+                profileLink = markedText[i].chr == '#' ? true : false
+
+                if isSkill && !cardPriority
                     content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
                 else
-                    content.sub! '{' + (cardPriorityList[i] ? "!" : "") + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&il">' + markedText[i] + '</span><span class="mobile"></span>'
+                    if profileLink
+                        content.sub! '{' + markedText[i] + '}', createProfileLink(markedTextFormatted)    
+                    else
+                        content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedTextFormatted, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedTextFormatted, Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&il">' + markedTextFormatted + '</span><span class="mobile"></span>'
+                    end
                 end
             end
 
@@ -278,7 +277,7 @@ galleryHtml += '</div>
         def createProfileLink(tagData)
             profileData = CustomFunctions.new.getProfileDataByName(tagData)
 
-            profileLinkHtml = '<a class="' + profileData.class + '" href="' + profileData.url + '"><font color="' + profileData.color + '>' + profileData.name + '</font></a>'
+            profileLinkHtml = '<a class="' + profileData['class'] + '" href="' + profileData['url'] + '"><font color="' + profileData['color'] + '">' + profileData['name'] + '</font></a>'
 
             return profileLinkHtml
         end
