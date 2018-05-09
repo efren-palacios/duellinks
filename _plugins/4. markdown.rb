@@ -23,11 +23,17 @@ module Jekyll
 			customTagData = Array.new
             decks = Array.new
 
+            cardPriorityList = Array.new
+            cardPriority = false 
+
             lastTagOpen = -1
             for i in 0...content.length
                 currChar = content[i].chr
                 if(currChar == "{" || currChar == "[")
                     lastTagOpen = i
+                    if(content[i + 1].chr == "!")
+                        cardPriority = true
+                    end
                 elsif ((currChar == "}" || currChar == "]") && lastTagOpen >= 0)
                     tagContent = content[lastTagOpen + 1, i - lastTagOpen - 1]
 
@@ -38,13 +44,20 @@ module Jekyll
                     for j in 0...prohibitedSubstr.length
                         if tagContent.include?(prohibitedSubstr[j])
                             isTagCardName = false
+                            cardPriority = false
                             break
                         end
                     end
 
                     if isTagCardName
                         if(currChar == "}")
-                            markedText.push(tagContent)
+                            if(cardPriority)                                  
+                                markedText.push(tagContent.sub('!', ''))
+                            else
+                                markedText.push(tagContent)
+                            end
+                            cardPriorityList.push(cardPriority)
+                            cardPriority = false
                         elsif(currChar == "]")
                             customTagsIndex.push(i)
                             customTagsName.push(tagContent)
@@ -109,10 +122,10 @@ module Jekyll
                     end
                 end
 
-                if isSkill
+                if isSkill && !cardPriorityList[i]
                     content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="skillPopup">' + skillOfficialName + '</span><span class="mobile"></span>'
                 else
-                    content.sub! '{' + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&il">' + markedText[i] + '</span><span class="mobile"></span>'
+                    content.sub! '{' + (cardPriorityList[i] ? "!" : "") + markedText[i] + '}', '<span class="card-hover" name="cardPopup" alt="' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '" src="https://images.weserv.nl/?url=yugiohprices.com/api/card_image/' + URI.escape(markedText[i], Regexp.new("[^#{URI::PATTERN::UNRESERVED}]")) + '&il">' + markedText[i] + '</span><span class="mobile"></span>'
                 end
             end
 
