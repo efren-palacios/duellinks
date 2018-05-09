@@ -15,8 +15,8 @@ class CustomFunctions
 
     allProfiles = Dir["_data/profiles/*.json"]
 
-    for fileName in allProfiles
-      profileFile = File.read("_data/profiles/" + fileName)
+    for filePath in allProfiles
+      profileFile = File.read(filePath)
       if profileFile
         profileJson = JSON.parse(profileFile)
         if profileJson && profileJson["name"] && profileJson["name"] == name
@@ -26,13 +26,13 @@ class CustomFunctions
       end
     end
 
+    rolesFile = File.read("_data/roles.json")
+    roles = JSON.parse(rolesFile)
+
     if profile
 
-      rolesFile = File.read("_data/roles.json")
-      roles = JSON.parse(rolesFile)
-
       foundRoles = roles.select do |elem|
-        elem[:role-id] == profile["role"]
+        elem["role-id"] == profile["role"]
       end
 
       role = foundRoles.first
@@ -48,7 +48,7 @@ class CustomFunctions
     else
 
       foundGroups = roles.select do |elem|
-        elem[:group-name] == name
+        elem["group-name"] == name
       end
 
       group = foundGroups.first

@@ -36,33 +36,11 @@
         "authors":
         [
             {% assign authors = article.author | split: ";" %}
-
             {% for rawAuthor in authors %}
-
                 {% assign author = rawAuthor | strip %}
-                {% assign roles = site.data.roles %}
-                {% assign profile = site.data.profiles | where: "name", author | first %}
-                
-                {% if profile %}
-                    {% assign url = profile | profileUrl %}
-                    {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
-
-                    {% if role %}
-                        { "url": "{{url}}", "name": "{{profile.name}}", "color": "{{role.color}}", "class": "" }
-                    {% else %}
-                        { "url": "{{url}}", "name": "{{profile.name}}", "color": "", "class": "no-role" }
-                    {% endif %}
-                {% else %}
-                    {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
-
-                    {% if group and group.url != "" %}
-                        { "url": "{{group.url}}", "name": "{{group.group-name}}", "color": "{{group.color}}", "class": "" }
-                    {% else %}
-                        { "url": "", "name": "{{author}}", "color": "", "class": "no-profile" }
-                    {% endif %}   
-                {% endif %}
+                {% assign profileData = author | profileData %}
+                { "url": "{{ profileData.url }}", "name": "{{ profileData.name }}", "color": "{{ profileData.color }}", "class": "{{ profileData.class }}" }
                 {% unless forloop.last %},{% endunless %}
-
             {% endfor %}
         ]
     }

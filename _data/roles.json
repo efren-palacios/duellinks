@@ -26,7 +26,7 @@
 		"group-id": "deck-type-experts",
 		"group-name": "The Deck Type Experts",
 		"url": "",
-		"color": "#DD8800",
+		"color": "#3498DB",
 		"description": "These people have proven themselves in one form or another that have insight on a particular deck type. They've reached King of Games (KoG) several times with this deck type, have topped several tournaments with it and have most likely developed an introduction (or in-depth) guide of that deck type."
 	},
 	{
@@ -56,7 +56,7 @@
 		"group-id": "content-editors",
 		"group-name": "The Content Editors",
 		"url": "",
-		"color": "#3496DB",
+		"color": "#96FC3F",
 		"description": "Content editors develop the initial research for developing a post (i.e. article, guide, etc.) They gather the content from various sources, develop an article and submit it to their manager for review and uploading."
 	}
 ]

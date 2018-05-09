@@ -144,6 +144,10 @@ module Jekyll
     def profileUrl(profile)
       return CustomFunctions.new.getProfileUrlByProfile(profile)
     end
+
+    def profileData(name)
+      return CustomFunctions.new.getProfileDataByName(name)
+    end
   end
 
   module ReadingTimeFilter

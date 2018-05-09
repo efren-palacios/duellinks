@@ -5,36 +5,11 @@
 
         {% assign author = rawAuthor | strip %}
 
-        {% comment %}
-            <!-- This code block would replace all the code below when implemented -->
-            {% assign profileData = author | profileData %}
+        {% assign profileData = author | profileData %}
 
-            <a class="author {{ profileData.class }}" href="{{ profileData.url }}">
-                <font color="{{ profileData.color }}">{{ author }}</font>
-            </a>
-        {% endcomment %}
-
-        {% assign roles = site.data.roles %}
-        {% assign profile = site.data.profiles | where: "name", author | first %}
+        <a class="author {{ profileData.class }}" href="{{ profileData.url }}">
+            <font color="{{ profileData.color }}">{{ profileData.name }}</font>
+        </a>
         
-        {% if profile %}
-            {% assign url = profile | profileUrl %}
-            {% assign role = roles | where_exp: "item", "item.role-id == profile.role" | first %}
-
-            {% if role %}
-                <a class="author" href="{{url}}"><font color="{{role.color}}">{{profile.name}}</font></a>
-            {% else %}
-                <a class="author no-role" href="{{url}}">{{profile.name}}</a>
-            {% endif %}
-        {% else %}
-            {% assign group = roles | where_exp: "item", "item.group-name == author" | first %}
-
-            {% if group and group.url != "" %}
-                <a class="author" href="{{group.url}}"><font color="{{group.color}}">{{group.group-name}}</font></a>
-            {% else %}
-                <a class="author no-profile" href="">{{author}}</a>
-            {% endif %}   
-        {% endif %}
-
     {% endfor %}
 </div>

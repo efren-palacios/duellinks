@@ -265,7 +265,7 @@ galleryHtml += '</div>
         def createProfileLink(tagData)
             profileData = CustomFunctions.new.getProfileDataByName(tagData)
 
-            profileLinkHtml = '<font color="' + profileData.color + '><a class="' + profileData.class + '" href="' + profileData.url + '">' + tagData + '</a></font>'
+            profileLinkHtml = '<a class="' + profileData.class + '" href="' + profileData.url + '"><font color="' + profileData.color + '>' + profileData.name + '</font></a>'
 
             return profileLinkHtml
         end
