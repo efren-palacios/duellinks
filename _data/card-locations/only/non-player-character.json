@@ -105,34 +105,10 @@
         "name": "Rainbow Path"
     },
     {
-        "name": "Drillroid"
-    },
-    {
-        "name": "Steamroid"
-    },
-    {
-        "name": "Gyroid"
-    },
-    {
         "name": "Shield Crush"
     },
     {
-        "name": "Vehicroid Connection Zone"
-    },
-    {
         "name": "No Entry!!"
-    },
-    {
-        "name": "Super Vehicroid Jumbo Drill"
-    },
-    {
-        "name": "Steam Gyroid"
-    },
-    {
-        "name": "Jetroid"
-    },
-    {
-        "name": "Truckroid"
     },
     {
         "name": "Jinzo"
@@ -184,5 +160,8 @@
     },
     {
         "name": "Hysteric Party"
+    },
+    {
+        "name": "Jetroid"
     }
 ]

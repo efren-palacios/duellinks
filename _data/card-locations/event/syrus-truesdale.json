@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Expressroid",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Submarineroid",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Inverse Universe",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Ambulance Rescueroid",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Pair Cycroid",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Steamroid",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Drillroid",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Steam Gyroid",
+        "rarity": "R" 
+    },
+    {
+        "name": "Rescueroid",
+        "rarity": "R" 
+    },
+    {
+        "name": "Supercharge",
+        "rarity": "R" 
+    },
+    {
+        "name": "Carrierroid",
+        "rarity": "R" 
+    },
+    {
+        "name": "Ambulanceroid",
+        "rarity": "R" 
+    },
+    {
+        "name": "Patroid",
+        "rarity": "N" 
+    }
+]

@@ -957,5 +957,13 @@
     "how": "Event",
     "exclusive": true,
     "character": "Yami Yugi"
+  },
+  {
+    "name": "Training Wheels",
+    "description": "Can be used each time your Life Points decrease by 1000. During this turn, if a monster whose original name is 'Cycroid' or 'Pair Cycroid' attacked this turn, that monster will be banished until the beginning of your next turn.",
+    "how": "Event",
+    "exclusive": true,
+    "character": "Syrus Truesdale"
   }
 ]
+

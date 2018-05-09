@@ -5,7 +5,7 @@ title: Elegant Mai
 author: Yami Hammy & Freeska
 image: /img/content/events/2018/05/elegant-mai/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Elegant Mai has arrived bringing with her much anticipated Amazoness support!
 keywords: event, mai, elegant mai, amazoness, farm, roaming, mai valentine
