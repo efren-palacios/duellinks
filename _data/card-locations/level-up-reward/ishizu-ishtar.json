@@ -3,5 +3,10 @@
         "name": "Gravekeeper's Vassal",
         "rarity": "R",
         "level": 3
+    },
+    {
+        "name": "Gravekeeper's Visionary",
+        "rarity": "SR",
+        "level": 45
     }
 ]

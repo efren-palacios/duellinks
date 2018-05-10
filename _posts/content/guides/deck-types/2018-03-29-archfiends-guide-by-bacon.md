@@ -184,21 +184,18 @@ Fiend Griefing is more viable in this meta than ever before. Aside from being ab
 ### Tech cards
 There are currently a number of solid tech cards for the builds that can fit them in.  
 
-1. {Enemy Controller}  
-2. {Forbidden Chalice} (Returns a normal summoned Emperor to 3400)  
-3. {Ante} (Sets up Griefing and leaves the opponent at 3k LP)  
-4. {Dark World Dealings} (Sets grave and thins deck)  
-5. {Cosmic Cyclone}  
-6. {Sphere Kuriboh} (Protection from OTK plays and ECon takes)  
-7. {Relinkuriboh} (In the Needlebug Nest build this sees the most value)  
-8. {Invader of Darkness} (To shut down quick play spells such as ECon)  
-9. {Advance Draw} (Normal summon Emperor, pop card, draw 2)  
-10. {Hey, Trunade!}  
-11. {Snipe Hunter} (Discards useless Card of the Souls, sets grave, additionally can use a card to pop, then Emperor can use the same card for his effect when it is in the grave)  
-12. {Escape from the Dark Dimension} (Banish an Emperor or Empress with Emperors effect to then special summon)  
-13. {Gravity Lash} (This card is a perfect side deck choice against Cyber Angels)  
-14. {Monster Gate} (Tribute a monster to special summon a random from the deck; has the capability of tributing a Cavalry or Lyla and pulling an Emperor or Empress straight onto the field)  
-15. {Skill Successor} (The perfect mill card without losing any value in the grave)  
+1. {Chaos Hunter}
+2. {Ante} (Sets up Griefing and leaves the opponent at 3k LP)  
+3. {Dark World Dealings} (Sets grave and thins deck)  
+4. {Sphere Kuriboh} (Protection from OTK plays and ECon takes)  
+5. {Relinkuriboh} (In the Needlebug Nest build this sees the most value)  
+6. {Invader of Darkness} (To shut down quick play spells such as ECon)  
+7. {Advance Draw} (Normal summon Emperor, pop card, draw 2)  
+8. {Snipe Hunter} (Discards useless Card of the Souls, sets grave, additionally can use a card to pop, then Emperor can use the same card for his effect when it is in the grave)  
+9. {Escape from the Dark Dimension} (Banish an Emperor or Empress with Emperors effect to then special summon)  
+10. {Gravity Lash} (This card is a perfect side deck choice against Cyber Angels)  
+11. {Monster Gate} (Tribute a monster to special summon a random from the deck; has the capability of tributing a Cavalry or Lyla and pulling an Emperor or Empress straight onto the field)  
+12. {Skill Successor} (The perfect mill card without losing any value in the grave)  
 
 ---
 
@@ -221,7 +218,7 @@ The key to defeating Aliens is to focus on monster removal. Less Aliens play {Br
 ---
 
 ### Sylvans  
-The real reason we are here. Use Emperor or Snipe Hunter to remove any of their set monsters to deny them their effect. The key here is to play around/through {Ultimate Providence} or {Divine Wrath}. Be sure to watch for ECon take plays as well.  
+The real reason we are here. Use Emperor or Snipe Hunter to remove any of their set monsters to deny them their effect. The key here is to play around/through {Ultimate Providence} or {Divine Wrath}. Be sure to watch for ECon take plays as well. Consider side decking {Fragrance Storm} to further improve odds versus Sylvans. The destruction effect is nice, but the additional draw advantage is highly valuable since Sylvans will undoubtedly side deck hard against Archfiends.  
 
 **Match Up Odds:**  
 80-20 Our favor  

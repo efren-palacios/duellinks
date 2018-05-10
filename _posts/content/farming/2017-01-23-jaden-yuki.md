@@ -95,4 +95,5 @@ hide: true
  
 ### Level 40 Decklist
 
-[deck](Elemental HERO Neos; Elemental HERO Necroshade; Elemental HERO Blazeman; Elemental HERO Bubbleman; Elemental HERO Clayman; Elemental HERO Clayman; Elemental HERO Sparkman; Elemental HERO Sparkman; Elemental HERO Stratos; Elemental HERO Wildheart; Dark Factory of Mass Production; E - Emergency Call; Fusion Sage; H - Heated Heart; O - Oversoul; Polymerization; Polymerization; R - Righteous Justice; Skyscraper; Negate Attack; Elemental HERO Darkbright; Elemental HERO Mudballman; Elemental HERO Necroid Shaman; Elemental HERO Thunder Giant; Elemental HERO Thunder Giant)
+[deck](Elemental HERO Neos; Elemental HERO Necroshade; Elemental HERO Blazeman; Elemental HERO Bubbleman; Elemental HERO Clayman; Elemental HERO Clayman; Elemental HERO Sparkman; Elemental HERO Sparkman; Elemental HERO Stratos; Elemental HERO Wildheart; Dark Factory of Mass Production; E - Emergency Call; Fusion Sage; H - Heated Heart; O - Oversoul; Polymerization; Polymerization; R - Righteous Justice; Skyscraper; Negate Attack)
+[deck](Elemental HERO Darkbright; Elemental HERO Mudballman; Elemental HERO Necroid Shaman; Elemental HERO Thunder Giant; Elemental HERO Thunder Giant)

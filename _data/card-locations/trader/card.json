@@ -66,5 +66,49 @@
     {
         "name": "Mausoleum of the Emperor",
         "rarity": "SR"
+    },
+    {
+        "name": "Psychokinesis",
+        "rarity": "R"
+    },
+    {
+        "name": "Serene Psychic Witch",
+        "rarity": "SR"
+    },
+    {
+        "name": "Aromage Jasmine",
+        "rarity": "SR"
+    },
+    {
+        "name": "Aromage Bergamot",
+        "rarity": "R"
+    },
+    {
+        "name": "Aromage Rosemary",
+        "rarity": "R"
+    },
+    {
+        "name": "Aroma Garden",
+        "rarity": "N"
+    },
+    {
+        "name": "That Grass Looks Greener",
+        "rarity": "SR"
+    },
+    {
+        "name": "Chaos Hunter",
+        "rarity": "UR"
+    },
+    {
+        "name": "Magic Deflector",
+        "rarity": "R"
+    },
+    {
+        "name": "Archfiend Empress",
+        "rarity": "SR"
+    },    
+    {
+        "name": "Wonder Wand",
+        "rarity": "SR"
     }
 ]

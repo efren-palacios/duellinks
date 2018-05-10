@@ -105,5 +105,3 @@ This build got a massive boost in the form of Mask Change. The playstyle remains
 
 I am overwhelmed by the release of Mask Change and cannot wait to find out if more Attributes will be introduced into Duel Links. This is a great start, however, and playing with these new and improved Destiny Hero decks will be an incredible experience. If you notice anything crucial that I missed, or have other suggestions then let me know!
 
----
-

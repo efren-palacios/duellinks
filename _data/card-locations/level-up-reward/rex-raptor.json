@@ -3,5 +3,10 @@
         "name": "Fossil Dig",
         "rarity": "UR",
         "level": 40
+    },
+    {
+        "name": "Overtex Qoatlus",
+        "rarity": "SR",
+        "level": 45
     }
 ]

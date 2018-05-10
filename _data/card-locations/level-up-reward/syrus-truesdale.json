@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Fusion Guard",
+        "rarity": "N",
+        "level": 3
+    },
+    {
+        "name": "Carrierroid",
+        "rarity": "R",
+        "level": 7
+    },
+    {
+        "name": "Rescueroid",
+        "rarity": "R",
+        "level": 10
+    },
+    {
+        "name": "Ambulanceroid",
+        "rarity": "R",
+        "level": 11
+    },
+    {
+        "name": "Ambulance Rescueroid",
+        "rarity": "SR",
+        "level": 14
+    },
+    {
+        "name": "Supercharge",
+        "rarity": "R",
+        "level": 16
+    },
+    {
+        "name": "Stealthroid",
+        "rarity": "R",
+        "level": 18
+    },
+    {
+        "name": "Vehicroid Connection Zone",
+        "rarity": "SR",
+        "level": 21
+    },
+    {
+        "name": "Submarineroid",
+        "rarity": "SR",
+        "level": 23
+    },
+    {
+        "name": "Stealthroid",
+        "rarity": "R",
+        "level": 25
+    },
+    {
+        "name": "Vehicroid Connection Zone",
+        "rarity": "SR",
+        "level": 33
+    },
+    {
+        "name": "Steamroid",
+        "rarity": "SR",
+        "level": 35
+    },
+    {
+        "name": "Vehicroid Connection Zone",
+        "rarity": "SR",
+        "level": 38
+    },
+    {
+        "name": "Drillroid",
+        "rarity": "SR",
+        "level": 40
+    },
+    {
+        "name": "Truckroid",
+        "rarity": "R",
+        "level": 45
+    }
+]

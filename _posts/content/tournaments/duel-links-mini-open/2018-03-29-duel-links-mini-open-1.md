@@ -21,6 +21,7 @@ permalink: /tournaments/duel-links-mini-open/1/report/
 - Wednesday 28th March, 7pm EDT
 - There were two [MCS](/tournaments/) champions, several DLPR Top 30 and other notable names competing in the tournament!
 - Free to enter and first come first serve (must be a Discord member)
+- Prize support: $5 to 1st Place
 
 ### Format
 - 91 Players
@@ -32,7 +33,7 @@ permalink: /tournaments/duel-links-mini-open/1/report/
 
 ---
 
-### Top 4 Decklists (Main + Side Deck) - Prize Support: $5 to 1st Place
+### Top 4 Decklists (Main + Side Deck)
 
 #### 1st Place - Serenity
 

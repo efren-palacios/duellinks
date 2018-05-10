@@ -3,5 +3,10 @@
         "name": "Dark Magic Attack",
         "rarity": "SR",
         "level": 14
+    },
+    {
+        "name": "Dark Magic Inheritance",
+        "rarity": "SR",
+        "level": 45
     }
 ]

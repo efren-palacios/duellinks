@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Creative; pll
-image: /img/pages/events/thumbnail-yami-marik.jpg
+image: /img/pages/events/thumbnail-syrus.jpg
 category: page
 sub-category: main
 order: 5

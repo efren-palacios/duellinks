@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: burn-decks
 image: /img/content/tier-list/deck-types/default.jpg
-comments: false
+comments: true
 description: A quick introduction to the Burn deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: burn, burn decks, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/burn-decks/

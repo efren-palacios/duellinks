@@ -623,6 +623,10 @@
       {
         "name": "Bastion Misawa", 
         "how": "Drop"
+      },
+      {
+        "name": "Syrus Truesdale",
+        "how": "Level 13"
       }
     ]
   },
@@ -928,6 +932,13 @@
         "how": "Drop"
       }
     ]
+  },
+  {
+    "name": "Draw Sense: Fire",
+    "description": "Can be used each time your Life Points decrase by 1500. In the Draw Phase, instead of doing a normal draw, draw a random FIRE-Attribute monster.",
+    "how": "Drop",
+    "exclusive": false,
+    "character": "Yami Marik"
   },
   {
     "name": "Draw Sense: Spell/Trap",
@@ -2141,5 +2152,119 @@
         "how": "Drop"
       }
     ]
+  },
+  {
+    "name": "Power of the Tributed",
+    "description": "When you successfully Tribute Summon 'The Winged Dragon of Ra', its ATK becomes the sum of the ATK of the Tributed monsters, and its DEF becomes the sum of the DEF of the Tributed monsters.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Marik",
+        "how": "Event"
+      }
+    ] 
+  },
+  {
+    "name": "Card of Sanctity",
+    "description": "Can be used at the end of your turn, if you Normal Summoned 'Slifer the Sky Dragon' that turn. Both players draw until they have 6 cards in their hands.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Yugi",
+        "how": "Event"
+      }
+    ]
+  },
+  {
+    "name": "Legendary Warrior",
+    "description": "Can be used if your Life Points are at 1000 or below. At the beginning of your turn, play 'Gilford the Lightning' on your side of the field. This Skill can only be used once per Duel.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Joey Wheeler",
+        "how": "Non-Player Character Only"
+      }
+    ]
+  },
+  {
+    "name": "Amazoness Village",
+    "description": "Begin Duel with the Field Spell 'Amazoness Village' activated.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Mai Valentine",
+        "how": "Non-Player Character Only"
+      }
+    ]
+  },
+  {
+    "name": "Exchange of the Spirit",
+    "description": "Can be used at the beginning of your turn, if your Graveyard contains more than 10 cards. Both players must swap the cards in their Graveyard with the cards in their Deck. Then, both players must shuffle their Decks. This Skill can only be used once per Duel.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Ishizu Ishtar",
+        "how": "Non-Player Character Only" 
+      }
+    ]
+  },
+  {
+    "name": "Robotic Reinforcements",
+    "description": "At the beginning of turn 6 and onward, randomly add to your hand 1 'X-Head Cannon,' 'Y-Dragon Head,' or 'Z-Metal Tank' that you do not currently have in your hand, from outside of your Deck. This Skill can only be used once per Duel.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Seto Kaiba",
+        "how": "Non-Player Character Only"
+      }
+    ]
+  },
+  {
+    "name": "Divine Advent",
+    "description": "At the beginning of turn 5 and onward, play 'Obelisk the Tormentor,' 'Slifer the Sky Dragon,' or 'The Winged Dragon of Ra' on your side of the field. This Skill can only be used once per Duel.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Yami Yugi",
+        "how": "Non-Player Character Only"
+      }
+    ]
+  },
+  {
+    "name": "Training Wheels",
+    "description": "Can be used each time your Life Points decrease by 1000. During this turn, if a monster whose original name is 'Cycroid' or 'Pair Cycroid' attacked this turn, that monster will be banished until the beginning of your next turn.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Syrus Truesdale",
+        "how": "Event"
+      }
+    ]
+  },
+  {
+    "name": "Check Out My Ride!",
+    "description": "Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a 'roid' monster of your choice.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Syrus Truesdale",
+        "how": "Level 4" 
+      }
+    ]
+  },
+  {
+    "name": "Check Out My Fusion!",
+    "description": "Can be used each time your Life Points decrease by 1500. Instead of doing a normal draw, 'Vehicroid Connection Zone' is added to your hand from outside of your Deck.",    
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Syrus Truesdale",
+        "how": "Level 20"
+      }
+    ]
   }
 ]
+
+
+
+

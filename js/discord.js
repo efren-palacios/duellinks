@@ -18,9 +18,9 @@ DiscordUser.prototype.getUsername = function()
     return this.username;
 };
 
-DiscordUser.prototype.isContentManager = function()
+DiscordUser.prototype.isDeckSubmitter = function()
 {
-    return $.inArray('website devs', this.roles) !== -1 || $.inArray('dkayed', this.roles) !== -1 || $.inArray('content creator', this.roles) !== -1;
+    return $.inArray('website devs', this.roles) !== -1 || $.inArray('dkayed', this.roles) !== -1 || $.inArray('deck submit', this.roles) !== -1;
 };
 
 DiscordUser.prototype.isDev = function()
@@ -159,7 +159,7 @@ DiscordAPICall.prototype.getUserIDByAccessToken = function(callback)
 DiscordAPICall.prototype.getAllowedRolesID = function(callback)
 {
     var ref = this;
-    var roles = [/*'king of games', */'dkayed', 'website devs', 'content creator'];
+    var roles = [/*'king of games', */'dkayed', 'website devs', 'deck submit'];
 
     $.ajax(
     {
@@ -217,13 +217,13 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
 
             discordUser = new DiscordUser(ref.getUserID(), result['user']['username'], userRoles);
 
-            if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isContentManager())
+            if(cookieManager.hasProfile(discordUser.getID()) && !discordUser.isDeckSubmitter())
             {
                 $("#kog-status").html("Only one deck per month can be submitted.");
             }
             else
             {
-                if(discordUser.isKoG() || discordUser.isContentManager())
+                if(discordUser.isKoG() || discordUser.isDeckSubmitter())
                     isKogAction(discordUser.getUsername());
                 else
                     isNotKogAction(discordUser.getUsername());
@@ -276,7 +276,7 @@ $(function ()
 
 $("#SubmitDeck").click(function()
 {
-    if(discordUser.getID() != "" && !discordUser.isContentManager())
+    if(discordUser.getID() != "" && !discordUser.isDeckSubmitter())
     {
         $("#deck-sub-form").addClass("hidden");
         $("#deck-sub-form :input").prop("readonly", true);
@@ -288,14 +288,14 @@ $("#SubmitDeck").click(function()
 
 function userIsKoGAction(userName)
 {
-    if(discordUser.isContentManager())
+    if(discordUser.isDeckSubmitter())
     {
         $("#deck-sub-form :input").prop("readonly", false);
 
         if(discordUser.isDev())
             $("#kog-status").html(userName + ", you are a website developer, you have open access.");
         else
-            $("#kog-status").html(userName + ", you are a content creator, you have open access.");
+            $("#kog-status").html(userName + ", you are a deck submitter, you have open access.");
 
         $("#deck-sub-form").removeClass("hidden");
 

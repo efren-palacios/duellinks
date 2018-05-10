@@ -8,7 +8,7 @@ category: tier-list
 sub-category: deck-type
 deck-type: elemental-heroes
 image: /img/content/tier-list/deck-types/default.jpg
-comments: false
+comments: true
 description: A quick introduction to the Elemental Heroes deck type. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
 keywords: elemental heroes, deck type, information, sample deck, core cards, tech cards, quick tips, guides, videos
 permalink: /tier-list/deck-types/elemental-heroes/

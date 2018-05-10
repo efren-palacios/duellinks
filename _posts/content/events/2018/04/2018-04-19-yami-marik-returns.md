@@ -1,23 +1,26 @@
 ---
 layout: blog
-date: 2018-04-19 23:00:00 +0100
+date: 2018-04-26 20:30:00 +0100
 title: Yami Marik Returns!
 author: Jonesy9027; Yami Hammy;
 image: /img/content/events/2018/04/yami-marik-returns/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Yami Marik has returned... again! Here's all you need to know about the event, the best ways to farm and unlock him - get that third Lava Golem and cause havoc on the ladder!  
 keywords: event, marik, yami marik, ra
 permalink: /events/april-2018/yami-marik-returns/
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: 21st April - Added even more farm Decks!**
+**Last updated: 26th April - Added Duel Awards winners**
 
 ![Banner](/img/content/events/2018/04/yami-marik-returns/banner.png)
- 
+
+- **[Duel Awards](#awards)**
+- [Update](#update) 
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
     - [Yami Marik](#marik-drops)
@@ -33,9 +36,73 @@ permalink: /events/april-2018/yami-marik-returns/
     - [Lvl. 40 (Marik) Labby Farm - created by Jadehex](#jadehex2)
     - [Lvl. 40 (Marik) Labby Farm - created by Hi_Im_Flabber](#flabber)
 - [Yami Marik Lvl. 40 Decklist](#40)
-<!-- - [Yami Marik Lvl. 50 Decklist](#50)-->
+- [Yami Marik Lvl. 50 Decklist](#50)
 - [Arkana Lvl. 40 Decklist](#40a)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Best Drop - **hoor**
+
+![](/img/content/events/2018/04/yami-marik-returns/best-drop.jpg)
+
+#### Highest Event Points - **lvmatterhorn**
+
+![](/img/content/events/2018/04/yami-marik-returns/highest-points.jpg)
+
+#### Most Prismatic Drops - **SalaBenji**
+
+![](/img/content/events/2018/04/yami-marik-returns/most-prismatics.jpg)
+
+---
+
+### Update
+
+- Don't forget to fill out the [event survey](/news/april-2018/in-game-updates/) - let Konami know what's on your mind!
+
+![](/img/content/events/2018/04/yami-marik-returns/marik-lvl-50.png)
+
+Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or if you already obtained it last event, you get an Ultra Rare jewel) and the new skill {Power of the Tributed}!
+  
+#### Strategies
+
+There's no need to farm Yami Marik Lvl. 50 since his rewards are identical to Lvl. 40. However, here are some tips to defeat him easily.
+ 
+On Yami Marik's turn he'll tribute {The Winged Dragon of Ra - Sphere Mode} on his field to Special Summon {The Winged Dragon of Ra}. If you have a Monster on the field he will activate Ra's effect to destroy it by paying 1000 LP, so don't Summon anything if you go first. Instead use cards that will allows you to stall for a turn like {Windstorm of Etaqua}, {Curse of Anubis}, {Impenetrable Attack}, {Massivemorph}, {Draining Shield}, {Defense Draw} etc.    
+
+- Monster destruction cards will enable you to get rid of Ra (not Sphere Mode since it can't be targeted by effects), you can then proceed to defeat Yami Marik pretty easily, for example: 
+    - {Tribute to the Doomed}   
+    - {Divine Wrath}
+    - {Parallel Twister}
+    - {Order to Charge}
+    - {Michizure}
+- Activate {Murmur of the Forest} targeting Ra, it will be changed to face-down Defense Position and will have 0 ATK/DEF! 
+- Summon {Cyber Angel Dakini} and activate her effect to send Ra or Sphere Mode to the Graveyard 
+- Activate {Enemy Controller} on your 2nd/3rd turn to tribute your Monster and take control of Ra, then activate its effect to destroy Yami Marik's other Monster and attack him directly for game
+- Activate {Soul Exchange} to tribute Ra for a Level 5/6 Monster - works well with a Hazy Flame Deck
+- You can banish Ra with {Black Dragon Ninja} 
+
+- Use {Massivemorph} on Ra to stall by preventing it attacking you directly then attack Ra with {Amazoness Swords Woman} to deal 6500 LP damage to Yami Marik whilst also fulfilling the last mission below!
+
+**New event missions have also been added - get up to 125 Gems!**
+
+| Mission | Reward | 
+|--|--|
+| Win 1 Duel against Yami Marik at Level 50 in Duel World | 25 Gems |
+| Win 1 Duel with {The Winged Dragon of Ra} in your Deck, while playing as Yami Marik | 10 Gems |
+| Summon {The Winged Dragon of Ra} 1 time in PvP | 20 Gems |
+| Summon {The Winged Dragon of Ra} 2 times in PvP | 20 Gems |
+| Summon {The Winged Dragon of Ra} 3 times in PvP | 20 Gems |
+| Reduce your opponent's LP to 0 by inflicting battle damage with {The Winged Dragon of Ra} | 30 Gems |
 
 ---
 
@@ -313,37 +380,20 @@ On the *second to last* turn, set {Summoner of Illusions} and activate {Dimensio
 [deck](The Winged Dragon of Ra; The Winged Dragon of Ra - Sphere Mode; Lava Golem; Masked Beast Des Gardius; Masked Beast Des Gardius; Melchid the Four-Face Beast; Melchid the Four-Face Beast; Dark Jeroid; Dark Jeroid; Grand Tiki Elder; Grand Tiki Elder; Gil Garth; Gil Garth; Bowganian; Mask of the Accursed; Mask of the Accursed; The Mask of Remnants; Powerful Rebirth; Powerful Rebirth; Nightmare Wheel)  
 
 ---
-<!--
+
 <a name="50"></a>
 
-### Yami Marik Lvl: 50 Decklist
+### Yami Marik Lvl. 50 Decklist
 
-[deck:Incarnation: Sphere Mode](Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Lava Golem; Mystic Tomato; The Winged Dragon of Ra; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
+[deck:Incarnation: Sphere Mode](The Winged Dragon of Ra; Lava Golem; Dark Jeroid; Dark Jeroid; Dark Jeroid; Ra's Disciple; Ra's Disciple; Ra's Disciple; Bowganian; Bowganian; Viser Des; Viser Des; Mystic Tomato; Mask of the Accursed; Mask of the Accursed; Monster Reincarnation; Magical Stone Excavation; Michizure; Powerful Rebirth; Wild Tornado)
 
 ---
--->
+
 <a name="40a"></a>
 
 ### Arkana Lvl. 40 Decklist
 
 [deck](Dark Magician; Dark Magician; Dark Magician; Double Coston; Double Coston; Double Coston; Mystic Tomato; Mystic Tomato; Mystic Tomato; Legion the Fiend Jester; Legion the Fiend Jester; Legion the Fiend Jester; Anti-Magic Arrows; Anti-Magic Arrows; Bound Wand; Bound Wand; Dark Magic Attack; Double Summon; Thousand Knives; Dark Renewal)  
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below!), when the event is over the person with:
-- The 'best drop' will have their name posted here
-- Highest Event Points will have their name posted here
-- Most Prismatic drops will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 

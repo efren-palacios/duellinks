@@ -17,6 +17,31 @@ permalink: /box-reviews/rampage-of-the-forest/
 [w100]
 ![banner](/img/content/box-reviews/rampage-of-the-forest/banner.jpg)
 
+This is the 10th Mini Box, it was released on March 14, 2018. The release of this Box created the following Deck types:
+{% include deck-type-list.html deck-types='sylvans;insects' %} 
+
+<br>
+
+### Card List
+
+#### Ultra Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="UR" %}
+
+#### Super Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="SR" %}
+
+#### Rare Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="R" %}
+
+#### Normal Cards
+
+{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="N" %}
+
+---
+
 ### Top Player Council Thoughts
 
 #### **[Superforms](/authors/superforms/)** says: 
@@ -45,41 +70,12 @@ Here's an [introductory guide on Sylvans](https://drive.google.com/file/d/1ZeE6a
 - {Rose Lover}: Is happy to get milled by Sylvans and can get big Plants out of your hand when they’re drawn instead of milled ({Sylvan Hermitree} and {Sylvan Guardioak} especially).
 - {Magical Merchant}: Obvious synergy with Sylvans and works well in more OTK-oriented builds with {Raging Mad Plants}.
 
----
+<br>
 
-### Card List
+<a name="videos"></a>
 
-#### Ultra Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="UR" %}
-
-#### Super Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="SR" %}
-
-#### Rare Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="R" %}
-
-#### Normal Cards
-
-{% include box.html box=site.data.card-locations.box.rampage-of-the-forest rarity="N" %}
+{% include guides/videos.html videos='uX--W9BsngQ;tetwMsl3hAM;ZHjgD2mxQUY' %}
 
 ---
 
-### Sylvans: Dkayed vs Gunsblazing! 
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=ZHjgD2mxQUY' %}
-
----
-
-### Metamorphosed Insect Queen
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=VMdv6wREsEk' %}
- 
----
-
-### Affected Deck Types
-This box creates the following deck type
-
-{% include deck-type-list.html deck-types='sylvans;insects' %} 
+***Write your own thoughts on the Mini Box in the comments below.***

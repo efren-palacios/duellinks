@@ -16,6 +16,7 @@ permalink: /events/march-2018/attack-of-tristan-taylor/
 
 ![Banner](/img/content/events/2018/03/attack-of-tristan-taylor/banner.png)
 
+- [Update](#update)
 - [Event Information](#event-information)
 - [Event Strategy](#event-strategy)
 - [Event Missions](#event-missions)

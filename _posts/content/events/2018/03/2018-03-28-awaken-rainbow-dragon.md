@@ -66,7 +66,7 @@ Jesse Lvl. 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in t
    
 - He will use {Rainbow Path} to negate your attack so substitute a non-essential card in the [Cerberus Farm Deck](#jadehex2) (since Jesse appears only in Duel World (GX) you won't be able to use the skills required for the other decks) for {Anti-Magic Arrows}, {Hey, Trunade!}, {Fire Formation - Gyokkou}, {Nobleman of Extermination} etc. Alternatively, {Trap Jammer} or {Seven Tools of the Bandit} would also suffice however it's more risky since they could be the last card in your deck.
  
-New event Missions have also been added - get up to 100 Gems!
+New event missions have also been added - get up to 100 Gems!
 
 | Mission | Reward | 
 |--|--|

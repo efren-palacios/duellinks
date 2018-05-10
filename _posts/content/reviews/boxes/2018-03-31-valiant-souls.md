@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-04-05
-title: "Post-Release Review: Valiant Souls"
+title: "Box Review: Valiant Souls"
 author: Yami Hammy
 category: review
 sub-category: box
@@ -18,22 +18,21 @@ permalink: /box-reviews/valiant-souls/
 ![](/img/content/box-reviews/valiant-souls/banner.jpg)
 
 - [Card List](#card-list)
-- [Top Player Council - Post Release Updates](#tpc)
+- [Post Release Updates](#tpc)
 - [Top Player Council Thoughts: First Impressions](#tpc2)
     - ["What are the new deck types to look out for and the best cards for those deck types?"](#q1)
     - ["Which cards do you think are absolutely needed?"](#q2)
     - ["Which cards do you think are maybe needed in some decks?"](#q3)
     - ["Which cards do you think have future potential?"](#q4)
     - ["Is there anything else you'd like to say?"](#q5)
+- [Videos](#videos)    
 
 ---
 
-This is the 11th Main Box, it was released on April 2nd. 
+This is the 11th Main Box, it was released on April 2, 2018. The release of this Box created the following Deck types:
+{% include deck-type-list.html deck-types='masked-heroes;geargias;amazoness' %} 
 
-<!-- ADD AFTER TIER LIST IS UPDATED:
-The release of this Box created the following deck types:
-{% include deck-type-list.html deck-types='masked-heroes;geargia' %}
--->  
+<br>
 
 ### Card List
 
@@ -56,7 +55,7 @@ The release of this Box created the following deck types:
 ---
 
 <a name="tpc"></a>
-### [Top Player Council](/top-player-council/) - Post Release Updates
+### Post Release Updates
 
 **Machdragon** says:
 - I was right about Amazoness. The new Amazoness Trap ({Amazoness Onslaught}) is decent, but still requires more impactful monsters to put it on the radar. 
@@ -458,3 +457,13 @@ Valiant Souls will definitely impact the current meta, notably with {Mask Change
 **Whilipino** says:
 
 Overall, I don't believe this box will be as meta impacting as the last 2 boxes we've received, but there is a lot of future potential here.
+
+<br>
+
+<a name="videos"></a>
+
+{% include guides/videos.html videos='awVhwiPkXIs;CQ0vE9wJY9E;DA-2clssSQw;GEez93h8RHY;tE58gk43P2U;k0Gt45LDwSI;DHiT10PL75I;YMoWc9F1P_I;AqueOtYmiqI' %}
+
+---
+
+***Tell us your own thoughts on the Box in the comments below!***

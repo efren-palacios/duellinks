@@ -7,18 +7,12 @@ category: page
 sub-category: main
 order: 4
 comments: false
-date: 2018-04-01 01:30:00 -0600
-description: ADD PAGE DESCRIPTION HERE - 150 to 300 CHARS
+date: 2018-05-04 
+description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
 permalink: /community/
 ---
 
-
-<a href="#topladder"> 
-![Top Player Ladder](/img/pages/community/banner-top-player-ladder.png)
-</a>
-
-<hr style="border-color: #B5B5B5;">
 
 <div class="section">
     <h3 class="text-center">WHAT IS THE DUEL LINKS META DISCORD?</h3>

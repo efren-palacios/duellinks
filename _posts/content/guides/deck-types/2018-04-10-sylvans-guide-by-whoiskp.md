@@ -15,7 +15,8 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: April 19th - added Grit Skill analysis**
+#### Updated April 19, 2018
+##### Added Grit Skill Analysis
 
 ### Introduction
 
@@ -156,7 +157,7 @@ The best way to setup a combo is when you excavate Hermit. You’ll see the next
 Not saying this works 100% of the time but now that Sylvans are getting more and more popular setting a Rose over a Shroom turn one if you don’t have backrow protection may be more beneficial as more Decks are adding cards to get rid of Shroom, denying you of the +5 mill. 
 
 - Milling more than one {Sylvan Guardioak}:   
-Remember if you mill more than one Oak, the effect of the first one will be the next card you draw and the effect of the second Oak will be the card after. Bare that in mind while trying to make plays after milling two or more Oak.
+Remember if you mill more than one Oak, the effect of the first one will be the next card you draw and the effect of the second Oak will be the card after. Bear that in mind while trying to make plays after milling two or more Oak.
 
 [slider](/img/content/guides/sylvans-guide-by-whoiskp/screenshot.jpg)
 

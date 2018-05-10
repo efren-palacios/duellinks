@@ -17,6 +17,12 @@ permalink: /box-reviews/abyss-encounters/
 [w100]
 ![](/img/content/box-reviews/abyss-encounters/banner.jpg)
 
+This is the 10th Main Box, it was released on February 20, 2018. The release of this Box created the following Deck types:
+
+{% include deck-type-list.html deck-types='archfiends;aliens;sea-stealth-attack;gishki' %} 
+
+<br>
+
 ### Card List
 
 #### Ultra Rare Cards
@@ -35,21 +41,12 @@ permalink: /box-reviews/abyss-encounters/
 
 {% include box.html box=site.data.card-locations.box.abyss-encounters rarity="N" %}
 
----
+<br>
 
-### Archfiends Review by Dkayed
+<a name="videos"></a>
 
-{% include youtube-video.html url='https://www.youtube.com/watch?v=CyPm_JXpmo8' %}
-
----
-
-### KOG Decklists from this Box
-
-{% include youtube-video.html url='https://www.youtube.com/watch?v=8oQxKnWhkvg' %}
+{% include guides/videos.html videos='CyPm_JXpmo8;8oQxKnWhkvg;jPYuRY1NhUE;ZokrZ1Tjw10;DO4JvFtW0s8;EhGF3yjzJzg;YrwGZeoxVs0;H79BX8EtH7Q;CS8g_jTvzK4' %}
 
 ---
 
-### Affected Deck Types
-This box affects or creates the following deck types
-
-{% include deck-type-list.html deck-types='archfiends;aliens;sea-stealth-attack;gishki;' %} 
+***Tell us your own thoughts on the Box in the comments below!***

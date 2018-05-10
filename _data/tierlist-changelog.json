@@ -1,11 +1,19 @@
 {
     "game-changes":
     {
-        "date": 2018-04-17,
-        "description": "The new box (Valiant Souls) was released April 2nd 2018. The Geargia and Masked HERO archetypes are still shaking up the meta and Archfiends are on the rise."
+        "date": 2018-05-07,
+        "description": "With the release of the Visions of Ice Mini Box on April 30th came a new archetype: Spellbooks. While they have not yet been fully optimized, they are shaking up the meta in a variety of builds. Another Deck making an impact is Amazoness. They found new strength in support cards from the Elegant Mai event as well as the level 45 reward for Mai Valentine. These new Decks are testing the current top tier Decks. Some will fall and give rise to new top tier Decks!"
     },
     "tier-changes": 
     [
+        { "type": "archfiends", "from": 2, "to": 3, "date": 2018-05-07 },
+        { "type": "cyber-angels", "from": 3, "to": "nothing", "date": 2018-05-07 },
+        { "type": "spellbooks", "from": "nothing", "to": 2, "date": 2018-05-07 },
+        { "type": "amazoness", "from": "nothing", "to": 1, "date": 2018-05-07 },
+        { "type": "geargias", "from": 1, "to": 2, "date": 2018-04-30 },
+        { "type": "magnet-warriors", "from": 3, "to": "nothing", "date": 2018-04-30 },
+        { "type": "sea-stealth-attack", "from": 3, "to": "nothing", "date": 2018-04-30 },
+        { "type": "red-eyes-zombies", "from": 3, "to": "nothing", "date": 2018-04-30 },
         { "type": "red-eyes-zombies", "from": 2, "to": 3, "date": 2018-04-17 },
         { "type": "aliens", "from": 2, "to": 3, "date": 2018-04-17 },
         { "type": "archfiends", "from": 3, "to": 2, "date": 2018-04-17 },
