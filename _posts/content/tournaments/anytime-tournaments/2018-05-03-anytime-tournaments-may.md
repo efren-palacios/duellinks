@@ -3,6 +3,7 @@ layout: blog
 title: "Anytime Tournament Report - May"
 author: Yami Hammy
 category: tournament
+sub-category: report
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
 date: 2018-05-08 08:00:00 +0100

@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-01-16
 title: "Meta Weekly #3 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Weekly
 number: 3
 image: /img/logos/meta-weekly.png
-date: 2018-01-16
 comments: true
 description: The Meta Weekly 3 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 3, meta weekly 3 winners, meta weekly 3 decks, tournament

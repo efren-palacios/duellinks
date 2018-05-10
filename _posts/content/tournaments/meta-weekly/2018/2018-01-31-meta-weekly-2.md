@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-01-10
 title: "Meta Weekly #2 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Weekly
 number: 2
 image: /img/logos/meta-weekly.png
-date: 2018-01-10
 comments: true
 description: The Meta Weekly 2 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 2, meta weekly 2 winners, meta weekly 2 decks, tournament

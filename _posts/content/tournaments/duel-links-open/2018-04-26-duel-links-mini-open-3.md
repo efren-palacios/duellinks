@@ -3,7 +3,8 @@ layout: blog
 title: "Duel Links Mini Open #3"
 author: Yami Hammy
 category: tournament
-tournament: "DLO"
+sub-category: report
+tournament: Duel Links Mini Open
 number: 3
 image: /img/content/tournaments/dlo/thumbnail.jpg
 date: 2018-04-26 05:00:00 +0100

@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-02-13
 title: "Meta Weekly #7 Report"
 author: SpoonCats
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Weekly
 number: 7
 image: /img/logos/meta-weekly.png
-date: 2018-02-13
 comments: true
 description: The Meta Weekly 7 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 7, meta weekly 7 winners, meta weekly 7 decks, tournament

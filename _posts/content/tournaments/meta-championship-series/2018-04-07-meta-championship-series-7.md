@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-04-08
 title: "Meta Championship Series #7 Report"
 author: Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
@@ -7,7 +8,7 @@ sub-category: report
 tournament: Meta Championship Series
 number: 7
 image: /img/logos/mcs-7-thumbnail.jpg
-date: 2018-04-08
+
 comments: true
 description: The Meta Championship Series 7 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 7, meta championship, meta championship series, meta championship 7, meta championship series 7, mcs decks, mcs 7 decks
