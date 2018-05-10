@@ -14,7 +14,7 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-##### Updated May 10th - Added Top Player Council Thoughts
+##### Updated May 10th - Added [Top Player Council Thoughts](#top-player-council-thoughts), [WCS UR Ticket Cards](#94)
 
 - [May 9th Update](#90)
     - [Selection Box Mini Vol.01](#91)
@@ -263,6 +263,13 @@ You can get the {Super Vehicroid Jumbo Drill} gamemat by Fusion Summonning Syrus
 <a name="94"></a>
 
 #### World Championship 2018
+The following cards will be available from the WCS UR Ticket ({Dark Magician} is [Arkana's version](http://yugioh.wikia.com/wiki/Dark_Magician_(Arkana))):
+<!--
+{% include oneimage.html image="https://yugiohprices.com/api/card_image/Dark Magician (Arkana)" %}
+-->
+
+[deck](Amazoness Princess; Armed Dragon LV10; Armored Axon Kicker; Chimeratech Overdragon; Crystal Beast Sapphire Pegasus; Dark Magician; Dynatherium; Evilswarm Salamandra; Expressroid; Maha Vailo; Master Gig; Meltiel, Sage of the Sky; Overdone Burial; Panther Warrior; Phantom Beast Rock-Lizard; Pyrorex the Elemental Lord; Sirenorca; Skilled Blue Magician; The Big Cattle Drive; Unity; VWXYZ-Dragon Catapult Cannon; Vennu, Bright Bird of Divinity; Windrose the Elemental Lord) 
+
 There will be a "support campaign" during the World Championship, the details of which have just been revealed in the [news update](/news/may-2018/in-game-updates/).  
 
 [gallery](/img/content/news/2018/05/datamined-discoveries/09-wcs-1.png, /img/content/news/2018/05/datamined-discoveries/09-wcs-2.png, /img/content/news/2018/05/datamined-discoveries/09-wcs-3.png)

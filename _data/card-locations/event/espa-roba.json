@@ -2,5 +2,13 @@
     {
         "name": "Pulse Mines",
         "rarity": "SR" 
+    },
+    {
+        "name": "Armored Axon Kicker",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Master Gig",
+        "rarity": "UR" 
     }
 ]
