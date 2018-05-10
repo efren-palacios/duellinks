@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (7) - May 8
+title: In-Game Updates (9) - May 10
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-08 08:00:00 +0100
+date: 2018-05-10 06:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,21 +14,28 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="70"></a>
+<a name="90"></a>
 
-### May 8th (Update 7)
+### May 10th (Update 9)
 
 <br>
 
-<a name="71"></a>
+<a name="91"></a>
 
-#### Maintenance Notice
-There will be a maintenance tomorrow to conclude the [Elegant Mai event](/events/may-2018/elegant-mai/) and to prepare for the [Syrus Truesdale unlock event](#21), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
+#### WCS Celebration Campaign
+As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) you can obtain a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
 
-![](/img/content/news/2018/05/in-game-updates/08-maintenance.jpg)    
+[slider](/img/content/news/2018/05/in-game-updates/10-wcs.jpg)  
 
 ---
 
+- [May 10th (Update 9)](#90)
+    - [WCS Celebration Campaign](#91)
+- [May 9th (Update 8)](#80)
+    - [Syrus Truesdale Unlock Event](#81)
+    - [Double Keys & Gold](#82)
+    - [KC Cup Report](#83)
+    - [Helpful Features](#84)
 - [May 8th (Update 7)](#70)
     - [Maintenance Notice](#71)
 - [May 7th (Update 6)](#60)
@@ -49,6 +56,57 @@ There will be a maintenance tomorrow to conclude the [Elegant Mai event](/events
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="80"></a>
+
+### May 9th (Update 8)
+
+<br>
+
+<a name="81"></a>
+
+#### Syrus Truesdale Unlock Event
+Check out our [event article](/events/may-2018/syrus-truesdales-road-to-duel-links/) for farm decks, his drop rewards and level-up rewards!
+
+[slider](/img/content/news/2018/05/in-game-updates/09-syrus.jpg)  
+
+<a name="82"></a>
+
+#### Double Keys & Gold
+If you're low on Keys and Gold take advantage of this campaign!
+
+![](/img/content/news/2018/05/in-game-updates/09-double.jpg)  
+
+<a name="83"></a>
+
+#### KC Cup Report
+[Sylvans](/tier-list/deck-types/sylvans/), [Sylvans](/tier-list/deck-types/sylvans/) and more [Sylvans](/tier-list/deck-types/sylvans/)! 
+
+![](/img/content/news/2018/05/in-game-updates/09-kc-cup.jpg)  
+
+<a name="84"></a>
+
+#### Helpful Features
+Have a quick read, there may a shortcut/tip you didn't notice before. 
+
+![](/img/content/news/2018/05/in-game-updates/09-helpful.jpg)  
+
+---
+
+<a name="70"></a>
+
+### May 8th (Update 7)
+
+<br>
+
+<a name="71"></a>
+
+#### Maintenance Notice
+There will be a maintenance tomorrow to conclude the [Elegant Mai event](/events/may-2018/elegant-mai/) and to prepare for the [Syrus Truesdale unlock event](#21), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
+
+![](/img/content/news/2018/05/in-game-updates/08-maintenance.jpg)    
 
 ---
 

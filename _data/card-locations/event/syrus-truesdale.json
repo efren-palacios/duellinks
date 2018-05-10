@@ -50,5 +50,13 @@
     {
         "name": "Patroid",
         "rarity": "N" 
+    },
+    {
+        "name": "Truckroid",
+        "rarity": "R" 
+    },
+    {
+        "name": "Gyroid",
+        "rarity": "SR" 
     }
 ]
