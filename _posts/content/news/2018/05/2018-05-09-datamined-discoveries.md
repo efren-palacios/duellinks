@@ -273,11 +273,9 @@ There will be a "support campaign" during the World Championship, the details of
 <a name="95"></a>
 
 #### Miscellaneous
-These cards were also found but it hasn't been confirmed how/if they will be obtainable.  
+{Gravi-Crush Dragon} and {Crystal Raigeki} were also found in game files but it hasn't been confirmed how/if they will be obtainable.  
 
-[deck](Gravi-Crush Dragon; Brotherhood of the Fire Fist - Gorilla; Dark Elf)
-
-As well as a Ranked Duels popular cards feature.
+Ranked Duels popular cards feature is also expected.
 
 ![](/img/content/news/2018/05/datamined-discoveries/09-popular-cards.png)
 
