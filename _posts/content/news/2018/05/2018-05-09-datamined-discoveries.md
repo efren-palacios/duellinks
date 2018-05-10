@@ -36,7 +36,7 @@ With another maintenance update comes new discoveries; **a new Selection Box, ne
 #### Selection Box Mini Vol.01
 The release date isn't confirmed but it will most likely be before the Regional Representative Qualifier. The following cards are speculated to be in the Box:
 
-![](/img/content/news/2018/05/datamined-discoveries/selection-box.png)
+![](/img/content/news/2018/05/datamined-discoveries/09-selection-box.png)
 
 ##### New Cards
 - UR {Sangan}
@@ -73,7 +73,7 @@ There are also other campaigns that will take place.
 #### Gamemat and Card Sleeves
 You can get the {Super Vehicroid Jumbo Drill} gamemat by Fusion Summonning Syrus' ace Monster 100 times! 
 
-[gallery](/img/content/news/2018/05/datamined-discoveries/09-drill-gamemat.png, /img/content/news/2018/05/datamined-discoveries/09-syrus-gamemat.png, /img/content/news/2018/05/datamined-discoveries/drill-sleeves.png, /img/content/news/2018/05/datamined-discoveries/09-syrus-sleeves.png)
+[gallery](/img/content/news/2018/05/datamined-discoveries/09-drill-gamemat.png, /img/content/news/2018/05/datamined-discoveries/09-syrus-gamemat.png, /img/content/news/2018/05/datamined-discoveries/09-drill-sleeves.png, /img/content/news/2018/05/datamined-discoveries/09-syrus-sleeves.png)
 
 <br>
 <br>
