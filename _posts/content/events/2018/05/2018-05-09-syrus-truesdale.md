@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-09 12:00:00 +0100
+date: 2018-05-10 08:00:00 +0100
 title: Syrus Truesdale's Road to Duel Links
 author: Yami Hammy
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
@@ -16,9 +16,15 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 ![Banner](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/banner.png)
 
+##### Updated May 10th - Added Top Player Council Thoughts
+
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Level-Up Rewards](#level-up-rewards)
+- [Top Player Council Thoughts](#top-player-council-thoughts)
+    - ["Do the new "roid" cards have the potential to produce a new top-tier Deck?"](#q1)
+    - ["Will any of the new "roid" cards be used in a current top-tier Deck?"](#q2)
+    - ["Will you personally be farming this event?"](#q3)
 - [Farm Decks](#farm-decks)
     - [Lvl: 40 Ra Farm](#freeska)
     - [Lvl: 30 Blue-Eyes Farm](#blue)
@@ -50,6 +56,93 @@ These are the cards and Skills you can attain.
 | 4 | {Check Out My Ride!} | 
 | 13 | {Draw Sense: Earth} | 
 | 20 | {Check Out My Fusion!} | 
+
+### Top Player Council Thoughts
+
+<a name="q1"></a>
+
+#### "Do the new "roid" cards have the potential to produce a new top-tier Deck?"
+
+<br>
+
+**[Whilipino](/top-player-council/whilipino/)** says:
+- No, the Deck is still trash. 
+
+**[Kwrowe](/top-player-council/kwrowe/)** says:
+- No!
+
+**[Machdragon](/top-player-council/machdragon/)** says:
+- Nope!
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- Definitely not.
+
+**[3K All Day](/top-player-council/3kallday/)** says:
+- 🚮
+
+**[SelectMaple](/top-player-council/selectmaple/)** says:
+- (OMEGALUL) Trash.
+
+**[AndyTsang](/top-player-council/andytsang/)** says:
+- No!
+
+---
+
+<a name="q2"></a>
+
+#### "Will any of the new "roid" cards be used in a current top-tier Deck?"
+
+<br>
+
+**[Whilipino](/top-player-council/whilipino/)** says:
+- {Drillroid} is a cool card for Side Decks and it's another option for {Ties of the Brethren} with [Geargias](/tier-list/deck-types/geargias/).
+
+**[Kwrowe](/top-player-council/kwrowe/)** says:
+- No!
+
+**[Machdragon](/top-player-council/machdragon/)** says:
+- Absolutely not.
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- No!
+
+**[3K All Day](/top-player-council/3kallday/)** says:
+- 🚮
+
+**[SelectMaple](/top-player-council/selectmaple/)** says:
+- Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
+
+**[AndyTsang](/top-player-council/andytsang/)** says:
+- No!
+
+---
+
+<a name="q3"></a>
+
+#### "Will you personally be farming this event?"
+
+<br>
+
+**[Whilipino](/top-player-council/whilipino/)** says:
+- Yes, because I farm every event.
+
+**[Kwrowe](/top-player-council/kwrowe/)** says:
+- No!
+
+**[Machdragon](/top-player-council/machdragon/)** says:
+- Sure, new character means more Gems.
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- No, I'll be auto-dueling, none of the cards    are worth it.
+
+**[3K All Day](/top-player-council/3kallday/)** says:
+- Yes, but that's because this game is an addiction, still 🚮.
+
+**[SelectMaple](/top-player-council/selectmaple/)** says:
+- For 3 of every card, yes.
+
+**[AndyTsang](/top-player-council/andytsang/)** says:
+- Yes!
 
 ---
 
