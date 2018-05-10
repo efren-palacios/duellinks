@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Horus Dragon decks.
 deck-type: horus-dragon
 permalink: /tier-list/horus-dragon/ 
+hidden: true
 ---
 
 

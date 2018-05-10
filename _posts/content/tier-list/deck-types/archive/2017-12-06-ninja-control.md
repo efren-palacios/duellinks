@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Ninja Control decks.
 deck-type: ninja-control
 permalink: /tier-list/ninja-control/ 
+hidden: true
 ---
 
 

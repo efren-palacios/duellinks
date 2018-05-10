@@ -9,6 +9,7 @@ date: 2017-09-30
 comments: false
 description: In depth information about Toon Barrel Dragon decks.
 permalink: /tier-list/toon-barrel-dragon/
+hidden: true
 ---
 
 

@@ -9,6 +9,7 @@ date: 2017-12-06
 comments: false
 description: In depth information about BLS The Creator decks.
 permalink: /tier-list/bls-the-creator/ 
+hidden: true
 ---
 
 

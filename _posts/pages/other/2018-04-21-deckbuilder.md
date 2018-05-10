@@ -6,7 +6,7 @@ category: page
 comments: false
 permalink: /deckbuilder/
 sitemap: false
-hide: true
+hidden: true
 ---
 <div class="section">
     <div class="row">

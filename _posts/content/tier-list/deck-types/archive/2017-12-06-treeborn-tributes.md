@@ -8,7 +8,8 @@ date: 2017-12-06
 comments: false
 description: In depth information about Treeborn Frogs Tributes decks.
 deck-type: treeborn-tributes
-permalink: /tier-list/treeborn-tributes/ 
+permalink: /tier-list/treeborn-tributes/
+hidden: true 
 ---
 
 

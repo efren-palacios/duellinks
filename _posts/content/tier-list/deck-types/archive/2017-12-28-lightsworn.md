@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Lightsworn decks.
 deck-type: lightsworn
 permalink: /tier-list/lightsworn/
+hidden: true
 ---
 
 

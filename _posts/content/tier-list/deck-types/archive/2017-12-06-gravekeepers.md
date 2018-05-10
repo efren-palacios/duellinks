@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Gravekeepers decks.
 deck-type: gravekeepers
 permalink: /tier-list/gravekeepers/ 
+hidden: true
 ---
 
 

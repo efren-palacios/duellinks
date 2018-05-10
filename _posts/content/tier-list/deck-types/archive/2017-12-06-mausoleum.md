@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Mausoleum decks.
 deck-type: mausoleum
 permalink: /tier-list/mausoleum/ 
+hidden: true
 ---
 
 

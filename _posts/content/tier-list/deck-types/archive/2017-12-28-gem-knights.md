@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Gem-Knights decks.
 deck-type: gem-knights
 permalink: /tier-list/gem-knights/
+hidden: true
 ---
 
 

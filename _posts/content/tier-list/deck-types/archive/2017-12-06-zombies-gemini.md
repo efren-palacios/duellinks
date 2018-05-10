@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Gemini Zombies decks.
 deck-type: zombies-gemini
 permalink: /tier-list/zombies-gemini/ 
+hidden: true
 ---
 
 

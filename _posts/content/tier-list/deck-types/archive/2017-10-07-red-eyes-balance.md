@@ -9,6 +9,7 @@ date: 2017-10-07
 comments: false
 description: In depth information about Red-Eyes Balance decks.
 permalink: /tier-list/red-eyes-balance/
+hidden: true
 ---
 
 

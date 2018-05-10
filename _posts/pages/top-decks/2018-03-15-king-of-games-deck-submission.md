@@ -8,7 +8,7 @@ description: This page allows users to submit their most recent King of Games de
 keywords: king of games, ranked decks, top decks, top tier decks, deck submission
 permalink: /king-of-games-deck-submission/
 scripts: kog-deck-submission.js
-hide: true
+hidden: true
 ---
 
 {% include heading.html title=page.title %}

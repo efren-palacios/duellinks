@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Dark Necrofear decks.
 deck-type: necrofear
 permalink: /tier-list/necrofear/
+hidden: true
 ---
 
 

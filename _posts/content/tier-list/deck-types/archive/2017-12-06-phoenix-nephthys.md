@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Phoenix decks.
 deck-type: phoenix-nephthys
 permalink: /tier-list/phoenix-nephthys/ 
+hidden: true
 ---
 
 

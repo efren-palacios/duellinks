@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Dark Paladin decks.
 deck-type: dark-paladin
 permalink: /tier-list/dark-paladin/ 
+hidden: true
 ---
 
 

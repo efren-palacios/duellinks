@@ -9,6 +9,7 @@ comments: false
 description: In depth information about Six Samurai decks.
 deck-type: six-samurais
 permalink: /tier-list/six-samurais/ 
+hidden: true
 ---
 
 
