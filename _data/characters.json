@@ -128,5 +128,10 @@
         "season": "gx",
         "name": "Jesse Anderson",
         "image": "/img/characters/portrait-jesse-anderson.png"
+    },
+    {
+        "season": "gx",
+        "name": "Syrus Truesdale",
+        "image": "/img/characters/portrait-syrus-truesdale.png"
     }
 ]
