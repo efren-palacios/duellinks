@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-03 02:00:00 +0100
+date: 2018-05-06 02:00:00 +0100
 title: Elegant Mai
 author: Yami Hammy & Freeska
 image: /img/content/events/2018/05/elegant-mai/thumbnail.jpg

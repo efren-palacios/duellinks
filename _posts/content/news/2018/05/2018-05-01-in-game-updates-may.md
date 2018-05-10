@@ -23,14 +23,22 @@ permalink: /news/may-2018/in-game-updates/
 <a name="91"></a>
 
 #### WCS Celebration Campaign
-As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) you can obtain a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
+As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) all players receive a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
 
 [slider](/img/content/news/2018/05/in-game-updates/10-wcs.jpg)  
+
+<a name="92"></a>
+
+#### Popular Cards
+Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/), you can now view the **daily** top 50 most used Monster, Spell and Trap cards that are played in Ranked Duels (in Platinum and above).
+
+![](/img/content/news/2018/05/in-game-updates/10-popular.jpg)  
 
 ---
 
 - [May 10th (Update 9)](#90)
     - [WCS Celebration Campaign](#91)
+    - [Popular Cards](#92)
 - [May 9th (Update 8)](#80)
     - [Syrus Truesdale Unlock Event](#81)
     - [Double Keys & Gold](#82)
