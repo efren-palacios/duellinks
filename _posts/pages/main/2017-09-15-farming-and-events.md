@@ -73,6 +73,20 @@ permalink: /farming-and-events/
       </div>
     </div>
   </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="zoom">
+        <a href="/farming/auto-duel-guide/" class="gallerypic" title="">
+          <img src="/img/content/guides/banner3.jpg" class="card-img-top lazyload" />
+        </a>
+      </div>
+      <div class="card-block text-white">
+        <a href="/farming/auto-duel-guide/">
+          <h4 class="card-title">Auto-Duel Guide</h4>
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 
