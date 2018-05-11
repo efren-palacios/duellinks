@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: sylvans
 image: /img/content/guides/sylvans-guide-by-superforms/sylvanguide.jpg
-date: 2018-04-13
+date: 2018-05-11
 comments: true
 description: A detailed guide written by Whoiskp presenting the Sylvan archetype.
 keywords: guide, komushroomo, sylvans, plants, marshalleaf, hermitree, guardioak, excavate, core cards
@@ -15,8 +15,8 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated April 19, 2018
-##### Added Grit Skill Analysis
+#### Updated May 11, 2018
+##### Tech Cards and Matchup Guide Updated
 
 ### Introduction
 
@@ -103,6 +103,12 @@ Is a great tech for the mirror since you already know your opponent plans to exc
 - {Magical Merchant} (Merchant):   
  Merchant is more for the aggressive player as its effect allows you to mill the top card of your Deck until you get to a Spell or Trap card. This is great for clearing the board for OTKs but it requires a lower amount of Spell/Trap’s in your Deck. Merchant also loses all value once you’ve draw all of your Spell/Trap’s as his effect will not activate. That factor is why he sees little to no play in tournaments. It's a great card for the ladder though but it’s an Insect so excavating it with a Sylvan effect will just send it to the bottom of the Deck.
 
+- {Rose Archer}:  
+Great card to stop traps from destroying your monsters, preventing Archfiends from getting their combos off, stopping Geargia from activating {Pulse Mines} and other such instances.  
+
+- {Treacherous Trap Hole} (TTH):  
+Useful vs. decks that utilize field control as well as setting up Carrot/Rose combos without the use of Econ while destroying an opponent’s monster. The main downside is, if you run 2 copies, the second one becomes dead after you use the first one because of its activation condition.  
+
 There are many more techs available but these are the most common.
 
 ---
@@ -176,14 +182,20 @@ Sylvan mirror matches are the hardest matchup for Sylvans. It typically comes do
 
 Typically the first person to negate and flood the Field wins the mirror match. Teching cards like {Dark World Lightning}, {Tribute to the Doomed} and {Different Dimension Ground} are great for the mirror match. 
 
+- [Spellbooks]():  
+The Key is to not allow them to make {Spellbook of Fate} plays. We have a variety of ways to do this being Econ taking with Rose or Carrot. Using Ultimate Providence on {Spellbook Magician of Prophecy} or techs like {Anti-Magic Prism}, {Magic Deflector} or {Chain Dispel}. Without Fate, Spellbooks won’t be able to prevent basic Sylvan plays.  
+
 - [Geargias](/tier-list/deck-types/geargias/):      
 Geargias usually will have 2 or 3 backrow set before you start making combos. Fortunately for us, one {Ultimate Providence} or {Divine Wrath} can swing the fight in our favor. Going first you want to set Shroom, Carrot or Rose (in that order). Getting Rose in the Graveyard is vital as most of their backrow will be Traps. Rose plus milled Marsh/Shroom will allow you to easily dismantle their defenses before they can begin flipping like crazy! Techs like {Dark World Lightning}, {System Down} or {Tribute to the Doomed} further increase your chances to win this matchup and most Geargia players activate their Monster effects so their Monsters are face-down (to avoid ECon shenanigans) which make them prime targets for Lightning! You shouldn’t struggle with this matchup. 
 
 - [Masked Heroes](/tier-list/deck-types/masked-heroes/):   
-More problematic than Geargia due to their OTK speed as well as them packing triple {Forbidden Chalice} to negate a flipped Shroom. If you can manage to set an {Enemy Controller}, {Ultimate Providence} or {Divine Wrath} it will greatly increase your chances to survive a Turn 2 OTK. It’s best to try and prevent {Masked HERO Anki} from getting an LP swing in combination with {Forbidden Chalice} to deal 3200 LP damage. Use {Enemy Controller} on Anki during the Battle Phase, {Ultimate Providence}/{Divine Wrath} if his effect is activated or destroy backrow before they draw into {Mask Change} is how to overcome this obstacle. Not a fun matchup but it’s definitely winnable. 
+Through testing, Ive found that {Magic Deflector} and {Anti-Magic Prism} work great at stopping Heroes. Magic Deflector basically stops them from being able to use any of there spell cards for the remainder of the turn from there you have to quickly setup Herm/Oak plays to win. It’s best to wait until after they try to {Forbidden Chalice} your shroom or after they play {Mask Change} to use it to maximize the loss of resources for you opponent. Anti-Magic Prism works in a similar way, but instead of negating quick play spells for the turn, it allows you to destroy one card on the field. With that being said, using judgement you’d either pop a monster from being Mask Changed into {Masked HERO Anki} or a backrow that was set this turn since they can’t activate it. Econ Anki during battle phase, UP/DW if it tried to activate its effect or destroy backrow before they draw into the Mask spell is how to overcome this obstacle. Not a fun match up, but it’s definitely winnable.  
 
 - [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/):   
 The key when playing against Sea Stealth Attack is to make your opponent banish their sole Monster to get a clean swing for OTK. You can use {Rose Lover}’s effect on a {Sylvan Hermitree} to swing over {Citadel Whale} as Sea Stealth Attack will have no effect on him. The main strategy is to mill {Sylvan Komushroomo} to force your opponent to banish then you can try to swing for game! 
+
+- [Amazoness](/tier-list/deck-types/amazoness/):  
+Similar to the SSA matchup except you cannot destroy their monsters by battle if {Amazoness Queen} is on field. Rose summoned monsters aren’t affected by {Amazoness Onslaught} so swing away to destroy {Amazoness Princess} fast and early. Even if they have board control, milling one Sylvan Komushroomo can swing the game back in your favor. Things to remember are that destroying Onslaught with Komushroomo will give them ANY Amazoness from the GY including Queen if she’s there so sometimes it’s better not to destroy it.  
 
 - [Aliens](/tier-list/deck-types/aliens/):   
 We are the reason [Aliens](/guides/deck-types/aliens-guide-by-celestial/) got bumped from Tier 1. They have many Battle Phase plays that we can disrupt in the Main Phase as well as removing any Alien counters by Special Summoning Carrot or tributing for Oak or {Sylvan Lotuswain}. Our boss is bigger than theirs ({Alien Overlord}) and with them having so few Monsters in the Main Deck you can usually win after popping off 2 or 3. Remember, a lot of Alien Decks use {Wall of Disruption} so exercise caution and swing with a Sylvan that was Summoned with {Rose Lover}'s effect. The main strategy is to destroy backrow, keep Alien counters off your Monsters to prevent an {Alien Overlord} Special Summon and swinging your bosses with Rose's effect if any backrow remains. 
@@ -195,7 +207,7 @@ If you don't open with an effect negation Spell/Trap like every other Deck you p
 The most consistent tournament Deck in Duel Links and for good reason, popping a {Gozuki} or {Samurai Skull} (by an effect) will just allow them to Special Summon another Monster. Almost their entire backrow is chainable, so if you activate Shroom (in the Graveyard) your opponent will just chain the Spell/Trap. Since {Red-Eyes Zombie Dragon} gets a 200 ATK boost from {Wasteland} (using {Straight to the Grave}) destroy that first, afterward your goal is to clear backrow while attacking the lower ATK Monsters. For those who pack ECon please remember if they have {Bacon Saver} in the Graveyard and you ECon take, **you lose**! The main strategy is to pop the  Field Spell so {Red-Eyes Zombie Dragon} can’t get over {Sylvan Hermitree} or {Sylvan Guardioak} while trying to end the game with an OTK as soon as possible.
 
 - [Archfiends](/tier-list/deck-types/archfiends/):   
-Without exaggeration Archfiends are likely the hardest matchup for us since majority of their Monsters are bigger than {Sylvan Hermitree}, destroying {Archfiend Empress} or {Archfiend Cavalry} with {Sylvan Marshalleaf} only gets a bigger Empress back on the Field with their Special Summon effects. The best thing to try to do in this matchup is to only pop Empress and backrow, the key to Archfiends is they self-mill in order to aggressively attack, you may win via Deck out or {Enemy Controller} tribute-take. Not too many reliable options as of now though. The main strategy is to destroy back row so they can’t Summon big Fiends and keep swinging over smaller Fiends. 
+Without exaggeration Archfiends are likely the hardest matchup for us since majority of their Monsters are bigger than {Sylvan Hermitree}, destroying {Archfiend Empress} or {Archfiend Cavalry} with {Sylvan Marshalleaf} only gets a bigger Empress back on the Field with their Special Summon effects. The best thing to try to do in this matchup is to only pop Emperor and back row. The key to fiends is they self-mill in order to aggressively attack, you may win via mill out or Econ taking. You can also use Marshalleaf's effect on {Archfiend Empress} when chained with another Sylvan effect to make her miss the timing and not allow her to be able to special summon from the grave. MAIN Strategy, destroy back row so they can’t summon big fiends and keep swinging over smaller fiends. 
 
 ### Conclusion
 
@@ -209,4 +221,5 @@ I hope this guide helps you all either succeed in tournaments, Ranked Duels ladd
 
 If you have any thoughts or questions, leave a comment below!
 
-***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***
+***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***  
+***This guide was lovingly updated by [Jonesy9027](/authors/jonesy9027/)***
