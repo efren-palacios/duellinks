@@ -6,7 +6,7 @@ category: guide
 sub-category: deck-type
 deck-type: archfiends
 image: /img/content/guides/archfiend-guide-by-bacon/archfiends.jpg
-date: 2018-03-30 02:00:00
+date: 2018-05-11 02:00:00
 comments: true
 description: An in depth guide written by Bacon discussing the Archfiend archetype.
 keywords: guide, archfiends, fiends, in-depth guide, core cards
@@ -15,8 +15,8 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated April 21, 2018 
-##### Deck Core(Needlebug Nest) and Matchup Guide Updated
+#### Updated May 11, 2018 
+##### Matchup Guide Updated
 
 ### Table of Contents
 * [Introduction](#introduction)
@@ -29,19 +29,21 @@ permalink: /guides/deck-types/archfiend-guide-by-bacon/
 * [Tech Cards](#tech-cards)
 * [Playstyle](#playstyle)
 * [Matchup Guide](#matchup-guide)
+    * [Amazoness](#amazoness)
+    * [Spellbooks](#spellbooks)
+    * [Masked Heroes](#masked-heroes)
+    * [Geargias](#geargias)
     * [Aliens](#aliens)
     * [Sylvans](#sylvans)
+    * [Cyber Angels](#cyber-angels)
     * [Red-Eyes Zombie Dragon](#red-eyes-zombie-dragon)
     * [Gaia Plate Magnets](#gaia-plate-magnets)
     * [Sea Stealth Attack](#sea-stealth-attack)
-    * [Cyber Angels](#cyber-angels)
     * [Fishes](#fishes)
     * [Dinosaurs](#dinosaurs)
     * [Mill](#mill)
     * [Burn](#burn)
     * [Destiny Heroes](#destiny-heroes)
-    * [Masked Heroes](#masked-heroes)
-    * [Geargias](#geargias)
     * [Mirror Match](#mirror-match)
 * [Conclusion](#conclusion)
 * [Thanks](#thanks)
@@ -209,6 +211,39 @@ When playing with Needlebug Nest, the goal is to Restart into a hand containing 
 
 ### Matchup Guide
 
+### Amazoness
+Amazonesss can be tough with their swarming capabilities combined with Econs. The best way to start the match is to get {Chaos Hunter} rolling asap to prevent them from banishing any of your monsters with {Amazoness Onslaught}. Empress is usually the 2nd priority to get onto the field to protect Chaos Hunter unless they have {Amazoness Swords Woman} out. If Swords Woman is out, have Emperor focus on removing them followed by the {Amazoness Princess}es. {Lava Golem} is useful in this matchup much like it is against Geargia because of the swarm Amazons provide.  
+{Escape from the Dark Dimension}, {Invader of Darkness}, and {Magic Deflector} are also strong possibilities to side here.  
+
+**Matchup Odds:**  
+55-45 Our favor  
+
+---
+
+### Spellbooks
+Spellbooks are one of the most difficult matchups in the current meta for fiends. Winning the matchup is not as simple as just getting Chaos Hunter or Invader onto the field when you are playing against the 30 card version. In order to have a fighting chance against books, fiends must have a very fast start between Chaos or Invader combined with Empress while also hoping books start off slow. Which is rare. This is entirely based on the 30 card version as fiends do not seem to struggle vs the 20 card version at all.  
+
+**Matchup Odds:**  
+25-75 Their favor  
+
+---
+
+### Masked Heroes
+Masked Heroes are quick and explosive and will overwhelm Fiends very fast if able. The best way to win this matchup is too quickly Roar Empress into Invader or call him out of the grave. Once on the field, Invader buys time and shuts down the entire mask deck on his own aside from {Vision HERO - Trinity}. Once Invader is on the field, focus on getting an Emperor out to begin the push for game.  
+
+**Matchup Odds:**  
+60-40 In Fiends favor if we are running 2 Invaders.   
+35-65 Their favor without Invader.  
+
+---
+
+### Geargias
+This match is a complete coin toss and depends entirely on who goes first and who opens more broken. While it is possible for Geargia anchor to actually help us with its destruction effect, it can also make Empress miss timing. Because of attacker, we generally will only get 1 use out of call of arch. It's important in this matchup to use emperor's effect almost exclusively on monster removal (their face up monsters). Additionally, archfiend giant sees value here that he doesn't in other matchups as his effect to pay 500lp and remain on the field can harm geargias after they used anchor's effect. Another solid side deck card in this match is lava golem. 2 copies should be enough to shut down geargia after a ties of the brethren play. Ensure that you have used needlebug nest in geargias draw phase so you have roar or call targets for when attacker uses it's effect.  
+
+**Matchup Odds:**  
+50-50    
+
+---
 ### Aliens
 The key to defeating Aliens is to focus on monster removal. Less Aliens play {Brainwashing Beam} now and that heavily plays to our advantage. The key is to watch for ECon take plays and keep track of their A-Counters.  
 
@@ -222,6 +257,14 @@ The real reason we are here. Use Emperor or Snipe Hunter to remove any of their 
 
 **Match Up Odds:**  
 80-20 Our favor  
+
+---
+
+### Cyber Angels 
+Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Sphere Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
+
+**Matchup Odds:**  
+45-55  
 
 ---
 ### Red-Eyes Zombie Dragon  
@@ -245,14 +288,6 @@ Use Fiend Griefing to disrupt their Fishborg Planter and Citadel Whale from the 
 
 **Matchup Odds:**  
 60-40 Our favor  
-
----
-
-### Cyber Angels 
-Whoever goes second has the largest advantage here. All of our bosses are bigger, but a boosted/protected {Saffira, Queen of Dragons} or {Cyber Angel Dakini} can cause major problems. Snipe Hunter is a gamble, but he can steal games by taking out protection spells and big monsters in one turn, or by taking out a protection spell and letting Emperor pop the monster. Once the boosted monster is gone, it is easy to pick these guys off. LP Boost α shines the most in this match. Gravity Lash, Skill Successor, Sphere Kuriboh, and Relinkuriboh are all very valuable cards in this matchup.  
-
-**Matchup Odds:**  
-45-55  
 
 ---
 
@@ -296,22 +331,6 @@ Unfortunately for us, this deck typically runs 3 Enemy Controllers as well as 3 
 
 ---
 
-### Masked Heroes
-Masked Heroes are quick and explosive and will overwhelm Fiends very fast if able. The best way to win this matchup is too quickly Roar Empress into Invader or call him out of the grave. Once on the field, Invader buys time and shuts down the entire mask deck on his own aside from {Vision HERO - Trinity. Once Invader is on the field, focus on getting an Emperor out to begin the push for game.  
-
-**Matchup Odds:**  
-60-40 In Fiends favor if we are running 2 Invaders.   
-35-65 Their favor without Invader.  
-
----
-
-### Geargias
-This match is a complete coin toss and depends entirely on who goes first and who opens more broken. While it is possible for Geargia anchor to actually help us with its destruction effect, it can also make Empress miss timing. Because of attacker, we generally will only get 1 use out of call of arch. It's important in this matchup to use emperor's effect almost exclusively on monster removal (their face up monsters). Additionally, archfiend giant sees value here that he doesn't in other matchups as his effect to pay 500lp and remain on the field can harm geargias after they used anchor's effect. Another solid side deck card in this match is lava golem. 2 copies should be enough to shut down geargia after a ties of the brethren play. Ensure that you have used needlebug nest in geargias draw phase so you have roar or call targets for when attacker uses it's effect.  
-
-**Matchup Odds:**  
-50-50    
-
----
 ### Mirror Match
 Archfiends always win this matchup. Whoever establishes their board first nearly always wins this match.  
 
