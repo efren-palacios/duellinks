@@ -180,5 +180,6 @@ These decks were made with Free to Play players in mind. There are a limited sel
 ---
 ---
 
-* If you have suggestions for useful repleacements, feel free to share them below.
+* If you have a consistent Auto-Duel deck that you think other players could use, post it here!
+* If you have suggestions for useful replacements, feel free to share them below.
 * If you notice a problem with the deck while facing a lower level Standard Duelist, leave a message in the comments and post the deck you have found to work best.
