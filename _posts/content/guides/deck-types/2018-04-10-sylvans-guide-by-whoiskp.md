@@ -16,7 +16,7 @@ permalink: /guides/deck-types/sylvans-guide-by-whoiskp/
 {% include heading.html title=page.title author=page.author %}
 
 #### Updated May 11, 2018
-##### Tech Cards and Matchup Guide Updated
+##### Tech Cards and Matchup Guide Updated  
 
 ### Introduction
 
