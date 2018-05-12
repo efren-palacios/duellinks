@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (9) - May 10
+title: In-Game Updates (10) - May 11
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-10 06:00:00 +0100
+date: 2018-05-11 23:50:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,28 +14,31 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="90"></a>
+<a name="100"></a>
 
-### May 10th (Update 9)
+### May 11th (Update 10)
 
 <br>
 
-<a name="91"></a>
+<a name="101"></a>
 
-#### WCS Celebration Campaign
-As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) all players receive a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
+#### Selection BOXes
+The Selection BOX Mini Vol.01 that we discussed in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) has arrived. Give our [box review article](/box-reviews/selection-box-mini-vol-01/) a read with [Top Player Council](/top-player-council/) comments! The previous Selection BOX has also returned, be sure to check them both out. 
 
-[slider](/img/content/news/2018/05/in-game-updates/10-wcs.jpg)  
+[slider](/img/content/news/2018/05/in-game-updates/11-selection.jpg) 
 
-<a name="92"></a>
+<a name="102"></a>
 
-#### Popular Cards
-Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/), you can now view the **daily** top 50 most used Monster, Spell and Trap cards that are played in Ranked Duels (in Platinum and above).
+#### Arkana Added to the Gate
+Arkana has been added to the gate, great news for those who missed the previous unlock event. Check out our [farm guide](/farming/all-characters/arkana/) for the best ways to farm him - get that Dark Magician support!
 
-![](/img/content/news/2018/05/in-game-updates/10-popular.jpg)  
+[slider](/img/content/news/2018/05/in-game-updates/11-arkana.jpg) 
 
 ---
 
+- [May 11th (Update 10)](#100)
+    - [Selection BOXes](#101)
+    - [Arkana Added to the Gate](#102)
 - [May 10th (Update 9)](#90)
     - [WCS Celebration Campaign](#91)
     - [Popular Cards](#92)
@@ -64,6 +67,28 @@ Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamin
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="90"></a>
+
+### May 10th (Update 9)
+
+<br>
+
+<a name="91"></a>
+
+#### WCS Celebration Campaign
+As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) all players receive a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
+
+[slider](/img/content/news/2018/05/in-game-updates/10-wcs.jpg)  
+
+<a name="92"></a>
+
+#### Popular Cards
+Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/), you can now view the **daily** top 50 most used Monster, Spell and Trap cards that are played in Ranked Duels (in Platinum and above).
+
+![](/img/content/news/2018/05/in-game-updates/10-popular.jpg)  
 
 ---
 

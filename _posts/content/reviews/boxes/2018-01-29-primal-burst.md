@@ -34,7 +34,7 @@ This is the 9th Main Box, it was released on December 31, 2017. The release of t
 
 #### Rare Cards
 
-{% include box.html box=site.data.card-locations.box.primal-burst rarity="UR" %}
+{% include box.html box=site.data.card-locations.box.primal-burst rarity="R" %}
 
 #### Normal Cards
 
