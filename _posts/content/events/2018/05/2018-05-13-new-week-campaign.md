@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-13 18:00:00 +0100
+date: 2018-05-13 18:10:00 +0100
 title: New Week Campaign - Rage Page!
 author: Yami Hammy
 image: /img/content/events/2018/05/new-week-campaign/thumbnail.jpg
