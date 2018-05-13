@@ -16,8 +16,9 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 ![Banner](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/banner.png)
 
-##### Updated May 10th - Added Top Player Council Thoughts
+##### Updated May 13th - [Bonus Multiplier](#update)
 
+- [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Level-Up Rewards](#level-up-rewards)
@@ -31,6 +32,13 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 - [Syrus Truesdale Lvl: 40 Decklist](#40)
 - [Syrus Truesdale Lvl: 30 Decklist](#30)
 - **[Duel Awards](#awards)**
+
+---
+
+### Update
+The bonus multipler has increased and the daily rewards have now doubled!
+
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/bonus.jpg)
 
 ---
 

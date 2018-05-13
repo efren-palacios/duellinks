@@ -1,41 +1,40 @@
 ---
 layout: blog
-title: In-Game Updates (10) - May 11
+title: In-Game Updates (12) - May 13
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-11 23:50:00 +0100
+date: 2018-05-13 14:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment  
+keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment, syrus, arkana  
 permalink: /news/may-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="100"></a>
+<a name="120"></a>
 
-### May 11th (Update 10)
+### May 13th (Update 12)
 
 <br>
 
-<a name="101"></a>
+<a name="121"></a>
 
-#### Selection BOXes
-The Selection BOX Mini Vol.01 that we discussed in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) has arrived. Give our [box review article](/box-reviews/selection-box-mini-vol-01/) a read with [Top Player Council](/top-player-council/) comments! The previous Selection BOX has also returned, be sure to check them both out. 
+#### [Syrus Truesdale Event](/events/may-2018/syrus-truesdales-road-to-duel-links/) Survey
 
-[slider](/img/content/news/2018/05/in-game-updates/11-selection.jpg) 
+Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
 
-<a name="102"></a>
-
-#### Arkana Added to the Gate
-Arkana has been added to the gate, great news for those who missed the previous unlock event. Check out our [farm guide](/farming/all-characters/arkana/) for the best ways to farm him - get that Dark Magician support!
-
-[slider](/img/content/news/2018/05/in-game-updates/11-arkana.jpg) 
+![](/img/content/news/2018/05/in-game-updates/13-survey.jpg) 
 
 ---
 
+- [May 13th (Update 12)](#120)
+    - [Syrus Truesdale Event Survey](#121)
+- [May 12th (Update 11)](#110)
+    - [New Week Campaign](#111)
+    - [Syrus Truesdale Event Update](#112)
 - [May 11th (Update 10)](#100)
     - [Selection BOXes](#101)
     - [Arkana Added to the Gate](#102)
@@ -67,6 +66,50 @@ Arkana has been added to the gate, great news for those who missed the previous 
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="110"></a>
+
+### May 12th (Update 11)
+
+<br>
+
+<a name="111"></a>
+
+#### New Week Campaign
+This is the second week of the campaign. The new additions this campaign are {Pyrorex the Elemental Lord}, {Phantom Beast Cross-Wing} and {Kunoichi} but Konami knows what you really want is that 100th copy of {Goblin Calligrapher}! 
+
+[slider](/img/content/news/2018/05/in-game-updates/12-new-week-campaign.jpg) 
+
+<a name="112"></a>
+
+#### Syrus Truesdale Event Update
+The event has been updated with the usual Duel Meter multiplier increase and **double** daily rewards. Read our [event article](/events/may-2018/syrus-truesdales-road-to-duel-links/) for the best ways to farm Syrus and get your playset of Vehicroid cards!
+
+![](/img/content/news/2018/05/in-game-updates/12-syrus.jpg) 
+
+---
+
+<a name="100"></a>
+
+### May 11th (Update 10)
+
+<br>
+
+<a name="101"></a>
+
+#### Selection BOXes
+The Selection BOX Mini Vol.01 that we discussed in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) has arrived. Give our [box review article](/box-reviews/selection-box-mini-vol-01/) a read with [Top Player Council](/top-player-council/) comments! The previous Selection BOX has also returned, be sure to check them both out. 
+
+[slider](/img/content/news/2018/05/in-game-updates/11-selection.jpg) 
+
+<a name="102"></a>
+
+#### Arkana Added to the Gate
+Arkana has been added to the gate, great news for those who missed the previous unlock event. Check out our [farm guide](/farming/all-characters/arkana/) for the best ways to farm him - get that Dark Magician support!
+
+[slider](/img/content/news/2018/05/in-game-updates/11-arkana.jpg) 
 
 ---
 
