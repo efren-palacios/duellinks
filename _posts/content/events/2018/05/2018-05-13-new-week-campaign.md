@@ -18,9 +18,9 @@ permalink: /events/may-2018/new-week-campaign/
 
 It's that time of the week again, three lacklustre cards straight into your Giftbox. **Post your drops or vent your rage in the comments below!**
 
-You can obtain any 3 of the following cards - one is guaranteed to be a UR or SR.
+You can obtain any 3 of the following cards:
 
-[deck](Vennu, Bright Bird of Divinity; Pyrorex the Elemental Lord; Darkflare Dragon; Sirenorca; Masked Beast Des Gardius; Guardian of Felgrand; Kunoichi; Phantom Beast Cross-Wing; Dark Crusader; Kuriboh; Patroid; Beastking of the Swamps; Goddess with the Third Eye; Mystical Sheep 1; Versago the Destroyer; Dokurorider; Infernal Incinerator; King Pyron; Tactical Espionage Expert; Terrorking Salmon; Space Mambo; Grand Tiki Elder; Melchid the Four-Face Beast; Worm Drake; Clown Zombie; Goblin Calligrapher; Darkfire Dragon; Cards from the Sky; Detonate; Multiply; Primal Cry; Sword of Deep Seated; The Mask of Remnants; Beastly Mirror Ritual; Chosen One; Fiend's Mirror; Owner's Seal; Revival of Dokurorider; Spiritual Earth Art - Kurogane; Onikuji; D. Tribe; Dramatic Rescue; Enervating Mist; Five Brothers Explosion; Jam Defender; The Dragon's Bead; Virus Cannon)
+[deck](Vennu, Bright Bird of Divinity; Pyrorex the Elemental Lord; Darkflare Dragon; Sirenorca; Masked Beast Des Gardius; Guardian of Felgrand; Kunoichi; Phantom Beast Cross-Wing; Dark Crusader; Kuriboh; Patroid; Beastking of the Swamps; Goddess with the Third Eye; Mystical Sheep 1; Versago the Destroyer; Dokurorider; Infernal Incinerator; King Pyron; Tactical Espionage Expert; Terrorking Salmon; Grand Tiki Elder; Melchid the Four-Face Beast; Mist Valley Watcher; Space Mambo; Worm Drake; Clown Zombie; Goblin Calligrapher; Darkfire Dragon; Cards from the Sky; Detonate; Multiply; Invigoration; Primal Cry; Sword of Deep Seated; The Mask of Remnants; Beastly Mirror Ritual; Chosen One; Fiend's Mirror; Owner's Seal; Revival of Dokurorider; Spiritual Earth Art - Kurogane; Onikuji; D. Tribe; Dramatic Rescue; Enervating Mist; Five Brothers Explosion; Jam Defender; The Dragon's Bead; Virus Cannon)
 
 ---
 
