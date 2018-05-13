@@ -44,9 +44,9 @@ pinned: true
 |--|--|
 | FireNeo | 200 |
 | [your-writers.net](https://your-writers.net/?discount=RCJ8D566&utm_source=twitch.tv&utm_medium=banner&utm_campaign=va-0328-duellinksmeta) | 150 |
-| SirDillweed | 122 |
+| [SirDillweed](/top-player-council/sirdillweed/) | 122 |
 | MLM ManLM | 100 |
-| Yami Hammy | 100 |
+| [Yami Hammy](/authors/yami_hammy/) | 100 |
 
 ---
 
@@ -112,11 +112,11 @@ pinned: true
 [deck:Restart](Sphere Kuriboh; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Cosmic Cyclone; Tribute to the Doomed; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
-[deck](Soul Exchange; Acid Rain; Acid Rain; Divine Wrath; Ultimate Providence)
+[deck](Last Day of Witch; Warrior Elimination; Magic Deflector; Ultimate Providence; Ultimate Providence)
 
 ---
 
-#### 9th-16th Place - Negao Do Zap
+#### 9th-16th Place - Negão Do Zap
 [deck:Restart](Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Fighter; Amazoness Fighter; Amazoness Heirloom ; Super Rush Headlong; Super Rush Headlong;  Enemy Controller; Enemy Controller; Treacherous Trap Hole;  Xing Zhen Hu; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught)
 
 ***Side Deck:***
