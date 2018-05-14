@@ -14,8 +14,8 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated May 14, 2018 
-##### Sample Decks Added
+#### Updated May 14, 2018  
+##### Sample Decks Added  
 
 ### Overview
 Auto-Dueiling is a feature that has been around since shortly after Duel Links' release. It allows the AI to use your most current deck to duel against Standard Duelists in the Duel Worlds. Recently the Auto-Duel function was extended to Legendary Duelists that appear in the Duel World such as roaming event Legendary Duelists. It is important to note that the AI is not as skilled as most human players and they have a set method of playing the cards they have available. If you watch the AI Auto-Duel, you will see that at times it makes plays that do not make sense. It is occasionally necessary for you to step in and take off Auto-Duel to ensure victory if you see the AI is about to lose due to misplays. With that in mind, the decks listed below have been created to consistently defeat the Lvl: 57 Standard Duelists. 
@@ -169,7 +169,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 ##### **My Monster Cards by Jadehex**
 
-[deck:My Monster Cards](Skilled Dark Magician;Gladiator Beast Andal;Insect Knight;Archfiend Soldier;Luster Dragon; Neo Bug; Rush Recklessly;Rush Recklessly;Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Mirror Wall;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;Wall of Disruption;)
+[deck:My Monster Cards](Skilled Dark Magician;Gladiator Beast Andal;Insect Knight;Archfiend Soldier;Luster Dragon; Neo Bug; Rush Recklessly;Rush Recklessly;Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Enemy Controller;Enemy Controller;Mirror Wall;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;Wall of Disruption;)
 
 ##### Replacement Options:
 - {Enemy Controller}
