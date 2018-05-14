@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: In-Game Updates (12) - May 13
+title: "In-Game Updates - May 13: Jesse Unlock"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-13 14:00:00 +0100
+date: 2018-05-14 17:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,22 +14,39 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="120"></a>
+<a name="130"></a>
 
-### May 13th (Update 12)
+### May 14th (Update 13)
 
 <br>
 
-<a name="121"></a>
+<a name="131"></a>
 
-#### [Syrus Truesdale Event](/events/may-2018/syrus-truesdales-road-to-duel-links/) Survey
+#### Jesse Anderson Unlock Event
+For those people who missed out on unlocking Jesse Anderson, he'll be returning in a few days with **new drops and a new Skill**! Read our [previous event article](/events/march-2018/awaken-rainbow-dragon/) for what to expect.
 
-Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
+![](/img/content/news/2018/05/in-game-updates/14-jesse.jpg) 
 
-![](/img/content/news/2018/05/in-game-updates/13-survey.jpg) 
+<a name="132"></a>
+
+#### Card Trader Inventory Updated
+Check out the [Card Trader article](/news/may-2018/card-trader-inventory-updated/) with [Top Player Council](/top-player-council/) insight on the new cards!
+
+![](/img/content/news/2018/05/in-game-updates/14-card-trader.jpg) 
+
+<a name="133"></a>
+
+#### x1.5 EXP Campaign
+You'll be able to level up your characters 50% quicker for the duration of the campaign, use Duel Orbs to make Standard Duelists respawn instantly!
+
+![](/img/content/news/2018/05/in-game-updates/14-exp.jpg) 
 
 ---
 
+- [May 14th (Update 13)](#130)
+    - [Jesse Anderson Unlock Event](#131)
+    - [Card Trader Inventory Updated](#132)
+    - [x1.5 EXP Campaign](#133)
 - [May 13th (Update 12)](#120)
     - [Syrus Truesdale Event Survey](#121)
 - [May 12th (Update 11)](#110)
@@ -66,6 +83,22 @@ Konami actively reads player feedback so fill in the event survey to voice any w
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="120"></a>
+
+### May 13th (Update 12)
+
+<br>
+
+<a name="121"></a>
+
+#### [Syrus Truesdale Event](/events/may-2018/syrus-truesdales-road-to-duel-links/) Survey
+
+Konami actively reads player feedback so fill in the event survey to voice any woes. If you felt there weren't enough UR/SR drops, drops weren't evenly distributed or perhaps lack of Gems got you feeling down - put it into words! You can also use the survey to write non-event feedback. 
+
+![](/img/content/news/2018/05/in-game-updates/13-survey.jpg) 
 
 ---
 

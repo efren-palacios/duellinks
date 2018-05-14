@@ -106,7 +106,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 ##### **Master of Oz Deck by Kerrison**
 
 [deck:Balance](King of the Swamp;King of the Swamp;Thunder Dragon;Thunder Dragon;Thunder Dragon;Des Kangaroo;Des Kangaroo;Des Kangaroo; The Earth - Hex-Sealed Fusion;The Earth - Hex-Sealed Fusion;The Earth - Hex-Sealed Fusion;Big Koala;Big Koala;Big Koala; Fusion Gate;Fusion Gate;Fusion Gate; Polymerization;Polymerization;Polymerization)
-[deck](Master of Oz;Master of Oz;Master of Oz;Twin-Headed Thunder Dragon;Twin-Headed Thunder Dragon)
+[deck](Meteor B. Dragon;Meteor B. Dragon;Meteor B. Dragon;Twin-Headed Thunder Dragon;Twin-Headed Thunder Dragon)
 
 ##### Replacement Options:
 - {Black Skull Dragon}
@@ -122,7 +122,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 ##### **Auto Fusion Deck by Kerrison**
 
 [deck:Balance](King of the Swamp;King of the Swamp;Thunder Dragon;Thunder Dragon;Thunder Dragon; Blue Dragon Summoner;Blue Dragon Summoner;Blue Dragon Summoner;Red-Eyes Black Dragon;Red-Eyes Black Dragon;Red-Eyes Black Dragon;Meteor Dragon;Meteor Dragon;Meteor Dragon; Fusion Gate;Fusion Gate;Fusion Gate; Polymerization;Polymerization;Polymerization)
-[deck](Master of Oz;Master of Oz;Master of Oz;Twin-Headed Thunder Dragon;Twin-Headed Thunder Dragon)
+[deck](Meteor B. Dragon;Meteor B. Dragon;Meteor B. Dragon;Twin-Headed Thunder Dragon;Twin-Headed Thunder Dragon)
 
 ##### Replacement Options:
 - {Versago the Destroyer}
