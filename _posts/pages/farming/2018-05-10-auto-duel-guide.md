@@ -134,6 +134,20 @@ These decks do not try to be free to play decks. They were made with a full sele
 
 <br>
 
+##### **Bring the Heat by GrandHarrier**
+
+[deck:Skill Not Set](Heavy Knight of the Flame;Heavy Knight of the Flame;Heavy Knight of the Flame;Flamvell Grunika;Flamvell Grunika;Flamvell Grunika;Blazing Inpachi;Blazing Inpachi;Blazing Inpachi;Salamandra;Salamandra;Molten Destruction;Molten Destruction;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;)
+
+##### Replacement Options:
+- {Volcanic Rocket}  
+- {Blue Flame Swordsman}
+- {Enemy Controller}  
+- {Gravity Lash}  
+- Backrow can be replaced with any good backrow  
+- Any level 4 FIRE attribute monster with a decent attack  
+
+<br>
+
 ---
 
 #### Free to Play
@@ -150,6 +164,19 @@ These decks were made with Free to Play players in mind. There are a limited sel
 - {Sylvan Flowerknight}
 - {Sylvan Lotuswain}
 - {Sylvan Snapdrassinagon}
+
+<br>
+
+##### **My Monster Cards by Jadehex**
+
+[deck:My Monster Cards](Skilled Dark Magician;Gladiator Beast Andal;Insect Knight;Archfiend Soldier;Luster Dragon; Neo Bug; Rush Recklessly;Rush Recklessly;Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Mirror Wall;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;Wall of Disruption;)
+
+##### Replacement Options:
+- {Enemy Controller}
+- {Gravity Lash}
+- Backrow can be replaced with any good backrow
+- More spells are better against the Vandalgyon deck
+- Any level 4 monster with a defense 1500 or more and decent attack
 
 <br>
 
