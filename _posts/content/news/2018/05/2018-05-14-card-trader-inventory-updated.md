@@ -107,7 +107,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 ### Required Items
 - {Crystal Raigeki}: 50,000 Gold, 6 SR Jewel, 60 Stone of Trap
 - {Gravi-Crush Dragon}: 45,000 Gold, 7 SR Jewel, 55 Stone of Darkness
-- {Penguin Knight}: 5,000 Gold
+- {Penguin Knight}: 5,000 Gold, 3 Stone of Water
 
 <br>
 

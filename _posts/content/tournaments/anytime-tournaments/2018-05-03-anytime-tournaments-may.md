@@ -5,7 +5,7 @@ author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
-date: 2018-05-08 08:00:00 +0100
+date: 2018-05-14 21:00:00 +0100
 comments: true
 description: The winning Anytime Tournament Decklists for May!
 keywords: anytime tournament, anytime, tournament, discord 
@@ -46,6 +46,140 @@ Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on 
 ---
 
 ### Winning Decklists
+
+<br>
+
+#### May 12th
+
+##### Kingsman
+[deck:Restart](Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Fighter; Amazoness Fighter; Cosmic Cyclone; Cosmic Cyclone; Offerings to the Doomed; Offerings to the Doomed; Amazoness Heirloom; Enemy Controller; Enemy Controller; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Cosmic Cyclone; Fragrance Storm; Fragrance Storm; Magic Deflector; Magic Deflector)
+
+<br>
+
+#### May 11th
+
+##### Yehhey - 6th NA
+[deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Offerings to the Doomed; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Polymerization; Treacherous Trap Hole)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
+
+***Side Deck:***
+[deck](Offerings to the Doomed; Anti-Magic Arrows; Anti-Magic Arrows; Warrior Elimination; Different Dimension Ground)
+
+---
+
+##### [SkillShot](/top-player-council/skillshot/)
+[deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Mask Change; Mask Change; Mask Change; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization; Treacherous Trap Hole)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
+
+***Side Deck:***
+[deck](Chaos Hunter; Destiny HERO - Dreamer; Forbidden Chalice; Divine Wrath; Divine Wrath)
+
+---
+
+##### JayDizzle
+That's now: [Sylvans](/tier-list/deck-types/sylvans/), [Aliens](/tier-list/deck-types/aliens/) & [Geargias](/tier-list/deck-types/geargias/). No one trick pony here!
+
+[deck:Balance](Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Enemy Controller; Enemy Controller; Enemy Controller; Needle Ceiling; Needle Ceiling; Pulse Mines; Pulse Mines; Pulse Mines; Curse of Anubis; Tragedy)
+
+***Side Deck:***
+[deck](Book of Taiyou; Book of Taiyou; Fire Formation - Gyokkou; Wall of Disruption; Wall of Disruption)
+
+<br>
+
+#### May 10th
+
+##### [SkillShot](/top-player-council/skillshot/)
+[deck:Restart](Chaos Hunter; Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Cosmic Cyclone; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Enemy Controller; Enemy Controller; Polymerization; Treacherous Trap Hole)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
+
+***Side Deck:***
+[deck](Forbidden Chalice; Super Rush Headlong; Super Rush Headlong; Divine Wrath; Divine Wrath)
+
+---
+
+##### BlackJesus
+[deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller; Enemy Controller; Enemy Controller; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Rose Archer; Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination)
+
+---
+
+##### Yehhey - 6th NA
+[deck:Restart](Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Baby Tiger; Forbidden Chalice; Enemy Controller; Enemy Controller; Enemy Controller; Divine Wrath; Xing Zhen Hu; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Cosmic Cyclone; Divine Wrath; Magic Deflector; Magic Deflector; Different Dimension Ground)
+
+---
+
+##### Eugen Heidt
+[deck:Restart](Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Sphere Kuriboh; Sphere Kuriboh; Sphere Kuriboh; Cosmic Cyclone; Cosmic Cyclone)
+
+<br>
+
+#### May 9th
+
+##### Serenity
+A thank you to the [Top Player Council](/top-player-council/) for [making a totally inaccurate tier list](/tier-list/updates/may-07-2018/) that brainwashed people into playing [Amazoness](/tier-list/deck-types/amazoness/) and bench [Spellbooks](/tier-list/deck-types/spellbooks/) so [Sylvans](/tier-list/deck-types/sylvans/) can just shit on everyone.
+
+[deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller; Enemy Controller; Enemy Controller; Treacherous Trap Hole)
+
+***Side Deck:***
+[deck](Last Day of Witch; Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination)
+
+---
+
+##### Eugen Heidt
+[deck:Restart](Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Cosmic Cyclone; Cosmic Cyclone; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice)
+
+---
+
+##### Eugen Heidt
+[deck:Restart](Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Sage; Amazoness Baby Tiger; Amazoness Baby Tiger; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Wall of Disruption; Wall of Disruption; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught; Amazoness Onslaught)
+
+***Side Deck:***
+[deck](Cosmic Cyclone; Cosmic Cyclone; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice)
+
+---
+
+##### [Cpt. Insano](/authors/insano/)
+Standard [REZ](/tier-list/deck-types/red-eyes-zombies/) Deck - I'll take prize in tickets please!
+
+[deck:Duel, standby!](Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Into the Void; Into the Void; Into the Void; Back-Up Rider; Back-Up Rider; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Hey, Trunade!; Fire Formation - Gyokkou)
+[deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
+
+***Side Deck:***
+[deck](Fire Formation - Gyokkou; Burning Land; Burning Land; Mirror Wall; Mirror Wall)
+
+---
+
+##### JayDizzle
+Representing the Aliens.
+
+[deck:Restart](Alien Overlord; Alien Overlord; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Alien Kid; Cosmic Cyclone; Cosmic Cyclone; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Divine Wrath; Divine Wrath; Wall of Disruption; Wall of Disruption)
+
+***Side Deck:***
+[deck](Forbidden Chalice; Forbidden Chalice; Forbidden Chalice; Super Rush Headlong; Super Rush Headlong)
+
+---
+
+##### negão do zap
+BRAZIL!
+
+[deck:Restart](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Gravity Lash; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Treacherous Trap Hole; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth)
+
+***Side Deck:***
+[deck](Zombie World; DNA Surgery; Different Dimension Ground; Different Dimension Ground; Different Dimension Ground)
 
 <br>
 
