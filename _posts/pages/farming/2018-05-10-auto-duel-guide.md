@@ -14,7 +14,7 @@ hide: true
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated May 10, 2018 
+#### Updated May 14, 2018 
 ##### Sample Decks Added
 
 ### Overview
