@@ -11,7 +11,7 @@ comments: true
 description: The Meta Championship Series 8 tournament report, check the prize winners and their Decks here.
 keywords: mcs, mcs 8, meta championship, meta championship series, meta championship 8, meta championship series 8, mcs decks, mcs 8 decks
 permalink: /tournaments/meta-championship-series/8/report/
-pinned: true
+pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
