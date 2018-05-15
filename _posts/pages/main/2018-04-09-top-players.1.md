@@ -3,9 +3,6 @@ layout: blog
 title: Top Players11
 author: Dkayed
 image: /img/pages/top-players/tpc1.jpg
-category: page
-sub-category: main
-order: 4
 comments: false
 date: 2018-05-04 
 description: Here you'll find the top players in the Duel Links Meta community!
@@ -13,15 +10,10 @@ keywords: discord, community, chat, players, information, tournaments, friends, 
 permalink: /top-players1/
 ---
 
-
-<a href="#topladder"> 
-![Top Player Ladder](/img/pages/top-players/banner-top-player-ladder.png)
-</a>
-
 <hr style="border-color: #B5B5B5;">
 
 <div class="section">
-    <h3 class="text-center">WHAT IS THE DUEL LINKS META DISCORD?</h3>
+    <h3 class="text-center">DUEL LINKS META DISCORD</h3>
     <hr style="width: 100px; border-color: #D8D8D8; margin-bottom: 8px;
     margin-top: 8px;">
     <hr style="width: 200px; border-color: #D8D8D8; margin-bottom: 8px;
@@ -30,15 +22,10 @@ permalink: /top-players1/
     margin-top: 8px;">
     </div> 
 
-<br>
-
 #### A Top Player Community    
-The Duel Links Meta Discord is home to the best players of the Duel Links community.
-
-#### About Dkayed - The Owner of Duel Links Meta
-* 1st Place, KC Cup, Global, November 2017
-* 1st Place, World Championship Qualifier, North America, August 2017
-* 2nd Place, KC Cup, North America, March 2017
+* Access to Monthly Championships, Weekly Tournaments, and Daily Cash Duels
+* Top Player Discussions of the best decks and latest changes to Duel Links
+* New Player help and Coaching from the best players in the game
 
 <hr style="border-color: #B5B5B5;">
 
@@ -52,13 +39,11 @@ The Duel Links Meta Discord is home to the best players of the Duel Links commun
     margin-top: 8px;">
 </div>
 
-<br>
-
-1. Subscribe through [Twitch](https://twitch.tv/duellinksmeta/subscribe) then connect your Twitch and Discord for an automatic invite.
-
-2. Subscribe through PayPal then [click here](https://discord.gg/duellinksmeta) to join the invite Discord sever and PM GiaJoestar#7730 proof of your PayPal payment.
+1. Subscribe through [Twitch](https://twitch.tv/duellinksmeta/subscribe) then connect your Twitch and Discord for an automatic invite. Or [FREE SUB](https://twitch.amazon.com/prime) Free twitch prime trial gives a sub.
 
 #### [Click Here for Visual Guide on How to Connect Twitch + Discord](https://i.imgur.com/q60isMF.png) 
+
+2. Subscribe through PayPal then [click here](https://discord.gg/duellinksmeta) to join the invite Discord sever and PM GiaJoestar#7730 proof of your PayPal payment.
 
 <br>
 
