@@ -150,7 +150,7 @@ Updated 5/14/18
 |22-23|Snyffus| 18 points|
 |24|BlackGundam| 15 point|
 |25-31|Nel|14 points|
-|25-31||Taichi| 14 points|
+|25-31|Taichi| 14 points|
 |25-31|SDotAkuma| 14 points|
 |25-31|PAchou| 14 points|
 |25-31|Suguru| 14 points|
@@ -162,7 +162,7 @@ Updated 5/14/18
 |34-35|Insano| 11 points|
 |36-62|Tekumse| 10 points|
 |36-62|Jayrabian| 10 points|
-|36-62DatAngryBaboon| 10 points|
+|36-62|DatAngryBaboon| 10 points|
 |36-62|SilchasRuin| 10 points|
 |36-62|Kiwi| 10 points|
 |36-62|Alvd Freecs| 10 points|
