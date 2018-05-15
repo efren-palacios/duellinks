@@ -7,7 +7,7 @@
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },
-            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }     
+            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }     
         ] 
     },
     {
@@ -16,8 +16,7 @@
         "info": "One step away from being a part of the best Decks. Capable of winning a tournament without people being surprised. An advantage they have over the Tier 1 Decks is that everyone is more focused on building their Deck to beat a Tier 1 Deck rather than Tier 2.",
         "types":
         [              
-            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" },
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }            
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }            
         ]
     },
     {
@@ -27,15 +26,15 @@
         "types":
         [   
             { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
         ]
     },
     {
         "category": "HighPotential",
         "info": "Deck-types acknowledged by the Top Player Council with high potential for being on the Tier List but which do not have enough results to properly rate.",
         "types":
-        [ 
-            { "id": "ojama-stall",                 "display": "Ojama Stall",              "card": "Lava Golem" } 
+        [  
         ] 
     },
     {
@@ -46,6 +45,7 @@
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
+            { "id": "ojama-stall",              "display": "Ojama Stall",           "card": "Lava Golem" },
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },

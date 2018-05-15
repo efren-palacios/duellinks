@@ -6,6 +6,9 @@
     },
     "tier-changes": 
     [
+        { "type": "geargias", "from": 2, "to": 3, "date": 2018-05-14 },
+        { "type": "amazoness", "from": 1, "to": 2, "date": 2018-05-14 },
+        { "type": "spellbooks", "from": 2, "to": 1, "date": 2018-05-14 },
         { "type": "archfiends", "from": 2, "to": 3, "date": 2018-05-07 },
         { "type": "cyber-angels", "from": 3, "to": "nothing", "date": 2018-05-07 },
         { "type": "spellbooks", "from": "nothing", "to": 2, "date": 2018-05-07 },
