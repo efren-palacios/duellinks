@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Anytime Tournament Report - May"
+title: "Anytime Tournament Report"
 author: Yami Hammy
 category: tournament
 tournament: Anytime Tournament

@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-10 08:30:00 +0100
-title: "Datamined Discoveries! - May: Selection Box"
+title: "New Selection Box - Datamined Leaks"
 author: Yami Hammy
 image: /img/content/news/2018/05/datamined-discoveries/thumbnail.jpg
 category: news

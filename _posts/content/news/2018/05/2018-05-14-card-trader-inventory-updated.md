@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-14 17:30:00 +0100
-title: Card Trader Update - May
+title: Card Trader Update
 author: Yami Hammy
 image: /img/content/news/2018/05/card-trader-update/thumbnail.jpg
 category: news

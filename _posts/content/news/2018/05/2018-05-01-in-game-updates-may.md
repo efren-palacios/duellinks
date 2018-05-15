@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "In-Game Updates - May 13: Jesse Unlock"
+title: "Jesse Unlock - In-Game Updates"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news

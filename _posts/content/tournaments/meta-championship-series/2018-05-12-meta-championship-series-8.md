@@ -50,17 +50,33 @@ pinned: false
 
 ---
 
-### Top 16 Decklists (Main + Side Deck) - Prize Support: $2,230
+### Top 16 Decklists (Main + Side Deck) - Prize Support: $2,171.10
 
-#### 1st Place - Stevie
+#### 1st Place - Stevie: $868.40
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
 [deck](Last Day of Witch; Last Day of Witch; Warrior Elimination; Warrior Elimination; Needle Ceiling)
 
+I'm a former TCG player and YCS winner. I know people are both shocked and disgusted that [Sylvans](/tier-list/deck-types/sylvans/) took the MCS this weekend, but I wanted to give some people perspective into why I chose this Deck from the mind of a competitive Duel Links player. I love unconventional strategies (meme Decks) as much as everyone else, but this is the Duel Links tournament with a $2000+ prize pool and I wasn’t going to play anything I didn’t consider the best Deck.
+
+My Main Deck was incredibly standard. This is the [Sylvans](/tier-list/deck-types/sylvans/) decklist that was standardized by Billy Brake with the single copy of {Tribute to the Doomed}. I was originally running triple {Enemy Controller} instead but I found that it was better to draw 1 Tribute to the Doomed and 1 Enemy Controller in most scenarios than 2 Enemy Controller. Tribute to the Doomed was also a way to get {Rose Lover} into Graveyard without committing a Normal Summon. Because the Sylvans core takes at least 16 slots in your Deck, I believed these to be the 4 best Spell/Trap options for the metagame.
+
+People think that this Deck needs {Sylvan Komushroomo} to flip to win a game and that is simply not true. {Rose Lover} + {Sylvan Guardioak}/{Sylvan Hermitree} is just as powerful. Outside of this, a set {World Carrotweight Champion} into a Guardioak play can be just as impactful, and all these openings mean that you don’t need to restart into Komushroomo to win games.
+
+I also believe that {Grit} is the most unfair, and by default best Skill in the game right now. It wins you games you have no business winning. Because you have a ~85% chance to survive an OTK from 4000LP, you will almost always see your 5th card. This means that you will open {Sylvan Komushroomo} 50% of the time and have an 85% chance to see more cards to de-brick yourself. I believe that Sylvans is consistent enough to not need {Restart}.
+
+{Grit} also gives you a chance to use the best Side Deck cards most efficiently. Cards like {Last Day of Witch}, {Needle Ceiling} and {Warrior Elimination} become autowins after your opponent dedicates their entire hand to a gameshot. This allowed me to take games there as well.
+
+I chose to play Sylvans because after going x-2 at the last MCS and not topping I really wanted to play the most unfair Deck for this event. I played {Balance} [Gladiator Beasts](/tier-list/deck-types/gladiator-beasts/) for [MCS V](/tournaments/meta-championship-series/5/report/) and ended up losing to [Hazy Flame](/tier-list/deck-types/hazy-flame/) in top 16, played {Balance} [Aliens](/tier-list/deck-types/aliens/) in [MCS VI](/tournaments/meta-championship-series/6/report/), and {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) in [MCS VII](/tournaments/meta-championship-series/7/report/) both times going x-2 and narrowly missing top cut. Each of those tournaments I had a solid idea of what Deck I was registering days in advance. However for this MCS, I had the most trouble deciding on what Deck to take and ended up only settling the night before.
+
+For everyone thinking that the only option moving forward is to play degenerate helmet "Skillvans" to remain competitive this is not the case. As I said initially I think the Deck was in the best position for this tournament because of people over-dedicating to the 2 new Decks ([Amazoness](/tier-list/deck-types/amazoness/) and [Spellbooks](/tier-list/deck-types/spellbooks/)), and as a result it took the most top cut slots and won. However, I still think there are 2 Decks in the format that are better than it, and as people begin to dedicate slots to counter [Sylvans](/tier-list/deck-types/sylvans/) the other Decks will become better and clap Sylvans.
+
+*You can read his full write-up on [Reddit](https://www.reddit.com/r/DuelLinks/comments/8jk1op/i_won_mcs_8_with_luck_a_helmet_and_eggplants/).*
+
 ---
 
-#### ​2nd Place - Eugen Heidt
+#### ​2nd Place - Eugen Heidt: $390.78
 [deck:Restart]( Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Sage; Amazoness Baby Tiger;Amazoness Baby Tiger;Offerings to the Doomed; Offerings to the Doomed; Enemy Controller; Enemy Controller; Amazoness Willpower; Amazoness Onslaught;Amazoness Onslaught; Amazoness Onslaught;Massivemorph;Massivemorph)
 
 ***Side Deck:***
@@ -68,7 +84,7 @@ pinned: false
 
 --- 
 
-#### 3rd-4th Place - Snyffus
+#### 3rd-4th Place - Snyffus: $173.68
 [deck:Restart](The Tricky; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Reaper of Prophecy; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook Organization; Treacherous Trap Hole) 
 
 ***Side Deck:***
@@ -76,7 +92,7 @@ pinned: false
 
 ---
 
-#### 3rd-4th Place - Pawapoke 
+#### 3rd-4th Place - Pawapoke: $173.68 
 [deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -84,7 +100,7 @@ pinned: false
 
 ---
 
-#### 5th-8th Place - Billy Brake
+#### 5th-8th Place - Billy Brake: $86.84
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -92,7 +108,7 @@ pinned: false
 
 ---
 
-#### 5th-8th Place - Suguru 
+#### 5th-8th Place - Suguru: $86.84
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed;Enemy Controller; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -100,7 +116,7 @@ pinned: false
 
 ---
 
-#### 5th-8th Place - Kwrowe
+#### 5th-8th Place - Kwrowe: $86.84
 [deck:Restart](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Cosmic Cyclone;Cosmic Cyclone; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth)
 
 ***Side Deck:***
@@ -108,7 +124,7 @@ pinned: false
 
 ---
 
-#### 5th-8th Place - BrendenBBTTeamGhost
+#### 5th-8th Place - BrendenBBTTeamGhost: $86.84
 [deck:Restart](Sphere Kuriboh; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Cosmic Cyclone; Tribute to the Doomed; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -116,7 +132,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Negão Do Zap
+#### 9th-16th Place - Negão Do Zap: $27.13
 [deck:Restart](Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Fighter; Amazoness Fighter; Amazoness Heirloom ; Super Rush Headlong; Super Rush Headlong;  Enemy Controller; Enemy Controller; Treacherous Trap Hole;  Xing Zhen Hu; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught)
 
 ***Side Deck:***
@@ -124,7 +140,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Black Gundam
+#### 9th-16th Place - Black Gundam: $27.13
 [deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Monster Gate;  Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master)
 
 ***Side Deck:***
@@ -132,7 +148,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Sterben
+#### 9th-16th Place - Sterben: $27.13
 [deck:Restart](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy; Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Spellbook Library of the Crescent; Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity; Spellbook of Eternity; Spellbook of the Master; Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -140,7 +156,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Negative1 
+#### 9th-16th Place - Negative1: $27.13
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Cosmic Cyclone;Cosmic Cyclone;Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Polymerization;Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -149,7 +165,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Kayoh 
+#### 9th-16th Place - Kayoh: $27.13
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Treacherous Trap Hole;Ultimate Providence)
 
 ***Side Deck:***
@@ -157,7 +173,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - ShootMyMantlet
+#### 9th-16th Place - ShootMyMantlet: $27.13
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller;  Enemy Controller; Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***
@@ -165,7 +181,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Yehhey
+#### 9th-16th Place - Yehhey: $27.13
 [deck:Restart](Amazoness Paladin; Amazoness Princess; Amazoness Princess; Amazoness Princess; Amazoness Queen; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Swords Woman; Amazoness Baby Tiger; Amazoness Baby Tiger; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Enemy Controller;  Xing Zhen Hu; Amazoness Willpower; Amazoness Onslaught; Amazoness Onslaught;Amazoness Onslaught)
 
 ***Side Deck:***
@@ -173,7 +189,7 @@ pinned: false
 
 ---
 
-#### 9th-16th Place - Machdragon
+#### 9th-16th Place - Machdragon: $27.13
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller;  Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***

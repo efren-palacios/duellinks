@@ -211,7 +211,7 @@ Updated 5/14/18
 |82-84|Black Jesus | 7 points|
 |85-90| DeadlyScarce | 5 points|
 |85-90|Limitless95|5 points|
-|85-90Son_Luke | 5 points|
+|85-90|Son_Luke | 5 points|
 |85-90|CrossX| 5 points|
 |85-90 |Kaki | 5 points|
 |85-90|lawofdeath| 5 points|
