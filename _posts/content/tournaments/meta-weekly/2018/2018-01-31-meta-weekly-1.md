@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-01-02
 title: "Meta Weekly #1 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Weekly
 number: 1
 image: /img/logos/meta-weekly.png
-date: 2018-01-02
 comments: true
 description: The Meta Weekly 1 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 1, meta weekly 1 winners, meta weekly 1 decks, tournament

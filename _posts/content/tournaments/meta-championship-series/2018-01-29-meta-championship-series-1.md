@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2017-07-22
 title: "Meta Championship Series #1 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Championship Series
 number: 1
 image: /img/logos/mcs5report.png
-date: 2017-07-22
 comments: true
 description: The Meta Championship Series 1 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs1, mcs 1, meta championship, meta championship series, meta championship 1, meta championship series 1, mcs decks, mcs3 decks

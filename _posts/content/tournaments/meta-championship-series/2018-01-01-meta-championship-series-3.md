@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2017-12-15 01:32:00 -0600
 title: "Meta Championship Series #3 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Championship Series
 number: 3
 image: https://i.imgur.com/AJBBqGQ.png
-date: 2017-12-15 01:32:00 -0600
 comments: true
 description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs3, mcs 3, meta championship, meta championship series, meta championship 3, meta championship series 3, mcs decks, mcs3 decks

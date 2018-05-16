@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-01-29
 title: "Meta Championship Series #5 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Championship Series
 number: 5
 image: /img/logos/mcs5report.png
-date: 2018-01-29
 comments: true
 description: The Meta Championship Series 5 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 5, meta championship, meta championship series, meta championship 5, meta championship series 5, mcs decks, mcs 5 decks

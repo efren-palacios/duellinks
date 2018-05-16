@@ -1,12 +1,13 @@
 ---
 layout: blog
-title: "MLM Tri Masters #1"
+date: 2018-05-05 23:59:00 -0400
+title: "MLM Tri Masters"
 author: Jonesy9027
 category: tournament
-tournament: "MLM"
-number: 1
+sub-category: report
+tournament: MLM
+number: 2
 image: /img/content/tournaments/mlm-tri-masters/thumbnail.jpg
-date: 2018-05-05 23:59:00 -0400
 comments: true
 description: This is the report for the first ever MLM Tri Masters Tournament with a prize pool of $90, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, mlm, mlm colosseum, colosseum

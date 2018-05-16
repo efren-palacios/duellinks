@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-01-31
 title: "Meta Weekly #5 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Weekly
 number: 5
 image: /img/logos/meta-weekly.png
-date: 2018-01-31
 comments: true
 description: The Meta Weekly 5 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 5, meta weekly 5 winners, meta weekly 5 decks, tournament

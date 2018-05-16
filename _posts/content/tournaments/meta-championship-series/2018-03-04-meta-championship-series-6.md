@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2018-03-04
 title: "Meta Championship Series #6 Report"
 author: Yami Hammy; Creative; Jonesy9027
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Championship Series
 number: 6
 image: /img/logos/mcs-6-thumbnail.jpg
-date: 2018-03-04
 comments: true
 description: The Meta Championship Series 6 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 6, meta championship, meta championship series, meta championship 6, meta championship series 6, mcs decks, mcs 6 decks

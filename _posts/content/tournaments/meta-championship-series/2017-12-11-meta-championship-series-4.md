@@ -1,5 +1,6 @@
 ---
 layout: blog
+date: 2017-12-10
 title: "Meta Championship Series #4 Report"
 author: TOASTYKILLA
 category: tournament
@@ -7,7 +8,6 @@ sub-category: report
 tournament: Meta Championship Series
 number: 4
 image: /img/content/news/meta-championship-series-4-report/thumbnail.png
-date: 2017-12-10
 comments: true
 description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 2, meta championship series, meta championship series 2, meta championship series winners, meta championship series decks, tournament

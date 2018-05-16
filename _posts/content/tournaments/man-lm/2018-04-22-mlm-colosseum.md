@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: "MLM Colosseum #1"
+date: 2018-04-22 16:00:00 +0100
+title: "MLM Colosseum"
 author: Yami Hammy
 category: tournament
 sub-category: report
-tournament: MLM Colosseum
+tournament: MLM
 number: 1
 image: /img/content/tournaments/mlm-colosseum/thumbnail.jpg
-date: 2018-04-22 16:00:00 +0100
 comments: true
 description: This is the report for the first ever MLM Colosseum Tournament with a prize pool of $250, check out the top players and their decks here!
 keywords: duel links, competitive, tournament, community, mlm, mlm colosseum, colosseum
