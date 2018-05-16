@@ -156,8 +156,6 @@ These are the cards and Skills you can attain.
 
 ### Farm Decks 
 
-*We will update soon with more farm Decks, watch this space!*
-
 <a name="freeska"></a>
 
 #### Lvl: 40 Ra Farm - credit: [Freeska](/authors/freeska/)

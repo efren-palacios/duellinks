@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Jesse Unlock - In-Game Updates"
+title: "Maintenance Notice - In-Game Updates"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-14 17:00:00 +0100
+date: 2018-05-16 21:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,35 +14,23 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="130"></a>
+<a name="140"></a>
 
-### May 14th (Update 13)
+### May 16th (Update 14)
 
 <br>
 
-<a name="131"></a>
+<a name="141"></a>
 
-#### Jesse Anderson Unlock Event
-For those people who missed out on unlocking Jesse Anderson, he'll be returning in a few days with **new drops and a new Skill**! Read our [previous event article](/events/march-2018/awaken-rainbow-dragon/) for what to expect.
+#### Maintenance Notice
+There will be a maintenance tomorrow to conclude the [Syrus Truesdale event](/events/may-2018/syrus-truesdales-road-to-duel-links/) and to prepare for the [Jesse Anderson unlock event](#131), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
 
-![](/img/content/news/2018/05/in-game-updates/14-jesse.jpg) 
-
-<a name="132"></a>
-
-#### Card Trader Inventory Updated
-Check out the [Card Trader article](/news/may-2018/card-trader-inventory-updated/) with [Top Player Council](/top-player-council/) insight on the new cards!
-
-![](/img/content/news/2018/05/in-game-updates/14-card-trader.jpg) 
-
-<a name="133"></a>
-
-#### x1.5 EXP Campaign
-You'll be able to level up your characters 50% quicker for the duration of the campaign, use Duel Orbs to make Standard Duelists respawn instantly!
-
-![](/img/content/news/2018/05/in-game-updates/14-exp.jpg) 
+![](/img/content/news/2018/05/in-game-updates/16-maintenance.jpg) 
 
 ---
 
+- [May 16th (Update 14)](#140)
+    - [Maintenance Notice](#141)
 - [May 14th (Update 13)](#130)
     - [Jesse Anderson Unlock Event](#131)
     - [Card Trader Inventory Updated](#132)
@@ -83,6 +71,35 @@ You'll be able to level up your characters 50% quicker for the duration of the c
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="130"></a>
+
+### May 14th (Update 13)
+
+<br>
+
+<a name="131"></a>
+
+#### Jesse Anderson Unlock Event
+For those people who missed out on unlocking Jesse Anderson, he'll be returning in a few days with **new drops and a new Skill**! Read our [previous event article](/events/march-2018/awaken-rainbow-dragon/) for what to expect.
+
+![](/img/content/news/2018/05/in-game-updates/14-jesse.jpg) 
+
+<a name="132"></a>
+
+#### Card Trader Inventory Updated
+Check out the [Card Trader article](/news/may-2018/card-trader-inventory-updated/) with [Top Player Council](/top-player-council/) insight on the new cards!
+
+![](/img/content/news/2018/05/in-game-updates/14-card-trader.jpg) 
+
+<a name="133"></a>
+
+#### x1.5 EXP Campaign
+You'll be able to level up your characters 50% quicker for the duration of the campaign, use Duel Orbs to make Standard Duelists respawn instantly!
+
+![](/img/content/news/2018/05/in-game-updates/14-exp.jpg) 
 
 ---
 
