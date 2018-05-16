@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://dlmbeta.netlify.com/sitemap.xml
+Sitemap: https://alphadkayed.netlify.com/sitemap.xml

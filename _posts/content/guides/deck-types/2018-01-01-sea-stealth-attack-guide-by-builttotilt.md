@@ -46,7 +46,7 @@ permalink: /guides/deck-types/sea-stealth-attack-guide-by-builttotilt/
 
 Hi there! I go by the name of Built2Tilt and I've been playing Duel Links for just over a year now. I became active in the competitive community about 3 months ago and have written several Duel Links articles for [Reddit](https://www.reddit.com/user/BuilttoTilt) and Duel Links Meta.
    
-Since my top 8 performance in [MCS VI](/tournaments/meta-championship-series/6/report/) I've become a Deck Expert for Sea Stealth Attack and a member of the [Top Player Council](https://dlmbeta.netlify.com/top-player-council/). I have a history in the TCG, placing top 16 in UK Nationals 2016 and topping several popular community events such as CCG.
+Since my top 8 performance in [MCS VI](/tournaments/meta-championship-series/6/report/) I've become a Deck Expert for Sea Stealth Attack and a member of the [Top Player Council](/top-player-council/). I have a history in the TCG, placing top 16 in UK Nationals 2016 and topping several popular community events such as CCG.
 
 ### Overview
 
