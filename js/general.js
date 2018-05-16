@@ -143,4 +143,3 @@ function searchhover(element) {
 function searchunhover(element) {
   element.setAttribute("src", "/img/assets/search_icon.png");
 }
-//cursor to inputfield | searchbar
