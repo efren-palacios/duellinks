@@ -1,12 +1,10 @@
 @import "variables.scss";
 
-.fa-bars
-{
+.fa-bars {
   color: $text-default;
 }
 
-.navbar
-{
+.navbar {
   padding: 4px;
   border: 1px solid transparent;
   box-shadow: 0 0 10px 0 $black;
@@ -16,8 +14,7 @@
   top: 0;
   z-index: 99;
 
-  .navbar-toggler
-  {
+  .navbar-toggler {
     cursor: pointer;
     min-height: 48px;
     position: absolute;
@@ -26,42 +23,35 @@
     outline: 0;
   }
 
-  .navbar-brand 
-  {
-    margin-right: 1.5rem;
+  .navbar-brand {
+    margin-right: 1rem;
 
-    > img
-    {
+    > img {
       height: 38px;
     }
   }
 
-  .navbar-nav
-  {
+  .navbar-nav {
     text-align: center;
-    margin-top: 12px;   
+    margin-top: 12px;
 
-    .nav-item .nav-link
-    {
+    .nav-item .nav-link {
       font-family: "Alegreya Sans";
       font-weight: 500;
     }
   }
 
-  .container
-  {
+  .container {
     margin-top: 0px;
     margin-bottom: 0px;
 
-    .navbar-items
-    {
+    .navbar-items {
       display: flex;
     }
   }
 }
 
-li.nav-item > a.nav-link
-{
+li.nav-item > a.nav-link {
   color: $text-default;
   text-transform: uppercase;
   font-size: 18px;
@@ -70,44 +60,36 @@ li.nav-item > a.nav-link
   padding-right: 0.8rem !important;
 }
 
-li.nav-item > a.nav-link:hover
-{
-  color: #78A9C1;
+li.nav-item > a.nav-link:hover {
+  color: #78a9c1;
 }
 
 li.nav-item > a.nav-link.active,
-li.nav-item > a.nav-link:focus
-{
+li.nav-item > a.nav-link:focus {
   color: $active;
 }
 
-.pagination
-{
+.pagination {
   margin-right: 14px;
   display: inline-flex;
 
-  &:last-child
-  {
+  &:last-child {
     margin-right: 0px;
   }
 
-  .page-item
-  {
+  .page-item {
     display: inline;
 
-    &.active .page-link,
-    {
-      background-color: #2F7D9C;
+    &.active .page-link {
+      background-color: #2f7d9c;
       border-color: rgba(255, 255, 255, 0.08);
 
-      &:hover
-      {
-        background-color: #2F7D9C;
+      &:hover {
+        background-color: #2f7d9c;
       }
     }
 
-    .page-link
-    {
+    .page-link {
       cursor: pointer;
       display: flex;
       justify-content: center;
@@ -118,78 +100,78 @@ li.nav-item > a.nav-link:focus
       background-color: rgba(36, 59, 85, 0.4);
       border-color: rgba(255, 255, 255, 0.08);
 
-      &:hover
-      {
+      &:hover {
         background: rgba(255, 255, 255, 0.06);
         color: $text-muted;
       }
 
-      .fa
-      {
+      .fa {
         font-size: 15px;
       }
     }
   }
 
-  &.previous { float: left; }
-  &.next { float: right; }
+  &.previous {
+    float: left;
+  }
+  &.next {
+    float: right;
+  }
 
   &.previous .page-item .page-link,
-  &.next .page-item .page-link
-  {
+  &.next .page-item .page-link {
     padding-top: 10px;
     padding-bottom: 10px;
   }
 }
 
-
-
 //menubutton
-@keyframes delayed-fade
-{
-  55%  { opacity: 1; }
-  100% { opacity: 0; }
+@keyframes delayed-fade {
+  55% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
 }
 
-.containernavbutton
-{
-    display: inline-block;
-    cursor: pointer;
+.containernavbutton {
+  display: inline-block;
+  cursor: pointer;
 }
 
-.bar1, .bar2, .bar3
-{
-    width: 26px;
-    height: 4px;
-    background-color:#D8D8D8;
-    margin: 5px 0;
-    transition: 0.3s;
+.bar1,
+.bar2,
+.bar3 {
+  width: 26px;
+  height: 4px;
+  background-color: #d8d8d8;
+  margin: 5px 0;
+  transition: 0.3s;
 }
 
-.change .bar1
-{
-    -webkit-transform: translate(0px, 9px) rotate(-45deg);
-    transform: translate(0px, 9px) rotate(-45deg);
+.change .bar1 {
+  -webkit-transform: translate(0px, 9px) rotate(-45deg);
+  transform: translate(0px, 9px) rotate(-45deg);
 }
 
-.change .bar2 {transform: rotate(45deg)}
-
-.change .bar3
-{
-    -webkit-transform: translate(0px, -11px) rotate(-45deg);
-    transform: translate(0px, -11px) rotate(-45deg);
-    animation: delayed-fade 0.3s forwards;
+.change .bar2 {
+  transform: rotate(45deg);
 }
 
-.nav-link{
+.change .bar3 {
+  -webkit-transform: translate(0px, -11px) rotate(-45deg);
+  transform: translate(0px, -11px) rotate(-45deg);
+  animation: delayed-fade 0.3s forwards;
+}
+
+.nav-link {
   padding-top: 0 !important;
 }
 
-
 //adjust textsize/spacing for mobile
 
-@media only screen and (max-width: 975px)
-{
+@media only screen and (max-width: 1003px) {
   .navbar-brand {
     margin-right: 0.8rem !important;
   }
@@ -200,19 +182,20 @@ li.nav-item > a.nav-link:focus
   }
 }
 
-@media only screen and (max-width: 907px)
-{
+@media only screen and (max-width: 943px) {
   .navbar-brand {
     margin-right: 0.5rem !important;
   }
 
   li.nav-item > a.nav-link {
     font-size: 16px;
-  }  
+  }
+  #search_toggle {
+    width: 34px;
+  }
 }
 
-@media only screen and (max-width: 830px)
-{
+@media only screen and (max-width: 866px) {
   li.nav-item > a.nav-link {
     padding-left: 0.3rem !important;
     padding-right: 0.3rem !important;
@@ -220,76 +203,137 @@ li.nav-item > a.nav-link:focus
 
   li.nav-item > a.nav-link {
     font-size: 15px;
-  }  
+  }
 }
 
-@media only screen and (min-width: 805px)
-{
+@media only screen and (min-width: 805px) {
   .navbar-collapse {
     flex-basis: inherit;
   }
 }
 
-@media only screen and (max-width: 725px){
+@media only screen and (max-width: 791px) {
   li.nav-item > a.nav-link {
     font-size: 18px;
   }
 
-  .navbar .navbar-brand{
+  .navbar .navbar-brand {
     display: table;
     margin-right: auto !important;
     margin-left: auto !important;
   }
-  
-  .navbar-nav{
+
+  .navbar-nav {
     margin-top: 10px !important;
   }
+  .navbar .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
-@media (min-width: 726px){
-  .navbar-nav{
+@media (min-width: 792px) {
+  .navbar-nav {
     flex-direction: row;
   }
-  .containernavbutton{
+  .containernavbutton {
     display: none;
   }
-  .collapse{
-    display: flex!important;
+  .collapse {
+    display: flex !important;
   }
 }
 
-.navcontent{
-  margin:0 auto;
-  @media (min-width: 726px){
+.navcontent {
+  margin: 0 auto;
+  @media (min-width: 792px) {
     display: inline-flex;
   }
 }
 
-@media only screen and (max-width: 470px)
-{
-  .pagination
-  {
+@media only screen and (max-width: 470px) {
+  .pagination {
     margin-left: 0;
     margin-right: 0;
 
-    &.pages
-    {
+    &.pages {
       width: 100%;
       justify-content: center;
     }
 
-    &.previous
-    {
+    &.previous {
       width: 50%;
       justify-content: flex-end;
       padding-right: 8px;
     }
 
-    &.next
-    {
+    &.next {
       float: left;
       width: 50%;
       padding-left: 8px;
     }
   }
+}
+
+//searchbar
+#search_toggle {
+  width: 36px;
+  position: relative;
+  top: -8px;
+  padding-bottom: 0px;
+  margin-bottom: -20px;
+  cursor: pointer;
+}
+
+//Display searchbutton near logo on mobile
+@media only screen and (max-width: 767px) {
+  .mobileSearchButton {
+    display: flex;
+    width: 42px !important;
+    position: absolute !important;
+    top: 7px !important;
+    right: 8px;
+    padding-bottom: 0;
+    margin-bottom: -20px;
+  }
+  .desktopSearchButton {
+    display: none;
+  }
+  .navbar-toggler {
+    display: unset !important;
+  }
+}
+
+
+@media only screen and (min-width: 768px) {
+  .mobileSearchButton {
+    display: none;
+  }
+  .desktopSearchButton {
+    display: flex;
+  }
+}
+//--------
+
+#nav_searchbar {
+  margin-bottom: 1rem;
+}
+#results-container {
+  .list-group-item {
+    //background-color: white;
+    color: $text-default;
+  }
+  .list-group-item-action:hover {
+    background-color: $active;
+  }
+}
+.modal-content{
+  background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
+  background-color: #001427;
+}
+.modal-title{
+  color: $text-default;
+}
+.modal-header{
+  border-bottom: 1px solid $text-default;
 }

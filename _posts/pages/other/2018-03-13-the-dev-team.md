@@ -16,7 +16,7 @@ permalink: /the-dev-team/
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 devprofile">
               {% assign profileData = profile.name | profileData %}
               <a href="{{ profileData.url }}">
-                <img src="{{ profile.image }}" class="img-responsive">
+                <img src="{{ profile.image }}" class="img-responsive devProfileImg">
               </a>
               <h1>{{ profile.name }}</h1>
             </div>

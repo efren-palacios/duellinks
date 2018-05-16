@@ -120,6 +120,8 @@ The Meta Championship Series is Duel Link's largest and most competitive tournam
 
 ---
 
+![](/img/logos/generic-tournament.jpg)
+
 ## Anytime Tournaments
 
 ### About the Anytime Tournaments
