@@ -20,3 +20,4 @@ loadSize: 10
 season-end: 0001-01-01T01:00:00.000
 ga-url: dlmbeta.netlify.com
 ga-code: UA-93155050-2
+incremental: true
