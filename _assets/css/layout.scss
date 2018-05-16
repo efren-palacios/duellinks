@@ -272,9 +272,9 @@ h3.title {
     text-shadow: 0 0 30px rgba(0, 57, 84, 0.4);
     height: 100%;
     z-index: 1;
-    
+
     //safari fix
-    display: -webkit-inline-box;
+    display: -webkit-box;
 
     flex-direction: column;
     justify-content: center;
