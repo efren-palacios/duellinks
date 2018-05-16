@@ -130,6 +130,7 @@ if (typeof antiabd === 'undefined')
         window.location = "/advertisements-info/";
     }
 }
+
 //remove disqus ads script
 (function($){
     setInterval(() => {
@@ -141,3 +142,19 @@ if (typeof antiabd === 'undefined')
         });
     }, 300);
 })(jQuery);
+
+//searchbar
+var sjs = SimpleJekyllSearch({
+    searchInput: document.getElementById('nav_searchbar'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/data/search.json',
+    searchResultTemplate: '<a href="{url}" title="{description}" class="list-group-item list-group-item-action">{title}</a>'
+})
+//iconchange on hover
+function searchhover(element) {
+    element.setAttribute('src', '/img/assets/search_icon_hover.png');
+  }
+  
+  function searchunhover(element) {
+    element.setAttribute('src', '/img/assets/search_icon.png');
+  }

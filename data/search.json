@@ -1,0 +1,18 @@
+---
+layout: null
+---
+{% assign articles = site.posts    | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+[
+  {% for post in articles %}
+    {% unless item.hidden == "true" %}
+      {
+        "title"    : "{{ post.title | escape }}",
+        "category" : "{{ post.category }}",
+        "tags"     : "{{ post.tags | join: ', ' }}",
+        "url"      : "{{ site.baseurl }}{{ post.url }}",
+        "date"     : "{{ post.date }}",
+        "description":"{{post.description}}"
+      } {% unless forloop.last %},{% endunless %}
+    {% endunless %}
+  {% endfor %}
+]
