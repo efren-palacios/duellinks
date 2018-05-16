@@ -211,8 +211,17 @@ li.nav-item > a.nav-link:focus {
     flex-basis: inherit;
   }
 }
-
 @media only screen and (max-width: 791px) {
+  li.nav-item > a.nav-link {
+    font-size: 15px;
+  }
+  .navbar .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media only screen and (max-width: 767px) {
   li.nav-item > a.nav-link {
     font-size: 18px;
   }
@@ -232,7 +241,7 @@ li.nav-item > a.nav-link:focus {
   }
 }
 
-@media (min-width: 792px) {
+@media (min-width: 768px) {
   .navbar-nav {
     flex-direction: row;
   }
@@ -246,7 +255,7 @@ li.nav-item > a.nav-link:focus {
 
 .navcontent {
   margin: 0 auto;
-  @media (min-width: 792px) {
+  @media (min-width: 768px) {
     display: inline-flex;
   }
 }
@@ -304,7 +313,6 @@ li.nav-item > a.nav-link:focus {
   }
 }
 
-
 @media only screen and (min-width: 768px) {
   .mobileSearchButton {
     display: none;
@@ -327,13 +335,13 @@ li.nav-item > a.nav-link:focus {
     background-color: $active;
   }
 }
-.modal-content{
+.modal-content {
   background-image: url(https://www.konami.com/yugioh/duel_links/images/common/bk_layer_a.png);
   background-color: #001427;
 }
-.modal-title{
+.modal-title {
   color: $text-default;
 }
-.modal-header{
+.modal-header {
   border-bottom: 1px solid $text-default;
 }
