@@ -75,12 +75,12 @@ hidden: true
 				<div class="modal-dialog modal-dialog-centered" role="document">
 					<div class="modal-content">
 						<div class="modal-header">
-							<h5 class="modal-title black-text" id="confirmSaveModalLongTitle">Are you sure?</h5>
+							<h5 class="modal-title" id="confirmSaveModalLongTitle">Are you sure?</h5>
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								<span aria-hidden="true">&times;</span>
 							</button>
 						</div>
-						<div class="modal-body black-text">
+						<div class="modal-body">
 							You really want to show the websitelink? <img src="https://static-cdn.jtvnw.net/emoticons/v1/730681/1.0">
 						</div>
 						<div class="modal-footer">
