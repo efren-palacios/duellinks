@@ -159,7 +159,7 @@ Updated 5/14/18
 |32-33|Super Vegito| 12 points|
 |32-33|Luke Tyler| 12 points|
 |34-35|Neg do Zap| 11 points|
-|34-35|Insano| 11 points|
+|34-35|Cpt. Insano| 11 points|
 |36-62|Tekumse| 10 points|
 |36-62|Jayrabian| 10 points|
 |36-62|DatAngryBaboon| 10 points|
