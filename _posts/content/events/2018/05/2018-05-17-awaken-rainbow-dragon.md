@@ -249,7 +249,7 @@ You should have at least two monsters on the field.
 <a name="freeska2"></a>
 
 #### Lvl: 40 Hazy Farm - credit: [Freeska](/authors/freeska/)
-This will farm deck only gets ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use if you don't have {The Winged Dragon of Ra}.
+This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use it if you don't have {The Winged Dragon of Ra}.
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Dynatherium; Hazy Flame Peryton; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Mausoleum of the Emperor; Mausoleum of the Emperor; Mausoleum of the Emperor; Fairy Meteor Crush; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
 
