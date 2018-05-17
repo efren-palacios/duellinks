@@ -38,7 +38,7 @@ The decks main focus is board control which is achieved by consistently being ab
 These cards are a must in any Spellbooks Deck.   
 
 #### Core Cards   
-[deck](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy;Spellbook of Secrets;Spellbook of Secrets;Spellbook of Secrets;Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate;Spellbook of Power;Spellbook of Eternity;Spellbook of Eternity;Spellbook of the Master; Spellbook of the Master;Treacherous Trap Hole;Cursed Seal of the Forbidden Spell)
+[deck](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy; Spellbook Magician of Prophecy;Spellbook of Secrets;Spellbook of Secrets;Spellbook of Secrets;Spellbook Library of the Crescent; Spellbook of Fate; Spellbook of Fate; Spellbook of Fate;Spellbook of Power;Spellbook of Eternity;Spellbook of Eternity;Spellbook of the Master; Spellbook of the Master;Treacherous Trap Hole)
 
 ---
 
@@ -46,7 +46,7 @@ These cards are a must in any Spellbooks Deck.
 
 These cards are optional and will change depending on your build preference.  
 
-[deck](Dark Magician of Chaos;The Tricky;Sphere Kuriboh;Blizzard Princess;Chow Len the Prophet;Wheel of Prophecy;Strength of Prophecy;Tribute to the Doomed;Hey, Trunade!;Monster Gate;Enemy Controller;Spellbook Organization;Ultimate Providence)  
+[deck](Dark Magician of Chaos;The Tricky;Sphere Kuriboh;Blizzard Princess;Chow Len the Prophet;Wheel of Prophecy;Strength of Prophecy;Tribute to the Doomed;Hey, Trunade!;Monster Gate;Enemy Controller;Spellbook Organization;Ultimate Providence;Cursed Seal of the Forbidden Spell)  
 
 ---
 
