@@ -2,7 +2,7 @@
 layout: blog
 title: Farming & Events
 author: Dkayed
-image: /img/pages/events/thumbnail-syrus.jpg
+image: /img/pages/events/thumbnail-jesse-rainbow.jpg
 category: page
 sub-category: main
 order: 5
