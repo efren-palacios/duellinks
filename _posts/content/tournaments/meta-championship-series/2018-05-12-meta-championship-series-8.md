@@ -92,6 +92,21 @@ Also shoutout to my friends, bigdadi, mood, cam, jay, and my boys previous MCS w
 ***Side Deck:***
 [deck](Sphere Kuriboh; Sphere Kuriboh; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone)
 
+The reason I chose this deck is because with the introduction of Amazoness, Heroes became worse as depending on their build that Match-Up can be really hard (it’s not nearly as bad as people make it out to be thogh). With the right build Heroes can still dominate the meta and they were my 2nd choice for this event.  
+
+Going into the event I thought that [Amazoness](/tier-list/deck-types/amazoness/) would be the most represented deck and that Match-Up is very easy for you as Prophecy almost always wins you the game. They can’t recover from the massive card advantage you generate and the huge tempo swing (tbh one resolved Reaper is an auto win against almost everything which was another reason for me to play this deck). I know I lost to them in top 4 but in general you are highly favoured, didn't draw a way to resolve Reaper and then it becomes harder and harder. You still have win options but if they can swarm you don't win with the Fate recycle strategy which is what happened twice.  
+
+Because of Amazoness I also thought [Sylvans](/tier-list/deck-types/sylvans/) would be more popular, they have a really good Match-Up against them too and that Match-Up is super free (I think this was the most represented deck which helped a lot). They can pretty much only win with their side and you have {Cosmic Cyclone}s for that.  
+
+I expected Heroes to still be popular because Sylvans are a good Match-Up for them and Amazoness isn’t bad if you deck build against it. Normally against you it’s pretty even but they need to know exactly how to play and if they don’t you have an advantage. Offerings can be a cuck but I didn't think everyone would have it and the people that did wouldn’t necessarily main it because of the lack of testing with the card. Even if they have it and open with it, it's not an auto lose, you have extenders, Grass being the best one.
+As you see Spellbooks have a lot of good Match-Ups in this meta and most of them are extremely in your favour so it was the best deck for this event.  
+
+Something that Stevie, the winner of this MCS pointed out in his tournament report was also a slight part of the reason I chose this deck: the theory that you need to get lucky to win (while I didn’t win, I got far). Here is what Patrick Hoban, one of the greatest TCG players said about this: “[...] to be honest you're not going to top, let alone win, an event without getting lucky a couple times along the way. I think it's good to play cards that will give you that chance to get lucky.”   
+
+I think Spellbooks were favoured in top cut because they were the most powerful deck. Its completely unfair when it goes off you win against almost everything. It just has these auto wins which is always good to have for a deck. I assume that’s part of the reason why it did so well in top cut ending up with 2 top 4 spots.  
+
+*You can read his full write-up [here](https://docs.google.com/document/d/1Y72oMKYDKT7UITADJW9GQTg7E6b_zN99DL3_528VadI/edit?usp=sharing).  
+
 ---
 
 #### 3rd-4th Place - Pawapoke: $173.68 

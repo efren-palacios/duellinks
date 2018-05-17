@@ -15,8 +15,8 @@ permalink: /guides/deck-types/aliens-guide-by-celestial/
 
 {% include heading.html title=page.title author=page.author %}
 
-#### Updated April 25, 2018 
-##### Core Cards Updated
+#### Updated May 16, 2018 
+##### Matchups Updated
 
 ## Introduction 
 Aliens are an archetype that has been introduced through the Main Box Abyss Encounters.   
@@ -74,6 +74,11 @@ Synergizes very well with the deck. Recombination plays combined with Rebirth gi
 ---
 
 ## Meta Matchups
+
+#### **Amazoness:**
+In the Amazoness matchup your main focus should be Telepath and to remove their backrow. {Amazoness Onslaught} is a very powerful card and has a couple troublesome effects such as banishing your monsters, extra special summon from hand and grave. Luckily, we have ways to combat that like Alien Kid to put A-Counters on thier monster for Telepath to use or simply for you to use as beatdown since they can have trouble with low points. Removing backrow is the main focus and having removal for {Amazoness Queen} since it allows their monsters to not be destroyed by battle. Techs like Mysterious Triangle and  Super Rush take care of that and even ECon take does too for game. The banishing can be tricky but mostly youll be using the monster you sent to grave by Recombination to activate Powerful Rebirth for that extra swarm. All in all its a easy match up just remove thier resources and beatdown their life points.  
+ 
+* **Key Cards:** Alien Telepath for backrow removal. Spot removal such as ECon, {Mysterious Triangle} or {Super Rush Headlong} for {Amazoness Queen}.  
 
 #### **Gladiator Beasts:**
  Gladiators are a hard opponent since your A-counters will go away when they shuffle into the deck. The key is monster removal and control, so Brainwashing Beam and Mysterious Triangle are huge since they run few monsters and allow you to deal with them before their effects activate. Don't be afraid to suicide your Alien Warrior if you need the counters to activate cards that turn. If not, remember they will tag out at the end of the battle phase and remove any counters. Alien Kid is a good tech card since it immediately places A-counters on monsters when they are special summoned, giving you the opportunity to start your turn with counters in play. This opens up the ability to Mysterious Triangle, Brainwashing Beam or use Alien Telepath to pop back row.
