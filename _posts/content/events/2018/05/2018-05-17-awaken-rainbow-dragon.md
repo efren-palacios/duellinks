@@ -28,6 +28,8 @@ ended: false
     - [Lvl: 40 Ra Farm](#jadehex)
     - [Lvl: 40 Ra-Sylvans Farm](#lvmatterhorn)
     - [Lvl: 40 Ra-Barrier Farm](#freeska)
+    - [Lvl: 40 Ra-Aromage Farm](#ezemc)
+    - [Lvl: 40 Hazy Flame Farm](#freeska2)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
 <!-- - [Jesse Anderson Lvl: 50 Decklist](#50) -->
 - **[Duel Awards](#awards)**
@@ -37,7 +39,7 @@ ended: false
 [slider](/img/content/events/2018/05/awaken-rainbow-dragon/slider.jpg)
 
 ### Event Information 
-- Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards, obtain his new skill and unlock him as a duelist!
+- Jesse Anderson has arrived - get your game on! Collect the fabled Crystal Beast cards, obtain his new skill ({Transcendent Crystals}) and unlock him as a duelist!
 - This event lasts from May 17th to May 24th.
 - Duel against Legendary/Standard Duelists and Ranked Duels to collect "Crystal Fruits" which you use to duel Jesse at the gate.
 - You will attain a specific [Duel Assessment](/farming/duel-assessment-score/) multipler from duels: 
@@ -218,6 +220,56 @@ Make sure you have three monsters on the field before the last turn.
 
 ##### Notes
 - Any variation of the "Ra deck" may work, for example, {Kiseitai} + {Massivemorph}, {Golden Ladybug} etc. 
+
+---
+
+<a name="ezemc"></a>
+
+#### Lvl: 40 Ra-Aromage Farm - credit: EzeMc
+[deck:Restart](The Winged Dragon of Ra; Aromage Jasmine; Aromage Jasmine; Aromage Jasmine; Aromage Rosemary; Aromage Rosemary; Aromage Rosemary; Anti-Magic Arrows; Arrivalrivals; Aroma Garden; Aroma Garden; Aroma Garden; Draining Shield; Draining Shield; Draining Shield; Wall of Disruption; Wall of Disruption; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua)  
+
+##### Strategy
+- Keep on drawing cards and gaining LP with {Aromage Jasmine} + {Aroma Garden} combo.
+- Summon {Aromage Rosemary} and destroy Jesse's monsters each turn.
+- Be aware that the effects of Aromage Jasmine and Aromage Rosemary are compulsory. 
+
+##### Last Turn
+You should have at least two monsters on the field.
+1. If you don't have a third monster on the field, summon one.
+2. If Jesse has a monster, attack and destroy it with {Aromage Rosemary}.
+3. Activate {Arrivalrivals} to summon {The Winged Dragon of Ra} **then chain** {Anti-Magic Arrows}. 
+4. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
+5. Attack Jesse's life points directly!
+
+##### Replacements
+- {Draining Shield}, {Wall of Disruption}, {Curse of Anubis} and {Windstorm of Etaqua} are all just for protection and can be replaced.
+
+---
+
+<a name="freeska2"></a>
+
+#### Lvl: 40 Hazy Farm - credit: [Freeska](/authors/freeska/)
+This will farm deck only gets ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use if you don't have {The Winged Dragon of Ra}.
+
+[deck:Aroma Strategy](Dynatherium; Dynatherium; Dynatherium; Hazy Flame Peryton; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Mausoleum of the Emperor; Mausoleum of the Emperor; Mausoleum of the Emperor; Fairy Meteor Crush; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
+
+##### Strategy
+- Keep on destroying Jesse's monsters each turn.
+- Use {Mausoleum of the Emperor} to get ["Low LP" bonus](/farming/duel-assessment-score/).
+- Tribute summon a monster to get 300 more Duel Assessment points.
+- When you activate {Swamp Mirrorer} declare Beast/Beast-Warrior and any Attribute.
+- Boost your Hazy Flame monster to 10,000+ ATK using {Beast Rising}.
+- Be aware that {Hazy Flame Peryton} doesn't work with {Beast Rising}.
+
+##### Last Turn 
+- Summon a monster by the effect of {Hazy Flame Sphynx} or activate {Swamp Mirrorer}.
+- If Jesse has a monster on the field, attack it with you non-boosted monster to clear the field. (If you have a piercing damage you can attack the monster with your boosted monster.) 
+- Then attack Jesse's life points directly!
+
+##### Replacements
+- {Dynatherium} is optimal but it can be replaced for {Earth Armor Ninja}, or {Flame Tiger}.
+- {Mausoleum of the Emperor} can be replaced with {Soul Exchange} if you have it.
+- Fairy Meteor Crush can be switched for any card that does piercing damage ({Big Bang Shot}, {H - Heated Heart}) or changes battle position ({Stop Defense}, {A/D Changer}) or even {Shooting Star Bow - Ceal} to attack directly.
 
 ---
 

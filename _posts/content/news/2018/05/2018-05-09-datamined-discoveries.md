@@ -3,7 +3,7 @@ layout: blog
 date: 2018-05-17 17:00:00 +0100
 title: "New Main Box - Datamined Leaks"
 author: Yami Hammy
-image: /img/content/news/2018/05/datamined-discoveries/thumbnail.jpg
+image: /img/content/news/2018/05/datamined-discoveries/17-thumbnail.jpg
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!

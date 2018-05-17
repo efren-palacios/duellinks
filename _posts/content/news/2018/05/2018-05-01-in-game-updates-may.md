@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Maintenance Notice - In-Game Updates"
+title: "Jesse Event - In-Game Updates"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-16 21:00:00 +0100
+date: 2018-05-17 15:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,21 +14,31 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="140"></a>
+<a name="150"></a>
 
-### May 16th (Update 14)
+### May 17th (Update 15)
 
 <br>
 
-<a name="141"></a>
+<a name="151"></a>
 
-#### Maintenance Notice
-There will be a maintenance tomorrow to conclude the [Syrus Truesdale event](/events/may-2018/syrus-truesdales-road-to-duel-links/) and to prepare for the [Jesse Anderson unlock event](#131), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
+#### Jesse Unlock Event
+The Jesse Anderson unlock event has returned bringing new cards and a skill: {Transcendent Crystals}. Check out the [event article](/events/may-2018/awaken-rainbow-dragon/) for the best farm decks and tips!
 
-![](/img/content/news/2018/05/in-game-updates/16-maintenance.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/17-jesse.jpg) 
+
+<a name="152"></a>
+
+#### 72 Hours Limited Sale
+To celebrate 70,000,000+ downloads there's a sale and **500 Gems**!
+
+[slider](/img/content/news/2018/05/in-game-updates/17-sale.jpg) 
 
 ---
 
+- [May 17th (Update 15)](#150)
+    - [Jesse Unlock Event](#151)
+    - [72 Hours Limited Sale](#152)
 - [May 16th (Update 14)](#140)
     - [Maintenance Notice](#141)
 - [May 14th (Update 13)](#130)
@@ -71,6 +81,21 @@ There will be a maintenance tomorrow to conclude the [Syrus Truesdale event](/ev
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="140"></a>
+
+### May 16th (Update 14)
+
+<br>
+
+<a name="141"></a>
+
+#### Maintenance Notice
+There will be a maintenance tomorrow to conclude the [Syrus Truesdale event](/events/may-2018/syrus-truesdales-road-to-duel-links/) and to prepare for the [Jesse Anderson unlock event](#131), from 06:00 to 08:30 **(GMT+1)** - no Duel Links for over two hours! 😢
+
+![](/img/content/news/2018/05/in-game-updates/16-maintenance.jpg) 
 
 ---
 
