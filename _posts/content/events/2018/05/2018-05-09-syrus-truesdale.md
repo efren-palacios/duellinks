@@ -5,7 +5,7 @@ title: Syrus Truesdale's Road to Duel Links
 author: Yami Hammy
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Syrus Truesdale has returned! Here's all you need to know about the event, the best ways to farm him and unlock him as a character - get those Vehicroid cards! 
 keywords: event, syrus, syrus truesdale, farm
