@@ -49,6 +49,10 @@ ended: false
     - x18 Zane Truesdale (he doesn't drop anything so there aren't any farm decks!)
 - Obtain EX Jewels by dueling Jesse to use at the Card Trader EX and add more powerful cards to your collection - check out the list below!
 - After the 3,000,000 Duel Energy point milestone, you get 50 R Jewels every 500,000 points!
+- You'll get 20 Dice Fragments for winning a Ranked Duel up to three times a day.
+
+[w25]
+![](/img/content/events/2018/05/awaken-rainbow-dragon/ranked.png)
 
 ### Drop Rewards 
 
@@ -80,6 +84,9 @@ You can only obtain 1 copy of a card with EX Jewels.
 **[3K All Day](/top-player-council/3kallday/)** says:
 - Yes!
 
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- New archetype support is always welcome but I don't think it's enough to compete with the current meta.
+
 ---
 
 <a name="q2"></a>
@@ -99,6 +106,9 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
 - Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- No!
 
 ---
 
@@ -201,7 +211,6 @@ You should have at least one monster on the field.
 - Get both {Spirit Barrier} and {Astral Barrier} on the field as soon as possible.
 - Summon {Neo-Spacian Air Hummingbird} and {White Magician Pikeru} to gain life points.
 - Dodge Jesse's attacks with your "Barrier" combo.
-- **Tip:** To save time, quickly tap/un-tap "Auto Duel" during Jesse's Battle Phase so you don't have to activate {Astral Barrier} on each attack declaration.
 
 ##### Last Turn
 Make sure you have three monsters on the field before the last turn.

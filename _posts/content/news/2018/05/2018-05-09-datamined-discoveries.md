@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-17 17:00:00 +0100
+date: 2018-05-19 01:00:00 +0100
 title: "New Main Box - Datamined Leaks"
 author: Yami Hammy
 image: /img/content/news/2018/05/datamined-discoveries/17-thumbnail.jpg
@@ -14,7 +14,7 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-<!-- ##### Updated May 17th - New Update -->
+##### Updated May 19th - Added [Miscellaneous](#173)
 
 <a name="170"></a>
 
@@ -22,32 +22,35 @@ pinned: false
 
 <br>
 
-With another maintenance update comes new discoveries; **a new Main Box, event and a campaign** have been found courtesy of our beloved Justin Joestar and YAZAN!
-
-<a name="171"></a>
+With another maintenance update comes new discoveries; **a new Main Box, event, skill and campaigns** have been found courtesy of our beloved Justin Joestar, YAZAN and XOF!
 
 #### Main Box: Crusaders' Battlegrounds
-It is expected to be released on **May 22nd** and there will also be a sale! The following cards are speculated to be in the box.
+The box will be released on **May 22nd** and there will also be a sale! The following cards are now confirmed to be in the box.
 
 [gallery](/img/content/news/2018/05/datamined-discoveries/17-main-box.jpg, /img/content/news/2018/05/datamined-discoveries/17-sale.png)
 
 <br>
 <br>
 
-##### UR Cards
-[deck](Thestalos The Firestorm Monarch; The Dark Creator; Nobleman of Crossout; Silent Swordsman LV7; Great Maju Garzett; Grandmaster of the Six Samurai; D.D. Assailant; Noble Knight Medraut; D.D.R. - Different Dimension Reincarnation; Xing Zhen Hu Replica)
- 
-##### SR Cards
-[deck](Berlineth The Firestorm Vassal; By Order of the Emperor; Secret Six Samurai - Rihan; Granmarg The Rock Monarch; Special Hurricane; Steelswarm Mantis; Silent Swordsman LV5; Escalation of The Monarchs; Recurring Nightmare; Spirit of Flames; Evilswarm Heliotrope; Noble Knight Drystan)
- 
-##### R Cards
-[deck](Ignoble Knight of Black Laundsallyn; Bujin Hirume; Bujin Mikazuchi; Bujingi Hare; Bujingi Quilin; Bujingi Sinyou; Noble Knight Borz; Noble Knight Gawayn; Noble Knight Peredur; Secret Six Samurai - Kizaru; Noble Knight Artorigus; Bujinunity; Noble Arms - Arfeudutyr; Noble Arms - Caliburn; Noble Arms - Gallatin; Noble Arms of Destiny; Pot of Acquisitiveness; Silent Sword Slash; Belial - Marquis of Darkness; Strike Ninja; Hero Kid; Glory of The Noble Knights; Return of The Six Samurai; Super Junior Confrontation; Steelswarm Hercules; Steelswarm Longhorn; Steelswarm Caucastag; Darknight Parshath; Evilswarm Ketos; Ogre of The Scarlet Sorrow; Steelswarm Gatekeeper)
+Check out our **[box review article](/box-reviews/crusaders-battlegrounds/)** to see what the [Top Player Council](/top-player-council/) think of the new cards!
 
-#### N Cards
+##### Ultra Rare Cards
 
-[deck](Bujingi Turtle; Noble Knight Bedwyr; Noble Knight Gwalchavad; Secret Six Samurai - Doji; Secret Six Samurai - Hatsume; Bujintervention; Card Advance; Frost Blast of the Monarchs; Last Chapter of The Noble Knights; Avalon; Bujinfidel; Big Eye; Rocket Jumper; Silent Swordsman LV3; Lisark; Acrobat Monkey; Dark Shade; Prisman; Gigobyte; Darkness Approaches; Secret Skills of The Six Samurai; Driving Snow; Kid Guard; Miracle Kids; Steelswarm Caller; Vylon Hept; Vylon Pentachloro; Vylon Soldier; Vylon Stigma; Vylon Tesseract; Vylon Vanguard; Spirit of The Six Samurai; Steelswarm Sentinel; Damage Eater; Steelswarm Genome; Chain Summoning; Cunning of The Six Samurai; First Step Towards Infestation; Vylon Component; Vylon Material; Vylon Matter; Vylon Polytope; Infestation Ripples; Infestation Tool; Infestation Wave)
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="UR" %}
 
-<br>
+##### Super Rare Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="SR" %}
+
+##### Rare Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="R" %}
+
+##### Normal Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="N" %}
+
+---
 
 #### Tristan Taylor Event
 These drops are confirmed for the event that's happening in late May.
@@ -55,6 +58,18 @@ These drops are confirmed for the event that's happening in late May.
 ![](/img/content/news/2018/05/datamined-discoveries/17-tristan.jpg)
 
 [deck](Yu-Jo Friendship; Millennium Shield; Berserk Gorilla; Battleguard Rage; Super Robolady; Super Roboyarou; Voltic Kong;  Robolady; Roboyarou; Cyber Commander)
+
+<a name="173"></a>
+
+#### Miscellaneous
+A new skill, new Vagabond challenges, a new purchasable "Bonus Duelist" item, new "Espa Roba's Duel Carnival" event and new Tag Duel event details have been discovered! There's also a description for an item called "Vagrant" (which we discussed in [last month's update](/news/april-2018/datamined-discoveries/)) that gives you much more EXP than Standard/Legendary Duelists!
+
+[gallery](/img/content/news/2018/05/datamined-discoveries/17-skill-cyber-energy-amplified.png, /img/content/news/2018/05/datamined-discoveries/19-vagabond.png, /img/content/news/2018/05/datamined-discoveries/19-bonus-duelist.png, /img/content/news/2018/05/datamined-discoveries/19-espa-roba.png, /img/content/news/2018/05/datamined-discoveries/19-tag-duel.png, /img/content/news/2018/05/datamined-discoveries/19-vagrant.png)
+
+<br>
+<br>
+
+<a name="174"></a>
 
 #### Campaigns
 - The Bonus Duel Reward Campaign (+1000 [Duel Assessment](/farming/duel-assessment-score/)) is coming in 5-7 days.   
@@ -65,6 +80,8 @@ These drops are confirmed for the event that's happening in late May.
 - [May 17th Update](#170)
      - [Main Box: Crusaders' Battlegrounds](#main-box-crusaders-battlegrounds)
      - [Tristan Taylor Event](#tristan-taylor-event)
+     - [Miscellaneous](#173)
+     - [Campaigns](#174)
 - [May 9th Update](#90)
     - [Selection Box Mini Vol.01](#91)
     - [Top Player Council Thoughts](#top-player-council-thoughts)
@@ -77,7 +94,7 @@ These drops are confirmed for the event that's happening in late May.
     - [Campaigns](#92)
     - [Gamemat and Card Sleeves](#93)
     - [World Championship 2018](#94)
-    - [Miscellaneous ](#95)
+    - [Miscellaneous](#95)
 
 ---
 

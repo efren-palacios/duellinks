@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Jesse Event - In-Game Updates"
+title: "Card Flipper Campaign - In-Game Updates"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-17 15:00:00 +0100
+date: 2018-05-18 18:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,28 +14,31 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="150"></a>
+<a name="160"></a>
 
-### May 17th (Update 15)
+### May 18th (Update 16)
 
 <br>
 
-<a name="151"></a>
+<a name="161"></a>
 
-#### Jesse Unlock Event
-The Jesse Anderson unlock event has returned bringing new cards and a skill: {Transcendent Crystals}. Check out the [event article](/events/may-2018/awaken-rainbow-dragon/) for the best farm decks and tips!
+#### Card Flipper Campaign
+A new addition this time is the underwhelming {Pitch-Black Warwolf} along with {Exarion Universe} and 80 Gems!
 
-[slider](/img/content/news/2018/05/in-game-updates/17-jesse.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/18-card-flipper.jpg) 
 
-<a name="152"></a>
+<a name="162"></a>
 
-#### 72 Hours Limited Sale
-To celebrate 70,000,000+ downloads there's a sale and **500 Gems**!
+#### New Main Box: Crusaders' Battlegrounds
+Take a look at at our [box review](/box-reviews/crusaders-battlegrounds/) article with [Top Player Council](/top-player-council/) thoughts on the new cards!
 
-[slider](/img/content/news/2018/05/in-game-updates/17-sale.jpg) 
+![](/img/content/news/2018/05/in-game-updates/18-box.jpg) 
 
 ---
 
+- [May 18th (Update 16)](#160)
+    - [Card Flipper Campaign](#161)
+    - [New Main Box: Crusaders' Battlegrounds](#162)
 - [May 17th (Update 15)](#150)
     - [Jesse Unlock Event](#151)
     - [72 Hours Limited Sale](#152)
@@ -81,6 +84,28 @@ To celebrate 70,000,000+ downloads there's a sale and **500 Gems**!
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="150"></a>
+
+### May 17th (Update 15)
+
+<br>
+
+<a name="151"></a>
+
+#### Jesse Unlock Event
+The Jesse Anderson unlock event has returned bringing new cards and a skill: {Transcendent Crystals}. Check out the [event article](/events/may-2018/awaken-rainbow-dragon/) for the best farm decks and tips!
+
+[slider](/img/content/news/2018/05/in-game-updates/17-jesse.jpg) 
+
+<a name="152"></a>
+
+#### 72 Hours Limited Sale
+To celebrate 70,000,000+ downloads there's a sale and **500 Gems**!
+
+[slider](/img/content/news/2018/05/in-game-updates/17-sale.jpg) 
 
 ---
 

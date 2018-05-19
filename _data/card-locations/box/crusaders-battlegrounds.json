@@ -1,0 +1,402 @@
+[
+	{
+		"name": "Silent Swordsman LV7",
+		"rarity": "UR"
+	},
+	{
+		"name": "Noble Knight Medraut",
+		"rarity": "UR"
+	},
+	{
+		"name": "Grandmaster of the Six Samurai",
+		"rarity": "UR"
+	},
+	{
+		"name": "Great Maju Garzett",
+		"rarity": "UR"
+	},
+	{
+		"name": "D.D. Assailant",
+		"rarity": "UR"
+	},
+	{
+		"name": "Thestalos the Firestorm Monarch",
+		"rarity": "UR"
+	},
+	{
+		"name": "The Dark Creator",
+		"rarity": "UR"
+	},
+	{
+		"name": "Nobleman of Crossout",
+		"rarity": "UR"
+	},
+	{
+		"name": "D.D.R. - Different Dimension Reincarnation",
+		"rarity": "UR"
+	},
+	{
+		"name": "Xing Zhen Hu Replica",
+		"rarity": "UR"
+	},
+	{
+		"name": "Evilswarm Heliotrope",
+		"rarity": "SR"
+	},
+	{
+		"name": "Silent Swordsman LV5",
+		"rarity": "SR"
+	},
+	{
+		"name": "Noble Knight Drystan",
+		"rarity": "SR"
+	},
+	{
+		"name": "Steelswarm Mantis",
+		"rarity": "SR"
+	},
+	{
+		"name": "Granmarg the Rock Monarch",
+		"rarity": "SR"
+	},
+	{
+		"name": "Berlineth the Firestorm Vassal",
+		"rarity": "SR"
+	},
+	{
+		"name": "Spirit of Flames",
+		"rarity": "SR"
+	},
+	{
+		"name": "Secret Six Samurai - Rihan",
+		"rarity": "SR"
+	},
+	{
+		"name": "Special Hurricane",
+		"rarity": "SR"
+	},
+	{
+		"name": "Recurring Nightmare",
+		"rarity": "SR"
+	},
+	{
+		"name": "By Order of the Emperor",
+		"rarity": "SR"
+	},
+	{
+		"name": "Escalation of the Monarchs",
+		"rarity": "SR"
+	},
+	{
+		"name": "Noble Knight Artorigus",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Knight Gawayn",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Knight Borz",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Knight Peredur",
+		"rarity": "R"
+	},
+	{
+		"name": "Ignoble Knight of Black Laundsallyn",
+		"rarity": "R"
+	},
+	{
+		"name": "Steelswarm Gatekeeper",
+		"rarity": "R"
+	},
+	{
+		"name": "Steelswarm Caucastag",
+		"rarity": "R"
+	},
+	{
+		"name": "Steelswarm Longhorn",
+		"rarity": "R"
+	},
+	{
+		"name": "Steelswarm Hercules",
+		"rarity": "R"
+	},
+	{
+		"name": "Evilswarm Ketos",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujin Mikazuchi",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujin Hirume",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujingi Quilin",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujingi Hare",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujingi Sinyou",
+		"rarity": "R"
+	},
+	{
+		"name": "Secret Six Samurai - Kizaru",
+		"rarity": "R"
+	},
+	{
+		"name": "Strike Ninja",
+		"rarity": "R"
+	},
+	{
+		"name": "Hero Kid",
+		"rarity": "R"
+	},
+	{
+		"name": "Belial - Marquis of Darkness",
+		"rarity": "R"
+	},
+	{
+		"name": "Card Blocker",
+		"rarity": "R"
+	},
+	{
+		"name": "Darknight Parshath",
+		"rarity": "R"
+	},
+	{
+		"name": "Ogre of the Scarlet Sorrow",
+		"rarity": "R"
+	},
+	{
+		"name": "Silent Sword Slash",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Arms - Gallatin",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Arms - Arfeudutyr",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Arms - Caliburn",
+		"rarity": "R"
+	},
+	{
+		"name": "Noble Arms of Destiny",
+		"rarity": "R"
+	},
+	{
+		"name": "Glory of the Noble Knights",
+		"rarity": "R"
+	},
+	{
+		"name": "Bujinunity",
+		"rarity": "R"
+	},
+	{
+		"name": "Pot of Acquisitiveness",
+		"rarity": "R"
+	},
+	{
+		"name": "Return of the Six Samurai",
+		"rarity": "R"
+	},
+	{
+		"name": "Super Junior Confrontation",
+		"rarity": "R"
+	},
+	{
+		"name": "Silent Swordsman LV3",
+		"rarity": "N"
+	},
+	{
+		"name": "Noble Knight Gwalchavad",
+		"rarity": "N"
+	},
+	{
+		"name": "Noble Knight Bedwyr",
+		"rarity": "N"
+	},
+	{
+		"name": "Steelswarm Caller",
+		"rarity": "N"
+	},
+	{
+		"name": "Steelswarm Genome",
+		"rarity": "N"
+	},
+	{
+		"name": "Steelswarm Sentinel",
+		"rarity": "N"
+	},
+	{
+		"name": "Bujingi Turtle",
+		"rarity": "N"
+	},
+	{
+		"name": "Spirit of the Six Samurai",
+		"rarity": "N"
+	},
+	{
+		"name": "Secret Six Samurai - Hatsume",
+		"rarity": "N"
+	},
+	{
+		"name": "Secret Six Samurai - Doji",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Pentachloro",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Tesseract",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Vanguard",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Soldier",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Hept",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Stigma",
+		"rarity": "N"
+	},
+	{
+		"name": "Metallizing Parasite - Lunatite",
+		"rarity": "N"
+	},
+	{
+		"name": "Metallizing Parasite - Soltite",
+		"rarity": "N"
+	},
+	{
+		"name": "Big Eye",
+		"rarity": "N"
+	},
+	{
+		"name": "Rocket Jumper",
+		"rarity": "N"
+	},
+	{
+		"name": "Mad Reloader",
+		"rarity": "N"
+	},
+	{
+		"name": "Damage Eater",
+		"rarity": "N"
+	},
+	{
+		"name": "Last Chapter of the Noble Knights",
+		"rarity": "N"
+	},
+	{
+		"name": "First Step Towards Infestation",
+		"rarity": "N"
+	},
+	{
+		"name": "Bujintervention",
+		"rarity": "N"
+	},
+	{
+		"name": "Cunning of the Six Samurai",
+		"rarity": "N"
+	},
+	{
+		"name": "Secret Skills of the Six Samurai",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Material",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Matter",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Component",
+		"rarity": "N"
+	},
+	{
+		"name": "Vylon Polytope",
+		"rarity": "N"
+	},
+	{
+		"name": "Darkness Approaches",
+		"rarity": "N"
+	},
+	{
+		"name": "Chain Summoning",
+		"rarity": "N"
+	},
+	{
+		"name": "Card Advance",
+		"rarity": "N"
+	},
+	{
+		"name": "Frost Blast of the Monarchs",
+		"rarity": "N"
+	},
+	{
+		"name": "Avalon",
+		"rarity": "N"
+	},
+	{
+		"name": "Infestation Wave",
+		"rarity": "N"
+	},
+	{
+		"name": "Infestation Ripples",
+		"rarity": "N"
+	},
+	{
+		"name": "Infestation Tool",
+		"rarity": "N"
+	},
+	{
+		"name": "Bujinfidel",
+		"rarity": "N"
+	},
+	{
+		"name": "Driving Snow",
+		"rarity": "N"
+	},
+	{
+		"name": "Formation Union",
+		"rarity": "N"
+	},
+	{
+		"name": "Miracle Kids",
+		"rarity": "N"
+	},
+	{
+		"name": "Kid Guard",
+		"rarity": "N"
+	},
+	{
+		"name": "Brutal Potion",
+		"rarity": "N"
+	},
+	{
+		"name": "Chain Whirlwind",
+		"rarity": "N"
+	}
+]
