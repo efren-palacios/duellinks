@@ -30,7 +30,7 @@ A new addition this time is the underwhelming {Pitch-Black Warwolf} along with {
 <a name="162"></a>
 
 #### New Main Box: Crusaders' Battlegrounds
-Take a look at at our [box review](/box-reviews/crusaders-battlegrounds/) article with [Top Player Council](/top-player-council/) thoughts on the new cards!
+Take a look at our **[box review](/box-reviews/crusaders-battlegrounds/)** article with [Top Player Council](/top-player-council/) thoughts on the new cards!
 
 ![](/img/content/news/2018/05/in-game-updates/18-box.jpg) 
 
