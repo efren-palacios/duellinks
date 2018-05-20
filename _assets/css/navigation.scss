@@ -145,9 +145,10 @@ li.nav-item > a.nav-link:focus {
 .bar3 {
   width: 26px;
   height: 4px;
-  background-color: #d8d8d8;
+  background-color: #D8D8D8;
   margin: 5px 0;
   transition: 0.3s;
+  border-radius: 2px;
 }
 
 .change .bar1 {

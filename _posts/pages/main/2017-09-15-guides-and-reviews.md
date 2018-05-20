@@ -2,7 +2,7 @@
 layout: blog
 title: Guides & Reviews
 author: Creative
-image: /img/pages/guides/thumbnail.jpg
+image: /img/pages/guides-and-reviews/thumbnail.jpg
 category: page
 sub-category: main
 order: 6
@@ -19,22 +19,26 @@ scripts: guides.js
 <div class="section">
   <div class="row button-row guides-filters">
     <div class="btn-wrapper col-6 col-sm-4 col-md-3">
-        <div class="btn-decktype btn-small" data-filter="competitive">
-          <span class="decktype-display">Competitive</span>
-        </div>
-    </div>
-    <div class="btn-wrapper col-6 col-sm-4 col-md-3">
-      <div class="btn-decktype btn-small" data-filter="deck-type">
-          <span class="decktype-display">Deck Type Guides</span>
+      <div class="btn-decktype" data-filter="competitive">
+        <img  class="decktype-card" src="/img/pages/guides-and-reviews/competitive.jpg"/>
+        <span class="decktype-display">Competitive</span>
       </div>
     </div>
     <div class="btn-wrapper col-6 col-sm-4 col-md-3">
-      <div class="btn-decktype btn-small" data-filter="new-players">
-          <span class="decktype-display">New Players</span>
+      <div class="btn-decktype" data-filter="deck-type">
+        <img  class="decktype-card" src="/img/pages/guides-and-reviews/deck-type-guides.jpg"/>
+        <span class="decktype-display">Deck Type Guides</span>
       </div>
     </div>
     <div class="btn-wrapper col-6 col-sm-4 col-md-3">
-      <div class="btn-decktype btn-small" data-filter="review">
+      <div class="btn-decktype" data-filter="new-players">
+        <img  class="decktype-card" src="/img/pages/guides-and-reviews/new-players.jpg"/>
+        <span class="decktype-display">New Players</span>
+      </div>
+    </div>
+    <div class="btn-wrapper col-6 col-sm-4 col-md-3">
+      <div class="btn-decktype" data-filter="review">
+          <img  class="decktype-card" src="/img/pages/guides-and-reviews/reviews.jpg"/>
           <span class="decktype-display">Reviews</span>
       </div>
     </div>
