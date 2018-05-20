@@ -121,105 +121,107 @@ The Duel Links Meta Discord is home to the best players of the Duel Links commun
 
 Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 players after a 3 month season become the [New Top Player Council](/top-player-council/)!
 
-Updated 5/14/18
+Updated 5/19/18
 
 | Rank | Participant Name | Points |
 |--|--|--|
-|1|Billy Brake| 53 points|
+|1|Billy Brake| 65 points|
 |2|Jason| 50 points|
-|3|Eugen Heidt| 41 points|
+|3|Eugen Heidt| 43 points|
 |4|Stevie| 40 points|
 |5|Grucius| 37 points|
-|6|Masarike|31 points|
-|7-8| SirDillweed| 30 points|
-|7-8|Kwrowe| 30 points|
-|9|Yehhey| 29 points|
-|10|ShinySopheon|28 points|
-|11|Sterben| 26 points|
-|12-13|LoreRomaCCG| 24 points|
-|12-13|MrCellophane| 24 points|
-|14-15|SkillShot| 23 points|
-|14-15|Glading| 23 points|
-|16|SILENT POWER| 22 points|
-|17-20|Gambler| 20 points|
-|17-20|AndyTsang| 20 points|
-|17-20|Look at god| 20 points|
-|17-20|Jsanchghost| 20 points|
+|6|Yehhey| 35 points|
+|7|Masarike|31 points|
+|8-10| SirDillweed| 30 points|
+|8-10|Kwrowe| 30 points|
+|8-10|ShinySopheon|30 points|
+|11-12|Sterben| 26 points|
+|11-12|SkillShot| 26 points|
+|13-15|LoreRomaCCG| 24 points|
+|13-15|MrCellophane| 24 points|
+|13-15|Glading| 24 points|
+|16|SILENT POWER| 23 points|
+|17|Look at god| 21 points|
+|18-20|Gambler| 20 points|
+|18-20|AndyTsang| 20 points|
+|18-20|Jsanchghost| 20 points|
 |21|pawapoke|19 point|
 |22-23|Niceguy88| 18 points|
 |22-23|Snyffus| 18 points|
-|24|BlackGundam| 15 point|
-|25-31|Nel|14 points|
-|25-31|Taichi| 14 points|
-|25-31|SDotAkuma| 14 points|
-|25-31|PAchou| 14 points|
-|25-31|Suguru| 14 points|
-|25-31|M.Rida92| 14 points|
-|25-31|BrendenBB| 14 points|
-|32-33|Super Vegito| 12 points|
-|32-33|Luke Tyler| 12 points|
-|34-35|Neg do Zap| 11 points|
-|34-35|Cpt. Insano| 11 points|
-|36-62|Tekumse| 10 points|
-|36-62|Jayrabian| 10 points|
-|36-62|DatAngryBaboon| 10 points|
-|36-62|SilchasRuin| 10 points|
-|36-62|Kiwi| 10 points|
-|36-62|Alvd Freecs| 10 points|
-|36-62|Aurora| 10 points|
-|36-62|Artorias | 10 points|
-|36-62|GabrielWars| 10 points|
-|36-62|Greedosama| 10 points|
-|36-62|Guizyduck| 10 points|
-|36-62|Hextor| 10 points|
-|36-62|Negative1| 10 points|
-|36-62|Koizumi| 10 points|
-|36-62|MiguelJoker| 10 points|
-|36-62|ShootMyMantlet| 10 points|
-|36-62|Peledones| 10 points|
-|36-62|Suhnrysanti| 10 points|
-|36-62|Whilipino| 10 points|
-|36-62|Machdragon| 10 points|
-|36-62|Kayoh| 10 points|
-|36-62|3K Two Oh| 10 points|
-|36-62| FOREVER| 10 points|
-|36-62|Vladis| 10 points|
-|36-62|WayneKenoff| 10 points|
-|36-62|Deadfun | 10 points|
-|36-62|HoCJackieB| 10 points|
-|63-65 |Just Desserts | 9 points|
-|63-65|qbob2| 9 point|
-|63-65|Serenity| 9 points|
-|66-81|Vyzual| 8 points|
-|66-81|Brenduke| 8 points|
-|66-81|DragonOTWest| 8 points|
-|66-81|Regtrainer1| 8 points|
-|66-81|Simon| 8 points|
-|66-81|Nohara Hiroshi| 8 points|
-|66-81|OPnerfME| 8 points|
-|66-81|David B| 8 points|
-|66-81|SauceGod| 8 points|
-|66-81|WALEEDSY| 8 points|
-|66-81|Shu| 8 points|
-|66-81|Xanxus| 8 points|
-|66-81|Alysium| 8 points|
-|66-81|Xyldaz| 8 points|
-|66-81|Sock90| 8 points|
-|66-81|HidekiBro| 8 points|
-|82-84|Yasser | 7 points|
-|82-84|Whybona| 7 points|
-|82-84|Black Jesus | 7 points|
-|85-90| DeadlyScarce | 5 points|
-|85-90|Limitless95|5 points|
-|85-90|Son_Luke | 5 points|
-|85-90|CrossX| 5 points|
-|85-90 |Kaki | 5 points|
-|85-90|lawofdeath| 5 points|
-|91-95|BlessRNG Shadowz| 4 points|
-|91-95|Wowerer |4 points|
-|91-95|monkeyboy44| 4 points|
-|91-95|Sasuke| 4 points|
-|91-95|TristanP| 4 points|
+|24|Nel|16 points|
+|25|BlackGundam| 15 point|
+|26-31|Taichi| 14 points|
+|26-31|SDotAkuma| 14 points|
+|26-31|PAchou| 14 points|
+|26-31|Suguru| 14 points|
+|26-31|M.Rida92| 14 points|
+|26-31|BrendenBB| 14 points|
+|32|Whilipino| 13 points|
+|33-38|Super Vegito| 12 points|
+|33-38|Luke Tyler| 12 points|
+|33-38|Neg do Zap| 12 points|
+|33-38|Insano| 12 points|
+|33-38|HoCJackieB| 12 points|
+|33-38|Serenity| 12 points|
+|39-63|Tekumse| 10 points|
+|39-63|Jayrabian| 10 points|
+|39-63|DatAngryBaboon| 10 points|
+|39-63|SilchasRuin| 10 points|
+|39-63|Kiwi| 10 points|
+|39-63|Alvd Freecs| 10 points|
+|39-63|Aurora| 10 points|
+|39-63|Artorias | 10 points|
+|39-63|GabrielWars| 10 points|
+|39-63|Greedosama| 10 points|
+|39-63|Guizyduck| 10 points|
+|39-63|Hextor| 10 points|
+|39-63|Negative1| 10 points|
+|39-63|Koizumi| 10 points|
+|39-63|MiguelJoker| 10 points|
+|39-63|ShootMyMantlet| 10 points|
+|39-63|Peledones| 10 points|
+|39-63|Suhnrysanti| 10 points|
+|39-63|Machdragon| 10 points|
+|39-63|Kayoh| 10 points|
+|39-63|3K Two Oh| 10 points|
+|39-63| FOREVER| 10 points|
+|39-63|Vladis| 10 points|
+|39-63|WayneKenoff| 10 points|
+|39-63|Deadfun | 10 points|
+|64-66 |Just Desserts | 9 points|
+|64-66|qbob2| 9 point|
+|64-66|Yasser | 9 points|
+|67-84|Vyzual| 8 points|
+|67-84|Brenduke| 8 points|
+|67-84|DragonOTWest| 8 points|
+|67-84|Regtrainer1| 8 points|
+|67-84|Simon| 8 points|
+|67-84|Nohara Hiroshi| 8 points|
+|67-84|OPnerfME| 8 points|
+|67-84|David B| 8 points|
+|67-84|Mistilteinn| 8 points|
+|67-84|SauceGod| 8 points|
+|67-84|WALEEDSY| 8 points|
+|67-84|Shu| 8 points|
+|67-84|Xanxus| 8 points|
+|67-84|Alysium| 8 points|
+|67-84|Xyldaz| 8 points|
+|67-84|Sock90| 8 points|
+|67-84|HidekiBro| 8 points|
+|67-84|Whybona| 8 points|
+|85-86|Black Jesus | 7 points|
+|85-86|FettyGuap | 7 points|
+|87-97| DeadlyScarce | 5 points|
+|87-97|Limitless95|5 points|
+|87-97|Son_Luke | 5 points|
+|87-97|CrossX| 5 points|
+|87-97 |Kaki | 5 points|
+|87-97|lawofdeath| 5 points|
+|87-97|Sasuke| 5 points|
+|87-97|BlessRNG Shadowz| 4 points|
+|87-97|Wowerer |4 points|
+|87-97|monkeyboy44| 4 points|
+|87-97|TristanP| 4 points|
 
 ### How to gain Meta points
 
