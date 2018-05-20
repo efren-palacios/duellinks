@@ -17,6 +17,8 @@ permalink: /box-reviews/crusaders-battlegrounds/
 [w100]
 ![](/img/content/box-reviews/crusaders-battlegrounds/banner.jpg)
 
+##### Updated May 20, 2018 - Added Super Vegito's Responses
+
 - [Card List](#card-list)
 - [Top Player Council Thoughts](#tpc)
     - ["What are your first impressions of Noble Knights?"](#q1)
@@ -25,6 +27,7 @@ permalink: /box-reviews/crusaders-battlegrounds/
     - ["Which cards seem needed for a current top-tier deck?"](#q4)
     - ["Which cards may be used in a current top-tier deck?"](#q5)
     - ["Which cards have significant future potential?"](#q6)
+    - ["Any other thoughts on the box?"](#q7)
 
 ---
 
@@ -71,6 +74,9 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 **[AndyTsang](/top-player-council/andytsang/)** says:
 - Noble Knights in TCG were a gimmicky strategy built around surrounding a single monster with equips that protected it from targeting, as well as destruction. But in a format full of {Spellbook of Fate} and {Amazoness Onslaught}, I think Noble Knights came at a bad time.
 
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- I think this deck has some potential. Being able to destroy set cards with {Noble Arms - Arfeudutyr} and swarm the field with the effect of {Noble Knight Medraut} will definitely give [Sylvans](/tier-list/deck-types/sylvans/) some trouble. {Warrior Elimination} will be a setback for this deck which lacks recovery.
+
 
 ---
 
@@ -88,6 +94,9 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 **[AndyTsang](/top-player-council/andytsang/)** says:
 - {Grandmaster of the Six Samurai} is a godsend. {Great Shogun Shien} is great vs [Spellbooks](/tier-list/deck-types/spellbooks/). 
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- {Grandmaster of the Six Samurai} gives Six Samurias a huge boost. Allowing you to have a second monster on the field to activate your effects much faster. Also being able to banish your Samurai monsters in the graveyard to avoid one of your monsters from being destroyed by a card effect is helpful in this current meta.
 
 ---
 
@@ -120,6 +129,9 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 **[Glading](/top-player-council/glading/)** says:
 - {Nobleman of Crossout}!
 
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- {Nobleman of Crossout}: A very useful card to have in your side deck for the [Sylvans](/tier-list/deck-types/sylvans/) matchup.
+
 ---
 
 <a name="q5"></a>
@@ -146,6 +158,20 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 **[Glading](/top-player-council/glading/)** says:
 - {D.D.R. - Different Dimension Reincarnation} and the Monarch cards.
 
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- Monarchs! 
+
 ---
 
-***Tell us your own thoughts on the Box in the comments below!***
+<a name="q7"></a>
+
+#### "Any other thoughts on the box?"
+
+<br>
+
+**[Super Vegito](/top-player-council/super-vegito/)** says:
+- We didn't get enough Monarch support like we expected from this box but I think they can be somewhat competitive using {Paleozoic Canadia} and {Paleozoic Hallucigenia}. 
+
+---
+
+***Tell us your own thoughts on the box in the comments below!***

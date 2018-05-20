@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Duel Assessment (DA) Score
+title: Duel Assessment Score
 author: Yami Hammy
 image: /img/pages/farming/duel-assesment-score/thumbnail.jpg
 category: page
@@ -16,9 +16,9 @@ hide: true
 
 ![Banner](/img/pages/farming/duel-assesment-score/banner.png)
 
-- After each duel you score points for each of the below criteria you fulfill!
-- You will receive 1 reward for every 1000 points - maximum 8000 DA. 
-- When farming Legendary Duelists you should aim to meet the criteria below in order to attain the maximum 8 rewards.
+- After each duel you score points for each of the below criteria you fulfill.
+- You will receive 1 reward for every 1000 points upto a maximum of 8000. 
+- When farming Legendary Duelists you should aim to meet the criteria below in order to attain the maximum 8 rewards!
  
 ### You can only attain one of these base requirements:
 

@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Card Flipper Campaign - In-Game Updates"
+title: "In-Game Updates: Challenge Stamps"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-18 18:00:00 +0100
+date: 2018-05-20 14:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,28 +14,33 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="160"></a>
+<a name="180"></a>
 
 ### May 18th (Update 16)
 
 <br>
 
-<a name="161"></a>
+<a name="181"></a>
 
-#### Card Flipper Campaign
-A new addition this time is the underwhelming {Pitch-Black Warwolf} along with {Exarion Universe} and 80 Gems!
+#### Ranked Duels Challenge Stamps
+Get up to 90 Gems for dueling in Ranked Duels!
 
-[slider](/img/content/news/2018/05/in-game-updates/18-card-flipper.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/20-ranked-stamps.jpg) 
 
-<a name="162"></a>
+<a name="182"></a>
 
-#### New Main Box: Crusaders' Battlegrounds
-Take a look at our **[box review](/box-reviews/crusaders-battlegrounds/)** article with [Top Player Council](/top-player-council/) thoughts on the new cards!
+#### Jesse Anderson Lvl: 50
+Jesse Lvl: 50 will now spawn in Duel World (GX) with a stronger deck in tow. Check out our [Awaken! Rainbow Dragon!](/events/may-2018/awaken-rainbow-dragon/) event article for the best ways farm him and get your playset of Crystal Beast cards!
 
-![](/img/content/news/2018/05/in-game-updates/18-box.jpg) 
+![](/img/content/news/2018/05/in-game-updates/20-jesse-lvl-50.jpg) 
 
 ---
 
+- [May 20th (Update 18)](#180)
+    - [Ranked Duels Challenge Stamps](#181)
+    - [Jesse Anderson Lvl: 50](#182)
+- [May 19th (Update 17)](#170)
+    - [New Week Campaign](#171)
 - [May 18th (Update 16)](#160)
     - [Card Flipper Campaign](#161)
     - [New Main Box: Crusaders' Battlegrounds](#162)
@@ -84,6 +89,43 @@ Take a look at our **[box review](/box-reviews/crusaders-battlegrounds/)** artic
     - [Ranked Duels Updated](#11)
     - [New Card BOX](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="170"></a>
+
+### May 19th (Update 17)
+
+<br>
+
+<a name="171"></a>
+
+#### New Week Campaign
+This is the third week of the campaign. The new additions this campaign are {Pyrorex the Elemental Lord}, {Phantom Beast Cross-Wing} and {Kunoichi} but Konami knows what you really want is that 100th copy of {Goblin Calligrapher}! 
+
+[slider](/img/content/news/2018/05/in-game-updates/19-new-week-campaign.jpg) 
+
+---
+
+<a name="160"></a>
+
+### May 18th (Update 16)
+
+<br>
+
+<a name="161"></a>
+
+#### Card Flipper Campaign
+A new addition this time is the underwhelming {Pitch-Black Warwolf} along with {Exarion Universe} and 80 Gems!
+
+[slider](/img/content/news/2018/05/in-game-updates/18-card-flipper.jpg) 
+
+<a name="162"></a>
+
+#### New Main Box: Crusaders' Battlegrounds
+Take a look at our **[box review](/box-reviews/crusaders-battlegrounds/)** article with [Top Player Council](/top-player-council/) thoughts on the new cards!
+
+![](/img/content/news/2018/05/in-game-updates/18-box.jpg) 
 
 ---
 

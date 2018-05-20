@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-13 18:10:00 +0100
+date: 2018-05-20 12:00:00 +0100
 title: New Week Campaign - Rage Page!
 author: Yami Hammy
 image: /img/content/events/2018/05/new-week-campaign/thumbnail.jpg
@@ -10,7 +10,7 @@ comments: true
 description: Post you drops or vent your rage about the New Week Campaign! 
 keywords: event, new week campaign
 permalink: /events/may-2018/new-week-campaign/
-hide: true
+hide: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -25,4 +25,4 @@ You can obtain any 3 of the following cards:
 
 ---
 
-***Got lucky this week or did Konami screw you again, vent your rage in the comments below!*** 
+***Got lucky this week or did Konami screw you again, vent your rage (or surprise) in the comments below!*** 
