@@ -311,7 +311,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 
 ##### Replacements
 - {Caligo Claw Crow} can be replaced for {The Fiend Megacyber}
-- {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping} etc 
+- {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping}.
 
 ---
 

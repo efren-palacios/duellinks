@@ -16,7 +16,7 @@ ended: true
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-**Last updated April 6th - Added Duel Awards winners**
+##### Updated April 6, 2018 - [Added Duel Awards Winners](#awards)
 
 - **[Duel Awards](#awards)**
 - [Update](#update) 

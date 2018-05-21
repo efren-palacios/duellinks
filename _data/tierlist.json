@@ -2,7 +2,6 @@
     {
         "tier": 1,
         "category": "KOG",
-        "info": "The best, most consistent Decks. Expect these to be the majority played in competitive events due to their dominance.",
         "types":
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
@@ -13,7 +12,6 @@
     {
         "tier": 2,
         "category": "KOG",
-        "info": "One step away from being a part of the best Decks. Capable of winning a tournament without people being surprised. An advantage they have over the Tier 1 Decks is that everyone is more focused on building their Deck to beat a Tier 1 Deck rather than Tier 2.",
         "types":
         [              
             { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }            
@@ -22,20 +20,12 @@
     {
         "tier": 3,
         "category": "KOG",
-        "info": "Keep an eye out for these Deck-types. Don't expect these to be part of the majority played in a competitive event, but do not ignore their existence when building your Deck and choosing tech cards or you won't do well. A great player dedicated to one of these Deck-types can dominate others through extensive experience.",
         "types":
         [   
             { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
             { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
         ]
-    },
-    {
-        "category": "HighPotential",
-        "info": "Deck-types acknowledged by the Top Player Council with high potential for being on the Tier List but which do not have enough results to properly rate.",
-        "types":
-        [  
-        ] 
     },
     {
         "category": "OtherDecks",

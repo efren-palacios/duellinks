@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-17 16:00:00 +0100
+date: 2018-05-20 13:00:00 +0100
 title: Awaken! Rainbow Dragon!
 author: Yami Hammy
 image: /img/content/events/2018/03/awaken-rainbow-dragon/thumbnail.jpg
@@ -16,6 +16,9 @@ ended: false
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
+##### Updated May 20, 2018 - [Lvl: 50 Update](#update)
+
+- [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [EX Jewel Rewards](#ex-jewel-rewards)
@@ -31,8 +34,28 @@ ended: false
     - [Lvl: 40 Ra-Aromage Farm](#ezemc)
     - [Lvl: 40 Hazy Flame Farm](#freeska2)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
-<!-- - [Jesse Anderson Lvl: 50 Decklist](#50) -->
+- [Jesse Anderson Lvl: 50 Decklist](#50)
 - **[Duel Awards](#awards)**
+
+---
+
+### Update
+
+![](/img/content/events/2018/03/awaken-rainbow-dragon/jesse-lvl-50.png)
+
+Jesse Lvl: 50 will now spawn in Duel World (GX) with a [stronger deck](#50) in tow!
+
+![](/img/content/events/2018/05/awaken-rainbow-dragon/lvl-50.jpg)   
+
+New event missions have also been added - get up to 100 Gems!
+
+| Mission | Reward | 
+|--|--|
+| Win 1 Duel with {Rainbow Dragon} in your Deck, while playing as Jesse Anderson | 10 Gems |
+| Summon {Rainbow Dragon} 1 time in Duel World | 20 Gems |
+| Summon {Rainbow Dragon} 2 times in Duel World | 20 Gems |
+| Summon {Rainbow Dragon} 3 times in Duel World | 20 Gems |
+| Reduce your opponent's LP to 0 by inflicting battle damage with {Rainbow Dragon} | 30 Gems |
 
 ---
 
@@ -46,10 +69,10 @@ ended: false
     - x1 Standard Duelists
     - x1-4 Legendary Duelists Lvl: 10-40 respectively 
     - x4 The Vagabond
-    - x18 Zane Truesdale (he doesn't drop anything so there aren't any farm decks!)
+    - x18 Zane Truesdale (he doesn't drop anything so there aren't any farm decks)
 - Obtain EX Jewels by dueling Jesse to use at the Card Trader EX and add more powerful cards to your collection - check out the list below!
 - After the 3,000,000 Duel Energy point milestone, you get 50 R Jewels every 500,000 points!
-- You'll get 20 Dice Fragments for winning a Ranked Duel up to three times a day.
+- You'll get 20 Crystal Fruits for winning a Ranked Duel up to three times a day.
 
 [w25]
 ![](/img/content/events/2018/05/awaken-rainbow-dragon/ranked.png)
@@ -160,7 +183,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 - Chain {Massivemorph} to {Draining Shield}/{Enchanted Javelin} to gain a big LP boost!
 
 ##### Last Turn 
-1. Summon {Cosmic Compass} and activate its effect to special summon 2 Tokens in Attack position.
+1. Summon {Cosmic Compass} and activate its effect to special summon 2 tokens.
 2. Enter the Battle Phase, activate {Arrivalrivals} to summon {The Winged Dragon of Ra} **then chain** {Anti-Magic Arrows}.
 3. Activate the effect of The Winged Dragon of Ra when prompted and attack into the Token for victory!
 	
@@ -176,7 +199,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 <a name="lvmatterhorn"></a>
 
 #### Lvl: 40 Ra-Sylvans Farm - credit: lvmatterhorn
-[deck:Power of the Tributed](The Winged Dragon of Ra; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Fire Formation - Gyokkou; Arrivalrivals)
+[deck:Power of the Tributed](The Winged Dragon of Ra; Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Spiritualism; Arrivalrivals)
 
 ##### Strategy
 - Swarm the field with monsters, using the effects of {Sylvan Komushroomo} and {Sylvan Marshalleaf} to destroy your opponents field.
@@ -192,13 +215,13 @@ You can only obtain 1 copy of a card with EX Jewels.
 ##### Last Turn
 You should have at least one monster on the field.
 1. Special summon {Sylvan Hermitree}/{Sylvan Guardioak} by the effect of {Rose Lover} (and {World Carrotweight Champion} if you only have two monsters on the field).  
-2. Activate {Fire Formation - Gyokkou} to pin Jesse's set {Crystal Conclave} (he may have already activated it earlier in the duel).
+2. Activate {Spiritualism} to return Jesse's {Crystal Conclave} to the hand (he may have already activated it earlier in the duel).
 3. Attack and destroy any monsters on the field then activate {Arrivalrivals} to tribute summon {The Winged Dragon of Ra}.
 4. Activate Ra's effect when prompted to pay your life points to increase its ATK and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
 5. Attack Jesse's life points directly!
 
 ##### Replacements
-- Since Jesse may activate {Crystal Conclave} early on therefore rendering {Fire Formation - Gyokkou} useless it can be replaced with {World Carrotweight Champion}/{Amarylease}/{Naturia Pineapple} to help get out {Sylvan Guardioak} more consistently.
+- Since Jesse may activate {Crystal Conclave} early on therefore rendering {Spiritualism} useless it can be replaced with {World Carrotweight Champion}/{Amarylease}/{Naturia Pineapple} to help get out {Sylvan Guardioak} more consistently.
 
 ---
 
@@ -235,20 +258,22 @@ Make sure you have three monsters on the field before the last turn.
 <a name="ezemc"></a>
 
 #### Lvl: 40 Ra-Aromage Farm - credit: EzeMc
-[deck:Restart](The Winged Dragon of Ra; Aromage Jasmine; Aromage Jasmine; Aromage Jasmine; Aromage Rosemary; Aromage Rosemary; Aromage Rosemary; Anti-Magic Arrows; Arrivalrivals; Aroma Garden; Aroma Garden; Aroma Garden; Draining Shield; Draining Shield; Draining Shield; Wall of Disruption; Wall of Disruption; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua)  
+[deck:Restart](The Winged Dragon of Ra; Aromage Jasmine; Aromage Jasmine; Aromage Jasmine; Aromage Rosemary; Aromage Rosemary; Aromage Rosemary; Emergency Provisions; Spiritualism; Arrivalrivals; Aroma Garden; Aroma Garden; Aroma Garden; Draining Shield; Draining Shield; Draining Shield; Wall of Disruption; Curse of Anubis; Windstorm of Etaqua; Aegis of Gaia)  
 
 ##### Strategy
 - Keep on drawing cards and gaining LP with {Aromage Jasmine} + {Aroma Garden} combo.
 - Summon {Aromage Rosemary} and destroy Jesse's monsters each turn.
-- Be aware that the effects of Aromage Jasmine and Aromage Rosemary are compulsory. 
+- Be aware that the effects of Aromage Jasmine and Aromage Rosemary are compulsory.
+- You can activate multiple {Aroma Garden} in a turn to get 500 LP and ATK but the effects of Jasmine/Rosemary will only activate once per turn.
 
 ##### Last Turn
 You should have at least two monsters on the field.
 1. If you don't have a third monster on the field, summon one.
-2. If Jesse has a monster, attack and destroy it with {Aromage Rosemary}.
-3. Activate {Arrivalrivals} to summon {The Winged Dragon of Ra} **then chain** {Anti-Magic Arrows}. 
-4. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
-5. Attack Jesse's life points directly!
+2. Activate {Spiritualism} to return {Crystal Conclave} (or a set card) to his hand.
+3. If Jesse has a monster, attack and destroy it with {Aromage Rosemary}.
+4. Activate {Arrivalrivals} to summon {The Winged Dragon of Ra}. 
+5. Activate Ra's effect when prompted to pay your life points to increase its attack and to obtain the ["LP on Brink"](/farming/duel-assessment-score/) bonus.
+6. Attack Jesse's life points directly!
 
 ##### Replacements
 - {Draining Shield}, {Wall of Disruption}, {Curse of Anubis} and {Windstorm of Etaqua} are all just for protection and can be replaced.
@@ -285,18 +310,17 @@ This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-s
 <a name="40"></a>
 
 ### Jesse Anderson Lvl: 40 Decklist
-
-[deck](Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Amber Mammoth; Crystal Beast Emerald Tortoise; Crystal Beast Emerald Tortoise; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Dweller in the Depths; Dweller in the Depths; Crystal Beast Amethyst Cat; Crystal Beast Cobalt Eagle; Crystal Beast Ruby Carbuncle; Crystal Promise; Crystal Release; Crystal Release; Rare Value; Rare Value; Crystal Conclave)
+[deck](Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Amber Mammoth; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Emerald Tortoise; Crystal Beast Emerald Tortoise; Dweller in the Depths; Dweller in the Depths; Crystal Beast Cobalt Eagle; Crystal Beast Amethyst Cat; Crystal Beast Ruby Carbuncle; Rare Value; Rare Value; Crystal Promise; Crystal Release; Crystal Release; Crystal Conclave)
 
 ---
-<!--
+
 <a name="50"></a>
-### Jesse Anderson Lvl: 50 Decklist
 
-[deck](Rainbow Dragon; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Amethyst Cat; Crystal Beast Ruby Carbuncle; Crystal Beast Amber Mammoth; Crystal Beast Emerald Tortoise; Crystal Beast Cobalt Eagle; Crystal Bond; Crystal Bond; Crystal Bond; Crystal Release; Crystal Release; Rare Value; Rare Value; Rare Value; Rainbow Path)
+### Jesse Anderson Lvl: 50 Decklist
+[deck](Rainbow Dragon; Crystal Beast Sapphire Pegasus; Crystal Beast Sapphire Pegasus; Crystal Beast Amber Mammoth; Crystal Beast Topaz Tiger; Crystal Beast Topaz Tiger; Crystal Beast Emerald Tortoise; Crystal Beast Cobalt Eagle; Crystal Beast Amethyst Cat; Crystal Beast Ruby Carbuncle; Rare Value; Rare Value; Crystal Bond; Crystal Bond; Crystal Bond; Crystal Release; Crystal Release; Crystal Conclave; Crystal Conclave; Rainbow Path)
 
 ---
--->
+
 <br>
 
 <a name="awards"></a>
