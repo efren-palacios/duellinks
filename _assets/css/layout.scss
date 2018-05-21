@@ -396,35 +396,6 @@ button:focus {
   }
 }
 
-.card-collection {
-  text-align: center;
-  width: calc(100% + 30px);
-  /*margin-left: -15px;*/
-  margin-bottom: 25px;
-
-  /*&.row
-  {
-    margin-left: -20px;
-    margin-right: -20px;
-  }*/
-
-  .card-deck {
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 10px;
-    padding-right: 10px;
-
-    .card {
-      margin-left: 0;
-      margin-right: 0;
-    }
-  }
-
-  &.collection-attached {
-    margin-top: -25px;
-  }
-}
-
 .game-board {
   display: inline-block;
 

@@ -34,7 +34,7 @@ gulp.task('js', function() {
 });
 
 gulp.task('jekyll', function() {
-  var shellCommand = 'bundle exec jekyll build --incremental';
+  var shellCommand = 'jekyll build --incremental';
 
   return gulp.src('')
       .pipe(run(shellCommand))
