@@ -6,15 +6,15 @@
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
             { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }     
         ] 
     },
     {
         "tier": 2,
-        "category": "KOG",
+        "category": "Archive",
         "types":
-        [              
-            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }            
+        [                          
         ]
     },
     {
@@ -22,9 +22,7 @@
         "category": "KOG",
         "types":
         [   
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
-            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" },
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }
+            { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
     {
@@ -34,9 +32,13 @@
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" },
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "ojama-stall",              "display": "Ojama Stall",           "card": "Lava Golem" },
-            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
+            { "id": "noble-knights",            "display": "Noble Knights", 		"card": "Noble Knight Medraut" },
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" }, 
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
@@ -92,7 +94,6 @@
             { "id": "dark-paladin",             "display": "Dark Paladin",          "card": "Dark Paladin" },
             { "id": "mausoleum",                "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
             { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
-            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
             { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
             { "id": "treeborn-tributes",        "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
             { "id": "venus",                    "display": "Venus",                 "card": "The Agent of Creation - Venus" },
