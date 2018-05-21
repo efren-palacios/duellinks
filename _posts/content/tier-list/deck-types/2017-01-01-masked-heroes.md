@@ -49,7 +49,7 @@ The relatively small Core section of this deck allows for several tech options t
 
 These cards are optional and will change depending on your build preference.  
 
-[deck](Destiny HERO - Dreamer;Destiny Draw;Cosmic Cyclone;Hey, Trunade!;Gravity Lash;Fire Formation - Gyokkou;Trecherous Trap Hole;Needle Ceiling;Wall of Disruption)  
+[deck](Destiny HERO - Dreamer;Destiny Draw;Cosmic Cyclone;Hey, Trunade!;Gravity Lash;Fire Formation - Gyokkou;Treacherous Trap Hole;Needle Ceiling;Wall of Disruption)  
 
 ---
 
