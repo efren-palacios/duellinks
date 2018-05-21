@@ -9,8 +9,12 @@ comments: true
 description: Post you drops or vent your rage about the New Week Campaign! 
 keywords: event, new week campaign
 permalink: /events/may-2018/new-week-campaign/
+<<<<<<< HEAD
 hide: true
 view: false
+=======
+hide: true  
+>>>>>>> ca323a23f29b38002f2ed5c0ea4e138ead08175e
 ---
 
 {% include heading.html title=page.title author=page.author %}

@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-19 01:00:00 +0100
-title: "New Main Box - Datamined Leaks"
+title: "Datamined Leaks: New Main Box"
 author: Yami Hammy
 image: /img/content/news/2018/05/datamined-discoveries/17-thumbnail.jpg
 category: news
