@@ -19,7 +19,7 @@ permalink: /box-reviews/visions-of-ice/
 
 - [Card List](#card-list)
 - [Post Release Updates](#tpc2)
-- [Top Player Council - First Impressions](#tpc)
+- [Top Player Council - First Impressions1](#tpc)
     - ["What are your first impressions of Spellbooks/Prophecy?"](#q1)
     - ["What are your first impressions of Gustos?"](#q2)
     - ["Which cards do you think are absolutely needed?"](#q3)
