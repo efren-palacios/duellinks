@@ -8,13 +8,11 @@ sub-category: main
 order: 4
 comments: false
 date: 2018-05-04 
-<<<<<<< HEAD
 view: false 
-=======
->>>>>>> 1d35aca95dffff77b41fa3c9d1e1be22c006e0ba
 description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
 permalink: /top-players1/
+hide: true
 ---
 
 <div class="section">
