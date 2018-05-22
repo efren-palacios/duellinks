@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Community
+title: Top Player Community
 author: Dkayed
 image: /img/pages/top-players/tpc1.jpg
 category: page
