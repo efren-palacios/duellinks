@@ -5,7 +5,7 @@ author: TOASTYKILLA
 category: tournament
 tournament: Meta Weekly
 number: 2
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-01-10
 comments: true
 description: The Meta Weekly 2 tournament report. Check the prize winners and their decks here.
@@ -15,7 +15,8 @@ permalink: /tournaments/meta-weekly/2/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 ### Tournament 2 META LADDER 
 

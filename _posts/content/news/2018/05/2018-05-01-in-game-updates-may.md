@@ -1,41 +1,68 @@
 ---
 layout: blog
-title: "In-Game Updates: Challenge Stamps"
+title: "In-Game Updates: WCS"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-20 14:00:00 +0100
+date: 2018-05-22 16:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment, syrus, arkana  
+keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment, syrus, arkana
 permalink: /news/may-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="180"></a>
+<a name="200"></a>
 
-### May 18th (Update 16)
+### May 22nd (Update 20)
 
 <br>
 
-<a name="181"></a>
+<a name="201"></a>
 
-#### Ranked Duels Challenge Stamps
-Get up to 90 Gems for dueling in Ranked Duels!
+#### World Championship Qualifiers
 
-[slider](/img/content/news/2018/05/in-game-updates/20-ranked-stamps.jpg) 
 
-<a name="182"></a>
+![](/img/content/news/2018/05/in-game-updates/22-wcs.jpg) 
 
-#### Jesse Anderson Lvl: 50
-Jesse Lvl: 50 will now spawn in Duel World (GX) with a stronger deck in tow. Check out our [Awaken! Rainbow Dragon!](/events/may-2018/awaken-rainbow-dragon/) event article for the best ways farm him and get your playset of Crystal Beast cards!
+<a name="202"></a>
 
-![](/img/content/news/2018/05/in-game-updates/20-jesse-lvl-50.jpg) 
+#### Update to Version 2.7.0
+This update brings new Vagabond challenges that we found in our [Datamined Leaks](/news/may-2018/datamined-leaks/) article and various card issue fixes.
+
+[slider](/img/content/news/2018/05/in-game-updates/22-version-update.jpg) 
+
+<a name="203"></a>
+
+#### New Card Box
+The new Main Box: Crusaders' Battlegrounds is here! Give our [Box Review](/box-reviews/visions-of-ice/) article a read if you want to know all about the new cards and the [Top Player Council's](/top-player-council/) thoughts!
+
+[slider](/img/content/news/2018/05/in-game-updates/22-box.jpg) 
+
+<a name="204"></a>
+
+#### Sale Underway
+Thanks to [Superforms](/authors/superforms/), the prices are:
+1. $1.99
+2. $5.99
+3. $9.99
+4. $19.99
+5. $29.99
+6. $39.99
+
+[slider](/img/content/news/2018/05/in-game-updates/22-sale.jpg) 
 
 ---
 
+- [May 22nd (Update 20)](#200)
+    - [World Championship Qualifiers](#201)
+    - [Update to Version 2.7.0](#202)
+    - [New Card Box](#203)
+    - [Sale Underway](#204)
+- [May 21st (Update 19)](#190)
+    - [Tristan Taylor Event](#191)
 - [May 20th (Update 18)](#180)
     - [Ranked Duels Challenge Stamps](#181)
     - [Jesse Anderson Lvl: 50](#182)
@@ -87,8 +114,45 @@ Jesse Lvl: 50 will now spawn in Duel World (GX) with a stronger deck in tow. Che
     - [Bonus Reward Campaign!](#23)
 - [May 1st (Update 1)](#10)
     - [Ranked Duels Updated](#11)
-    - [New Card BOX](#12)
+    - [New Card Box](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="190"></a>
+
+### May 21st (Update 19)
+
+<br>
+
+<a name="191"></a>
+
+#### Tristan Taylor Event
+Check out our [Datamined Leaks](/news/may-2018/datamined-leaks/) article for his drop rewards! 
+
+![](/img/content/news/2018/05/in-game-updates/21-tristan.jpg) 
+
+---
+
+<a name="180"></a>
+
+### May 20th (Update 18)
+
+<br>
+
+<a name="181"></a>
+
+#### Ranked Duels Challenge Stamps
+Get up to 90 Gems for dueling in Ranked Duels!
+
+[slider](/img/content/news/2018/05/in-game-updates/20-ranked-stamps.jpg) 
+
+<a name="182"></a>
+
+#### Jesse Anderson Lvl: 50
+Jesse Lvl: 50 will now spawn in Duel World (GX) with a stronger deck in tow. Check out our [Awaken! Rainbow Dragon!](/events/may-2018/awaken-rainbow-dragon/) event article for the best ways farm him and get your playset of Crystal Beast cards!
+
+![](/img/content/news/2018/05/in-game-updates/20-jesse-lvl-50.jpg) 
 
 ---
 
@@ -241,8 +305,8 @@ The event has been updated with the usual Duel Meter multiplier increase and **d
 
 <a name="101"></a>
 
-#### Selection BOXes
-The Selection BOX Mini Vol.01 that we discussed in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) has arrived. Give our [box review article](/box-reviews/selection-box-mini-vol-01/) a read with [Top Player Council](/top-player-council/) comments! The previous Selection BOX has also returned, be sure to check them both out. 
+#### Selection Boxes
+The Selection Box Mini Vol.01 that we discussed in our [Datamined Discoveries article](/news/may-2018/datamined-leaks/) has arrived. Give our [box review article](/box-reviews/selection-box-mini-vol-01/) a read with [Top Player Council](/top-player-council/) comments! The previous Selection Box has also returned, be sure to check them both out. 
 
 [slider](/img/content/news/2018/05/in-game-updates/11-selection.jpg) 
 
@@ -264,14 +328,14 @@ Arkana has been added to the gate, great news for those who missed the previous 
 <a name="91"></a>
 
 #### WCS Celebration Campaign
-As we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/) all players receive a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
+As we found in our [Datamined Discoveries article](/news/may-2018/datamined-leaks/) all players receive a **Prismatic** alternate art {Dark Magician Girl}! There is also a "UR Dream Ticket" that allows you to obtain **any UR Box card** from The Ultimate Rising all the way to Resonance of Contrast!    
 
 [slider](/img/content/news/2018/05/in-game-updates/10-wcs.jpg)  
 
 <a name="92"></a>
 
 #### Popular Cards
-Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamined-discoveries/), you can now view the **daily** top 50 most used Monster, Spell and Trap cards that are played in Ranked Duels (in Platinum and above).
+Again, as we found in our [Datamined Discoveries article](/news/may-2018/datamined-leaks/), you can now view the **daily** top 50 most used Monster, Spell and Trap cards that are played in Ranked Duels (in Platinum and above).
 
 ![](/img/content/news/2018/05/in-game-updates/10-popular.jpg)  
 
@@ -453,7 +517,7 @@ Check out our [article](/news/may-2018/ranked-duels-rewards/) with invaluable To
 
 <a name="12"></a>
 
-#### New Card BOX
+#### New Card Box
 
 The new Mini Box: Visions of Ice is here! Give our [First Impressions](/box-reviews/visions-of-ice/) article a read if you want to know all about the new cards and what the [Top Player Council](/top-player-council/) think!
 

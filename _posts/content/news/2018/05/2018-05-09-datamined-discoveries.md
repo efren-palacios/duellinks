@@ -8,7 +8,7 @@ category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!
 keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates, datamine, leaks, duel-a-thon, tpc
-permalink: /news/may-2018/datamined-discoveries/
+permalink: /news/may-2018/datamined-leaks/
 pinned: false
 ---
 

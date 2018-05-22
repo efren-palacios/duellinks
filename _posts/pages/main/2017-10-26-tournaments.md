@@ -92,8 +92,8 @@ You must first join the [Duel Links Meta Discord](/top-players/) in order to par
     margin-top: 8px;">
 </div>
 
-![img](/img/logos/meta-weekly.png)
-
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 ### About the Meta Weekly
 The Meta Weekly is a tournament that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap, nor is there a deadline to join - you can even join at the very last second!
