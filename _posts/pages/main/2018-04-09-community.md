@@ -40,7 +40,7 @@ permalink: /community/
 
 1. Subscribe through [Twitch](https://twitch.tv/duellinksmeta/subscribe) then connect your Twitch and Discord for an automatic invite. Or [FREE SUB](https://twitch.amazon.com/prime) Free twitch prime trial gives a sub.
 
-#### [Click Here for Visual Guide on How to Connect Twitch + Discord](https://i.imgur.com/q60isMF.png) 
+ [Click Here for Visual Guide on How to Connect Twitch + Discord](https://i.imgur.com/q60isMF.png) 
 
 2. Subscribe through PayPal then [click here](https://discord.gg/duellinksmeta) to join the invite Discord sever and PM GiaJoestar#7730 proof of your PayPal payment.
 
