@@ -8,7 +8,7 @@ date: 2018-01-01
 comments: false
 description: These are the duel links meta top player council members. They are the core of everything that concerns the meta of yugioh duel links.
 keywords: top player council, top players, council, best player, best players
-permalink: /top-player-council/
+permalink: /other/mcs-hall-of-fame/
 hide: true
 ---
 
