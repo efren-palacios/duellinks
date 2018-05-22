@@ -26,6 +26,15 @@
         ]
     },
     {
+        "category": "HighPotential",
+        "types":
+        [
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
+            { "id": "noble-knights",            "display": "Noble Knights", 		"card": "Noble Knight Medraut" }, 
+            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Grandmaster of the Six Samurai" }
+        ] 
+    },
+    {
         "category": "OtherDecks",
         "info": "These are deck types that are currently active, but are generally not skilled enough to be listed on the tier list.",
         "types":
@@ -37,8 +46,6 @@
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
             { "id": "ojama-stall",              "display": "Ojama Stall",           "card": "Lava Golem" },
             { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
-            { "id": "noble-knights",            "display": "Noble Knights", 		"card": "Noble Knight Medraut" },
-            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" }, 
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
@@ -64,7 +71,6 @@
             { "id": "harpies",                  "display": "Harpies",               "card": "Cyber Harpie Lady" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
-            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
             { "id": "insects",     	            "display": "Insects",               "card": "Metamorphosed Insect Queen" },
             { "id": "toons",                    "display": "Toons",                 "card": "Toon Kingdom" },
