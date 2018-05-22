@@ -17,6 +17,7 @@
     }
   }
 }
+/* OLD SYSTEM */
 
 .card-collection
 {
@@ -372,7 +373,7 @@
 @media only screen and (max-width:  750px) { .card-collection .card-wrapper .article-card .information .title { line-height: 17.5px; margin-bottom: -3px; letter-spacing: 0; } }
 @media only screen and (max-width:  700px) { .card-collection .card-wrapper .article-card .information .title { line-height: 16.0px; margin-bottom: -3px; padding-top: 3px; } }
 @media only screen and (max-width:  650px) { .card-collection .card-wrapper .article-card .information .title { line-height: 14.5px; margin-bottom: -3px; } }
-@media only screen and (max-width:  600px) { .card-collection .card-wrapper .article-card .information .title { line-height: 13.0px; margin-bottom: -4px; padding-top: 2px; } }
+@media only screen and (max-width:  600px) { .card-collection .card-wrapper .article-card .information .title { line-height: 13.0px; margin-bottom: -4px; } }
 
 /* col-6 reset */
 @media only screen and (max-width:  575px) { .card-collection .card-wrapper.col-sm-6 .article-card .information { padding: 0px 6px 6px; bottom: 6px; } }
@@ -405,6 +406,6 @@
 @media only screen and (max-width:  550px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 23.5px; margin-bottom:  0px; padding-top: 4px; } }
 @media only screen and (max-width:  500px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 21.0px; margin-bottom: -1px; padding-top: 3px; } }
 @media only screen and (max-width:  450px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 18.5px; margin-bottom: -1px; padding-top: 3px; } }
-@media only screen and (max-width:  400px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 16.0px; margin-bottom: -2px; padding-top: 2px; } }
-@media only screen and (max-width:  350px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 13.5px; margin-bottom: -2px; padding-top: 1px;} }
-@media only screen and (max-width:  300px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 11.0px; margin-bottom: -3px; padding-top: 0px;} }
+@media only screen and (max-width:  400px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 16.0px; margin-bottom: -2px; padding-top: 3px; } }
+@media only screen and (max-width:  350px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 13.5px; margin-bottom: -2px; padding-top: 3px;} }
+@media only screen and (max-width:  300px) { .card-collection .card-wrapper.col-sm-4 .article-card .information .title { line-height: 11.0px; margin-bottom: -3px; padding-top: 2px;} }
