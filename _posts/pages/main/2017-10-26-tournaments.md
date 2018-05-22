@@ -1,7 +1,7 @@
 ---
 layout: blog
 date: 2018-05-02
-title: MCS
+title: Tournaments
 author: Dkayed
 image: /img/pages/mcs/thumbnail.png
 category: page
@@ -10,7 +10,7 @@ order: 3
 comments: false
 description: The Meta Championship Series is an opportunity for you to compete against the best Duel Links players in the world for fortune and fame! The tournament is always live streamed on Twitch so you can watch all the action as it happens!
 keywords: mcs, meta championship, meta championship series, mcs info, next mcs, mcs time, mcs 6
-permalink: /tournaments/meta-championship-series/
+permalink: /tournaments/
 scripts: soon.min.js
 styles: soon.min.css
 ---

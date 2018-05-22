@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Top Players11
+title: Community
 author: Dkayed
 image: /img/pages/top-players/tpc1.jpg
 category: page
@@ -8,11 +8,9 @@ sub-category: main
 order: 4
 comments: false
 date: 2018-05-04 
-view: false 
 description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
-permalink: /top-players1/
-hide: true
+permalink: /community/
 ---
 
 <div class="section">
