@@ -1,4 +1,4 @@
----
+
 layout: blog
 title: Top Players11
 author: Dkayed
@@ -13,7 +13,7 @@ description: Here you'll find the top players in the Duel Links Meta community!
 keywords: discord, community, chat, players, information, tournaments, friends, find friends
 permalink: /top-players1/
 hide: true
----
+
 
 <div class="section">
     <h3 class="text-center">DUEL LINKS META DISCORD</h3>
