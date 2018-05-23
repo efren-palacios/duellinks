@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "In-Game Updates: WCS"
+title: "In-Game Updates: Upcoming Updates"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-22 16:00:00 +0100
+date: 2018-05-23 21:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,48 +14,53 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="200"></a>
+<a name="210"></a>
 
-### May 22nd (Update 20)
+### May 23rd (Update 21)
 
 <br>
 
-<a name="201"></a>
+<a name="211"></a>
+
+#### Upcoming Updates
+Here are some key points:
+- Roaming **Zane Truesdale** will return "desiring victory" once again - c'mon Konami, let us obtain him already! 
+- The [**Tag Duel Tournament**](/events/january-2018/tag-duel-tournament/) is making a welcomed return this time with GX characters, fingers crossed that Gems are as generous as the first event.
+- Time for D.D. Tower: Dark Dimension. Will the boss reward this time be [Oblemirage the Elemental Lord](http://yugioh.wikia.com/wiki/Oblemirage_the_Elemental_Lord)?!
+- **Jesse Anderson** will be added to the gate, you can check out his drops in out previous [event article](/events/may-2018/awaken-rainbow-dragon/).
+- The **Espa Roba unlock** event is finally here. The "team event" is a "Duel Carnival" that we found in out [Datmined Leaks](/news/may-2018/datamined-leaks/) article, let's hope he brings {Jinzo}!
+- And finally, [Syrus Truesdale](/events/may-2018/syrus-truesdales-road-to-duel-links/) is back, again.
+
+[slider](/img/content/news/2018/05/in-game-updates/23-upcoming-updates.jpg)
+
+<a name="212"></a>
 
 #### World Championship Qualifiers
+Qualifiers start next week, get your decks ready and vie for the top spot(s) in your region! Here's all the information you need to know.
 
+[slider](/img/content/news/2018/05/in-game-updates/23-wcs.jpg) 
 
-![](/img/content/news/2018/05/in-game-updates/22-wcs.jpg) 
+<a name="213"></a>
 
-<a name="202"></a>
+#### Bonus Duelist
+The Boosted Duel Orb item will be replaced with a "Bonus Duelist" which spawns in duel world and can be dueled 30 times!
 
-#### Update to Version 2.7.0
-This update brings new Vagabond challenges that we found in our [Datamined Leaks](/news/may-2018/datamined-leaks/) article and various card issue fixes.
+[slider](/img/content/news/2018/05/in-game-updates/23-boosted-orbs.jpg) 
 
-[slider](/img/content/news/2018/05/in-game-updates/22-version-update.jpg) 
+<a name="214"></a>
 
-<a name="203"></a>
+#### Privacy Policy
+A new privacy policy that no one will read.
 
-#### New Card Box
-The new Main Box: Crusaders' Battlegrounds is here! Give our [Box Review](/box-reviews/visions-of-ice/) article a read if you want to know all about the new cards and the [Top Player Council's](/top-player-council/) thoughts!
-
-[slider](/img/content/news/2018/05/in-game-updates/22-box.jpg) 
-
-<a name="204"></a>
-
-#### Sale Underway
-Thanks to [Superforms](/authors/superforms/), the prices are:
-1. $1.99
-2. $5.99
-3. $9.99
-4. $19.99
-5. $29.99
-6. $39.99
-
-[slider](/img/content/news/2018/05/in-game-updates/22-sale.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/23-policy.jpg) 
 
 ---
 
+- [May 23rd (Update 21)](#210)
+    - [Upcoming Updates](#211)
+    - [World Championship Qualifiers](#212)
+    - [Bonus Duelist](#213)
+    - [Privacy Policy](#214)
 - [May 22nd (Update 20)](#200)
     - [World Championship Qualifiers](#201)
     - [Update to Version 2.7.0](#202)
@@ -116,6 +121,48 @@ Thanks to [Superforms](/authors/superforms/), the prices are:
     - [Ranked Duels Updated](#11)
     - [New Card Box](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="200"></a>
+
+### May 22nd (Update 20)
+
+<br>
+
+<a name="201"></a>
+
+#### World Championship Qualifiers
+Qualifiers start next week, get your decks ready and vie for the top spot(s) in your region!
+
+![](/img/content/news/2018/05/in-game-updates/22-wcs.jpg) 
+
+<a name="202"></a>
+
+#### Update to Version 2.7.0
+This update brings new Vagabond challenges that we found in our [Datamined Leaks](/news/may-2018/datamined-leaks/) article and various card issue fixes.
+
+[slider](/img/content/news/2018/05/in-game-updates/22-version-update.jpg) 
+
+<a name="203"></a>
+
+#### New Card Box
+The new Main Box: Crusaders' Battlegrounds is here! Give our [Box Review](/box-reviews/visions-of-ice/) article a read if you want to know all about the new cards and the [Top Player Council's](/top-player-council/) thoughts!
+
+[slider](/img/content/news/2018/05/in-game-updates/22-box.jpg) 
+
+<a name="204"></a>
+
+#### Sale Underway
+Thanks to [Superforms](/authors/superforms/), the prices are:
+1. $1.99
+2. $5.99
+3. $9.99
+4. $19.99
+5. $29.99
+6. $39.99
+
+[slider](/img/content/news/2018/05/in-game-updates/22-sale.jpg) 
 
 ---
 

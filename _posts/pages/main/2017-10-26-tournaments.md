@@ -32,10 +32,10 @@ styles: soon.min.css
     margin-top: 8px;">
     </div> 
 
-* [META CHAMPIONSHIP SERIES](#mcs): Monthly Championship
-* [META WEEKLY](#mw): Weekly Tournament
-* [ANYTIME TOURNAMENT](#att): 24/7 cash duels
-* [Give Away Tournaments](#ga): Free Casual tournaments!
+* [Meta Champtionship Series](#mcs): Monthly Championship
+* [Meta Weekly](#mw): Weekly Tournament
+* [Anytime Tournament](#att): 24/7 Cash Duels
+* [Giveaway Tournament](#ga): Free, Casual Tournament!
 
 ---
 
@@ -65,12 +65,12 @@ The Meta Championship Series is Duel Links' largest and most competitive tournam
 ### How to Join 
 You must first join the [Duel Links Meta Discord](/top-players/) in order to participate in the MCS.
 
-### Total Prize Support given out: $20,144
+### Total Prize Support Given Out: $20,144
 
-[Click here to see the MCS Hall of Fame](/other/mcs-hall-of-fame)
+Check out the [MCS Hall of Fame](/other/mcs-hall-of-fame) for informations on the top players that have competed in an MCS in the past as well all the generous sponsors!
 
 <div class="section center">
-    <h3>Here are all the past MCS reports</h3>
+    <h4>Here are all the past MCS reports</h4>
     <ul>
         {% for report in reports %}
             <li><a href="{{report.url}}">{{report.tournament | upcase}} #{{report.number}}</a></li>

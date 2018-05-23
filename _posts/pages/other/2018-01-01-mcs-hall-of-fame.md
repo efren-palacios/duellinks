@@ -6,15 +6,15 @@ image: /img/content/guides/GUIDE_TITLE-by-GUIDE_AUTHOR/thumbnail.png
 category: page
 date: 2018-01-01
 comments: false
-description: These are the duel links meta top player council members. They are the core of everything that concerns the meta of yugioh duel links.
-keywords: top player council, top players, council, best player, best players
+description: Here you'll find all the top players that have taken part in an MCS as well as all the sponsors!
+keywords: mcs, sponsors, meta championship series, top players, ycs, ocg
 permalink: /other/mcs-hall-of-fame/
 hide: true
 ---
 
 {% include heading.html title=page.title %}
 
-#### Top players that have participated in the event:
+#### Top players that have participated in the event
 
 | Player | Accomplishment | 
 |:----------:|:----------:|
@@ -34,7 +34,7 @@ hide: true
 | King Halo | 1st JPN KC Cup Feb 2017|
 | TsunTsun | 2nd Global KC Cup |
 
-#### Japanese OCG Champions that have participated in the event:
+#### Japanese OCG Champions that have participated in the event
 
 | Player | Accomplishment | 
 |:----------:|:----------:|
@@ -47,7 +47,7 @@ hide: true
 
 ---
 
-#### MCS Sponsor Hall of Fame:
+#### MCS Sponsor Hall of Fame
 
 | Sponsor | Total Donations |
 |:-:|:-:|
@@ -89,10 +89,12 @@ hide: true
 | FrozenKingK0 | $100.00 |
 | Yami Hammy | $100.00 |
 
+<!--
 
 ### Past MCS Champions!
 
-| Player | Accomplishment | 
-|:----------:|:----------:|
-| Champ 1| Meta Championship 1|
-|Champ 2| Meta Championship 2|
+| Player | Tournament | 
+|--|--|
+| Champ 1 | Meta Championship 1 |
+| Champ 2 | Meta Championship 2 |
+-->
