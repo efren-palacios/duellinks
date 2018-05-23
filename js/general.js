@@ -105,6 +105,10 @@ if (!sessionStorage.run3times || sessionStorage.run3times < 3) {
   );
 }
 
+//Disable the antiadblock by uncommenting the line below | To activate comment out or remove the line below
+//antiabd=="off";
+
+//AntiAdblock
 if (typeof antiabd === "undefined") {
   //you can view the site 3x with adblock but no more after that.
   if (localStorage.ABDrun3times < 3) {
@@ -143,3 +147,4 @@ function searchhover(element) {
 function searchunhover(element) {
   element.setAttribute("src", "/img/assets/search_icon.png");
 }
+
