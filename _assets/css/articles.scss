@@ -178,18 +178,26 @@
   background: grey;
   left: -8px;
   top: 5px;
+  text-transform: uppercase;
+  font-weight: 500;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.80);
+
   -webkit-filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
-  filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
+     -moz-filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
+       -o-filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
+      -ms-filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
+          filter: drop-shadow(1px 2px 1px rgba(0, 0, 0, .9));
+
   //CSS Hack to disable ribbon shadows to improve performance on safari
-  @media not all and (min-resolution: 0.001dpcm) {
-    @supports (-webkit-appearance: none) {
+  @media not all and (min-resolution: 0.001dpcm)
+  {
+    @supports (-webkit-appearance: none)
+    {
       -webkit-filter: unset !important;
     }
   }
   //-----------------------------
-  text-transform: uppercase;
-  font-weight: 500;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.80);
+
 
   &:before, &:after { content: ""; position: absolute; }
 

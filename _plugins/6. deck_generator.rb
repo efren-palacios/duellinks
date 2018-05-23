@@ -24,6 +24,10 @@ module Jekyll
     safe true
 
     def generate(site)
+      
+      $logger.logToConsole("Start deck generation")
+
+      deckAmount = 0
 
       top_decks = site.data["top-decks"]
 
@@ -48,10 +52,20 @@ module Jekyll
 
               keys = [year_key, month_key, decktype_key, deck_key]
               site.pages << DeckPage.new(site, site.source, dir, keys)
+              deckAmount += 1
             end
           end
         end
       end
+
+      if deckAmount != 0
+        $logger.logToConsole("  " + deckAmount.to_s + " decks generated")
+      else
+        $logger.logToConsole("  no decks to generate")
+      end
+
+      $logger.logToConsole("End deck generation")
+
     end
 
     def generateTopDecksSeasons(site, year, month, decktypes)

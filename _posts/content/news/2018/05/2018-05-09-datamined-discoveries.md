@@ -14,7 +14,7 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-##### Updated May 10th - Added Top Player Council Thoughts
+##### Updated May 10th - Added Top Player Council Thoughtszz hahaha
 
 - [May 9th Update](#90)
     - [Selection Box Mini Vol.01](#91)

@@ -4,7 +4,7 @@ require 'uri'
 
 module Jekyll
     class ProfilePage < Jekyll::Page
-        def initialize(site, base, dir, profile_key)            
+        def initialize(site, base, dir, profile_key)
             @site = site
             @base = base
             @dir = dir
@@ -52,6 +52,9 @@ module Jekyll
     class ProfileGenerator < Jekyll::Generator
         
         def generate(site)
+
+            $logger.logToConsole("Start profile generation")
+
             profiles = site.data['profiles']
 
             for profile_key in profiles.keys
@@ -62,6 +65,9 @@ module Jekyll
 
                 site.pages << ProfilePage.new(site, site.source, location, profile_key)
             end
+            
+            $logger.logProfileGenerated(profiles.keys.length)
+            $logger.logToConsole("End profile generation")
         end
     end
 end
