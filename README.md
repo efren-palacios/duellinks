@@ -14,7 +14,7 @@ Please read this very carefully to learn all of its features so you can start wr
 
 ### Custom DLM Extensions
 
-Next to this very handy default markdown syntaxt, the DLM dev team has also provided some extra markdown extensions to accomodated for some special needs. These extensions will only work on our website as we have developed them to meet the DLM requirements.
+Next to this handy default markdown syntax, the DLM dev team has also provided some extra markdown extensions to accomodated for some special needs. These extensions will only work on our website as we have developed them to meet the DLM requirements.
 
 #### Card hovers
 
