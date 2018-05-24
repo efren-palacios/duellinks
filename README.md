@@ -6,7 +6,7 @@ This is the project code of the Duel Links Meta website.
 
 ### Standard
 
-Articles and other content can be marked up with markdown. Markdown is an easy to learn, easy to use formatting language which makes you able to format a post in a way that makes it visually organized and pleasant to read. No knowledge of html and css is required. Markdown handles that for you. There are plenty of guides out there which explain you all the nifty features of markdown but one that we recommend is the guide bu ghost.
+Articles and other content can be marked up with markdown. Markdown is an easy to learn, easy to use formatting language which makes you able to format a post in a way that makes it visually organized and pleasant to read. No knowledge of html and css is required. Markdown handles that for you. There are plenty of guides out there which explain you all the nifty features of markdown but one that we recommend is the guide by ghost.
 
 https://blog.ghost.org/markdown/
 
