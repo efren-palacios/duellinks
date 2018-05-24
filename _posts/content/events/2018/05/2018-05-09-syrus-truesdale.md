@@ -66,25 +66,25 @@ These are the cards and Skills you can attain.
 <br>
 
 **[Whilipino](/top-player-council/whilipino/)** says:
-- No, the Deck is still trash. 
+> No, the Deck is still trash. 
 
 **[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+> No!
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Nope!
+> Nope!
 
 **[Super Vegito](/top-player-council/super-vegito/)** says:
-- Definitely not.
+> Definitely not.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- 🚮
+> 🚮
 
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- (OMEGALUL) Trash.
+> (OMEGALUL) Trash.
 
 **[AndyTsang](/top-player-council/andytsang/)** says:
-- No!
+> No!
 
 ---
 
@@ -95,25 +95,25 @@ These are the cards and Skills you can attain.
 <br>
 
 **[Whilipino](/top-player-council/whilipino/)** says:
-- {Drillroid} is a cool card for Side Decks and it's another option for {Ties of the Brethren} with [Geargias](/tier-list/deck-types/geargias/).
+> {Drillroid} is a cool card for Side Decks and it's another option for {Ties of the Brethren} with [Geargias](/tier-list/deck-types/geargias/).
 
 **[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+> No!
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Absolutely not.
+> Absolutely not.
 
 **[Super Vegito](/top-player-council/super-vegito/)** says:
-- No!
+> No!
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- 🚮
+> 🚮
 
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
+> Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
 
 **[AndyTsang](/top-player-council/andytsang/)** says:
-- No!
+> No!
 
 ---
 
@@ -124,25 +124,25 @@ These are the cards and Skills you can attain.
 <br>
 
 **[Whilipino](/top-player-council/whilipino/)** says:
-- Yes, because I farm every event.
+> Yes, because I farm every event.
 
 **[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+> No!
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Sure, new character means more Gems.
+> Sure, new character means more Gems.
 
 **[Super Vegito](/top-player-council/super-vegito/)** says:
-- No, I'll be auto-dueling, none of the cards    are worth it.
+> No, I'll be auto-dueling, none of the cards    are worth it.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- Yes, but that's because this game is an addiction, still 🚮.
+> Yes, but that's because this game is an addiction, still 🚮.
 
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- For 3 of every card, yes.
+> For 3 of every card, yes.
 
 **[AndyTsang](/top-player-council/andytsang/)** says:
-- Yes!
+> Yes!
 
 ---
 

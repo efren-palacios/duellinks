@@ -136,6 +136,23 @@ li img {
   display: block;
 }
 
+blockquote
+{
+  font-style: italic;
+  margin: 0 0 16px 16px;
+  padding: 4px 12px 0;
+  border-left: 3px solid $active;
+  background-color: rgba($active, 0.15);
+
+  p, ul { padding-bottom: 4px; }
+  ul    { padding-left: 20px; }
+}
+
+p + blockquote
+{
+  margin-top: -8px;
+}
+
 @media only screen and (max-aspect-ratio: 13/9) {
   p img,
   li img {

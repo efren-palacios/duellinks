@@ -192,9 +192,12 @@ The Superb Legendary Duelist has been revealed it be in fact Téa, you can read 
 #### Top Player Council Thoughts
 
 ###### **[Superforms](/authors/superforms/)** says: 
-- Since {Tethys, Goddess of Light} requires no effort to pick up, it should just be compared to {Guardian of Felgrand} and {Spiritual Earth Art - Kurogane}, the other two options. Kurogane hasn't been used in a top-tier Magnet deck for over a month and while Felgrand has potential with the [datamined Dragon Structure Deck](/news/february-2018/datamined-discoveries/#dragon-structure-deck), it probably would not be run at more than 2x since {Paladin of Felgrand} is better in most cases.
-- Tethys has synergy with the upcoming Counter Fairy archetype and its effect is very easy to trigger (either from your normal draw or another card like {Cards from the Sky}; it also triggers off its own effect). Whether it can be squeezed into the best variant of Counter Fairies remains to be seen, but it's definitely a card with potential.
-- For the R rarity cards you should prioritize {Cards from the Sky} over {Double Attack}, but if you already have 3 copies and a copy of {Sword of Deep Seated} (you’ll never need more than one), you may as well pick it up. However, it's pretty bad though, and the discard is for cost so unfortunately no Dark World synergy.
+
+> Since {Tethys, Goddess of Light} requires no effort to pick up, it should just be compared to {Guardian of Felgrand} and {Spiritual Earth Art - Kurogane}, the other two options. Kurogane hasn't been used in a top-tier Magnet deck for over a month and while Felgrand has potential with the [datamined Dragon Structure Deck](/news/february-2018/datamined-discoveries/#dragon-structure-deck), it probably would not be run at more than 2x since {Paladin of Felgrand} is better in most cases.
+
+> Tethys has synergy with the upcoming Counter Fairy archetype and its effect is very easy to trigger (either from your normal draw or another card like {Cards from the Sky}; it also triggers off its own effect). Whether it can be squeezed into the best variant of Counter Fairies remains to be seen, but it's definitely a card with potential.
+
+> For the R rarity cards you should prioritize {Cards from the Sky} over {Double Attack}, but if you already have 3 copies and a copy of {Sword of Deep Seated} (you’ll never need more than one), you may as well pick it up. However, it's pretty bad though, and the discard is for cost so unfortunately no Dark World synergy.
 
 #### KC Cup
 

@@ -122,10 +122,13 @@ In addition, players will possibly be able to obtain 3 copies of {Ancient Gear C
 
 ### Top Player Council Thoughts
 
-**[Superforms](/top-player-council/superforms/)** says: 
-- {Biofalcon} is garbage. Cards that activate on battle destruction aren't even good now, and this is one step worse.
-- {Break! Draw!} seems bad too since it's a card that would replace a protection card in the current builds, and that's not something a control deck like Ancient Gears usually wants to lose. 
-- {Ultimate Ancient Gear Golem} could be used with {King of the Swamp} and {Cybernetic Fusion Support}, but Ancient Gears doesn't have any good searching power, and so you'd really just have to wait to draw into the materials. You could also run a Last Gamble build, possibly with {Spell Gear} but you would lose the {Ancient Gear Castle} provided by Middle Age Mechs.
+**[Superforms](/top-player-council/superforms/)** says:
+
+> {Biofalcon} is garbage. Cards that activate on battle destruction aren't even good now, and this is one step worse.
+
+> {Break! Draw!} seems bad too since it's a card that would replace a protection card in the current builds, and that's not something a control deck like Ancient Gears usually wants to lose.
+
+> {Ultimate Ancient Gear Golem} could be used with {King of the Swamp} and {Cybernetic Fusion Support}, but Ancient Gears doesn't have any good searching power, and so you'd really just have to wait to draw into the materials. You could also run a Last Gamble build, possibly with {Spell Gear} but you would lose the {Ancient Gear Castle} provided by Middle Age Mechs.
 
 ### Meta Impact
 
@@ -136,16 +139,16 @@ The return of this event has some potentially important factors in the current m
 
 #### **[Superforms](/top-player-council/superforms/)** says:
 
-- A third {Ancient Gear Golem} is interesting, especially now that we get more {Ancient Gear Castle}s too. Of everything coming in this new event, I think triple {Ancient Gear Golem} builds have the most potential to be good.
+> A third {Ancient Gear Golem} is interesting, especially now that we get more {Ancient Gear Castle}s too. Of everything coming in this new event, I think triple {Ancient Gear Golem} builds have the most potential to be good.
 Overall I'd say Ancient Gears are still a solid Tier 3 deck.
 
 #### **Nix** says:
 
-- Ancient Gears will rise after this KC Cup, take my word for it.
+> Ancient Gears will rise after this KC Cup, take my word for it.
 
 #### **Brenduke**, an Ancient Gear player who has reached Top 4 and Top 16 in 2 Meta Weeklies, says:
 
-- A third {Ancient Gear Golem} opens up potential for more aggressive builds. The build could also run {Ancient Gear Beast} with {Soul Exchange} and {Fenghuang} support if {Ancient Gear Castle} is added. A third {Ancient Gear Golem} also makes {Spell Gear} (Crowler's Level 40 reward) potentially good but most likely remains a YouTube play.
+> A third {Ancient Gear Golem} opens up potential for more aggressive builds. The build could also run {Ancient Gear Beast} with {Soul Exchange} and {Fenghuang} support if {Ancient Gear Castle} is added. A third {Ancient Gear Golem} also makes {Spell Gear} (Crowler's Level 40 reward) potentially good but most likely remains a YouTube play.
 
 ### Summary
 

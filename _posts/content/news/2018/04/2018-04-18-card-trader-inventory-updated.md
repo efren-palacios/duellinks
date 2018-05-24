@@ -39,25 +39,32 @@ The Card Trader's inventory has been updated with some new additions to his card
 #### {Spell Strider}
 
 **[Superforms](/top-player-council/superforms/)** says:
-- This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombies](/guides/deck-types/red-eyes-zombies-guide-by-insano/) against {Mythic Depths} [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/). Not a ton of other use right now.
+
+> This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombies](/guides/deck-types/red-eyes-zombies-guide-by-insano/) against {Mythic Depths} [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/). Not a ton of other use right now.
 
 **[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- Interesting card but too hard to utilize. Building a deck around {Big Bang Shot} still requires a second spell. This will likely be used for a Field Spell for Field Spell trade off and not that great.
+
+> Interesting card but too hard to utilize. Building a deck around {Big Bang Shot} still requires a second spell. This will likely be used for a Field Spell for Field Spell trade off and not that great.
 
 **[Glading](/top-player-council/Glading/)** says:
-- Maybe good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) that you can banish your Field Spell and your opponent's {Umi}.
+
+> Maybe good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) that you can banish your Field Spell and your opponent's {Umi}.
 
 **[Xanxus](/top-player-council/Xanxus/)** says:
-- At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
+
+> At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
 
 **[Whybona](/top-player-council/whybona/)** says:
-- Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
+
+> Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
 
 **[Machdragon](/top-player-council/Machdragon/)** says:
-- A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
+
+> A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
 
 **[MiguelJoker](/top-player-council/migueljoker/)** says:
-- Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
+
+> Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
 
 ---
 
@@ -65,10 +72,12 @@ The Card Trader's inventory has been updated with some new additions to his card
 #### {Token Thanksgiving}
 
 **[Superforms](/top-player-council/superforms/)** says:
-- Trash!
+
+> Trash!
 
 **[Whybona](/top-player-council/whybona/)** says:
-- Trash!
+
+> Trash!
 
 ---
 
@@ -76,25 +85,32 @@ The Card Trader's inventory has been updated with some new additions to his card
 #### {Dr. Frankenderp}
 
 **[Superforms](/top-player-council/superforms/)** says:
-- Bad. It wouldn’t fit into any Psychic decks, and those fell off the [Tier List](/tier-list/) a long time ago.
+
+> Bad. It wouldn’t fit into any Psychic decks, and those fell off the [Tier List](/tier-list/) a long time ago.
 
 **[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- Trash!
+
+> Trash!
 
 **[Glading](/top-player-council/Glading/)** says:
-- No PvP potential.
+
+> No PvP potential.
 
 **[Xanxus](/top-player-council/Xanxus/)** says:
-- Not good at the moment but it maybe has future potential with more support cards.
+
+> Not good at the moment but it maybe has future potential with more support cards.
 
 **[Whybona](/top-player-council/whybona/)** says:
-- Another garbage Psychic Monster to go alongside the mass of useless Psychic Monsters which have been released since {Serene Psychic Witch}.
+
+> Another garbage Psychic Monster to go alongside the mass of useless Psychic Monsters which have been released since {Serene Psychic Witch}.
 
 **[Machdragon](/top-player-council/Machdragon/)** says:
-- This card isn’t great since it uses up your Normal Summon and skips your Draw Phase to activate its effect. Does not have a place in competitive play.
+
+> This card isn’t great since it uses up your Normal Summon and skips your Draw Phase to activate its effect. Does not have a place in competitive play.
 
 **[MiguelJoker](/top-player-council/migueljoker/)** says:
-- Maybe future potential in OTK decks or Burn decks.
+
+> Maybe future potential in OTK decks or Burn decks.
 
 ### Required Items
 - {Spell Strider}: 100,000 Gold, 4 UR Jewel, 80 Stone of Earth
