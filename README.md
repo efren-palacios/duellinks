@@ -51,7 +51,7 @@ One of the newest to join the crew. This one lets you create links to profiles w
 __Example__
 
 ```
-{#Yamy Hammy}
+{#Yami Hammy}
 ```
 
 #### Decklists
