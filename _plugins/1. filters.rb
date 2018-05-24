@@ -5,11 +5,8 @@ require 'uri'
 module Jekyll
 
   module ArrayFilter
-    def filter_mcs(posts)
-      posts.find_all { |post| post['category'] == 'tournament' and post['tournament'] == 'Meta Championship Series' }.sort_by{ |post| post.date }.reverse
-    end
-    def filter_meta_giveaway(posts)
-      posts.find_all { |post| post['category'] == 'tournament' and (post['tournament'] == 'Meta Weekly' or post['tournament'] == 'Give Away') }.sort_by{ |post| post.date }.reverse 
+    def filter_tournaments(posts)
+      posts.find_all { |post| post['category'] == 'tournament' and (post['tournament'] == 'Meta Weekly' or post['tournament'] == 'Give Away' or post['tournament'] == 'Meta Championship Series' or post['tournament'] == 'Anytime Tournament') }.sort_by{ |post| post.date }.reverse 
     end
     def filter_posts(posts)
       posts.find_all { |post| (post['category'] == 'guide' or post['category'] == 'tournament') and (post['hide'] == false or post['hide'] == nil) }
