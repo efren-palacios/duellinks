@@ -32,6 +32,7 @@
         "rarity": "R"
     },
     {
+
         "name": "Crystal Beast Amethyst Cat",
         "rarity": "R"
     },
@@ -46,5 +47,41 @@
     {
         "name": "Chow Len the Prophet",
         "rarity": "SR"
+    },    
+    {
+        "name": "Rare Value",
+        "rarity": "UR"       
+    },
+    {
+        "name": "Rainbow Life",
+        "rarity": "SR"       
+    },
+    {
+        "name": "Crystal Beacon",
+        "rarity": "SR"       
+    },
+    {
+        "name": "Grapple Blocker",
+        "rarity": "SR"       
+    },
+    {
+        "name": "Fossil Tusker",
+        "rarity": "SR"       
+    },
+    {
+        "name": "Crystal Blessing",
+        "rarity": "R"       
+    },
+    {
+        "name": "Crystal Beast Cobalt Eagle",
+        "rarity": "R"       
+    },
+    {
+        "name": "Triggered Summon",
+        "rarity": "R"       
+    },
+    {
+        "name": "Rainbow Gravity",
+        "rarity": "R"       
     }
 ]

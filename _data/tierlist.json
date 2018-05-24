@@ -2,40 +2,36 @@
     {
         "tier": 1,
         "category": "KOG",
-        "info": "The best, most consistent Decks. Expect these to be the majority played in competitive events due to their dominance.",
         "types":
         [
             { "id": "sylvans",                  "display": "Sylvans",               "card": "Sylvan Komushroomo" },            
             { "id": "masked-heroes",            "display": "Masked Heroes",         "card": "Masked HERO Anki" },
-            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" }     
+            { "id": "amazoness",                "display": "Amazoness",             "card": "Amazoness Queen" },
+            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" }     
         ] 
     },
     {
         "tier": 2,
-        "category": "KOG",
-        "info": "One step away from being a part of the best Decks. Capable of winning a tournament without people being surprised. An advantage they have over the Tier 1 Decks is that everyone is more focused on building their Deck to beat a Tier 1 Deck rather than Tier 2.",
+        "category": "Archive",
         "types":
-        [              
-            { "id": "spellbooks",               "display": "Spellbooks",            "card": "Spellbook of Secrets" },
-            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" }            
+        [                          
         ]
     },
     {
         "tier": 3,
         "category": "KOG",
-        "info": "Keep an eye out for these Deck-types. Don't expect these to be part of the majority played in a competitive event, but do not ignore their existence when building your Deck and choosing tech cards or you won't do well. A great player dedicated to one of these Deck-types can dominate others through extensive experience.",
         "types":
         [   
-            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "aliens",                   "display": "Aliens",                "card": "Alien Overlord" }
         ]
     },
     {
         "category": "HighPotential",
-        "info": "Deck-types acknowledged by the Top Player Council with high potential for being on the Tier List but which do not have enough results to properly rate.",
         "types":
-        [ 
-            { "id": "ojama-stall",                 "display": "Ojama Stall",              "card": "Lava Golem" } 
+        [
+            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
+            { "id": "noble-knights",            "display": "Noble Knights", 		"card": "Noble Knight Medraut" }, 
+            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Grandmaster of the Six Samurai" }
         ] 
     },
     {
@@ -45,8 +41,11 @@
         [         
             { "id": "dinos",                    "display": "Dinos",                 "card": "Evilswarm Salamandra" },
             { "id": "magnet-warriors",          "display": "Magnet Warriors",       "card": "Delta the Magnet Warrior" },
+            { "id": "geargias",                 "display": "Geargias",              "card": "Geargiattacker" },
+            { "id": "archfiends",               "display": "Archfiends",            "card": "Archfiend Emperor, the First Lord of Horror" },
             { "id": "cyber-angels",             "display": "Cyber Angels",          "card": "Cyber Angel Dakini" },
-            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" }, 
+            { "id": "ojama-stall",              "display": "Ojama Stall",           "card": "Lava Golem" },
+            { "id": "sea-stealth-attack",       "display": "Sea Stealth Attack",    "card": "Sea Stealth Attack" },
             { "id": "red-eyes-zombies",         "display": "Red-Eyes Zombies",      "card": "Red-Eyes Zombie Dragon" },
             { "id": "paleozoics",               "display": "Paleozoics",            "card": "Paleozoic Canadia" },
             { "id": "destiny-heroes",           "display": "Destiny Heroes",        "card": "Destiny HERO - Celestial" },
@@ -72,7 +71,6 @@
             { "id": "harpies",                  "display": "Harpies",               "card": "Cyber Harpie Lady" },
             { "id": "phoenix-nephthys",         "display": "Phoenix",               "card": "Sacred Phoenix of Nephthys" },
             { "id": "gravekeepers",             "display": "Gravekeepers",          "card": "Gravekeeper's Chief" },
-            { "id": "six-samurais",             "display": "Six Samurais",          "card": "Great Shogun Shien" },
             { "id": "burn-decks",               "display": "Burn",                  "card": "Burning Land" },
             { "id": "insects",     	            "display": "Insects",               "card": "Metamorphosed Insect Queen" },
             { "id": "toons",                    "display": "Toons",                 "card": "Toon Kingdom" },
@@ -102,7 +100,6 @@
             { "id": "dark-paladin",             "display": "Dark Paladin",          "card": "Dark Paladin" },
             { "id": "mausoleum",                "display": "Mausoleum",             "card": "Mausoleum of the Emperor" },
             { "id": "naturias",                 "display": "Naturias",              "card": "Naturia Marron" },
-            { "id": "bujins",         		    "display": "Bujins", 				"card": "Bujin Yamato" },
             { "id": "volcanics",                "display": "Volcanics",             "card": "Volcanic Rocket" },
             { "id": "treeborn-tributes",        "display": "Treeborn Tributes",     "card": "Treeborn Frog" },
             { "id": "venus",                    "display": "Venus",                 "card": "The Agent of Creation - Venus" },

@@ -7,7 +7,8 @@ category: tournament
 sub-category: report
 tournament: Meta Weekly
 number: 4
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
+date: 2018-01-24
 comments: true
 description: The Meta Weekly 4 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 4, meta weekly 4 winners, meta weekly 4 decks, tournament
@@ -16,7 +17,8 @@ permalink: /tournaments/meta-weekly/4/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 ### Tournament 4 META LADDER 
 

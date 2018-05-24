@@ -7,7 +7,8 @@ category: tournament
 sub-category: report
 tournament: Meta Weekly
 number: 6
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
+date: 2018-02-10
 comments: true
 description: The Meta Weekly 6 tournament report. Check the prize winners and their decks here.
 keywords: meta weekly, meta-weekly 6, meta weekly 6 winners, meta weekly 6 decks, tournament
@@ -16,8 +17,8 @@ permalink: /tournaments/meta-weekly/6/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
-
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 #### Meta Weekly 6 - February 10, 2018
 

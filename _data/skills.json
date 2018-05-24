@@ -2262,8 +2262,21 @@
         "how": "Level 20"
       }
     ]
+  },
+  {
+    "name": "Transcendent Crystals",
+    "description": "Send 1 to 3 cards from your hand to the Graveyard. Then, choose the same number of 'Crystal Beast' monster(s) from your Deck as the number of cards you sent from your hand to the Graveyard, and place it/them in your Spell & Trap Zone as Continuous Spell Card(s).This Skill can only be used once per turn, and twice per Duel.",
+    "exclusive": true,
+    "characters": [
+      {
+        "name": "Jesse Anderson",
+        "how": "Event"
+      }
+    ]
   }
 ]
+
+
 
 
 

@@ -1,21 +1,87 @@
 ---
 layout: blog
-date: 2018-05-10 08:30:00 +0100
-title: Datamined Discoveries! - May
+date: 2018-05-19 01:00:00 +0100
+title: "Datamined Leaks: New Main Box"
 author: Yami Hammy
-image: /img/content/news/2018/05/datamined-discoveries/thumbnail.jpg
+image: /img/content/news/2018/05/datamined-discoveries/17-thumbnail.jpg
 category: news
 comments: true
 description: New files for upcoming events and cards have been found. Check here to get a sneak peek of what we can expect in future updates!
 keywords: news, new files, leaked cards, upcoming events, sneak peek, future updates, datamine, leaks, duel-a-thon, tpc
-permalink: /news/may-2018/datamined-discoveries/
+permalink: /news/may-2018/datamined-leaks/
 pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-##### Updated May 10th - Added Top Player Council Thoughts
+##### Updated May 19th - Added [Miscellaneous](#173)
 
+<a name="170"></a>
+
+### May 17th Update
+
+<br>
+
+With another maintenance update comes new discoveries; **a new Main Box, event, skill and campaigns** have been found courtesy of our beloved Justin Joestar, YAZAN and XOF!
+
+#### Main Box: Crusaders' Battlegrounds
+The box will be released on **May 22nd** and there will also be a sale! The following cards are now confirmed to be in the box.
+
+[gallery](/img/content/news/2018/05/datamined-discoveries/17-main-box.jpg, /img/content/news/2018/05/datamined-discoveries/17-sale.png)
+
+<br>
+<br>
+
+Check out our **[box review article](/box-reviews/crusaders-battlegrounds/)** to see what the [Top Player Council](/top-player-council/) think of the new cards!
+
+##### Ultra Rare Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="UR" %}
+
+##### Super Rare Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="SR" %}
+
+##### Rare Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="R" %}
+
+##### Normal Cards
+
+{% include box.html box=site.data.card-locations.box.crusaders-battlegrounds rarity="N" %}
+
+---
+
+#### Tristan Taylor Event
+These drops are confirmed for the event that's happening in late May.
+
+![](/img/content/news/2018/05/datamined-discoveries/17-tristan.jpg)
+
+[deck](Yu-Jo Friendship; Millennium Shield; Berserk Gorilla; Battleguard Rage; Super Robolady; Super Roboyarou; Voltic Kong;  Robolady; Roboyarou; Cyber Commander)
+
+<a name="173"></a>
+
+#### Miscellaneous
+A new skill, new Vagabond challenges, a new purchasable "Bonus Duelist" item, new "Espa Roba's Duel Carnival" event and new Tag Duel event details have been discovered! There's also a description for an item called "Vagrant" (which we discussed in [last month's update](/news/april-2018/datamined-discoveries/)) that gives you much more EXP than Standard/Legendary Duelists!
+
+[gallery](/img/content/news/2018/05/datamined-discoveries/17-skill-cyber-energy-amplified.png, /img/content/news/2018/05/datamined-discoveries/19-vagabond.png, /img/content/news/2018/05/datamined-discoveries/19-bonus-duelist.png, /img/content/news/2018/05/datamined-discoveries/19-espa-roba.png, /img/content/news/2018/05/datamined-discoveries/19-tag-duel.png, /img/content/news/2018/05/datamined-discoveries/19-vagrant.png)
+
+<br>
+<br>
+
+<a name="174"></a>
+
+#### Campaigns
+- The Bonus Duel Reward Campaign (+1000 [Duel Assessment](/farming/duel-assessment-score/)) is coming in 5-7 days.   
+- The Double Gate Keys & Gold Campaign is coming in 12-14 days, likely after the previous campaign. 
+
+---
+
+- [May 17th Update](#170)
+     - [Main Box: Crusaders' Battlegrounds](#main-box-crusaders-battlegrounds)
+     - [Tristan Taylor Event](#tristan-taylor-event)
+     - [Miscellaneous](#173)
+     - [Campaigns](#174)
 - [May 9th Update](#90)
     - [Selection Box Mini Vol.01](#91)
     - [Top Player Council Thoughts](#top-player-council-thoughts)
@@ -28,7 +94,7 @@ pinned: false
     - [Campaigns](#92)
     - [Gamemat and Card Sleeves](#93)
     - [World Championship 2018](#94)
-    - [Miscellaneous ](#95)
+    - [Miscellaneous](#95)
 
 ---
 
@@ -263,6 +329,13 @@ You can get the {Super Vehicroid Jumbo Drill} gamemat by Fusion Summonning Syrus
 <a name="94"></a>
 
 #### World Championship 2018
+The following cards will be available from the WCS UR Ticket ({Dark Magician} is [Arkana's version](http://yugioh.wikia.com/wiki/Dark_Magician_(Arkana))):
+<!--
+{% include oneimage.html image="https://yugiohprices.com/api/card_image/Dark Magician (Arkana)" %}
+-->
+
+[deck](Amazoness Princess; Armed Dragon LV10; Armored Axon Kicker; Chimeratech Overdragon; Crystal Beast Sapphire Pegasus; Dark Magician; Dynatherium; Evilswarm Salamandra; Expressroid; Maha Vailo; Master Gig; Meltiel, Sage of the Sky; Overdone Burial; Panther Warrior; Phantom Beast Rock-Lizard; Pyrorex the Elemental Lord; Sirenorca; Skilled Blue Magician; The Big Cattle Drive; Unity; VWXYZ-Dragon Catapult Cannon; Vennu, Bright Bird of Divinity; Windrose the Elemental Lord) 
+
 There will be a "support campaign" during the World Championship, the details of which have just been revealed in the [news update](/news/may-2018/in-game-updates/).  
 
 [gallery](/img/content/news/2018/05/datamined-discoveries/09-wcs-1.png, /img/content/news/2018/05/datamined-discoveries/09-wcs-2.png, /img/content/news/2018/05/datamined-discoveries/09-wcs-3.png)

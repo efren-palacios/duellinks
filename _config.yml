@@ -1,5 +1,5 @@
 title: Duel Links Meta
-url: https://dlmbeta.netlify.com
+url: https://alphadkayed.netlify.com
 disqus:
   shortname: duellinksmeta
 exclude: ["Gemfile",
@@ -18,6 +18,6 @@ plugins:
   - jekyll-sitemap
 loadSize: 10
 season-end: 0001-01-01T01:00:00.000
-ga-url: dlmbeta.netlify.com
+ga-url: alphadkayed.netlify.com
 ga-code: UA-93155050-2
 incremental: true

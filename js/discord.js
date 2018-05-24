@@ -184,7 +184,7 @@ DiscordAPICall.prototype.getAllowedRolesID = function(callback)
             ref.setAllowedRoles(allowedRoles);
             callback();
         },
-        error: function ()
+        error: function (a, b, c)
         {
             $("#kog-status").html("Internal error.");
         }
@@ -242,7 +242,7 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
 
 var discordUser = new DiscordUser("", "", []);
 var cookieManager = new ProfileCookieManager("discord-id");
-var apiManager = new DiscordAPICall('Mzk4MjkwODY1NTU2MTYwNTEz.DS8Y4A.ofv3FayCq8uldaqB--FLQnFjfJk', '303175246268334082');
+var apiManager = new DiscordAPICall('NDQ4MzcwMTExMzg5MTA2MTc3.DeVIwg.gTxYOSsI0tnGREqZGoEb-YurWg4', '303175246268334082');
 
 $(function ()
 {
@@ -326,7 +326,7 @@ function removeAccessTokenFromURL()
 
 /* ======================= */
 
-function isSeasonEnd()
+/*function isSeasonEnd()
 {
     var currentDate = new Date();
     var seasonEnd = new Date($("#season-end").data("date"));
@@ -335,8 +335,5 @@ function isSeasonEnd()
     var seasonStart = new Date(seasonEnd.valueOf());
         seasonStart.setDate(seasonStart.getDate() + 1)
 
-    
-    
-
     var x = 0;
-}
+}*/

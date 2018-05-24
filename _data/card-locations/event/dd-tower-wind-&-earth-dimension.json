@@ -2,5 +2,13 @@
     {
         "name": "Kunoichi",
         "rarity": "SR" 
+    },
+    {
+        "name": "Sirenorca",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Windrose the Elemental Lord",
+        "rarity": "UR" 
     }
 ]

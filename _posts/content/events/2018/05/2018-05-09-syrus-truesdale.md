@@ -5,7 +5,7 @@ title: Syrus Truesdale's Road to Duel Links
 author: Yami Hammy
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
 category: event
-ended: false
+ended: true
 comments: true
 description: Syrus Truesdale has returned! Here's all you need to know about the event, the best ways to farm him and unlock him as a character - get those Vehicroid cards! 
 keywords: event, syrus, syrus truesdale, farm
@@ -16,8 +16,9 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 ![Banner](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/banner.png)
 
-##### Updated May 10th - Added Top Player Council Thoughts
+##### Updated May 13th - [Bonus Multiplier](#update)
 
+- [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Level-Up Rewards](#level-up-rewards)
@@ -31,6 +32,13 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 - [Syrus Truesdale Lvl: 40 Decklist](#40)
 - [Syrus Truesdale Lvl: 30 Decklist](#30)
 - **[Duel Awards](#awards)**
+
+---
+
+### Update
+The bonus multipler has increased and the daily rewards have now doubled!
+
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/bonus.jpg)
 
 ---
 
@@ -147,8 +155,6 @@ These are the cards and Skills you can attain.
 ---
 
 ### Farm Decks 
-
-*We will update soon with more farm Decks, watch this space!*
 
 <a name="freeska"></a>
 

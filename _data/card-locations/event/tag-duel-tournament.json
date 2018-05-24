@@ -6,5 +6,13 @@
     {
         "name": "Five Brothers Explosion",
         "rarity": "N"
-    } 
+    },
+    {
+        "name": "Evilswarm Salamandra",
+        "rarity": "UR"
+    },
+    {
+        "name": "Unity",
+        "rarity": "UR"
+    }   
 ]
