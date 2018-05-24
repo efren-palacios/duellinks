@@ -102,13 +102,12 @@ A new skill, new Vagabond challenges, a new purchasable "Bonus Duelist" item, ne
 
 ### May 9th Update
 
-<br>
-
 With another maintenance update comes new discoveries; **a new Selection Box, new cards, new campaigns and accessories** have been found courtesy of YAZAN and XOF!
 
 <a name="91"></a>
 
 #### Selection Box Mini Vol.01
+
 The release date isn't confirmed but it will most likely be before the Regional Representative Qualifier. The following cards are speculated to be in the Box:
 
 ![](/img/content/news/2018/05/datamined-discoveries/09-selection-box.png)

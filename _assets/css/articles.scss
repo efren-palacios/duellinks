@@ -76,8 +76,6 @@
       {
         text-decoration: none;
         color: $text-default;
-
-        &.author:hover { text-decoration: underline; }
       }
 
       .cover
@@ -244,12 +242,18 @@
   {
     color: inherit;
     
+    &:hover
+    {
+      text-decoration: none;
+      font { text-decoration: underline; }
+    }
+
     &.no-role { color: $active; }
     &.no-profile
     {
       pointer-events: none;
 
-      &:hover { text-decoration: none; }
+      &:hover font { text-decoration: none; }
     }
 
     &:after

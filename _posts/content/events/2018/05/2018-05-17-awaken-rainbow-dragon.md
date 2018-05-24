@@ -93,22 +93,25 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Do the new Crystal Beast cards and skill have the potential to produce a new top-tier deck?"
 
-<br>
-
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- Probably not.
+
+> Probably not.
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Probably not, but it would definitely be a fun deck to play though.
+
+> Probably not, but it would definitely be a fun deck to play though.
 
 **[Whybona](/top-player-council/whybona/)** says:
-- Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
+
+> Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- Yes!
+
+> Yes!
 
 **[Super Vegito](/top-player-council/super-vegito/)** says:
-- New archetype support is always welcome but I don't think it's enough to compete with the current meta.
+
+> New archetype support is always welcome but I don't think it's enough to compete with the current meta.
 
 ---
 
@@ -116,22 +119,25 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will any of the new Crystal Beast cards be used in a current top-tier deck?"
 
-<br>
-
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- Unfortunately, no.
+
+> Unfortunately, no.
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Nope!
+
+> Nope!
 
 **[Whybona](/top-player-council/whybona/)** says:
-- I highly doubt it.
+
+> I highly doubt it.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
+
+> Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
 
 **[Super Vegito](/top-player-council/super-vegito/)** says:
-- No!
+
+> No!
 
 ---
 
@@ -139,19 +145,21 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will you personally be farming this event?"
 
-<br>
-
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- For 3 of every card, yes.
+
+> For 3 of every card, yes.
 
 **[Machdragon](/top-player-council/machdragon/)** says:
-- Yes, for the gems.
+
+> Yes, for the gems.
 
 **[Whybona](/top-player-council/whybona/)** says:
-- Only if Jesse is easy to farm.
+
+> Only if Jesse is easy to farm.
 
 **[3K All Day](/top-player-council/3kallday/)** says:
-- Yes, I am.
+
+> Yes, I am.
 
 ---
 
