@@ -14,37 +14,45 @@ Please read this very carefully to learn all of its features so you can start wr
 
 ### Custom DLM Extensions
 
-Next to this handy default markdown syntax, the DLM dev team has also provided some extra markdown extensions to accomodated for some special needs. These extensions will only work on our website as we have developed them to meet the DLM requirements.
+Next to this handy default markdown syntax, the DLM dev team has also provided some extra markdown extensions to accomodate for some special needs. These extensions will only work on our website as we have developed them to meet the DLM requirements.
 
 #### Card hovers
 
-This is probably the extension that you'll be using the most. A very straightforward syntax which displays the card name that you provide but adds a hover effect on it. The hover effect is a detailed description of the card so users can read its effects instantly without having to google it.
+This is probably the extension that you'll be using the most. A very straightforward syntax which displays the card name that you provide but adds a hover effect on it. The hover effect is a detailed description of the card so users can read its effects instantly without having to google them.
 
 __Example__
 
+```
 {Dark Magician}
+```
 
 __Note__
 
-When the given card name is also a skill, you can force the system to have it treated as a card by adding an extra ! symbol.
+When the given card name is also a skill, you can force the system to treat it as a card by adding an extra ! symbol.
 
+```
 {!Destiny Draw}
+```
 
-#### Card hovers
+#### Skill hovers
 
-Pretty much the same as card hover, but for skills. Provides a hoverable box with details about the skill.
+Pretty much the same as card hovers, but for skills. Provides a hoverable box with details about the skill.
 
 __Example__
 
+```
 {Restart}
+```
 
 #### Profile links
 
-One of the newest to join the crew. This one lets you create links to profiles without having to worry about the url of the person. It will also color the user depending on his/her role.
+One of the newest to join the crew. This one lets you create links to profiles without having to worry about the url of the profile. It will also color the user name depending on his/her role.
 
 __Example__
 
+```
 {#Yamy Hammy}
+```
 
 #### Decklists
 
@@ -64,4 +72,3 @@ __Without a skill__
 
 As you can see above, a decklist does not necessarily need to be an actual deck but it can also be used for a regular box of cards. Examples of this are side decks, drop rewards boxes and so on. Basically anything to group a list of cards together.
 
-### 
