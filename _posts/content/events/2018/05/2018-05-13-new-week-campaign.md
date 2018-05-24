@@ -4,6 +4,7 @@ date: 2018-05-20 12:00:00 +0100
 title: New Week Campaign - Rage Page!
 author: Yami Hammy
 image: /img/content/events/2018/05/new-week-campaign/thumbnail.jpg
+category: random
 ended: true
 comments: true
 description: Post you drops or vent your rage about the New Week Campaign! 

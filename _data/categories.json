@@ -3,7 +3,8 @@
 	{ "id": "farming", "display": "Farming" },
 	{ "id": "news",    "display": "News" },
 	{ "id": "website-update", "display": "Website Update" },
-	{ "id": "guide", "sub-categories":
+	{ "id": "random",   "display": "Random" },
+	{ "id": "guide", 	"sub-categories":
 		[
 			{ "id": "competitive", "display": "Competitive Guide" },
 			{ "id": "deck-type",   "display": "Deck Type Guide" },

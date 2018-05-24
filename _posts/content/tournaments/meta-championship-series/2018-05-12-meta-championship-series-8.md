@@ -1,8 +1,9 @@
 ---
 layout: blog
 title: "Meta Championship Series #8 Report"
-author: Creative, Jonesy9027, SpoonCats & Yami Hammy
+author: Creative; Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 8
 image: /img/content/tournaments/meta-championship-series/8/thumbnail.jpg

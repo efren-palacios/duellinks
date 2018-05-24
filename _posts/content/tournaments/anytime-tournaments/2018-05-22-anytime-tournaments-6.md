@@ -3,6 +3,7 @@ layout: blog
 title: "1st Place Decklists #5"
 author: Yami Hammy
 category: tournament
+sub-category: report
 tournament: Anytime Tournament
 number: 5
 image: /img/logos/generic-tournament.jpg
