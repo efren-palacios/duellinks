@@ -84,9 +84,6 @@
         "name": "Malice Doll of Demise"
     },
     {
-        "name": "Sangan"
-    },
-    {
         "name": "Ectoplasmer"
     },
     {
@@ -97,9 +94,6 @@
     },
     {
         "name": "Guardian Sphinx"
-    },
-    {
-        "name": "Rare Value"
     },
     {
         "name": "Rainbow Path"
@@ -163,5 +157,8 @@
     },
     {
         "name": "Jetroid"
+    },
+    {
+        "name": "Crystal Conclave"
     }
 ]

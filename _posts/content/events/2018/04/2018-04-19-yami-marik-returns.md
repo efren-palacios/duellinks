@@ -181,7 +181,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 
 <a name="charlie"></a>
 
-#### Lvl. 40 **(Marik & Arkana)** Ra Farm for - created by Charlie Mckiz
+#### Lvl. 40 **(Marik & Arkana)** Ra Farm - created by Charlie Mckiz
 
 [deck:Destiny Draw](The Winged Dragon of Ra; Kiseitai; Kiseitai; Kiseitai; Cosmic Compass; Anti-Magic Arrows; Arrivalrivals; Draining Shield; Draining Shield; Draining Shield; Jar of Greed; Damage Vaccine Ω MAX; Damage Vaccine Ω MAX; Damage Vaccine Ω MAX; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
@@ -311,7 +311,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 
 ##### Replacements
 - {Caligo Claw Crow} can be replaced for {The Fiend Megacyber}
-- {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping} etc 
+- {Legacy of Yata-Garasu} can be replaced by other draw cards (filter by "Drawing" in the Card Editor), for example, {Jar of Greed}, {Shard of Greed}, {Good Goblin Housekeeping}.
 
 ---
 

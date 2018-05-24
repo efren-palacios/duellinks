@@ -7,7 +7,8 @@ category: tournament
 sub-category: report
 tournament: Meta Weekly
 number: 8
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
+date: 2018-02-21
 comments: true
 description: The Meta Weekly is a casual tournament that constantly assesses the ever changing Meta. Check out the report of these Top Players, their decks, and Prizes for the week of February 21, 2018. 
 keywords: meta weekly, meta weekly 8, meta weekly 8 winners, meta weekly 8 decks, tournament, Dkayed, magnets, aliens, red-eyes, red eyes, the legendary fisherman, sea stealth attack, gaia plate, magnet warriors
@@ -16,7 +17,8 @@ permalink: /tournaments/meta-weekly/8/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 #### Meta Weekly 8 - February 21, 2018
 

@@ -1,5 +1,15 @@
 [
     {
+        "name": "Crystal Blessing",
+        "rarity": "R",
+        "level": 33
+    },
+    {
+        "name": "Crystal Promise",
+        "rarity": "SR",
+        "level": 40
+    },
+    {
         "name": "Crystal Bond",
         "rarity": "UR",
         "level": 45

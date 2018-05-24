@@ -110,5 +110,21 @@
     {
         "name": "Wonder Wand",
         "rarity": "SR"
+    },    
+    {
+        "name": "Crystal Raigeki",
+        "rarity": "SR"
+    },    
+    {
+        "name": "Gravi-Crush Dragon",
+        "rarity": "SR"
+    },    
+    {
+        "name": "Penguin Knight",
+        "rarity": "N"
+    },    
+    {
+        "name": "A/D Changer",
+        "rarity": "R"
     }
 ]

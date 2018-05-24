@@ -16,8 +16,9 @@ permalink: /events/may-2018/elegant-mai/
 
 ![Banner](/img/content/news/2018/04/datamined-discoveries/26-elegant-mai-banner.png)
 
-##### Updated May 8th - Added Lvl: 40 Ra-Sylvans Farm Deck
+##### Updated May 16th - [Added Duel Awards Winners](#awards)
 
+- **[Duel Awards](#awards)**
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
 - [Event Missions](#event-missions)
@@ -29,7 +30,30 @@ permalink: /events/may-2018/elegant-mai/
     - [Lvl: 30 Blue-Eyes Farm](#blue)
 - [Elegant Mai Lvl: 40 Decklist](#40)
 - [Elegant Mai Lvl: 30 Decklist](#30)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Best Drop - **mr3vo**
+
+![](/img/content/events/2018/05/elegant-mai/mr3vo.jpg)
+
+#### Most New UR & SR Cards - **Milliardo**
+
+![](/img/content/events/2018/05/elegant-mai/milliardo.jpg)
+
+#### NEW: Best Meme - **Nil**
+
+![](/img/content/events/2018/05/elegant-mai/nil.jpg)
 
 ---
 
@@ -205,23 +229,6 @@ You should have two {Blue-Eyes White Dragon} on the field.
 ### Elegant Mai Lvl: 30 Decklist
 
 [deck](Swift Birdman Joe; Swift Birdman Joe; Swift Birdman Joe; Cave Dragon; Diskblade Rider; Garuda the Wind Spirit; Sonic Duck; Sonic Duck; Twin-Headed Behemoth; Black Ptera; Black Ptera; Shrine of Mist Valley; Shrine of Mist Valley; Destruction Ring; Regretful Rebirth; Regretful Rebirth; Regretful Rebirth; Destruct Potion; Destruct Potion; Destruct Potion)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below!), when the event is over the person with the:
-- Best drop will have their name posted here
-- Most Prismatic cards will have their name posted here
-- Most UR and SR Cards will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 

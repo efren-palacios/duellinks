@@ -1,11 +1,17 @@
 {
     "game-changes":
     {
-        "date": 2018-05-07,
-        "description": "With the release of the Visions of Ice Mini Box on April 30th came a new archetype: Spellbooks. While they have not yet been fully optimized, they are shaking up the meta in a variety of builds. Another Deck making an impact is Amazoness. They found new strength in support cards from the Elegant Mai event as well as the level 45 reward for Mai Valentine. These new Decks are testing the current top tier Decks. Some will fall and give rise to new top tier Decks!"
+        "date": 2018-05-21,
+        "description": "The release of the Crusader Battlegrounds Main Box on May 21st introduced the Noble Knight archetype and support for the Bujin and Six Samurai archetypes."
     },
     "tier-changes": 
     [
+        { "type": "amazoness", "from": 2, "to": 1, "date": 2018-05-21 },
+        { "type": "archfiends", "from": 3, "to": "nothing", "date": 2018-05-21 },
+        { "type": "geargias", "from": 3, "to": "nothing", "date": 2018-05-21 },
+        { "type": "geargias", "from": 2, "to": 3, "date": 2018-05-14 },
+        { "type": "amazoness", "from": 1, "to": 2, "date": 2018-05-14 },
+        { "type": "spellbooks", "from": 2, "to": 1, "date": 2018-05-14 },
         { "type": "archfiends", "from": 2, "to": 3, "date": 2018-05-07 },
         { "type": "cyber-angels", "from": 3, "to": "nothing", "date": 2018-05-07 },
         { "type": "spellbooks", "from": "nothing", "to": 2, "date": 2018-05-07 },

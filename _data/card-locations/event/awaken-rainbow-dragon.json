@@ -38,6 +38,18 @@
     {
         "name": "Triggered Summon",
         "rarity": "R"       
+    },
+    {
+        "name": "Rare Value",
+        "rarity": "UR"       
+    },
+    {
+        "name": "Crystal Promise",
+        "rarity": "SR"       
+    },
+    {
+        "name": "Rainbow Gravity",
+        "rarity": "R"       
     }
 ]
 
