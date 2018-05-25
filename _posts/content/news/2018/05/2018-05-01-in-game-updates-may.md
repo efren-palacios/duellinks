@@ -4,7 +4,7 @@ title: "In-Game Updates: Ranked Duels 5,000 LP"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-24 19:00:00 +0100
+date: 2018-05-25 17:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -23,9 +23,9 @@ permalink: /news/may-2018/in-game-updates/
 <a name="231"></a>
 
 #### Ranked Duels Updated
-For the June season of Ranked Duels you will start the duel with 5000 LP. Will [Archfiends](/tier-list/deck-types/archfiends/) make a comeback now that many of their cards are instantly searchable with {Card of the Soul} or perhaps {Cyber Stein} will flood the ladder! Check out the "cancer-theory-crafting" channel in the Discord to join in the discussion. 
+For the June season of Ranked Duels you will start the duel with 5000 LP. Will [Archfiends](/tier-list/deck-types/archfiends/) make a comeback now that many of their cards are instantly searchable with {Card of the Soul} or perhaps {Cyber-Stein} will flood the ladder! Check out the "5k-lifepoints-ranked" channel in the Discord to join in the discussion. 
 
-[slider](/img/content/news/2018/05/in-game-updates/25-ranked.jpg) 
+![](/img/content/news/2018/05/in-game-updates/25-ranked.jpg) 
 
 <a name="232"></a>
 
@@ -37,7 +37,7 @@ The privacy policy that no one will read has been postponed!
 ---
 
 - [May 25th (Update 23)](#230)
-    - [](#231)
+    - [Ranked Duels Updated](#231)
     - [Privacy Policy](#232)
 - [May 24th (Update 22)](#220)
     - [Tristan Taylor Event](#221)
