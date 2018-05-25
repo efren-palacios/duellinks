@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "In-Game Updates: Tristan Taylor"
+title: "In-Game Updates: Ranked Duels 5,000 LP"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
@@ -14,28 +14,31 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="220"></a>
+<a name="230"></a>
 
-### May 24th (Update 22)
+### May 25th (Update 23)
 
 <br>
 
-<a name="221"></a>
+<a name="231"></a>
 
-#### Tristan Taylor Event
-The man, the myth has arrived. Defeat him to obtain {Yu-Jo Friendship} and thank that mystery friend that's been sending you Vagabonds with a handshake! Also, read our [event article](/events/may-2018/tristan-taylor/) for the best ways farm him and insightful [Top Player Council](/top-player-council/) thoughts on the new cards.
+#### Ranked Duels Updated
+For the June season of Ranked Duels you will start the duel with 5000 LP. Will [Archfiends](/tier-list/deck-types/archfiends/) make a comeback now that many of their cards are instantly searchable with {Card of the Soul} or perhaps {Cyber Stein} will flood the ladder! Check out the "cancer-theory-crafting" channel in the Discord to join in the discussion. 
 
-[slider](/img/content/news/2018/05/in-game-updates/24-tristan.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/25-ranked.jpg) 
 
-<a name="222"></a>
+<a name="232"></a>
 
-#### Bonus Reward Campaign
-+1000 [Duel Assessment](/farming/duel-assessment-score/) score until 1st June. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+#### Privacy Policy
+The privacy policy that no one will read has been postponed!
 
-[slider](/img/content/news/2018/05/in-game-updates/24-bonus-campaign.jpg) 
+![](/img/content/news/2018/05/in-game-updates/25-policy.jpg) 
 
 ---
 
+- [May 25th (Update 23)](#230)
+    - [](#231)
+    - [Privacy Policy](#232)
 - [May 24th (Update 22)](#220)
     - [Tristan Taylor Event](#221)
     - [Bonus Reward Campaign!](#222)
@@ -104,6 +107,28 @@ The man, the myth has arrived. Defeat him to obtain {Yu-Jo Friendship} and thank
     - [Ranked Duels Updated](#11)
     - [New Card Box](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="220"></a>
+
+### May 24th (Update 22)
+
+<br>
+
+<a name="221"></a>
+
+#### Tristan Taylor Event
+The man, the myth has arrived. Defeat him to obtain {Yu-Jo Friendship} and thank that mystery friend that's been sending you Vagabonds with a handshake! Also, read our [event article](/events/may-2018/tristan-taylor/) for the best ways farm him and insightful [Top Player Council](/top-player-council/) thoughts on the new cards.
+
+[slider](/img/content/news/2018/05/in-game-updates/24-tristan.jpg) 
+
+<a name="222"></a>
+
+#### Bonus Reward Campaign
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 1st June. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
+
+[slider](/img/content/news/2018/05/in-game-updates/24-bonus-campaign.jpg) 
 
 ---
 
