@@ -17,7 +17,7 @@ ended: true
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-##### Updated May 8th - Added Duel Awards Winners
+##### Updated May 8, 2018 - [Added Duel Awards Winners](#awards)
 
 - **[Duel Awards](#awards)**
 - [Updates](#updates)

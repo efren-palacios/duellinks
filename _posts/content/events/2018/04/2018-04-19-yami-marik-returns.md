@@ -15,7 +15,7 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: 26th April - Added Duel Awards winners**
+##### Updated 26 April, 2018 - [Added Duel Awards Winners](#awards)
 
 ![Banner](/img/content/events/2018/04/yami-marik-returns/banner.png)
 
