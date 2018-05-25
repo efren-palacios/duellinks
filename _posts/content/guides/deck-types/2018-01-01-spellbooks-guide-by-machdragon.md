@@ -6,9 +6,8 @@ category: guide
 sub-category: deck-type
 deck-type: spellbooks
 image: /img/content/guides/spellbooks-guide/spellbooks.jpg
-date: 2018-05-25 01:00:00 -0400
+date: 2018-05-25 01:20:00 -0400
 comments: true
-hide: true
 description: A guide written by Machdragon taking an in-depth look at the Spellbook decktype.
 keywords: spellbooks, spellbook of prophecy, spellbooks, tier 1, top tier, in-depth guide, core cards
 permalink: /guides/deck-types/spellbook-guide-by-machdragon/
