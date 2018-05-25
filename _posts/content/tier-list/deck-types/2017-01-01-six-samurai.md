@@ -6,7 +6,7 @@ author: FrozenKingK0
 has-profile: true
 category: tier-list
 sub-category: deck-type
-deck-type: six-samurai
+deck-type: six-samurais
 image: /img/content/tier-list/deck-types/default.jpg
 comments: true
 description: A quick introduction to the Six Samurai archetype. View sample deck, core cards, tech cards, quick tips, guides, videos and other information.
