@@ -193,11 +193,11 @@ end
 galleryHtml += '
     </ol>
 	<div class="carousel-inner">
-		<div class="carousel-item ' + carosuelItemHeight + ' active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
+		<div class="carousel-item ' + carosuelItemHeight + ' active"><img class="noDrag d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" draggable="false" alt=""></div>
         '
 
 for k in 1...imageLinks.length
-	galleryHtml += '    <div class="carousel-item ' + carosuelItemHeight + '"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
+	galleryHtml += '    <div class="carousel-item ' + carosuelItemHeight + '"><img class="noDrag d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" draggable="false" alt=""></div>
 	';
 end
 
