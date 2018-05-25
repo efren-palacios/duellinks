@@ -155,21 +155,11 @@
   }
 }
 
-@mixin ribbon-color($color)
-{
-  background: $color;
-
-  &:after
-  {
-    border-left-color: $color;
-  }
-}
-
 .ribbon
 {
   font-size: 1rem;
-  height: 32px;
-  line-height: 32px;
+  height: $ribbon-height;
+  line-height: $ribbon-height;
   padding-left: 10px;
   padding-right: 8px;
   position: absolute;
@@ -205,8 +195,7 @@
     width: 0;
     top: $ribbon-height;
     left: 0.1px;
-    border-top: 9px solid black;
-    /*border-top: 9px solid rgba(20, 50, 180, 0.6);*/
+    border-top: 8px solid black;
     border-left: 7px solid transparent;
   }
 
@@ -218,6 +207,12 @@
     border-top: $ribbon-height/2 solid transparent;
     border-bottom: $ribbon-height/2 solid transparent;
     border-left: 10px solid grey; 
+  }
+
+  @mixin ribbon-color($color)
+  {
+    background: $color;
+    &:after { border-left-color: $color; }
   }
 
   &.event { @include ribbon-color(#22AF00) }
@@ -235,6 +230,42 @@
   &.tournament-report  { @include ribbon-color(#6C3799) }
   &.tournament-announcement  { @include ribbon-color(#6C3799) }
   &.random  { @include ribbon-color(#694848) }
+}
+
+@mixin ribbon-size($ribbon-height, $font-size, $padding)
+{
+  .ribbon
+  {
+    font-size: $font-size;
+    height: $ribbon-height;
+    line-height: $ribbon-height;
+    padding-left: $padding;
+    padding-right: $padding - 2px;
+    left: -$padding + 1px;
+
+    &:before
+    {
+      top: $ribbon-height;
+    }
+
+    &:after
+    {
+      right: -$padding;
+      border-top: $ribbon-height/2 solid transparent;
+      border-bottom: $ribbon-height/2 solid transparent;
+      border-left: $padding solid grey; 
+    }
+  }
+}
+
+@media only screen and (max-width: 800px)
+{
+  @include ribbon-size(26px, 13px, 8px)
+}
+
+@media only screen and (max-width: 600px)
+{
+  @include ribbon-size(20px, 10px, 6px)
 }
 
 .authors
