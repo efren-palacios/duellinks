@@ -37,13 +37,11 @@ Pawapoke Top 4 in [MCS #8](/tournaments/meta-championship-series/8/report/)
 ### Core Cards  
 These cards are a must in any Spellbooks Deck.   
 
-#### Core Cards   
 [deck](Spellbook Magician of Prophecy; Spellbook Magician of Prophecy;Prophecy Destroyer; Prophecy Destroyer; Reaper of Prophecy; Fool of Prophecy; Fool of Prophecy; Fool of Prophecy;Spellbook of Life; Spellbook of Life; Spellbook of Secrets; Spellbook of Secrets; Spellbook of Secrets; That Grass Looks Greener; That Grass Looks Greener; That Grass Looks Greener; Spellbook Library of the Crescent;Spellbook of Fate; Spellbook of Fate; Spellbook of Fate; Spellbook of Power; Spellbook of Eternity; Spellbook of Eternity;Spellbook of the Master; Spellbook of the Master; Treacherous Trap Hole)
 
 ---
 
 ### Tech Cards  
-
 These cards are optional and will change depending on your build preference.  
 
 [deck](Dark Magician of Chaos;The Tricky;Sphere Kuriboh;Blizzard Princess;Wheel of Prophecy;Strength of Prophecy;Hey, Trunade!;Monster Gate;Enemy Controller;Spellbook Organization;Cursed Seal of the Forbidden Spell)  

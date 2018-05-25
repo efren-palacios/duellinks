@@ -1,61 +1,44 @@
 ---
 layout: blog
-title: "In-Game Updates: Upcoming Updates"
+title: "In-Game Updates: Tristan Taylor"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-23 21:00:00 +0100
+date: 2018-05-24 19:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
-keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment, syrus, arkana
+keywords: news, ranked duels, new box, box, visions of ice, sale, battle city, elegant mai, campaign, duel assessment, syrus, arkana, tristan, wcs, bonus, stamps, ranked duels, card flipper, jesse, crusaders battlegrounds, main box, card trader, new week, selecion box, 
 permalink: /news/may-2018/in-game-updates/
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="210"></a>
+<a name="220"></a>
 
-### May 23rd (Update 21)
+### May 24th (Update 22)
 
 <br>
 
-<a name="211"></a>
+<a name="221"></a>
 
-#### Upcoming Updates
-Here are some key points:
-- Roaming **Zane Truesdale** will return "desiring victory" once again - c'mon Konami, let us obtain him already! 
-- The [**Tag Duel Tournament**](/events/january-2018/tag-duel-tournament/) is making a welcomed return this time with GX characters, fingers crossed that Gems are as generous as the first event.
-- Time for D.D. Tower: Dark Dimension. Will the boss reward this time be [Oblemirage the Elemental Lord](http://yugioh.wikia.com/wiki/Oblemirage_the_Elemental_Lord)?!
-- **Jesse Anderson** will be added to the gate, you can check out his drops in out previous [event article](/events/may-2018/awaken-rainbow-dragon/).
-- The **Espa Roba unlock** event is finally here. The "team event" is a "Duel Carnival" that we found in out [Datmined Leaks](/news/may-2018/datamined-leaks/) article, let's hope he brings {Jinzo}!
-- And finally, [Syrus Truesdale](/events/may-2018/syrus-truesdales-road-to-duel-links/) is back, again.
+#### Tristan Taylor Event
+The man, the myth has arrived. Defeat him to obtain {Yu-Jo Friendship} and thank that mystery friend that's been sending you Vagabonds with a handshake! Also, read our [event article](/events/may-2018/tristan-taylor/) for the best ways farm him and insightful [Top Player Council](/top-player-council/) thoughts on the new cards.
 
-[slider](/img/content/news/2018/05/in-game-updates/23-upcoming-updates.jpg)
+[slider](/img/content/news/2018/05/in-game-updates/24-tristan.jpg) 
 
-<a name="212"></a>
+<a name="222"></a>
 
-#### World Championship Qualifiers
-Qualifiers start next week, get your decks ready and vie for the top spot(s) in your region! Here's all the information you need to know.
+#### Bonus Reward Campaign
++1000 [Duel Assessment](/farming/duel-assessment-score/) score until 1st June. If you've been putting off farming that tricky Legendary Duelist, now is the time! Also, be sure to check out our [Farm Guides](/farming/all-characters/) for the best farm decks!
 
-[slider](/img/content/news/2018/05/in-game-updates/23-wcs.jpg) 
-
-<a name="213"></a>
-
-#### Bonus Duelist
-The Boosted Duel Orb item will be replaced with a "Bonus Duelist" which spawns in duel world and can be dueled 30 times!
-
-[slider](/img/content/news/2018/05/in-game-updates/23-boosted-orbs.jpg) 
-
-<a name="214"></a>
-
-#### Privacy Policy
-A new privacy policy that no one will read.
-
-[slider](/img/content/news/2018/05/in-game-updates/23-policy.jpg) 
+[slider](/img/content/news/2018/05/in-game-updates/24-bonus-campaign.jpg) 
 
 ---
 
+- [May 24th (Update 22)](#220)
+    - [Tristan Taylor Event](#221)
+    - [Bonus Reward Campaign!](#222)
 - [May 23rd (Update 21)](#210)
     - [Upcoming Updates](#211)
     - [World Championship Qualifiers](#212)
@@ -91,7 +74,7 @@ A new privacy policy that no one will read.
     - [New Week Campaign](#111)
     - [Syrus Truesdale Event Update](#112)
 - [May 11th (Update 10)](#100)
-    - [Selection BOXes](#101)
+    - [Selection Boxes](#101)
     - [Arkana Added to the Gate](#102)
 - [May 10th (Update 9)](#90)
     - [WCS Celebration Campaign](#91)
@@ -121,6 +104,48 @@ A new privacy policy that no one will read.
     - [Ranked Duels Updated](#11)
     - [New Card Box](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="210"></a>
+
+### May 23rd (Update 21)
+
+<br>
+
+<a name="211"></a>
+
+#### Upcoming Updates
+Here are some key points:
+- Roaming **Zane Truesdale** will return "desiring victory" once again - c'mon Konami, let us obtain him already! 
+- The [**Tag Duel Tournament**](/events/january-2018/tag-duel-tournament/) is making a welcomed return this time with GX characters, fingers crossed that Gems are as generous as the first event.
+- Time for D.D. Tower: Dark Dimension. Will the boss reward this time be [Oblemirage the Elemental Lord](http://yugioh.wikia.com/wiki/Oblemirage_the_Elemental_Lord)? And who is this "fan-favouite monster"; perhaps {Dark Magician Girl} or {Tour Guide From the Underworld}!
+- **Jesse Anderson** will be added to the gate, you can check out his drops in out previous [event article](/events/may-2018/awaken-rainbow-dragon/).
+- The **Espa Roba unlock** event is finally here. The "team event" is a "Duel Carnival" that we found in out [Datmined Leaks](/news/may-2018/datamined-leaks/) article, let's hope he brings {Jinzo}!
+- And finally, [Syrus Truesdale](/events/may-2018/syrus-truesdales-road-to-duel-links/) is back, again.
+
+[slider](/img/content/news/2018/05/in-game-updates/23-upcoming-updates.jpg)
+
+<a name="212"></a>
+
+#### World Championship Qualifiers
+Qualifiers start next week, get your decks ready and vie for the top spot(s) in your region! Here's all the information you need to know.
+
+[slider](/img/content/news/2018/05/in-game-updates/23-wcs.jpg) 
+
+<a name="213"></a>
+
+#### Bonus Duelist
+The Boosted Duel Orb item will be replaced with a "Bonus Duelist" which spawns in duel world and can be dueled 30 times!
+
+[slider](/img/content/news/2018/05/in-game-updates/23-boosted-orbs.jpg) 
+
+<a name="214"></a>
+
+#### Privacy Policy
+A new privacy policy that no one will read.
+
+[slider](/img/content/news/2018/05/in-game-updates/23-policy.jpg) 
 
 ---
 
