@@ -89,7 +89,7 @@ These are the cards and Skills you can attain.
 - 🚮
 
 **[SelectMaple](/top-player-council/selectmaple/)** says:
-- (OMEGALUL) Trash.
+- OMEGALUL Trash.
 
 **[AndyTsang](/top-player-council/andytsang/)** says:
 - No!

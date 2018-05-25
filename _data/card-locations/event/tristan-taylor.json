@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Panther Warrior",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Yu-Jo Friendship",
+        "rarity": "UR" 
+    },
+    {
+        "name": "Millennium Shield",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Berserk Gorilla",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Battleguard Rage",
+        "rarity": "SR" 
+    },
+    {
+        "name": "Super Robolady",
+        "rarity": "R" 
+    },
+    {
+        "name": "Super Roboyarou",
+        "rarity": "R" 
+    },
+    {
+        "name": "Voltic Kong",
+        "rarity": "R" 
+    },
+    {
+        "name": "Little-Winguard",
+        "rarity": "R" 
+    },
+    {
+        "name": "Roboyarou",
+        "rarity": "N" 
+    },
+    {
+        "name": "Robolady",
+        "rarity": "N" 
+    },
+    {
+        "name": "Cyber Commander",
+        "rarity": "N" 
+    }
+]
