@@ -116,7 +116,11 @@
             { "id": "ninja-control",            "display": "Ninja Control",         "card": "White Ninja" },
             { "id": "relinquished",             "display": "Relinquished",          "card": "Relinquished" },
             { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
-            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" }
+            { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
+            { "id": "crystal-beasts",           "display": "Crystal Beasts",        "card": "Crystal Beast Sapphire Pegasus"},
+            { "id": "monarchs",                 "display": "Monarchs",              "card": "Caius the Shadow Monarch"},
+            { "id": "gustos",                   "display": "Gustos",                "card": "Caam, Serenity of Gusto"},
+            { "id": "fableds",                  "display": "Fableds",               "card": "The Fabled Ganashia"}
         ]
     },
     {
