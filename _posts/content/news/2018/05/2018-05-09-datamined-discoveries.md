@@ -29,8 +29,6 @@ The box will be released on **May 22nd** and there will also be a sale! The foll
 
 [gallery](/img/content/news/2018/05/datamined-discoveries/17-main-box.jpg, /img/content/news/2018/05/datamined-discoveries/17-sale.png)
 
-<br>
-<br>
 
 Check out our **[box review article](/box-reviews/crusaders-battlegrounds/)** to see what the [Top Player Council](/top-player-council/) think of the new cards!
 

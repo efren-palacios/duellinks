@@ -180,16 +180,12 @@ module Jekyll
 galleryHtml = '
 <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
     <ol class="carousel-indicators">
-        <li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="0" class="active">
-            <img src="' + imageLinks[0].strip + '" class="carousel-miniature" />
-        </li>
+        <li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="0" class="active"></li>
         '
 
 
 for k in 1...imageLinks.length
-    galleryHtml += '<li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '">
-            <img src="' + imageLinks[k].strip + '" class="carousel-miniature" />
-        </li>
+    galleryHtml += '<li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
 	';
 end
 
