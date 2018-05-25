@@ -66,7 +66,10 @@ All the Six Samurai cards are Warrior type and don’t boast the greatest stats.
 This skill could see some use, however in a more control oriented variant of the Six Samurai deck. If the meta were to slow down substantially, this could see some play. However, as of now, it is quite useless.  
 
 * {Balance}:  
-A balance list could see some relevance alongside the control variant of Six Samurais, but again, I don’t believe the control variant is fast enough to keep up with the current meta in Duel Links. 
+A balance list could see some relevance alongside the control variant of Six Samurais, but again, I don’t believe the control variant is fast enough to keep up with the current meta in Duel Links.  
+
+* {Duel, Standby!}:  
+Another skill which gives us an extra card in hand to set up for OTK’s. Six Samurai can get away with this skill due to having many ways of dealing with your opponent's card advantage when they also get an extra card in hand. If you take this skill, you’ll be looking to go second and have the tools in your deck to wipe backrow ({Hey, Trunade!}, {Cosmic Cyclone}, etc) and deal with a monster (Enemy Controller, Hand of the Six Samurai) and finish them off with Great Shogun Shien + Grandmaster of the Six Samurai. A fun skill to use and one which should be taken quite seriously.  
 
 ---
 
@@ -228,8 +231,8 @@ Restart for Grandmaster + Enemy Controller. This deck has a similar strategy to 
 Restart for Gyuokku. If the spell book player goes first and gets a Fate ready, we are basically screwed. We need to be able to setup our monsters on the board and if the first monster we summon gets banished it doesn’t allow us to continue summoning the rest of our hand. We need to look for a way to lockdown that backrow so we can continue to flood the board and look for the quick win. If we lose our first monster to a Fate, we can sometimes recover due to good backrow draws + drawing another monster to go for the combo again.
 
 **Effective Cards in the match-up:** 
-[deck](Fire Formation - Gyokkou; Floodgate Trap Hole)
-**Note:** Gyokkou if going first, Floodgate if going second.
+[deck](Fire Formation - Gyokkou; Floodgate Trap Hole;Last Day of Witch)
+**Note:** Floodgate if going first, Gyokkou if going second.
   
 ---
 
@@ -261,11 +264,13 @@ Restart for {Wall of Disruption}/Hand of the Six + Grandmaster. In the mirror, w
 
 1. Keep your Six Samurais out for as long as you can. The more Six Samurais you have on the field, the more plays become available to you.  
 
-2. Powerful Rebirth gives you lots of options, remember that it's ok to let your Six Samurais die to bait out an opponent's play.  
+2. You want to have Grandmaster of the Six Samurai in your opening hand 90% of the time. Without him, your combos will be lacking substantially.  
 
-3. DO NOT flood your field when facing a burn player; you will get Lava Golem’d and it will set you back.  
+3. Powerful Rebirth gives you lots of options, remember that it's ok to let your Six Samurais die to bait out an opponent's play.  
 
-4. Basically understand the meta, and know what to look out for. If you can spot the matchup and common cards they run, you can adjust your playstyle accordingly.   
+4. DO NOT flood your field when facing a burn player; you will get Lava Golem’d and it will set you back.  
+
+5. Basically understand the meta, and know what to look out for. If you can spot the matchup and common cards they run, you can adjust your playstyle accordingly.   
  
 ---
 ---
