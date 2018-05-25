@@ -92,6 +92,11 @@ module Jekyll
                 elsif(tag.start_with?('slider'))
                     sliderHtml = createImageSlider(tagData)
                     content.sub!('[' + tag + '](' + tagData + ')', sliderHtml)
+                elsif(tag.start_with?('backToTop'))
+                    if(tagData=="on")
+                        backToTopHtml = createBackToTopButton()
+                        content.sub!('[' + tag + '](' + tagData + ')', backToTopHtml)
+                    end
                 end
             end
 
@@ -259,7 +264,15 @@ galleryHtml += '</div>
 
             return deckContainer
         end
+        def createBackToTopButton()
+            backTopHtml='<div class="scroll-top-wrapper ">
+                <span class="scroll-top-inner">
+                    <i class="fa fa-2x fa-arrow-circle-up"></i>
+                </span>
+            </div>'
 
+            return backTopHtml
+        end
         # CREATES THE HTML FOR THE IMAGE SLIDER EXTENSION
         def createImageSlider(tagData)
             sliderHtml = '<div class="image-slider scrollbar no-select">

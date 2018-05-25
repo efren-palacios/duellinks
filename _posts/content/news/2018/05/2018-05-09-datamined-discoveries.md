@@ -13,7 +13,7 @@ pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
-
+[backToTop](on)
 ##### Updated May 19th - Added [Miscellaneous](#173)
 
 <a name="170"></a>
