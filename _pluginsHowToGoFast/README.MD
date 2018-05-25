@@ -2,14 +2,17 @@
 ## Info
 
 1. If you don't need decks
-    --> DRAG plugins 6 to this folder
+    --> DRAG plugin 6 to this folder
+
+2. If you don't need profiles
+    --> DRAG plugin 7 to this folder
 
 3. Run "jekyll serve"
 
   First time will take around 45 seconds
   All next regenerations will take around 6 seconds!
 
-4. When you're done, drag the plugin back to _plugins!
+4. When you're done, drag the plugins back to _plugins!
 
 ## Extra
 
