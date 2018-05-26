@@ -78,6 +78,7 @@
   cursor: grab;
   cursor: -moz-grab;
   cursor: -webkit-grab;
+  margin-bottom: 20px;
 }
 .carousel:active {
   cursor: grabbing;
@@ -141,11 +142,7 @@
       -webkit-filter: brightness(1.5);
       filter: brightness(1.5);
     }
-  }
-  .carousel-miniature {
-    width: 40px;
-    height: 40px;
-    object-fit: cover;
+    bottom: -25px;
   }
 }
 @media only screen and (max-aspect-ratio: 13/9) {
