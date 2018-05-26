@@ -208,7 +208,7 @@ Updated 5/19/18
 |33-38|Super Vegito| 12 points|
 |33-38|Luke Tyler| 12 points|
 |33-38|Neg do Zap| 12 points|
-|33-38|Insano| 12 points|
+|33-38|Cpt. Insano| 12 points|
 |33-38|HoCJackieB| 12 points|
 |33-38|Serenity| 12 points|
 |39-63|Tekumse| 10 points|
