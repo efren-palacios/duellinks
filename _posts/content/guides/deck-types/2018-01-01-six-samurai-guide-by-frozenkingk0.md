@@ -282,5 +282,5 @@ I believe that post Crusaders Battlegrounds Six Samurais are a comfortable Tier 
  
 ---
 
-If you have any thoughts or questions, leave a comment below!
+If you have any thoughts or questions, leave a comment below!  
 *Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

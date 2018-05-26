@@ -303,7 +303,7 @@ Below are some example combos and play options. It is important to remember that
 
 ---
 
-If you have any thoughts or questions, leave a comment below! 
+If you have any thoughts or questions, leave a comment below!  
 *Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
 
 

@@ -269,7 +269,7 @@ You would think i'd choose Balance or Restart but no, The best skill for the mir
 
 Aliens are a cheap deck and have a lot of meta potential  with a unique play style that separates them from other archetypes in duel links currently. Choosing this deck means you should always be on alert, since A-counters are hard to keep track of (at first). Make sure to have a calculator ready when first learning since the stat reductions can be tricky. Good Luck!  
 
-![icon](https://lh5.googleusercontent.com/nND8XoNeTZ2lQPJzOUnHg6NP5YMoLbtvq3DsAj1hR73Ji85pX-_SqxFuhAMmHOKuqZXyMjKY_WIVlcXKdWWdeUjziO8V2llLtPok7QYlzVVu6E1a1GXxrTF64imXcM6XgYVsVENE)
+![icon](https://lh5.googleusercontent.com/nND8XoNeTZ2lQPJzOUnHg6NP5YMoLbtvq3DsAj1hR73Ji85pX-_SqxFuhAMmHOKuqZXyMjKY_WIVlcXKdWWdeUjziO8V2llLtPok7QYlzVVu6E1a1GXxrTF64imXcM6XgYVsVENE)  
 
 
 *Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
