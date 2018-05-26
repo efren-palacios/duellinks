@@ -295,7 +295,7 @@ The Spellbook mirror can be very coin flip based as whoever goes first has a hug
 
 If you have any thoughts or questions, leave a comment below! 
 
-*Thumbnail designed and created by Spooncats*
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
 
 
 

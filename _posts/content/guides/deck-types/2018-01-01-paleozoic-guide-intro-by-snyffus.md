@@ -108,3 +108,4 @@ I am very happy they introduced Paleozoic into the game and can’t wait to see 
 ---
 
 *This guide was happily converted by Jonesy9027*
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

@@ -223,3 +223,4 @@ If you have any thoughts or questions, leave a comment below!
 
 ***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***  
 ***This guide was lovingly updated by [Jonesy9027](/authors/jonesy9027/)***
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

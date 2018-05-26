@@ -398,3 +398,4 @@ These cards are not in Duel Links as of April 2018. If they are ever added, they
 ---
 More updates will come as they are needed.  
 Feel free to leave a comment below on any questions you have.   
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

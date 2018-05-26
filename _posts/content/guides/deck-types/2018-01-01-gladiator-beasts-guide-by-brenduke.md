@@ -685,3 +685,4 @@ Thank you to **Sanga of the Thunda for bringing them unda!**
 And finally thank you to the amazing Devs and Content Creators for helping me convert this guide into a suitable format for the website. 
 
 {% include decktype_decks.html decktype=page.deck-type %}
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

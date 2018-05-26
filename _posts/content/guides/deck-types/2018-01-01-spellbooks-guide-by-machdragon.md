@@ -208,7 +208,7 @@ This matchup is one of the more difficult matchups for Spellbooks. Masked Heroes
 
 * Flipping your own Blue Boi face-down is also a good move if your opponent summons {Vision Hero Vyon} and uses the Malicious they send to summon another copy of Malicious from their deck. During their battle phase, they will attack using their 800 atk Malicious first. This way your Blue Boi will be removed from the field and you will not be able to use Fate while you do not control a spellcaster. When they attack with Malicious, this is when you want to flip Blue Boi face-down to prevent damage and gain a search. They usually will attack with Vyon next dealing 1000 damage and follow up with a Mask Change by summoning Anki for another 2800 damage. Here you have taken 1000+2800 = 3800, leaving you with 200 LP left. Only if your opponent is very lucky they will be able to draw either a Chalice or Mask Change to actually kill you that turn. If you had not protected yourself from the Malicious attack, you would have taken 300 extra damage and lost the game right there. You will want to remove Anki from the field as well as Malicious by using a combination of Spellbook of Fate and Power to clear your opponent’s monsters, while setting up another Fate to protect yourself and disrupt your opponent on the following turn.
 
-* Some Hero players like to use {Destiny Hero – Drilldark} in their Hero builds. His effect special summons a Destiny Hero from hand with ATK less than or equal to Drilldark’s ATK on field. This means that by using Fate to flip down Drilldark or banish to it from the field, your opponent will not be able to summon an extra Destiny Hero from hand. Cool right?
+* Some Hero players like to use {Destiny HERO – Drilldark} in their Hero builds. His effect special summons a Destiny Hero from hand with ATK less than or equal to Drilldark’s ATK on field. This means that by using Fate to flip down Drilldark or banish to it from the field, your opponent will not be able to summon an extra Destiny Hero from hand. Cool right?
 
 ---
 
@@ -239,7 +239,7 @@ Amazoness has a decent matchup against Spellbooks. The key to this matchup is to
 
 * Once your opponent summons an Amazoness monster, turn toggle on. This is to check if your opponent has {Amazoness Baby Tiger} in hand as Baby Tiger must be summoned right after another Amazoness is summoned. Next, you will want to keep toggle on, so that you can use Fate the moment your opponent enters the battle phase. If your opponent had summoned a Princess, you want to use Fate and banish it now before they get a chance to attack. However, if your opponent only sets 1 card in their backrow and had searched Onslaught earlier in the turn, you can choose to get rid of the set card (probably Onslaught) instead. If going for this play, wait for your opponent to declare an attack with Princess, and after sending a card from their hand as cost to summon the monster from deck. On your next turn, you will be able to Fate away their summoned monster, most likely {Amazoness Queen} or Baby Tiger, and use Power to swing over their Princess, while also setting yourself up for plays next turn.
 
-* I recommend banishing Baby Tiger or Princess if you have the resources to do so, as they are one of the few ways that your opponent will be able to bring out 2 monsters to threaten your field. An interesting note is that a Blue Boi boosted by Power ties in atk with {Amazoness Swordswoman} at 1500 atk. Even if both monsters are destroyed by battle, you will still get to search for a book due to the effect of Power. Power will also still get you the search even if your monster is banished by Onslaught. 
+* I recommend banishing Baby Tiger or Princess if you have the resources to do so, as they are one of the few ways that your opponent will be able to bring out 2 monsters to threaten your field. An interesting note is that a Blue Boi boosted by Power ties in atk with {Amazoness Swords Woman} at 1500 atk. Even if both monsters are destroyed by battle, you will still get to search for a book due to the effect of Power. Power will also still get you the search even if your monster is banished by Onslaught. 
 
 * Resolving Fool combo which summons Reaper and Destroyer gives you a huge power swing which helps you win this matchup. Onslaught is like poison to your Spellbooks as they will be banished after battling with your opponent’s Amazoness monsters. Normally, Blue Boi and Fool are not strong enough to defeat Amazoness monsters by battle. However, Reaper and Destroyer are able to chunk your opponent down quickly, since you can now banish the Onslaught with Fate and destroy the Amazoness monsters by battle. This is a much better alternative, instead of having to use Fate to banish each monster they summon per turn.
 
@@ -250,7 +250,7 @@ Common Skills: {Restart}, {Balance}
 - Matchup Odds: 
     * 40/60 On the Brink of Extinction
 
-Aliens can be a difficult matchup, depending on your opponent’s opening hands. Their main way to beat Spellbooks is to invade the field with many monsters. They do this by using use {\“A\” Cell Recombination Device} combined with {Powerful Rebirth}. Blue Boi and Fool are both unable to destroy Aliens by battle, so you will need to either attack with a Power boost, Reaper or Destroyer. The main win condition of this matchup is similar to Amazoness. If your opponent is able to beam enough Aliens to the field, you will lose control of your line of defense and Earth will fall. 
+Aliens can be a difficult matchup, depending on your opponent’s opening hands. Their main way to beat Spellbooks is to invade the field with many monsters. They do this by using use {“A” Cell Recombination Device} combined with {Powerful Rebirth}. Blue Boi and Fool are both unable to destroy Aliens by battle, so you will need to either attack with a Power boost, Reaper or Destroyer. The main win condition of this matchup is similar to Amazoness. If your opponent is able to beam enough Aliens to the field, you will lose control of your line of defense and Earth will fall. 
 Good thing this is a tier 3 deck, so it is not as common as the other meta decks listed.
 
 **Matchup Tips**
@@ -304,7 +304,7 @@ Below are some example combos and play options. It is important to remember that
 ---
 
 If you have any thoughts or questions, leave a comment below! 
-*Thumbnail designed and created by Spooncats*
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
 
 
 

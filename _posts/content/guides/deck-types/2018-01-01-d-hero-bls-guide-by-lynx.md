@@ -264,3 +264,4 @@ If you have any questions or feedback after reading this guide, feel free to hit
 ---
 
 *This guide was happily converted by Jonesy9027*
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

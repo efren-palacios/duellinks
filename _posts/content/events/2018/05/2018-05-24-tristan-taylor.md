@@ -282,4 +282,6 @@ Immortalised forever on Duel Links Meta!
 
 ---
 
-***If you have a unique farm deck, spot a mistake or just want to say something post it in the comments below!***
+***If you have a unique farm deck, spot a mistake or just want to say something post it in the comments below!***  
+
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

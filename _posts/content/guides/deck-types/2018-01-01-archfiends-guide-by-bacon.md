@@ -349,3 +349,4 @@ To the following players that have stood by this archetype with me since the beg
 **Nidoblast, Tekkeun, Wayne Kenoff, Race, Sektor, Davidoff, Chilah, Jan, Mewf**
 
 {% include decktype_decks.html decktype=page.deck-type %}
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
