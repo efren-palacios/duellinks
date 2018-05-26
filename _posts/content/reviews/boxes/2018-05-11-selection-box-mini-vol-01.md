@@ -69,7 +69,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > 3 {Paleozoic Hallucigenia} makes Paleozoics a more playable engine that has a possibility of being splashed into [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) Decks.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > Useless!
 
@@ -103,7 +103,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > It can search many cards in Duel Links, but it's too slow for most Decks unless you draw it within the first couple turns.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > It has future potential.
 
@@ -137,7 +137,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > Nice Quick-Play Spell, 1 for 1 face-up Monster removal. You can bypass the cost by activating multiple in the same turn to get only one Draw Phase skipped like with {Reckless Greed} or just OTK your opponent the turn you use it. May see play in Side Decks.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > Top tier card, {Enemy Controller} level.
 
@@ -170,7 +170,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > It's a strong Fire Fist card, but slightly nerfed since we don’t have a Main Phase 2 to use both of its effects on the same turn.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > Useless.
 
@@ -204,7 +204,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > {Axe of Despair} is decent for auto-duel Decks.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > Trash.
 
@@ -234,7 +234,7 @@ This is the 1st Mini Selection BOX, it was released on May 11, 2018. Selection B
 
 > All of them because I'm a whale!
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > {Offerings to the Doomed}!
 

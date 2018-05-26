@@ -158,7 +158,7 @@ These are the cards and Skills you can attain.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Ra Farm - credit: {#freeska}
 Any variation of the "Ra Deck" may work but perhaps not as effectively. For example, {Kiseitai} + {Massivemorph}, {Golden Ladybug} etc. 
 
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)

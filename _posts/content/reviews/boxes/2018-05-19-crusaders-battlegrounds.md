@@ -67,7 +67,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > Noble Knights have a lot of potential. Being able to flood the field, destroy your opponents cards and easily search and recycle your equip cards, I believe this deck can be a top tier deck. The drawback to this deck is only having 3 zones for your equip cards and being a Warrior type deck, being vulnerable to {Warrior Elimination}. 
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > They will make a new meta.
 
@@ -90,7 +90,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > Another deck vulnerable to {Warrior Elimination}, Six Samurais get more support in this upcoming box. With the release of {Grandmaster of the Six Samurai}, the deck is a lot faster than before and can create new combos with cards like {Cunning of the Six Samurai} and {Secret Six Samurai - Doji}. I believe this deck has a ton of potential and could possibly make it to the tier list.
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > I think it will be a high potential deck.
 
@@ -112,7 +112,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > Bujins were first introduced in [Resonance of Contrast](/box-reviews/resonance-of-contrast/). The deck lacked very many support cards, but now with the upcoming new box, Bujins can possibly be a top tier deck. Possibly builds that could be playable are {That Grass Looks Greener}, getting as many Bujingi monsters to the grave for their effects or {Ties of the Brethren}, getting your {Bujin Yamato} out faster onto the field and flooding your field. 
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > Trash!
 
@@ -130,7 +130,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > {Nobleman of Crossout}: A great tech or side deck card being able to slow down [Sylvans](/tier-list/deck-types/sylvans/) banishing their facedown {Sylvan Komushroomo}, {World Carrotweight Champion} or {Rose Lover}. Nobleman of Crossout doesn't just counter [Sylvans](/tier-list/deck-types/sylvans/), but also against any deck as it is a great removal card in general. 
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 > {Nobleman of Crossout}!
 
 **{#Super Vegito}** says:
@@ -149,7 +149,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > {Xing Zhen Hu Replica}: The mix between {Xing Zhen Hu} and {Fire Formation - Gyokkou}. Xing Zhen Hu Replica is a good card to lock your opponents backrow. This card will most likely have more play than its original counterpart, the argument here is whether to play this or Fire Formation - Gyokkou. I personally would still play Gyokkou over Replica, but this could be more of a personal preference. 
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > {Special Hurricane} and {Pot of Acquisitiveness}.
 
@@ -159,7 +159,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "Which cards have significant future potential?"
 
-**[Glading](/top-player-council/glading/)** says:
+**{#Glading}** says:
 
 > {D.D.R. - Different Dimension Reincarnation} and the Monarch cards.
 

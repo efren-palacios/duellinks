@@ -235,7 +235,7 @@ You should have at least one monster on the field.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Ra Farm - credit: {#freeska}
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
 ##### Strategy
@@ -290,7 +290,7 @@ You should have at least two monsters on the field.
 
 <a name="freeska2"></a>
 
-#### Lvl: 40 Hazy Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Hazy Farm - credit: {#freeska}
 This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use it if you don't have {The Winged Dragon of Ra}.
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Dynatherium; Hazy Flame Peryton; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Mausoleum of the Emperor; Mausoleum of the Emperor; Mausoleum of the Emperor; Fairy Meteor Crush; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
