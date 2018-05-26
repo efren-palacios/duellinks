@@ -25,7 +25,7 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
 
 - The skill {Grit} saw heavy use this KC Cup as a means to counter the OTK nature of the [current meta decks](/tier-list/): [Sylvans](/tier-list/deck-types/sylvans/), [Masked Heroes](/tier-list/deck-types/masked-heroes/), [Geargias](/tier-list/deck-types/geargias/) and [Cyber Angels](/tier-list/deck-types/cyber-angels/). Konami hasn't been transparent regarding in what circumstances the skill will activate but some players in the community have done some testing, here's what they say:
 
-**Jadehex - Farm Expert:**
+**{#Jadehex} - Farm Expert:**
   
 - There is roughly an 85% success rate surviving turns 1-3 with {Grit} however data is still being collected.
 
@@ -132,7 +132,7 @@ I used {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) mostly un
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Enemy Controller;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
-No other decks used. Shoutouts to [Jason's](/top-player-council/jason/) homework for carrying me to first place NA!
+No other decks used. Shoutouts to {#Jason}'s homework for carrying me to first place NA!
 
 ---
 
@@ -155,7 +155,7 @@ Believe it or not 7th global using mainly this deck.
 
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
-Shout out [Jason](/top-player-council/jason/) one time, best deck in format.
+Shout out {#Jason} one time, best deck in format.
 
 ---
 

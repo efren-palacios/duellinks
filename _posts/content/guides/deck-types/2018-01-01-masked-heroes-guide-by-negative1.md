@@ -58,7 +58,7 @@ Masked Heroes is an archetype that was released on April 2nd with the 11th Main 
 
 #### About the Author
  
-Hello, I’m Negative1. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from [Jonesy9027](/authors/jonesy9027/) on the introduction, tech tier list, and matchups sections and I hope you all find it helpful! :D
+Hello, I’m Negative1. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from {#Jonesy9027} on the introduction, tech tier list, and matchups sections and I hope you all find it helpful! :D
 
 ---
  
@@ -244,7 +244,7 @@ Common Skills: {Grit}, {Restart}
 Sylvans are one of the contributing factors as to why Heroes is currently the best deck in the format. Sylvans rely on targeting removal, where cards will select a card to destroy upon activation. What this means is that if a Sylvan player tries to use a {Sylvan Marshalleaf}’s effect to destroy a HERO monster, you can dodge the destruction by chaining {Mask Change}. This is because the card activated last will resolve first, so mask change will send your HERO to the graveyard before Marshalleaf destroys it.
 
 **Matchup Tips**
-* Playing around Grit is vital for you to beat Sylvans. Before pushing for game, you will first need to decrease their life to a range where Grit is unlikely to pop. Playing a slower game is necessary to employ this whittling process. Shout outs to Jadehex and Snyffus for testing grit and giving us all a better understanding as to how the skill works. Click [here](/tournaments/kc-cup/april-2018/report/) for more information.
+* Playing around Grit is vital for you to beat Sylvans. Before pushing for game, you will first need to decrease their life to a range where Grit is unlikely to pop. Playing a slower game is necessary to employ this whittling process. Shout outs to {#Jadehex} and Snyffus for testing grit and giving us all a better understanding as to how the skill works. Click [here](/tournaments/kc-cup/april-2018/report/) for more information.
 
 * Mask Change and Forbidden Chalice are the most effective ways for you to deal with a set {Sylvan Komushroomo}, so restarting for at least one of these options is preferable.
 

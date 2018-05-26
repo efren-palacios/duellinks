@@ -38,7 +38,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="18a"></a>
 #### {Spell Strider}
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombies](/guides/deck-types/red-eyes-zombies-guide-by-insano/) against {Mythic Depths} [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/). Not a ton of other use right now.
 
@@ -62,7 +62,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
 
@@ -71,7 +71,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="18b"></a>
 #### {Token Thanksgiving}
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > Trash!
 
@@ -84,7 +84,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="18c"></a>
 #### {Dr. Frankenderp}
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > Bad. It wouldn’t fit into any Psychic decks, and those fell off the [Tier List](/tier-list/) a long time ago.
 
@@ -108,7 +108,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > This card isn’t great since it uses up your Normal Summon and skips your Draw Phase to activate its effect. Does not have a place in competitive play.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > Maybe future potential in OTK decks or Burn decks.
 

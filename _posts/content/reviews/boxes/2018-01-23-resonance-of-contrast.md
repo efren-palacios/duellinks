@@ -58,7 +58,7 @@ This is the 9th Mini Box, it was released on January 25, 2018. The release of th
 | Kaito | {Red-Eyes Slash Dragon} |
 | Itsyoboyeden | New form of REZ, perhaps some other variants of Zombies |
 | Whybona | None. |
-| [Kazin_X](/authors/kazin-x) | Stall decks with {Defense Draw}, Harpies with {Phalanx Pike}, {No Mortal Can Resist} {Phalanx Pike}, {Crashbug Road} with Six Samurai, Red Eyes Ritual Deck with {Paladin of Dark Dragon} ({Red Eyes Impact}) or {Red-Eyes Slash Dragon} with BLS, {Zombie World} {Paladin of Cursed Dragon} |
+| {#Kazin_X} | Stall decks with {Defense Draw}, Harpies with {Phalanx Pike}, {No Mortal Can Resist} {Phalanx Pike}, {Crashbug Road} with Six Samurai, Red Eyes Ritual Deck with {Paladin of Dark Dragon} ({Red Eyes Impact}) or {Red-Eyes Slash Dragon} with BLS, {Zombie World} {Paladin of Cursed Dragon} |
 | Nix | Bujin. But this box does not seem good to me, I'll be skipping it. |
 | [Kayoh](/authors/Kayoh) | No new deck types. I don't believe this box will change the meta. |
 
@@ -70,7 +70,7 @@ This is the 9th Mini Box, it was released on January 25, 2018. The release of th
 | [superforms](/authors/superforms) | None. |
 | Kaito | None. |
 | Itsyoboyeden | None. |
-| [Kazin_X](/authors/kazin-x) | {Void Trap Hole} |
+| {#Kazin_X} | {Void Trap Hole} |
 | Nix | None. |
 | Whybona | None. |
 | [Kayoh](/authors/Kayoh) | {Defense Draw} saves your LP and replaces itself, I can see this be played in cancer decks like burn/mill. |

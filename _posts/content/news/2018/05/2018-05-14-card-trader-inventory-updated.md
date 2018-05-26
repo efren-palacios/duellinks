@@ -39,7 +39,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="14a"></a>
 #### {Crystal Raigeki}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
+**{#Whilipino}** says:
 
 > Not enough to bring Crystal Beasts onto the [tier list](/tier-list/), but good support nonetheless.
 
@@ -47,7 +47,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > This card is nuts! With {Crystal Beast Sapphire Pegasus} you can easily destroy a Monster (pretty good against [Sylvans](/tier-list/deck-types/sylvans/)). I expect this card in future [King of Games Decks](/top-decks/), maybe it's good enough to do well in tournaments.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > A nice boost small boost to Crystal Beasts. Unfortunately, this does not make Crystal Beasts become a top tier Deck. 
 
@@ -55,7 +55,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Crystal Beasts support, yay!
 
-**[SkillShot](/top-player-council/skillshot/)** says:
+**{#Skillshot}** says:
 
 > Nice card, the timing is interesting with a [new Jesse Anderson event](/news/may-2018/in-game-updates/) coming this very same week, bringing new cards and a new Skill for Jesse, we wil see where this pushes Crystal Beasts.
 
@@ -69,7 +69,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="14b"></a>
 #### {Gravi-Crush Dragon}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
+**{#Whilipino}** says:
 
 > Not relevant.
 
@@ -77,7 +77,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Another card that supports Crystal Beasts. I dont think that it's playable at the moment because a 1 Tribute Monster in a Deck like Crystal Beasts will be slow and inconsistent. Use in other Decks is also unlikely since there aren't any really good Continuous Spells in game.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > Crystal Beasts tech card, I guess?
 
@@ -85,7 +85,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > More Crystal Beasts support.
 
-**[SkillShot](/top-player-council/skillshot/)** says:
+**{#Skillshot}** says:
 
 > Can probably be abused with Crystal Beasts or {Ruins of the Divine Dragon Lords}, but the fact that it's a level 6 makes it not that good at the moment.
 
@@ -98,7 +98,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="14c"></a>
 #### {Penguin Knight}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
+**{#Whilipino}** says:
 
 > May be a potential Side Deck card if Mill Decks become a problem.
 
@@ -106,7 +106,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > If Mill came back this is a possible counter card, otherwise it's trash.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > Counter Mill xD.
 
@@ -114,7 +114,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Garbage!
 
-**[SkillShot](/top-player-council/skillshot/)** says:
+**{#Skillshot}** says:
 
 > Good against Mill Decks.
 

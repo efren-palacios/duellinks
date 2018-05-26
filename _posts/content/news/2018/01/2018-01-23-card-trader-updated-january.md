@@ -23,7 +23,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Opinions
 
-**[Superforms](/authors/superforms/) says:** 
+**{#Superforms} says:** 
 
 > {Vivid Knight} only really has synergy with Bujins at the moment, and I don't think they'd run him.
 

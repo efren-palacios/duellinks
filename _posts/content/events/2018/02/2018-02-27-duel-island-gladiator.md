@@ -50,7 +50,7 @@ The following cards can be drawn from the lottery in addition to Gems, Gold and 
 [deck](Phantom Beast Rock-Lizard; Phantom Beast Cross-Wing; Phantom Beast Wild-Horn; Golden Homunculus; Dark Crusader; Gamushara; Chain Destruction; Saber Beetle; 7 Colored Fish; Pyramid Energy; United Front; The Statue of Easter Island; Space Mambo; Dokurorider; Revival of Dokurorider; Terrorking Salmon) 
 
 ### Top Player Council Review
-[Superforms](/authors/superforms/): 'Competitively the cards are pretty much trash across the board unfortunately. More {Chain Destruction} doesn't really help mill (I've tried it already), and the rest of the cards are bad.'
+{#Superforms}: 'Competitively the cards are pretty much trash across the board unfortunately. More {Chain Destruction} doesn't really help mill (I've tried it already), and the rest of the cards are bad.'
 
 ### Event Rewards
 You can obtain rewards based on the amount of Event Points you accumulate.

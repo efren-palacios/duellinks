@@ -55,7 +55,7 @@ pinned: false
 
 ---
 
-#### 3rd-4th Place - [Cpt. Insano](/authors/insano/)
+#### 3rd-4th Place - {#Cpt. Insano}
 
 [deck:Restart](Snipe Hunter; Gozuki; Gozuki; Gozuki; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Samurai Skull; Samurai Skull; Bacon Saver; Hey, Trunade!; Hey, Trunade!; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice; Red-Eyes Insight; Red-Eyes Insight; Enemy Controller; Enemy Controller; Red-Eyes Spirit; Red-Eyes Spirit)
 

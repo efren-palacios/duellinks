@@ -27,13 +27,13 @@ pinned: false
     - [Arkana](#arkana-drops)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
-    - [Lvl. 40 (Marik) Cloudian Farm - created by Jadehex](#jadehex)
+    - [Lvl. 40 (Marik) Cloudian Farm - created by {#Jadehex}](#jadehex)
     - [Lvl. 40 (Marik & Arkana) Ra Farm - created by Charlie Mckiz](#charlie)
     - [Lvl. 40 (Marik) Hazy Farm - created by Superforms](#superforms)
     - [Lvl. 40 (Marik) Ojama Farm - created by Tutpup](#tutpup)
     - [Lvl. 40 (Marik) Unhappy Girl Farm - created by elStar](#elstar)
     - [Lvl. 40 (Marik) Backup Squad Farm - created by Grandmaster](#grandmaster)
-    - [Lvl. 40 (Marik) Labby Farm - created by Jadehex](#jadehex2)
+    - [Lvl. 40 (Marik) Labby Farm - created by {#Jadehex}](#jadehex2)
     - [Lvl. 40 (Marik) Labby Farm - created by Hi_Im_Flabber](#flabber)
 - [Yami Marik Lvl. 40 Decklist](#40)
 - [Yami Marik Lvl. 50 Decklist](#50)
@@ -149,7 +149,7 @@ Get up to 175 Gems!
 
 <a name="jadehex"></a>
 
-#### Lvl. 40 **(Marik)** Cloudian Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Cloudian Farm - created by {#Jadehex}
 
 [deck:Draw Sense: WATER](Summoner of Illusions; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Gravekeeper's Vassal; Cloudian - Turbulence; Anti-Magic Arrows; Union Attack; Union Attack; The Sanctuary in the Sky; The Sanctuary in the Sky; The Sanctuary in the Sky; Dimensionhole; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)
 [deck](Blue-Eyes Ultimate Dragon; Master of Oz)    
@@ -317,7 +317,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 
 <a name="jadehex2"></a>
 
-#### Lvl. 40 **(Marik)** Labby Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Labby Farm - created by {#Jadehex}
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Planet Pathfinder; Planet Pathfinder; Planet Pathfinder; Anti-Magic Arrows; Sorcerous Spell Wall; Sorcerous Spell Wall; Union Attack; Union Attack; Shield & Sword; Abyssal Designator; Abyssal Designator; Abyssal Designator; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Jar of Greed; Jar of Greed; Jar of Greed)
 

@@ -63,7 +63,7 @@ The next Mini Box is expected to be released on **May 1st**, there will also be 
 
 ### First Impressions
 
-#### [Superforms](/top-player-council/superforms/) says:
+#### {#Superforms} says:
 
 There are two new archetypes: Spellbooks (with Prophecy Monsters) and Gustos.
 
@@ -270,7 +270,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 <a name="521"></a>
 #### {Spell Strider} (UR)
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > This card is most relevant as a way to trade Field Spells (like {Straight to the Grave} [Red-Eyes Zombies](/tier-list/deck-types/red-eyes-zombies/) against {Mythic Depths} [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/). Not a ton of other use right now.
 
@@ -294,7 +294,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > A decent side deck alternative to counter Field Spell reliant decks like [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) if you don't own {Cosmic Cyclone}.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > Great Side Deck card against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks.
 
@@ -303,7 +303,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 <a name="522"></a>
 #### {Intrigue Shield} (SR)
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > Only being available at 1x hurts this card's potential quite a bit, but it can potentially be used in annoying [Stall](/tier-list/stall-decks/)-type decks with {Duck Dummy} and/or {The Unhappy Girl}. 
 
@@ -327,7 +327,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > I can see this being played in {The Unhappy Girl} farm decks. Generic once per turn battle protection is also quite good. It provides a nice boost to possible Amazoness decks.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > Really good card in some decks, for example, {Hieratic Dragon of Nuit} which Special Summons a Normal Dragon when targeted by a  Spell, Trap or card effect.
 > It also works well with {Cocoon of Ultra Evolution}.
@@ -337,7 +337,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 <a name="523"></a>
 #### {That Wacky Alchemy!} (SR)
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > The card most likely to be relevant to top-tier decks. Alchemy works (in addition to other ways) after chains involving your opponent’s Spell cards resolve, meaning you can pop an {Cyber Angel Idaten} after it’s summoned off a non-protecting ritual spell ({Sprite's Blessing} or {Machine Angel Absolute Ritual}) or a {Masked HERO Anki} after it’s summoned off {Mask Change}. Because spells aren’t sent to the grave until after they resolve, you can’t chain to things like {Cosmic Cyclone} (when it’s targeting) or {Hey, Trunade!}. however, neither [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) nor [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) (the current [Tier 1](/tier-list/) decks) are particularly hurt by this card, so at present it seems like Side Deck potential at best.
 
@@ -357,7 +357,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > Pretty good card, provides much needed 1 for 1 Monster removal for the game and can be activated after the resolution of an opponent’s spell card. Many powerful spell cards such as {Enemy Controller} exist in the current meta so this may see play in Side Decks.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > It's a card with potential. If we get any Tier 1 decks like Masked Heroes that use {Mask Change} you'll be able to destroy a Monster on the field which ain't bad. But as I said for this card to be in the Main Deck we need Destiny Heroes Mask Change to be a Top Tier deck, but perhaps it's a solid choice for a Side Deck card. 
 
@@ -366,7 +366,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 <a name="524"></a>
 #### {Dr. Frankenderp} (R)
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > Bad. It wouldn’t fit into any Psychic decks, and those fell off the [Tier List](/tier-list/) a long time ago.
 
@@ -388,7 +388,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > This card isn’t great since it uses up your Normal Summon and skips your Draw Phase to activate its effect. Does not have a place in competitive play.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
+**{#MiguelJoker}** says:
 
 > Maybe future potential in OTK decks or Burn decks.
 

@@ -55,7 +55,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ### Farm Decks 
 
-#### Level 40 Farm - created by Jadehex
+#### Level 40 Farm - created by {#Jadehex}
 
 [deck: Restart](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Senju of the Thousand Hands; Senju of the Thousand Hands; Gravekeeper's Vassal; Cyber Petit Angel; Anti-Magic Arrows; Union Attack; Union Attack; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing;Secret Pass to the Treasures)
 
@@ -107,7 +107,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ---
 
-#### Level 40 Farm - created by Jadehex
+#### Level 40 Farm - created by {#Jadehex}
 
 [deck: Restart](Red-Eyes Wyvern; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Gravekeeper's Vassal; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Anti-Magic Arrows; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Union Attack; Union Attack; Cards of the Red Stone; Cards of the Red Stone; Cards of the Red Stone; Secret Pass to the Treasures; Red-Eyes Spirit; Red-Eyes Spirit)
 

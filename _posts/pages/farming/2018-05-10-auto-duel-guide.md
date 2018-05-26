@@ -167,7 +167,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 <br>
 
-##### **My Monster Cards by Jadehex**
+##### **My Monster Cards by {#Jadehex}**
 
 [deck:My Monster Cards](Skilled Dark Magician;Gladiator Beast Andal;Insect Knight;Archfiend Soldier;Luster Dragon; Neo Bug; Rush Recklessly;Rush Recklessly;Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Enemy Controller;Enemy Controller;Mirror Wall;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;Wall of Disruption;)
 

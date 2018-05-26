@@ -45,9 +45,9 @@ pinned: false
 |--|--|
 | FireNeo | 200 |
 | [your-writers.net](https://your-writers.net/?discount=RCJ8D566&utm_source=twitch.tv&utm_medium=banner&utm_campaign=va-0328-duellinksmeta) | 150 |
-| [SirDillweed](/top-player-council/sirdillweed/) | 122 |
+| {#SirDillweed} | 122 |
 | MLM ManLM | 100 |
-| [Yami Hammy](/authors/yami_hammy/) | 100 |
+| {#Yami Hammy} | 100 |
 
 ---
 

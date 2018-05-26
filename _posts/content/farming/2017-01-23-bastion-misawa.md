@@ -70,7 +70,7 @@ Last updated: 12/02/2017
 
 ---
 
-#### Speed Farm Level 10 - created by Jadehex 
+#### Speed Farm Level 10 - created by {#Jadehex} 
 (7600 Base [Duel Assessment](/farming/duel-assessment-score/))
 Last updated: 12/02/2017
 

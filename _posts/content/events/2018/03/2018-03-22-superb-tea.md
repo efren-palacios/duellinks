@@ -89,7 +89,7 @@ The event has been extended from 28th March and will now conclude 30th March. If
 
 ### Top Player Council Thoughts
 
-#### **[Superforms](/authors/superforms/)** says: 
+#### **{#Superforms}** says: 
 
 > {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a [REZ](/tier-list/red-eyes-zombies/), for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter Traps. This is incredibly important because it gives you a way to mitigate the effects of going second. The LP gain is also not insignificant, giving you more fuel for {Seven Tools of the Bandit} and {Solemn Scolding}.
 
@@ -109,7 +109,7 @@ The event has been extended from 28th March and will now conclude 30th March. If
 
 ### Farm Deck
 
-#### Level 40 Farm - created by Jadehex (100% Winrate!)
+#### Level 40 Farm - created by {#Jadehex} (100% Winrate!)
 
 [deck:Elements Unite!](Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Caligo Claw Crow; Union Attack; Union Attack; Union Attack; Spiritualism; Shard of Greed; Shard of Greed; Shard of Greed; Secret Pass to the Treasures; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed)   
 

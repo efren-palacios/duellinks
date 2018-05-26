@@ -22,14 +22,14 @@ permalink: /events/march-2018/attack-of-tristan-taylor/
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
     - [Level 60 Farm - created by Justin Joestar](#justin)
-    - [Level 60 Farm F2P - created by Jadehex](#jadehex)
+    - [Level 60 Farm F2P - created by {#Jadehex}](#jadehex)
 - [Tristan Taylor Lvl: 60 Decklist](#60)
 
 [slider](/img/content/events/2018/03/attack-of-tristan-taylor/slider.jpg)
 
 ### Update
 
-Due to several questions from people that are unable to build a {Mokey Mokey} deck, we have milled Tristan Taylor several times to see what his deck looks like. Jadehex, our Farm Expert, has posted an advanced farm deck for people that have not invested in [Abyss Encounters](/box-reviews/abyss-encounters/)!
+Due to several questions from people that are unable to build a {Mokey Mokey} deck, we have milled Tristan Taylor several times to see what his deck looks like. {#Jadehex}, our Farm Expert, has posted an advanced farm deck for people that have not invested in [Abyss Encounters](/box-reviews/abyss-encounters/)!
 
 ### Event Information 
 - Tristan Taylor has arrived!
@@ -70,7 +70,7 @@ Once you're done you'll have to wait for April 1st 2019 to get another copy of {
 ---
 
 <a name="jadehex"></a>
-#### Level 60 Farm F2P - created by Jadehex
+#### Level 60 Farm F2P - created by {#Jadehex}
 
 - Strategy should be obvious!
 - Deck is entirely F2P!

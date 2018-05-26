@@ -93,11 +93,11 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Do the new Crystal Beast cards and skill have the potential to produce a new top-tier deck?"
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > Probably not.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
+**{#Machdragon}** says:
 
 > Probably not, but it would definitely be a fun deck to play though.
 
@@ -109,7 +109,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Yes!
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
+**{#Super Vegito}** says:
 
 > New archetype support is always welcome but I don't think it's enough to compete with the current meta.
 
@@ -119,11 +119,11 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will any of the new Crystal Beast cards be used in a current top-tier deck?"
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > Unfortunately, no.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
+**{#Machdragon}** says:
 
 > Nope!
 
@@ -135,7 +135,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
+**{#Super Vegito}** says:
 
 > No!
 
@@ -145,11 +145,11 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will you personally be farming this event?"
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
+**{#SelectMaple}** says:
 
 > For 3 of every card, yes.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
+**{#Machdragon}** says:
 
 > Yes, for the gems.
 
@@ -182,7 +182,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 <a name="jadehex"></a>
 
-#### Level 40 Ra Farm - credit: [Jadehex](/authors/jadehex)
+#### Level 40 Ra Farm - credit: [{#Jadehex}](/authors/jadehex)
 [deck:Duel, standby!](The Winged Dragon of Ra; Kiseitai; Kiseitai; Kiseitai; Cosmic Compass; Anti-Magic Arrows; Arrivalrivals; Supremacy Berry; Draining Shield; Draining Shield; Draining Shield; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
 ##### Strategy

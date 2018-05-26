@@ -47,7 +47,7 @@ Yours for reaching 6800 Points is {Intrigue Shield}, read what the [Top Player C
 
 ### [Top Player Council](/top-player-council/) Thoughts
 
-**[Superforms](/authors/superforms/)** says:
+**{#Superforms}** says:
 > As {Intrigue Shield} is only available at 1x this hurts its potential quite a bit, but it can potentially be used in annoying [Stall](/tier-list/stall-decks/)-type decks with {Duck Dummy} and/or {The Unhappy Girl}. 
 
 **[》3K《 All Day](/authors/3KAllDay/)** says:
