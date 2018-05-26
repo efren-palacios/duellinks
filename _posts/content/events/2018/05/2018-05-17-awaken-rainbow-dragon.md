@@ -101,7 +101,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Probably not, but it would definitely be a fun deck to play though.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
 
@@ -127,7 +127,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Nope!
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > I highly doubt it.
 
@@ -153,7 +153,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Yes, for the gems.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Only if Jesse is easy to farm.
 

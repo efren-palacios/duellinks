@@ -65,7 +65,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > Spellbooks will definitely have an impact on the meta. I said Spellbooks will become a top tier deck and I was correct about that, although was wrong about the boss Monsters not being good. After testing, I found that {Reaper of Prophecy} and {Prophecy Destroyer} synergize well with the {That Grass Looks Greener} build as that is the build most are going for.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Only Spellbooks. It seems like the 30 card version with {That Grass Looks Greener} is the best way to play it right now but the Deck does have some clear weaknesses. I think it will struggle in Side Deck tournaments and a lot against [Masked Heroes](/tier-list/deck-types/masked-heroes/) as people learn to play against it. However, if the Deck opens with a good That Grass Looks Greener play it is incredibly hard for any Deck to beat it.
 

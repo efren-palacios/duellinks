@@ -286,7 +286,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
 
@@ -319,7 +319,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > This is a Normal Trap card playable with Paleozoics, but I do not see a high potential usage for this card.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > May have some uses in gimmicky decks but likely won't see any competitive use due to the requirement of the monster having to be in Attack position.
 
@@ -380,7 +380,7 @@ Thanks to Superforms's quick thinking we have details of the upcoming Duel-A-Tho
 
 > Not good at the moment but it maybe has future potential with more support cards.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Another garbage Psychic Monster to go alongside the mass of useless Psychic Monsters which have been released since {Serene Psychic Witch}.
 

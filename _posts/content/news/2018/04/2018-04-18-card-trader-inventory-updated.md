@@ -54,7 +54,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > At the moment very good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) decks, but it only makes sense, if you play a 'Field Spell Skill' or other decks like Wallet Control, where you have good access to permanent spell cards. Mostly it's only a side deck option or most likely a tech. Perhaps this card has more potential in future (I can imagine this card in Crystal Beast decks, after they get more support).
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Good against [Sea Stealth Attack](/tier-list/deck-types/sea-stealth-attack/) but irrelevant in the current meta outside of that, it's also situational for your own deck to be running face up spells.
 
@@ -75,7 +75,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Trash!
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Trash!
 
@@ -100,7 +100,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Not good at the moment but it maybe has future potential with more support cards.
 
-**[Whybona](/top-player-council/whybona/)** says:
+**{#Whybona}** says:
 
 > Another garbage Psychic Monster to go alongside the mass of useless Psychic Monsters which have been released since {Serene Psychic Witch}.
 
