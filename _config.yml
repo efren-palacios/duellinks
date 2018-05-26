@@ -8,7 +8,9 @@ exclude: ["Gemfile",
           ".gitignore",
           "package.json",
           "package-lock.json",
-          "gulpfile.js"]
+          "gulpfile.js",
+          .ruby-version,
+          README.md]
 collections:
   admin:
     output: true
