@@ -149,9 +149,9 @@ function searchunhover(element) {
 }
 
 //back to Top button
-document
-  .getElementById("pageContent")
-  .addEventListener("wheel", scrollFunction);
+$("#pageContent").on("scroll", function() {
+  scrollFunction();
+});
 
 function scrollFunction() {
   if (
