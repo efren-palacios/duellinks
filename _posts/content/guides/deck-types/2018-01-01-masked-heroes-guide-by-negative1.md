@@ -367,4 +367,5 @@ Cyber Angels is one of the few remaining decks from 2017 as it has strong combos
  
 ---
 
-If you have any thoughts or questions, leave a comment below!
+If you have any thoughts or questions, leave a comment below!  
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

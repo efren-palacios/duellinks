@@ -22,7 +22,7 @@ ended: false
     - ["Will any of the new cards be used in a top-tier deck?"](#q1)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
-    - [Lvl: 40 Gate Guardian Farm](#atlas)
+    - [Lvl: 30/40 Gate Guardian Farm](#atlas)
     - [Lvl: 40 Ra-Sylvans Farm](#sylvans)
 <!-- [Lvl: 40 Ra Farm](#jadehex) -->
 <!-- [Lvl: 40 Ra-Barrier Farm](#freeska) -->
@@ -97,7 +97,7 @@ ended: false
 
 <a name="atlas"></a>
 
-#### Lvl: 40 Gate Guardian Farm - credit: φAtlas2052φ
+#### Lvl: 30/40 Gate Guardian Farm - credit: φAtlas2052φ
 [deck:Elements Unite!](Thunder Dragon; Thunder Dragon; Thunder Dragon; Winged Kuriboh; Winged Kuriboh; Winged Kuriboh; Gravekeeper's Vassal; The Flute of Summoning Kuriboh; The Flute of Summoning Kuriboh; The Flute of Summoning Kuriboh; Union Attack; Union Attack; Union Attack; Cards from the Sky; Cards from the Sky; Cards from the Sky; Secret Pass to the Treasures; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)   
 
 ##### Strategy
@@ -276,5 +276,12 @@ Take screenshots (post in the comments below), when the event is over the person
 - Best drop will have their name posted here
 - Most Prismatic cards will have their name posted here
 - Most UR and SR cards will have their name posted here
+- NEW: Best meme will have their name posted here
   
 Immortalised forever on Duel Links Meta!
+
+---
+
+***If you have a unique farm deck, spot a mistake or just want to say something post it in the comments below!***   
+
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

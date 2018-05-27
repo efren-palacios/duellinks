@@ -16,7 +16,7 @@ permalink: /events/march-2018/superb-tea/
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-**Last updated March 30th - Added Duel Awards winners**
+##### Updated March 30, 2018 - [Added Duel Awards Winners](#awards)
 
 - [Duel Awards](#awards)
 - [Update](#update)

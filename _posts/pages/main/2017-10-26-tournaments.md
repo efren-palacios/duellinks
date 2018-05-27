@@ -32,10 +32,10 @@ styles: soon.min.css
     margin-top: 8px;">
     </div> 
 
-* [Meta Champtionship Series](#mcs): Monthly Championship
-* [Meta Weekly](#mw): Weekly Tournament
-* [Anytime Tournament](#att): 24/7 Cash Duels
-* [Giveaway Tournament](#ga): Free, Casual Tournament!
+* [Meta Champtionship Series](#mcs): monthly championship
+* [Meta Weekly](#mw): weekly tournament
+* [Anytime Tournament](#att): 24/7 cash duels
+* [Giveaway Tournament](#ga): free, casual tournament!
 
 ---
 
@@ -208,7 +208,7 @@ Updated 5/19/18
 |33-38|Super Vegito| 12 points|
 |33-38|Luke Tyler| 12 points|
 |33-38|Neg do Zap| 12 points|
-|33-38|Insano| 12 points|
+|33-38|Cpt. Insano| 12 points|
 |33-38|HoCJackieB| 12 points|
 |33-38|Serenity| 12 points|
 |39-63|Tekumse| 10 points|

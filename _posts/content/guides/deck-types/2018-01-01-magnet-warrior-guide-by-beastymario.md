@@ -488,4 +488,6 @@ Furthermore, Magnets are on the rise (pun intended). As they are increasing in p
 
 I wanted to thank Negative1 for letting me use his perfect CA guide as a template to organize this guide.  
 I also want to thank MiguelJoker and Spida020 for their advice and recommendations when constructing this guide.  
-Lastly, I want to thank Dkayed, Gia, Moderators and all the contributors for helping in the organization and maintenance of the Duel Links Meta Discord. Without you all, we wouldn’t have this amazing community.  
+Lastly, I want to thank Dkayed, Gia, Moderators and all the contributors for helping in the organization and maintenance of the Duel Links Meta Discord. Without you all, we wouldn’t have this amazing community.   
+
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*
