@@ -24,9 +24,9 @@ Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.
 |Rank|Participant Name|Match History
 | :-------- | :-------- | :-------- |
 |1|EugenHeidt|W W W W W W L W W W
-|2|Jason|W W W W W W W L L
+|2| {#Jason} |W W W W W W W L L
 |3|Dellex|W W W W W L W W L
-|4|XanXus_|W W W W W L W L
+|4| {#Xanxus} |W W W W W L W L
 |5|BetrayalTC|W W L W W W W W W L
 |6|Papiyon393|W W W L W W W W L
 |7|Kenneth|W W W W L W L
@@ -41,7 +41,7 @@ Format: 128 players. Double Elim. 2 decks, 2 different characters/skills.
 |Justin Taylor| $500
 |N1GHT RAID3R|$300
 |Nerd Chic|$222.22
-|Jonesy9027|$151
+| {#Jonesy9027} |$151
 |KanminaSan|$100
 |Virus|$100
 |Magpie|$100
@@ -59,7 +59,7 @@ Decklist 1 | Decklist 2
 |:----------:|:----------:|
 ![](/img/content/news/meta-championship-series-4-report/eugen-dl1.png) | ![](/img/content/news/meta-championship-series-4-report/eugen-dl2.png)
 
-#### 2nd Place - Jason: 
+#### 2nd Place - {#Jason}: 
 "I used ca because I thought it was just the best deck, most consistent and most powerful. I used gb because it was the strongest control deck imo with a good matchup overall with everything, it was the deck I started with the most because I could usually play every game with my balanced hands."
 
 [content-only]
@@ -76,7 +76,7 @@ Decklist 1 | Decklist 2
 |:----------:|:----------:|
 ![](https://lh3.googleusercontent.com/-X02LIjsWtH0/Wi1dOLdv8RI/AAAAAAAAKI8/rTvqVMHqbNElHfDNWpQevg77PPl1J3KmQCLcBGAs/s400/Dellex_MCS_DL1+-+Mike+Forsyth.png "Dellex_MCS_DL1 - Mike Forsyth.png") | ![](https://lh3.googleusercontent.com/--tSSX2dNs_o/Wi1dUM2zRQI/AAAAAAAAKJE/t9_Li_Hn0RM-_v8mSGQ49ikZfPF4LBTdgCLcBGAs/s400/Dellex_MCS_DL2+-+Mike+Forsyth.jpg "Dellex_MCS_DL2 - Mike Forsyth.jpg")
 
-#### 4th Place - Xanxus _: 
+#### 4th Place - {#Xanxus}: 
 "I used Ninjas because even with the second lava golem and the new burn + hazy, i think its still the best deck."
 "Gladis was a decision after a few days testing and for me they performed better than AG, Burn and Dinos. In the list i added 2 Cosmic Cyklon, because I expected more ninjas and also in the gladi mirror or against decks with a lot of backrow it is very useful. As Skill I used Mind Scan because you want to play aggressiv as possible, so it's good to know what your opponent plays ;)"
 

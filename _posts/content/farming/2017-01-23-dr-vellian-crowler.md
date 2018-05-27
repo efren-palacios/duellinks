@@ -101,7 +101,7 @@ hide: true
 
 ---
  
-#### Level 40 Farm - created by Freeska
+#### Level 40 Farm - credit: {#Freeska}
 
 (7,600 Base [Duel Assessment](/farming/duel-assessment-score/))
 
@@ -129,7 +129,7 @@ hide: true
 
 ---
 
-**Level 40 Farm - created by Freeska**
+**Level 40 Farm - credit: {#Freeska}**
 
 7,900 Base [Duel Assessment](/farming/duel-assessment-score/)
 

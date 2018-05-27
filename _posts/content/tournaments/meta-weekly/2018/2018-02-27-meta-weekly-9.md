@@ -23,7 +23,7 @@ permalink: /tournaments/meta-weekly/9/report/
 #### Meta Weekly 9 - February 27, 2018
 
 ### What is Meta Weekly?
-The Meta Weekly is one of Dkayed's new tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up at the very last second!
+The Meta Weekly is one of {#Dkayed}'s new tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up at the very last second!
 
 ### Rules
 * One deck
@@ -70,7 +70,7 @@ Main Deck:
 [deck:Balance](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Grey; Mysterious Triangle; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Wall of Disruption; Brainwashing Beam; Brainwashing Beam)
 
 #### Third/Fourth Place:
-SelectMaple - $30
+{#SelectMaple} - $30
 
 Main Deck:
 

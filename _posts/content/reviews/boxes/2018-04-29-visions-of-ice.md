@@ -73,7 +73,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Spellbooks will 100% be at least tier 3, maybe tier 2. {Treacherous Trap Hole} is a card that anyone can plug in and has been having a ton of success in [Sylvans](/tier-list/deck-types/sylvans/) and [Masked Heroes](/tier-list/deck-types/masked-heroes/). The rest in my opinion is either not discovered yet or won't have any impact.
 
@@ -110,7 +110,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > It's a really good engine. {Spellbook of Fate} is a powerful card and a great counter to [Sylvans](/tier-list/deck-types/sylvans/) or [Geargias](/tier-list/deck-types/geargias/).
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > It's a lot to read up and I'm not very familiar with the archetype, it seems like it will have some crazy potential with {Endymion, the Master Magician}.
 
@@ -140,7 +140,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > It is too slow for the meta. 
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > They're pretty bad. It's a sort of upgraded Naturia Deck, it won't make an impact.
 
@@ -166,7 +166,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > {Treacherous Trap Hole} will be good in Spellbooks, [Cyber Angels](/tier-list/deck-types/cyber-angels/) and [Sylvans](/tier-list/deck-types/sylvans/).
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > {Treacherous Trap Hole} is overpowered - [Sylvans](/tier-list/deck-types/sylvans/) just went from tier 1 to tier 0 if they're not already there. It will 100% see use.
 
@@ -192,7 +192,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > {Tribute Burial} will maybe provide support for Tribute Decks.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > {Blizzard Princess} gives you a free turn to do whatever you want and still allows you to to activate your own Spell/Trap cards, like "{Enemy Controller} take" or even OTK cards.
 
@@ -222,7 +222,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > {Dragon Ice} will be good with [Mermails](http://yugioh.wikia.com/wiki/Mermail) if they are released someday.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > {White Night Dragon} will boost Dragon Decks but it doesn't work against {Sea Stealth Attack}.
 
@@ -238,7 +238,7 @@ This is the 9th Main Box, it was released on May 1st, 2018. The release of this 
 
 > You should get {Treacherous Trap Hole} it's a really good staple, the rest are not needed.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > I'm planning to clear this box twice and with the sales I would like three copies of {Tribute Burial}, {Blizzard Princess}, {Treacherous Trap Hole} and the Spellbooks.
 

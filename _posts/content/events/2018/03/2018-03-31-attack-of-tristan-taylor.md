@@ -22,7 +22,7 @@ permalink: /events/march-2018/attack-of-tristan-taylor/
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
     - [Level 60 Farm - created by Justin Joestar](#justin)
-    - [Level 60 Farm F2P - created by {#Jadehex}](#jadehex)
+    - [Level 60 Farm F2P - created by Jadehex](#jadehex)
 - [Tristan Taylor Lvl: 60 Decklist](#60)
 
 [slider](/img/content/events/2018/03/attack-of-tristan-taylor/slider.jpg)

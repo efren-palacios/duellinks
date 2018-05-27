@@ -16,7 +16,7 @@ permalink: /events/march-2018/dd-tower-wind-and-earth-dimension/
 
 ![banner](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/banner.png)
 
-**Last Updated March 12th by Yami Hammy - Added Duel Mission Tips** 
+**Last Updated March 12th by {#Yami Hammy} - Added Duel Mission Tips** 
 
 [slider](/img/content/events/2018/03/dd-tower-wind-and-earth-dimension/slider.jpg)
 

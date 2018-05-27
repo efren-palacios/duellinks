@@ -36,17 +36,17 @@ permalink: /structure-deck-reviews/dragonic-knights/
 <a name="q1"></a>
 #### 'What are the most important things to know about this Structure Deck?'
 
-**Glading** says:
+**{#Glading}** says:
 
 > Don't buy this Deck until other cards which could make it good come out in the future.
 
-**SelectMaple** says:
+**{#SelectMaple}** says:
 
 > This Deck will probably have a version with {Red-Eyes Slash Dragon} as {Paladin of Felgrand} and {Dragon Knight of Creation} can be used as Fusion Material, along with {The Dark - Hex-Sealed Fusion}. Note that if a Red-Eyes Slash Dragon is in the Graveyard and was summoned using the effect of The Dark - Hex-Sealed Fusion, you **cannot** use Paladin of Felgrand's or Dragon Knight of Creation's effects to special summon Slash Dragon back, because it was not properly Fusion Summoned. 
 
 > Currently, Dragons only have a few boss monsters that are somewhat viable in the current meta. {Arkbrave Dragon} being able to counter against {Sea Stealth Attack}, Arkbrave has very few usage against other top tier Decks. Along with having 2400 ATK, many other big monsters are capable of running other Arkbrave, such as {Cyber Angel Dakini}, {Alien Overlord} with 1 Alien Counter and {Sylvan Hermitree}.
 
-**kwrowe** says:
+{#Kwrowe} says:
 
 The three most relevant cards will be {Dragon Knight of Creation}, {Arkbrave Dragon} and {Paladin of Felgrand}.
 
@@ -57,7 +57,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 > {Arkbrave Dragon} removes all of your opponents face-up Spells/Traps and gains 200 ATK/DEF when special summoned from the Graveyard. This is helpful against SSA and Decks that run a Field Spell (think [Dinos](/tier-list/dinos/) and [Destiny Heroes (Dark City)](/tier-list/destiny-heroes/)). Also, your next turn after he is sent to the Graveyard you can special summon a Level 7 Dragon except itself during the Standby Phase.
 
-**Xanxus** says:
+**{#Xanxus}** says:
 
 > You want to get you boss monster's {Arkbrave Dragon} & {Darkblaze Dragon} with {Dragon Knight of Creation} into the Graveyard, to use his second effect or {Paladin of Felgrand}'s effect, to special summon the big Dragons from there. After that Arkbrave can banish all of your opponents face-up Spells and Traps, to get 200 ATK & DEF boost for each of them. 
 'Arkbrave' can also special summon 'Darkblaze' from the Graveyard, if he was send the turn before to the Graveyard. If 'Darkblaze' is special summond from the Graveyard it's original ATK and DEF is doubled. If he destroys a monster your opponents will get damage up to the original ATK of the destroyed monster.
@@ -68,7 +68,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 > There are a lot of potential combos coming from these Dragons, many Level 4 monsters beaters have secondary effects that thin your Deck of a large Dragon and then other effects to easily summon the Dragon to the field.
 
-**Kayoh** says:
+**{#Kayoh}** says:
 
 > This Structure Deck provides good support cards for {Red-Eyes Slash Dragon} and {Blue-Eyes White Dragon} Decks. Definitely a strong improvement to these Decks with the addition of {Paladin of Felgrand}, {Arkbrave Dragon} and {Dragon Knight of Creation}. 
 
@@ -81,11 +81,11 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 #### 'Are there other cards that work particularly well in combination with this Structure Deck?'
 
-**Glading** says:
+**{#Glading}** says:
 
 > {Guardian of Felgrand}, {Darkflare Dragon}, {Stamping Destruction} and {Hieratic Dragon of Nuit}.
 
-**SelectMaple** says:
+**{#SelectMaple}** says:
 
 > {Ecilpse Wyvern}: with [Valiant Souls](/box-reviews/valiant-souls/) adding Eclipse Wyvern into the game, this gives Dragons another way to get out your big boss monsters from your Deck but with only {Arkbrave Dragon} being one of few. 
 
@@ -99,13 +99,13 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 > {Darkstorm Dragon}/{Darkblaze Dragon}/{Hieratic Dragon of Asar}: all viable boss monsters if you feel that {Arkbrave Dragon} is not enough. Unlikely their effects will be used and will just act as large beaters on the field.
 
-**kwrowe** says:
+{#Kwrowe} says:
 
 > This Deck combos well with Decks that focus on summoning {Red-Eyes Slash Dragon}, as this is the most powerful Level 7/8 Dragon monster that can be summoned from the Graveyard
 
 > Furthermore, {Dragon Knight of Creation} and {Paladin of Felgrand} are both Warrior type monsters. This means Red-Eyes Slash Dragon can equip them. 
 
-**Xanxus** says:
+**{#Xanxus}** says:
 
 > {Eclipse Wyvern} from [Valiant Souls](/box-reviews/valiant-souls/) will work well with {Arkbrave Dragon} because it is a Light attribute monster.
 
@@ -115,7 +115,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 > The other Felgrand cards work in similar fashion, and if you combine this Deck with {Blue-Eyes White Dragon} and {Birthright} you may be able to get out Blue-Eyes White Dragon quickly. 
 
-**Kayoh** says:
+**{#Kayoh}** says:
 
 > {Guardian of Felgrand} works similarly to {Paladin of Felgrand}; equipping Dragons to them and tributing them to special summon Dragons from the Graveyard. If these cards are used in a Dragon Deck, they'll most likely be played together.
 
@@ -124,19 +124,19 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 #### 'Can the cards in this Structure Deck be used in any other top-tier Deck?'
 
-**Glading** says:
+**{#Glading}** says:
 
 > No! 
 
-**SelectMaple** says:
+**{#SelectMaple}** says:
 
 > Unlikely!
 
-**kwrowe** says:
+{#Kwrowe} says:
 
 > The cards are so focused that they can't be splashed into current top Decks really, they will have to function in their own build.
 
-**Xanxus** says:
+**{#Xanxus}** says:
 
 > Maybe {Evilswarm Zahak} is a potential side Deck option.
 
@@ -144,7 +144,7 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 > In other top-tier Decks, no. There are no current Dragon based top-tier Decks.
 
-**Kayoh** says:
+**{#Kayoh}** says:
 
 > I don't see any cards having an impact on other top-tier Decks.
 
@@ -153,15 +153,15 @@ His second effect allows you to discard a card and send himself to the Graveyard
 
 #### 'Do you expect this Structure Deck to have an impact on the meta?' 
 
-**Glading** says:
+**{#Glading}** says:
 
 > No!
 
-**SelectMaple** says:
+**{#SelectMaple}** says:
 
 > Again, unlikely that this Deck will have an impact on the meta. This Deck will just be another {Red-Eyes Slash Dragon} variant.
 
-**kwrowe** says:
+{#Kwrowe} says:
 
 > It's hard to say. Most of the available Level 7/8 Dragons that can be special summoned are currently not that strong. {Red-Eyes Slash Dragon} is the exception, but Destiny Heroes have already found a way to harness his power with {The Dark - Hex-Sealed Fusion}. While Destiny Heroes are an incredibly flexible Deck (even more so with [Valiant Souls](/box-reviews/valiant-souls/)), this Deck will be quite restricted in its focus on Red-Eyes Slash Dragon. However, this Deck will be able to both summon Red-Eyes Slash Dragon easier than [Destiny Heroes](/tier-list/destiny-heroes/) and consistently revive it through {Red-Eyes Spirit}, {Arkbrave Dragon} and {Dragon Knight of Creation}'s effects. Considering the sheer amount of resources it can take in the current meta to remove a single Red-Eyes Slash Dragon, this could make the Deck very hard to beat. On the flip-side, this Deck will not be able to harness {Black Luster Soldier - Sacred Soldier} in the same way that Destiny Heroes can. Still, they can revive Dragon Knight of Creation which would allow for an easy re-summon of Red-Eyes Slash Dragon next turn. I believe this is a Deck that should sit in the 'High Potential' category until further testing.
 
@@ -173,7 +173,7 @@ In terms of match-ups
 
 > [Cyber Angels](/guides/Deck-types/the-cyber-angels-guide-by-negative1/) can deal with Red-Eyes Slash Dragon using the non-targeting effect of {Cyber Angel Dakini}, meaning the match may be hard. For this reason {Enemy Controller} will likely need to be maxed in the Deck, or at least the Side Deck.
 
-**Xanxus** says:
+**{#Xanxus}** says:
 
 > No, definitely not! The combos are too slow. Even with [Valiant Souls](/box-reviews/valiant-souls/) it's not worth it to buy this Dragon Structure Deck, because the Main Box itself brings the Hieratic-Archetype and better Dragon cards into the game.
 
@@ -181,7 +181,7 @@ In terms of match-ups
 
 > Honestly, no. YouTube Deck at best. Sometimes combos can brick and the Deck doesn't have many answers for the other top Decks around. I personally will not spend my money/gems on this Deck. 
 
-**Kayoh** says:
+**{#Kayoh}** says:
 
 > With all these new combos available, a lot of testing is needed to figure out the optimal way to build these new Dragon Decks. With that being said, I do believe this Structure Deck has potential to impact the meta, specifically with {Red-Eyes Slash Dragon}. It could become a high potential Deck.
 
@@ -191,7 +191,7 @@ In terms of match-ups
 
 #### 'If you do expect this Deck to have an impact on the meta, how would you initially build it?'
 
-**kwrowe** says:
+{#Kwrowe} says:
 
 > I would use {Elemental HERO Blazeman} and {King of the Swamp} as {Polymerization} searchers. Play 2 {Arkbrave Dragon} and 2/3 {Dragon Knight of Creation} along with a reduced {Red-Eyes Insight} engine for space reasons. Other cards that should be considered are {Cosmic Cyclone} and {Enemy Controller}.
 
@@ -203,6 +203,6 @@ In terms of match-ups
 
 > {Blue-Eyes White Dragon} by itself has potential to be a Deck and it's still not meta. Add in these new fancy combo cards and it still won't be meta. 3 {Burst Stream of Destruction} came out - still not meta. 
 
-**Kayoh** says:
+**{#Kayoh}** says:
 
 > I would make this Deck revolve around {Red-Eyes Slash Dragon}, since it's the best Dragon in the game. 

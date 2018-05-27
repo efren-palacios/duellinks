@@ -23,7 +23,7 @@ permalink: /tournaments/meta-weekly/8/report/
 #### Meta Weekly 8 - February 21, 2018
 
 ### What is Meta Weekly?
-The Meta Weekly is one of Dkayed's tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up until the very last second!
+The Meta Weekly is one of {#Dkayed}'s tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up until the very last second!
 
 ### Rules
 * One deck
@@ -50,7 +50,7 @@ Masarike - $146
 [deck](Destiny HERO - Decider; Destiny HERO - Decider; Cosmic Cyclone; Cosmic Cyclone; Enemy Controller)
 
 #### Second Place
-Kaki - $81
+{#Kaki} - $81
 
 *Main deck*
 

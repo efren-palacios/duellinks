@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-05-06 02:00:00 +0100
 title: Elegant Mai
-author: Yami Hammy & Freeska
+author: Yami Hammy; Freeska
 image: /img/content/events/2018/05/elegant-mai/thumbnail.jpg
 category: event
 ended: true
@@ -139,7 +139,7 @@ You should have at least one Monster on the field.
 
 <a name="brenduke"></a>
 
-#### Lvl: 30/40 Geargia Farm - credit: [Brenduke](/authors/brenduke/)
+#### Lvl: 30/40 Geargia Farm - credit: {#Brenduke}
 
 [deck:Power of the Tributed](The Winged Dragon of Ra; Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Geargiarsenal; Ties of the Brethren; Ties of the Brethren; Ties of the Brethren; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Pulse Mines; Pulse Mines; Pulse Mines; Curse of Anubis; Windstorm of Etaqua)
 

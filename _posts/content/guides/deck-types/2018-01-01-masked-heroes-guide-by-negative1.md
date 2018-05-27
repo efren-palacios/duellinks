@@ -58,7 +58,7 @@ Masked Heroes is an archetype that was released on April 2nd with the 11th Main 
 
 #### About the Author
  
-Hello, I’m Negative1. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from {#Jonesy9027} on the introduction, tech tier list, and matchups sections and I hope you all find it helpful! :D
+Hello, I’m {#Negative1}. I’m presently a Cyber Angel expert in the DLM discord and Masked Heroes are one of my favorite new decks. I wrote this guide with some help from {#Jonesy9027} on the introduction, tech tier list, and matchups sections and I hope you all find it helpful! :D
 
 ---
  
@@ -359,7 +359,7 @@ Cyber Angels is one of the few remaining decks from 2017 as it has strong combos
 ---
  
 ### Special Thanks to the Following
-* Dkayed for fostering a competitive and productive Duel Links community through Duel Links Meta.
+* {#Dkayed} for fostering a competitive and productive Duel Links community through Duel Links Meta.
 * Everyone contributing in the Masked Hero channel of the discord and everyone pushing the deck.
 * My Team Wars family Murder Inc for being dope and helping me improve as a player.
 * Check them out on the Team Wars [Discord](https://discord.gg/2hKUKx8).

@@ -89,7 +89,7 @@ These are the 4 decks I've played for different DP levels:
 
 ---
 
-#### **Glading**
+#### **{#Glading}**
 ##### Global Rank: 4
 ##### Regional Rank (Asia): 1
 
@@ -125,7 +125,7 @@ I used {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) mostly un
 
 ---
 
-#### **Andy Tsang**
+#### **{#Andy Tsang}**
 ##### Global Rank: 6
 ##### Regional Rank (North America): 1
 
@@ -194,7 +194,7 @@ After switching to {Grit} my DP went from 20k to 70k with 66% win rate!
 
 ---
 
-#### **Jason**
+#### **{#Jason}**
 ##### Global Rank: 14
 ##### Regional Rank (North America): 3
 
@@ -253,7 +253,7 @@ I did not have much time otherwise I could have done better.
 
 ---
 
-#### **Whilipino**
+#### **{#Whilipino}**
 ##### Global Rank: 35
 ##### Regional Rank (North America): 4
 
@@ -336,7 +336,7 @@ I played [Fishes](/tier-list/deck-types/fishes/) for the entirety of Friday, and
 
 ---
 
-#### **MiguelJoker**
+#### **{#MiguelJoker}**
 ##### Global Rank: 66
 ##### Regional Rank (Europe): 7
 

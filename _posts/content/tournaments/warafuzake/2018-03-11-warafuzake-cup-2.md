@@ -90,5 +90,5 @@ Original Decklist Submissions:
 
 ---
 
-Credits to Kaito for tournament information  
+Credits to {#Kaito} for tournament information  
 Team Warafuzake [Twitter](https://twitter.com/TeamWARUFUZAKE)  

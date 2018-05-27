@@ -85,13 +85,13 @@ These are the cards and Skills you can attain.
 **{#Super Vegito}** says:
 > Definitely not.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 > 🚮
 
 **{#SelectMaple}** says:
 > (OMEGALUL) Trash.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 > No!
 
 ---
@@ -114,13 +114,13 @@ These are the cards and Skills you can attain.
 **{#Super Vegito}** says:
 > No!
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 > 🚮
 
 **{#SelectMaple}** says:
 > Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 > No!
 
 ---
@@ -143,13 +143,13 @@ These are the cards and Skills you can attain.
 **{#Super Vegito}** says:
 > No, I'll be auto-dueling, none of the cards    are worth it.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 > Yes, but that's because this game is an addiction, still 🚮.
 
 **{#SelectMaple}** says:
 > For 3 of every card, yes.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 > Yes!
 
 ---
@@ -158,7 +158,7 @@ These are the cards and Skills you can attain.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: {#freeska}
+#### Lvl: 40 Ra Farm - credit: {#Freeska}
 Any variation of the "Ra Deck" may work but perhaps not as effectively. For example, {Kiseitai} + {Massivemorph}, {Golden Ladybug} etc. 
 
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)

@@ -105,7 +105,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Yes!
 
@@ -131,7 +131,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > I highly doubt it.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
 
@@ -157,7 +157,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 > Only if Jesse is easy to farm.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Yes, I am.
 
@@ -182,7 +182,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 <a name="jadehex"></a>
 
-#### Level 40 Ra Farm - credit: [{#Jadehex}](/authors/jadehex)
+#### Level 40 Ra Farm - credit: {#Jadehex}
 [deck:Duel, standby!](The Winged Dragon of Ra; Kiseitai; Kiseitai; Kiseitai; Cosmic Compass; Anti-Magic Arrows; Arrivalrivals; Supremacy Berry; Draining Shield; Draining Shield; Draining Shield; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
 ##### Strategy
@@ -235,7 +235,7 @@ You should have at least one monster on the field.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: {#freeska}
+#### Lvl: 40 Ra Farm - credit: {#Freeska}
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
 ##### Strategy
@@ -290,7 +290,7 @@ You should have at least two monsters on the field.
 
 <a name="freeska2"></a>
 
-#### Lvl: 40 Hazy Farm - credit: {#freeska}
+#### Lvl: 40 Hazy Farm - credit: {#Freeska}
 This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use it if you don't have {The Winged Dragon of Ra}.
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Dynatherium; Hazy Flame Peryton; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Mausoleum of the Emperor; Mausoleum of the Emperor; Mausoleum of the Emperor; Fairy Meteor Crush; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)

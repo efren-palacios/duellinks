@@ -31,23 +31,23 @@ As well as old own event rewards:
 
 #### {Dodger Dragon}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > Trash!
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > More of an Auto-Duel Deck card than meta, so pretty bad.
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
+**{#SelectMaple}** says:
 
 > Can dodge {Ultimate Providence} and {Divine Wrath}, but this card takes away your Normal Summon. It's just another 1900 ATK Dragon beater with a low graded effect. Cannot see this being good in competitive play.
 
-**[Glading](/top-player-council/Glading/)** says:
+**{#Glading}** says:
 
 > Try {Hey, Trunade!} instead?
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
+**{#BuiltToTilt}** says:
 
 > Very limited uses, it's an extremely niche card that likely won't see any competitive play.
 
@@ -55,23 +55,23 @@ As well as old own event rewards:
 
 #### {Big Burn}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > Trash, but maybe future potential as a Side Deck card.
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > Interesting card, shows potential. It may be a good Side Deck card. 
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
+**{#SelectMaple}** says:
 
 > I would use {Different Dimension Ground} or {Crevice Into The Different Dimension} over {Big Burn}.
 
-**[Glading](/top-player-council/Glading/)** says:
+**{#Glading}** says:
 
 > it is a good Side Deck card against [Archfiends](/tier-list/deck-types/archfiends/) right now and it has potential for future metas.
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
+**{#BuiltToTilt}** says:
 
 > This card is a nice Side Deck option against Graveyard oriented decks such as [Archfiends](/tier-list/deck-types/archfiends/) to counter cards like {Call of the Archfiend}. It has a niche over cards like {Foolish Return} and {Disappear}, as it banishes all monsters from the Graveyard making all other revival cards in the deck useless.
 
@@ -79,23 +79,23 @@ As well as old own event rewards:
 
 #### {Cold Feet}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > Trash, but nice artwork.
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > OMEGALUL 🚮
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
+**{#SelectMaple}** says:
 
 > Trash!
 
-**[Glading](/top-player-council/Glading/)** says:
+**{#Glading}** says:
 
 > The perfect card for Guns to make a video.
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
+**{#BuiltToTilt}** says:
 
 > Pretty God damn useless!
 

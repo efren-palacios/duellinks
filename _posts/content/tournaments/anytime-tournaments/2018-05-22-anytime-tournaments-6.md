@@ -19,7 +19,7 @@ permalink: /tournaments/anytime-tournament/5/report/
 ### Information
 - This tournament takes place **any time** in the Discord, 1st place wins $14 + 1 Meta Point and 2nd place wins 1 Meta Ticket!
 - You can join the lobby by typing **!enterticket** anywhere in the Discord (while you have at least 1 Meta Ticket). 
-- If you win a tournament you **must** message Gia (Gia Joestar#7730) your [PayPal](https://paypal.com/) address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
+- If you win a tournament you **must** message {#GiaJoestar} (Gia Joestar#7730) your [PayPal](https://paypal.com/) address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
 
 ### Format
 - 8 players
@@ -118,7 +118,7 @@ Didn’t need to touch the side deck. This, in my opinion, is currently the stro
 
 #### May 18th
 
-##### skillShot
+##### {#SkillShot}
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Offerings to the Doomed; Offerings to the Doomed; Mask Change; Mask Change; Mask Change; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Polymerization; Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -149,7 +149,7 @@ Another one!
 
 ---
 
-##### skillShot
+##### {#SkillShot}
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Offerings to the Doomed; Offerings to the Doomed; Mask Change; Mask Change; Mask Change; Fire Formation - Gyokkou; Forbidden Chalice; Forbidden Chalice; Polymerization; Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -214,7 +214,7 @@ OK NOW I have the most anytime wins!
 
 ---
 
-##### Cpt. Insano
+##### {#Cpt. Insano}
 6-1 with my new project, hey guys beat Stevie, did u know he won an MCS and a YCS?!?
 
 [deck:Balance](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Cosmic Cyclone; Cosmic Cyclone; Offerings to the Doomed; Offerings to the Doomed; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice; Treacherous Trap Hole; Treacherous Trap Hole)

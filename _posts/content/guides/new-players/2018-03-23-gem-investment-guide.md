@@ -18,7 +18,7 @@ permalink: /guides/new-players/gem-investment-guide/
 ![](/img/content/guides/GEMGUIDE2.jpg)
 
 ### Introduction
-Hi, i am Kaito, winner of the [Meta Championship Series 3](/tournaments/meta-championship-series/3/report/).
+Hi, i am {#Kaito}, winner of the [Meta Championship Series 3](/tournaments/meta-championship-series/3/report/).
 In this guide I will discuss how to spend your gems wisely.  
 
 ### Where to Spend Gems

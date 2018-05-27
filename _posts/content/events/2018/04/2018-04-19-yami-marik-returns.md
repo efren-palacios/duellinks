@@ -27,13 +27,13 @@ pinned: false
     - [Arkana](#arkana-drops)
 - [Event Missions](#event-missions)
 - [Farm Decks](#farm-decks)
-    - [Lvl. 40 (Marik) Cloudian Farm - created by {#Jadehex}](#jadehex)
+    - [Lvl. 40 (Marik) Cloudian Farm - created by Jadehex](#jadehex)
     - [Lvl. 40 (Marik & Arkana) Ra Farm - created by Charlie Mckiz](#charlie)
     - [Lvl. 40 (Marik) Hazy Farm - created by Superforms](#superforms)
     - [Lvl. 40 (Marik) Ojama Farm - created by Tutpup](#tutpup)
     - [Lvl. 40 (Marik) Unhappy Girl Farm - created by elStar](#elstar)
     - [Lvl. 40 (Marik) Backup Squad Farm - created by Grandmaster](#grandmaster)
-    - [Lvl. 40 (Marik) Labby Farm - created by {#Jadehex}](#jadehex2)
+    - [Lvl. 40 (Marik) Labby Farm - created by Jadehex](#jadehex2)
     - [Lvl. 40 (Marik) Labby Farm - created by Hi_Im_Flabber](#flabber)
 - [Yami Marik Lvl. 40 Decklist](#40)
 - [Yami Marik Lvl. 50 Decklist](#50)
@@ -205,7 +205,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 
 <a name="superforms"></a>
 
-#### Lvl. 40 **(Marik)** Hazy Farm - created by Superforms
+#### Lvl. 40 **(Marik)** Hazy Farm - created by {#Superforms}
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Soul Exchange; Soul Exchange; Soul Exchange; Enemy Controller; Enemy Controller; Enemy Controller; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
 

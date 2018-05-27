@@ -58,7 +58,7 @@ Credit to Reddit user: ArmoredKappa
 
 ### Top 16 DeckList Winner's
 
-#### 1st Place- Whilipino: $1,675
+#### 1st Place- {#Whilipino}: $1,675
 
 [content-only]
 Main Deck | Side Deck
@@ -96,7 +96,7 @@ Main Deck | Side Deck
 
 ----------
 
-### ​5th Place- AndyTsang: $168
+### ​5th Place- {#AndyTsang}: $168
 #### YCS Denver 2017 Winner
 
 [content-only]
@@ -133,7 +133,7 @@ Main Deck| Side Deck
 
 ----------
 
-###  9th Place- Kaito $52
+###  9th Place- {#Kaito} $52
 
 [content-only]
 Main Deck| Side Deck
@@ -142,7 +142,7 @@ Main Deck| Side Deck
 
 ----------
 
-###  10th Place- Kazin_X  $52
+###  10th Place- {#Kazin_X}  $52
 
 [content-only]
 Main Deck|Extra Deck |Side Deck
@@ -151,7 +151,7 @@ Main Deck|Extra Deck |Side Deck
 
 ----------
 
-###  11th Place- Xanxus $52
+###  11th Place- {#Xanxus} $52
 
 [content-only]
 Main Deck| Side Deck
@@ -160,7 +160,7 @@ Main Deck| Side Deck
 
 ----------
 
-###  12th Place- machdragon $52
+###  12th Place- {#Machdragon} $52
 
 [content-only]
 Main Deck| Side Deck

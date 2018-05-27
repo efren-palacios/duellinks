@@ -17,7 +17,7 @@ permalink: /tournaments/duel-links-mini-open/2/report/
 {% include heading.html title=page.title author=page.author %}
 
 ### Tournament Information
-- This tournament was hosted by Magpie and casted by Jayrabian and [3K All Day](/top-player-council/3kallday/). Be sure to join the [Duel Links Open Discord](https://discord.gg/TC2R5ck) to keep up with future tournaments and watch 3K All Day stream on [Twitch](https://www.twitch.tv/3kallday) and watch Jayrabian stream on [Twitch](https://www.twitch.tv/jayrabian) here!
+- This tournament was hosted by Magpie and casted by Jayrabian and {#3K All Day}. Be sure to join the [Duel Links Open Discord](https://discord.gg/TC2R5ck) to keep up with future tournaments and watch 3K All Day stream on [Twitch](https://www.twitch.tv/3kallday) and watch Jayrabian stream on [Twitch](https://www.twitch.tv/jayrabian) here!
 - Saturday 21st April, 8pm EDT
 - Free to enter and first come first serve (must be a Discord member)
 - Prize support: $20 to 1st Place
@@ -34,7 +34,7 @@ permalink: /tournaments/duel-links-mini-open/2/report/
 
 ### Top 4 Decklists (Main + Side Deck)
 
-#### 1st Place - Adoboboy
+#### 1st Place - {#AdoboBoy}
 
 [deck:Restart](Snipe Hunter; Gozuki;Gozuki;Gozuki;Red-Eyes Zombie Dragon;Red-Eyes Zombie Dragon;Samurai Skull;Samurai Skull;Bacon Saver;Cosmic Cyclone;Forbidden Chalice;Forbidden Chalice;Red-Eyes Insight;Red-Eyes Insight;Enemy Controller;Enemy Controller;Enemy Controller;Mirror Wall;Red-Eyes Spirit;Red-Eyes Spirit)
 

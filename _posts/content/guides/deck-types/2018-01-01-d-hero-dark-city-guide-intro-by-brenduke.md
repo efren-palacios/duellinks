@@ -162,7 +162,7 @@ This will be updated as the deck gets more tournament results.
 
 <br>
 
-**Grucius & Brenduke KoG Build**  
+**Grucius & {#Brenduke} KoG Build**  
 
 [deck](Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Destiny Draw; Enemy Controller; Enemy Controller; Enemy Controller; Wall of Disruption; Wall of Disruption; Destiny Signal; Destiny Signal)	
 

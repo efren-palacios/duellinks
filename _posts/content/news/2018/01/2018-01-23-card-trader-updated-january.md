@@ -33,9 +33,9 @@ The Card Trader's inventory has been updated with some new additions to his card
 Grass fuels graveyard combos but likely requires you to play 25-30 cards, which means that your deck needs to be able to run without it. Obvious candidates include Red-Eyes Zombies and Magnets, but so is anything that special summons based on graveyard conditions - think {Pyrorex the Elemental Lord}, {Black Luster Soldier - Envoy of the Evening Twilight}, {Spell Striker}, {Darkflare Dragon}, {Dark Necrofear}, etc. 
 In the TCG, {That Grass Looks Greener} was abused with the "Infernoid" archetype which is full of those kind of monsters and consistent even without {That Grass Looks Greener}. Anything similar to this that makes its way to Duel Links should have a lot of synergy with it.
 
-**[Kazin_X](/authors/kazin_x/)  says:** 
+**{#Kazin_X} says:** 
 
-> {That Grass Looks Greener}'s implication is too far reaching, probably useful for many archetypes in the future... Currently though, it can be good for {Red-Eyes Slash Dragon} to fill the graveyard with things like {Dawn Knight}, {Destiny HERO - Dasher}, {Destiny HERO - Malicious}, {A/D Changer}, {Black Luster Soldier - Envoy of the Evening Twilight}, and much more. Exodia can probably do some stupid stuff like use {That Grass Looks Greener} to mill, and then use {Backup Soldier}. Plants can benefit from it too, by dumping {Rose Lover} and doing a very quick swarm. I guess Zombies, especially Red-Eyes Zombies can benefit, but I don't want to mention things {#superforms} already mentioned.
+> {That Grass Looks Greener}'s implication is too far reaching, probably useful for many archetypes in the future... Currently though, it can be good for {Red-Eyes Slash Dragon} to fill the graveyard with things like {Dawn Knight}, {Destiny HERO - Dasher}, {Destiny HERO - Malicious}, {A/D Changer}, {Black Luster Soldier - Envoy of the Evening Twilight}, and much more. Exodia can probably do some stupid stuff like use {That Grass Looks Greener} to mill, and then use {Backup Soldier}. Plants can benefit from it too, by dumping {Rose Lover} and doing a very quick swarm. I guess Zombies, especially Red-Eyes Zombies can benefit, but I don't want to mention things {#Superforms} already mentioned.
 
 **[Tutpup](/authors/tutpup/) says:** 
 

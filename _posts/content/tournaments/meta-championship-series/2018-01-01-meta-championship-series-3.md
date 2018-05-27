@@ -24,7 +24,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 
 |Rank|Participant Name|Match History
 | :-------- | :-------- | :-------- |
-|1| Kaito| W W W W W W W W
+|1| {#Kaito} | W W W W W W W W
 |2|Tekumse|W W W W W W L W L
 |3|Ocelot|W W W W W L W W L
 |4|Greedo_sama|W W L W W W W W W W L
@@ -66,7 +66,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 |Justin "Noah Kaiba" Taylor| $590|
 |xNIGHT RAIDERx| $550|
 |NerdChic|$111
-|Kazin_X| $100|
+| {#Kazin_X} | $100|
 |Jaadgo| $100|
 |Jater|$100|
 |oh_heybobby|$80|
@@ -78,7 +78,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 
 ### Top 8 DeckList Winner's
 
-#### 1st Place- Kaito: $1,334
+#### 1st Place- {#Kaito}: $1,334
 
 [content-only]
 Decklist 1 | Decklist 2
@@ -153,7 +153,7 @@ Decklist 1 | Decklist 2
 ![](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/img-20171013-wa0006-markus-bauer_orig.jpg)
 
 [content-only]
-​9th-12th Place Procircuitscrub | ​13th-16th Place Whybona 
+​9th-12th Place Procircuitscrub | ​13th-16th Place {#Whybona} 
 |:----------:|:----------:|
 ![](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/prociruitscrub-mcs-dl1-steven-bates_orig.png)|![](http://www.duellinksmeta.com/uploads/4/0/9/9/40991731/whybona-mcs-dl1-charlie-whyborne_orig.png)
 

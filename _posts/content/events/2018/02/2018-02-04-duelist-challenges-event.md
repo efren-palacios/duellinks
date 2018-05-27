@@ -94,6 +94,6 @@ Solutions to challenges are listed here, but we encourage new players to try the
 7. Activate {Advance Draw}
 8. **Exodia OBLITERATE!**
 
-*Credit to Yami Hammy on the Discord*
+*Credit to {#Yami Hammy} on the Discord*
   
 ---

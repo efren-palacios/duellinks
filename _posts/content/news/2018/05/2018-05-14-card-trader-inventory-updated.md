@@ -43,7 +43,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Not enough to bring Crystal Beasts onto the [tier list](/tier-list/), but good support nonetheless.
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > This card is nuts! With {Crystal Beast Sapphire Pegasus} you can easily destroy a Monster (pretty good against [Sylvans](/tier-list/deck-types/sylvans/)). I expect this card in future [King of Games Decks](/top-decks/), maybe it's good enough to do well in tournaments.
 
@@ -51,15 +51,15 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > A nice boost small boost to Crystal Beasts. Unfortunately, this does not make Crystal Beasts become a top tier Deck. 
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
+**{#Machdragon}** says:
 
 > Crystal Beasts support, yay!
 
-**{#Skillshot}** says:
+**{#SkillShot}** says:
 
 > Nice card, the timing is interesting with a [new Jesse Anderson event](/news/may-2018/in-game-updates/) coming this very same week, bringing new cards and a new Skill for Jesse, we wil see where this pushes Crystal Beasts.
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > Cool idea but trash. Thunder Monsters have the same Trap ({Judgment of Thunder}) without the requirement.
  
@@ -73,7 +73,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Not relevant.
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > Another card that supports Crystal Beasts. I dont think that it's playable at the moment because a 1 Tribute Monster in a Deck like Crystal Beasts will be slow and inconsistent. Use in other Decks is also unlikely since there aren't any really good Continuous Spells in game.
 
@@ -81,15 +81,15 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Crystal Beasts tech card, I guess?
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
+**{#Machdragon}** says:
 
 > More Crystal Beasts support.
 
-**{#Skillshot}** says:
+**{#SkillShot}** says:
 
 > Can probably be abused with Crystal Beasts or {Ruins of the Divine Dragon Lords}, but the fact that it's a level 6 makes it not that good at the moment.
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > 🚮
 
@@ -102,7 +102,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > May be a potential Side Deck card if Mill Decks become a problem.
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
+**{#Xanxus}** says:
 
 > If Mill came back this is a possible counter card, otherwise it's trash.
 
@@ -110,15 +110,15 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 > Counter Mill xD.
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
+**{#Machdragon}** says:
 
 > Garbage!
 
-**{#Skillshot}** says:
+**{#SkillShot}** says:
 
 > Good against Mill Decks.
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
+**{#3K All Day}** says:
 
 > 🚮
 

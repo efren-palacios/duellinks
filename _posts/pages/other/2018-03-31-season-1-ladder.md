@@ -18,34 +18,34 @@ hide: true
 
 |Rank|Participant Name|Points|
 | :-|| :-|| :-||
-|1|Glading|50 points|
-|2|Whilipino|45 points|
-|3|Jason|42 points|
+|1| {#Glading} |50 points|
+|2| {#Whilipino} |45 points|
+|3| {#Jason} |42 points|
 |4|Taichi|38 points|
 |5|Silverstone777|36 points|
 |6-7|Darkking|33 points|
-|6-7|SelectMaple|33 points|
-|8|Skillshot|31 points|
-|9-10|MiguelJoker|30 points|
+|6-7| {#SelectMaple} |33 points|
+|8| {#SkillShot} |31 points|
+|9-10| {#MiguelJoker} |30 points|
 |9-10|BoyAFanYZ|30 points|
 |11|SDotAkuma|28 points|
 |12|Kwrowe1|27 points|
 |13|Masarike|26 points|
 |14-16|Nohara Hiroshi|24 points|
 |14-16|RegTrainer1|24 points|
-|14-16|Super Vegito|24 points|
-|17-19|Kaki|23 points|
-|17-19|Kayoh|23 points|
+|14-16| {Super Vegito} |24 points|
+|17-19| {#Kaki} |23 points|
+|17-19| {#Kayoh} |23 points|
 |17-19|Xaxnus|23 points|
 |20|2much420|22 points|
 |21|3KAllDay|21 points|
 |22|NA-|20 points|
 |23|AdoboBoy|19 points|
-|24-25|Whybona|18 points|
-|24-25|Machdragon|18 points|
+|24-25| {#Whybona} |18 points|
+|24-25| {#Machdragon} |18 points|
 |26-28| AndyTsang|17 points 
-|26-28|BuilttoTilt|17 point
-|26-28| SirDillweed|17 points
+|26-28| {#BuiltToTilt} |17 point
+|26-28| {#SirDillweed} |17 points
 
 |29+|Points|
 | :-|| :-||
@@ -53,7 +53,7 @@ hide: true
 |Itsyoboyeden|14 point|
 |Tomvdelzen|14 points|
 |DennisEG|14 points|
-|Kaito|14 points|
+| {#Kaito} |14 points|
 |Timophenom |13 points|
 |Wayne_Kenoff5|13 point|
 |Nix|12 points|
@@ -86,7 +86,7 @@ hide: true
 |Lieral |9 points|
 |HudCant5 |8 points|
 |Clashbruh |8 points|
-|Celestial |8 points|
+| {#Celestial} |8 points|
 |Artica3 |8 points|
 |Tutpup | 8 points|
 |Genkaiten | 8 points|
@@ -95,7 +95,7 @@ hide: true
 |BBDz | 8 points|
 |RNPollo | 8 points|
 |Negao do zap |7 points|
-|Insano |7 points|
+| {#Cpt. Insano} |7 points|
 |Blackesus |7 points|
 |Tekumse | 7 points|
 |Superwilly42 | 6 points|
@@ -130,7 +130,7 @@ hide: true
 |BTomF |5 points|
 |ShinySopheon |5 points |
 |HS_Shadow |5 points|
-|Brenduke |4 point|
+| {#Brenduke} |4 point|
 |Drackmord |4 points|
 |Whoiskp |4 points|
 |DavidBlocker |4 points |
@@ -192,7 +192,7 @@ hide: true
 |Maxura |1 point |
 |Saambell |1 point |
 |Senu |1 point |
-|Skillshot |1 point|
+| {#SkillShot} |1 point|
 |Z_ARC|1 point|
 |AceMike08 |1 point|
 |Yehhey |1 point|

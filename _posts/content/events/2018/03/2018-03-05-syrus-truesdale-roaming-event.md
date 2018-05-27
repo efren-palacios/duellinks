@@ -130,7 +130,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ---
 
-#### Level 40 Farm - created by Freeska
+#### Level 40 Farm - credit: {#Freeska}
 
 [deck: Reinforcements](The Legendary Fisherman; Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Crystal Seer; Crystal Seer; Anti-Magic Arrows; A Legendary Ocean; A Legendary Ocean; A Legendary Ocean; Union Attack; Polymerization; Magical Mallet; Magical Mallet; Magical Mallet; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Twin-Headed Thunder Dragon)
 

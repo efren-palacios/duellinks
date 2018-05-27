@@ -58,7 +58,7 @@ pinned: false
 
 ---
 
-#### 3rd Place - [BuiltToTilt](/top-player-council/builttotilt/): $13.50
+#### 3rd Place - {#BuiltToTilt}: $13.50
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Cosmic Cyclone; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Enemy Controller; Enemy Controller; Enemy Controller; Polymerization;Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)

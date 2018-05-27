@@ -148,7 +148,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Useless!
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Interesting card. Kind of like {Mirror Wall} for the people that don't have it.
 
@@ -156,7 +156,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Not bad. Similar to {Gravity Lash} as it lowers a single Monster's ATK but has the same effect as {Mirror Wall}. I would probably play Gravity Lash or Mirror Wall over {Paleozoic Hallucigenia} due to Gravity Lash being immune to {Rose Lover} and Mirror Wall affecting multiple Monsters and not just one. But this is definitely a boost to a possible Paleozoic Deck in the future once Synchros and Xyz are implemented in the game. 
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > When Paleozoics came out I thought that this one should have came with it. There are still two Traps in the archetype that are strong but not in the game.
 
@@ -182,7 +182,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > It has future potential.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Exodia (monkaS) so pumped. 
 
@@ -190,7 +190,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Good searcher but the card is much slower than before the [errata in TCG](http://yugioh.wikia.com/wiki/Card_Errata:Sangan). Might be playable in [Amazoness](/tier-list/deck-types/amazoness/) getting {Amazoness Princess} faster. Though I personally do not see {Sangan} being played at more than 1 as most decks are already consistent enough and not many play with Monsters that have 1500 ATK or less.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > While it can search a large number of cards, I'm not sure how effective it will be. On top of it being nerfed from its [limited/banned TCG version](http://yugioh.wikia.com/wiki/Card_Errata:Sangan). Duel Links is also 20 card Decks, so consistency is already increased, as well as 4000 LP, so games end quicker.
 
@@ -216,7 +216,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Top tier card, {Enemy Controller} level.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > It's nothing crazy.
 
@@ -224,7 +224,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Great removal card also being a Quick-Play Spell, you can say it's already better than {Tribute to the Doomed}. With the downside of skipping your next Draw Phase, this card could actually be good in [Masked Heroes](/tier-list/deck-types/masked-heroes/) as they can use the effect of {Destiny HERO - Celestial} to draw instead. Though, other Decks like [Sylvans](/tier-list/deck-types/sylvans/) might not benefit from {Offerings to the Doomed} as much as Tribute to the Doomed. Tribute to the Doomed is considered a better option for [Sylvans](/tier-list/deck-types/sylvans/) allowing you to discard cards like {Rose Lover} and {World Carrotweight Champion} to the Graveyard to activate their effects. I'd say it depends which Deck you play to make full use of Offerings to the Doomed, but it's still a great card in general.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > [Spellbooks](/tier-list/deck-types/spellbooks/) may use this to help them win going second in the mirror match.
 
@@ -250,7 +250,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Useless.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > Nothing crazy.
 
@@ -258,7 +258,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Another Fire Fist Monster I thought they should've released long ago, {Brotherhood of the Fire Fist - Gorilla} is one of the better Fire Fist monsters. With it's ability to search a "Fire Formation" card from your Deck and onto the field to activate for next turn and its great effect of backrow removal if your "Fire Formation" card is dead on the field. But adding this card will, unfortunately, not make Fire Fist a viable meta Deck. 
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > Okay at best.
 
@@ -284,7 +284,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Trash.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > {Axe of Despair} is a mediocre card. Next one will be {United We Stand}! Power creep can't get much higher.
 
@@ -292,7 +292,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > {Dark Elf} is trash. {Axe of Despair} is useful for the effect of {Archfiend Emperor, the First Lord of Horror}, but it won't boost the [Archfiends](/tier-list/deck-types/archfiends/) as giving them power will not help the consistency of the Deck and will instead just add more bricks.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > I could see a world where you {Cosmic Cyclone} your opponent and then attack with {Dark Elf} using {Titan Showdown}.
 
@@ -314,7 +314,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > {Offerings to the Doomed}!
 
-**[3K All Day](/top-player-council/3kallday/)** says:
+**{#3K All Day}** says:
 
 > I'll probably attempt 3x of each as long as the pricing for this box isn't as wacky as the last one.
 
@@ -322,7 +322,7 @@ The release date isn't confirmed but it will most likely be before the Regional 
 
 > Personally, I do not open Selection Boxes, but if I did, I would go for at least a {Sangan} and two {Offerings to the Doomed}, if possible.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > I will most likely be skipping this box.
 

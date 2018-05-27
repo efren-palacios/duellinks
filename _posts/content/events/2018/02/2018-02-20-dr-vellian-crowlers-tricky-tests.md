@@ -17,7 +17,7 @@ permalink: /events/february-2018/dr-vellian-crowlers-tricky-tests/
 [w75]
 ![Banner](/img/content/events/2018/02/dr-vellian-crowlers-tricky-tests/banner.png)
 
-**Last updated February 24th by Yami Hammy**
+**Last updated February 24th by {#Yami Hammy}**
 
 [slider](https://i.imgur.com/sOr4XTq.jpg)
 
@@ -101,7 +101,7 @@ By dueling Crowler at the gate, you will be rewarded with points which will unlo
 
 ### Farm Decks
 
-**Level 40 Farm - created by JadeHex**
+**Level 40 Farm - created by {#JadeHex}**
 
 7,500 Base DA (Duel Assessment)
 
@@ -132,7 +132,7 @@ By dueling Crowler at the gate, you will be rewarded with points which will unlo
 
 ---
  
-**Level 40 Farm - created by Freeska**
+**Level 40 Farm - credit: {#Freeska}**
 
 7,600 Base DA (Duel Assessment)
 
@@ -160,7 +160,7 @@ By dueling Crowler at the gate, you will be rewarded with points which will unlo
 
 ---
 
-**Level 40 Farm - created by Freeska**
+**Level 40 Farm - credit: {#Freeska}**
 
 7,900 Base DA (Duel Assessment)
 

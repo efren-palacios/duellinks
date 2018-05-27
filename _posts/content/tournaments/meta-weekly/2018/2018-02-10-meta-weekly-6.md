@@ -54,6 +54,6 @@ Sasuke - $33
 [deck:Mind Scan](sphere kuriboh; sphere kuriboh; gladiator beast laquari; gladiator beast laquari; gladiator beast laquari; gladiator beast bestiari; gladiator beast bestiari; gladiator beast murmillo; gladiator beast murmillo; gladiator beast dimacari; enemy controller; enemy controller; enemy controller; floodgate trap hole; floodgate trap hole; floodgate trap hole;  wall of disruption; wall of disruption; curse of anubis; windstorm of etaqua)
 
 #### Third/Fourth Place
-Brenduke - $33
+{#Brenduke} - $33
 
 [deck:Three-Star Demotion](sphere kuriboh; sphere kuriboh; sphere kuriboh; gladiator beast laquari; gladiator beast laquari; gladiator beast laquari; sanga of the thunder; sanga of the thunder; sanga of the thunder;  gladiator beast bestiari; gladiator beast bestiari; gladiator beast murmillo; gladiator beast dimacari; floodgate trap hole; floodgate trap hole; divine wrath; impenetrable attack; impenetrable attack; wall of disruption; wall of disruption)

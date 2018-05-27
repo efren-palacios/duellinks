@@ -17,7 +17,7 @@ permalink: /box-reviews/crusaders-battlegrounds/
 [w100]
 ![](/img/content/box-reviews/crusaders-battlegrounds/banner.jpg)
 
-##### Updated May 20, 2018 - Added Super Vegito's Responses
+##### Updated May 20, 2018 - Added {Super Vegito}'s Responses
 
 - [Card List](#card-list)
 - [Top Player Council Thoughts](#tpc)
@@ -71,7 +71,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > They will make a new meta.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > Noble Knights in TCG were a gimmicky strategy built around surrounding a single monster with equips that protected it from targeting, as well as destruction. But in a format full of {Spellbook of Fate} and {Amazoness Onslaught}, I think Noble Knights came at a bad time.
 
@@ -94,7 +94,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > I think it will be a high potential deck.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > {Grandmaster of the Six Samurai} is a godsend. {Great Shogun Shien} is great vs [Spellbooks](/tier-list/deck-types/spellbooks/). 
 
@@ -116,7 +116,7 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 > Trash!
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
+**{#AndyTsang}** says:
 
 > Bujins with {Ties of the Brethren} may be a thing ({Bujin Yamato} + {Bujin Mikazuchi} + {Bujin Arasuda}). However, similar to Noble Knights the flaw with Bujins has always been non-targetting, non-destruction removal, as their main protection comes from {Bujingi Turtle} and {Bujingi Hare}.
 

@@ -50,22 +50,22 @@ Yours for reaching 6800 Points is {Intrigue Shield}, read what the [Top Player C
 **{#Superforms}** says:
 > As {Intrigue Shield} is only available at 1x this hurts its potential quite a bit, but it can potentially be used in annoying [Stall](/tier-list/stall-decks/)-type decks with {Duck Dummy} and/or {The Unhappy Girl}. 
 
-**[》3K《 All Day](/authors/3KAllDay/)** says:
+**{#3K All Day}** says:
 > This card being 1x might be pretty good. A tech card like {Curse of Anubis} and {Windstorm of Etaqua}. You can slap this on key monsters you don't want destroyed but you'll still be open to {Enemy Controller} tribute-take and {Super Rush Headlong}.
 
-**[Glading](/authors/Glading/)** says:
+**{#Glading}** says:
 > No PvP potential!
 
-**[Xanxus](/authors/Xanxus/)** says:
+**{#Xanxus}** says:
 > This is a Normal Trap card playable with Paleozoics, but I do not see a high potential usage for this card.
 
-**Whybona** says:
+**{#Whybona}** says:
 > May have some uses in gimmicky decks but likely won't see any competitive use due to the requirement of the Monster having to be in Attack position.
 
-**[Machdragon](/authors/Machdragon/)** says:
+**{#Machdragon}** says:
 > I can see this being played in {The Unhappy Girl} farm decks. Generic once per turn battle protection is also quite good. It provides a nice boost to possible Amazoness decks.
 
-**MiguelJoker** says:
+**{#MiguelJoker}** says:
 > Really good card in some decks, for example, {Hieratic Dragon of Nuit} which Special Summons a Normal Dragon when targeted by a  Spell, Trap or card effect. It also works well with {Cocoon of Ultra Evolution}.
 
 ---

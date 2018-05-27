@@ -103,7 +103,7 @@ The [Top Player Council](/top-player-council/) have also reviewed the new cards 
 
 ---
 
-#### [AndyTsang](/top-player-council/andytsang/) says:
+#### {#AndyTsang} says:
 
 ##### Will be Used in a Top-Tier Deck
 

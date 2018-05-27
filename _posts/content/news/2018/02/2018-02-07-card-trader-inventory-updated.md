@@ -16,7 +16,7 @@ permalink: /news/february-2018/card-trader-inventory-updated/
 ![banner](/img/content/global/card-trader-banner.png)
 
 ## 23rd February Update 
-#### By Yami Hammy 
+#### By {#Yami Hammy} 
 
 ![screenshot](/img/content/news/2018/02/card-trader-update/screenshot-feb-23.jpg)
 
@@ -26,7 +26,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Opinions
 
-**[Kayoh](/authors/kayoh/) says:** 
+**{#Kayoh}says:** 
 
 > {Archfiend Giant} could come in as a handy side deck card for Archfiends vs Water decks.
 
@@ -50,7 +50,7 @@ These new cards have potential in existing decks, but there's nothing game chang
 
 ## 7th February Update
 
-#### By Freeska
+#### By {#Freeska}
 
 ![screenshot](/img/content/news/2018/02/card-trader-update/screenshot-feb-07.jpg)
 
@@ -60,7 +60,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Opinions
 
-**[Whybona](/authors/whybona/) says:** 
+**{#Whybona} says:** 
 
 > There is some potential there to quickly 'out-resource' your opponent but the issue is where your offensive pressure is going to come from. There's {Aromage Bergamot}, but that's not too impressive when it only has 1800 defense as well as being in a meta where {Wall of Disruption} is really popular. This also means the deck would need ways of dealing with backrow. 
 Basically the engine is there to gain resources fast but there's still some key parts the deck is lacking.

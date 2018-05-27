@@ -66,7 +66,7 @@ I believe this deck is very versatile and in this guide  I’ll explain and prov
 ### Decklists  
 
 #### {Restart}  
-Decklist by MiguelJoker  
+Decklist by {#MiguelJoker}  
 Notable placings:  
 - 1st place Shrimp King’s Tournament   
 - 1st Place KC Cup Global 2018    
@@ -81,7 +81,7 @@ Restart is probably the best skill to use as it gives you a second opportunity t
 ---
 
 #### {Straight to the Grave}  
-Decklist by MiguelJoker (Slightly Changed)  
+Decklist by {#MiguelJoker} (Slightly Changed)  
 Notable placing:  
 -   1st Place MCS Brazil  
 
@@ -92,7 +92,7 @@ Straight to the Grave (STTG) starts the duel with the Field Spell {Wasteland} ac
 ---
 
 #### {Straight to the Grave} (30 Cards)  
-Decklist by Kaki (Slightly changed)  
+Decklist by {#Kaki} (Slightly changed)  
 Notable placings:  
 -   1st Place [Meta Weekly 6](/tournaments/meta-weekly/6/report/)    
 -   2nd Place [Meta Weekly 7](/tournaments/meta-weekly/7/report/)    
@@ -102,7 +102,7 @@ Notable placings:
 
 The release of {That Grass Looks Greener} (Grass) has allowed a new variation of Magnet to flourish - 30 card Magnet mill decks. This style of deck can be played with a variety of skills like: {Duel, standby!}, Restart, {Balance}, or Straight to the Grave.  
 
-But to quote Kaki on his decision of STTG over Restart: 'I played Restart at first but then you lose so hard to {Gladiator Beast Laquari} so you need the attack and that way you can win without Grass.' With {Triamid Pulse}, we are able to utilise the milled Rock monsters and banish them to destroy face-up monsters on the field as well as special summon Rock monsters from our graveyard. With the endless combos and synergy of this deck, it has won a Meta Weekly tournament and who knows what's in store in future.  
+But to quote {#Kaki} on his decision of STTG over Restart: 'I played Restart at first but then you lose so hard to {Gladiator Beast Laquari} so you need the attack and that way you can win without Grass.' With {Triamid Pulse}, we are able to utilise the milled Rock monsters and banish them to destroy face-up monsters on the field as well as special summon Rock monsters from our graveyard. With the endless combos and synergy of this deck, it has won a Meta Weekly tournament and who knows what's in store in future.  
 
 **For more examples of the various Magnet Decks check out the [tier list](/tier-list/).**  
 
@@ -480,12 +480,12 @@ The special summon capability of Valkyrion after an AMA activation and the abili
 
 I truly believe Gaia/Magnets deserves its place on the tier list. With its capability to OTK and severely cripple the field with plays using AMA/Storm, it’s very difficult to play around. This deck has no issues keeping up with the top tier decks. It can also be argued that it can handle some top tier decks better than its twin deck, REZ.  
 
-“Magnets are a worse Red-Eyes Zombie deck” says Dkayed. Well in reality, they both do each thing differently. While REZ has more ways to search and send cards to the graveyard, Magnets can thin their deck out just as quick, if not, quicker and therefore allowing them to draw into their big plays as well. I believe Magnets has more answers to the top tier decks in this current meta than REZ does. While REZ usually sits and waits for for their big Storm play, Magnets with the combination of Gaia and Valk can run through big monsters.  
+“Magnets are a worse Red-Eyes Zombie deck” says {#Dkayed}. Well in reality, they both do each thing differently. While REZ has more ways to search and send cards to the graveyard, Magnets can thin their deck out just as quick, if not, quicker and therefore allowing them to draw into their big plays as well. I believe Magnets has more answers to the top tier decks in this current meta than REZ does. While REZ usually sits and waits for for their big Storm play, Magnets with the combination of Gaia and Valk can run through big monsters.  
 
 Furthermore, Magnets are on the rise (pun intended). As they are increasing in popularity, more and more players are reaching King of Games with different variations. In the tournament setting, many have been placing very well and a some have even won. As more rock/magnet support cards are being released, it may be only a matter of time before it becomes a higher tier deck.  
 
 ### Credit / Thanks  
 
-I wanted to thank Negative1 for letting me use his perfect CA guide as a template to organize this guide.  
-I also want to thank MiguelJoker and Spida020 for their advice and recommendations when constructing this guide.  
-Lastly, I want to thank Dkayed, Gia, Moderators and all the contributors for helping in the organization and maintenance of the Duel Links Meta Discord. Without you all, we wouldn’t have this amazing community.  
+I wanted to thank {#Negative1} for letting me use his perfect CA guide as a template to organize this guide.  
+I also want to thank {#MiguelJoker} and Spida020 for their advice and recommendations when constructing this guide.  
+Lastly, I want to thank {#Dkayed}, {#GiaJoestar}, Moderators and all the contributors for helping in the organization and maintenance of the Duel Links Meta Discord. Without you all, we wouldn’t have this amazing community.  

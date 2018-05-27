@@ -39,7 +39,7 @@ The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitc
 Total prize pool: $287 ($100 sponsor by Fetroch)
 
 #### First Place
-Kaki - $129  
+{#Kaki} - $129  
 
 *Main deck*
 
