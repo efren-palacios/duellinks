@@ -92,6 +92,11 @@ module Jekyll
                 elsif(tag.start_with?('slider'))
                     sliderHtml = createImageSlider(tagData)
                     content.sub!('[' + tag + '](' + tagData + ')', sliderHtml)
+                elsif(tag.start_with?('backToTop'))
+                    if(tagData=="on")
+                        backToTopHtml = createBackToTopButton()
+                        content.sub!('[' + tag + '](' + tagData + ')', backToTopHtml)
+                    end
                 end
             end
 
@@ -180,16 +185,12 @@ module Jekyll
 galleryHtml = '
 <div id="imageGallery' + galleryCount.to_s + '" class="carousel slide ' + carouselSize + '" data-ride="carousel">
     <ol class="carousel-indicators">
-        <li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="0" class="active">
-            <img src="' + imageLinks[0].strip + '" class="carousel-miniature" />
-        </li>
+        <li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="0" class="active"></li>
         '
 
 
 for k in 1...imageLinks.length
-    galleryHtml += '<li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '">
-            <img src="' + imageLinks[k].strip + '" class="carousel-miniature" />
-        </li>
+    galleryHtml += '<li data-target="imageGallery' + galleryCount.to_s + '" data-slide-to="' + k.to_s + '"></li>
 	';
 end
 
@@ -197,11 +198,11 @@ end
 galleryHtml += '
     </ol>
 	<div class="carousel-inner">
-		<div class="carousel-item ' + carosuelItemHeight + ' active"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" alt=""></div>
+		<div class="carousel-item ' + carosuelItemHeight + ' active"><img class="noDrag d-block ' + carouselImageHeight + '" src="' + imageLinks[0].strip + '" draggable="false" alt=""></div>
         '
 
 for k in 1...imageLinks.length
-	galleryHtml += '    <div class="carousel-item ' + carosuelItemHeight + '"><img class="d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" alt=""></div>
+	galleryHtml += '    <div class="carousel-item ' + carosuelItemHeight + '"><img class="noDrag d-block ' + carouselImageHeight + '" src="' + imageLinks[k].strip + '" draggable="false" alt=""></div>
 	';
 end
 
@@ -263,7 +264,15 @@ galleryHtml += '</div>
 
             return deckContainer
         end
+        def createBackToTopButton()
+            backTopHtml='<div class="scroll-top-wrapper ">
+                <span class="scroll-top-inner">
+                    <i class="fa fa-2x fa-arrow-circle-up"></i>
+                </span>
+            </div>'
 
+            return backTopHtml
+        end
         # CREATES THE HTML FOR THE IMAGE SLIDER EXTENSION
         def createImageSlider(tagData)
             sliderHtml = '<div class="image-slider scrollbar no-select">

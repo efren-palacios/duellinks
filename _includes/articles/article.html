@@ -36,8 +36,7 @@
             <p class="title">{{article.title}}</p>
             <p class="sub-text">
               {% unless options contains '4' %}
-                <span>Last updated:</span>
-                <span>{{formattedDate}}</span>
+                <span>Last updated: {{formattedDate}}</span>
               {% endunless %}
               {% unless options contains '5' %}
                 <span>by</span>

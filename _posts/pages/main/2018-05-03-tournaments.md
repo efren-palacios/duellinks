@@ -84,12 +84,12 @@ The Meta Championship Series is Duel Link's largest and most competitive tournam
 | Justin Taylor | $2110.00 |
 | xNight Raiderx | $1224.00 |
 | Kempington | $1000.00 |
-| Jonesy9027 | $512.00 |
+| {#Jonesy9027} | $512.00 |
 | Nerdchic | $451.57 |
 | ♠AP♠Valtheras | $340.00 |
 | Chrisavz | $335.00 |
 | JackpotBayBay | $305.00 |
-| SirDillweed | $300.00 |
+| {#SirDillweed} | $300.00 |
 | ShadyPenguinn | $250.00 |
 | MAGPIE | $200.00 |
 | Moonangle | $190.00 |
@@ -98,7 +98,7 @@ The Meta Championship Series is Duel Link's largest and most competitive tournam
 | Virus | $120.00 |
 | Fetroch | $118.00 |
 | Akatsured | $110.00 |
-| Whilipino | $105.00 |
+| {#Whilipino} | $105.00 |
 | oh_heybobby | $105.00 |
 | Dudley | $100.00 |
 | WoooLaddd | $100.00 |
@@ -113,7 +113,7 @@ The Meta Championship Series is Duel Link's largest and most competitive tournam
 | Cryaotic | $100.00 |
 | KanminaSan | $100.00 |
 | Ricky | $100.00 |
-| Kazin_X | $100.00 |
+| {#Kazin_X} | $100.00 |
 | Jaadgo | $100.00 |
 | Jater | $100.00 |
 | FrozenKingK0 | $100.00 |
@@ -191,8 +191,8 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 
 | Rank | Participant Name | Points |
 |--|--|--|
-|1|Jason| 50 points|
-|2| SirDillweed| 30 points|
+|1| {#Jason} | 50 points|
+|2| {#SirDillweed} | 30 points|
 |3|ShinySopheon|28 points|
 |4|Grucius| 22 points|
 |5-7|Gambler| 20 points|
@@ -200,14 +200,14 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |5-7|Look at god| 20 points|
 |8-10|Niceguy88| 18 points|
 |8-10|SILENT POWER| 18 points|
-|8-10|SkillShot| 18 points|
+|8-10| {#SkillShot} | 18 points|
 |11|MrCellophane| 16 points|
 |12|Masarike|15 points|
 |13-16|Taichi| 14 points|
 |13-16|SDotAkuma| 14 points|
 |13-16|PAchou| 14 points|
 |13-16|M.Rida92| 14 points|
-|17-19|Super Vegito| 12 points|
+|17-19| {#Super Vegito} | 12 points|
 |17-19|Billy Brake| 12 points|
 |17-19|Sterben| 12 points|
 |20-40|Tekumse| 10 points|
@@ -224,23 +224,23 @@ Points are awarded for MCS, Meta Weekly, and KC Cup performance. The top 16 play
 |20-40|Guizyduck| 10 points|
 |20-40|Hextor| 10 points|
 |20-40|Koizumi| 10 points|
-|20-40|MiguelJoker| 10 points|
+|20-40| {#MiguelJoker} | 10 points|
 |20-40|Peledones| 10 points|
 |20-40|Suhnrysanti| 10 points|
-|20-40|Whilipino| 10 points|
+|20-40| {#Whilipino} | 10 points|
 |20-40|Yehhey| 10 points|
 |20-40|3K Two Oh| 10 points|
 |20-40| FOREVER| 10 points|
 |41-54|Vladis| 8 points|
-|41-54|Kwrowe| 8 points|
+|41-54| {#Kwrowe} | 8 points|
 |41-54|Vyzual| 8 points|
-|41-54|Brenduke| 8 points|
+|41-54| {#Brenduke} | 8 points|
 |41-54|Jsanchghost| 8 points|
 |41-54|Eugen Heidt| 8 points|
 |41-54|Regtrainer1| 8 points|
 |41-54|Simon| 8 points|
 |41-54|OPnerfME| 8 points|
-|41-54|Insano| 8 points|
+|41-54| {#Cpt. Insano} | 8 points|
 |41-54|WALEEDSY| 8 points|
 |41-54|WayneKenoff| 8 points|
 |41-54|Shu| 8 points|

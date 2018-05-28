@@ -393,11 +393,11 @@ We both strongly suggest investing in this deck.
 
 Another great aspect of running a REZ deck is that it is not a very hard deck to pilot and once you build your deck, you will not have to buy through all the new boxes if you do not want to, you just fish through them for tech cards to Side or to use one of in your REZ build to adapt it to any new powerful decks that make their way into the meta. 
 
-I will not be adding REZ deck pictures in this guide because I encourage you to visit myself and the other REZ experts (DrBluePepper and Kaito) in #rez-tips. We post many different successful REZ builds in that channel.
+I will not be adding REZ deck pictures in this guide because I encourage you to visit myself and the other REZ experts (DrBluePepper and {#Kaito}) in #rez-tips. We post many different successful REZ builds in that channel.
 
 We also have a wonderful REZ enthusiast community full of helpful players in the #red-eyes-zombies and #rez-learning channels in the Duel Links Meta Discord. Feel free to come there and ask me and questions you would like, I am a major REZ nerd and love to talk about the deck.
 
--Insano signing out
+-{#Cpt. Insano} signing out
 
 ---
 
@@ -407,7 +407,7 @@ I would like to personally thank DrBluePepper for his contribution to this guide
 
 I would like to thank Masarike for all of his council and fantastic experience he shares with me every day regarding REZD decks. He is a true friend and a legend in our community.
 
-I would like to thank Whybona and JayDizzle for always helping me test deck builds no matter how many times I ask them, they are also great friends.
+I would like to thank {#Whybona} and JayDizzle for always helping me test deck builds no matter how many times I ask them, they are also great friends.
 
 I would like to thank Vincenity for being my oldest friend in the DL community, not only did he bring me here but myself and Vince spent countless hours testing and helping each other get better.
 

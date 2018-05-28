@@ -52,7 +52,7 @@ permalink: /tournaments/mlm-colosseum/1/report/
 
 ---
 
-#### 3rd Place - [Whybona](/top-player-council/whybona/): $37.50
+#### 3rd Place - {#Whybona}: $37.50
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Tribute to the Doomed; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Enemy Controller; Polymerization)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)

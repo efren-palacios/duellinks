@@ -23,7 +23,7 @@ The [Top Player Council](/top-player-council/) have also reviewed the new cards 
 
 ### Top Player Council Thoughts
 
-#### [Superforms](/top-player-council/superforms/) says:
+#### {#Superforms} says:
 
 ##### Trash
 > * {Tackle Crusader}
@@ -79,7 +79,7 @@ The [Top Player Council](/top-player-council/) have also reviewed the new cards 
  
 ---
 
-#### [Jason](/top-player-council/jason/) says:
+#### {#Jason} says:
 
 ##### Will be Used in a Top-Tier Deck
 
@@ -103,7 +103,7 @@ The [Top Player Council](/top-player-council/) have also reviewed the new cards 
 
 ---
 
-#### [AndyTsang](/top-player-council/andytsang/) says:
+#### {#AndyTsang} says:
 
 ##### Will be Used in a Top-Tier Deck
 
@@ -129,7 +129,7 @@ The [Top Player Council](/top-player-council/) have also reviewed the new cards 
 
 ---
 
-#### [SelectMaple](/top-player-council/selectmaple/) says:
+#### {#SelectMaple} says:
 
 ##### Will be Used in a Top-Tier Deck
 

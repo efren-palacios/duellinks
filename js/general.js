@@ -148,3 +148,27 @@ function searchunhover(element) {
   element.setAttribute("src", "/img/assets/search_icon.png");
 }
 
+//back to Top button
+$("#pageContent").on("scroll", function() {
+  scrollFunction();
+});
+
+function scrollFunction() {
+  if (
+    $("#pageContent").scrollTop() > 20 ||
+    $("#pageContent").scrollTop() > 20
+  ) {
+    $(".scroll-top-wrapper").addClass("show");
+  } else {
+    $(".scroll-top-wrapper").removeClass("show");
+  }
+}
+$(".scroll-top-wrapper").on("click", function(e) {
+  e.preventDefault();
+  $("#pageContent").animate(
+    {
+      scrollTop: 0
+    },
+    700
+  );
+});

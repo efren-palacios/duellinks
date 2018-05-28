@@ -43,7 +43,7 @@ hide: true
 
 ### Farm Decks
 
-#### Level 40 Ra Farm - created by Jadehex 
+#### Level 40 Ra Farm - created by {#Jadehex} 
 (7300 Base [Duel Assessment](/farming/duel-assessment-score/))
 Last updated: 12/15/2017
 

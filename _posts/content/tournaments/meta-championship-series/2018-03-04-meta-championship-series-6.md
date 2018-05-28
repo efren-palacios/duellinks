@@ -53,13 +53,13 @@ permalink: /tournaments/meta-championship-series/6/report/
 |:--:|:--:|
 | JackpotBayBay | 305 |
 | ♠AP♠Valtheras | 300 |
-| SirDillweed | 200 |
+| {#SirDillweed} | 200 |
 | Moonangle | 190 |
-| Jonesy9027 | 161 |
+| {#Jonesy9027} | 161 |
 | Icedtea | 145 |
 | Chrisavz | 135 |
 | Akatsured | 110 |
-| Whilipino | 105 |
+| {#Whilipino} | 105 |
 | Giancarlos | 100 |
 | Keebz | 100 |
 | Mahmoudtaha91 | 100 | 
@@ -70,7 +70,7 @@ permalink: /tournaments/meta-championship-series/6/report/
 
 ### Top 16 Decklists (Main + Side Deck) - Prize Support: $4,400
 
-#### 1st Place - Glading: $1,820
+#### 1st Place - {#Glading}: $1,820
 [deck:Balance](Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Grey;Alien Grey;Anti-Magic Arrows;Enemy Controller;Enemy Controller;Enemy Controller;"A" Cell Recombination Device;"A" Cell Recombination Device;"A" Cell Recombination Device;Powerful Rebirth;Powerful Rebirth;Wall of Disruption;Brainwashing Beam;Brainwashing Beam;Brainwashing Beam)
 ***Side deck:***
 [deck](Cosmic Cyclone;Forbidden Chalice;Super Rush Headlong;Super Rush Headlong;Straight Flush)
@@ -105,7 +105,7 @@ permalink: /tournaments/meta-championship-series/6/report/
 
 ---
 
-#### 5th-8th Place - BuiltToTilt: $172
+#### 5th-8th Place - {#BuiltToTilt}: $172
 [deck:Mythic Depths](Abyss Soldier;Abyss Soldier;Abyss Soldier;Citadel Whale;Citadel Whale;Citadel Whale;Warrior of Atlantis;Hammer Shark;Hammer Shark;Hammer Shark;Beautunaful Princess;Fishborg Planter;Fishborg Planter;Fishborg Planter;A Legendary Ocean;Enemy Controller;Enemy Controller;Enemy Controller;Sea Stealth Attack;Sea Stealth Attack;Gladiator Beast Heraklinos;Gladiator Beast Nerokius;Gladiator Beast Essedarii;Gladiator Beast Essedarii;Gladiator Beast Essedarii)
 ***Side deck:***
 [deck](Sphere Kuriboh;Cosmic Cyclone;Cosmic Cyclone;Sea Stealth Attack;Curse of Anubis)

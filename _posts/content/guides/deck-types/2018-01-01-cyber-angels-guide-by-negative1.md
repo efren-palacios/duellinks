@@ -61,7 +61,7 @@ Cyber Angels is a deck that has undergone many changes since its admission to Du
 
 #### How Have the Nerfs Affected CA?
 
-The nerfs to {Cyber Angel Dakini}, {Machine Angel Ritual}, and {Balance} are serious concerns, however I understand the necessity to do so. What was once a tier 0 deck is not tier 0 anymore, but CA without a doubt is a strong deck. The reason CA performed so poorly prior to Meta Championship Series (MCS) 5 can be attributed to {Enemy Controller} and {Floodgate Trap Hole} remaining in the meta. However, as CA representation diminished, these cards were swapped out for more effective options against Red-Eyes Zombies, Hazy Flame and Gladiator Beasts decks. Much like how Dkayed placed first the November KC Cup with Ninjas, CA won the MCS through a mixture of surprise factor and taking advantage of the meta.
+The nerfs to {Cyber Angel Dakini}, {Machine Angel Ritual}, and {Balance} are serious concerns, however I understand the necessity to do so. What was once a tier 0 deck is not tier 0 anymore, but CA without a doubt is a strong deck. The reason CA performed so poorly prior to Meta Championship Series (MCS) 5 can be attributed to {Enemy Controller} and {Floodgate Trap Hole} remaining in the meta. However, as CA representation diminished, these cards were swapped out for more effective options against Red-Eyes Zombies, Hazy Flame and Gladiator Beasts decks. Much like how {#Dkayed} placed first the November KC Cup with Ninjas, CA won the MCS through a mixture of surprise factor and taking advantage of the meta.
 
 ---
 
@@ -126,9 +126,9 @@ Xing: {Xing Zhen Hu}
 
 [deck](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Dakini; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Senju of the Thousand Hands; Senju of the Thousand Hands; Cyber Petit Angel; Cyber Petit Angel; Machine Angel Absolute Ritual; Hymn of Light; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing)
 
-Decklist by: Whilipino  
+Decklist by: {#Whilipino}  
 Notable placings:  
-1st MCS 5 by Whilipino  
+1st MCS 5 by {#Whilipino}  
 3rd MCS 5 by Taichi0715  
 
 #### Restart
@@ -145,7 +145,7 @@ Notable placings:
 
 #### The Core Cards
 ##### Cards Necessary in Every Competitive Cyber Angels Deck
-Will ask Creative how to do this.
+
 
 ---
 
@@ -386,12 +386,12 @@ Turn 2 is favorable over turn 1, but going first or second does not guarantee vi
 
 #### CA vs Ninjas 60-40
 
-Ninjas have seen a resurgence after KC Cup. This shift can be attributed to Dkayed’s success in KC Cup, finishing first with the deck. However, do not be fooled into thinking Ninjas can dethrone CA as the best deck. Ninjas lack the consistency that CA provides, and I believe one of the key factors in Dkayed’s success in KC Cup was matchup unfamiliarity, as most players didn’t understand how to beat Ninjas, or at even how to beat Ninjas of such a high caliber. This is not to detract from his accomplishment as I personally can’t say that I got 1st place global, but remember that Ninjas haven’t magically become the best deck because the best player used them, and that beating Ninjas is about planning out your win and not playing mindlessly.
+Ninjas have seen a resurgence after KC Cup. This shift can be attributed to {#Dkayed}’s success in KC Cup, finishing first with the deck. However, do not be fooled into thinking Ninjas can dethrone CA as the best deck. Ninjas lack the consistency that CA provides, and I believe one of the key factors in {#Dkayed}’s success in KC Cup was matchup unfamiliarity, as most players didn’t understand how to beat Ninjas, or at even how to beat Ninjas of such a high caliber. This is not to detract from his accomplishment as I personally can’t say that I got 1st place global, but remember that Ninjas haven’t magically become the best deck because the best player used them, and that beating Ninjas is about planning out your win and not playing mindlessly.
 
 ##### **How to Play the Matchup:**
 This matchup is very coinflip dependent. Going first against Ninjas can sometimes be like going first against CA, where you have to set up a good defense and hope they can’t OTK you.
 
-+ **Regarding Boosted Dakini Turn 1:** Some people have tried summoning a boosted Dakini turn 1 as a means to combat BDN OTK’s, but this a hard gamble. If we use Dkayed’s ninja list as a standard, then the chance that Ninjas have BDN with at least 1 banish going second is 54.53%, not taking into account instances where they start with {Black Dragon Ninja}, {Armor Ninjitsu Art of Alchemy}, {Ninjitsu Art Notebook}, and another Ninjitsu Art and can potentially use Alchemy to draw another ninja (which would add roughly another 4%).
++ **Regarding Boosted Dakini Turn 1:** Some people have tried summoning a boosted Dakini turn 1 as a means to combat BDN OTK’s, but this a hard gamble. If we use {#Dkayed}’s ninja list as a standard, then the chance that Ninjas have BDN with at least 1 banish going second is 54.53%, not taking into account instances where they start with {Black Dragon Ninja}, {Armor Ninjitsu Art of Alchemy}, {Ninjitsu Art Notebook}, and another Ninjitsu Art and can potentially use Alchemy to draw another ninja (which would add roughly another 4%).
 + **Going First:** Going first is similar to going first against CA; set up a defense of two monsters to prevent OTK’s. If they open perfect, then they can still OTK through two lines of defense, but understand that this is a rare occurrence, and happens less often as you getting double Dakini.
 + **Going Second:** Ideally, you want to OTK them, or at least extinguish all of their resources so that they won’t be able to summon another BDN. Do this by summoning double Dakini, boosted Dakini, or even double boosted Dakini.
 
@@ -498,9 +498,9 @@ Of all the matchups against the current top 6 decks, CA does the best against AG
 
 When newer and less familiar players enter the CA channel on the discord, many of them ask similar if not the same questions. This section may see additions in the future.
 
->**“Is CA still the best deck? Dkayed won KC Cup with Ninjas”**
+>**“Is CA still the best deck? {#Dkayed} won KC Cup with Ninjas”**
 
-CA is still the best deck, but by a very small margin. Ninjas have a good matchup against most decks, but they lose to CA. Dkayed did win KC Cup with Ninjas and made mention that he consciously decided to play Ninjas over CA, but Ninjas are not better than CA. Ninjas were a better pick in KC Cup because it was an uncommon deck that was not fully optimized and could rack up quick wins. 
+CA is still the best deck, but by a very small margin. Ninjas have a good matchup against most decks, but they lose to CA. {#Dkayed} did win KC Cup with Ninjas and made mention that he consciously decided to play Ninjas over CA, but Ninjas are not better than CA. Ninjas were a better pick in KC Cup because it was an uncommon deck that was not fully optimized and could rack up quick wins. 
 
 ---
 
@@ -549,7 +549,7 @@ Replays coming soon! Old replays were prenerf, so I have deleted them to make ro
 
 ### Special Thanks
 
-Dkayed: For fostering a productive, competitive community with Duel Links Meta; also for dealing with all the memes.
+{#Dkayed}: For fostering a productive, competitive community with Duel Links Meta; also for dealing with all the memes.
 
 Vincenity: For repping CA in DLPT’s / Team Wars and giving me competition while trying for deck expert. The understanding that I wasn’t the only person interested in the position helped me work on my guide, even if we both got it in the end. Congrats!
 
@@ -559,7 +559,7 @@ Snowstar: For his insight on Curse of Anubis and Duel, standby!, but also for he
 
 CrimsonLTCR: For helping theorycraft and test techs, alternate skills, and how best to use them.
 
-Pll: For gathering data and helping us all understand how the new Balance works.
+{#pll}: For gathering data and helping us all understand how the new Balance works.
 
 Remarkable_Jam: For looking over my guide and giving me some good ideas on how to improve it.
 

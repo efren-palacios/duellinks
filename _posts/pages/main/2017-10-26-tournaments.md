@@ -174,20 +174,20 @@ Updated 5/19/18
 | Rank | Participant Name | Points |
 |--|--|--|
 |1|Billy Brake| 65 points|
-|2|Jason| 50 points|
+|2| {#Jason} | 50 points|
 |3|Eugen Heidt| 43 points|
 |4|Stevie| 40 points|
 |5|Grucius| 37 points|
 |6|Yehhey| 35 points|
 |7|Masarike|31 points|
-|8-10| SirDillweed| 30 points|
-|8-10|Kwrowe| 30 points|
+|8-10| {#SirDillweed} | 30 points|
+|8-10| {#Kwrowe} | 30 points|
 |8-10|ShinySopheon|30 points|
 |11-12|Sterben| 26 points|
-|11-12|SkillShot| 26 points|
+|11-12| {#SkillShot} | 26 points|
 |13-15|LoreRomaCCG| 24 points|
 |13-15|MrCellophane| 24 points|
-|13-15|Glading| 24 points|
+|13-15| {#Glading} | 24 points|
 |16|SILENT POWER| 23 points|
 |17|Look at god| 21 points|
 |18-20|Gambler| 20 points|
@@ -204,11 +204,11 @@ Updated 5/19/18
 |26-31|Suguru| 14 points|
 |26-31|M.Rida92| 14 points|
 |26-31|BrendenBB| 14 points|
-|32|Whilipino| 13 points|
-|33-38|Super Vegito| 12 points|
+|32| {#Whilipino} | 13 points|
+|33-38| {#Super Vegito} | 12 points|
 |33-38|Luke Tyler| 12 points|
 |33-38|Neg do Zap| 12 points|
-|33-38|Insano| 12 points|
+|33-38| {#Cpt. Insano} | 12 points|
 |33-38|HoCJackieB| 12 points|
 |33-38|Serenity| 12 points|
 |39-63|Tekumse| 10 points|
@@ -223,24 +223,24 @@ Updated 5/19/18
 |39-63|Greedosama| 10 points|
 |39-63|Guizyduck| 10 points|
 |39-63|Hextor| 10 points|
-|39-63|Negative1| 10 points|
+|39-63| {#Negative1} | 10 points|
 |39-63|Koizumi| 10 points|
-|39-63|MiguelJoker| 10 points|
+|39-63| {#MiguelJoker} | 10 points|
 |39-63|ShootMyMantlet| 10 points|
 |39-63|Peledones| 10 points|
 |39-63|Suhnrysanti| 10 points|
-|39-63|Machdragon| 10 points|
-|39-63|Kayoh| 10 points|
+|39-63| {#Machdragon} | 10 points|
+|39-63| {#Kayoh} | 10 points|
 |39-63|3K Two Oh| 10 points|
 |39-63| FOREVER| 10 points|
 |39-63|Vladis| 10 points|
 |39-63|WayneKenoff| 10 points|
-|39-63|Deadfun | 10 points|
+|39-63| {#Deadfun} | 10 points|
 |64-66 |Just Desserts | 9 points|
 |64-66|qbob2| 9 point|
 |64-66|Yasser | 9 points|
 |67-84|Vyzual| 8 points|
-|67-84|Brenduke| 8 points|
+|67-84| {#Brenduke} | 8 points|
 |67-84|DragonOTWest| 8 points|
 |67-84|Regtrainer1| 8 points|
 |67-84|Simon| 8 points|
@@ -251,19 +251,19 @@ Updated 5/19/18
 |67-84|SauceGod| 8 points|
 |67-84|WALEEDSY| 8 points|
 |67-84|Shu| 8 points|
-|67-84|Xanxus| 8 points|
+|67-84| {#Xanxus} | 8 points|
 |67-84|Alysium| 8 points|
 |67-84|Xyldaz| 8 points|
 |67-84|Sock90| 8 points|
 |67-84|HidekiBro| 8 points|
-|67-84|Whybona| 8 points|
+|67-84| {#Whybona} | 8 points|
 |85-86|Black Jesus | 7 points|
 |85-86|FettyGuap | 7 points|
 |87-97| DeadlyScarce | 5 points|
 |87-97|Limitless95|5 points|
 |87-97|Son_Luke | 5 points|
 |87-97|CrossX| 5 points|
-|87-97 |Kaki | 5 points|
+|87-97 | {#Kaki} | 5 points|
 |87-97|lawofdeath| 5 points|
 |87-97|Sasuke| 5 points|
 |87-97|BlessRNG Shadowz| 4 points|

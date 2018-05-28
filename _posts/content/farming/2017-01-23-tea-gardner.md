@@ -78,7 +78,7 @@ hide: true
 * You can Swap 1 Union Attack for 1 Spell Reclamation
 * For non Union Attack version, use piranha + martyr + riryoku instead of Vassal and UAs
 
-***Level 30/40 Generic Cerberus Farm - created by Jadehex***
+***Level 30/40 Generic Cerberus Farm - created by {#Jadehex}***
 
 [deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)
 

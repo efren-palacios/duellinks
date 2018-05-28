@@ -29,7 +29,7 @@ Archfiends focus around using large boss monsters that can be special summoned v
 
 ### Sample Deck
 
-**Needlebug Nest Build by Whybona**
+**Needlebug Nest Build by {#Whybona}**
 
 [deck:Restart](Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Archfiend Emperor, the First Lord of Horror;Lyla, Lightsworn Sorceress;Lyla, Lightsworn Sorceress;Archfiend Empress;Archfiend Empress;Archfiend Cavalry;Archfiend Cavalry;Archfiend Cavalry;Call of the Archfiend;Call of the Archfiend;Call of the Archfiend;Archfiend's Roar;Archfiend's Roar;Archfiend's Roar;Fiend Griefing;Fiend Griefing;Needlebug Nest;Needlebug Nest)
 

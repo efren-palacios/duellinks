@@ -57,7 +57,7 @@ permalink: /tournaments/duel-links-open/6/report/
 
 ### Top 4 Decklists (Main + Side Deck) - Prize Support: $20
 
-#### 1st Place - Kwrowe  
+#### 1st Place - {#Kwrowe}  
 
 [deck:Restart](Alien Overlord;Alien Overlord; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid;Forbidden Chalice;Super Rush Headlong;Super Rush Headlong; Enemy Controller; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth)
 
@@ -66,7 +66,7 @@ permalink: /tournaments/duel-links-open/6/report/
 
 ---
 
-#### 2nd Place - Whybona  
+#### 2nd Place - {#Whybona}  
 
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer;Tribute to the Doomed; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Enemy Controller;Enemy Controller; Enemy Controller; Polymerization)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Destiny HERO - Dangerous; Vision HERO Trinity)

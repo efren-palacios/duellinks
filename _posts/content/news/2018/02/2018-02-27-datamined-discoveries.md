@@ -96,7 +96,7 @@ With another maintenance update comes new discoveries; **structure decks** have 
 ---
 
 ### **11th February Update**
-#### By SpoonCats & Freeska
+#### By {#SpoonCats} & {#Freeska}
   
 <br>
 
@@ -122,7 +122,7 @@ In addition, players will possibly be able to obtain 3 copies of {Ancient Gear C
 
 ### Top Player Council Thoughts
 
-**[Superforms](/top-player-council/superforms/)** says:
+**{#Superforms}** says:
 
 > {Biofalcon} is garbage. Cards that activate on battle destruction aren't even good now, and this is one step worse.
 
@@ -137,7 +137,7 @@ The return of this event has some potentially important factors in the current m
 - 3 copies of {Ancient Gear Golem} will potentially be available.
 - 3 copies of {Ancient Gear Castle} will potentially be available.
 
-#### **[Superforms](/top-player-council/superforms/)** says:
+#### **{#Superforms}** says:
 
 > A third {Ancient Gear Golem} is interesting, especially now that we get more {Ancient Gear Castle}s too. Of everything coming in this new event, I think triple {Ancient Gear Golem} builds have the most potential to be good.
 Overall I'd say Ancient Gears are still a solid Tier 3 deck.
@@ -146,7 +146,7 @@ Overall I'd say Ancient Gears are still a solid Tier 3 deck.
 
 > Ancient Gears will rise after this KC Cup, take my word for it.
 
-#### **Brenduke**, an Ancient Gear player who has reached Top 4 and Top 16 in 2 Meta Weeklies, says:
+#### **{#Brenduke}**, an Ancient Gear player who has reached Top 4 and Top 16 in 2 Meta Weeklies, says:
 
 > A third {Ancient Gear Golem} opens up potential for more aggressive builds. The build could also run {Ancient Gear Beast} with {Soul Exchange} and {Fenghuang} support if {Ancient Gear Castle} is added. A third {Ancient Gear Golem} also makes {Spell Gear} (Crowler's Level 40 reward) potentially good but most likely remains a YouTube play.
 

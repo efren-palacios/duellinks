@@ -154,7 +154,7 @@ The new Main Box: Crusaders' Battlegrounds is here! Give our [Box Review](/box-r
 <a name="204"></a>
 
 #### Sale Underway
-Thanks to [Superforms](/authors/superforms/), the prices are:
+Thanks to {#Superforms}, the prices are:
 1. $1.99
 2. $5.99
 3. $9.99
@@ -574,7 +574,7 @@ The new Mini Box: Visions of Ice is here! Give our [First Impressions](/box-revi
 
 #### Sale Underway
 
-To celebrate the release of [Visions of Ice](/box-reviews/visions-of-ice/) there's a sale and thanks to [Superforms](/top-player-council/superforms/), the prices are:
+To celebrate the release of [Visions of Ice](/box-reviews/visions-of-ice/) there's a sale and thanks to {#Superforms}, the prices are:
 1. $1.99
 2. $5.99
 3. $9.99

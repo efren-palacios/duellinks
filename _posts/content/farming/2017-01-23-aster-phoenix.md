@@ -43,7 +43,7 @@ hide: true
 
 ### Farm Decks
 
-#### Level 40 Labyrinth Builder - created by Jadehex 
+#### Level 40 Labyrinth Builder - created by {#Jadehex} 
 (7300 Base [Duel Assessment](/farming/duel-assessment-score/))
 Last updated: 12/06/2017
 
@@ -75,7 +75,7 @@ Last updated: 12/06/2017
 
 ---
 
-#### Level 40 Ojama Farm - created by Jadehex 
+#### Level 40 Ojama Farm - created by {#Jadehex} 
 (7600 Base [Duel Assessment](/farming/duel-assessment-score/))
 Last updated: 12/06/2017
 
@@ -108,7 +108,7 @@ Last updated: 12/06/2017
 
 ---
 
-#### Speed Farm Level 10 - created by Jadehex 
+#### Speed Farm Level 10 - created by {#Jadehex} 
 (7600 Base [Duel Assessment](/farming/duel-assessment-score/))
 Last updated: 12/02/2017
 

@@ -29,12 +29,14 @@ permalink: /farming-and-events/
 {% include heading.html title='Farming' %}
 {% assign farm-all-chars = site.posts | where: "permalink", "/farming/all-characters/" | first %}
 {% assign duel-ass-score = site.posts | where: "permalink", "/farming/duel-assessment-score/" | first %}
-{% assign skills = site.posts | where: "permalink", "/farming/skills/" | first %}
+{% assign auto-duel-guid = site.posts | where: "permalink", "/farming/auto-duel-guide/" | first %}
+{% assign skills-library = site.posts | where: "permalink", "/farming/skills/" | first %}
 
 <div class="row card-collection">
-  {% include articles/article.html article=farm-all-chars options='3, 4, 5, 6' %}
-  {% include articles/article.html article=duel-ass-score options='3, 4, 5, 6' %}
-  {% include articles/article.html article=skills options='3, 4, 5, 6' %}
+  {% include articles/article.html article=farm-all-chars options='3, 4, 5' %}
+  {% include articles/article.html article=duel-ass-score options='3, 4, 5' %}
+  {% include articles/article.html article=auto-duel-guid options='3, 4, 5' %}
+  {% include articles/article.html article=skills-library options='3, 4, 5' %}
 </div>
 
 

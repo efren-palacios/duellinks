@@ -75,7 +75,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 
 {% include twoimages.html image1="https://i.imgur.com/Wt7Deou.png" image2="https://i.imgur.com/69WJwc1.png"%}
 
-### ​7th-8th Place- AndyTsang: $43
+### ​7th-8th Place- {#AndyTsang}: $43
 
 {% include twoimages.html image1="https://i.imgur.com/FusLMF6.png" image2="https://i.imgur.com/3QdQdPp.png"%}
 

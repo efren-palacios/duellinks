@@ -39,7 +39,7 @@ The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitc
 Total price pool: $242
 
 #### First Place
-SS SelectMaple - $114
+{#SelectMaple} - $114
 
 [deck:Balance](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Fire Formation - Gyokkou; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Wall of Disruption; Curse of Anubis)
 

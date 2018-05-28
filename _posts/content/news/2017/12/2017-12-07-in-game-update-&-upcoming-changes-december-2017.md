@@ -40,7 +40,7 @@ Konami finally finished aggregating the data of decks, cards, and skills used fo
 
 Looking at the above statistics, the majority of second stage KC Cup players used a cyber angel deck as their strategy of choice to compete in the tournament. {Cyber Angel Dakini} proved to be very powerful with its ability to remove monsters, inflict piercing damage, and recycle cards necessary for future ritual summons.  Mind Scan also gained immense popularity due to the heavy back-row that non cyber angel decks ran. 
 
-Another popular deck that crushed opponents on the ladder was a deck that utilized the Ninjas archetype paired with the skill Three-Star Demotion (3SD). Ninjas with 3SD often put opponents in a deadly scenario on turn 1 if they opened with {Black Dragon Ninja}, a versatile card that can be difficult to deal with without support. Duel Links Meta's very own Dkayed used Ninja's to dominate the ladder and achieve rank 1 global with this deck.
+Another popular deck that crushed opponents on the ladder was a deck that utilized the Ninjas archetype paired with the skill Three-Star Demotion (3SD). Ninjas with 3SD often put opponents in a deadly scenario on turn 1 if they opened with {Black Dragon Ninja}, a versatile card that can be difficult to deal with without support. Duel Links Meta's very own {#Dkayed} used Ninja's to dominate the ladder and achieve rank 1 global with this deck.
 
 Cyber Angels and Ninjas both earned their right to a Tier 1 spot in the current meta. However, Konami stated that they received a large amount of feedback requesting metagame balancing, and therefore I would not be surprised if cards such as {Cyber Angel Dakini} and abilities like Mind Scan and 3SD are among the items that may be reworked in the next balance update. 
 

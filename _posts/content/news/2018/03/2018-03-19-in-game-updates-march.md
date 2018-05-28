@@ -191,7 +191,7 @@ The Superb Legendary Duelist has been revealed it be in fact Téa, you can read 
 
 #### Top Player Council Thoughts
 
-###### **[Superforms](/authors/superforms/)** says: 
+###### **{#Superforms}** says: 
 
 > Since {Tethys, Goddess of Light} requires no effort to pick up, it should just be compared to {Guardian of Felgrand} and {Spiritual Earth Art - Kurogane}, the other two options. Kurogane hasn't been used in a top-tier Magnet deck for over a month and while Felgrand has potential with the [datamined Dragon Structure Deck](/news/february-2018/datamined-discoveries/#dragon-structure-deck), it probably would not be run at more than 2x since {Paladin of Felgrand} is better in most cases.
 

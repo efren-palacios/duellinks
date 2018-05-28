@@ -25,7 +25,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Thoughts
 
-**[Superforms](/top-player-council/superforms/) says:** 
+**{#Superforms} says:** 
 
 > {Super Solar Nutrient} (SR): The only relevant Plant decks right now are [Sylvans](/guides/deck-types/sylvans-guide-intro-by-superforms/) and [Aromages](/tier-list/aromages/). Both can tribute {Rose Lover} with this, but neither has a good special summon target ({Aromage Bergamot} and {Sylvan Guardioak} are both level 6, and few Sylvan decks use {Sylvan Lotuswain}). Tributing a Rose Lover to grab another Rose Lover thins the deck and gets multiple Rose Lovers into the graveyard if Super Solar Nutrient is removed. Alternative plays include tributing {Sylvan Komushroomo} for to turbo out {World Carrotweight Champion}, or tributing a {Aromage Jasmine} for a {Aromage Rosemary}. It is not likely that this card will be used in top-tier versions of either deck, although it will be most interesting to test with Sylvans.
 
@@ -55,7 +55,7 @@ The Card Trader's inventory has been updated with some new additions to his card
 
 ### Top Player Council Thoughts 
 
-**[Superforms](/top-player-council/superforms/) says:** 
+**{#Superforms} says:** 
 The only interesting one is {Swamp Mirrorer}, the other two are trash. 
 
 Potential uses:

@@ -89,4 +89,4 @@ Thanks for reading and have fun with the guide.
 
 If you have any thoughts or questions, leave a comment below!
 
-***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***
+***This guide was lovingly converted by {#Yami Hammy}***

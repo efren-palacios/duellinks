@@ -29,7 +29,7 @@ permalink: /community/
 #### A Top Player Community    
 The Duel Links Meta Discord is home to the best players of the Duel Links community.
 
-#### About Dkayed - The Owner of Duel Links Meta
+#### About {#Dkayed} - The Owner of Duel Links Meta
 * 1st Place, KC Cup, Global, November 2017
 * 1st Place, World Championship Qualifier, North America, August 2017
 * 2nd Place, KC Cup, North America, March 2017
@@ -94,10 +94,10 @@ The Duel Links Meta Discord is home to the best players of the Duel Links commun
 
 ### Exclusive Twitch Subscriber Benefits
 * Access to the Meta Weekly Tournaments
-* Duel Dkayed on stream when he does Subscriber duels
+* Duel {#Dkayed} on stream when he does Subscriber duels
 * Participate in King of the Hill and random Giveaway Tournaments
 * Tier 2/3 subscribers can skip the line on sub duels and King of the Hill
-* Exclusive subscriber channels to directly ask Dkayed/Gia anything and to hang out with other subscribers
+* Exclusive subscriber channels to directly ask {#Dkayed}/{#GiaJoestar} anything and to hang out with other subscribers
 
 ---
 

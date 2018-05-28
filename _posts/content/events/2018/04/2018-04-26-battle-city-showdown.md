@@ -117,7 +117,7 @@ You will also get rewards for clearing rounds:
 
 ### First Impressions
 
-#### [Superforms](/top-player-council/superforms/) says:
+#### {#Superforms} says:
 
 > {Skilled Blue Magician}: More support for Spell Counters and works well with {Skilled Dark Magician}. If Spellbooks are good (coming in the next Mini Box), they may be used in a {Dark Magician} or {Endymion, the Master Magician} Deck along with this card.
 

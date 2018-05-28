@@ -37,7 +37,7 @@ I am producing this Guide to help people understand how to reach King of games &
 
 I have reached the top of the ranked ladder in plenty of games (usually within my first month of play) Including Yu-Gi-Oh Duel Links, Elder Scrolls Legends & league of legends. I'm lucky enough to be able to play video games for a living so I consider myself someone who knows very well how to climb ranked ladders. Although they are not the target audience, the guide will have a lot of information to help players already in KoG improve their play.
 
-A lot of the ease of reaching KoG comes from decision making & that starts at where to spend your currency. As this is not a deck building guide I will not be going into detail about this although I will recommend what I think are the top decks for climbing the ladder. For a guide on how to spend your gems/cash check out the gem investment [guide](/guides/new-players/gem-investment-guide/) produced by Kaito.
+A lot of the ease of reaching KoG comes from decision making & that starts at where to spend your currency. As this is not a deck building guide I will not be going into detail about this although I will recommend what I think are the top decks for climbing the ladder. For a guide on how to spend your gems/cash check out the gem investment [guide](/guides/new-players/gem-investment-guide/) produced by {#Kaito}.
 
 Something that needs addressing early on is that there is a big difference in tournaments and ladder in regards to Yu-Gi-oh Duel Links. The most impactful change is the side deck, this will make/break decks in tournament play. On the ranked ladder there is no side deck or second round, this means your opponents do not get a chance to side in specific tech cards or recover from a slow hand. 
 

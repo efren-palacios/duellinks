@@ -44,7 +44,7 @@ This is the 10th Mini Box, it was released on March 14, 2018. The release of thi
 
 ### Top Player Council Thoughts
 
-#### **[Superforms](/authors/superforms/)** says: 
+#### **{#Superforms}** says: 
 
 > As a new archetype, [Sylvans](/tier-list/sylvans/) get a lot of attention in this box. The archetype seems to be similar to other recent decks like [Gladiator Beasts](/guides/deck-types/gladiator-beasts-guide-by-brenduke/) (GB), Bujins, and [Aliens](/guides/deck-types/aliens-guide-by-celestial/), with dedicated monsters for backrow destruction ({Gladiator Beast Bestiari}, {Bujingi Centipede}, {Alien Telepath}), cards to assist with monster removal ({Gladiator Beast Murmillo}, {Bujingi Boar}, {"A" Cell Recombination Device}), and core monsters with high ATK ({Gladiator Beast Laquari}, {Bujin Yamato}, {Alien Warrior}). 
 

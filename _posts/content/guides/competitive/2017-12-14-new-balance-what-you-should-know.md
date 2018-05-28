@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Balance Skill - What You Should Know
-author: pll & superforms
+author: pll; Superforms
 category: guide
 sub-category: competitive
 image: /img/content/guides/new-balance-report/thumbnail.png

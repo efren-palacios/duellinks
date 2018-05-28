@@ -149,7 +149,7 @@ Get up to 175 Gems!
 
 <a name="jadehex"></a>
 
-#### Lvl. 40 **(Marik)** Cloudian Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Cloudian Farm - created by {#Jadehex}
 
 [deck:Draw Sense: WATER](Summoner of Illusions; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Gravekeeper's Vassal; Cloudian - Turbulence; Anti-Magic Arrows; Union Attack; Union Attack; The Sanctuary in the Sky; The Sanctuary in the Sky; The Sanctuary in the Sky; Dimensionhole; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)
 [deck](Blue-Eyes Ultimate Dragon; Master of Oz)    
@@ -205,7 +205,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 
 <a name="superforms"></a>
 
-#### Lvl. 40 **(Marik)** Hazy Farm - created by Superforms
+#### Lvl. 40 **(Marik)** Hazy Farm - created by {#Superforms}
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Soul Exchange; Soul Exchange; Soul Exchange; Enemy Controller; Enemy Controller; Enemy Controller; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
 
@@ -317,7 +317,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 
 <a name="jadehex2"></a>
 
-#### Lvl. 40 **(Marik)** Labby Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Labby Farm - created by {#Jadehex}
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Planet Pathfinder; Planet Pathfinder; Planet Pathfinder; Anti-Magic Arrows; Sorcerous Spell Wall; Sorcerous Spell Wall; Union Attack; Union Attack; Shield & Sword; Abyssal Designator; Abyssal Designator; Abyssal Designator; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Jar of Greed; Jar of Greed; Jar of Greed)
 

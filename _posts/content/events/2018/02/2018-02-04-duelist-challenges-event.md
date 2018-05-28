@@ -24,7 +24,7 @@ permalink: /events/february-2018/duelist-challenges-event/
 - {Dark Hunter} is an obtainable card from the challenge #4.
 - In addition, players will be able to obtain a second copy of {Gravekeeper's Vassal} - for those of you who accidently converted it!
 
-**Jadehex - Farm Expert:** 'You'll never need 2 Gravekeeper's Vassal in any farm deck.'
+**{#Jadehex} - Farm Expert:** 'You'll never need 2 Gravekeeper's Vassal in any farm deck.'
 
 ### Challenge Solutions
 Solutions to challenges are listed here, but we encourage new players to try the challenges on their own, as learning how cards interact together is crucial to improving as a duelist!
@@ -94,6 +94,6 @@ Solutions to challenges are listed here, but we encourage new players to try the
 7. Activate {Advance Draw}
 8. **Exodia OBLITERATE!**
 
-*Credit to Yami Hammy on the Discord*
+*Credit to {#Yami Hammy} on the Discord*
   
 ---

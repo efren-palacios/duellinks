@@ -51,10 +51,10 @@ hide: true
 
 | Sponsor | Total Donations |
 |:-:|:-:|
-| Justin Taylor | $2110.00 |
+| {#Justin Joestar} | $2110.00 |
 | xNight Raiderx | $1224.00 |
 | Kempington | $1000.00 |
-| Jonesy9027 | $512.00 |
+| {#Jonesy9027} | $512.00 |
 | Nerdchic | $500.00 |
 | ♠AP♠Valtheras | $340.00 |
 | Chrisavz | $335.00 |
@@ -68,7 +68,7 @@ hide: true
 | Virus | $120.00 |
 | Fetroch | $118.00 |
 | Akatsured | $110.00 |
-| Whilipino | $105.00 |
+| {#Whilipino} | $105.00 |
 | oh_heybobby | $105.00 |
 | Dudley | $100.00 |
 | WoooLaddd | $100.00 |
@@ -83,11 +83,11 @@ hide: true
 | Cryaotic | $100.00 |
 | KanminaSan | $100.00 |
 | Ricky | $100.00 |
-| Kazin_X | $100.00 |
+| {#Kazin_X} | $100.00 |
 | Jaadgo | $100.00 |
 | Jater | $100.00 |
 | FrozenKingK0 | $100.00 |
-| Yami Hammy | $100.00 |
+| {#Yami Hammy} | $100.00 |
 
 <!--
 
