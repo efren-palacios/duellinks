@@ -16,7 +16,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ![Banner](/img/content/events/2018/03/syrus-truesdale-roaming-event/banner.png)
 
-**Last updated March 5th - Added farm decks**
+##### Updated March 5, 2018 - [Added Farm Decks](#farm-decks)
 
 [slider](/img/content/events/2018/03/syrus-truesdale-roaming-event/slider.jpg)
 

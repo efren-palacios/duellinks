@@ -32,10 +32,10 @@ styles: soon.min.css
     margin-top: 8px;">
     </div> 
 
-* [Meta Champtionship Series](#mcs): Monthly Championship
-* [Meta Weekly](#mw): Weekly Tournament
-* [Anytime Tournament](#att): 24/7 Cash Duels
-* [Giveaway Tournament](#ga): Free, Casual Tournament!
+* [Meta Champtionship Series](#mcs): monthly championship
+* [Meta Weekly](#mw): weekly tournament
+* [Anytime Tournament](#att): 24/7 cash duels
+* [Giveaway Tournament](#ga): free, casual tournament!
 
 ---
 
@@ -63,7 +63,7 @@ styles: soon.min.css
 The Meta Championship Series is Duel Links' largest and most competitive tournament held monthly for cash prizes. It's where the best players compete for the largest prize pool in Duel Links.
 
 ### How to Join 
-You must first join the [Duel Links Meta Discord](/top-players/) in order to participate in the MCS.
+You must first join the [Duel Links Meta Discord](/community/) in order to participate in the MCS.
 
 ### Total Prize Support Given Out: $20,144
 

@@ -16,8 +16,9 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 ![Banner](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/banner.png)
 
-##### Updated May 13th - [Bonus Multiplier](#update)
+##### Updated May 25, 2018 - [Added Duel Awards Winners](#awards)
 
+- **[Duel Awards](#awards)**
 - [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -31,7 +32,34 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
     - [Lvl: 30 Blue-Eyes Farm](#blue)
 - [Syrus Truesdale Lvl: 40 Decklist](#40)
 - [Syrus Truesdale Lvl: 30 Decklist](#30)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### NEW: Best Meme - **dmXD**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/dmxd.png)
+
+#### Best Drop - **soup8** 
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/soup8.jpg)
+
+#### Most Prismatic Drops 
+
+**federcg**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/federcg.jpg)
+
+**RandomPl0x**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/randompi0x.jpg)
+
+#### Highest Cumulative Points - **G.O.K**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/GOK.jpg)
 
 ---
 
@@ -220,23 +248,6 @@ You should have two {Blue-Eyes White Dragon} on the field.
 ### Syrus Truesdale Lvl: 30 Decklist
 [deck](Expressroid; Expressroid; Expressroid; Ambulanceroid; Ambulanceroid; Ambulanceroid; Rescueroid; Rescueroid; Truckroid; Truckroid; Jetroid; Jetroid; Polymerization; Polymerization; Polymerization; Fusion Recovery; Weapon Change; Inverse Universe; Inverse Universe; Supercharge)
 [deck](Ambulance Rescueroid; Ambulance Rescueroid; Ambulance Rescueroid)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below), when the event is over the person with the:
-- Best drop will have their name posted here
-- Most Prismatic cards will have their name posted here
-- Highest Cumulative Points will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 

@@ -20,7 +20,7 @@ permalink: /tournaments/meta-weekly/
 The Meta Weekly is a tournament that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap, nor is there a deadline to join - you can even join at the very last second!
 
 ### How to Join
-Subscribe to DuelLinksMeta on [Twitch](https://www.twitch.tv/duellinksmeta) or check out the [Top Player](/discord/) page for more info!
+Subscribe to DuelLinksMeta on [Twitch](https://www.twitch.tv/duellinksmeta) or check out the [Top Player](/community/) page for more info!
   
 {% assign reports = site.posts | where: "category", "tournament" | where: "tournament", "Meta Weekly" | where_exp: "item", "item.hidden != true" | sort: "number" | reverse %}
 

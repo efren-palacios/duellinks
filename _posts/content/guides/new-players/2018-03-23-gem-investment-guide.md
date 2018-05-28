@@ -332,6 +332,6 @@ Cards that might become good in the future:
 ---
 
 If you still have questions you can ask me on [twitter](https://twitter.com/Kait0o0).  
-Join the top tier community in the [Duel Links Meta Discord](/discord/).  
+Join the top tier community in the [Duel Links Meta Discord](/community/).  
 Be sure to check out [guides](/guides/) and [King of Games Decklists](/top-decks/).  
 Learn more about the [Top Player Council](/top-player-council/) members. 

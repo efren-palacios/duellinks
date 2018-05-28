@@ -113,7 +113,7 @@ Dreamer is the best defensive tool Masked Heroes has. It prevents destruction by
 * {Mask Change} [Optimal Count: 3] 
 Mask Change is the core spell of Masked Heroes and is what propels them into the top tier of the current meta. This card acts as both offense and defense providing an aggressive OTK tool and protection against targeting effects.
  
-* {Destiny Draw} [Optimal Count: 1] 
+* {!Destiny Draw} [Optimal Count: 1] 
 Destiny Draw improves draw power while putting a Destiny HERO into the graveyard. It can be used to enable Malicious or set up for Celestial.
  
 * {Polymerization} [Optimal Count 1] 
@@ -367,4 +367,5 @@ Cyber Angels is one of the few remaining decks from 2017 as it has strong combos
  
 ---
 
-If you have any thoughts or questions, leave a comment below!
+If you have any thoughts or questions, leave a comment below!  
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

@@ -34,7 +34,7 @@ permalink: /website-update/2018-05-28/
 #### Bugfixes
 
 - There was an issue with the playtester where the leftmost card would get stuck and not able to be dragged. This has been resolved.
-- A little while ago, we implemented a feature-banner which content editors could turn on and off and would link to an article of their choice. This banner was not displaying properly on safari. The display of this banner has been adjusted to work on safari.
+- A little while ago, we implemented a feature-banner which content editors could turn on and off and would link to an article of their choice. This banner was not displaying properly on Safari. The display of this banner has been adjusted to work on Safari.
 - There were issues with hoverable cards when the card name was also a skill name (i.e. Destiny Draw). This has now been fixed.
 - Pages where an image gallery was included would be very laggy to scroll. This has been fixed.
 

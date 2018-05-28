@@ -9,15 +9,16 @@ comments: true
 description: Jesse Anderson has arrived! Here's all you need to know about the event and the best ways to farm him - get those Crystal Beast cards and unlock him!  
 keywords: event, jesse, jesse anderson, farm, crystal beasts, rainbow dragon
 permalink: /events/may-2018/awaken-rainbow-dragon/
-ended: false
+ended: true 
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-##### Updated May 20, 2018 - [Lvl: 50 Update](#update)
+##### Updated May 25, 2018 - [Added Duel Awards Winners](#awards)
 
+- **[Duel Awards](#awards)**
 - [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -35,7 +36,26 @@ ended: false
     - [Lvl: 40 Hazy Flame Farm](#freeska2)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
 - [Jesse Anderson Lvl: 50 Decklist](#50)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Highest Duel Energy - **NerdChic**
+![](/img/content/events/2018/05/awaken-rainbow-dragon/nerdchic.jpg)
+
+#### Most Prismatic Drops - **Pelat**
+![](/img/content/events/2018/05/awaken-rainbow-dragon/pelat.jpg)
+
+#### Best Drop - **Moffibert** 
+![](/img/content/events/2018/05/awaken-rainbow-dragon/moffibert.jpg)
 
 ---
 
@@ -329,17 +349,4 @@ This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-s
 
 ---
 
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below), when the event is over the person with the:
-- Best drop will have their name posted here
-- Most Prismatic **new** cards will have their name posted here
-- Highest Duel Energy will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
+***If you have a unique farm deck, spot a mistake or just want to say something post it in the comments below!***

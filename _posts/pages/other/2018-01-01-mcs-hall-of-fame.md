@@ -54,8 +54,8 @@ hide: true
 | {#Justin Joestar} | $2110.00 |
 | xNight Raiderx | $1224.00 |
 | Kempington | $1000.00 |
+| Nerdchic | $1000.00 |
 | {#Jonesy9027} | $512.00 |
-| Nerdchic | $500.00 |
 | ♠AP♠Valtheras | $340.00 |
 | Chrisavz | $335.00 |
 | JackpotBayBay | $305.00 |
