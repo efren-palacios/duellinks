@@ -118,7 +118,7 @@
             { "id": "zombies-gemini",           "display": "Zombies Gemini",        "card": "Goblin Zombie" },
             { "id": "papa-corn",                "display": "Papa-Corn",             "card": "Papa-Corn" },
             { "id": "crystal-beasts",           "display": "Crystal Beasts",        "card": "Crystal Beast Sapphire Pegasus"},
-            { "id": "monarchs",                 "display": "Monarchs",              "card": "Caius the Shadow Monarch"},
+            { "id": "monarchs",                 "display": "Monarchs",              "card": "Angmarl the Fiendish Monarch"},
             { "id": "gustos",                   "display": "Gustos",                "card": "Caam, Serenity of Gusto"},
             { "id": "fableds",                  "display": "Fableds",               "card": "The Fabled Ganashia"}
         ]

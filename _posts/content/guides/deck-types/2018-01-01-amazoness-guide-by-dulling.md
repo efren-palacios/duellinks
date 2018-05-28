@@ -17,7 +17,7 @@ permalink: /guides/deck-types/amazoness-guide-by-dulling/
 {% include heading.html title=page.title author=page.author %}
 
 #### Updated May 27, 2018
-##### All Guide Information Updated
+##### All Information Updated
 
 ### Table of Contents
 * [Introduction](#introduction)

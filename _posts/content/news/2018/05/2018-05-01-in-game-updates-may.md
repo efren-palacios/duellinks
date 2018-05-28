@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "In-Game Updates: Ranked Duels 5,000 LP"
+title: "In-Game Updates: WCS"
 author: Yami Hammy
 image: /img/content/news/2018/04/in-game-updates/thumbnail.jpg
 category: news
-date: 2018-05-25 17:00:00 +0100
+date: 2018-05-27 18:00:00 +0100
 pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too!  
@@ -14,28 +14,39 @@ permalink: /news/may-2018/in-game-updates/
 
 {% include heading.html title=page.title author=page.author %}
 
-<a name="230"></a>
+<a name="240"></a>
 
-### May 25th (Update 23)
+### May 27th (Update 24)
 
 <br>
 
-<a name="231"></a>
+<a name="241"></a>
 
-#### Ranked Duels Updated
-For the June season of Ranked Duels you will start the duel with 5000 LP. Will [Archfiends](/tier-list/deck-types/archfiends/) make a comeback now that many of their cards are instantly searchable with {Card of the Soul} or perhaps {Cyber-Stein} will flood the ladder! Check out the "5k-lifepoints-ranked" channel in the Discord to join in the discussion. 
+#### World Championship Qualifiers
+Qualifiers start tomorrow, get your decks ready and vie for the top spot(s) in your region! You can read all the information [below](#212).
 
-![](/img/content/news/2018/05/in-game-updates/25-ranked.jpg) 
+![](/img/content/news/2018/05/in-game-updates/27-wcs.jpg) 
 
-<a name="232"></a>
+<a name="242"></a>
 
-#### Privacy Policy
-The privacy policy that no one will read has been postponed!
+#### Maintenance Notice
+There will be a maintenance tomorrow to prepare for the [World Championship Qualifiers](#212), from 05:00 to 08:30 **(GMT+1)** - no Duel Links for over three hours! 😢
 
-![](/img/content/news/2018/05/in-game-updates/25-policy.jpg) 
+![](/img/content/news/2018/05/in-game-updates/27-maintenance.jpg) 
+
+<a name="243"></a>
+
+#### New Week Campaign
+This is the fouth and final week of the campaign. The new additions this campaign are {Pyrorex the Elemental Lord}, {Phantom Beast Cross-Wing} and {Kunoichi} but Konami knows what you really want is that 100th copy of {Goblin Calligrapher}! 
+
+[slider](/img/content/news/2018/05/in-game-updates/27-new-week.jpg) 
 
 ---
 
+- [May 27th (Update 24)](#240)
+    - [World Championship Qualifiers](#241)
+    - [Maintenance Notice](#242)
+    - [New Week Campaign](#243)
 - [May 25th (Update 23)](#230)
     - [Ranked Duels Updated](#231)
     - [Privacy Policy](#232)
@@ -107,6 +118,28 @@ The privacy policy that no one will read has been postponed!
     - [Ranked Duels Updated](#11)
     - [New Card Box](#12)
     - [Sale Underway](#13)
+
+---
+
+<a name="230"></a>
+
+### May 25th (Update 23)
+
+<br>
+
+<a name="231"></a>
+
+#### Ranked Duels Updated
+For the June season of Ranked Duels you will start the duel with 5000 LP. Will [Archfiends](/tier-list/deck-types/archfiends/) make a comeback now that many of their cards are instantly searchable with {Card of the Soul} or perhaps {Cyber-Stein} will flood the ladder! Check out the "5k-lifepoints-ranked" channel in the Discord to join in the discussion. 
+
+![](/img/content/news/2018/05/in-game-updates/25-ranked.jpg) 
+
+<a name="232"></a>
+
+#### Privacy Policy
+The privacy policy that no one will read has been postponed!
+
+![](/img/content/news/2018/05/in-game-updates/25-policy.jpg) 
 
 ---
 
