@@ -47,8 +47,8 @@ Noble Knights are a deck that revolve around strong equip spells and monsters th
 - If your Medraut/Drystan is hit by {Offerings to the Doomed} or {Treacherous Trap Hole} on summon, you can chain Glory to equip Destiny to protect it.
 - The recycling effects of the Noble Arms equips can be abused to use their effects multiple times per turn. Some examples:
     - Destiny protecting from a Destiny HERO attack, then chaining {Double Cyclone} to their {Mask Change} to destroy + re-equip Destiny to get another round of protection;
-    - Equipping Arf to Medraut, using the effect to destroy a set, summoning Drystan off Medraut’s effect, re-equipping Arf, and then using its effect a second time.
-- The Noble Arms cards can be equipped to any Warrior, not necessarily your own. You can equip Arf to a {Amazoness Princess} to reduce its attack and destroy a set card before using summoning a Noble Knight, using Double Cyclone, and re-equipping to your monster. In the mirror you can also use this to trigger your opponent’s Drystan effects before you commit to the field.
+    - Equipping Arfeudutyr to Medraut, using the effect to destroy a set, summoning Drystan off Medraut’s effect, re-equipping Arfeudutyr, and then using its effect a second time.
+- The Noble Arms cards can be equipped to any Warrior, not necessarily your own. You can equip Arfeudutyr to a {Amazoness Princess} to reduce its attack and destroy a set card before summoning a Noble Knight, using Double Cyclone, and re-equipping to your monster. In the mirror you can also use this to trigger your opponent’s Drystan effects before you commit to the field.
 - Glory does not trigger an attack replay, so using Glory into Gallatin on Medraut is a nice way to pick off an opponent’s attacking monster if you don’t have Drystan.
 - When equipping an equip spell normally, it can be sniped by {Cosmic Cyclone} before resolving (and equipping). Glory equips the card on resolution and can be used to dodge Cosmic Cyclone if you really need to get Drystan’s effect off in a pinch.
 

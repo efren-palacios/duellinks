@@ -96,7 +96,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki)
 
 ##### Replacement Options:  
-- {Wall of Disruption}
+- {Mirror Wall}
 - {Destiny HERO - Dangerous}
 - {Super Rush Headlong}
 
