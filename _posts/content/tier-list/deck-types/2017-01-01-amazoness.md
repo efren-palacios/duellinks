@@ -1,6 +1,6 @@
 ---
 layout: blog
-date: 2018-05-08 07:00:00 +0100
+date: 2018-05-28 07:00:00 +0100
 title: Introduction to Amazoness
 author: Brenduke
 has-profile: true
@@ -19,8 +19,8 @@ hide: false
 {% include guides/heading.html deck-type=deck-type-name author=page.author hidden=page.hide %}
 {% unless page.hide %}
 
-#### Updated May 8, 2018 
-##### Removed Generic Tech Cards
+#### Updated May 28, 2018 
+##### Sample deck updated
 
 ### Overview
 
