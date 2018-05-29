@@ -5,12 +5,11 @@ title: New Week Campaign - Rage Page!
 author: Yami Hammy
 image: /img/content/events/2018/05/new-week-campaign/thumbnail.jpg
 category: random
-ended: true
 comments: true
 description: Post you drops or vent your rage about the New Week Campaign! 
 keywords: event, new week campaign
 permalink: /events/may-2018/new-week-campaign/
-hide: false
+hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}
