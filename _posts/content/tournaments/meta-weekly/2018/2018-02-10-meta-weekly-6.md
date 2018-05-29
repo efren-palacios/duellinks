@@ -1,11 +1,13 @@
 ---
 layout: blog
+date: 2018-02-10
 title: "Meta Weekly #6 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 6
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-02-10
 comments: true
 description: The Meta Weekly 6 tournament report. Check the prize winners and their decks here.
@@ -15,8 +17,8 @@ permalink: /tournaments/meta-weekly/6/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
-
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 #### Meta Weekly 6 - February 10, 2018
 
@@ -52,6 +54,6 @@ Sasuke - $33
 [deck:Mind Scan](sphere kuriboh; sphere kuriboh; gladiator beast laquari; gladiator beast laquari; gladiator beast laquari; gladiator beast bestiari; gladiator beast bestiari; gladiator beast murmillo; gladiator beast murmillo; gladiator beast dimacari; enemy controller; enemy controller; enemy controller; floodgate trap hole; floodgate trap hole; floodgate trap hole;  wall of disruption; wall of disruption; curse of anubis; windstorm of etaqua)
 
 #### Third/Fourth Place
-Brenduke - $33
+{#Brenduke} - $33
 
 [deck:Three-Star Demotion](sphere kuriboh; sphere kuriboh; sphere kuriboh; gladiator beast laquari; gladiator beast laquari; gladiator beast laquari; sanga of the thunder; sanga of the thunder; sanga of the thunder;  gladiator beast bestiari; gladiator beast bestiari; gladiator beast murmillo; gladiator beast dimacari; floodgate trap hole; floodgate trap hole; divine wrath; impenetrable attack; impenetrable attack; wall of disruption; wall of disruption)

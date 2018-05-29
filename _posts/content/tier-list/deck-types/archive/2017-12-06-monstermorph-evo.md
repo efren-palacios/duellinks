@@ -9,12 +9,12 @@ comments: false
 description: In depth information about Monstermorph Evolution decks.
 deck-type: monstermorph-evo
 permalink: /tier-list/monstermorph-evo/ 
+hidden: true
 ---
 
-{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
-{% include guides/guide.html guide=guide %}
 
-{% include decktype_decks.html deckType=page.deck-type %}
 
-{% include top-decks-season-archive.html %}
+
+
+

@@ -7,7 +7,10 @@ exclude: ["Gemfile",
           "node_modules",
           ".gitignore",
           "package.json",
-          "package-lock.json"]
+          "package-lock.json",
+          "gulpfile.js",
+          .ruby-version,
+          README.md]
 collections:
   admin:
     output: true
@@ -15,5 +18,8 @@ plugins:
   - jekyll-timeago
   - jekyll-angular
   - jekyll-sitemap
-include: ['.htaccess', '_headers']
+loadSize: 10
 season-end: 0001-01-01T01:00:00.000
+ga-url: alphadkayed.netlify.com
+ga-code: UA-93155050-2
+incremental: true

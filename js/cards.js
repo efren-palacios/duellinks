@@ -22,15 +22,8 @@ function GetCards()
 
 function GetCardUrl(name)
 {
-    var invalidChars = [" ", "-", ":", "#", "\"", "/", "!"];
-
-    $.each(invalidChars, function(index, value)
-    {
-        var regex = new RegExp(value, "g");
-        name = name.replace(regex, "_");
-    });
-
-    return cardApi.replace("[name]", name);
+    var encodedName = encodeURIComponent(name); 
+    return cardApi.replace("[name]", encodedName);
 }
 
 /*function GetCardImageUrlByCardName(name)

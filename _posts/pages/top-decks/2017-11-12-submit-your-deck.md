@@ -2,12 +2,12 @@
 layout: blog
 title: Submit Your Deck
 author: Creative
-category: top-decks
+category: page
 date: 2017-11-12 18:05:00 +0200
 comments: false
 permalink: /submit-your-deck/
 sitemap: false
-hide: true
+hidden: true
 ---
 
 <!-- TODO: Change permalink to /top-decks/submit-your-deck/ but also adjust url BELOW and in the DLM DISCORD APP -->

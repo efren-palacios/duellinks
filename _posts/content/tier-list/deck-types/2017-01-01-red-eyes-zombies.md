@@ -62,4 +62,3 @@ For every {Gozuki} you're missing, replace with {Samurai Skull}
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

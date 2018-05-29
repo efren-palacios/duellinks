@@ -1,0 +1,24 @@
+<div class="text-center text-white text-center" style="margin-bottom: 1rem;">
+  <h2>LATEST ARTICLES</h2>
+</div>
+
+<div class="row card-collection">
+  
+  {% assign articles = site.posts    | where_exp: "item", "item.category != 'page'" | where_exp: "item", "item.hidden != true" | sort: "date" | reverse %}
+  {% assign featured = articles      | where_exp: "item", "item.featured == true" | slice: 0, 2 %}
+  {% assign default  = articles      | arr_remove: featured %}
+  {% assign featSize = featured      | size %}
+  {% assign loadSize = site.loadSize | minus: featSize %}
+  {% assign loaded   = default       | slice: 0, loadSize %}
+
+  {% for article in featured %}
+    {% include articles/article.html article=article options='1' %}
+  {% endfor %}
+
+  {% for article in loaded %}
+    {% include articles/article.html article=article %}
+  {% endfor %}
+
+</div>
+
+{% include articles/articles-ko.html %}

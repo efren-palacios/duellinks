@@ -1,67 +1,92 @@
 <nav class="navbar navbar-expand-md">
   <div class="container">
     <div class="navcontent">
-    <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-      <div class="containernavbutton" onclick="toggleChange(this)">
-        <div class="bar1"></div>
-        <div class="bar2"></div>
-        <div class="bar3"></div>
-      </div>          
-    </button>
-    <a class="navbar-brand" href="/">
-      <img src="/img/logos/dlm_scaled.png" alt="Duel Links Meta">
-    </a>
-    <div class="navbar-collapse collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-          {% if page.url contains "/tier-list/" %}
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <div class="containernavbutton" onclick="toggleChange(this)">
+          <div class="bar1"></div>
+          <div class="bar2"></div>
+          <div class="bar3"></div>
+        </div>
+      </button>
+      <a class="navbar-brand" href="/">
+        <img src="/img/logos/dlm_scaled.png" alt="Duel Links Meta">
+      </a>
+      <div class="navbar-collapse collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            {% if page.url contains "/tier-list/" %}
             <a class="nav-link active" href="/tier-list/">Tier List</a>
-          {% else %}
-            <a class="nav-link" href="/tier-list/">Tier List</a>
-          {% endif %}
-        </li>
-        <li class="nav-item active">
-            {% if page.url contains "/top-decks/" %}
-              <a class="nav-link active" href="/top-decks/">Top Decks</a>
             {% else %}
-              <a class="nav-link" href="/top-decks/">Top Decks</a>
+            <a class="nav-link" href="/tier-list/">Tier List</a>
             {% endif %}
-        </li>
-        <li class="nav-item">
-          {% if page.url contains "/tournaments/meta-championship-series/" %}
+          </li>
+          <li class="nav-item active">
+            {% if page.url contains "/top-decks/" %}
+            <a class="nav-link active" href="/top-decks/">Top Decks</a>
+            {% else %}
+            <a class="nav-link" href="/top-decks/">Top Decks</a>
+            {% endif %}
+          </li>
+          <li class="nav-item">
+            {% if page.url contains "/tournaments/" %}
             <a class="nav-link active" href="/tournaments/">Tournaments</a>
-          {% else %}
+            {% else %}
             <a class="nav-link" href="/tournaments/">Tournaments</a>
-          {% endif %}
-        </li>
-        <li class="nav-item active">
-          {% if page.url contains "/guides/" %}
-            <a class="nav-link active" href="/guides/">Guides & Reviews</a>
-          {% else %}
-            <a class="nav-link" href="/guides/">Guides & Reviews</a>
-          {% endif %}
-        </li>
-        <li class="nav-item">
-          {% if page.url contains "/top-players/" %}
-            <a class="nav-link active" href="/Community/">Top Player Community</a>
-          {% else %}
-            <a class="nav-link" href="/Community/">Top Player Community</a>
-          {% endif %}
-        </li>
-        <li class="nav-item">
-          {% if page.url contains "/farming-and-events/" %}
+            {% endif %}
+          </li>
+          <li class="nav-item active">
+            {% if page.url contains "/guides-and-reviews/" %}
+            <a class="nav-link active" href="/guides-and-reviews/">Guides & Reviews</a>
+            {% else %}
+            <a class="nav-link" href="/guides-and-reviews/">Guides & Reviews</a>
+            {% endif %}
+          </li>
+          <li class="nav-item">
+            {% if page.url contains "/community/" %}
+            <a class="nav-link active" href="/community/">Community</a>
+            {% else %}
+            <a class="nav-link" href="/community/">Community</a>
+            {% endif %}
+          </li>
+          <li class="nav-item">
+            {% if page.url contains "/farming-and-events/" %}
             <a class="nav-link active" href="/farming-and-events/">Farming & Events</a>
-          {% else %}
+            {% else %}
             <a class="nav-link" href="/farming-and-events/">Farming & Events</a>
-          {% endif %}
-          
-        </li>
-      </ul>
+            {% endif %}
+
+          </li>
+          <li>
+            <img id="search_toggle" class="desktopSearchButton" onmouseover="searchhover(this);" onmouseout="searchunhover(this)" data-toggle="modal" data-target="#searchModal" src="/img/assets/search_icon.png">
+          </li>
+        </ul>
+      </div>
     </div>
-    </div>
+    <img id="search_toggle" class="mobileSearchButton" onmouseover="searchhover(this);" onmouseout="searchunhover(this)" data-toggle="modal" data-target="#searchModal" src="/img/assets/search_icon.png">
   </div>
 </nav>
 
+<!--Search Modal -->
+<div id="searchModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Search articles on DuelLinksMeta</h4>
+      </div>
+      <div class="modal-body">
+        <input id="nav_searchbar" class="form-control" placeholder="Search..." autofocus>
+        <div id="results-container" class="list-group">
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</div>
 <!--
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" href="" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

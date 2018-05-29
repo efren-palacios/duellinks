@@ -3,6 +3,7 @@ layout: blog
 title: "Warafuzake Cup # 2 Report"
 author: Jonesy9027
 category: tournament
+sub-category: report
 tournament: The Warafuzake Cup
 number: 2
 image: /img/logos/generic-tournament.jpg
@@ -11,7 +12,6 @@ comments: true
 description: The Second Warafuzake Cup report. Check the prize winners and their decks here.
 keywords: duel links, competitive, tournament, warafuzake, warafuzake cup
 permalink: /tournaments/warafuzake-cup/2/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -90,5 +90,5 @@ Original Decklist Submissions:
 
 ---
 
-Credits to Kaito for tournament information  
+Credits to {#Kaito} for tournament information  
 Team Warafuzake [Twitter](https://twitter.com/TeamWARUFUZAKE)  

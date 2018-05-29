@@ -7,8 +7,14 @@
       "name": "{{skill.name | replace: '\"', '\\\"'}}",
       "desc": "{{skill.description | replace: '\"', '\\\"'}}",
       "exclusive": {{skill.exclusive}},
-      "character": "{{skill.character}}"
-    }
-    {% unless forloop.last %},{% endunless %}
+      "characters": [
+        {% for character in skill.characters %}
+        {
+          "name": "{{character.name}}",
+          "how": "{{character.how}}"       
+        }{% unless forloop.last %},{% endunless %} 
+        {% endfor %}
+      ]
+    }{% unless forloop.last %},{% endunless %}    
   {% endfor %}
 ]

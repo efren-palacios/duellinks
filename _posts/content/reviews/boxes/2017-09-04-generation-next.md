@@ -9,7 +9,7 @@ image: /img/content/box-reviews/generation-next/preview.jpg
 comments: true
 description: Overview of the generation next box.
 keywords: box, boxset, generation next, review
-permalink: /box-reviews/generation-next/
+permalink: /box-reviews/generation-next/e
 ---
 
 {% include heading.html title=page.title %}

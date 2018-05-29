@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Weevil Underwood
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Weevil Underwood
@@ -81,7 +81,7 @@ hide: true
 
 ---
 
-#### Level 30/40 Generic Cerberus Farm - created by Jadehex
+#### Level 30/40 Generic Cerberus Farm - created by {#Jadehex}
 (7100 Base [Duel Assessment](/farming/duel-assessment-score/))
 
 [deck:Draw sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)

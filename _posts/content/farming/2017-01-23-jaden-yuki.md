@@ -69,7 +69,7 @@ hide: true
 
 ---
 
-***Speed Farm Level 10 - created by Jadehex (last updated: 12/02/2017)***
+***Speed Farm Level 10 - created by {#Jadehex} (last updated: 12/02/2017)***
 
 [deck](Mystical Beast of Serket; Gravekeeper's Vassal; Gil Garth; Gil Garth; Gil Garth; Battle Ox; Battle Ox; Battle Ox; Union Attack; Union Attack; Temple of the Kings; Common Charity; Common Charity; Common Charity; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Blue-Eyes Ultimate Dragon; Master of Oz; Arcana Knight Joker; Meteor B. Dragon)
 

@@ -1,0 +1,15 @@
+{% assign authors = include.authors | split: ";" %}
+
+<div class="authors">
+    {% for rawAuthor in authors %}
+
+        {% assign author = rawAuthor | strip %}
+
+        {% assign profileData = author | profileData %}
+
+        <a class="author {{ profileData.class }}" href="{{ profileData.url }}">
+            <font color="{{ profileData.color }}">{{ profileData.name }}</font>
+        </a>
+        
+    {% endfor %}
+</div>

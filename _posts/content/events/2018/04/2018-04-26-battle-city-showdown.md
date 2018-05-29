@@ -9,7 +9,6 @@ comments: true
 description: The second part of Battle City is underway! Here's all you need to know about the event and the best ways to complete the missions - get those those new reward cards! 
 keywords: event, battle city, skill, yami yugi, part two, 2, divine trials, card of sanctity
 permalink: /events/april-2018/battle-city-showdown/
-pinned: false
 ended: true
 ---
 
@@ -17,7 +16,7 @@ ended: true
 
 ![](/img/content/events/2018/04/battle-city-showdown/banner.png)
 
-##### Updated May 8th - Added Duel Awards Winners
+##### Updated May 8, 2018 - [Added Duel Awards Winners](#awards)
 
 - **[Duel Awards](#awards)**
 - [Updates](#updates)
@@ -118,11 +117,13 @@ You will also get rewards for clearing rounds:
 
 ### First Impressions
 
-#### [Superforms](/top-player-council/superforms/) says:
+#### {#Superforms} says:
 
-- {Skilled Blue Magician}: More support for Spell Counters and works well with {Skilled Dark Magician}. If Spellbooks are good (coming in the next Mini Box), they may be used in a {Dark Magician} or {Endymion, the Master Magician} Deck along with this card.
-- {Dark Sage}: Trash!
-- {Fusion Sword Murasame Blade}: While Equip Spells are generally not worthwhile, the ATK boost combined with protection is nice. Probably one of the best equips in the game, but likely still won’t see play since the top Warrior Deck ([Masked Heroes](/tier-list/deck-types/masked-heroes/)) doesn’t have any place for it.
+> {Skilled Blue Magician}: More support for Spell Counters and works well with {Skilled Dark Magician}. If Spellbooks are good (coming in the next Mini Box), they may be used in a {Dark Magician} or {Endymion, the Master Magician} Deck along with this card.
+
+> {Dark Sage}: Trash!
+
+> {Fusion Sword Murasame Blade}: While Equip Spells are generally not worthwhile, the ATK boost combined with protection is nice. Probably one of the best equips in the game, but likely still won’t see play since the top Warrior Deck ([Masked Heroes](/tier-list/deck-types/masked-heroes/)) doesn’t have any place for it.
 
 ### Legendary Duelist Duels
 

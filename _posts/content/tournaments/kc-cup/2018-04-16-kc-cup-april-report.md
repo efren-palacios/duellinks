@@ -2,8 +2,9 @@
 layout: blog
 date: 2018-04-17 01:00:00 +0100
 title: KC Cup April - Top 100 Report
-author: Jonesy9027 & Yami Hammy
+author: Jonesy9027; Yami Hammy;
 category: tournament
+sub-category: report
 tournament: KC Cup
 number: 7
 image: /img/content/tournaments/kc-cup/april/thumbnail.jpg
@@ -24,7 +25,7 @@ This KC Cup took place from 05:00 Friday 13th April to 05:00 Monday 15th April (
 
 - The skill {Grit} saw heavy use this KC Cup as a means to counter the OTK nature of the [current meta decks](/tier-list/): [Sylvans](/tier-list/deck-types/sylvans/), [Masked Heroes](/tier-list/deck-types/masked-heroes/), [Geargias](/tier-list/deck-types/geargias/) and [Cyber Angels](/tier-list/deck-types/cyber-angels/). Konami hasn't been transparent regarding in what circumstances the skill will activate but some players in the community have done some testing, here's what they say:
 
-**Jadehex - Farm Expert:**
+**{#Jadehex} - Farm Expert:**
   
 - There is roughly an 85% success rate surviving turns 1-3 with {Grit} however data is still being collected.
 
@@ -88,7 +89,7 @@ These are the 4 decks I've played for different DP levels:
 
 ---
 
-#### **Glading**
+#### **{#Glading}**
 ##### Global Rank: 4
 ##### Regional Rank (Asia): 1
 
@@ -124,14 +125,14 @@ I used {Restart} [Masked Heroes](/tier-list/deck-types/masked-heroes/) mostly un
 
 ---
 
-#### **Andy Tsang**
+#### **{#Andy Tsang}**
 ##### Global Rank: 6
 ##### Regional Rank (North America): 1
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Enemy Controller;Enemy Controller;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
-No other decks used. Shoutouts to [Jason's](/top-player-council/jason/) homework for carrying me to first place NA!
+No other decks used. Shoutouts to {#Jason}'s homework for carrying me to first place NA!
 
 ---
 
@@ -154,7 +155,7 @@ Believe it or not 7th global using mainly this deck.
 
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
 
-Shout out [Jason](/top-player-council/jason/) one time, best deck in format.
+Shout out {#Jason} one time, best deck in format.
 
 ---
 
@@ -193,7 +194,7 @@ After switching to {Grit} my DP went from 20k to 70k with 66% win rate!
 
 ---
 
-#### **Jason**
+#### **{#Jason}**
 ##### Global Rank: 14
 ##### Regional Rank (North America): 3
 
@@ -252,7 +253,7 @@ I did not have much time otherwise I could have done better.
 
 ---
 
-#### **Whilipino**
+#### **{#Whilipino}**
 ##### Global Rank: 35
 ##### Regional Rank (North America): 4
 
@@ -335,7 +336,7 @@ I played [Fishes](/tier-list/deck-types/fishes/) for the entirety of Friday, and
 
 ---
 
-#### **MiguelJoker**
+#### **{#MiguelJoker}**
 ##### Global Rank: 66
 ##### Regional Rank (Europe): 7
 

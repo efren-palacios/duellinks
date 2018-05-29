@@ -1,11 +1,13 @@
 ---
 layout: blog
+date: 2018-01-31
 title: "Meta Weekly #5 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 5
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-01-31
 comments: true
 description: The Meta Weekly 5 tournament report. Check the prize winners and their decks here.
@@ -15,7 +17,8 @@ permalink: /tournaments/meta-weekly/5/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 #### Meta Weekly 5 - January 31, 2018
 
@@ -36,7 +39,7 @@ The Meta Weekly tournament is held for Twitch Subscribers only. By being a twitc
 Total price pool: $242
 
 #### First Place
-SS SelectMaple - $114
+{#SelectMaple} - $114
 
 [deck:Balance](Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Laquari; Gladiator Beast Bestiari; Gladiator Beast Bestiari; Gladiator Beast Murmillo; Gladiator Beast Murmillo; Gladiator Beast Dimacari; Fire Formation - Gyokkou; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; Floodgate Trap Hole; Floodgate Trap Hole; Impenetrable Attack; Impenetrable Attack; Wall of Disruption; Wall of Disruption; Curse of Anubis)
 

@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Return",
+        "card_type": "Trap",
+        "property": "Normal",
+        "text": "When your opponent adds a card(s) from the Graveyard to their hand: They must shuffle 1 of those cards into their Deck." 
+    }
+]

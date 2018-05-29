@@ -32,15 +32,15 @@ styles: soon.min.css
     margin-top: 8px;">
     </div> 
 
-* [META CHAMPIONSHIP SERIES](#mcs): Monthly Championship
-* [META WEEKLY](#mw): Weekly Tournament
-* [ANYTIME TOURNAMENT](#att): 24/7 cash duels
-* [Give Away Tournaments](#ga): Free Casual tournaments!
+* [Meta Champtionship Series](#mcs): monthly championship
+* [Meta Weekly](#mw): weekly tournament
+* [Anytime Tournament](#att): 24/7 cash duels
+* [Giveaway Tournament](#ga): free, casual tournament!
 
 ---
 
 <a href="#topladder"> 
-![Top Player Ladder](/img/pages/top-players/banner-top-player-ladder.png)
+![Top Player Ladder](/img/pages/community/banner-top-player-ladder.png)
 </a>
 
 ---
@@ -63,14 +63,14 @@ styles: soon.min.css
 The Meta Championship Series is Duel Links' largest and most competitive tournament held monthly for cash prizes. It's where the best players compete for the largest prize pool in Duel Links.
 
 ### How to Join 
-You must first join the [Duel Links Meta Discord](/top-players/) in order to participate in the MCS.
+You must first join the [Duel Links Meta Discord](/community/) in order to participate in the MCS.
 
-### Total Prize Support given out: $20,144
+### Total Prize Support Given Out: $20,144
 
-[Click here to see the MCS Hall of Fame](/other/mcs-hall-of-fame)
+Check out the [MCS Hall of Fame](/other/mcs-hall-of-fame) for informations on the top players that have competed in an MCS in the past as well all the generous sponsors!
 
 <div class="section center">
-    <h3>Here are all the past MCS reports</h3>
+    <h4>Here are all the past MCS reports</h4>
     <ul>
         {% for report in reports %}
             <li><a href="{{report.url}}">{{report.tournament | upcase}} #{{report.number}}</a></li>
@@ -92,16 +92,16 @@ You must first join the [Duel Links Meta Discord](/top-players/) in order to par
     margin-top: 8px;">
 </div>
 
-![img](/img/logos/meta-weekly.png)
-
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 ### About the Meta Weekly
 The Meta Weekly is a tournament that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap, nor is there a deadline to join - you can even join at the very last second!
 
-Be sure to check out all the [previous meta weekly reports](tournaments/meta-weekly/)
+Be sure to check out all the [previous meta weekly reports](/tournaments/meta-weekly/)
 
 ### How to Join 
-Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch or check out the [Community]() page for more info!
+Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch or check out the [Community](/community/) page for more info!
 
 ### Format
 * Best of 3 - Single Elimination
@@ -127,7 +127,7 @@ Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch or check o
 These tournaments run 24/7 within the discord. Once 8 people sign up to a tournament you are good to go!
 
 ### How to Join 
-Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch to subscribe or check out the [Community](/top-players/) page for more info! If you are already apart of the discord, simple type !enterticket anywhere in the Discord server while you have at least 1 Meta Ticket.
+Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch to subscribe or check out the [Community](/community/) page for more info! If you are already apart of the discord, simple type !enterticket anywhere in the Discord server while you have at least 1 Meta Ticket.
 
 ### Additional Information
 * Entry fee is 1 meta ticket
@@ -155,7 +155,7 @@ Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch to subscri
 Our stream holds special free tournaments for our twitch subscribers. We offer prizes such as tournament entry, promotional items and cash from our sponsors when avaliable. 
 
 ### How to join
-Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch or check out the [Community](/top-players/) page for more info on becoming a subscriber to support the channel and recieve your benefits.
+Visit the [DuelLinksMeta](https://www.twitch.tv/duellinksmeta) Twitch or check out the [Community](/community/) page for more info on becoming a subscriber to support the channel and recieve your benefits.
 
 ### Format
 * Casual best of 1
@@ -174,20 +174,20 @@ Updated 5/19/18
 | Rank | Participant Name | Points |
 |--|--|--|
 |1|Billy Brake| 65 points|
-|2|Jason| 50 points|
+|2| {#Jason} | 50 points|
 |3|Eugen Heidt| 43 points|
 |4|Stevie| 40 points|
 |5|Grucius| 37 points|
 |6|Yehhey| 35 points|
 |7|Masarike|31 points|
-|8-10| SirDillweed| 30 points|
-|8-10|Kwrowe| 30 points|
+|8-10| {#SirDillweed} | 30 points|
+|8-10| {#Kwrowe} | 30 points|
 |8-10|ShinySopheon|30 points|
 |11-12|Sterben| 26 points|
-|11-12|SkillShot| 26 points|
+|11-12| {#SkillShot} | 26 points|
 |13-15|LoreRomaCCG| 24 points|
 |13-15|MrCellophane| 24 points|
-|13-15|Glading| 24 points|
+|13-15| {#Glading} | 24 points|
 |16|SILENT POWER| 23 points|
 |17|Look at god| 21 points|
 |18-20|Gambler| 20 points|
@@ -204,11 +204,11 @@ Updated 5/19/18
 |26-31|Suguru| 14 points|
 |26-31|M.Rida92| 14 points|
 |26-31|BrendenBB| 14 points|
-|32|Whilipino| 13 points|
-|33-38|Super Vegito| 12 points|
+|32| {#Whilipino} | 13 points|
+|33-38| {#Super Vegito} | 12 points|
 |33-38|Luke Tyler| 12 points|
 |33-38|Neg do Zap| 12 points|
-|33-38|Insano| 12 points|
+|33-38| {#Cpt. Insano} | 12 points|
 |33-38|HoCJackieB| 12 points|
 |33-38|Serenity| 12 points|
 |39-63|Tekumse| 10 points|
@@ -223,24 +223,24 @@ Updated 5/19/18
 |39-63|Greedosama| 10 points|
 |39-63|Guizyduck| 10 points|
 |39-63|Hextor| 10 points|
-|39-63|Negative1| 10 points|
+|39-63| {#Negative1} | 10 points|
 |39-63|Koizumi| 10 points|
-|39-63|MiguelJoker| 10 points|
+|39-63| {#MiguelJoker} | 10 points|
 |39-63|ShootMyMantlet| 10 points|
 |39-63|Peledones| 10 points|
 |39-63|Suhnrysanti| 10 points|
-|39-63|Machdragon| 10 points|
-|39-63|Kayoh| 10 points|
+|39-63| {#Machdragon} | 10 points|
+|39-63| {#Kayoh} | 10 points|
 |39-63|3K Two Oh| 10 points|
 |39-63| FOREVER| 10 points|
 |39-63|Vladis| 10 points|
 |39-63|WayneKenoff| 10 points|
-|39-63|Deadfun | 10 points|
+|39-63| {#Deadfun} | 10 points|
 |64-66 |Just Desserts | 9 points|
 |64-66|qbob2| 9 point|
 |64-66|Yasser | 9 points|
 |67-84|Vyzual| 8 points|
-|67-84|Brenduke| 8 points|
+|67-84| {#Brenduke} | 8 points|
 |67-84|DragonOTWest| 8 points|
 |67-84|Regtrainer1| 8 points|
 |67-84|Simon| 8 points|
@@ -251,19 +251,19 @@ Updated 5/19/18
 |67-84|SauceGod| 8 points|
 |67-84|WALEEDSY| 8 points|
 |67-84|Shu| 8 points|
-|67-84|Xanxus| 8 points|
+|67-84| {#Xanxus} | 8 points|
 |67-84|Alysium| 8 points|
 |67-84|Xyldaz| 8 points|
 |67-84|Sock90| 8 points|
 |67-84|HidekiBro| 8 points|
-|67-84|Whybona| 8 points|
+|67-84| {#Whybona} | 8 points|
 |85-86|Black Jesus | 7 points|
 |85-86|FettyGuap | 7 points|
 |87-97| DeadlyScarce | 5 points|
 |87-97|Limitless95|5 points|
 |87-97|Son_Luke | 5 points|
 |87-97|CrossX| 5 points|
-|87-97 |Kaki | 5 points|
+|87-97 | {#Kaki} | 5 points|
 |87-97|lawofdeath| 5 points|
 |87-97|Sasuke| 5 points|
 |87-97|BlessRNG Shadowz| 4 points|
@@ -293,6 +293,6 @@ Updated 5/19/18
 * Top 100 = 10 points
 
 --------
-Check out the [Season 1 Top Player Ladder](/top-players/season-1/)
+Check out the [Season 1 Top Player Ladder](/tournaments/top-players/season-1/)
 
 <hr style="border-color: #B5B5B5;">

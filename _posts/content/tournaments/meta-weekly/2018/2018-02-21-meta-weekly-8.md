@@ -1,11 +1,13 @@
 ---
 layout: blog
+date: 2018-02-21
 title: "Meta Weekly #8 Report"
 author: SpoonCats
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 8
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-02-21
 comments: true
 description: The Meta Weekly is a casual tournament that constantly assesses the ever changing Meta. Check out the report of these Top Players, their decks, and Prizes for the week of February 21, 2018. 
@@ -15,12 +17,13 @@ permalink: /tournaments/meta-weekly/8/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 #### Meta Weekly 8 - February 21, 2018
 
 ### What is Meta Weekly?
-The Meta Weekly is one of Dkayed's tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up until the very last second!
+The Meta Weekly is one of {#Dkayed}'s tournaments that is held once a week, alternating between Tuesday 2pm EST and Wednesday 7pm EST. There is no player cap nor is there a deadline to join. Players can simply join up until the very last second!
 
 ### Rules
 * One deck
@@ -47,7 +50,7 @@ Masarike - $146
 [deck](Destiny HERO - Decider; Destiny HERO - Decider; Cosmic Cyclone; Cosmic Cyclone; Enemy Controller)
 
 #### Second Place
-Kaki - $81
+{#Kaki} - $81
 
 *Main deck*
 

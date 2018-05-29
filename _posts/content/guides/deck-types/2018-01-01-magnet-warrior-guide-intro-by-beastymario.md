@@ -4,7 +4,7 @@ title: "First Look: Magnet Warriors"
 author: Beastymario
 category: guide
 sub-category: deck-type
-deck-type: magnet warriors
+deck-type: magnet-warriors
 image: /img/content/guides/magnet-warrior-guide-by-beastymario/magnet.jpg
 date: 2018-03-16
 comments: false
@@ -29,13 +29,13 @@ That being said, with the easy special summon capabilities of {Gaia Plate the Ea
 Below you can find two successful builds, the first one being a 20 card deck build that recently reached top 4 in the MCS VI. The second is a 30 card That Grass Looks Greener Magnet deck that won the Meta Weekly #7.
 
 
-**Decklist by MiguelJoker**
+**Decklist by {#MiguelJoker}**
 
 [deck:Restart](Gaia Plate the Earth Giant;Gaia Plate the Earth Giant;Valkyrion the Magna Warrior;Delta the Magnet Warrior;Delta the Magnet Warrior;Delta the Magnet Warrior;Beta the Electromagnet Warrior;Beta The Magnet Warrior;Beta The Magnet Warrior;Beta The Magnet Warrior;Enemy Controller;Enemy Controller;Enemy Controller;Storm;Storm;Powerful Rebirth;Powerful Rebirth;Powerful Rebirth;Wall of Disruption;Wall of Disruption)
 
 <br>
 
-**Decklist by Kaki**
+**Decklist by {#Kaki}**
 
 [deck:Straight to the Grave](Gaia Plate the Earth Giant;Gaia Plate the Earth Giant;Gaia Plate the Earth Giant;Valkyrion the Magna Warrior;Delta the Magnet Warrior;Delta the Magnet Warrior;Delta the Magnet Warrior;Tackle Crusader;Block Golem;Block Golem;Beta the Electromagnet Warrior;Gamma The Magnet Warrior;Beta The Magnet Warrior;Beta The Magnet Warrior;Beta The Magnet Warrior;That Grass Looks Greener;That Grass Looks Greener;That Grass Looks Greener;Enemy Controller;Enemy Controller;Enemy Controller;Storm;Storm;Skill Successor;Skill Successor;Triamid Pulse;Triamid Pulse;Triamid Pulse;Powerful Rebirth;Powerful Rebirth)
 
@@ -88,7 +88,7 @@ These cards can be great additions to the deck and can help functionality.
 ---
 #### Full Magnet Guide Coming to the DLM Website Soon
 
-For more information while you wait, check out the Magnet Warrior Guide by Beastymario [Here](https://docs.google.com/document/d/1IdY7zg0ihuC5suGk62VZr-JTQFf0LqOWpkHmhIVo7vM/edit?usp=sharing).
+For more information while you wait, check out the Magnet Warrior Guide by {#Beastymario} [Here](https://docs.google.com/document/d/1IdY7zg0ihuC5suGk62VZr-JTQFf0LqOWpkHmhIVo7vM/edit?usp=sharing).
 
 Also, check out the 2017 Duel Links World Champion's Magnet Warrior Video [Here](https://www.youtube.com/watch?v=Hq5bXUibFzA&t=137s).
 

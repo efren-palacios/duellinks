@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-04-26 20:30:00 +0100
 title: Yami Marik Returns!
-author: Yami Hammy
+author: Jonesy9027; Yami Hammy;
 image: /img/content/events/2018/04/yami-marik-returns/thumbnail.jpg
 category: event
 ended: true
@@ -15,7 +15,7 @@ pinned: false
 
 {% include heading.html title=page.title author=page.author %}
 
-**Last updated: 26th April - Added Duel Awards winners**
+##### Updated 26 April, 2018 - [Added Duel Awards Winners](#awards)
 
 ![Banner](/img/content/events/2018/04/yami-marik-returns/banner.png)
 
@@ -71,7 +71,7 @@ The "Duel Awards" are a mini competition during events. There are three categori
 
 ![](/img/content/events/2018/04/yami-marik-returns/marik-lvl-50.png)
 
-Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or if you already obtained it last event, you get {Mega Ultra Chicken}) and the new skill {Power of the Tributed}!
+Yami Marik Lvl. 50 will now spawn in Duel World (DM) with a [stronger deck](#50) in tow! If you've collected at least 1,000,000 Event points and completed the other five challenges you'll be able to Duel him to obtain the almighty protector of the sun and sky, {The Winged Dragon of Ra} (or if you already obtained it last event, you get an Ultra Rare jewel) and the new skill {Power of the Tributed}!
   
 #### Strategies
 
@@ -149,7 +149,7 @@ Get up to 175 Gems!
 
 <a name="jadehex"></a>
 
-#### Lvl. 40 **(Marik)** Cloudian Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Cloudian Farm - created by {#Jadehex}
 
 [deck:Draw Sense: WATER](Summoner of Illusions; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Gravekeeper's Vassal; Cloudian - Turbulence; Anti-Magic Arrows; Union Attack; Union Attack; The Sanctuary in the Sky; The Sanctuary in the Sky; The Sanctuary in the Sky; Dimensionhole; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)
 [deck](Blue-Eyes Ultimate Dragon; Master of Oz)    
@@ -205,7 +205,7 @@ You should only have {Cloudian - Turbulence} and a facedown {Summoner of Illusio
 
 <a name="superforms"></a>
 
-#### Lvl. 40 **(Marik)** Hazy Farm - created by Superforms
+#### Lvl. 40 **(Marik)** Hazy Farm - created by {#Superforms}
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Soul Exchange; Soul Exchange; Soul Exchange; Enemy Controller; Enemy Controller; Enemy Controller; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
 
@@ -317,7 +317,7 @@ You should only have two {The Unhappy Girl} in your Monster zones
 
 <a name="jadehex2"></a>
 
-#### Lvl. 40 **(Marik)** Labby Farm - created by Jadehex
+#### Lvl. 40 **(Marik)** Labby Farm - created by {#Jadehex}
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Planet Pathfinder; Planet Pathfinder; Planet Pathfinder; Anti-Magic Arrows; Sorcerous Spell Wall; Sorcerous Spell Wall; Union Attack; Union Attack; Shield & Sword; Abyssal Designator; Abyssal Designator; Abyssal Designator; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Jar of Greed; Jar of Greed; Jar of Greed)
 

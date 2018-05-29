@@ -4,7 +4,7 @@ title: BLS Destiny Hero Guide
 author: Lynx
 category: guide
 sub-category: deck-type
-deck-type: destiny heroes
+deck-type: destiny-heroes
 image: /img/content/guides/destiny-hero-guide/blsguide.jpg
 date: 2018-04-04 12:00:00
 comments: true
@@ -263,4 +263,4 @@ If you have any questions or feedback after reading this guide, feel free to hit
 
 ---
 
-*This guide was happily converted by Jonesy9027*
+*This guide was happily converted by {#Jonesy9027}*

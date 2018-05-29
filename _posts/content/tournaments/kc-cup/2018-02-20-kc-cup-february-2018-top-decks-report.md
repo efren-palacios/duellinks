@@ -4,6 +4,7 @@ date: 2018-02-20
 title: "KC Cup Top Decks Report"
 author: SpoonCats
 category: tournament
+sub-category: report
 tournament: KC Cup
 number: 3
 image: /img/content/tournaments/kc-cup/february/kc-cup.jpg
@@ -48,7 +49,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **MiguelJoker**
+#### **{#MiguelJoker}**
 ##### Global Rank: 6
 ##### Regional Rank (Latin America): 1
 
@@ -58,7 +59,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **SelectMaple**
+#### **{#SelectMaple}**
 ##### Global Rank: 13
 ##### Regional Rank (North America): 1
 
@@ -76,7 +77,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **Whybona**
+#### **{#Whybona}**
 ##### Global Rank: 27
 ##### Regional Rank (Europe): 2
 
@@ -98,7 +99,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **Kayoh**
+#### **{#Kayoh}**
 ##### Global Rank: 45
 ##### Regional Rank (North America): 8
 
@@ -123,7 +124,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **Kaki**
+#### **{#Kaki}**
 ##### Global Rank: 60
 ##### Regional Rank (Europe): 9
 
@@ -201,7 +202,7 @@ Stage 2 of the February 2018 KC cup has come to a close, and the results have be
 
 ---
 
-#### **Machdragon**
+#### **{#Machdragon}**
 ##### Global Rank: 86
 
 [deck:Three-Star Demotion](Snipe Hunter; Snipe Hunter; Snipe Hunter; Volcanic Rocket; Volcanic Rocket; Volcanic Rocket; Sanga of the Thunder; Sanga of the Thunder; Volcanic Shell; Volcanic Shell; Volcanic Shell; Enemy Controller; Enemy Controller; Enemy Controller; Blaze Accelerator; Floodgate Trap Hole; Floodgate Trap Hole; Floodgate Trap Hole; Wall of Disruption; Wall of Disruption)

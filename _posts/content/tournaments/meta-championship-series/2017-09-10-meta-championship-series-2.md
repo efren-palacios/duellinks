@@ -1,12 +1,13 @@
 ---
 layout: blog
+date: 2017-9-15 01:32:00 -0600
 title: "Meta Championship Series #2 Report"
 author: Dkayed
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 2
 image: https://i.imgur.com/AJBBqGQ.png
-date: 2017-9-15 01:32:00 -0600
 comments: true
 description: The Meta Championship Series 2 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 2, meta championship series, meta championship series 2, meta championship series winners, meta championship series decks, tournament
@@ -74,7 +75,7 @@ Format: 2 Decks. 2 Different Characters/Skills. Must win with both decks. Double
 
 {% include twoimages.html image1="https://i.imgur.com/Wt7Deou.png" image2="https://i.imgur.com/69WJwc1.png"%}
 
-### ​7th-8th Place- AndyTsang: $43
+### ​7th-8th Place- {#AndyTsang}: $43
 
 {% include twoimages.html image1="https://i.imgur.com/FusLMF6.png" image2="https://i.imgur.com/3QdQdPp.png"%}
 

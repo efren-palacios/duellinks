@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Joey Wheeler
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Joey Wheeler
@@ -71,7 +71,7 @@ hide: true
 
 ---
 
-#### Skill-Less Level 30 turbo farm - created by Jadehex (last updated: 12/02/2017
+#### Skill-Less Level 30 turbo farm - created by {#Jadehex} (last updated: 12/02/2017
 
 [deck](Red-Eyes Wyvern; Red-Eyes Wyvern; Mystical Beast of Serket; Homunculus the Alchemic Being; Homunculus the Alchemic Being; Homunculus the Alchemic Being; Gravekeeper's Vassal; Union Attack; Union Attack; Temple of the Kings; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Blue-Eyes Ultimate Dragon)
 

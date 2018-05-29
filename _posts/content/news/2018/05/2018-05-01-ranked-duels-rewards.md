@@ -31,58 +31,73 @@ As well as old own event rewards:
 
 #### {Dodger Dragon}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- Trash!
+**{#Xanxus}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- More of an Auto-Duel Deck card than meta, so pretty bad.
+> Trash!
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
-- Can dodge {Ultimate Providence} and {Divine Wrath}, but this card takes away your Normal Summon. It's just another 1900 ATK Dragon beater with a low graded effect. Cannot see this being good in competitive play.
+**{#3K All Day}** says:
 
-**[Glading](/top-player-council/Glading/)** says:
-- Try {Hey, Trunade!} instead?
+> More of an Auto-Duel Deck card than meta, so pretty bad.
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
-- Very limited uses, it's an extremely niche card that likely won't see any competitive play.
+**{#SelectMaple}** says:
+
+> Can dodge {Ultimate Providence} and {Divine Wrath}, but this card takes away your Normal Summon. It's just another 1900 ATK Dragon beater with a low graded effect. Cannot see this being good in competitive play.
+
+**{#Glading}** says:
+
+> Try {Hey, Trunade!} instead?
+
+**{#BuiltToTilt}** says:
+
+> Very limited uses, it's an extremely niche card that likely won't see any competitive play.
 
 ---
 
 #### {Big Burn}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- Trash, but maybe future potential as a Side Deck card.
+**{#Xanxus}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- Interesting card, shows potential. It may be a good Side Deck card. 
+> Trash, but maybe future potential as a Side Deck card.
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
-- I would use {Different Dimension Ground} or {Crevice Into The Different Dimension} over {Big Burn}.
+**{#3K All Day}** says:
 
-**[Glading](/top-player-council/Glading/)** says:
-- it is a good Side Deck card against [Archfiends](/tier-list/deck-types/archfiends/) right now and it has potential for future metas.
+> Interesting card, shows potential. It may be a good Side Deck card. 
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
-- This card is a nice Side Deck option against Graveyard oriented decks such as [Archfiends](/tier-list/deck-types/archfiends/) to counter cards like {Call of the Archfiend}. It has a niche over cards like {Foolish Return} and {Disappear}, as it banishes all monsters from the Graveyard making all other revival cards in the deck useless.
+**{#SelectMaple}** says:
+
+> I would use {Different Dimension Ground} or {Crevice Into The Different Dimension} over {Big Burn}.
+
+**{#Glading}** says:
+
+> it is a good Side Deck card against [Archfiends](/tier-list/deck-types/archfiends/) right now and it has potential for future metas.
+
+**{#BuiltToTilt}** says:
+
+> This card is a nice Side Deck option against Graveyard oriented decks such as [Archfiends](/tier-list/deck-types/archfiends/) to counter cards like {Call of the Archfiend}. It has a niche over cards like {Foolish Return} and {Disappear}, as it banishes all monsters from the Graveyard making all other revival cards in the deck useless.
 
 ---
 
 #### {Cold Feet}
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- Trash, but nice artwork.
+**{#Xanxus}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- OMEGALUL 🚮
+> Trash, but nice artwork.
 
-**[SelectMaple](/top-player-council/SelectMaple/)** says:
-- Trash!
+**{#3K All Day}** says:
 
-**[Glading](/top-player-council/Glading/)** says:
-- The perfect card for Guns to make a video.
+> OMEGALUL 🚮
 
-**[BuilttoTilt](/top-player-council/BuilttoTilt/)** says:
-- Pretty God damn useless!
+**{#SelectMaple}** says:
+
+> Trash!
+
+**{#Glading}** says:
+
+> The perfect card for Guns to make a video.
+
+**{#BuiltToTilt}** says:
+
+> Pretty God damn useless!
 
 ### Ranked Duels Ticket Rewards
 

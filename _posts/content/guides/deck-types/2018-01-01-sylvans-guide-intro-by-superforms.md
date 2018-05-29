@@ -169,4 +169,5 @@ Finally, although this video shows off the {Magical Merchant} build, it is anoth
 
 <br>
 
-{% include youtube-video.html url='https://youtu.be/ZHjgD2mxQUY' %}
+{% include youtube-video.html url='https://youtu.be/ZHjgD2mxQUY' %}  
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

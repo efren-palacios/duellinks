@@ -59,4 +59,3 @@ Snipe Hunter is a control deck that evolved/shares a lot of similarities with Wa
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

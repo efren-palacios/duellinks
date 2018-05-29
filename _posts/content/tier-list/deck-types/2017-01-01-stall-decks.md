@@ -55,4 +55,3 @@ The deck is self-explanatory. The idea is to delay the game as long as you can t
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

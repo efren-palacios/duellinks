@@ -1,8 +1,9 @@
 ---
 layout: blog
-title: "Tekumse's Practice Tourney #6 Report"
+title: "Tekumse's Practice Tourney #6"
 author: Yami Hammy
 category: tournament
+sub-category: report
 tournament: "Tekumse's Practice Tourney"
 number: 6
 image: /img/logos/generic-tournament.jpg
@@ -11,7 +12,6 @@ comments: true
 description: This is the report for the sixth Practice Tourney hosted by Tekumse, check out the top 4 players and their decks here!
 keywords: duel links, competitive, tournament, community, 
 permalink: /tournaments/tekumse-practice-tourney/6/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}

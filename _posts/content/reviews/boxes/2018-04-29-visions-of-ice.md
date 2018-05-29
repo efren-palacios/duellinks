@@ -30,7 +30,7 @@ permalink: /box-reviews/visions-of-ice/
 
 ---
 
-This is the 9th Main Box, it was released on May 1, 2018. The release of this Box created the following Deck type:
+This is the 9th Main Box, it was released on May 1st, 2018. The release of this Box created the following Deck type:
 {% include deck-type-list.html deck-types='spellbooks' %}  
 
 <br>
@@ -61,22 +61,25 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "After testing the new Box, what do you believe will have an impact on the meta?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Spellbooks will definitely have an impact on the meta. I said Spellbooks will become a top tier deck and I was correct about that, although was wrong about the boss Monsters not being good. After testing, I found that {Reaper of Prophecy} and {Prophecy Destroyer} synergize well with the {That Grass Looks Greener} build as that is the build most are going for.
+> Spellbooks will definitely have an impact on the meta. I said Spellbooks will become a top tier deck and I was correct about that, although was wrong about the boss Monsters not being good. After testing, I found that {Reaper of Prophecy} and {Prophecy Destroyer} synergize well with the {That Grass Looks Greener} build as that is the build most are going for.
 
-**[Whybona](/top-player-council/whybona/)** says:
-- Only Spellbooks. It seems like the 30 card version with {That Grass Looks Greener} is the best way to play it right now but the Deck does have some clear weaknesses. I think it will struggle in Side Deck tournaments and a lot against [Masked Heroes](/tier-list/deck-types/masked-heroes/) as people learn to play against it. However, if the Deck opens with a good That Grass Looks Greener play it is incredibly hard for any Deck to beat it.
+**{#Whybona}** says:
 
-**[Kaki](/top-player-council/kaki/)** says:
-- Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
+> Only Spellbooks. It seems like the 30 card version with {That Grass Looks Greener} is the best way to play it right now but the Deck does have some clear weaknesses. I think it will struggle in Side Deck tournaments and a lot against [Masked Heroes](/tier-list/deck-types/masked-heroes/) as people learn to play against it. However, if the Deck opens with a good That Grass Looks Greener play it is incredibly hard for any Deck to beat it.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- Spellbooks will 100% be at least tier 3, maybe tier 2. {Treacherous Trap Hole} is a card that anyone can plug in and has been having a ton of success in [Sylvans](/tier-list/deck-types/sylvans/) and [Masked Heroes](/tier-list/deck-types/masked-heroes/). The rest in my opinion is either not discovered yet or won't have any impact.
+**{#Kaki}** says:
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- I agree with my first impressions.
+> Spellbooks are super strong. The Deck will be tier 1, everything else is not releavent for the meta except {Treacherous Trap Hole} which is good because you can play it in Spellbooks and [Masked Heroes](/tier-list/deck-types/masked-heroes/).
+
+**{#3K All Day}** says:
+
+> Spellbooks will 100% be at least tier 3, maybe tier 2. {Treacherous Trap Hole} is a card that anyone can plug in and has been having a ton of success in [Sylvans](/tier-list/deck-types/sylvans/) and [Masked Heroes](/tier-list/deck-types/masked-heroes/). The rest in my opinion is either not discovered yet or won't have any impact.
+
+**{#MiguelJoker}** says:
+
+> I agree with my first impressions.
 
 
 ---
@@ -89,23 +92,27 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "What are your first impressions of Spellbooks/Prophecy?"
 
-<br>
+**{#Machdragon}** says:
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- They're missing some crucial cards that would make Spellbooks tier 1. However, {Spellbook of Secrets}, {Spellbook of Power} and {Spellbook of Fate} are a nice addition to Spellcaster Decks.
+> They're missing some crucial cards that would make Spellbooks tier 1. However, {Spellbook of Secrets}, {Spellbook of Power} and {Spellbook of Fate} are a nice addition to Spellcaster Decks.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- They will be tier 1 as you can activate {Spellbook of Fate} turn 1 against {Sylvan Komushroomo}, turn 1 versus [Masked Heroes](/tier-list/deck-types/masked-heroes/) ({Mask Change}) since it doesn't target and against [Geargias](/tier-list/deck-types/geargias/) when then activate {Ties of the Brethren} you put their Monster in face-down Defense position.
+**{#MiguelJoker}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Very strong engine using {Spellbook of Secrets} and {Spellbook Magician of Prophecy} to search for your Spellbook cards. 
-- The Prophecy Monsters such as {Prophecy Destroyer} and {Justice of Prophecy} are mediocre at best. There aren't any great boss Monsters but potentially other boss Monsters can be mixed in such as {Dark Magician} or {Endymion, the Master Magician}.
+> They will be tier 1 as you can activate {Spellbook of Fate} turn 1 against {Sylvan Komushroomo}, turn 1 versus [Masked Heroes](/tier-list/deck-types/masked-heroes/) ({Mask Change}) since it doesn't target and against [Geargias](/tier-list/deck-types/geargias/) when then activate {Ties of the Brethren} you put their Monster in face-down Defense position.
 
-**[Kaki](/top-player-council/kaki/)** says:
-- It's a really good engine. {Spellbook of Fate} is a powerful card and a great counter to [Sylvans](/tier-list/deck-types/sylvans/) or [Geargias](/tier-list/deck-types/geargias/).
+**{#SelectMaple}** says:
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- It's a lot to read up and I'm not very familiar with the archetype, it seems like it will have some crazy potential with {Endymion, the Master Magician}.
+> Very strong engine using {Spellbook of Secrets} and {Spellbook Magician of Prophecy} to search for your Spellbook cards. 
+
+> The Prophecy Monsters such as {Prophecy Destroyer} and {Justice of Prophecy} are mediocre at best. There aren't any great boss Monsters but potentially other boss Monsters can be mixed in such as {Dark Magician} or {Endymion, the Master Magician}.
+
+**{#Kaki}** says:
+
+> It's a really good engine. {Spellbook of Fate} is a powerful card and a great counter to [Sylvans](/tier-list/deck-types/sylvans/) or [Geargias](/tier-list/deck-types/geargias/).
+
+**{#3K All Day}** says:
+
+> It's a lot to read up and I'm not very familiar with the archetype, it seems like it will have some crazy potential with {Endymion, the Master Magician}.
 
 ---
 
@@ -113,24 +120,29 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "What are your first impressions of Gustos?"
 
-<br>
+**{#Machdragon}** says:
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Cute little Psychic engine, boosts playability, but won’t be a top tier Deck anytime soon.
+> Cute little Psychic engine, boosts playability, but won’t be a top tier Deck anytime soon.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- They're not good enough.
+**{#MiguelJoker}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- They provide more Psychic support and can use {Psychokinesis} and {Serene Psychic Witch}. 
-- They seem like a Beatdown Deck, with high attack Monsters like {Reeze, Whirlwind of Gusto} and {Caam, Serenity of Gusto}.
-- {Contact with Gusto} is a nice removal card along with {Quill Pen of Gulldos} which is already in the game.
+> They're not good enough.
 
-**[Kaki](/top-player-council/kaki/)** says:
-- It is too slow for the meta. 
+**{#SelectMaple}** says:
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- They're pretty bad. It's a sort of upgraded Naturia Deck, it won't make an impact.
+> They provide more Psychic support and can use {Psychokinesis} and {Serene Psychic Witch}. 
+
+> They seem like a Beatdown Deck, with high attack Monsters like {Reeze, Whirlwind of Gusto} and {Caam, Serenity of Gusto}.
+
+> {Contact with Gusto} is a nice removal card along with {Quill Pen of Gulldos} which is already in the game.
+
+**{#Kaki}** says:
+
+> It is too slow for the meta. 
+
+**{#3K All Day}** says:
+
+> They're pretty bad. It's a sort of upgraded Naturia Deck, it won't make an impact.
 
 ---
 
@@ -138,22 +150,25 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "Which cards do you think are absolutely needed?"
 
-<br>
+**{#Machdragon}** says:
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- {Treacherous Trap Hole} will be definitely see play in [Masked Heroes](/tier-list/deck-types/masked-heroes/) and Decks that play few Traps such as [Sylvans](/tier-list/deck-types/sylvans/). It's an amazing Trap card that can destroy 2 of your opponent’s Monsters.
+> {Treacherous Trap Hole} will be definitely see play in [Masked Heroes](/tier-list/deck-types/masked-heroes/) and Decks that play few Traps such as [Sylvans](/tier-list/deck-types/sylvans/). It's an amazing Trap card that can destroy 2 of your opponent’s Monsters.
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- {Treacherous Trap Hole} and Spellbooks.
+**{#MiguelJoker}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- {Spellbook Magician of Prophecy} is a must have searcher for Spellbooks if they become top tier and the same for {Spellbook of Secrets}.
+> {Treacherous Trap Hole} and Spellbooks.
 
-**[Kaki](/top-player-council/kaki/)** says:
-- {Treacherous Trap Hole} will be good in Spellbooks, [Cyber Angels](/tier-list/deck-types/cyber-angels/) and [Sylvans](/tier-list/deck-types/sylvans/).
+**{#SelectMaple}** says:
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- {Treacherous Trap Hole} is overpowered - [Sylvans](/tier-list/deck-types/sylvans/) just went from tier 1 to tier 0 if they're not already there. It will 100% see use.
+> {Spellbook Magician of Prophecy} is a must have searcher for Spellbooks if they become top tier and the same for {Spellbook of Secrets}.
+
+**{#Kaki}** says:
+
+> {Treacherous Trap Hole} will be good in Spellbooks, [Cyber Angels](/tier-list/deck-types/cyber-angels/) and [Sylvans](/tier-list/deck-types/sylvans/).
+
+**{#3K All Day}** says:
+
+> {Treacherous Trap Hole} is overpowered - [Sylvans](/tier-list/deck-types/sylvans/) just went from tier 1 to tier 0 if they're not already there. It will 100% see use.
 
 ---
 
@@ -161,22 +176,25 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "Which cards do you think are maybe needed in some Decks?"
 
-<br>
+**{#Machdragon}** says:
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- {Spellbook of Fate} is a very powerful Quick-Play Spell that allows you to disrupt your opponent, it may bring some Spellcaster Decks back onto the [Tier List](/tier-list/).
+> {Spellbook of Fate} is a very powerful Quick-Play Spell that allows you to disrupt your opponent, it may bring some Spellcaster Decks back onto the [Tier List](/tier-list/).
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- Definitely Spellbooks, {Treacherous Trap Hole} and perhaps {Tribute Burial} too.
+**{#MiguelJoker}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- {Treacherous Trap Hole} is a great removal card. The drawback is that it will be hard to pull off if you play other Traps but if you don't play other Traps and only one Treacherous Trap Hole you won't see it as often. 
+> Definitely Spellbooks, {Treacherous Trap Hole} and perhaps {Tribute Burial} too.
 
-**[Kaki](/top-player-council/kaki/)** says:
-- {Tribute Burial} will maybe provide support for Tribute Decks.
+**{#SelectMaple}** says:
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- {Blizzard Princess} gives you a free turn to do whatever you want and still allows you to to activate your own Spell/Trap cards, like "{Enemy Controller} take" or even OTK cards.
+> {Treacherous Trap Hole} is a great removal card. The drawback is that it will be hard to pull off if you play other Traps but if you don't play other Traps and only one Treacherous Trap Hole you won't see it as often. 
+
+**{#Kaki}** says:
+
+> {Tribute Burial} will maybe provide support for Tribute Decks.
+
+**{#3K All Day}** says:
+
+> {Blizzard Princess} gives you a free turn to do whatever you want and still allows you to to activate your own Spell/Trap cards, like "{Enemy Controller} take" or even OTK cards.
 
 ---
 
@@ -184,25 +202,31 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "Which cards do you think have future potential?"
 
-<br>
+**{#Machdragon}** says:
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- {Dragon Ice} works great as a wall and can be summoned from the hand or Graveyard. 
-- {The Tricky} is also a nice generic Monster with 2000 ATK and may see play before {Cyber Dragon} is released in Duel Links.
+> {Dragon Ice} works great as a wall and can be summoned from the hand or Graveyard. 
 
-**[MiguelJoker](/top-player-council/migueljoker/)** says:
-- Spellbooks and {Treacherous Trap Hole}.
+> {The Tricky} is also a nice generic Monster with 2000 ATK and may see play before {Cyber Dragon} is released in Duel Links.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- {The Tricky} has a nice 2000 ATK and can Special Summon itself at the cost of one card. It can work with cards such as {Treeborn Frog} and {The Fabled Ganashia}. It potentially be in a Monarch Deck.
-- {Tribute Burial} is a good card that can banish cards from your opponents Graveyard such as {Rose Lover}, {Destiny HERO - Celestial} and {Archfiend Emperor, the First Lord of Horror}.
+**{#MiguelJoker}** says:
 
-**[Kaki](/top-player-council/kaki/)** says:
-- {Dragon Ice} will be good with [Mermails](http://yugioh.wikia.com/wiki/Mermail) if they are released someday.
+> Spellbooks and {Treacherous Trap Hole}.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- {White Night Dragon} will boost Dragon Decks but it doesn't work against {Sea Stealth Attack}.
-- {Tribute Burial} allows you to banish one card per Graveyard, this has a lot of utility in various Decks. [Red-Eyes Zombies](/tier-list/deck-types/red-eyes-zombies/) being one and {Black Luster Soldier - Sacred Soldier} being the other as it synergises by banishing! This could open some doors.
+**{#SelectMaple}** says:
+
+> {The Tricky} has a nice 2000 ATK and can Special Summon itself at the cost of one card. It can work with cards such as {Treeborn Frog} and {The Fabled Ganashia}. It potentially be in a Monarch Deck.
+
+> {Tribute Burial} is a good card that can banish cards from your opponents Graveyard such as {Rose Lover}, {Destiny HERO - Celestial} and {Archfiend Emperor, the First Lord of Horror}.
+
+**{#Kaki}** says:
+
+> {Dragon Ice} will be good with [Mermails](http://yugioh.wikia.com/wiki/Mermail) if they are released someday.
+
+**{#3K All Day}** says:
+
+> {White Night Dragon} will boost Dragon Decks but it doesn't work against {Sea Stealth Attack}.
+
+> {Tribute Burial} allows you to banish one card per Graveyard, this has a lot of utility in various Decks. [Red-Eyes Zombies](/tier-list/deck-types/red-eyes-zombies/) being one and {Black Luster Soldier - Sacred Soldier} being the other as it synergises by banishing! This could open some doors.
 
 ---
 
@@ -210,15 +234,13 @@ This is the 9th Main Box, it was released on May 1, 2018. The release of this Bo
 
 #### "Is there anything else you'd like to say?"
 
-<br>
+**{#Kaki}** says:
 
-**[Kaki](/top-player-council/kaki/)** says:
-- You should get {Treacherous Trap Hole} it's a really good staple, the rest are not needed.
+> You should get {Treacherous Trap Hole} it's a really good staple, the rest are not needed.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- I'm planning to clear this box twice and with the sales I would like three copies of {Tribute Burial}, {Blizzard Princess}, {Treacherous Trap Hole} and the Spellbooks.
+**{#3K All Day}** says:
 
-<br>
+> I'm planning to clear this box twice and with the sales I would like three copies of {Tribute Burial}, {Blizzard Princess}, {Treacherous Trap Hole} and the Spellbooks.
 
 <a name="videos"></a>
 

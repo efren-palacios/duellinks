@@ -69,4 +69,3 @@ The general strategy of the deck is to use your Gladiator Beast monsters in batt
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

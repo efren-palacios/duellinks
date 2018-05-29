@@ -9,12 +9,12 @@ comments: false
 description: In depth information about Winged Dragon of Ra decks.
 deck-type: winged-dragon-of-ra
 permalink: /tier-list/winged-dragon-of-ra/
+hidden: true
 ---
 
-{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
-{% include guides/guide.html guide=guide %}
 
-{% include decktype_decks.html deckType=page.deck-type %}
 
-{% include top-decks-season-archive.html %}
+
+
+

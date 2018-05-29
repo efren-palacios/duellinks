@@ -1,11 +1,10 @@
 ---
 layout: blog
 title: In-Game Updates - February
-author: Yami Hammy & Jonesy9027
+author: Yami Hammy; Jonesy9027
 image: /img/content/global/news-update-thumbnail.jpg
 category: news
 date: 2018-02-23
-pinned: false
 comments: true
 description: A breakdown of newly released information and updates for you to look forward too.  
 keywords: news, Syrus, Syrus Trusedale, Jesse, Jesse Anderson, legendary duelists, D.D. Tower, Duel-A-Thon, upcoming updates, KC Cup, nerf, Konami 
@@ -15,7 +14,7 @@ permalink: /news/february-2018/in-game-updates/
 {% include heading.html title=page.title %}
 
 ## 23rd February Update
-#### By Yami Hammy
+#### By {#Yami Hammy}
 
 From the recent in-game news update, March is packed full of events and pending updates. There is no need to check your notifications, we have it all here!
 
@@ -30,7 +29,7 @@ March has so many new events and new Legendary Duelists. Be sure to check out th
 ---
 
 ## 1st February Update
-#### By Jonesy9027
+#### By {#Jonesy9027}
   
 ### Teaser Updates!
 On January 29th, Konami released their list of upcoming events. Included are the KC Cup announcement, the Chazz-a-thon, the return of Dr. Vellian Crowler, a teaser for a new Legendary Character, and much more!

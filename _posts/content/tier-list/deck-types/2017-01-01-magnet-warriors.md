@@ -60,4 +60,3 @@ Magnet Warriors is an archetype that focuses on milling your rock monsters to th
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

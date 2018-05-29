@@ -42,7 +42,7 @@ hide: true
 
 ### Farm Decks
 
-#### Level 40 Labyrinth Builder - created by Jadehex (last updated: 12/05/2017
+#### Level 40 Labyrinth Builder - created by {#Jadehex} (last updated: 12/05/2017
 (7300 Base [Duel Assessment](/farming/duel-assessment-score/))
 
 [deck:Labyrinth Builder](The Fiend Megacyber; Gravekeeper's Vassal; A Cat of Ill Omen; A Cat of Ill Omen; Union Attack; Union Attack; Shield & Sword; Secret Pass to the Treasures; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Legacy of Yata-Garasu; Burst Rebirth; Burst Rebirth; Burst Rebirth; Jar of Greed; Jar of Greed; Jar of Greed; Destruction Jammer; Destruction Jammer; Destruction Jammer)
@@ -73,7 +73,7 @@ hide: true
 
 ---
 
-#### Speed Farm Level 10 - created by Jadehex (last updated: 12/02/2017
+#### Speed Farm Level 10 - created by {#Jadehex} (last updated: 12/02/2017
 (7600 Base [Duel Assessment](/farming/duel-assessment-score/))
 
 [deck](Mystical Beast of Serket; Gravekeeper's Vassal; Gil Garth; Gil Garth; Gil Garth; Battle Ox; Battle Ox; Battle Ox; Union Attack; Union Attack; Temple of the Kings; Common Charity; Common Charity; Common Charity; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed; Blue-Eyes Ultimate Dragon; Master of Oz; Arcana Knight Joker; Meteor B. Dragon)

@@ -5,7 +5,7 @@ author: AUTHOR_HERE
 category: tournament
 tournament: Meta Weekly
 number: NUMBER_HERE
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-01-31
 comments: true
 description: The Meta Weekly NUMBER_HERE tournament report. Check the prize winners and their decks here.

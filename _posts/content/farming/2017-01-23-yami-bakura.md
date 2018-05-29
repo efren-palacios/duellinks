@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Yami Bakura
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Yami Bakura
@@ -53,7 +53,7 @@ hide: true
 
 ---
 
-***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
+***Level 40 Farm - created by {#Jadehex} (Last Updated: 04/17/18)***
 
 [deck:Labyrinth Builder](Anteatereatingant; Gravekeeper's Vassal; Forbidden Chalice; Forbidden Chalice; Union Attack; Union Attack; Gravity Axe - Grarl; Gravity Axe - Grarl; Gravity Axe - Grarl; Shard of Greed; Shard of Greed; Twister; Twister; Twister; Shield & Sword; De-Spell; De-Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell; Cursed Seal of the Forbidden Spell)
 
@@ -85,7 +85,7 @@ hide: true
 * {Forbidden Chalice}/{Gravity Axe - Grarl} > {Iron Blacksmith Kotetsu}
 * {Shard of Greed} > {Pot of Benevolence} or other draw cards  
 
-***Level 40 Farm - created by Jadehex (Last Updated: 04/17/18)***
+***Level 40 Farm - created by {#Jadehex} (Last Updated: 04/17/18)***
 
 [deck:Destiny Draw](The Winged Dragon of Ra; Golden Ladybug; Golden Ladybug; Golden Ladybug; Cosmic Compass; Emergency Provisions; Double Summon; Dian Keto the Cure Master;Dian Keto the Cure Master; Dian Keto the Cure Master; Rain of Mercy; Rain of Mercy; De-Spell; Jam Breeding Machine; Jam Breeding Machine; Jam Breeding Machine; The Regulation of Tribe; Numinous Healer; Numinous Healer; Numinous Healer)
 

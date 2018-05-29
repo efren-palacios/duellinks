@@ -55,4 +55,3 @@ Dark Worlds is an archtype that mainly focuses on discarding monsters out of you
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

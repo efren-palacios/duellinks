@@ -3,6 +3,7 @@ layout: blog
 title: "Anytime Tournament Report"
 author: Yami Hammy
 category: tournament
+sub-category: report
 tournament: Anytime Tournament
 image: /img/logos/generic-tournament.jpg
 date: 2018-05-14 21:00:00 +0100
@@ -17,7 +18,7 @@ permalink: /tournaments/anytime-tournament/may-2018/report/
 ### Information
 - This tournament takes place **any time** in the Discord, 1st place wins $14 + 1 Meta Point and 2nd place wins 1 Meta Ticket!
 - You can join the lobby by typing **!enterticket** anywhere in the Discord (while you have at least 1 Meta Ticket). 
-- If you win a tournament you **must** message Gia (Gia Joestar#7730) your [PayPal](https://paypal.com/) address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
+- If you win a tournament you **must** message {#GiaJoestar} (Gia Joestar#7730) your [PayPal](https://paypal.com/) address to receive payment. If you'd like to receive Meta Tickets as your prize please specify!
 
 ### Format
 - 8 Players
@@ -70,7 +71,7 @@ Once you've bought a Meta Ticket(s), post screenshot proof in #payment-proof on 
 
 ---
 
-##### [SkillShot](/top-player-council/skillshot/)
+##### {#SkillShot}
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Mask Change; Mask Change; Mask Change; Destiny Draw; Enemy Controller; Enemy Controller; Polymerization; Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -91,7 +92,7 @@ That's now: [Sylvans](/tier-list/deck-types/sylvans/), [Aliens](/tier-list/deck-
 
 #### May 10th
 
-##### [SkillShot](/top-player-council/skillshot/)
+##### {#SkillShot}
 [deck:Restart](Chaos Hunter; Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Cosmic Cyclone; Cosmic Cyclone; Mask Change; Mask Change; Mask Change; Forbidden Chalice; Enemy Controller; Enemy Controller; Polymerization; Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -152,7 +153,7 @@ A thank you to the [Top Player Council](/top-player-council/) for [making a tota
 
 ---
 
-##### [Cpt. Insano](/authors/insano/)
+##### {#Cpt. Insano}
 Standard [REZ](/tier-list/deck-types/red-eyes-zombies/) Deck - I'll take prize in tickets please!
 
 [deck:Duel, standby!](Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Destiny HERO - Drilldark; Cosmic Cyclone; Cosmic Cyclone; Cosmic Cyclone; Into the Void; Into the Void; Into the Void; Back-Up Rider; Back-Up Rider; Mask Change; Mask Change; Mask Change; Hey, Trunade!; Hey, Trunade!; Fire Formation - Gyokkou)

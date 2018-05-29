@@ -16,7 +16,7 @@ permalink: /events/march-2018/superb-tea/
 
 ![Banner](/img/content/news/2018/03/datamined-discoveries/banner-tea-event.png)
 
-**Last updated March 30th - Added Duel Awards winners**
+##### Updated March 30, 2018 - [Added Duel Awards Winners](#awards)
 
 - [Duel Awards](#awards)
 - [Update](#update)
@@ -89,22 +89,27 @@ The event has been extended from 28th March and will now conclude 30th March. If
 
 ### Top Player Council Thoughts
 
-#### **[Superforms](/authors/superforms/)** says: 
+#### **{#Superforms}** says: 
 
-- {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a [REZ](/tier-list/red-eyes-zombies/), for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter Traps. This is incredibly important because it gives you a way to mitigate the effects of going second. The LP gain is also not insignificant, giving you more fuel for {Seven Tools of the Bandit} and {Solemn Scolding}.
-- {Divine Punishment} (SR): Negates a ton of stuff while the Field Spell ({The Sanctuary in the Sky}) is up. A very versatile negation card with no discard cost. Divine Punishment notably cannot stop already face-up backrow ({Sea Stealth Attack}, {Beast Rising}, {Call of the Archfiend}) nor can it stop normal summons (like Solemn Scolding can). 
-- {Harvest Angel of Wisdom} (SR): Could see use in more defensive Counter Fairy decks that run less Counter Traps and take advantage of Harvest’s recycling effect.
-- {Zeradias, Herald of Heaven} (SR): {Elemental HERO Captain Gold} for Counter Fairies. Searches the Field Spell ({The Sanctuary in the Sky}), adding consistency, and extra copies work as big beaters.
-- {Radiant Jeral} (SR): Decent wall and boosts your LP if discarded for a Counter Trap cost with Sanctuary on the field, but pretty terrible relative to the other cards.
-- {Photon Booster} (R): The first thing that comes to mind is the {Ra's Disciple} OTK deck, although there will likely be other uses.
+> {Meltiel, Sage of the Sky} (UR): The core monster of Counter Fairies. Counter Traps are a tricky thing to slide into a deck in general because they can’t always deal with established threats (like a [REZ](/tier-list/red-eyes-zombies/), for example). Meltiel gives you extra ways to deal with things that don’t get directly destroyed by your Counter Traps. This is incredibly important because it gives you a way to mitigate the effects of going second. The LP gain is also not insignificant, giving you more fuel for {Seven Tools of the Bandit} and {Solemn Scolding}.
 
-Older cards that work well with these include {Bountiful Artemis} and {Cards from the Sky}. Also note that {The Sanctuary in the Sky} is an R Ticket reward from Ranked Duels, so that may be a worthwhile use for your R Tickets this season!
+> {Divine Punishment} (SR): Negates a ton of stuff while the Field Spell ({The Sanctuary in the Sky}) is up. A very versatile negation card with no discard cost. Divine Punishment notably cannot stop already face-up backrow ({Sea Stealth Attack}, {Beast Rising}, {Call of the Archfiend}) nor can it stop normal summons (like Solemn Scolding can). 
+
+> {Harvest Angel of Wisdom} (SR): Could see use in more defensive Counter Fairy decks that run less Counter Traps and take advantage of Harvest’s recycling effect.
+
+> {Zeradias, Herald of Heaven} (SR): {Elemental HERO Captain Gold} for Counter Fairies. Searches the Field Spell ({The Sanctuary in the Sky}), adding consistency, and extra copies work as big beaters.
+
+> {Radiant Jeral} (SR): Decent wall and boosts your LP if discarded for a Counter Trap cost with Sanctuary on the field, but pretty terrible relative to the other cards.
+
+> {Photon Booster} (R): The first thing that comes to mind is the {Ra's Disciple} OTK deck, although there will likely be other uses.
+
+> Older cards that work well with these include {Bountiful Artemis} and {Cards from the Sky}. Also note that {The Sanctuary in the Sky} is an R Ticket reward from Ranked Duels, so that may be a worthwhile use for your R Tickets this season!
 
 ---
 
 ### Farm Deck
 
-#### Level 40 Farm - created by Jadehex (100% Winrate!)
+#### Level 40 Farm - created by {#Jadehex} (100% Winrate!)
 
 [deck:Elements Unite!](Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Caligo Claw Crow; Union Attack; Union Attack; Union Attack; Spiritualism; Shard of Greed; Shard of Greed; Shard of Greed; Secret Pass to the Treasures; Legacy of Yata-Garasu; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping; Jar of Greed; Jar of Greed; Jar of Greed)   
 

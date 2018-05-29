@@ -17,7 +17,7 @@ permalink: /box-reviews/crusaders-battlegrounds/
 [w100]
 ![](/img/content/box-reviews/crusaders-battlegrounds/banner.jpg)
 
-##### Updated May 20, 2018 - Added Super Vegito's Responses
+##### Updated May 20, 2018 - Added {Super Vegito}'s Responses
 
 - [Card List](#card-list)
 - [Top Player Council Thoughts](#tpc)
@@ -63,19 +63,21 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "What are your first impressions of Noble Knights?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Noble Knights have a lot of potential. Being able to flood the field, destroy your opponents cards and easily search and recycle your equip cards, I believe this deck can be a top tier deck. The drawback to this deck is only having 3 zones for your equip cards and being a Warrior type deck, being vulnerable to {Warrior Elimination}. 
+> Noble Knights have a lot of potential. Being able to flood the field, destroy your opponents cards and easily search and recycle your equip cards, I believe this deck can be a top tier deck. The drawback to this deck is only having 3 zones for your equip cards and being a Warrior type deck, being vulnerable to {Warrior Elimination}. 
 
-**[Glading](/top-player-council/glading/)** says:
-- They will make a new meta.
+**{#Glading}** says:
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- Noble Knights in TCG were a gimmicky strategy built around surrounding a single monster with equips that protected it from targeting, as well as destruction. But in a format full of {Spellbook of Fate} and {Amazoness Onslaught}, I think Noble Knights came at a bad time.
+> They will make a new meta.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- I think this deck has some potential. Being able to destroy set cards with {Noble Arms - Arfeudutyr} and swarm the field with the effect of {Noble Knight Medraut} will definitely give [Sylvans](/tier-list/deck-types/sylvans/) some trouble. {Warrior Elimination} will be a setback for this deck which lacks recovery.
+**{#AndyTsang}** says:
+
+> Noble Knights in TCG were a gimmicky strategy built around surrounding a single monster with equips that protected it from targeting, as well as destruction. But in a format full of {Spellbook of Fate} and {Amazoness Onslaught}, I think Noble Knights came at a bad time.
+
+**{#Super Vegito}** says:
+
+> I think this deck has some potential. Being able to destroy set cards with {Noble Arms - Arfeudutyr} and swarm the field with the effect of {Noble Knight Medraut} will definitely give [Sylvans](/tier-list/deck-types/sylvans/) some trouble. {Warrior Elimination} will be a setback for this deck which lacks recovery.
 
 
 ---
@@ -84,19 +86,21 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "What are your first impressions of Six Samurais?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Another deck vulnerable to {Warrior Elimination}, Six Samurais get more support in this upcoming box. With the release of {Grandmaster of the Six Samurai}, the deck is a lot faster than before and can create new combos with cards like {Cunning of the Six Samurai} and {Secret Six Samurai - Doji}. I believe this deck has a ton of potential and could possibly make it to the tier list.
+> Another deck vulnerable to {Warrior Elimination}, Six Samurais get more support in this upcoming box. With the release of {Grandmaster of the Six Samurai}, the deck is a lot faster than before and can create new combos with cards like {Cunning of the Six Samurai} and {Secret Six Samurai - Doji}. I believe this deck has a ton of potential and could possibly make it to the tier list.
 
-**[Glading](/top-player-council/glading/)** says:
-- I think it will be a high potential deck.
+**{#Glading}** says:
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- {Grandmaster of the Six Samurai} is a godsend. {Great Shogun Shien} is great vs [Spellbooks](/tier-list/deck-types/spellbooks/). 
+> I think it will be a high potential deck.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- {Grandmaster of the Six Samurai} gives Six Samurias a huge boost. Allowing you to have a second monster on the field to activate your effects much faster. Also being able to banish your Samurai monsters in the graveyard to avoid one of your monsters from being destroyed by a card effect is helpful in this current meta.
+**{#AndyTsang}** says:
+
+> {Grandmaster of the Six Samurai} is a godsend. {Great Shogun Shien} is great vs [Spellbooks](/tier-list/deck-types/spellbooks/). 
+
+**{#Super Vegito}** says:
+
+> {Grandmaster of the Six Samurai} gives Six Samurias a huge boost. Allowing you to have a second monster on the field to activate your effects much faster. Also being able to banish your Samurai monsters in the graveyard to avoid one of your monsters from being destroyed by a card effect is helpful in this current meta.
 
 ---
 
@@ -104,16 +108,17 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "What are your first impressions of Bujins?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Bujins were first introduced in [Resonance of Contrast](/box-reviews/resonance-of-contrast/). The deck lacked very many support cards, but now with the upcoming new box, Bujins can possibly be a top tier deck. Possibly builds that could be playable are {That Grass Looks Greener}, getting as many Bujingi monsters to the grave for their effects or {Ties of the Brethren}, getting your {Bujin Yamato} out faster onto the field and flooding your field. 
+> Bujins were first introduced in [Resonance of Contrast](/box-reviews/resonance-of-contrast/). The deck lacked very many support cards, but now with the upcoming new box, Bujins can possibly be a top tier deck. Possibly builds that could be playable are {That Grass Looks Greener}, getting as many Bujingi monsters to the grave for their effects or {Ties of the Brethren}, getting your {Bujin Yamato} out faster onto the field and flooding your field. 
 
-**[Glading](/top-player-council/glading/)** says:
-- Trash!
+**{#Glading}** says:
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- Bujins with {Ties of the Brethren} may be a thing ({Bujin Yamato} + {Bujin Mikazuchi} + {Bujin Arasuda}). However, similar to Noble Knights the flaw with Bujins has always been non-targetting, non-destruction removal, as their main protection comes from {Bujingi Turtle} and {Bujingi Hare}.
+> Trash!
+
+**{#AndyTsang}** says:
+
+> Bujins with {Ties of the Brethren} may be a thing ({Bujin Yamato} + {Bujin Mikazuchi} + {Bujin Arasuda}). However, similar to Noble Knights the flaw with Bujins has always been non-targetting, non-destruction removal, as their main protection comes from {Bujingi Turtle} and {Bujingi Hare}.
 
 ---
 
@@ -121,16 +126,16 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "Which cards seem needed for a current top-tier deck?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- {Nobleman of Crossout}: A great tech or side deck card being able to slow down [Sylvans](/tier-list/deck-types/sylvans/) banishing their facedown {Sylvan Komushroomo}, {World Carrotweight Champion} or {Rose Lover}. Nobleman of Crossout doesn't just counter [Sylvans](/tier-list/deck-types/sylvans/), but also against any deck as it is a great removal card in general. 
+> {Nobleman of Crossout}: A great tech or side deck card being able to slow down [Sylvans](/tier-list/deck-types/sylvans/) banishing their facedown {Sylvan Komushroomo}, {World Carrotweight Champion} or {Rose Lover}. Nobleman of Crossout doesn't just counter [Sylvans](/tier-list/deck-types/sylvans/), but also against any deck as it is a great removal card in general. 
 
-**[Glading](/top-player-council/glading/)** says:
-- {Nobleman of Crossout}!
+**{#Glading}** says:
+> {Nobleman of Crossout}!
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- {Nobleman of Crossout}: A very useful card to have in your side deck for the [Sylvans](/tier-list/deck-types/sylvans/) matchup.
+**{#Super Vegito}** says:
+
+> {Nobleman of Crossout}: A very useful card to have in your side deck for the [Sylvans](/tier-list/deck-types/sylvans/) matchup.
 
 ---
 
@@ -138,14 +143,15 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "Which cards may be used in a current top-tier deck?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- {Special Hurricane}: Pretty nice side deck card as this meta is very special summoning heavy. Though the card is pretty situational and the cost could possibly hurt you. Nonetheless, this card could possibly be a top tier side deck card. 
-- {Xing Zhen Hu Replica}: The mix between {Xing Zhen Hu} and {Fire Formation - Gyokkou}. Xing Zhen Hu Replica is a good card to lock your opponents backrow. This card will most likely have more play than its original counterpart, the argument here is whether to play this or Fire Formation - Gyokkou. I personally would still play Gyokkou over Replica, but this could be more of a personal preference. 
+> {Special Hurricane}: Pretty nice side deck card as this meta is very special summoning heavy. Though the card is pretty situational and the cost could possibly hurt you. Nonetheless, this card could possibly be a top tier side deck card. 
 
-**[Glading](/top-player-council/glading/)** says:
-- {Special Hurricane} and {Pot of Acquisitiveness}.
+> {Xing Zhen Hu Replica}: The mix between {Xing Zhen Hu} and {Fire Formation - Gyokkou}. Xing Zhen Hu Replica is a good card to lock your opponents backrow. This card will most likely have more play than its original counterpart, the argument here is whether to play this or Fire Formation - Gyokkou. I personally would still play Gyokkou over Replica, but this could be more of a personal preference. 
+
+**{#Glading}** says:
+
+> {Special Hurricane} and {Pot of Acquisitiveness}.
 
 ---
 
@@ -153,13 +159,13 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "Which cards have significant future potential?"
 
-<br>
+**{#Glading}** says:
 
-**[Glading](/top-player-council/glading/)** says:
-- {D.D.R. - Different Dimension Reincarnation} and the Monarch cards.
+> {D.D.R. - Different Dimension Reincarnation} and the Monarch cards.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- Monarchs! 
+**{#Super Vegito}** says:
+
+> Monarchs! 
 
 ---
 
@@ -167,10 +173,9 @@ This is the 12th Main Box, it will be released on May 22, 2018.
 
 #### "Any other thoughts on the box?"
 
-<br>
+**{#Super Vegito}** says:
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- We didn't get enough Monarch support like we expected from this box but I think they can be somewhat competitive using {Paleozoic Canadia} and {Paleozoic Hallucigenia}. 
+> We didn't get enough Monarch support like we expected from this box but I think they can be somewhat competitive using {Paleozoic Canadia} and {Paleozoic Hallucigenia}. 
 
 ---
 

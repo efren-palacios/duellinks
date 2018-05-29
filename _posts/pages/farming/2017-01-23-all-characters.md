@@ -1,15 +1,14 @@
 ---
 layout: blog
+date: 2018-01-23
 title: How to Farm All Characters
 author: pll
-image: /img/pages/tier-list/thumbnadsdil.png
+image: /img/pages/farming/all-characters/thumbnail.png
 category: page
 comments: false
-date: 2018-01-23
 description: Here you'll find detailed guides on how to farm every DM and GX Gate Duelist to attain the maximum Duel Assessment and rewards!
 keywords: guide, in-depth guide
 permalink: /farming/all-characters/
-hide: true
 ---
 
 {% include heading.html title=page.title %}

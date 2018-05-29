@@ -1,11 +1,13 @@
 ---
 layout: blog
+date: 2018-01-10
 title: "Meta Weekly #2 Report"
 author: TOASTYKILLA
 category: tournament
+sub-category: report
 tournament: Meta Weekly
 number: 2
-image: /img/logos/meta-weekly.png
+image: /img/content/tournaments/meta-weekly/thumbnail.jpg
 date: 2018-01-10
 comments: true
 description: The Meta Weekly 2 tournament report. Check the prize winners and their decks here.
@@ -15,11 +17,12 @@ permalink: /tournaments/meta-weekly/2/report/
 
 {% include heading.html title=page.title author=page.author %}
 
-![](/img/logos/meta-weekly.png)
+[w75]
+![](/img/content/tournaments/meta-weekly/banner.png)
 
 ### Tournament 2 META LADDER 
 
-#### The Meta Weekly is one of Dkayed's new Tournament's that is held 4-5 times a month, once a week.
+#### The Meta Weekly is one of {#Dkayed}'s new Tournament's that is held 4-5 times a month, once a week.
 
 #### EVERY WEEK: Alternating between Tuesday 2pm EST and Wednesday 7pm
 
@@ -29,7 +32,7 @@ permalink: /tournaments/meta-weekly/2/report/
 
 ### How to Join?
 
-#### To be able to Join this small but fun Tournament, is by being a Twitch Subscriber, and buying a ticket that is purchasable on Dkayed's Discord.  (One Ticket can be purchased for $2, and be kept for as long as you like.)
+#### To be able to Join this small but fun Tournament, is by being a Twitch Subscriber, and buying a ticket that is purchasable on {#Dkayed}'s Discord.  (One Ticket can be purchased for $2, and be kept for as long as you like.)
 
 ----------
 

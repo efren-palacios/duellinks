@@ -147,6 +147,17 @@
     }
 }
 
+.btn-primary:disabled:hover
+{
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn:focus
+{
+    box-shadow: none;
+}
+
 /*.button-row
 {
     .btn-wrapper

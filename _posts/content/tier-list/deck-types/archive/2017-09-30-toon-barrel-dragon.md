@@ -9,12 +9,12 @@ date: 2017-09-30
 comments: false
 description: In depth information about Toon Barrel Dragon decks.
 permalink: /tier-list/toon-barrel-dragon/
+hidden: true
 ---
 
-{% assign guide = site.data.deck-types.pages['page.deck-type'] %}
 
-{% include guides/guide.html guide=guide %}
 
-{% include decktype_decks.html deckType=page.deck-type %}
 
-{% include top-decks-season-archive.html %}
+
+
+

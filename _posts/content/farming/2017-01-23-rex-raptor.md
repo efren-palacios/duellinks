@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Rex Raptor
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Rex Raptor
@@ -82,7 +82,7 @@ hide: true
 
 ---
 
-#### Level 40 Generic Cerberus Farm - created by Jadehex
+#### Level 40 Generic Cerberus Farm - created by {#Jadehex}
 (7100 Base [Duel Assessment](/farming/duel-assessment-score/)
 
 [deck:Draw Sense: LIGHT](Mythical Beast Cerberus; Riryoku; Gaia Power; Spell Power Grasp; Shard of Greed; Shard of Greed; Shard of Greed; Wonder Wand; Wonder Wand; Twister; Blustering Winds; Blustering Winds; Blustering Winds; Stop Defense; Pot of Benevolence; Hieroglyph Lithograph; Hieroglyph Lithograph; Blue Medicine; Mooyan Curry; Mooyan Curry)

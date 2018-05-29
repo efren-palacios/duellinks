@@ -39,23 +39,29 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="14a"></a>
 #### {Crystal Raigeki}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- Not enough to bring Crystal Beasts onto the [tier list](/tier-list/), but good support nonetheless.
+**{#Whilipino}** says:
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- This card is nuts! With {Crystal Beast Sapphire Pegasus} you can easily destroy a Monster (pretty good against [Sylvans](/tier-list/deck-types/sylvans/)). I expect this card in future [King of Games Decks](/top-decks/), maybe it's good enough to do well in tournaments.
+> Not enough to bring Crystal Beasts onto the [tier list](/tier-list/), but good support nonetheless.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- A nice boost small boost to Crystal Beasts. Unfortunately, this does not make Crystal Beasts become a top tier Deck. 
+**{#Xanxus}** says:
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
-- Crystal Beasts support, yay!
+> This card is nuts! With {Crystal Beast Sapphire Pegasus} you can easily destroy a Monster (pretty good against [Sylvans](/tier-list/deck-types/sylvans/)). I expect this card in future [King of Games Decks](/top-decks/), maybe it's good enough to do well in tournaments.
 
-**[SkillShot](/top-player-council/skillshot/)** says:
-- Nice card, the timing is interesting with a [new Jesse Anderson event](/news/may-2018/in-game-updates/) coming this very same week, bringing new cards and a new Skill for Jesse, we wil see where this pushes Crystal Beasts.
+**{#SelectMaple}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- Cool idea but trash. Thunder Monsters have the same Trap ({Judgment of Thunder}) without the requirement.
+> A nice boost small boost to Crystal Beasts. Unfortunately, this does not make Crystal Beasts become a top tier Deck. 
+
+**{#Machdragon}** says:
+
+> Crystal Beasts support, yay!
+
+**{#SkillShot}** says:
+
+> Nice card, the timing is interesting with a [new Jesse Anderson event](/news/may-2018/in-game-updates/) coming this very same week, bringing new cards and a new Skill for Jesse, we wil see where this pushes Crystal Beasts.
+
+**{#3K All Day}** says:
+
+> Cool idea but trash. Thunder Monsters have the same Trap ({Judgment of Thunder}) without the requirement.
  
 
 ---
@@ -63,51 +69,66 @@ The Card Trader's inventory has been updated with some new additions to his card
 <a name="14b"></a>
 #### {Gravi-Crush Dragon}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- Not relevant.
+**{#Whilipino}** says:
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- Another card that supports Crystal Beasts. I dont think that it's playable at the moment because a 1 Tribute Monster in a Deck like Crystal Beasts will be slow and inconsistent. Use in other Decks is also unlikely since there aren't any really good Continuous Spells in game.
+> Not relevant.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Crystal Beasts tech card, I guess?
+**{#Xanxus}** says:
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
-- More Crystal Beasts support.
+> Another card that supports Crystal Beasts. I dont think that it's playable at the moment because a 1 Tribute Monster in a Deck like Crystal Beasts will be slow and inconsistent. Use in other Decks is also unlikely since there aren't any really good Continuous Spells in game.
 
-**[SkillShot](/top-player-council/skillshot/)** says:
-- Can probably be abused with Crystal Beasts or {Ruins of the Divine Dragon Lords}, but the fact that it's a level 6 makes it not that good at the moment.
+**{#SelectMaple}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- 🚮
+> Crystal Beasts tech card, I guess?
+
+**{#Machdragon}** says:
+
+> More Crystal Beasts support.
+
+**{#SkillShot}** says:
+
+> Can probably be abused with Crystal Beasts or {Ruins of the Divine Dragon Lords}, but the fact that it's a level 6 makes it not that good at the moment.
+
+**{#3K All Day}** says:
+
+> 🚮
 
 ---
 
 <a name="14c"></a>
 #### {Penguin Knight}
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- May be a potential Side Deck card if Mill Decks become a problem.
+**{#Whilipino}** says:
 
-**[Xanxus](/top-player-council/Xanxus/)** says:
-- If Mill came back this is a possible counter card, otherwise it's trash.
+> May be a potential Side Deck card if Mill Decks become a problem.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Counter Mill xD.
+**{#Xanxus}** says:
 
-**[Machdragon](/top-player-council/Machdragon/)** says:
-- Garbage!
+> If Mill came back this is a possible counter card, otherwise it's trash.
 
-**[SkillShot](/top-player-council/skillshot/)** says:
-- Good against Mill Decks.
+**{#SelectMaple}** says:
 
-**[》3K《 All Day](/top-player-council/3KAllDay/)** says:
-- 🚮
+> Counter Mill xD.
+
+**{#Machdragon}** says:
+
+> Garbage!
+
+**{#SkillShot}** says:
+
+> Good against Mill Decks.
+
+**{#3K All Day}** says:
+
+> 🚮
 
 ### Required Items
-- {Crystal Raigeki}: 50,000 Gold, 6 SR Jewel, 60 Stone of Trap
-- {Gravi-Crush Dragon}: 45,000 Gold, 7 SR Jewel, 55 Stone of Darkness
-- {Penguin Knight}: 5,000 Gold, 3 Stone of Water
+
+> {Crystal Raigeki}: 50,000 Gold, 6 SR Jewel, 60 Stone of Trap
+
+> {Gravi-Crush Dragon}: 45,000 Gold, 7 SR Jewel, 55 Stone of Darkness
+
+> {Penguin Knight}: 5,000 Gold, 3 Stone of Water
 
 <br>
 

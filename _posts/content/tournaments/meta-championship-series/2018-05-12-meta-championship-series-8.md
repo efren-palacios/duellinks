@@ -1,8 +1,9 @@
 ---
 layout: blog
 title: "Meta Championship Series #8 Report"
-author: Creative, Jonesy9027, SpoonCats & Yami Hammy
+author: Creative; Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 8
 image: /img/content/tournaments/meta-championship-series/8/thumbnail.jpg
@@ -44,9 +45,9 @@ pinned: false
 |--|--|
 | FireNeo | 200 |
 | [your-writers.net](https://your-writers.net/?discount=RCJ8D566&utm_source=twitch.tv&utm_medium=banner&utm_campaign=va-0328-duellinksmeta) | 150 |
-| [SirDillweed](/top-player-council/sirdillweed/) | 122 |
+| {#SirDillweed} | 122 |
 | MLM ManLM | 100 |
-| [Yami Hammy](/authors/yami_hammy/) | 100 |
+| {#Yami Hammy} | 100 |
 
 ---
 
@@ -72,7 +73,7 @@ I chose to play Sylvans because after going x-2 at the last MCS and not topping 
 
 For everyone thinking that the only option moving forward is to play degenerate helmet "Skillvans" to remain competitive this is not the case. As I said initially I think the Deck was in the best position for this tournament because of people over-dedicating to the 2 new Decks ([Amazoness](/tier-list/deck-types/amazoness/) and [Spellbooks](/tier-list/deck-types/spellbooks/)), and as a result it took the most top cut slots and won. However, I still think there are 2 Decks in the format that are better than it, and as people begin to dedicate slots to counter [Sylvans](/tier-list/deck-types/sylvans/) the other Decks will become better and clap Sylvans.  
 
-Also shoutout to my friends, bigdadi, mood, cam, jay, and my boys previous MCS winner Jason and YCS winner Elvisbeback.  
+Also shoutout to my friends, bigdadi, mood, cam, jay, and my boys previous MCS winner {#Jason} and YCS winner Elvisbeback.  
 
 *You can read his full write-up on [Reddit](https://www.reddit.com/r/DuelLinks/comments/8jk1op/i_won_mcs_8_with_luck_a_helmet_and_eggplants/).*
 
@@ -133,7 +134,7 @@ I think Spellbooks were favoured in top cut because they were the most powerful 
 
 ---
 
-#### 5th-8th Place - Kwrowe: $86.84
+#### 5th-8th Place - {#Kwrowe}: $86.84
 [deck:Restart](Alien Overlord; Alien Overlord; Alien Telepath; Alien Telepath; Alien Warrior; Alien Warrior; Alien Warrior; Alien Kid; Cosmic Cyclone;Cosmic Cyclone; Super Rush Headlong; Super Rush Headlong; Enemy Controller; Enemy Controller; "A" Cell Recombination Device; "A" Cell Recombination Device; "A" Cell Recombination Device; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth)
 
 ***Side Deck:***
@@ -173,7 +174,7 @@ I think Spellbooks were favoured in top cut because they were the most powerful 
 
 ---
 
-#### 9th-16th Place - Negative1: $27.13
+#### 9th-16th Place - {#Negative1}: $27.13
 [deck:Restart](Destiny HERO - Malicious; Destiny HERO - Malicious; Destiny HERO - Decider; Destiny HERO - Celestial; Destiny HERO - Celestial; Destiny HERO - Celestial; Vision HERO Vyon; Vision HERO Vyon; Vision HERO Vyon; Destiny HERO - Dreamer; Cosmic Cyclone;Cosmic Cyclone;Mask Change; Mask Change; Mask Change; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Polymerization;Treacherous Trap Hole)
 [deck](Masked HERO Anki; Masked HERO Anki; Masked HERO Anki; Vision HERO Trinity; Destiny HERO - Dangerous)
 
@@ -182,7 +183,7 @@ I think Spellbooks were favoured in top cut because they were the most powerful 
 
 ---
 
-#### 9th-16th Place - Kayoh: $27.13
+#### 9th-16th Place - {#Kayoh}: $27.13
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller; Treacherous Trap Hole;Ultimate Providence)
 
 ***Side Deck:***
@@ -206,7 +207,7 @@ I think Spellbooks were favoured in top cut because they were the most powerful 
 
 ---
 
-#### 9th-16th Place - Machdragon: $27.13
+#### 9th-16th Place - {#Machdragon}: $27.13
 [deck:Grit](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Tribute to the Doomed; Enemy Controller;  Enemy Controller; Treacherous Trap Hole)
 
 ***Side Deck:***

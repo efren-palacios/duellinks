@@ -1,17 +1,18 @@
 ---
 layout: blog
+date: 2018-04-08
 title: "Meta Championship Series #7 Report"
-author: Jonesy9027, SpoonCats & Yami Hammy
+author: Jonesy9027; SpoonCats; Yami Hammy
 category: tournament
+sub-category: report
 tournament: Meta Championship Series
 number: 7
 image: /img/logos/mcs-7-thumbnail.jpg
-date: 2018-04-08
+
 comments: true
 description: The Meta Championship Series 7 tournament report. Check the prize winners and their decks here.
 keywords: mcs, mcs 7, meta championship, meta championship series, meta championship 7, meta championship series 7, mcs decks, mcs 7 decks
 permalink: /tournaments/meta-championship-series/7/report/
-pinned: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -46,18 +47,18 @@ pinned: false
 | Name | Donation ($) |
 |--|--|
 | Inri - Chrisavz | 200 |
-| Jonesy9027 | 120 |
+| {#Jonesy9027} | 120 |
 | FrozenKingK0 | 100 |
 | H E A R T | 100 |
 | MLM Man LM | 100 |
-| SirDillweed | 100 |
+| {#SirDillweed} | 100 |
 | Mellow | 100 |
 
 ---
 
 ### Top 16 Decklists (Main + Side Deck) - Prize Support: $3,413
 
-#### 1st Place - Jason
+#### 1st Place - {#Jason}
 
 [deck:Restart](Destiny HERO - Malicious;Destiny HERO - Malicious;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Vision HERO Vyon;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Destiny Draw;Enemy Controller;Polymerization)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)
@@ -74,7 +75,7 @@ I was really surprised by the two High Potential decks the TPC chose ended up be
 Geargia plus {Ties of the Brethren} was really strong but I didn't want to play the mirror match and sometimes the Sylvan matchup can blow you out.  Just like {Abyss Soldier}, {Mask Change} helps you play through a bunch of back row and set up OTK.  
 That combined with {Destiny HERO - Celestial} drawing two, you go through the deck fast and see the Mask Changes quickly.  
 It's going to be an interesting KC Cup Meta!  
-Shout out to flamer boyz, my main testing partners which includes whilipino, elvisbeback, regtrainer1, and acemvs.  
+Shout out to flamer boyz, my main testing partners which includes {#Whilipino}, elvisbeback, regtrainer1, and acemvs.  
 Finally, a shout out to my Team Wars team Murder Inc. We are going to win this season!
 
 <br>
@@ -99,7 +100,7 @@ Finally, a shout out to my Team Wars team Murder Inc. We are going to win this s
 
 ---
 
-#### 3rd-4th Place - SirDillweed
+#### 3rd-4th Place - {#SirDillweed}
 
 [deck:Balance](Geargiattacker; Geargiattacker; Geargiattacker; Geargianchor; Geargianchor; Geargianchor; Geargiarsenal; Geargiarsenal; Geargiarsenal; Forbidden Chalice; Forbidden Chalice; Forbidden Chalice; Enemy Controller; Enemy Controller; Enemy Controller; Powerful Rebirth; Powerful Rebirth; Powerful Rebirth; Pulse Mines; Pulse Mines; Pulse Mines)
 
@@ -211,7 +212,7 @@ Finally, a shout out to my Team Wars team Murder Inc. We are going to win this s
 
 ---
 
-#### 9th-16th Place - Super Vegito
+#### 9th-16th Place - {#Super Vegito}
 
 [deck:Restart](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Vision HERO Vyon;Vision HERO Vyon;Destiny HERO - Dreamer;Cosmic Cyclone;Cosmic Cyclone;Mask Change;Mask Change;Mask Change;Forbidden Chalice;Forbidden Chalice;Enemy Controller;Enemy Controller;Polymerization;Mirror Wall)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous;Vision HERO Trinity)

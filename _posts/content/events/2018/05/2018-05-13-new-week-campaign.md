@@ -1,22 +1,23 @@
 ---
 layout: blog
-date: 2018-05-20 12:00:00 +0100
+date: 2018-05-27 18:00:00 +0100
 title: New Week Campaign - Rage Page!
 author: Yami Hammy
 image: /img/content/events/2018/05/new-week-campaign/thumbnail.jpg
+category: random
 ended: true
 comments: true
 description: Post you drops or vent your rage about the New Week Campaign! 
 keywords: event, new week campaign
 permalink: /events/may-2018/new-week-campaign/
-view: false
+hide: false
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
 ![](/img/content/events/2018/05/new-week-campaign/new-week.jpg)
 
-It's that time of the week again, three lacklustre cards straight into your Giftbox. **Post your drops or vent your rage in the comments below!**
+It's the final week - three lacklustre cards straight into your Giftbox. **Post your drops or vent your rage in the comments below!**
 
 You can obtain any 3 of the following cards:
 

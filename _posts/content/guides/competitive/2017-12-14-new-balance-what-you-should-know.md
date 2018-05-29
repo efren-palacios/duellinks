@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Balance Skill - What You Should Know
-author: pll & superforms
+author: pll; Superforms
 category: guide
 sub-category: competitive
 image: /img/content/guides/new-balance-report/thumbnail.png
@@ -34,7 +34,7 @@ It’s not that difficult, here we have the table of *Number of Cards in the Dec
 <a name="table-1"></a>
 
 [w75]
-![Table 1 - Table of probabilities - Check notes for 15~19 card info](http://image.noelshack.com/fichiers/2017/50/4/1513213333-capture-d-ecran-2017-12-14-a-01-55-51.png)
+![Table 1 - Table of probabilities - Check notes for 15~19 card info](/img/content/guides/new-balance-report/table-1.png)
 
 As you can see from the table, no quantity of cards in the Deck gives you a 100% chance of opening with an exact number of cards like 5, 10 or 15 did before, giving you 1, 2 and 3 cards in your starting hand respectively.
 
@@ -43,7 +43,7 @@ But we can get some interesting results out of that like with 6 cards of a type 
 <a name="graph-1"></a>
 
 [w75]
-![Graph 1 - Table of max/min in the starting hand](http://image.noelshack.com/fichiers/2017/50/4/1513213333-capture-d-ecran-2017-12-14-a-01-56-14.png)
+![Graph 1 - Table of max/min in the starting hand](/img/content/guides/new-balance-report/graph-1.png)
 
 So, for example, if you have 12 Monsters in your Deck, you can only open with 2 or 3 Monsters, never with 1 and never with 4!
 
@@ -64,7 +64,7 @@ You feel like your top Deck is getting influenced by Balance? You open without a
 Why we think that? Look at these example stats carefully:
 
 [w75]
-![Table 2 - Stats about 5/8/7 Deck](http://image.noelshack.com/fichiers/2017/50/4/1513213334-capture-d-ecran-2017-12-14-a-01-56-45.png)
+![Table 2 - Stats about 5/8/7 Deck](/img/content/guides/new-balance-report/table-2.png)
 
 In this dataset, we got stats about the 5th card as well (the top Deck card), and as you can see, the probability of getting a Monster on the top Deck was **~40%**, top Decking a Spell was **~30%** and top Decking a Trap was **~30%**.
 	
@@ -77,7 +77,7 @@ One really nice thing we got was the averages. If you graph the *Number of Cards
 <a name="graph-2"></a>
 
 [w75]
-![Graph 2 - Average number in hand x Number in the Deck - Check notes](http://image.noelshack.com/fichiers/2017/50/4/1513213333-capture-d-ecran-2017-12-14-a-01-57-03.png)
+![Graph 2 - Average number in hand x Number in the Deck - Check notes](/img/content/guides/new-balance-report/graph-2.png)
 
 This is nice because we can now think about Balance in a pattern that respects an almost linear line with the average hands the skill will give you, not with the actual cards in your hand in a specific match. This is nice if you want to check how your Deck should behave on the long run.
 

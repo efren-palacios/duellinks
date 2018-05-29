@@ -7,6 +7,8 @@ module Jekyll
 
     def generate(site)
 
+      $logger.logToConsole("Start deck processing")
+
       pending = site.data["top-decks"]["pending"]
 
       if pending
@@ -81,7 +83,9 @@ module Jekyll
           FileUtils.rm site.source + "/_data/top-decks/pending/" + file_key + ".json"
           
         end
+        $logger.logDecksProcessed(pending.keys.length)
       end
+      $logger.logToConsole("End deck processing")
     end
   end
 end

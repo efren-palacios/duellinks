@@ -1,7 +1,4 @@
-{% capture currentYear %}{{ 'now' | date: "%Y" }}{% endcapture %}
-{% capture currentMonth %}{{ 'now' | date: "%m" }}{% endcapture %}
-{% assign month = site.data.months | where: "id", currentMonth %}
-{% assign deckType = site.data.top-decks[currentYear][currentMonth][include.deckType] %}
+{% assign deckType = site.data.top-decks | deckTypeDecks: {{include.deckType}} %}
 
 {% for tier in site.data.tierlist %}
     {% for type in tier.types %}
@@ -13,7 +10,7 @@
 
 {% if deckType.size > 0 %}
 <div class="section mb30">
-    <h3>Latest top decks from {{ month[0].name | capitalize }}</h3>
+    <h3>Latest top decks</h3>
     <table id="TopDecksTable" class="hover row-links">
         <thead>
             <tr>

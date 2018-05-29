@@ -59,4 +59,3 @@ Temple burn is a deck type that focuses on the card {Temple of the Mind's Eye} a
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

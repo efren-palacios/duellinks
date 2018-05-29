@@ -7,7 +7,7 @@ comments: false
 date: 2018-2-01 09:39:00 -0600
 description: This page contains the current and upcoming status of the Forbidden/Limited list
 permalink: /tier-list/forbidden-limited-list/
-hide: true
+hidden: true
 ---
 
 {% include heading.html title=page.title description=page.description %}
@@ -16,7 +16,7 @@ hide: true
 {% assign sortedLog = changelog | sort: 'date' | reverse %}
 {% assign firstDate = sortedLog[0].date %}
 <div class="section">
-    <h3>Last Updated: {{ firstDate | date: "%B %d, %Y" }}</h3>
+    <h3>Last Updated: {{ firstDate | date: "%B %-d, %Y" }}</h3>
     <ul>
         {% assign changelog_current = sortedLog | where: "date", firstDate %}
         {% for log in changelog_current %}

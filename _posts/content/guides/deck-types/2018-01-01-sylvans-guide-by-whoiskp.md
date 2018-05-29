@@ -115,7 +115,7 @@ There are many more techs available but these are the most common.
 
 ### Tournament Top Decklists
 
-#### 1st Place: Deadfun - [Duel Links Pro Tournament 15](/tournaments/duel-links-pro/15/report/)
+#### 1st Place: {#Deadfun} - [Duel Links Pro Tournament 15](/tournaments/duel-links-pro/15/report/)
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Hey, Trunade!; Enemy Controller; Enemy Controller; Divine Wrath; Divine Wrath) 
 
@@ -221,5 +221,5 @@ I hope this guide helps you all either succeed in tournaments, Ranked Duels ladd
 
 If you have any thoughts or questions, leave a comment below!
 
-***This guide was lovingly converted by [Yami Hammy](/authors/yami_hammy/)***  
-***This guide was lovingly updated by [Jonesy9027](/authors/jonesy9027/)***
+***This guide was lovingly converted by {#Yami Hammy}***  
+***This guide was lovingly updated by {#Jonesy9027}***

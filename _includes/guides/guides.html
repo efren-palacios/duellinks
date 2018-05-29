@@ -6,27 +6,7 @@
     <h3>Guides</h3>
     <div class="row card-collection">
         {% for guide in guides %}
-            <div class="col-sm-6 col-12 card-deck">
-                <div class="card">
-                    <div class="zoom">
-                        <a href="{{guide.url}}"> 
-                            <img src="{{guide.image}}" class="card-img-top lazyload" />
-                        </a>
-                    </div>
-                    <div class="card-block text-white">
-                        <a href="{{guide.url}}">
-                            <h4 class="card-title">{{guide.title}}</h4>
-                        </a>
-                        <div class="text-white">
-                            <small class="text-muted">Last Updated: {{ guide.date | timeago }}
-                                {% if guide.author == 'Dkayed' %}
-                                by <b><a class="text-danger" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% else %}
-                                by <b><a class="text-warning" href="/authors/{{guide.author}}">{{guide.author}}</a></b> {% endif %}
-                            </small>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            {% include articles/article.html article=guide options='3' %}
         {% endfor %}
     </div>
 </div>

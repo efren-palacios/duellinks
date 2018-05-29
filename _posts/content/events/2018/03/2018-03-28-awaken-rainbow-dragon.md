@@ -120,7 +120,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 ### Farm Decks
 
 <a name="jadehex"></a>
-#### Level 40 Cloudian Farm - created by Jadehex
+#### Level 40 Cloudian Farm - created by {#Jadehex}
 
 [deck:Draw Sense: WATER](Summoner of Illusions; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Zeradias, Herald of Heaven; Gravekeeper's Vassal; Cloudian - Turbulence; Union Attack; Union Attack; The Sanctuary in the Sky; The Sanctuary in the Sky; The Sanctuary in the Sky; Dimensionhole; Secret Pass to the Treasures; Jar of Greed; Spirit Barrier; Spirit Barrier; Spirit Barrier; Good Goblin Housekeeping; Good Goblin Housekeeping; Good Goblin Housekeeping)
 [deck](Blue-Eyes Ultimate Dragon; Master of Oz)    
@@ -175,7 +175,7 @@ You should only have one {The Unhappy Girl} and Blue-Eyes Ultimate Dragon in you
 ---
 
 <a name="jadehex2"></a>
-#### Level 40 Cerberus Farm - created by Jadehex
+#### Level 40 Cerberus Farm - created by {#Jadehex}
 
 **This is just a generic Cerberus farm decklist, you can optimize it however you want!**
 

@@ -1,16 +1,16 @@
 ---
 layout: blog
-title: "First Look: Geargia"
+title: "First Look: Geargias"
 author: Brenduke
 category: guide
 sub-category: deck-type
-deck-type: geargia
+deck-type: geargias
 image: /img/content/guides/geargia-guide-intro-by-brenduke/geargia.jpg
 date: 2018-03-30 01:00:00
 comments: true
 description: A detailed guide written by Brenduke presenting an introduction to the Geargia archetype.
 keywords: guide, geargia, geargiano, gearigaccelerator, core cards
-permalink: /guides/deck-types/geargia-guide-intro-by-brenduke/
+permalink: /guides/deck-types/first-look-geargias-by-brenduke/
 ---
 
 {% include heading.html title=page.title author=page.author %}
@@ -121,5 +121,5 @@ This will become a full guide when we have the cards and know match ups, builds 
 
 ---
 
-*This guide was lovingly converted by Freeska*  
-*This guide was happily updated by Jonesy9027*
+*This guide was lovingly converted by {#Freeska}*  
+*This guide was happily updated by {#Jonesy9027}*

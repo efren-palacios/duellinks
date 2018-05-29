@@ -9,15 +9,16 @@ comments: true
 description: Jesse Anderson has arrived! Here's all you need to know about the event and the best ways to farm him - get those Crystal Beast cards and unlock him!  
 keywords: event, jesse, jesse anderson, farm, crystal beasts, rainbow dragon
 permalink: /events/may-2018/awaken-rainbow-dragon/
-ended: false
+ended: true 
 ---
 
 {% include heading.html title=page.title author=page.author %}
 
 ![Banner](/img/content/events/2018/03/awaken-rainbow-dragon/banner.png)
 
-##### Updated May 20, 2018 - [Lvl: 50 Update](#update)
+##### Updated May 25, 2018 - [Added Duel Awards Winners](#awards)
 
+- **[Duel Awards](#awards)**
 - [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -35,7 +36,26 @@ ended: false
     - [Lvl: 40 Hazy Flame Farm](#freeska2)
 - [Jesse Anderson Lvl: 40 Decklist](#40)
 - [Jesse Anderson Lvl: 50 Decklist](#50)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### Highest Duel Energy - **NerdChic**
+![](/img/content/events/2018/05/awaken-rainbow-dragon/nerdchic.jpg)
+
+#### Most Prismatic Drops - **Pelat**
+![](/img/content/events/2018/05/awaken-rainbow-dragon/pelat.jpg)
+
+#### Best Drop - **Moffibert** 
+![](/img/content/events/2018/05/awaken-rainbow-dragon/moffibert.jpg)
 
 ---
 
@@ -93,22 +113,25 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Do the new Crystal Beast cards and skill have the potential to produce a new top-tier deck?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Probably not.
+> Probably not.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Probably not, but it would definitely be a fun deck to play though.
+**{#Machdragon}** says:
 
-**[Whybona](/top-player-council/whybona/)** says:
-- Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
+> Probably not, but it would definitely be a fun deck to play though.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- Yes!
+**{#Whybona}** says:
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- New archetype support is always welcome but I don't think it's enough to compete with the current meta.
+> Currently I don't believe they do. The new cards and skill will make the deck extremely consistent with a fast engine but the deck is still extremely lacking enough power to compete in the current meta with a lack of a clear playstyle and win condition.
+
+**{#3K All Day}** says:
+
+> Yes!
+
+**{#Super Vegito}** says:
+
+> New archetype support is always welcome but I don't think it's enough to compete with the current meta.
 
 ---
 
@@ -116,22 +139,25 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will any of the new Crystal Beast cards be used in a current top-tier deck?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Unfortunately, no.
+> Unfortunately, no.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Nope!
+**{#Machdragon}** says:
 
-**[Whybona](/top-player-council/whybona/)** says:
-- I highly doubt it.
+> Nope!
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
+**{#Whybona}** says:
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- No!
+> I highly doubt it.
+
+**{#3K All Day}** says:
+
+> Not separately, but together yes. {Rare Value} gives the archetype the engine it needed.
+
+**{#Super Vegito}** says:
+
+> No!
 
 ---
 
@@ -139,19 +165,21 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 #### "Will you personally be farming this event?"
 
-<br>
+**{#SelectMaple}** says:
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- For 3 of every card, yes.
+> For 3 of every card, yes.
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Yes, for the gems.
+**{#Machdragon}** says:
 
-**[Whybona](/top-player-council/whybona/)** says:
-- Only if Jesse is easy to farm.
+> Yes, for the gems.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- Yes, I am.
+**{#Whybona}** says:
+
+> Only if Jesse is easy to farm.
+
+**{#3K All Day}** says:
+
+> Yes, I am.
 
 ---
 
@@ -174,7 +202,7 @@ You can only obtain 1 copy of a card with EX Jewels.
 
 <a name="jadehex"></a>
 
-#### Level 40 Ra Farm - credit: [Jadehex](/authors/jadehex)
+#### Level 40 Ra Farm - credit: {#Jadehex}
 [deck:Duel, standby!](The Winged Dragon of Ra; Kiseitai; Kiseitai; Kiseitai; Cosmic Compass; Anti-Magic Arrows; Arrivalrivals; Supremacy Berry; Draining Shield; Draining Shield; Draining Shield; Jar of Greed; Jar of Greed; Jar of Greed; Massivemorph; Massivemorph; Massivemorph; Enchanted Javelin; Enchanted Javelin; Enchanted Javelin)
 
 ##### Strategy
@@ -227,7 +255,7 @@ You should have at least one monster on the field.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Ra Farm - credit: {#Freeska}
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
 
 ##### Strategy
@@ -282,7 +310,7 @@ You should have at least two monsters on the field.
 
 <a name="freeska2"></a>
 
-#### Lvl: 40 Hazy Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Hazy Farm - credit: {#Freeska}
 This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-score/), only use it if you don't have {The Winged Dragon of Ra}.
 
 [deck:Aroma Strategy](Dynatherium; Dynatherium; Dynatherium; Hazy Flame Peryton; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Sphynx; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Hazy Flame Cerbereus; Mausoleum of the Emperor; Mausoleum of the Emperor; Mausoleum of the Emperor; Fairy Meteor Crush; Swamp Mirrorer; Swamp Mirrorer; Swamp Mirrorer; Beast Rising; Beast Rising; Beast Rising)
@@ -321,17 +349,4 @@ This farm deck will only get ~7,000 [Duel Assessment](/farming/duel-assessment-s
 
 ---
 
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below), when the event is over the person with the:
-- Best drop will have their name posted here
-- Most Prismatic **new** cards will have their name posted here
-- Highest Duel Energy will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
+***If you have a unique farm deck, spot a mistake or just want to say something post it in the comments below!***

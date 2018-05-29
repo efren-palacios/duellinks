@@ -16,8 +16,9 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
 
 ![Banner](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/banner.png)
 
-##### Updated May 13th - [Bonus Multiplier](#update)
+##### Updated May 25, 2018 - [Added Duel Awards Winners](#awards)
 
+- **[Duel Awards](#awards)**
 - [Update](#update)
 - [Event Information](#event-information)
 - [Drop Rewards](#drop-rewards)
@@ -31,7 +32,34 @@ permalink: /events/may-2018/syrus-truesdales-road-to-duel-links/
     - [Lvl: 30 Blue-Eyes Farm](#blue)
 - [Syrus Truesdale Lvl: 40 Decklist](#40)
 - [Syrus Truesdale Lvl: 30 Decklist](#30)
-- **[Duel Awards](#awards)**
+
+---
+
+<br>
+
+<a name="awards"></a>
+
+![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
+
+### Duel Awards - Eternal Fame Awaits!
+The "Duel Awards" are a mini competition during events. There are three categories; the winners have their names posted here - immortalized forever on Duel Links Meta!
+
+#### NEW: Best Meme - **dmXD**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/dmxd.png)
+
+#### Best Drop - **soup8** 
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/soup8.jpg)
+
+#### Most Prismatic Drops 
+
+**federcg**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/federcg.jpg)
+
+**RandomPl0x**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/randompi0x.jpg)
+
+#### Highest Cumulative Points - **G.O.K**
+![](/img/content/events/2018/05/syrus-truesdales-road-to-duel-links/GOK.jpg)
 
 ---
 
@@ -73,26 +101,26 @@ These are the cards and Skills you can attain.
 
 <br>
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- No, the Deck is still trash. 
+**{#Whilipino}** says:
+> No, the Deck is still trash. 
 
-**[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+**{#Kwrowe}** says:
+> No!
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Nope!
+**{#Machdragon}** says:
+> Nope!
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- Definitely not.
+**{#Super Vegito}** says:
+> Definitely not.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- 🚮
+**{#3K All Day}** says:
+> 🚮
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- (OMEGALUL) Trash.
+**{#SelectMaple}** says:
+> (OMEGALUL) Trash.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- No!
+**{#AndyTsang}** says:
+> No!
 
 ---
 
@@ -102,26 +130,26 @@ These are the cards and Skills you can attain.
 
 <br>
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- {Drillroid} is a cool card for Side Decks and it's another option for {Ties of the Brethren} with [Geargias](/tier-list/deck-types/geargias/).
+**{#Whilipino}** says:
+> {Drillroid} is a cool card for Side Decks and it's another option for {Ties of the Brethren} with [Geargias](/tier-list/deck-types/geargias/).
 
-**[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+**{#Kwrowe}** says:
+> No!
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Absolutely not.
+**{#Machdragon}** says:
+> Absolutely not.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- No!
+**{#Super Vegito}** says:
+> No!
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- 🚮
+**{#3K All Day}** says:
+> 🚮
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
+**{#SelectMaple}** says:
+> Maybe {Drillroid}, but would probably use something like {Tribute to the Doomed} instead for better removal.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- No!
+**{#AndyTsang}** says:
+> No!
 
 ---
 
@@ -131,26 +159,26 @@ These are the cards and Skills you can attain.
 
 <br>
 
-**[Whilipino](/top-player-council/whilipino/)** says:
-- Yes, because I farm every event.
+**{#Whilipino}** says:
+> Yes, because I farm every event.
 
-**[Kwrowe](/top-player-council/kwrowe/)** says:
-- No!
+**{#Kwrowe}** says:
+> No!
 
-**[Machdragon](/top-player-council/machdragon/)** says:
-- Sure, new character means more Gems.
+**{#Machdragon}** says:
+> Sure, new character means more Gems.
 
-**[Super Vegito](/top-player-council/super-vegito/)** says:
-- No, I'll be auto-dueling, none of the cards    are worth it.
+**{#Super Vegito}** says:
+> No, I'll be auto-dueling, none of the cards    are worth it.
 
-**[3K All Day](/top-player-council/3kallday/)** says:
-- Yes, but that's because this game is an addiction, still 🚮.
+**{#3K All Day}** says:
+> Yes, but that's because this game is an addiction, still 🚮.
 
-**[SelectMaple](/top-player-council/selectmaple/)** says:
-- For 3 of every card, yes.
+**{#SelectMaple}** says:
+> For 3 of every card, yes.
 
-**[AndyTsang](/top-player-council/andytsang/)** says:
-- Yes!
+**{#AndyTsang}** says:
+> Yes!
 
 ---
 
@@ -158,7 +186,7 @@ These are the cards and Skills you can attain.
 
 <a name="freeska"></a>
 
-#### Lvl: 40 Ra Farm - credit: [Freeska](/authors/freeska/)
+#### Lvl: 40 Ra Farm - credit: {#Freeska}
 Any variation of the "Ra Deck" may work but perhaps not as effectively. For example, {Kiseitai} + {Massivemorph}, {Golden Ladybug} etc. 
 
 [deck:Restart](The Winged Dragon of Ra; A Cat of Ill Omen; A Cat of Ill Omen; Skelengel; Crystal Seer; Crystal Seer; Crystal Seer; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; Neo-Spacian Air Hummingbird; White Magician Pikeru; White Magician Pikeru; Anti-Magic Arrows; Magic Planter; Spirit Barrier; Spirit Barrier; Spirit Barrier; Astral Barrier; Astral Barrier; Astral Barrier)
@@ -220,23 +248,6 @@ You should have two {Blue-Eyes White Dragon} on the field.
 ### Syrus Truesdale Lvl: 30 Decklist
 [deck](Expressroid; Expressroid; Expressroid; Ambulanceroid; Ambulanceroid; Ambulanceroid; Rescueroid; Rescueroid; Truckroid; Truckroid; Jetroid; Jetroid; Polymerization; Polymerization; Polymerization; Fusion Recovery; Weapon Change; Inverse Universe; Inverse Universe; Supercharge)
 [deck](Ambulance Rescueroid; Ambulance Rescueroid; Ambulance Rescueroid)
-
----
-
-<br>
-
-<a name="awards"></a>
-
-![Banner](/img/content/events/2018/03/superb-tea/duel-awards.png)
-
-### Duel Awards - Eternal Fame Awaits!
- 
-Take screenshots (post in the comments below), when the event is over the person with the:
-- Best drop will have their name posted here
-- Most Prismatic cards will have their name posted here
-- Highest Cumulative Points will have their name posted here
-  
-Immortalised forever on Duel Links Meta!
 
 ---
 

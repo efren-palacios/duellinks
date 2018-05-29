@@ -98,52 +98,6 @@
   float: right;
 }
 
-/*.monster
-{
-  color: $monster;
-
-  &:hover,
-  &:focus
-  {
-    color: darken($monster, 10%)
-  }
-}
-
-.spell
-{
-  color: $spell;
-
-  &:hover,
-  &:focus
-  {
-    color: darken($spell, 10%)
-  }
-}
-
-.trap
-{
-  color: $trap;
-
-  &:hover,
-  &:focus
-  {
-    color: darken($trap, 10%)
-  }
-}
-
-.fusion
-{
-  color: $fusion;
-
-  &:hover,
-  &:focus
-  {
-    color: darken($fusion, 10%)
-  }
-}*/
-/* ------------------------ */
-
-
 /* ------- TOOLTIP -------- */
 .ctooltip
 {
@@ -225,9 +179,9 @@
   background-color: #007bff;
 }
 
-.articleButtonColumn {
-  padding-left: 10px;
-  padding-right: 10px;
+.btn-row {
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 /* ------------------------ */

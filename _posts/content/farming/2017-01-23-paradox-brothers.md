@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-01-23
 title: How to Farm Paradox Brothers
-author: Spooncats
+author: SpoonCats
 category: farming
 season: dm
 name: Paradox Brothers

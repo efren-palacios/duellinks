@@ -65,4 +65,3 @@ Hazy Flame decks are strong for a few reasons: The main monster, {Hazy Flame Sph
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

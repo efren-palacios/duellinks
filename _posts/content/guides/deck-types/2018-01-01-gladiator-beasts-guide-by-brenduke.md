@@ -63,7 +63,7 @@ The Gladiator Beast deck is easy to use but difficult to master; this deck punis
 
 ### About the Author
 
-Brenduke played the TCG competitively up until 2010 and achieved multiple regional tops in the UK with Gladiator Beasts. He only quit the TCG due to starting University which meant that time and money became more restricted. When Duel Links was released he was instantly hooked and has achieved King of Games six times so far, four of which were with Gladiator Beasts. He has topped multiple tournaments and popularized 3SD Gladiators. He is currently Deck Expert for Gladiator Beasts in the Duel Links Meta Discord. 
+{#Brenduke} played the TCG competitively up until 2010 and achieved multiple regional tops in the UK with Gladiator Beasts. He only quit the TCG due to starting University which meant that time and money became more restricted. When Duel Links was released he was instantly hooked and has achieved King of Games six times so far, four of which were with Gladiator Beasts. He has topped multiple tournaments and popularized 3SD Gladiators. He is currently Deck Expert for Gladiator Beasts in the Duel Links Meta Discord. 
 
 Green played the TCG competitively for years. He comes up with original and creative deck ideas, completely new to the meta. He has achieved King of Games multiple times, and is currently the head coach for Creeping Death in Team Wars. He focuses heavily on deck analysis, and meta prediction to spur creativity. He has actively posted in the Gladiator Beast discord channel since its inception.
 
@@ -245,7 +245,7 @@ A nasty and brutal surprise against Hazy Flame players. This is like Acid Rain i
 This trap can be devastating against other Control Decks, Burn, Aliens and the mirror. Resolving this in the end phase of your opponents turn will usually win you the match, but it is dead vs other. I like this in the main deck when using 3SD GB.
 
 * {Straight Flush}:  
-We all saw how well Glading used this in MCS VI where he sided this in his tournament winning deck. Amazing vs Aliens, GB and Burn who often set 3.
+We all saw how well {#Glading} used this in MCS VI where he sided this in his tournament winning deck. Amazing vs Aliens, GB and Burn who often set 3.
 
 * {Divine Wrath}/{Ultimate Providence}:  
 These traps offer monster effect negation at the cost of a discard. This is good in the side for Snipe Hunter where negating its effect is an even trade. 
@@ -357,7 +357,7 @@ Mind scan is perhaps the second most popular skill after Balance for the archtyp
 ---
 
 ## No Mortal Can Resist
-NMCR is an amazing skill in the right meta-game. Discord member Xanxus made an excellent read on the meta and got second place in the Meta weekly tournament using the skill and the below list. No mortal can resist turns all monsters in the graveyards into skull servants. This is particularly good versus red eyes zombie dragon decks which are currently tier one and magnet warriors. The skill is also really strong against any deck which uses powerful rebirth such as aliens and flying fish. Furthermore, the new decks coming out of rampage of the forest are all reliant on the graveyard. No mortal can resist absolutely destroys decks reliant on the graveyard and naturally needs to run cosmic cyclone giving it a good matchup against SSA water as well. I anticipate this to be one of the premier GB skills going forward. However, in the mirror match and against decks like dinosaurs this has no use.
+NMCR is an amazing skill in the right meta-game. Discord member {#Xanxus} made an excellent read on the meta and got second place in the Meta weekly tournament using the skill and the below list. No mortal can resist turns all monsters in the graveyards into skull servants. This is particularly good versus red eyes zombie dragon decks which are currently tier one and magnet warriors. The skill is also really strong against any deck which uses powerful rebirth such as aliens and flying fish. Furthermore, the new decks coming out of rampage of the forest are all reliant on the graveyard. No mortal can resist absolutely destroys decks reliant on the graveyard and naturally needs to run cosmic cyclone giving it a good matchup against SSA water as well. I anticipate this to be one of the premier GB skills going forward. However, in the mirror match and against decks like dinosaurs this has no use.
 
 **Sample Decklist**
 [deck:No Mortal Can Resist](Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Laquari;Gladiator Beast Bestiari;Gladiator Beast Bestiari;Gladiator Beast Murmillo;Gladiator Beast Murmillo;Gladiator Beast Dimacari;Sphere Kuriboh;Sphere kuriboh;Cosmic Cyclone;Cosmic Cyclone;Enemy Controller;Enemy Controller;Gravity Lash;Floodgate Trap Hole;Floodgate Trap Hole;Mirror Wall;Mirror Wall;Curse of Anubis)
@@ -369,7 +369,7 @@ NMCR is an amazing skill in the right meta-game. Discord member Xanxus made an e
 ### Mastering the Mirror Match
 
 **General Tips for the Mirror**  
-Generally, you want to play the mirror match passively. The first player to make a mistake is the one who loses in the mirror match. You should only attack when it is safe to do so but how do you determine this? Firstly, you will want to scout your opponent’s backrow by paying attention to delays during either players turn. Dkayed created a perfect delay guide which I have included in the appendix of this guide for you to reference while playing and also while reading this guide. Alternatively, you can use the skill I ranked as having the most utility, Mind Scan which will allow you to dominate the mirror match.  
+Generally, you want to play the mirror match passively. The first player to make a mistake is the one who loses in the mirror match. You should only attack when it is safe to do so but how do you determine this? Firstly, you will want to scout your opponent’s backrow by paying attention to delays during either players turn. {#Dkayed} created a perfect delay guide which I have included in the appendix of this guide for you to reference while playing and also while reading this guide. Alternatively, you can use the skill I ranked as having the most utility, Mind Scan which will allow you to dominate the mirror match.  
 **Note**: The delay guide is useful even when using Mind Scan for when your LP drop below 3000.  
 
 * It is not safe to attack when you suspect Wall of Disruption, Impenetrable Attack, Mirror Wall or Super Rush Headlong (if their monster is face up) if you DO NOT have Enemy Controller or Impenetrable Attack yourself. 
@@ -676,7 +676,7 @@ Thank you to the other deck experts and guide writers for all their hard work. R
 
 Thank you to every active member of #gladiator-beasts in the DLM server for their amazing support and feedback on my previous guides. And thank you for not giving up on the deck when Abyss Encounters was released.
 
-Thanks to Dkayed for cultivating an amazing community worth working for.
+Thanks to {#Dkayed} for cultivating an amazing community worth working for.
 
 Thank you to all the players who said gladiators were dead. You guys spur me on to prove you wrong with each new box release. Don’t worry, one day you will be right but that time isn’t now.
 
@@ -684,4 +684,5 @@ Thank you to **Sanga of the Thunda for bringing them unda!**
 
 And finally thank you to the amazing Devs and Content Creators for helping me convert this guide into a suitable format for the website. 
 
-{% include decktype_decks.html decktype=page.deck-type %}
+{% include decktype_decks.html decktype=page.deck-type %}  
+*Thumbnail designed and created by [Spooncats](/authors/spooncats/)*

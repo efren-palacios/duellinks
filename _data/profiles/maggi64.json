@@ -1,0 +1,10 @@
+{
+    "name": "Maggi64",
+    "role": "developer",
+    "image": "/img/profilepic/maggi64.png",
+    "about": "computer science student | Never makes mistakes. Please get me a job, check out my lit instagram or <a target='_blank' href='https://buymeacoff.ee/Maggi64'>buy me a coffee :)</a><br><canvas id='confetti' style='position:absolute;'></canvas><script type='text/javascript' src='https://cdn.rawgit.com/GeekLaunch/confetti/master/confetti.js'></script>",
+    "social-media": {
+        "instagram": "https://www.instagram.com/maxi.dew/",
+        "twitch": "https://www.twitch.tv/maggi64/"        
+    }
+}

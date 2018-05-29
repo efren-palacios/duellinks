@@ -1,15 +1,14 @@
 ---
 layout: blog
+date: 2018-02-23
 title: Duel Assessment Score
 author: Yami Hammy
 image: /img/pages/farming/duel-assesment-score/thumbnail.jpg
 category: page
-date: 2018-02-23
 comments: true
 description: Your Duel Assessment score determines the amount of prizes you obtain. To get the most out of every duel, check out these tips and maximize your score!
 keywords: farm, farming, characters, duelists, legendary duelists, high scores, how to farm, farm decks
 permalink: /farming/duel-assessment-score/
-hide: true
 ---
 
 {% include heading.html title=page.title author=page.author %}

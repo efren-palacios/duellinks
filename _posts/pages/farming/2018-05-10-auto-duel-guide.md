@@ -30,7 +30,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 
 <br>
 
-##### **Masked HERO Deck by Jonesy9027**
+##### **Masked HERO Deck by {#Jonesy9027}**
 
 [deck:Skill Not Set](Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Decider;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Celestial;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Destiny HERO - Drilldark;Mask Change; Mask Change; Mask Change;Enemy Controller;Enemy Controller;Gravity Lash;Gravity Lash;Gravity Lash;Mirror Wall; Mirror Wall; D-Fusion)
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki;Destiny HERO - Dangerous; Vision HERO Trinity)
@@ -45,7 +45,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 
 <br>
 
-##### **Basic Beatdown by Jonesy9027**
+##### **Basic Beatdown by {#Jonesy9027}**
 
 [deck:Skill Not Set](Evilswarm Salamandra;Evilswarm Salamandra;Evilswarm Salamandra; D.D. Survivor; Genex Ally Powercell;Genex Ally Powercell;Trance the Magic Swordsman; Vorse Raider;Vorse Raider;Vorse Raider; Mystic Plasma Zone; Super Rush Headlong;Super Rush Headlong; Enemy Controller;Enemy Controller; Gravity Lash;Gravity Lash; Wall of Disruption; Wall of Disruption; Metalmorph)
 
@@ -76,7 +76,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 
 <br>
 
-##### **Vanilla Beatdown by Freeska**
+##### **Vanilla Beatdown by {#Freeska}**
 
 [deck:Balance](Exarion Universe;Exarion Universe;Enraged Battle Ox; Gladiator Beast Andal;Gladiator Beast Andal;Gladiator Beast Andal;Vorse Raider;Vorse Raider; Rush Recklessly; Rush Recklessly; Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Enemy Controller;Enemy Controller;Enemy Controller; Fire Formation - Tensu;Fire Formation - Tensu;Fire Formation - Tensu)
 
@@ -96,7 +96,7 @@ These decks do not try to be free to play decks. They were made with a full sele
 [deck](Masked HERO Anki;Masked HERO Anki;Masked HERO Anki)
 
 ##### Replacement Options:  
-- {Wall of Disruption}
+- {Mirror Wall}
 - {Destiny HERO - Dangerous}
 - {Super Rush Headlong}
 
@@ -155,7 +155,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 <br>
 
-##### **Sylvan Deck by Jonesy9027**
+##### **Sylvan Deck by {#Jonesy9027}**
 
 [deck:Restart](Sylvan Komushroomo; Sylvan Komushroomo; Sylvan Komushroomo; Rose Lover; Rose Lover; Rose Lover; Sylvan Hermitree; World Carrotweight Champion; World Carrotweight Champion; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Marshalleaf; Sylvan Guardioak; Sylvan Guardioak; Sylvan Guardioak; Enemy Controller; Enemy Controller;Enemy Controller; Gravity Lash; Gravity Lash)
 
@@ -167,7 +167,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 <br>
 
-##### **My Monster Cards by Jadehex**
+##### **My Monster Cards by {#Jadehex}**
 
 [deck:My Monster Cards](Skilled Dark Magician;Gladiator Beast Andal;Insect Knight;Archfiend Soldier;Luster Dragon; Neo Bug; Rush Recklessly;Rush Recklessly;Rush Recklessly;Super Rush Headlong;Super Rush Headlong;Super Rush Headlong;Enemy Controller;Enemy Controller;Mirror Wall;Mirror Wall;Mirror Wall;Wall of Disruption;Wall of Disruption;Wall of Disruption;)
 
@@ -180,7 +180,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 <br>
 
-##### **Vanilla Beatdown by Jonesy9027**
+##### **Vanilla Beatdown by {#Jonesy9027}**
 
 [deck:Skill Not Set](Trance the Magic Swordsman;Mad Dog of Darkness;Insect Knight;Insect Knight;Insect Knight;Alien Shocktrooper;Alien Shocktrooper;Alien Shocktrooper;Archfiend Soldier;Archfiend Soldier;Archfiend Soldier;Gem-Knight Garnet;Gem-Knight Garnet;Gem-Knight Garnet;Gravity Lash;Gravity Lash;Gravity Lash;Metalmorph;Curse of Anubis; Windstorm of Etaqua)
 
@@ -196,7 +196,7 @@ These decks were made with Free to Play players in mind. There are a limited sel
 
 <br>
 
-##### **Auto Alien by Jonesy9027**
+##### **Auto Alien by {#Jonesy9027}**
 
 [deck:Skill Not Set](Alien Overlord;Alien Overlord;Alien Telepath;Alien Telepath;Alien Telepath;Alien Warrior;Alien Warrior;Alien Warrior;Alien Kid;Alien Kid;Alien Kid;Enemy Controller;Enemy Controller;Gravity Lash;Gravity Lash; \"A\" Cell Recombination Device;\"A\" Cell Recombination Device;\"A\" Cell Recombination Device;Metalmorph; Windstorm of Etaqua)
 

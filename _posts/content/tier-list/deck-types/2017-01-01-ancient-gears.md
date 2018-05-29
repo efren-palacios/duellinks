@@ -64,4 +64,3 @@ The small core means every other card in the deck is interchangeable and the cho
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

@@ -39,7 +39,7 @@ hide: true
 
 ### Farm Decks
 
-#### Level 40 Ra Farm - created by Jadehex 
+#### Level 40 Ra Farm - created by {#Jadehex} 
 *Last updated: 04/17/2018*
 
 [deck:Destiny Draw](The Winged Dragon of Ra; Kiseitai; Kiseitai;Kiseitai; Planet Pathfinder;Cosmic Compass; Emergency Provisions; Anti-Magic Arrows;Double Summon;  Supremacy Berry; Supremacy Berry;Temple of the Mind's Eye;Temple of the Mind's Eye;Temple of the Mind's Eye;Good Goblin Housekeeping;Good Goblin Housekeeping;Good Goblin Housekeeping;Massivemorph; Massivemorph; Massivemorph)
@@ -65,7 +65,7 @@ hide: true
 
 ---
 
-#### Level 40 Skill-less Farm - created by Jadehex  
+#### Level 40 Skill-less Farm - created by {#Jadehex}  
 *Last updated: 04/17/2018*
 
 (7,500 Base [Duel Assessment](/farming/duel-assessment-score/))
@@ -101,7 +101,7 @@ hide: true
 
 ---
  
-#### Level 40 Farm - created by Freeska
+#### Level 40 Farm - credit: {#Freeska}
 
 (7,600 Base [Duel Assessment](/farming/duel-assessment-score/))
 
@@ -129,7 +129,7 @@ hide: true
 
 ---
 
-**Level 40 Farm - created by Freeska**
+**Level 40 Farm - credit: {#Freeska}**
 
 7,900 Base [Duel Assessment](/farming/duel-assessment-score/)
 

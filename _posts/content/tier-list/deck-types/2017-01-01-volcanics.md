@@ -59,4 +59,3 @@ Volcanics is an archetype which focuses on constant monster removal through the 
 
 {% endunless %}
 {% include decktype_decks.html deckType=page.deck-type %}
-{% include top-decks-season-archive.html %}

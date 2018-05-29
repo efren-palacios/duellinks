@@ -2,7 +2,7 @@
 layout: blog
 date: 2018-03-05
 title: Syrus Truesdale Roaming Event
-author: Yami Hammy & Freeska
+author: Yami Hammy; Freeska
 image: /img/content/events/2018/03/syrus-truesdale-roaming-event/thumbnail.jpg
 category: event
 ended: true
@@ -16,7 +16,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ![Banner](/img/content/events/2018/03/syrus-truesdale-roaming-event/banner.png)
 
-**Last updated March 5th - Added farm decks**
+##### Updated March 5, 2018 - [Added Farm Decks](#farm-decks)
 
 [slider](/img/content/events/2018/03/syrus-truesdale-roaming-event/slider.jpg)
 
@@ -55,7 +55,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ### Farm Decks 
 
-#### Level 40 Farm - created by Jadehex
+#### Level 40 Farm - created by {#Jadehex}
 
 [deck: Restart](Saffira, Queen of Dragons; Saffira, Queen of Dragons; Saffira, Queen of Dragons; Cyber Angel Idaten; Cyber Angel Benten; Cyber Angel Benten; Senju of the Thousand Hands; Senju of the Thousand Hands; Senju of the Thousand Hands; Gravekeeper's Vassal; Cyber Petit Angel; Anti-Magic Arrows; Union Attack; Union Attack; Hymn of Light; Hymn of Light; Machine Angel Ritual; Sprite's Blessing; Sprite's Blessing;Secret Pass to the Treasures)
 
@@ -107,7 +107,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ---
 
-#### Level 40 Farm - created by Jadehex
+#### Level 40 Farm - created by {#Jadehex}
 
 [deck: Restart](Red-Eyes Wyvern; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Red-Eyes Zombie Dragon; Gravekeeper's Vassal; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Red-Eyes Black Dragon; Anti-Magic Arrows; Red-Eyes Insight; Red-Eyes Insight; Red-Eyes Insight; Union Attack; Union Attack; Cards of the Red Stone; Cards of the Red Stone; Cards of the Red Stone; Secret Pass to the Treasures; Red-Eyes Spirit; Red-Eyes Spirit)
 
@@ -130,7 +130,7 @@ permalink: /events/march-2018/syrus-truesdale-roaming-event/
 
 ---
 
-#### Level 40 Farm - created by Freeska
+#### Level 40 Farm - credit: {#Freeska}
 
 [deck: Reinforcements](The Legendary Fisherman; Thunder Dragon; Thunder Dragon; Thunder Dragon; Gravekeeper's Vassal; Crystal Seer; Crystal Seer; Anti-Magic Arrows; A Legendary Ocean; A Legendary Ocean; A Legendary Ocean; Union Attack; Polymerization; Magical Mallet; Magical Mallet; Magical Mallet; Secret Pass to the Treasures; Spirit Barrier; Spirit Barrier; Spirit Barrier; Twin-Headed Thunder Dragon)
 
