@@ -90,7 +90,9 @@ function InitializeViewModel() {
                     return this.nameSearch.indexOf(lowerSearchTerm) != -1
                 });
                 var descResults = $(DeckSubmissionViewModel.cards()).filter(function () {
-                    return this.description.indexOf(lowerSearchTerm) != -1
+                    if(this.description!=null){
+                        return this.description.indexOf(lowerSearchTerm) != -1
+                    }
                 });
                 var mergedResults = $.unique($.merge(nameResults, descResults));
                 DeckSubmissionViewModel.filteredCards(mergedResults.slice(0, 20));
