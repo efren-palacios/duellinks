@@ -242,7 +242,7 @@ DiscordAPICall.prototype.processUserRoles = function(isKogAction, isNotKogAction
 
 var discordUser = new DiscordUser("", "", []);
 var cookieManager = new ProfileCookieManager("discord-id");
-var apiManager = new DiscordAPICall('NDQ4MzcwMTExMzg5MTA2MTc3.DeVIwg.gTxYOSsI0tnGREqZGoEb-YurWg4', '303175246268334082');
+var apiManager = new DiscordAPICall('', '');
 
 $(function ()
 {
