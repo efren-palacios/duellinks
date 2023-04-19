@@ -18,9 +18,9 @@
   "homepage": "https://github.com/orctamer/duellinks#readme",
   "devDependencies": {
     "autoprefixer": "^8.3.0",
-    "browser-sync": "^2.23.7",
+    "browser-sync": "^2.29.1",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.9.3",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^7.0.1",
